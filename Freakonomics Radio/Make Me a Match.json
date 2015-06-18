@@ -1,0 +1,1373 @@
+{
+  "episode_title": "Make Me a Match",
+  "pubdate": "2015-06-18T03:00:00+00:00",
+  "description": "<p>Sure, markets generally work well. But for some transactions -- like school admissions and organ transplants -- money alone can't solve the problem. That's when you need a market-design wizard like Al Roth.</p><img src=\"http://feeds.feedburner.com/~r/freakonomicsradio/~4/3BJSlMFyowM\" height=\"1\" width=\"1\" alt=\"\"/>",
+  "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/5QLu-DQznho/freakonomics_podcast061715.mp3",
+  "segments": {
+    "0": {
+      "requestid": "3710dbec-b861-4799-8ae4-3e1628aa7b06",
+      "confidence": "0.4378815",
+      "timestamp": 0,
+      "content": "hey I'm al off and I'm"
+    },
+    "10": {
+      "requestid": "917af56d-687f-44db-8739-e2d9ad5f65ba",
+      "confidence": "0.5836665",
+      "timestamp": 10,
+      "content": "so we can I mix of stamford for many years rosta taught economics apartment but he and his wife who is a human factors engineer adriel ok"
+    },
+    "20": {
+      "requestid": "1ef6fb71-400a-4410-b159-a6518f66949d",
+      "confidence": "0.6405331",
+      "timestamp": 20,
+      "content": "did we had just moved into a new apartment we could move the stamford in september 2012 shortly thereafter and October 15th something memory"
+    },
+    "30": {
+      "requestid": "8283a91a-8999-4deb-9b66-786345edcd08",
+      "confidence": "0.6176302",
+      "timestamp": 30,
+      "content": "happened and I'm my wife woke up around 3 in the morning and said the phones ringing and I woke up and it wasn't raining anymore will meet one phone"
+    },
+    "40": {
+      "requestid": "a3d55435-71b6-4c7a-a2b1-1ae1c3a3be6f",
+      "confidence": "0.5819305",
+      "timestamp": 40,
+      "content": "pointers in your office with downstairs on saturn's not ringing back to sleep and she went down and got the phone then it started raining again attendant a good thing bae bae call you back"
+    },
+    "50": {
+      "requestid": "3c80d662-b104-4e0b-b405-235f546836fc",
+      "confidence": "0.5631249",
+      "timestamp": 50,
+      "content": "go down there last night and it was that the nobel committee ross have to sleep with informed that he wrong with boyd shop"
+    },
+    "60": {
+      "requestid": "f0cda916-62eb-4275-be74-438065a77fe7",
+      "confidence": "0.7472224",
+      "timestamp": 60,
+      "content": "we have won the bank of sweden prize in economic sciences in memory of alfred nobel also known as the nobel prize in economics"
+    },
+    "70": {
+      "requestid": "721efe6d-72fd-4971-99a2-7750784a2a23",
+      "confidence": "0.6289021",
+      "timestamp": 70,
+      "content": "did you think you had a chance um but not hard to answer that humbly soak I knew that I was on the big blue"
+    },
+    "80": {
+      "requestid": "184a6f2e-d298-4be6-a2fd-683bbd51242b",
+      "confidence": "0.6807728",
+      "timestamp": 80,
+      "content": "the people who if I won a nobel prize it wouldn't cause the nobel committee to be embarrassing to the newspaper the next day would not say craziness in stock"
+    },
+    "90": {
+      "requestid": "dee80d37-6fb3-4fd6-83d0-cce020b7c17c",
+      "confidence": "0.721639",
+      "timestamp": 90,
+      "content": "but but there are many many people in that category so indeed we had we were asleep we were not waiting for a call and get an acre"
+    },
+    "100": {
+      "requestid": "fe269096-df46-4dda-bb60-6b45e266d9d2",
+      "confidence": "0.6712962",
+      "timestamp": 100,
+      "content": "all because one of the things they're concerned about the have a lot of experience with this is convincing you that it's not a prank so the person for spoke to me said"
+    },
+    "110": {
+      "requestid": "fb23793a-44b9-4bf9-ac25-7da483315a40",
+      "confidence": "0.6489871",
+      "timestamp": 110,
+      "content": "can you congratulations you won the nobel prize um many said and I'm here with 6 of my colleagues in 2 of them know you and they're gonna talk to now to persuade you that after this is for"
+    },
+    "120": {
+      "requestid": "e514644b-cb34-4637-a93b-ed0e58aec066",
+      "confidence": "0.6131262",
+      "timestamp": 120,
+      "content": "real friend you letter in very elaborate prank exactly but but they call you off my 61 half an hour this can happen um get ready"
+    },
+    "130": {
+      "requestid": "9905fc0f-1551-433d-8be5-495f68f15033",
+      "confidence": "0.5817881",
+      "timestamp": 130,
+      "content": "I'm going to shower and get dressed because we think we could sit with them tonight that will do that again all day about the rest of day like fun well so at at 5 minutes 2 phone"
+    },
+    "140": {
+      "requestid": "ebdba73d-15c9-4712-884a-97fafd04ccd7",
+      "confidence": "0.565146",
+      "timestamp": 140,
+      "content": "how's your back and again after I guess contended you shouldn't appear confused on the phone so what what she said that point your browser today to the note"
+    },
+    "150": {
+      "requestid": "d2903cf5-5452-4c1f-9767-da08c20902cb",
+      "confidence": "0.6396115",
+      "timestamp": 150,
+      "content": "also I can you will see your name being announced and then we will come online in have a pass code for telephone so by the time that happened I remember stanford press office"
+    },
+    "160": {
+      "requestid": "1f523fc5-b84b-46e8-ac76-34daa0965468",
+      "confidence": "0.7103597",
+      "timestamp": 160,
+      "content": "fortunately the sender on our house at 4 AM and started fielding calls from journalist will it take pressure off is ready now are you ready and I get phone and I get back question"
+    },
+    "170": {
+      "requestid": "c0cca86b-c774-4f84-b3cd-b62ac0221cbc",
+      "confidence": "0.6570311",
+      "timestamp": 170,
+      "content": "from someone and I'll speak to many many people apparently I'm mostly out of them very seriously but I pulled a joke or 2 that I had intended to tell that people would say to me who I heard you on npr"
+    },
+    "180": {
+      "requestid": "256d5928-6dd8-4cf4-b88f-ba940b4f229d",
+      "confidence": "0.5674843",
+      "timestamp": 180,
+      "content": "are you said something was <profanity>bad ass</profanity> butt and then it was a press conference and then at 11 I have a class so people single surprise but no but we end of the best conference now"
+    },
+    "190": {
+      "requestid": "54530fe4-a57e-4562-a47a-7432d7a07d09",
+      "confidence": "0.571435",
+      "timestamp": 190,
+      "content": "if this was a surprise and it was a monday in a great run my password hint travel distance by then I simply have it was champagne in a very nice room here yet"
+    },
+    "200": {
+      "requestid": "e6b58f6c-0582-4b28-b9f4-594243321ce7",
+      "confidence": "0.5357188",
+      "timestamp": 200,
+      "content": "what kinda work did elros dutil and a nobel prize in economics mount not the kind of work that typically with a belt"
+    },
+    "210": {
+      "requestid": "e0e247cf-8a3e-4597-8ba1-44aac0fde350",
+      "confidence": "0.7165359",
+      "timestamp": 210,
+      "content": "kehoes help people who need a kidney transplant find a doner sup new doctors find the first got it helps high school students in new york city find"
+    },
+    "220": {
+      "requestid": "457f6e39-b8df-4fe4-bf18-62e840285af6",
+      "confidence": "0.5307888",
+      "timestamp": 220,
+      "content": "the right high school even though ross himself grew up in new york city dropped out I was the you know who are ungrateful soon"
+    },
+    "230": {
+      "requestid": "4505d885-b0a0-4328-849c-66206d1f8968",
+      "confidence": "0.5489163",
+      "timestamp": 230,
+      "content": "if you didn't appreciate my teachers were trying to do but you should tell your listeners they should complete"
+    },
+    "240": {
+      "requestid": "714282b0-ec80-44f8-a5bb-878e03b45860",
+      "timestamp": 240,
+      "content": ""
+    },
+    "250": {
+      "requestid": "688211a2-f3dd-4989-a4c0-c33b4bb32399",
+      "confidence": "0.5036793",
+      "timestamp": 250,
+      "content": "from wmic biscuits freakonomics radio podcast explores inside of everything here"
+    },
+    "260": {
+      "requestid": "a7860cab-5f6e-4933-b2b5-d63caf4effd3",
+      "timestamp": 260,
+      "content": ""
+    },
+    "270": {
+      "requestid": "1ee946af-3129-4b5b-beeb-5ef13f0ffbb9",
+      "confidence": "0.7479971",
+      "timestamp": 270,
+      "content": "I recently visited palo alto california home to stanford university in a few other things to talk with audra he"
+    },
+    "280": {
+      "requestid": "cbefccfb-7814-458d-9659-551ea88f1e05",
+      "confidence": "0.7617828",
+      "timestamp": 280,
+      "content": "is as you heard high school dropout don't worry did going to college many many years of college not finishing high school is not the only odd thing about out"
+    },
+    "290": {
+      "requestid": "d17de6e5-0fe8-43e9-82f4-4699346adf28",
+      "confidence": "0.8004195",
+      "timestamp": 290,
+      "content": "rock as a nobel laureate consider this even though he won the prize in economics and even though he's a professor of economics he is not technically"
+    },
+    "300": {
+      "requestid": "47afd421-5736-4a4d-8933-960de6247311",
+      "confidence": "0.5131899",
+      "timestamp": 300,
+      "content": "I'm gonna miss me my degrees in engineering and I would pay points the map fest with mark and sign caldia comma cta's engineer haha yeah so I think of myself"
+    },
+    "310": {
+      "requestid": "d1e7e804-ffca-4bab-a385-349451d47ae8",
+      "confidence": "0.6104032",
+      "timestamp": 310,
+      "content": "is something like an engineer I'd like to be an engineer a manifesto of market design rock called the nobel committee citation noted him here"
+    },
+    "320": {
+      "requestid": "12caac2a-fc72-4700-a002-f2e387a7f879",
+      "confidence": "0.7090949",
+      "timestamp": 320,
+      "content": "its people allocations and the practice of marketside so what is mark cynan why can it when you a nobel prize market designers and"
+    },
+    "330": {
+      "requestid": "270b1abf-5bc3-4171-81f1-ac3b230eee38",
+      "confidence": "0.8138061",
+      "timestamp": 330,
+      "content": "ancient human activity in win win when you look at the distribution of stone tools around the middle eastern europe you find that long before the"
+    },
+    "340": {
+      "requestid": "aa866f9e-45b6-4a4a-a913-827768f91887",
+      "confidence": "0.7564149",
+      "timestamp": 340,
+      "content": "vention of agriculture stone tools were moving thousands of miles from where they were quarried and made and that's a sign that they will markets for stone tools that were wasted"
+    },
+    "350": {
+      "requestid": "a9bcbcbe-5376-4174-9699-2cb37281df2a",
+      "confidence": "0.6540406",
+      "timestamp": 350,
+      "content": "meet and trade things and we don't really know much about this market but the stone tools which are very durable are evidence that our kids are older than agriculture bye"
+    },
+    "360": {
+      "requestid": "46285b52-1762-48cd-aff3-1d0132ca1e3f",
+      "confidence": "0.7262999",
+      "timestamp": 360,
+      "content": "the the stone age man who traded those stone tools and weapons had to make market on how they had to make him safe they had to"
+    },
+    "370": {
+      "requestid": "d9362a9e-8c63-4aee-b9c1-c2766b4c711b",
+      "confidence": "0.6954654",
+      "timestamp": 370,
+      "content": "feel confident that they could bring the things they would trade for the stone tools in AP rob bye bye guys with stone accents who would take their stuff and backed been"
+    },
+    "380": {
+      "requestid": "0cf5ddcf-9359-4b14-8928-cf89ae1944ab",
+      "confidence": "0.7065068",
+      "timestamp": 380,
+      "content": "a big part of pocket designed for long time is is making market safe today we we think about fraud and identity theft and securing your credit card but it was a time when kings daughter"
+    },
+    "390": {
+      "requestid": "245ffafe-eb02-4261-9170-30cfd133448b",
+      "confidence": "0.7079873",
+      "timestamp": 390,
+      "content": "out securing the words against highwaymen she wouldn't be way late on your way to and from the market so if if I were the king of england I wanted that market today"
+    },
+    "400": {
+      "requestid": "490dfc4b-0e89-443c-ae7a-dbf27e2aa1cb",
+      "confidence": "0.7737682",
+      "timestamp": 400,
+      "content": "I have to make sure that that the roads are safe to get to the market l ron said the written a book really wonderful book I should say it cold who gets what and why"
+    },
+    "410": {
+      "requestid": "0e253c8a-9c36-4e18-8dab-6553b1ee9e22",
+      "confidence": "0.6327012",
+      "timestamp": 410,
+      "content": "u economix matchmaking in market design youth market design is is ross says in ancient human activity weather like in need to get involved after all were too"
+    },
+    "420": {
+      "requestid": "cdc15945-6fc4-4d63-a595-c2ad7d87fc33",
+      "confidence": "0.7222589",
+      "timestamp": 420,
+      "content": "old debt markets generally organize themselves right there sellers and buyers supply meeting demand with price bing the glue that holds off"
+    },
+    "430": {
+      "requestid": "d28c36a6-1332-4ff4-8cd9-257a537334b6",
+      "confidence": "0.7559478",
+      "timestamp": 430,
+      "content": "get in this regard the invention of money was a big breakthrough order is very hard because you need a double consonant apart"
+    },
+    "440": {
+      "requestid": "134c7083-98a0-47bc-9f11-eb12bcb47c42",
+      "confidence": "0.8026736",
+      "timestamp": 440,
+      "content": "do you need to find someone who has with you want and who wants what you have right you happen to have salli happen have well and we each want with the other want or we find a third party right"
+    },
+    "450": {
+      "requestid": "bd86adf0-a006-4dcf-8662-2fc82f2eeb60",
+      "confidence": "0.7687788",
+      "timestamp": 450,
+      "content": "also finding the third party starts getting you involved in other things in court money is a great market do an invention for helping you find third parties because you can sell what you have for money"
+    },
+    "460": {
+      "requestid": "ee2346cf-f868-4a3b-91d7-938a237daa19",
+      "confidence": "0.7599021",
+      "timestamp": 460,
+      "content": "and go look for what you want but there are some transactions entire realms of transactions really where money cannot do what does in a typical market works for whatever reason"
+    },
+    "470": {
+      "requestid": "0e8f46c5-87ff-4e45-b106-2f4ae1498aa4",
+      "confidence": "0.7664555",
+      "timestamp": 470,
+      "content": "supply is not allowed to naturally meet demand with price as the arbiter and that is were so when I call rob comes in handy the economist as engineer"
+    },
+    "480": {
+      "requestid": "901b3c04-ca44-4926-8e7b-0b4fc87e1ae4",
+      "confidence": "0.7801238",
+      "timestamp": 480,
+      "content": "because it is a typical markets have to be set up differently that to be helped along this is sometimes called a matching market matching market to market square"
+    },
+    "490": {
+      "requestid": "6e8fb17b-54da-4fc3-8962-22dbed5ba93a",
+      "confidence": "0.8295479",
+      "timestamp": 490,
+      "content": "money prices don't do all the work and some of the market I've studied we don't like prices do any of the work and I like to think"
+    },
+    "500": {
+      "requestid": "bd473610-4bc8-49cb-a857-13680cabb94a",
+      "confidence": "0.6748973",
+      "timestamp": 500,
+      "content": "matching market is market where you can't just choose what you want even if you can afford it you also have to be chosen sugga pocket so I kept getting into"
+    },
+    "510": {
+      "requestid": "d4df5cff-2cd3-47d9-8fa1-d1db12e0ff63",
+      "confidence": "0.7238612",
+      "timestamp": 510,
+      "content": "college is like that those things cost money but money doesn't decide to get into stanford stanford doesn't raise the tuition until supply equals demand interest"
+    },
+    "520": {
+      "requestid": "9bab747f-42ab-402b-ad5c-97f65e76eb14",
+      "confidence": "0.7236401",
+      "timestamp": 520,
+      "content": "freshman wanna come to to fill the seats stanford is expensive but it it's cheap enough that a lot of people would like to come to stamford and so stamp"
+    },
+    "530": {
+      "requestid": "48fadbe0-a226-469a-ae41-87a5dfae54ca",
+      "confidence": "0.6645709",
+      "timestamp": 530,
+      "content": "is this whole other set of mark and executions applications in admissions and hub and then you can just come to stanford get to be admitted with about this prob"
+    },
+    "540": {
+      "requestid": "34bfcc70-04b8-48e6-9878-b9cd35986307",
+      "confidence": "0.8203925",
+      "timestamp": 540,
+      "content": "which hour of has work done directly what is the best way for hospitals to hire newly minted doctors in those doctors define the most appropriate hospital for them"
+    },
+    "550": {
+      "requestid": "182a97e6-8321-48d0-8713-dc4ef0bdd45d",
+      "confidence": "0.7730575",
+      "timestamp": 550,
+      "content": "work in the current system is called the national resident matching program to I got involved in helping etrangere crisis in the 1990s but"
+    },
+    "560": {
+      "requestid": "aeeff7c4-07b8-4f24-affb-bd5780f640f7",
+      "confidence": "0.7921841",
+      "timestamp": 560,
+      "content": "have to go back to 19 hundreds to understand how doctors get jobs in the 19 hundreds is around the time when the medical degrees as we know them BMD degree"
+    },
+    "570": {
+      "requestid": "67e15f3d-40a3-4b71-982f-c13e1ad0944a",
+      "confidence": "0.7023779",
+      "timestamp": 570,
+      "content": "became the dominant medical degree in about 1900 club between internship again so instead of graduating from medical school in a meeting to be getting to"
+    },
+    "580": {
+      "requestid": "b0862f72-f122-4163-87b1-4459c5c370d6",
+      "confidence": "0.6417921",
+      "timestamp": 580,
+      "content": "practice medicine as we think I know where that always bothered me that you should be good at it by now I'm at the first job that the stand"
+    },
+    "590": {
+      "requestid": "6d711964-2f2a-4b76-8736-de0a86a9faad",
+      "confidence": "0.7074043",
+      "timestamp": 590,
+      "content": "first job for medical badge it became a list called internship in is today called a residency I am at a job where you work at hospital and take care patient and"
+    },
+    "600": {
+      "requestid": "2a5b0c69-8a85-466f-9300-0c3134052799",
+      "confidence": "0.7183092",
+      "timestamp": 600,
+      "content": "the supervision of a more experienced attending physician and it's a giant part of that professional education of doctors soda very important doctors"
+    },
+    "610": {
+      "requestid": "18b84e6b-e494-474e-ab69-d7ef0daca26c",
+      "confidence": "0.7528044",
+      "timestamp": 610,
+      "content": "where they get their internship and residency and it's very important hospital because the interns and residents are I'm very important part of labor"
+    },
+    "620": {
+      "requestid": "0efce83f-6a1e-4db1-88e9-3ae9f19d0f5d",
+      "confidence": "0.7614508",
+      "timestamp": 620,
+      "content": "forced of hospital is ross tells it there was an arms race between hospitals for the best future doctors they began grabbing medical students earlier and earlier sometimes"
+    },
+    "630": {
+      "requestid": "3c66cf77-4503-4cd3-b266-937591e6def7",
+      "confidence": "0.8207877",
+      "timestamp": 630,
+      "content": "years before graduation and when you try hiring people 2 years in advance it's hard to tell who the good doctors will be its also hard for the doctors to tell what kind of jobs they want"
+    },
+    "640": {
+      "requestid": "5c9ecd53-b4c8-4fa6-9e80-8f4039c5787d",
+      "confidence": "0.8107648",
+      "timestamp": 640,
+      "content": "medical schools intervened in 1952 bay created the national resident matching program they developed admarketplace bad as before"
+    },
+    "650": {
+      "requestid": "e820f3e9-a5d6-4ecc-9b78-f4c046040b41",
+      "confidence": "0.6385623",
+      "timestamp": 650,
+      "content": "it has a 5 till today although my colleagues and I have helped my fights at 7 AM with that form was you go I need to be using you find out of"
+    },
+    "660": {
+      "requestid": "d2f90f3d-2465-406c-afbf-da0dc30482d2",
+      "confidence": "0.78884",
+      "timestamp": 660,
+      "content": "salary in the working conditions and go to various jobs that but you might be offered a man instead of working the phones in may be getting an offer that is have to take it"
+    },
+    "670": {
+      "requestid": "5bc482a9-454e-43f3-8a1f-fa37d4accf87",
+      "confidence": "0.705474",
+      "timestamp": 670,
+      "content": "yes or no right now on the phone would you do with you you consider in advance which job she would like and you smell rank order preference this would be my first choice of the dropped a country that"
+    },
+    "680": {
+      "requestid": "5c15226d-72f0-4440-be0b-0562dfbaa9ab",
+      "confidence": "0.6173511",
+      "timestamp": 680,
+      "content": "my second richest actor in the jobs do the same thing the hospital visiting programs the same thing I'm in a match is made in a centralized clearing house by the 1990s"
+    },
+    "690": {
+      "requestid": "d2cab1bf-d204-4816-a48c-c60fd477aa0d",
+      "confidence": "0.7735988",
+      "timestamp": 690,
+      "content": "the system was showing strain some people thought hospitals had too much leverage over the residents also by now there a lot more female medical students some of whom had a"
+    },
+    "700": {
+      "requestid": "bbabf8d6-2946-44f0-8bc8-50029c5afc90",
+      "confidence": "0.8204649",
+      "timestamp": 700,
+      "content": "if another who is also a medical student in such a couple typically wanted to get a residency in the same hospital where is in the same region of the matching program"
+    },
+    "710": {
+      "requestid": "7963f448-ac9e-4a7e-88e2-09f2e76d4f53",
+      "confidence": "0.7318729",
+      "timestamp": 710,
+      "content": "can handle that kind of request for those candidates might opt out in 1995 elros was asked to help write an algorithm I could fix these problems"
+    },
+    "720": {
+      "requestid": "5bbf41ef-0b94-45d3-a5f9-ffd215f9f274",
+      "confidence": "0.765487",
+      "timestamp": 720,
+      "content": "yogurt and work well and it now matches more than 20,000 applicants each year it sounds as though um this works pretty well according to"
+    },
+    "730": {
+      "requestid": "7143cd5d-1335-40dd-8ea9-a0f6b4ff03b7",
+      "confidence": "0.7294924",
+      "timestamp": 730,
+      "content": "speak with bob yes most people involved in this scenario are pretty happy with how it works great wealth labor market a stressful for everyone so I think you're overstating how happy"
+    },
+    "740": {
+      "requestid": "1aaa602f-da41-4f62-9e79-000fbca5c687",
+      "confidence": "0.7052558",
+      "timestamp": 740,
+      "content": "people are with the labor market well I think it works but I mean in the medical residency matching particularly set an improvement over what what was before did the vast improvement ok"
+    },
+    "750": {
+      "requestid": "a43b5373-fbe6-476b-821d-a43a775c50be",
+      "confidence": "0.772859",
+      "timestamp": 750,
+      "content": "where is my question really for use this is broader labor markets if if we considered medical residency matching program relatively successful do a procedure at least twice"
+    },
+    "760": {
+      "requestid": "d47a136d-ceb2-4174-a19b-76943d751df6",
+      "confidence": "0.7757965",
+      "timestamp": 760,
+      "content": "did not use more widely in labor markets well but the medical market is an easier one to coordinate them anymore kids because just about everyone becomes"
+    },
+    "770": {
+      "requestid": "03051171-37e7-4d04-85f7-bd6db79144fd",
+      "confidence": "0.8136185",
+      "timestamp": 770,
+      "content": "bailable at the same time when I graduate from medical school and they all start that job there for about the same time in july so it's a market that can easily move people all at the same"
+    },
+    "780": {
+      "requestid": "56a963a9-a7c3-4e72-b49f-fc80a3fc274e",
+      "confidence": "0.6935393",
+      "timestamp": 780,
+      "content": "time where is many markets think about the market for journalists they might be hired at different moments and jobs might be"
+    },
+    "790": {
+      "requestid": "58581667-b7e5-43c2-bc47-a4ebc517d679",
+      "confidence": "0.753939",
+      "timestamp": 790,
+      "content": "available need to be filled and then not be able to wait for you to consider marrying you and your colleagues are pretty brilliant me a mathematical back on that we think you could go with roll"
+    },
+    "800": {
+      "requestid": "72ac1447-1804-4118-8da8-70e8a1baaa73",
+      "confidence": "0.8323773",
+      "timestamp": 800,
+      "content": "ng admissions is it right I mean for all the talk about how modern labor markets have so many mismatches in them so many people doing john today don't really wanna be doing so many corporation"
+    },
+    "810": {
+      "requestid": "73b4cbcb-54d4-44ad-b593-afc4beb8d70f",
+      "confidence": "0.7351047",
+      "timestamp": 810,
+      "content": "all these directly qualified people out there not be able to find people to me to fill them without going through a lot of fun I'm going to a lot of trouble mean hiring"
+    },
+    "820": {
+      "requestid": "e6d1e889-b815-4ee2-9ef2-4339c7fc8524",
+      "confidence": "0.8784476",
+      "timestamp": 820,
+      "content": "this is becoming more and more complicated it seems is one way to address the matching problem but it seemed as though you are complicated math medical foundation might provide"
+    },
+    "830": {
+      "requestid": "be5b0026-49f6-4adf-9ada-cc0216de5df1",
+      "confidence": "0.6502014",
+      "timestamp": 830,
+      "content": "am I ran a <profanity>clit</profanity> a simpler way to address a problem so I'm not sure that's true thing in the one with special things about whether to positions is also there"
+    },
+    "840": {
+      "requestid": "2b720710-00cc-4c2f-ba72-314db09ec7ee",
+      "confidence": "0.6705227",
+      "timestamp": 840,
+      "content": "a different a different place is there sort of similar to each other and if you're thinking about should you be a journalist or an airplane pilot or chef you're dealing with the"
+    },
+    "850": {
+      "requestid": "cf342965-fa64-40b3-b299-ed746d54ea39",
+      "confidence": "0.7965026",
+      "timestamp": 850,
+      "content": "are different jobs with very different employers and it I am one of the things that we do in the medical matches we make all the jobs available"
+    },
+    "860": {
+      "requestid": "d7ccbedf-0f64-407a-8be2-eb21bcaa774c",
+      "confidence": "0.5985609",
+      "timestamp": 860,
+      "content": "the same time that allows you to consider them temperament is over them that hard to do if you're thinking about being a chef for nadama capture the wool I'm curious to know what's a"
+    },
+    "870": {
+      "requestid": "4286a436-0c31-4faf-a93d-ab30a995871a",
+      "confidence": "0.838111",
+      "timestamp": 870,
+      "content": "market or scenario that you looked at before that if a boy I would love to help fix that one but either haven't had a shot or maybe tried and failed way home"
+    },
+    "880": {
+      "requestid": "70b57944-f22b-4145-afe9-fbb211782194",
+      "confidence": "0.5499704",
+      "timestamp": 880,
+      "content": "bug the market for new lawyers might fall into that category and send me the the most fanciest job that bad"
+    },
+    "890": {
+      "requestid": "b0aacf99-98de-44fe-8dd7-cdfd8fa0a9a6",
+      "confidence": "0.6958791",
+      "timestamp": 890,
+      "content": "top graduate to leave law schools get is a lot like a medical weather theater clerkship an appellate judge that market is presently in that kind of situation"
+    },
+    "900": {
+      "requestid": "de79fb1e-c2f2-47c8-be29-5ab5b733015f",
+      "confidence": "0.7430127",
+      "timestamp": 900,
+      "content": "the doctor mark it was around 1940 where jobs are are being contracted far before law school graduation"
+    },
+    "910": {
+      "requestid": "efaa6435-3d6c-4db0-91c2-aa7d38593cf1",
+      "confidence": "0.7637022",
+      "timestamp": 910,
+      "content": "and probably a dozen times in the last 30 years the lawyers have tried to fix this with things like I"
+    },
+    "920": {
+      "requestid": "47af3df2-ba4d-48f4-9c1b-bcc53850698f",
+      "confidence": "0.6247637",
+      "timestamp": 920,
+      "content": "setting date for which you shouldn't iron things like that but it turns out it's hard to make rules the judges have to follow naj is facing charges oral on to them self and I"
+    },
+    "930": {
+      "requestid": "59490367-68b6-4276-80a2-33446a5d1eb8",
+      "confidence": "0.6699987",
+      "timestamp": 930,
+      "content": "can I break the rules they treat if you know someone is in law school now who want to clerkship probably gonna get an offer sometime in their secondary to the middle of this I can you even"
+    },
+    "940": {
+      "requestid": "05ba52f2-0148-42b1-9d32-5402c9dca51a",
+      "confidence": "0.6884996",
+      "timestamp": 940,
+      "content": "efmb or they they are ready to go and emma would it take for you to have the authority to get in there in and redo that market well does the question is"
+    },
+    "950": {
+      "requestid": "9934ec2b-308f-4414-8b4b-e08d5446fe71",
+      "confidence": "0.7705026",
+      "timestamp": 950,
+      "content": "it does is there a desire for judges to coordinate in a way that would control the market so far there hasn't been so you can win on the nobel prizes you want there's a limit"
+    },
+    "960": {
+      "requestid": "abf4dbf3-8b5b-43bd-b073-3e2d6309e7b7",
+      "confidence": "0.6805372",
+      "timestamp": 960,
+      "content": "air powered on the left there is"
+    },
+    "970": {
+      "requestid": "efd71e08-0b11-43e6-8ef9-5fe0a72b8c28",
+      "confidence": "0.7796773",
+      "timestamp": 970,
+      "content": "is complicated as it may seem to match future lawyers or doctors with their players consider it even more complicated match the person who will die"
+    },
+    "980": {
+      "requestid": "0e2ea9fe-1e14-4c73-8b66-7d1a6b9646ae",
+      "confidence": "0.689686",
+      "timestamp": 980,
+      "content": "yes they can get a kidney transplant you can't buy a kidney you can't pay for some is college education to get a kidney can't find my car detailing only right"
+    },
+    "990": {
+      "requestid": "ff2b2f13-b15d-406f-8d63-a64bdb931c15",
+      "confidence": "0.727078",
+      "timestamp": 990,
+      "content": "states to pain in kidney there any kind of valuable consideration that is ruth anne weisman I'm the program manager for the kidney perdes"
+    },
+    "1000": {
+      "requestid": "5838911b-e05e-45ce-9651-add6bf036ac9",
+      "confidence": "0.7505802",
+      "timestamp": 1000,
+      "content": "nation program at united network for organ sharing united network for organ sharing your yunos maintains registry all the people in the us we need in court entrance"
+    },
+    "1010": {
+      "requestid": "7c8757bd-e2fb-4fe0-b261-ce0c29edf0e1",
+      "confidence": "0.833847",
+      "timestamp": 1010,
+      "content": "according to the national kidney foundation out of the roughly 123,000 people waiting in organ transplant more than 100 thousand that roughly 80%"
+    },
+    "1020": {
+      "requestid": "1a3af1f9-2e57-4a1e-9c18-c7e0aac14f63",
+      "confidence": "0.793168",
+      "timestamp": 1020,
+      "content": "need a kidney we don't have enough supply of kidneys available and so the list is ever growing but the number of keys available for transp"
+    },
+    "1030": {
+      "requestid": "52e40bfe-2bb1-4d32-8280-4780711f23a1",
+      "confidence": "0.7553791",
+      "timestamp": 1030,
+      "content": "it is pretty stagnant it's estimated 12 people die each day in the us but waiting for life saving kidney transplant and it's because of leesman says the"
+    },
+    "1040": {
+      "requestid": "40bc28a1-caa3-458d-a8c1-57967a2589b1",
+      "confidence": "0.7714937",
+      "timestamp": 1040,
+      "content": "banned for kidneys keeps rising but the supply hasn't been to meet at the why is that considered were most donated organs come from the primarily come from"
+    },
+    "1050": {
+      "requestid": "644e2a74-242c-4c39-a0b5-7ebd9cbbfd2e",
+      "confidence": "0.7228518",
+      "timestamp": 1050,
+      "content": "abers some people have died but who died and adjust the right circumstances for my brain trauma for instance dual out there still functioning organs to be harvested for"
+    },
+    "1740": {
+      "requestid": "d099bde5-491e-4a02-8d6a-fc675ffa0ecc",
+      "confidence": "0.743183",
+      "timestamp": 1740,
+      "content": "hit or and I can sense the desperation in your guys voices because need you have no clear solution to this problem"
+    },
+    "1750": {
+      "requestid": "3a5b2647-c3a0-488c-895a-f7c8fc14b4f3",
+      "confidence": "0.6808841",
+      "timestamp": 1750,
+      "content": "not even sure at this point what your dispute is other than with yourselves for buying a house next with school yard yet would like buying a house next door"
+    },
+    "1760": {
+      "requestid": "0290c3b6-ef81-4256-a80d-2860c8fb9c7f",
+      "confidence": "0.5486142",
+      "timestamp": 1760,
+      "content": "airport and wanting to put up an airplane fence peoria point netting the house or is laughing in your no airplanes area yeah man 2 point"
+    },
+    "1770": {
+      "requestid": "e75b4131-c73d-4d56-831e-08c6cd5bcc06",
+      "confidence": "0.6356993",
+      "timestamp": 1770,
+      "content": "laser pointers of these kids"
+    },
+    "1780": {
+      "requestid": "2aaee9bf-b285-4631-af02-1748d0e5a599",
+      "confidence": "0.7165667",
+      "timestamp": 1780,
+      "content": "I'm gonna make because of now I'm not clear where your dispute even lies erin tell me tell me what decision you would like me to make"
+    },
+    "1790": {
+      "requestid": "cdc5c994-b175-48f4-9ae0-43f1a0c59d10",
+      "confidence": "0.6944822",
+      "timestamp": 1790,
+      "content": "it's i would like the ability to throw the ball back as they come over if I'm home I don't mind doing it on molly's is asking that we adhere to this pool"
+    },
+    "1800": {
+      "requestid": "665241aa-34a0-4727-884a-28d84620cf3a",
+      "confidence": "0.6341009",
+      "timestamp": 1800,
+      "content": "see together so you know if I'm in the backyard resmi holdall balls but I'm in the bed in the next day and that is our policy through the ball over on benson"
+    },
+    "1810": {
+      "requestid": "b97d9ef3-4a87-4127-a0d1-5067799ca3ac",
+      "confidence": "0.7584801",
+      "timestamp": 1810,
+      "content": "president of the kids that they think they can just get it so she's trying to get us to conform to this policy but my suggestion and mike mike years that he do that"
+    },
+    "1820": {
+      "requestid": "23ef0126-53a6-4ae5-93ae-023cd31ecf11",
+      "confidence": "0.5547364",
+      "timestamp": 1820,
+      "content": "neon the kids are gonna just are gonna water bowls and was gonna keep coming out of 40100 rehome cup of soda at our front door so you know the united states"
+    },
+    "1830": {
+      "requestid": "f9b23745-470a-4dc1-a317-e733be0f2efe",
+      "confidence": "0.6250618",
+      "timestamp": 1830,
+      "content": "yes baby I will wait to hear from me yelling in the balls back at you sure do they love you when you give them the balls back"
+    },
+    "1840": {
+      "requestid": "013c12e7-7cf9-4a01-bd99-6f5cfd78772e",
+      "confidence": "0.4702775",
+      "timestamp": 1840,
+      "content": "has no hitter in different need to get over again so right then it was your love and ears are the differences but it didn't write in mali what do you want me to"
+    },
+    "1850": {
+      "requestid": "a04ea4d1-0959-4b67-8024-d75e0dd40e13",
+      "confidence": "0.6539407",
+      "timestamp": 1850,
+      "content": "side um well aaron will only submit to the authority of an outside figure so I want you to tell him that the ball"
+    },
+    "1860": {
+      "requestid": "81838d18-0e55-4f34-a530-869ed91c857c",
+      "confidence": "0.6791889",
+      "timestamp": 1860,
+      "content": "when is the way to go so I don't have to do that I'm not forget to do the same thing that he's going to do"
+    },
+    "1870": {
+      "requestid": "6f54c668-eea8-494a-b711-0b59cc1377bc",
+      "confidence": "0.7914293",
+      "timestamp": 1870,
+      "content": "do you want to set a policy specifically your policy of the ball been plus sign yes and then you"
+    },
+    "1880": {
+      "requestid": "7e483888-c04e-40ed-a890-3b30f4f53570",
+      "confidence": "0.7392498",
+      "timestamp": 1880,
+      "content": "want him to abide by it and not not go against policy yes until such time as we both realize that policy doesn't work either you gotta come up with a new"
+    },
+    "1890": {
+      "requestid": "02d882f6-7c8c-4e12-8cce-926749d9dbb6",
+      "confidence": "0.5967995",
+      "timestamp": 1890,
+      "content": "I'm sure brea you any pets know I heard everything I need to here in mind going to my"
+    },
+    "1900": {
+      "requestid": "f3f19a8b-b434-4610-9662-ab6540539f96",
+      "confidence": "0.7010441",
+      "timestamp": 1900,
+      "content": "chambers and sit down against the wall anthro pinkie balkans the wall for 100 hours like steve mcqueen great escape not until I come to a decision please"
+    },
+    "1910": {
+      "requestid": "af3e8337-9e02-44d6-9f89-f2f599834618",
+      "confidence": "0.7493342",
+      "timestamp": 1910,
+      "content": "prices judge john hodgman exits the courtroom aaron I wonder if this was a problem not with chilled"
+    },
+    "1920": {
+      "requestid": "18decafd-4cc3-4c1a-85b1-095c53873299",
+      "confidence": "0.8675736",
+      "timestamp": 1920,
+      "content": "and but with drunk people and your neighbors to a bar and not a playground how do you think"
+    },
+    "1930": {
+      "requestid": "187713fa-ef20-4399-9dd6-eeae540c6a01",
+      "confidence": "0.7480422",
+      "timestamp": 1930,
+      "content": "might solve a situation like this"
+    },
+    "1940": {
+      "requestid": "a79e261c-5d41-4bf6-b4c7-cb20f130773d",
+      "confidence": "0.4293619",
+      "timestamp": 1940,
+      "content": "how do I handle it maybe stynes postimees yeah I will I get my best guess is the steinour a pint glass or dare"
+    },
+    "1950": {
+      "requestid": "a0978a77-d3fc-4ef8-bdb6-0a2c5311720b",
+      "confidence": "0.4814268",
+      "timestamp": 1950,
+      "content": "that would be that would be the food list of all you are in a brooklyn bar a buckyball yes sorry yeah I think that are signed"
+    },
+    "1960": {
+      "requestid": "82a2accf-0b05-44a9-b8b6-a08a36d01a24",
+      "confidence": "0.4560312",
+      "timestamp": 1960,
+      "content": "bocci ball there anything up with dennis was coming over I will be at much more girl difficult brabant horse balls in berino when you compare a movie"
+    },
+    "1970": {
+      "requestid": "3503897c-8033-47ca-83d9-867c9c26c059",
+      "confidence": "0.6343666",
+      "timestamp": 1970,
+      "content": "not so bad but I guess I didn't hear anything at home for dinner do we have to move molly have you ever thought about that you mention not having any"
+    },
+    "1980": {
+      "requestid": "97ea81c9-8180-446b-89eb-456b217c45b3",
+      "confidence": "0.56113",
+      "timestamp": 1980,
+      "content": "atabey ever thought about getting some kind of deadly terrifying pat you know when you have like a junkyard dog around are something like having a"
+    },
+    "1990": {
+      "requestid": "3923ca09-ee4b-4d0a-a538-41d0c904a5be",
+      "confidence": "0.449687",
+      "timestamp": 1990,
+      "content": "chenda pathirana an the dahlia yeah I've been having having to listen to and only have like to know"
+    },
+    "2000": {
+      "requestid": "9760d4a1-6677-461e-85d9-ca408dc5c331",
+      "confidence": "0.6899502",
+      "timestamp": 2000,
+      "content": "nano pets 2 kids no pets how do you feel about your chances like a :)"
+    },
+    "2010": {
+      "requestid": "66ad51d8-981a-40b4-81a3-6e36427474fa",
+      "confidence": "0.5326326",
+      "timestamp": 2010,
+      "content": "you"
+    },
+    "2020": {
+      "requestid": "0263798f-55ae-4075-940b-d601e772a9c5",
+      "confidence": "0.6843398",
+      "timestamp": 2020,
+      "content": "oh I know I don't know I'll see how I feel good too extremely bad about it"
+    },
+    "2030": {
+      "requestid": "780883b6-3ff8-49a3-92d5-8f5018b3c77e",
+      "confidence": "0.6030514",
+      "timestamp": 2030,
+      "content": "so your saying that your chances are know by mary there a spectrum yeah I think about is good about my chances I did about to get in the cultural reference"
+    },
+    "2040": {
+      "requestid": "4d1cbefe-8f3f-41f1-9518-d2cc5a5c45d0",
+      "confidence": "0.6771723",
+      "timestamp": 2040,
+      "content": "right well will see what did john hodgman have to say about all this when we come back in just a minute"
+    },
+    "2050": {
+      "requestid": "aa2661f8-710e-4911-a894-5191585fd10b",
+      "confidence": "0.5149992",
+      "timestamp": 2050,
+      "content": "by the way my brother my brother every monday we put out the first ever advice comedy podcast ever case on our podcast"
+    },
+    "2060": {
+      "requestid": "45aecd8e-29f3-493a-810e-844249344851",
+      "confidence": "0.4721759",
+      "timestamp": 2060,
+      "content": "sea scrolls where the hammurabi's code of farkash emmerie it a joke that we invented the first job vaginas every monday I'm at somefun.org"
+    },
+    "2070": {
+      "requestid": "183ff4d1-300e-494b-b93a-8f2d8d17f0df",
+      "confidence": "0.4143766",
+      "timestamp": 2070,
+      "content": "crack arcade game brown just try me history in the making an insight into it all yours for the taking"
+    },
+    "2080": {
+      "requestid": "4fb754ca-adc0-44ac-9863-aa022e4cf40f",
+      "confidence": "0.6496672",
+      "timestamp": 2080,
+      "content": "please rise as judge john hodgman free"
+    },
+    "2090": {
+      "requestid": "71a28d44-9ef0-4964-bd3e-a456939b6f99",
+      "confidence": "0.7610846",
+      "timestamp": 2090,
+      "content": "I can't help it if over heard your conversation about pets with jesse thorn and A&M so I had to adjust my decision"
+    },
+    "2100": {
+      "requestid": "2afde734-b38b-43b4-b960-c5884f2e9e47",
+      "confidence": "0.7810717",
+      "timestamp": 2100,
+      "content": "because obviously the perfect solution is simply to fill your yard up with deadly asps"
+    },
+    "2110": {
+      "requestid": "eb11cf52-63b0-4ff8-ab70-b28107de7a42",
+      "confidence": "0.7527029",
+      "timestamp": 2110,
+      "content": "hurtig it only affected by any of the kids are anthony and cleopatra yeah exactly so given that you're not willing to do fill up your yard with something terrifying to children"
+    },
+    "2120": {
+      "requestid": "5c73050d-f00a-44ae-8b51-c9dfcf4365ab",
+      "confidence": "0.50166",
+      "timestamp": 2120,
+      "content": "I like when it is filling up with public television jackson creek drive tampa florida with episode the front line"
+    },
+    "2130": {
+      "requestid": "78623e5e-e638-457b-aacc-876927b284d6",
+      "confidence": "0.7793319",
+      "timestamp": 2130,
+      "content": "exactly at that be another way to dissuade them from coming into your yard or we have to find more new one solution I mean I feel you guys because this is a"
+    },
+    "2140": {
+      "requestid": "33ab8ddb-2ece-4354-b6de-622ccc0e5c8f",
+      "confidence": "0.8188804",
+      "timestamp": 2140,
+      "content": "perhaps something you should have been able to foresee such as the moving next to an airport women airport airplane noise for you or moving in"
+    },
+    "2150": {
+      "requestid": "ed09d09c-a415-49e4-bdb3-33215a2eaf54",
+      "confidence": "0.7718856",
+      "timestamp": 2150,
+      "content": "into a brand new apartment above a brooklyn theme bar you might get angry at the at the kind of conversations would have to over here both kids were outside"
+    },
+    "2160": {
+      "requestid": "27f3881e-09d5-4951-8d8a-652244c4f271",
+      "confidence": "0.7022865",
+      "timestamp": 2160,
+      "content": "I getting at is smoking their healthy american spirit cigarettes after putting down water park slips in the brooklyn finbarr is this was the foreseeable pro"
+    },
+    "2170": {
+      "requestid": "093bed1b-b41c-454f-ba37-ef6ac390916c",
+      "confidence": "0.7226151",
+      "timestamp": 2170,
+      "content": "blim but you failed for cn so I can appreciate how are your contempt and hatred for these children is essentially projection of your head"
+    },
+    "2180": {
+      "requestid": "b9a37bc6-1c69-4d50-86b1-b343ef745195",
+      "confidence": "0.6465749",
+      "timestamp": 2180,
+      "content": "for your selfs ha and you are also added an interesting time in your life because e eu are you are in your meds"
+    },
+    "2190": {
+      "requestid": "b7aaec6b-8a0d-4f7b-a78b-01e5173c335a",
+      "confidence": "0.7269762",
+      "timestamp": 2190,
+      "content": "mid thirties ok see you are you no longer have the cure sociopathy of childhood which is what these kids are enjoying you"
+    },
+    "2200": {
+      "requestid": "677180ad-7637-4004-8575-7273ba6f48f5",
+      "confidence": "0.7616708",
+      "timestamp": 2200,
+      "content": "are not humans to them do you are you are faced with talking mannequin's to take their things until I get back in or are you prepared to enter"
+    },
+    "2210": {
+      "requestid": "b883013f-2cdf-4962-bdfb-df1b4bd38fc0",
+      "confidence": "0.6862103",
+      "timestamp": 2210,
+      "content": "the endless pool of rage and which swim your neighbors your elderly neighbors have been putting up with this stuff you ty lee for 30 years day at"
+    },
+    "2220": {
+      "requestid": "d3cea736-5efd-4e9d-a6ac-5c0ec2ce45e1",
+      "confidence": "0.7529607",
+      "timestamp": 2220,
+      "content": "you're in this in the empty threats of calling the cops it obviously if the if the cops river called nothing is ever done that the vet would really"
+    },
+    "2230": {
+      "requestid": "18adca0b-fefc-4632-9562-5c9aa2654183",
+      "confidence": "0.8845833",
+      "timestamp": 2230,
+      "content": "you would really need to feel you would really need to become a little bit older and a little less concerned about what other people think of you in order to truly combat boots"
+    },
+    "2240": {
+      "requestid": "d9ab1d54-037a-48bb-a1a4-e8ace61109e8",
+      "confidence": "0.6864543",
+      "timestamp": 2240,
+      "content": "problem by becoming a steve buscemi like monster and simply those balls get over to go over the fence you stabbed with a knife and you throw me a pile"
+    },
+    "2250": {
+      "requestid": "24f67d60-84c5-4e11-9e61-a2c8ae4190f0",
+      "confidence": "0.6828351",
+      "timestamp": 2250,
+      "content": "ustick you know you do this is what you do this is what you do you guys lose both come over the fence do you use with you do you ask your friend you don't hear damn right you"
+    },
+    "2260": {
+      "requestid": "879374fb-f1f3-4473-aa49-601ac22d8703",
+      "confidence": "0.6565423",
+      "timestamp": 2260,
+      "content": "how to fence a series of spikes in every time a ball comes over that fence one of you guys take that ball"
+    },
+    "2270": {
+      "requestid": "7c98d434-d982-4aec-9cf1-f81196c278f7",
+      "confidence": "0.7479457",
+      "timestamp": 2270,
+      "content": "put it on this bike and they see the decapitated heads of their dad every time I play soccer nasa game"
+    },
+    "2280": {
+      "requestid": "473e1a4c-7d3b-4837-ae7b-c1de189df098",
+      "confidence": "0.7126729",
+      "timestamp": 2280,
+      "content": "on stuff that's what I'm talking about that would be that would be something that would be a monstrous policy"
+    },
+    "2290": {
+      "requestid": "ea47b2ef-772d-4886-be99-240fab830a08",
+      "confidence": "0.7432106",
+      "timestamp": 2290,
+      "content": "that would establish you guys as a legend in the neighborhood and on a deep dna level"
+    },
+    "2300": {
+      "requestid": "70b5c02b-6605-4b36-bdd6-85112e9c6404",
+      "confidence": "0.7951569",
+      "timestamp": 2300,
+      "content": "would cause generations of children to learn overtime to even unconsciously hold hold their kicks down"
+    },
+    "2310": {
+      "requestid": "149c0c24-2ef2-4855-ac29-e61d5ca6ddb4",
+      "confidence": "0.6240127",
+      "timestamp": 2310,
+      "content": "left their ball be spiked in your backyard ok that is cold"
+    },
+    "2320": {
+      "requestid": "0f62fcfc-297b-421f-b21d-5eb3b9890baa",
+      "confidence": "0.8169823",
+      "timestamp": 2320,
+      "content": "stuff and you guys making your skin care products in your not AT bars in your thirties with young kids you're not you're not"
+    },
+    "2330": {
+      "requestid": "82708b49-37b8-4c40-9121-36751a63300e",
+      "confidence": "0.6737451",
+      "timestamp": 2330,
+      "content": "ready to become human monsters yet that's why you not able to to settle on a consistent policy with these balls you know"
+    },
+    "2340": {
+      "requestid": "b7b00d07-4e02-4a06-a426-b263116c2bad",
+      "confidence": "0.8618981",
+      "timestamp": 2340,
+      "content": "ready to become monsters and you know what's good for you because the truth is in the city we are all living together densely packed and we all"
+    },
+    "2350": {
+      "requestid": "ab274476-9928-45bd-bb19-895b59c53a4c",
+      "confidence": "0.7843439",
+      "timestamp": 2350,
+      "content": "need to try to recognize each others humanity as much as possible or else to become taraba monsters in an intense living"
+    },
+    "2360": {
+      "requestid": "43b620b9-e8ed-4f65-8543-839c0f976394",
+      "confidence": "0.8067613",
+      "timestamp": 2360,
+      "content": "chew ation like this particular one where there's a lot of neighborhood change going on whether you wanna call it gentrification but if that is appropriate to this specific case or not"
+    },
+    "2370": {
+      "requestid": "fd1420c7-8e7e-48bf-be19-cbf8202ac70c",
+      "confidence": "0.7158869",
+      "timestamp": 2370,
+      "content": "there's clearly tallys lot of churn in brooklyn right now lot of things are changing a lot of unspoken the anxieties our intentions"
+    },
+    "2380": {
+      "requestid": "a920502c-6164-4df8-8433-366b16671293",
+      "confidence": "0.8233133",
+      "timestamp": 2380,
+      "content": "I'm not sure that's biking the heads of your enemies is the kind of escalation that is going to do you well in the long run because your yard is unsecure"
+    },
+    "2390": {
+      "requestid": "72cef919-1e01-4db6-a787-6da686761b27",
+      "confidence": "0.7664502",
+      "timestamp": 2390,
+      "content": "where kids can park or their way into at anytime they want clearly and if there an app but you call the worst case scenario work it is trapped in your backyard like"
+    },
+    "2400": {
+      "requestid": "373f8d94-cc49-4924-8e29-5c38112e0329",
+      "confidence": "0.6662685",
+      "timestamp": 2400,
+      "content": "moose in a in a department store in vermont one winter like that not the worst case scenario at all vengeful children live acts"
+    },
+    "2410": {
+      "requestid": "43dc578f-2662-4333-95b7-109c71ac352e",
+      "confidence": "0.7962986",
+      "timestamp": 2410,
+      "content": "do your backyard met a horror movie so so even though I even though I think of that would be the baddest of the <profanity>bad ass</profanity> responses"
+    },
+    "2420": {
+      "requestid": "80dce6a7-0818-42e3-bcd2-978aa852b3a7",
+      "confidence": "0.7601088",
+      "timestamp": 2420,
+      "content": "I think that you need to find more nuanced response to that knowledge is that these kids are human being just like you are human beings know what is that was what is the approach"
+    },
+    "2430": {
+      "requestid": "e856d2e8-91b7-4aa4-8c30-5d6ca65c81d9",
+      "confidence": "0.73847",
+      "timestamp": 2430,
+      "content": "response I do not agree with you there and that these kids will never learn I think overtime if you spiked his balls are they"
+    },
+    "2440": {
+      "requestid": "971d20a7-bf25-4167-bb6c-496a60dc0975",
+      "confidence": "0.7399216",
+      "timestamp": 2440,
+      "content": "would learn new note kids learn all the time that's why there are you going to that school and issues of behavior like this"
+    },
+    "2450": {
+      "requestid": "c0b917f4-6f55-459e-8bdb-c4620ca88b30",
+      "confidence": "0.8224363",
+      "timestamp": 2450,
+      "content": "I can tell you that would kids learn the most from is consistent policies that make sense and so you're saying sometimes"
+    },
+    "2460": {
+      "requestid": "d19a253e-cf09-4a0b-9a2e-974024d8818a",
+      "confidence": "0.7823804",
+      "timestamp": 2460,
+      "content": "throw them back sometimes I wanna keep them out of spite that's not a consistent policy that's going to help you in the long run"
+    },
+    "2470": {
+      "requestid": "5f8d4fce-72c5-4079-a450-78cd93bb12ba",
+      "confidence": "0.6817263",
+      "timestamp": 2470,
+      "content": "your policy of hiding from children when they kick the ball and holding their stuff and then putting down the street for others dicks"
+    },
+    "2480": {
+      "requestid": "fff2b549-a29c-47bf-a102-204785e673e8",
+      "confidence": "0.7084254",
+      "timestamp": 2480,
+      "content": "go from at unify policy were were affected consistently why I'm not sure it would get the results that you want"
+    },
+    "2490": {
+      "requestid": "0a3223f1-6552-4648-a36a-44632dc7832c",
+      "confidence": "0.800115",
+      "timestamp": 2490,
+      "content": "but between these 2 approaches I believe that there is a consistent policy that can be reached and I would also say that now"
+    },
+    "2500": {
+      "requestid": "837e8e5f-130f-4e1b-a7b6-b48623dc7ac5",
+      "confidence": "0.6583639",
+      "timestamp": 2500,
+      "content": "case in the sense I am going to side with molly that you guys cannot have different policies"
+    },
+    "2510": {
+      "requestid": "1e672291-8bdd-45ef-83f5-f73345e00719",
+      "confidence": "0.8142927",
+      "timestamp": 2510,
+      "content": "between you in the house you have to sit down and figure out what that policy years and have to figure out the policy such that you can explain it to a child"
+    },
+    "2520": {
+      "requestid": "a25bd255-baee-459f-8fa8-60f3b74f895e",
+      "confidence": "0.6501102",
+      "timestamp": 2520,
+      "content": "right because this problem is not just you know and orients nor is it just miger danger to you"
+    },
+    "2530": {
+      "requestid": "25909acc-8fc4-43e4-98c0-0a353a4f420d",
+      "confidence": "0.8064045",
+      "timestamp": 2530,
+      "content": "young children but a potentially legal nightmare as you point out my way should a child into your backyard and become injured in some way"
+    },
+    "2540": {
+      "requestid": "c55f1be7-b178-41bd-be9f-f0467f3f1a8d",
+      "confidence": "0.8156918",
+      "timestamp": 2540,
+      "content": "you know that's the real real real problem so I think that you need to investigate first of all secure in your backyard fermentor"
+    },
+    "2550": {
+      "requestid": "425a4d74-9a83-4bee-8256-9f4d2c56a44d",
+      "confidence": "0.7986969",
+      "timestamp": 2550,
+      "content": "asian because it is an ongoing problem I'm at and I think that you need to investigate the idea of putting up signs"
+    },
+    "2560": {
+      "requestid": "fe504120-f53f-4090-a1e9-83d68afa6b62",
+      "confidence": "0.7520873",
+      "timestamp": 2560,
+      "content": "exterior fence saying for your own safety do not enter this backyard and I think that way"
+    },
+    "2570": {
+      "requestid": "f3672f81-495d-4a1c-bdad-0cd92163142e",
+      "confidence": "0.8631071",
+      "timestamp": 2570,
+      "content": "the balls come over you guys need to have a policy in place as to when to return them because I think we all know the keeping children's balls and bring them into the fire"
+    },
+    "2580": {
+      "requestid": "637dac44-865f-444d-a5df-849b28537dac",
+      "confidence": "0.7757381",
+      "timestamp": 2580,
+      "content": "is not who you are or who you want to be at the game of thrones you're right we all wanna be game of thrones when do you think about how many"
+    },
+    "2590": {
+      "requestid": "579b24cd-7592-48b6-9f32-9cf2ae5d1f7b",
+      "confidence": "0.7323467",
+      "timestamp": 2590,
+      "content": "ribal it was to live in medieval times at every piece of property that you on there or even rent comes with unexpected headaches"
+    },
+    "2600": {
+      "requestid": "d42e9428-6e03-4088-b455-55c6bb5b65e4",
+      "confidence": "0.7037655",
+      "timestamp": 2600,
+      "content": "and with the headaches when they are cockroaches you smash and the win their humans WUI did learn to ignore it or you have to engage"
+    },
+    "2610": {
+      "requestid": "e9fa4084-5033-4fd8-88ef-78ed0d63e371",
+      "confidence": "0.8057522",
+      "timestamp": 2610,
+      "content": "and II think that what you need to do is return the balls to the kids"
+    },
+    "2620": {
+      "requestid": "fe9f9f25-aad6-4e01-ae42-c1831afff7f5",
+      "confidence": "0.7549147",
+      "timestamp": 2620,
+      "content": "hytham don't lecture them just send them back over and I think you need to do what it takes"
+    },
+    "2630": {
+      "requestid": "1e2a32d2-f820-4dab-b5fd-8cabe4230227",
+      "confidence": "0.7179245",
+      "timestamp": 2630,
+      "content": "to secure your enemy I don't wanna say this but you might wanna add some sort of how I mean I don't know bill in burglary proofs"
+    },
+    "2640": {
+      "requestid": "cb45521b-d684-44cd-9bce-204c124f658b",
+      "confidence": "0.8419291",
+      "timestamp": 2640,
+      "content": "your backyard so that it's a deterrent for the kids to come in and I think that when you engage with the kids to say over and over again"
+    },
+    "2650": {
+      "requestid": "e328e031-ba1f-4082-b9ae-545337f80fe9",
+      "confidence": "0.8199042",
+      "timestamp": 2650,
+      "content": "assistant lee please keep the ball down don't come in and get them will get them back to you as soon as we can but that's all we can do and you can put a sign up that says the same thing"
+    },
+    "2660": {
+      "requestid": "6bc47d89-6e7d-4954-876d-7209f5314448",
+      "confidence": "0.8448261",
+      "timestamp": 2660,
+      "content": "and I like to think that overtime but will mili right your problem but IA but I do feel very strongly that way"
+    },
+    "2670": {
+      "requestid": "f4662eff-a222-49e1-8241-c499b4575aa5",
+      "confidence": "0.8008046",
+      "timestamp": 2670,
+      "content": "never systems you put in place that you mutually agreed upon it gonna be consistent and that you both do it consistently over and over and over again"
+    },
+    "2680": {
+      "requestid": "cde066a4-2231-40ac-8df9-c96b16f5fbf8",
+      "confidence": "0.8220947",
+      "timestamp": 2680,
+      "content": "come because I think that's that's the only way to enforce rules especially with kids who don't understand what those are and that's the only way that you guys are gonna get it"
+    },
+    "2690": {
+      "requestid": "5eb71b6f-a483-4093-9e50-553a7c2b26b4",
+      "confidence": "0.7367196",
+      "timestamp": 2690,
+      "content": "so even though I don't think the soccer ball ben is a is a particularly practical or or just solution given away"
+    },
+    "2700": {
+      "requestid": "189b3593-300e-423d-b653-07f87a46c18f",
+      "confidence": "0.6725307",
+      "timestamp": 2700,
+      "content": "was bald is gonna get stolen by weirdos in street chocobo collectors brooklynite crazy IIII do have to come down to catch him off at technically on the side of mall"
+    },
+    "2710": {
+      "requestid": "7b7e503f-4cdf-4008-9d63-180cb38e1d19",
+      "confidence": "0.5813841",
+      "timestamp": 2710,
+      "content": "we are and say ah is it in policy going forward molly wins this is the sound of a gavel judge john hodgman letter"
+    },
+    "2720": {
+      "requestid": "014824b6-2fda-4dbd-b565-c274f5803f20",
+      "confidence": "0.7052865",
+      "timestamp": 2720,
+      "content": "erin you just lost the case at how do you feel right now why I guess like a pic of the last couple seconds ago to go back to the house is in your nose"
+    },
+    "2730": {
+      "requestid": "22245190-e875-467f-9320-d2be4abf0292",
+      "confidence": "0.6883419",
+      "timestamp": 2730,
+      "content": "nail biter there today and I know I'm in this is why haven't we can I can live with it molly about you I've just so happy to have"
+    },
+    "2740": {
+      "requestid": "cbfc21b1-aca4-4777-853d-e168246a68ea",
+      "confidence": "0.6490393",
+      "timestamp": 2740,
+      "content": "solution do we know you don't have a solution there may be no solution but you're gonna create a policy that is consistent ampersand"
+    },
+    "2750": {
+      "requestid": "faebd2b6-f641-41c2-aef8-c33a9977d52b",
+      "confidence": "0.6712216",
+      "timestamp": 2750,
+      "content": "do you have to safeguard your yard from people getting into it 'cause that's no good situation right so I cleared yet about the aspect of sole"
+    },
+    "2760": {
+      "requestid": "86cc4ca4-004e-47d1-afd5-cd774066067d",
+      "confidence": "0.6590053",
+      "timestamp": 2760,
+      "content": "yeah just make sure he asked sir conspicuous comma the weather's gonna be a real liability issue there taking responsibility of a jump into a conspicuously ask for"
+    },
+    "2770": {
+      "requestid": "35f9c53d-4453-46ca-988b-31faa74e8842",
+      "confidence": "0.6166322",
+      "timestamp": 2770,
+      "content": "hold your backyard shachi how do you take it with him and ask them the liability is yours is it here's a new teacher judge john hodgman judge john hodgman brand"
+    },
+    "2780": {
+      "requestid": "06fdbadb-2194-4ab0-8b0f-dee895880e82",
+      "confidence": "0.2845965",
+      "timestamp": 2780,
+      "content": "sick"
+    },
+    "2790": {
+      "requestid": "3332fd76-dbf6-4d33-89ca-1619c3477226",
+      "confidence": "0.6341062",
+      "timestamp": 2790,
+      "content": "hey becks phone was messed up they won't have you been missing my show international waters you been missing"
+    },
+    "2800": {
+      "requestid": "500a2baf-9cd7-4757-8dac-25535a353af1",
+      "confidence": "0.4408017",
+      "timestamp": 2800,
+      "content": "this I am around by having a really really really really really big bridge bewdley georgia child"
+    },
+    "2810": {
+      "requestid": "d6c3d945-71fa-4cff-8e3c-4adc8653fe80",
+      "confidence": "0.5536634",
+      "timestamp": 2810,
+      "content": "I'm afraid I can't right now is not really it's no fun you must know you're british do you like"
+    },
+    "2820": {
+      "requestid": "12fa0b7f-a4f1-4683-882e-c85b6be19281",
+      "timestamp": 2820,
+      "content": ""
+    },
+    "2830": {
+      "requestid": "e7316d32-106b-4a3b-93a4-16203859f319",
+      "confidence": "0.4456851",
+      "timestamp": 2830,
+      "content": "be at church at 10 100 could give you my ball z why are you throwing your meatballs"
+    },
+    "2840": {
+      "requestid": "7c17dbb7-be65-4e7d-816d-e02b1404fad8",
+      "confidence": "0.673359",
+      "timestamp": 2840,
+      "content": "round disappear in your spaghetti like a normal"
+    },
+    "2850": {
+      "requestid": "54e15da9-b38e-4df0-afc1-ecb01331582f",
+      "confidence": "0.6003227",
+      "timestamp": 2850,
+      "content": "all of charleston west virginia knotfest of some nope not since the one note comfest of one come festivall to see me in charleston"
+    },
+    "2860": {
+      "requestid": "5e2a04a0-38a4-40f2-b06f-798ca5483edb",
+      "confidence": "0.7729506",
+      "timestamp": 2860,
+      "content": "capital of west virginia my west virginia debut on June 22nd you can get all the details at festivallcharleston.com that SESTI"
+    },
+    "2870": {
+      "requestid": "99a0b56e-6833-4641-8131-97e62de118df",
+      "confidence": "0.771951",
+      "timestamp": 2870,
+      "content": "CALL charleston spelt like you think itsounds.com or go to johnhodgman.com and click on that or button will you also find details for bye"
+    },
+    "2880": {
+      "requestid": "71d19f48-3716-499f-8653-94b598891470",
+      "confidence": "0.7947934",
+      "timestamp": 2880,
+      "content": "it for me in the boston massachusetts on September 12th and later in september just announced I'm appearing for the first time at"
+    },
+    "2890": {
+      "requestid": "5b656466-84de-40b7-b9dc-3a95ccaced76",
+      "confidence": "0.6490351",
+      "timestamp": 2890,
+      "content": "toronto just for laughs comedy festival just do you know and I'll be AI'll be playing in shuku so do you like I know it's of all of those canadians"
+    },
+    "2900": {
+      "requestid": "ab9bbe2f-2d47-42b1-a389-df1ac067a061",
+      "confidence": "0.6935027",
+      "timestamp": 2900,
+      "content": "news were constantly saying when you coming to canada now is the answer is get all the details in my door johnhodgman.com slash tour j hijama t dot"
+    },
+    "2910": {
+      "requestid": "16791412-92a4-42d0-a251-6ca17e6bf23a",
+      "confidence": "0.6830351",
+      "timestamp": 2910,
+      "content": "that's what they say sometimes thanks this week to harish krishnamoorthy sorry 35 messinia vahdat for naming this week's episode you can even episode of judge john hodgman"
+    },
+    "2920": {
+      "requestid": "689ca2e8-ae87-4df8-96f2-d74cf299ad79",
+      "confidence": "0.7406138",
+      "timestamp": 2920,
+      "content": "lake judge john hodgman in facebook join the maximumfun.org facebook group and get up on twitter I john is at hodgman I am"
+    },
+    "2930": {
+      "requestid": "8deca622-3958-4183-af40-358bd5dd0587",
+      "confidence": "0.7212567",
+      "timestamp": 2930,
+      "content": "at jesse thorn a producer is julia smith art editor is mark mcconville our show is paid for by your donations you can support the shelf maximum fun dot"
+    },
+    "2940": {
+      "requestid": "25648e9c-f171-4439-9e71-1059040a5892",
+      "confidence": "0.7769092",
+      "timestamp": 2940,
+      "content": "org slash donate will talk to you next time on the judge john hodgman podcast"
+    },
+    "2950": {
+      "requestid": "0784abaa-7e60-4eb2-aeae-c16c08af164f",
+      "confidence": "0.7400391",
+      "timestamp": 2950,
+      "content": "how many and culture artist owned listener supported"
+    }
+  }
+}
