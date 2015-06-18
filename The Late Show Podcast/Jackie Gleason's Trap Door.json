@@ -1,0 +1,686 @@
+{
+  "episode_title": "Jackie Gleason's Trap Door",
+  "pubdate": "2015-06-17T22:43:53+00:00",
+  "description": null,
+  "episode_url": "http://link.theplatform.com/s/kYEXFC/7udlFrTDhKtC/file.mp3?metafile=false&feed=The%20Late%20Show%20Podcast",
+  "segments": {
+    "0": {
+      "requestid": "3679cf98-26b7-4b27-8dc5-822b334de2f2",
+      "confidence": "0.6509227",
+      "timestamp": 0,
+      "content": "bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop bop agast welcome to the third the late show pa"
+    },
+    "10": {
+      "requestid": "ffcc31a0-d994-406a-b974-a7cad6fc7724",
+      "confidence": "0.7299608",
+      "timestamp": 10,
+      "content": "cast this week's episode jackie gleason's trapdoor eligio podcast is brought to you by quest ography what is quest ography that's a great question"
+    },
+    "20": {
+      "requestid": "8f4bd772-ad29-4c71-a77a-d66b03397b9a",
+      "confidence": "0.7514406",
+      "timestamp": 20,
+      "content": "taker online quiz to find out millions have already asked what quest agra fee is and now it's your turn use the offer code comma quest ography"
+    },
+    "30": {
+      "requestid": "bfdf85cf-6bc4-45f5-9486-a23ad979fa7c",
+      "confidence": "0.634259",
+      "timestamp": 30,
+      "content": "what hi this is steven call bear and a high minimum size cabinet as usual for the podcast and I'll see who are"
+    },
+    "40": {
+      "requestid": "ce9eea1d-74f6-47e4-8b27-946cd76f88c0",
+      "confidence": "0.615074",
+      "timestamp": 40,
+      "content": "this week"
+    },
+    "50": {
+      "requestid": "e83069d8-92e4-4aa3-b1ad-504da1e99a28",
+      "confidence": "0.6503899",
+      "timestamp": 50,
+      "content": "all the sets that I've done my shoes on and I'm here with mary bennett imako executive producer of the little single day and today were gonna talk about putting a show"
+    },
+    "60": {
+      "requestid": "c07f8a3f-62f3-42cb-9131-562fb5ffa345",
+      "confidence": "0.6982065",
+      "timestamp": 60,
+      "content": "weather in a real nuts and bolts way that involves both art and industry and meredith um before we get into like that the said let's talk about"
+    },
+    "70": {
+      "requestid": "9c831766-0872-405b-917e-d22688b18980",
+      "confidence": "0.6667776",
+      "timestamp": 70,
+      "content": "how long we've known each other when we when we meet we met about 10 years ago at the lodge of the co bear report right you are wind but it"
+    },
+    "80": {
+      "requestid": "0003d287-f575-45f8-b7a2-6d1cc3eea35d",
+      "confidence": "0.7017545",
+      "timestamp": 80,
+      "content": "how is the wine producer in the water line producer do to those of you out there who are less than that no idea how shelby this works and I'll put myself in that category"
+    },
+    "90": {
+      "requestid": "c2baca02-2243-4d35-ac5b-b28a3b8044bf",
+      "confidence": "0.7344835",
+      "timestamp": 90,
+      "content": "a line producer is really the person that's pushing the production from beginning to end"
+    },
+    "100": {
+      "requestid": "429b1ff1-d5a2-47ec-89cd-254e9a8c8886",
+      "confidence": "0.6818252",
+      "timestamp": 100,
+      "content": "so really doing all the heavy lifting in terms of the logistics in the budget at the managing of people so your not writing jokes"
+    },
+    "110": {
+      "requestid": "ff8ae30a-a086-4b79-b788-48dd5bef51bd",
+      "confidence": "0.5739267",
+      "timestamp": 110,
+      "content": "reforming correct esat high standard for of both a metal underscore formans for the stuff up please tell people when I hired you do"
+    },
+    "120": {
+      "requestid": "405bf07e-5b36-4837-afa9-af79d8f48c96",
+      "confidence": "0.7101858",
+      "timestamp": 120,
+      "content": "at the light produced of the co bear report what plans did you have in place that you had cancel in order to take the job I had a plan to swim in"
+    },
+    "130": {
+      "requestid": "467138d2-2ebc-47f1-95c4-a0b9e3e26c77",
+      "confidence": "0.7129091",
+      "timestamp": 130,
+      "content": "what channel on my dream since I was 13 years old had to be postponed how do I sleep train I had trained I had a boat line"
+    },
+    "140": {
+      "requestid": "e597c691-311a-44d3-8c3c-c9d60e9424d2",
+      "confidence": "0.6392922",
+      "timestamp": 140,
+      "content": "yup I had plane ticket to england how long does it take to swimming with channel generally you know it ranges from 08 hours to 25 hour"
+    },
+    "150": {
+      "requestid": "491ca904-c7bf-4626-b64a-e52c40d254c9",
+      "confidence": "0.4292735",
+      "timestamp": 150,
+      "content": "and then do you like to have the rubber side down beargrease her to slap yourself with the atlanta one lavalin ok thank you"
+    },
+    "160": {
+      "requestid": "6332b68c-a75e-4a8b-ae2e-6c7d2ff46880",
+      "confidence": "0.5133743",
+      "timestamp": 160,
+      "content": "cheap yes but you have to rub yourself down what is not attractive to the sharks no bake me some sharks in the english channel"
+    },
+    "170": {
+      "requestid": "760f75e2-99a2-4fda-94e0-f60b73ca2483",
+      "confidence": "0.3801546",
+      "timestamp": 170,
+      "content": "I'm at the best today I love them they do have sharkman with kayla I love you too cold start"
+    },
+    "180": {
+      "requestid": "db9df3fa-108f-40f9-935f-31bb6985cfcd",
+      "confidence": "0.5437439",
+      "timestamp": 180,
+      "content": "looks like some sharks like a koliko alright widespread local oh yeah but someday I'll do it once I stopped once I stopped working 13 hours a day for you I will"
+    },
+    "190": {
+      "requestid": "7afecce6-ebab-4c7c-9779-9012648c03f4",
+      "confidence": "0.7499142",
+      "timestamp": 190,
+      "content": "ok alright the gym I've known you since before I know what you did for a living trip we first met I threw my wife yes or when we lived in that way"
+    },
+    "200": {
+      "requestid": "4eaeb969-34b3-448e-a52c-e0f4008ea881",
+      "confidence": "0.7590533",
+      "timestamp": 200,
+      "content": "first live in manhattan because you are the son of the episcopal priest who performed ormar sound correct correct I think you were writing"
+    },
+    "210": {
+      "requestid": "284fc5fc-1bc6-444b-8e08-3f3f6ff613bd",
+      "confidence": "0.625086",
+      "timestamp": 210,
+      "content": "dancar for dana carvey show yeah I was doing set design for whatever I was doing at the time NFNBCV maybe he and then"
+    },
+    "220": {
+      "requestid": "052b2387-bf04-4897-98d8-2b1cf91785bc",
+      "confidence": "0.5667728",
+      "timestamp": 220,
+      "content": "you're doing it for years ago when you submit it up I ideas her interview for it and I knew you had an array said was I thinking"
+    },
+    "230": {
+      "requestid": "8e92a529-aebf-4be3-82a2-cba30c3b8f5f",
+      "confidence": "0.6911311",
+      "timestamp": 230,
+      "content": "so happy to be fair you know I think meredith interview a bunch of designers and I ended up winning it on the merits of the design rather"
+    },
+    "240": {
+      "requestid": "b3b236be-19ed-4dbf-a5b6-dc47a4069731",
+      "confidence": "0.729079",
+      "timestamp": 240,
+      "content": "and then I'll be on your good looks ok so there's that we know each other are also here with rob dumb and who is our producer you can hear I'm waving in the background so were"
+    },
+    "250": {
+      "requestid": "4144b16b-45a5-44a0-b1ee-df86d4bac0c3",
+      "confidence": "0.7640675",
+      "timestamp": 250,
+      "content": "we're gonna do the show in the ed sullivan theater were dave did he show for 22 years and I'll start by saying when I heard was that of data"
+    },
+    "260": {
+      "requestid": "b0800483-b059-4f31-b45a-1f42e4cb551d",
+      "confidence": "0.5966284",
+      "timestamp": 260,
+      "content": "I thought that's a hard space but with the challenges for designer to do you the space I gotta turn into television studio one of the big challenge"
+    },
+    "270": {
+      "requestid": "fa9941ab-9f15-458a-a830-c6b3c565531e",
+      "confidence": "0.6290245",
+      "timestamp": 270,
+      "content": "is there in time we talked about this is it's a big space and see you know it goes up really high grand broadway olds"
+    },
+    "280": {
+      "requestid": "99182989-44cc-4524-87d0-a7ffd8250ca9",
+      "confidence": "0.7484972",
+      "timestamp": 280,
+      "content": "oh broadway theatre but you know the conversations you're gonna have a very intimate and a and then we talk to you you talk to me a lot about this is how do you keep the joe"
+    },
+    "290": {
+      "requestid": "8507b6b4-23ad-4cfe-b610-a4d9f8459163",
+      "confidence": "0.7759169",
+      "timestamp": 290,
+      "content": "you know it contained in the sense of intimacy so that was probably the biggest challenge for me is to create something that fill this space but"
+    },
+    "300": {
+      "requestid": "10c28e31-310f-4da8-b139-8cff8e1e5655",
+      "confidence": "0.7637165",
+      "timestamp": 300,
+      "content": "same time felt like the focus was on you and it was an intimate warm setting for you to have your conversations so they would announce that I was gonna take over"
+    },
+    "310": {
+      "requestid": "a50f4e37-bd18-4d24-9970-bb908299286c",
+      "confidence": "0.7509046",
+      "timestamp": 310,
+      "content": "in when did dave april of 2014 and how long before we were able to go in"
+    },
+    "320": {
+      "requestid": "720b9b42-139d-485b-b047-41c881f93159",
+      "confidence": "0.5970405",
+      "timestamp": 320,
+      "content": "it was really months and months um we wanna get anybody's way I want to be respectful feel though it was really a"
+    },
+    "330": {
+      "requestid": "54cd586b-9256-44bd-8cda-a94a92254256",
+      "confidence": "0.7075897",
+      "timestamp": 330,
+      "content": "I get some of us went to see the one in from the lettermen shows that I never did experience it right now I wish I am I wish I could cuddle"
+    },
+    "340": {
+      "requestid": "c783bf6a-cd46-4c27-a43f-4c698d5bbccc",
+      "confidence": "0.5799172",
+      "timestamp": 340,
+      "content": "done that is not proper it right now I gotta be on stage yeah there like 10 times at the guest which is having any luck walk off to a bit"
+    },
+    "350": {
+      "requestid": "e11333fc-7f3f-41d9-b6bf-506ef8239b51",
+      "confidence": "0.5670258",
+      "timestamp": 350,
+      "content": "on stage right now is very different experience for the audience yeah asaman who is a guest on the show um gratefully many times"
+    },
+    "360": {
+      "requestid": "5f798fc4-4c1f-410d-90eb-e7c292e9cf73",
+      "confidence": "0.6958286",
+      "timestamp": 360,
+      "content": "um because there's nothing better than being in the chair next to dave and hoping it was having a good time that you are online watch it being on the show"
+    },
+    "370": {
+      "requestid": "49c509e6-f6f4-482d-8005-ec298b364abe",
+      "confidence": "0.7555796",
+      "timestamp": 370,
+      "content": "watching watching dave happy you got home the best part was the get home and watch and see whether you are honestly making him laugh and eat you felt a lot of energy"
+    },
+    "380": {
+      "requestid": "434fa23f-2d5c-4ab3-bf51-080571814169",
+      "confidence": "0.8132774",
+      "timestamp": 380,
+      "content": "from the audience on stage the one thing that as somebody taking over that stage one it is that I wanted to be able to see the audience in the door"
+    },
+    "390": {
+      "requestid": "4646da6a-6451-44b2-9aea-46beaf1cc615",
+      "confidence": "0.6227654",
+      "timestamp": 390,
+      "content": "weather instruments equipment and people dash placement all those things but I felt like I kept me from seeing the audience is a performer on stage of the world show"
+    },
+    "400": {
+      "requestid": "ac843a93-14e3-4262-88d4-c18fde18f9e0",
+      "confidence": "0.6451682",
+      "timestamp": 400,
+      "content": "haveli radauti they were hung up in front of me like hollywood squares and see everybody and as a performer at sign is taking over that space I want that"
+    },
+    "410": {
+      "requestid": "0dffef0b-ea2d-435c-ba52-ad198bdf3b4e",
+      "confidence": "0.6890021",
+      "timestamp": 410,
+      "content": "kind of connection to the audit I will look everybody in the I rise in one of the we can say that we've done is that we've taken out of my check with this weekend so that you can see the audience"
+    },
+    "420": {
+      "requestid": "79d0401f-e968-4025-8eb7-a7514137b7d9",
+      "confidence": "0.6219718",
+      "timestamp": 420,
+      "content": "you not on mondays but declined I end up doing and in doing so revealed the beauty of the original theater with that was awesome"
+    },
+    "430": {
+      "requestid": "ced09a4e-ad09-4202-a332-abffc71dd56f",
+      "confidence": "0.6680577",
+      "timestamp": 430,
+      "content": "one of the early in early conversations inside the theater so beautiful let's see how much of it shipped should we all could can we see in the satin we will actually revealed quite a lot"
+    },
+    "440": {
+      "requestid": "02f4293c-792e-40cf-b7fd-c8332054046c",
+      "confidence": "0.4535296",
+      "timestamp": 440,
+      "content": "yeah the renovations about have been I huge we have probably taken out 15 large I audio"
+    },
+    "450": {
+      "requestid": "7acfb933-ca8b-48d9-a3ca-5b07e054acc6",
+      "confidence": "0.5741547",
+      "timestamp": 450,
+      "content": "sales that outfit because technology is changing no longer need them I and we also took out AA gigantic air conditioning ducts"
+    },
+    "460": {
+      "requestid": "fb37febf-e5c9-405a-b42e-09d6934c2f2b",
+      "confidence": "0.6039941",
+      "timestamp": 460,
+      "content": "not covered be feeling of the theater it was mainside you could stand up yet I did jack michigan doccia you know he if you're gonna do you like it was gonna be like mission impossible sex anemia"
+    },
+    "470": {
+      "requestid": "bd4caffa-f939-4e7c-b1e4-f4719e85e525",
+      "confidence": "0.6242249",
+      "timestamp": 470,
+      "content": "men through the air condition of like a building to take a jump down the bad guys this is what is water so we been able to removedot.com they were creating new air conditioning"
+    },
+    "480": {
+      "requestid": "9049bc23-5b7c-4d62-87e9-7849080825a3",
+      "confidence": "0.6276627",
+      "timestamp": 480,
+      "content": "stop work on behind the the dome which and which is a beautiful part of the beautiful broadway hair down with you expecting a broadway theatre I will put up some photos on the website"
+    },
+    "490": {
+      "requestid": "694d0edb-2c03-4fb8-b0f5-12a0794255df",
+      "confidence": "0.6893802",
+      "timestamp": 490,
+      "content": "in the open the photo gallery of what some of the elements of the theory you can see now that you could 04 and then we're not returning it to its a sort of"
+    },
+    "500": {
+      "requestid": "38989087-4f69-41c5-863d-779a5e612386",
+      "confidence": "0.6434333",
+      "timestamp": 500,
+      "content": "nation influence gothic grandeur but were gonna reveal some some beautiful things that hopefully that will look great on camera people enjoy same person I know"
+    },
+    "510": {
+      "requestid": "1995342f-c384-4013-b011-52bbab1f734f",
+      "confidence": "0.6711445",
+      "timestamp": 510,
+      "content": "steps are you remove that was probably there before letterman even cousin history of at theater there is like all the other television shows before that it was dave of for"
+    },
+    "520": {
+      "requestid": "5ca35994-1c53-46f9-8733-1ba18a4ead27",
+      "confidence": "0.7565005",
+      "timestamp": 520,
+      "content": "22 years before that it was a rental house for awhile I have some other show me kate kate and allie ok now I was in there I fixed"
+    },
+    "530": {
+      "requestid": "8514b5fb-83ee-4630-9245-29cc30a158e5",
+      "confidence": "0.6872569",
+      "timestamp": 530,
+      "content": "howard kosal variety hour with an arrow in the 1970s the thing that was on before saturday night live in was called the prime time"
+    },
+    "540": {
+      "requestid": "2794bfb8-6ee7-4222-8e96-8acd42405be5",
+      "confidence": "0.6087053",
+      "timestamp": 540,
+      "content": "tires which is why should I live tile not ready for primetime players with in the theater right after that was a terrible idea how are clouds ls the host a few hours"
+    },
+    "550": {
+      "requestid": "c717f3b2-ddd9-4a5b-89dd-ce5f42975ea0",
+      "confidence": "0.4942254",
+      "timestamp": 550,
+      "content": "I wanted to be right I add salt yeah you know which is about with the vaudeville model at solving of the bob dylan when did ed sullivan"
+    },
+    "560": {
+      "requestid": "948c4577-032e-4e80-a0a6-f81627edb9a1",
+      "confidence": "0.5878015",
+      "timestamp": 560,
+      "content": "did you go to 70 or something like that"
+    },
+    "570": {
+      "requestid": "096a7ba9-d1f5-4829-b6c4-bc644a5ff96b",
+      "confidence": "0.5110946",
+      "timestamp": 570,
+      "content": "I saw the beatles on its all about that that'll be I love you I am deathly not that old the dave clark 5 the rolling stones"
+    },
+    "580": {
+      "requestid": "1f469e92-dace-4227-85b2-721c1129bd04",
+      "confidence": "0.5725961",
+      "timestamp": 580,
+      "content": "watched all of that so I meant before that it was jackie gleason show his new york show at and at jack metal gear technically"
+    },
+    "590": {
+      "requestid": "6c05840d-0c8d-4e81-87f4-41a197345e99",
+      "confidence": "0.6944767",
+      "timestamp": 590,
+      "content": "hey jackie gleason had a bridal shower and then gleason it was a bar for angela's pizza is it was a bar"
+    },
+    "600": {
+      "requestid": "72c7719c-f28b-4e35-a758-d082afb16956",
+      "confidence": "0.7838818",
+      "timestamp": 600,
+      "content": "gleason at a hole cut in the floor of the bar so we could leave the theater and go up to a hole in the floor of the bar not up to the public to go to cocktail afterwards"
+    },
+    "610": {
+      "requestid": "078e0fff-1319-4ef0-8a3d-645742b6bec7",
+      "confidence": "0.4798023",
+      "timestamp": 610,
+      "content": "the lovely idea which we can meet me at the crew in a week up at home yeah it is nice I think the traffic to their this have something over it"
+    },
+    "620": {
+      "requestid": "28575b04-beff-43b9-ade9-8daab0f37cbb",
+      "confidence": "0.6101043",
+      "timestamp": 620,
+      "content": "where to tell about the bubble we found underneath the stage holding it up so we found these old wooden up with a call elephant columns"
+    },
+    "630": {
+      "requestid": "98b2cf4e-81db-4680-93e0-f211663fcb4a",
+      "confidence": "0.5716386",
+      "timestamp": 630,
+      "content": "that's up in the lord oak view columnist yes I probably over there in their gigantic and they um they were installed to be able to support"
+    },
+    "640": {
+      "requestid": "37de8866-bb33-470e-8e8d-92f2ed0beaff",
+      "confidence": "0.5435546",
+      "timestamp": 640,
+      "content": "stage so allison kodaks I know it's all of our wanted to bring all things on ringling was in town so we had these columns installed below which are gonna keep us"
+    },
+    "650": {
+      "requestid": "1ebed102-e0fb-4c2a-baff-0581fb31d849",
+      "confidence": "0.7320014",
+      "timestamp": 650,
+      "content": "and just the same year that ringling is daisy help and we discovered in I like your going behind the walls and there's like latter's up there that we can use"
+    },
+    "660": {
+      "requestid": "d8ee497a-4a46-4130-8fb7-b60f33fd52f2",
+      "confidence": "0.5550907",
+      "timestamp": 660,
+      "content": "river chinese autozone in glass at the stain glass ridglea theater old are there is another photo of me standing be sorted cathedral windows that were all coming out for year"
+    },
+    "670": {
+      "requestid": "59b49c79-216e-48c7-9c68-8f15041d87e4",
+      "confidence": "0.5750942",
+      "timestamp": 670,
+      "content": "those are all filled with dan glass with we have the mall on the stage boxed in somerset call me before ed sullivan the best eyeglasses taken"
+    },
+    "680": {
+      "requestid": "62e29c22-22f1-4fa9-8703-f1c594f181b1",
+      "confidence": "0.5937062",
+      "timestamp": 680,
+      "content": "right panel open box underneath the stage for 46070 years but we just were not put it back in"
+    },
+    "690": {
+      "requestid": "69236db2-70d2-4577-ad90-19da25da397f",
+      "confidence": "0.7292458",
+      "timestamp": 690,
+      "content": "alarm in another part of this is obviously we would have to go before the landmark missionary what is the historical buildings right and get their permission for the"
+    },
+    "700": {
+      "requestid": "f69a0983-63ba-4372-b694-7881b5a86509",
+      "confidence": "0.6224832",
+      "timestamp": 700,
+      "content": "the changes we were doing and luckily they are very happy that were actually revealing the beverage and architecture and maintain area"
+    },
+    "710": {
+      "requestid": "0c651305-7e93-4307-ae54-951119f7f115",
+      "confidence": "0.6727505",
+      "timestamp": 710,
+      "content": "making sure that we protect their all the same the walls in the ceiling and if we wanted to do now with the taxi at set up and about"
+    },
+    "720": {
+      "requestid": "4bb17f7a-a6c7-4a0f-a421-7d23a46b1770",
+      "confidence": "0.5832487",
+      "timestamp": 720,
+      "content": "yes you are is there is wrong with me and we can we were having save the beatles drop by up with all the shots from the night"
+    },
+    "730": {
+      "requestid": "549f9214-e3d4-4ff4-b7f7-2c4a18c8bd2a",
+      "confidence": "0.5937835",
+      "timestamp": 730,
+      "content": "teen a 6464 is when I first night at all those are all the shots by self shots in balcony"
+    },
+    "740": {
+      "requestid": "6f661018-c1ab-4ac4-9ea8-96fadf8238a5",
+      "confidence": "0.444168",
+      "timestamp": 740,
+      "content": "auto sales try area out there in about a job after the shots riley girls crying in the new show I hope it's not you"
+    },
+    "750": {
+      "requestid": "ce7c147d-ca03-425b-ac09-04fbb9a2cb48",
+      "confidence": "0.6559664",
+      "timestamp": 750,
+      "content": "come pretty close whats up with him that's dalje that space again on the side is that it's walter broadway theatre yeah its not good"
+    },
+    "760": {
+      "requestid": "627fac4f-38e6-40c6-a357-f8257ef54819",
+      "confidence": "0.5707244",
+      "timestamp": 760,
+      "content": "right because the force de amor use for broadway theatre has a short for staging and all the action happens upstage of the proscenium arch that robs at sign"
+    },
+    "770": {
+      "requestid": "76efafb1-a50b-47cf-87e1-f4e5e1bb0ebc",
+      "confidence": "0.7227538",
+      "timestamp": 770,
+      "content": "I got for people who don't know what that means of passing in march is basically the opening to the states that got the part on a curtain right right right in our case we have 40"
+    },
+    "780": {
+      "requestid": "4e91887a-ca93-4095-be01-eda953409079",
+      "confidence": "0.585824",
+      "timestamp": 780,
+      "content": "biosphere ivana's downstage everything happens in front of the person yeah and because of that we put things up stage of presidium there's 2 far away for the art institute relate"
+    },
+    "790": {
+      "requestid": "8e235518-d458-4152-9059-fe8b3a08813e",
+      "confidence": "0.6000521",
+      "timestamp": 790,
+      "content": "so we have to keep everything basically in front of the curtain for the most part and we have things behind the curtain but yeah we definitely scenery behind the car clean the action take the ice"
+    },
+    "800": {
+      "requestid": "f410b70d-1b2f-478e-85b5-22dce307ed8d",
+      "confidence": "0.6992866",
+      "timestamp": 800,
+      "content": "I wanna be in the old is woody orchestra would've been so that's it at that serve rules out a lot of the things are built in the cedar like things that fly in and out of broadway theaters you sweetie"
+    },
+    "810": {
+      "requestid": "6f3b6509-c356-4c77-ac16-8b897674cae4",
+      "confidence": "0.6460035",
+      "timestamp": 810,
+      "content": "we are using some about that but basically had to get everything done space and change the focus of the state because it is built for all the lines that virgil never seen him so I just looked at the beach"
+    },
+    "820": {
+      "requestid": "36c16466-a1d1-46b9-ba72-a7aed85c51bd",
+      "confidence": "0.605246",
+      "timestamp": 820,
+      "content": "and nothing friend ever seen it usually only thing that let so you know where they need to focus is it getting better than we are not want to get outside of presidium to"
+    },
+    "830": {
+      "requestid": "871e2ec5-028d-4e00-812b-9d13231863ac",
+      "confidence": "0.7679797",
+      "timestamp": 830,
+      "content": "the audience it becomes super why tho to keep the focus on you you and I talked about that a lot like what ne what all the tricks we can use to get"
+    },
+    "840": {
+      "requestid": "8538ebda-ed26-4ba4-a73f-b231e01650e0",
+      "confidence": "0.5781699",
+      "timestamp": 840,
+      "content": "that focus on you we we can throw pretty much everyone and I think we will take me to dance right now will find out yet will find a good"
+    },
+    "850": {
+      "requestid": "d8b46046-20bb-41bf-b94b-c61c75cbed81",
+      "confidence": "0.6828684",
+      "timestamp": 850,
+      "content": "so you don't wanna waste the fact you got all the space to play with no got no one to think we'll be ok with multiple places yeah we wanna have those muscles myspace and I was it the first time we need"
+    },
+    "860": {
+      "requestid": "256c96b6-5b50-4727-ab07-8948e8958a8d",
+      "confidence": "0.6550165",
+      "timestamp": 860,
+      "content": "room for band to live all the time anna from space for other bands are there is water on the show yet we might want another place like you're welcome people toss the band"
+    },
+    "870": {
+      "requestid": "bc83505e-2324-4ef1-9d59-191833be49c9",
+      "confidence": "0.6453401",
+      "timestamp": 870,
+      "content": "mcclellanville fireplace that we still have the show yeah all those things I wanna be able to include know quotes from our old satw not having dealt at yeah I love that I love"
+    },
+    "880": {
+      "requestid": "c8d1c2e7-375e-4e51-a187-14d5377b0d75",
+      "confidence": "0.5999075",
+      "timestamp": 880,
+      "content": "quotes that working out things in pittsburgh and like sort of discovering what about the old shower the things that you wanna bring with you yeah we're far to know"
+    },
+    "890": {
+      "requestid": "ea968ba4-21c8-4b1e-98de-9da5d046dc56",
+      "confidence": "0.6395922",
+      "timestamp": 890,
+      "content": "party care exactly how is really fascinating to work on that part of it merith what is limited technologies we can use now"
+    },
+    "900": {
+      "requestid": "80f4f249-6232-4b15-b037-a39f6170c5de",
+      "confidence": "0.6699325",
+      "timestamp": 900,
+      "content": "that didn't exist when the theatre was reconfigured come in early 90s bible audio system time change so you can have some more direction"
+    },
+    "910": {
+      "requestid": "cb42971f-4406-4639-bb2b-281df4cbabd6",
+      "confidence": "0.5986438",
+      "timestamp": 910,
+      "content": "mikes so you still need sound baffling on the walls but you don't need as much and and as imposing"
+    },
+    "920": {
+      "requestid": "b7852635-6c23-4a7c-b033-2013e92444a4",
+      "confidence": "0.7083302",
+      "timestamp": 920,
+      "content": "equipment there a way you are so we're putting in all new lights are there LED lights which are smaller and more efficient and I'm sorry doing now"
+    },
+    "940": {
+      "requestid": "8b4712dc-78eb-4f1b-a219-46906f9cb60e",
+      "confidence": "0.5718051",
+      "timestamp": 940,
+      "content": "so someone is it gets old is dave is your name to hold a studio in new york city and I hope that you know keep it that way because it's bath time"
+    },
+    "950": {
+      "requestid": "53121d85-8f25-40fe-b472-0837f3745d3e",
+      "confidence": "0.5991446",
+      "timestamp": 950,
+      "content": "the weather because if your cold enough that your key draw my chattering are that close to laugh at lauper's at the way to warm yourself up anything back"
+    },
+    "960": {
+      "requestid": "bb23afa6-55e1-4add-9ed5-5c3676a2702f",
+      "confidence": "0.6317456",
+      "timestamp": 960,
+      "content": "I'm like are the best but it would rather me to some sort of hypothermia to make them feel drunk in fatal feel different I think it was one of the challenges that"
+    },
+    "970": {
+      "requestid": "ae00fb21-e551-46de-a123-97a9ee94f8c3",
+      "confidence": "0.6218449",
+      "timestamp": 970,
+      "content": "yeah how do you change the spacing out we build something yeah that dave likes will get in his name in his old space yet why you still up to make your own it"
+    },
+    "980": {
+      "requestid": "41806512-8846-4ec3-86b0-791e98625615",
+      "confidence": "0.672718",
+      "timestamp": 980,
+      "content": "think it's going to feel very different well the same time will be if you reckon I do I'll need to be all in one of the things that they also the technology that meredith is talking about our god dad and human"
+    },
+    "990": {
+      "requestid": "affbf115-45c8-4a33-9823-73c826cac295",
+      "confidence": "0.6890271",
+      "timestamp": 990,
+      "content": "he's out the high resolution eli d screens now I'm in and not to mention the way LED lighting now is change the way we light even"
+    },
+    "1000": {
+      "requestid": "c5590406-4b99-48cb-891d-bbe4266aee20",
+      "confidence": "0.6302118",
+      "timestamp": 1000,
+      "content": "septic not just hanging LED lighting built into everything in the said it's like he's fine blue ribbons of lighting that you can put everywhere meredith"
+    },
+    "1010": {
+      "requestid": "d5d0142a-eab7-448d-bc2b-ec7636acb4e3",
+      "confidence": "0.6461657",
+      "timestamp": 1010,
+      "content": "the expenses that's a very expensive ha ha very how much are is this the show is more expensive than the lg right it is"
+    },
+    "1020": {
+      "requestid": "33ff4157-8434-48e1-a468-9aa0650b6e72",
+      "confidence": "0.6189766",
+      "timestamp": 1020,
+      "content": "ok twice as long twice as many people in twice as expensive ok with 250 shows here now they do how many dishes 202"
+    },
+    "1030": {
+      "requestid": "d43f3287-c260-4781-ab7e-1a5a5e8f4240",
+      "confidence": "0.6578211",
+      "timestamp": 1030,
+      "content": "yeah I have half an hour it is an hour ok so long for 80 hours a year to 200"
+    },
+    "1040": {
+      "requestid": "50305f65-4297-4828-882f-787e95c69e83",
+      "confidence": "0.5175",
+      "timestamp": 1040,
+      "content": "who hours a year ago start running yeah yeah I gotta start cooking I gotta start my god I gotta hit women without their head"
+    },
+    "1050": {
+      "requestid": "1eaa3f2a-bdff-4a2e-8553-09206ba648ef",
+      "confidence": "0.6326471",
+      "timestamp": 1050,
+      "content": "available I do where were again were in the bedroom here at AA temporary offices of ha"
+    },
+    "1060": {
+      "requestid": "6a264255-3f22-4556-b562-420b38b6f3f5",
+      "confidence": "0.6320344",
+      "timestamp": 1060,
+      "content": "cvs is the late show with starting over again as a set designer will you make of this room it's a it's bad it's a"
+    },
+    "1070": {
+      "requestid": "0639c21e-5b02-4b77-b935-b489ec3db35d",
+      "confidence": "0.6236246",
+      "timestamp": 1070,
+      "content": "I it's pretty sad I feel like I'm being interrogated farm and police station down with the old pennies germany"
+    },
+    "1080": {
+      "requestid": "07723d03-a15c-4dfe-bf52-a98ab95d4193",
+      "confidence": "0.6616762",
+      "timestamp": 1080,
+      "content": "yeah out there is no way that would I like that for some reason this is a very small room very cramped unattractive"
+    },
+    "1090": {
+      "requestid": "ca3984d5-6978-4411-be6a-0a1e62fb4749",
+      "confidence": "0.5054516",
+      "timestamp": 1090,
+      "content": "of foreboding almost and someone took upon themselves to add another desk at home why on earth"
+    },
+    "1100": {
+      "requestid": "66c30fa5-a50d-4294-ad17-af99215054a3",
+      "confidence": "0.5176352",
+      "timestamp": 1100,
+      "content": "02 denali this room it is in the chairs for some reason you know what when where is the locker come from mainside locker in the mens size"
+    },
+    "1110": {
+      "requestid": "62e83290-e875-458a-99b2-136115ff26ec",
+      "confidence": "0.5746961",
+      "timestamp": 1110,
+      "content": "cabinet I don't know it used to be over here but it got moved over there haha LOL I was in the hat woke up and I was more the real alright september 8 for show"
+    },
+    "1120": {
+      "requestid": "27f102d0-9531-4826-b7dc-df49cb52e575",
+      "confidence": "0.670146",
+      "timestamp": 1120,
+      "content": "of jam packed with that shirt merda thanks for everything else you're welcome so I'm gonna just jump in here and I were talking"
+    },
+    "1130": {
+      "requestid": "125fad89-cb0d-4d59-9c9a-939eb49aed1c",
+      "confidence": "0.7384906",
+      "timestamp": 1130,
+      "content": "time I think it's gonna be with they are very gifted musician so I'll be around"
+    }
+  }
+}
