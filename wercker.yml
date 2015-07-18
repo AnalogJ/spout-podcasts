@@ -1,0 +1,15 @@
+build:
+    box: publysher/hugo
+    steps:
+
+    # ensure that git is installed
+    - script:
+        name: git version
+        code: git version
+
+    # todo: checkout the tomecast-web repo
+    # todo: move the tomecast-podcast content into the correct structure
+    # todo: generate the static site using hugo
+    # todo: deploy to github pages or aws s3.
+
+    # example from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
