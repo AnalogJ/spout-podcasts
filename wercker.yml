@@ -20,6 +20,9 @@ build:
     # todo: checkout the tomecast-web repo
     # todo: move the tomecast-podcast content into the correct structure
     # todo: generate the static site using hugo
+    - script:
+        name: hugo version
+        code: hugo version
     # todo: deploy to github pages or aws s3.
 
     # example from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
