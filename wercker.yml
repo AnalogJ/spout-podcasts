@@ -4,6 +4,9 @@ build:
 
     # ensure that git is installed
     - script:
+        name: install git
+        code: apt-get install git
+    - script:
         name: git version
         code: git version
 
