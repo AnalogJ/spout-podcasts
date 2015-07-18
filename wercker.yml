@@ -9,6 +9,13 @@ build:
     - script:
         name: git version
         code: git version
+    # move the current tomecast-podcasts files to a subfolder
+    - script:
+        name: move to tomecast-podcasts subfolder
+        code: mv !(tomecast-podcasts) tomecast-podcasts
+    - script:
+        name: ls
+        code: ls
 
     # todo: checkout the tomecast-web repo
     # todo: move the tomecast-podcast content into the correct structure
