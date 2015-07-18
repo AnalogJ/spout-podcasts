@@ -36,8 +36,8 @@ build:
         name: hugo process site
         code: |
             hugo version
-            hugo server
-            
+            cd tomecast-web && hugo server
+
     # todo: deploy to github pages or aws s3.
 
     # example from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
