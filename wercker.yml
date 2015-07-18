@@ -12,7 +12,7 @@ build:
     # move the current tomecast-podcasts files to a subfolder
     - script:
         name: move to tomecast-podcasts subfolder
-        code: mv !(tomecast-podcasts) tomecast-podcasts
+        code: mv * tomecast-podcasts/
     - script:
         name: ls
         code: ls
