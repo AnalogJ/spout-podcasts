@@ -15,7 +15,7 @@ build:
     # move the current tomecast-podcasts files to a subfolder
     - script:
         name: move to tomecast-podcasts subfolder
-        code: mkdir tomecast-podcasts && mv * tomecast-podcasts/
+        code: mkdir tomecast-podcasts && cd tomecast-podcasts && mv ../* .
 
 
     # todo: checkout the tomecast-web repo
