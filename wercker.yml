@@ -5,24 +5,39 @@ build:
     # ensure that git is installed
     - script:
         name: install git
-        code: apt-get update && sudo apt-get -y install git
-    - script:
-        name: git version
-        code: git version
+        code: |
+            apt-get update && sudo apt-get -y install git
+            git version
     # move the current tomecast-podcasts files to a subfolder
     - script:
         name: move to tomecast-podcasts subfolder
         code: mkdir tomecast-podcasts && mv `ls -A | grep -v tomecast-podcasts` ./tomecast-podcasts
-    - script:
-        name: ls
-        code: ls
 
-    # todo: checkout the tomecast-web repo
+    # checkout the tomecast-web repo
+    - script:
+        name: checkout the tomecast-web repo
+        code: git clone https://github.com/tomecast/tomecast-web.git
+
     # todo: move the tomecast-podcast content into the correct structure
+    - script:
+        name: populate structure
+        code: |
+            cp -r tomecast-podcasts/* tomecast-web/content
+
+            # copy the metadata files into the data folder.
+            cd tomecast-web/content && find -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
+
+            #for the content files, make sure that we rename the extension to md, instead of json so that hugo will process them.
+            cd ../ && find ./content -type f -name "*.json" -print0 | xargs -0 rename 's/.json$/.md/'
+
+
     # todo: generate the static site using hugo
     - script:
-        name: hugo version
-        code: hugo version
+        name: hugo process site
+        code: |
+            hugo version
+            hugo server
+            
     # todo: deploy to github pages or aws s3.
 
     # example from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
