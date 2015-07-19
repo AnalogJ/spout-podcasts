@@ -23,12 +23,13 @@ build:
         name: populate structure
         code: |
             cp -r tomecast-podcasts/* tomecast-web/content
+            cd tomecast-web/content
 
             # copy the metadata files into the data folder.
-            cd tomecast-web/content && find -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
+            find -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
 
             # copy the cover art to the static/img/covers folder
-            cd tomecast-web/content && find -type d -exec mv -n -- {}/cover.jpg ../static/img/covers/{}.jpg \;
+            find -type d -exec mv -n -- {}/cover.jpg ../static/img/covers/{}.jpg \;
 
             #for the content files, make sure that we rename the extension to md, instead of json so that hugo will process them.
             cd ../ && find ./content -type f -name "*.json" -print0 | xargs -0 rename 's/.json$/.md/'
