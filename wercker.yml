@@ -2,7 +2,6 @@
 build:
     box: analogj/docker-hugo
     steps:
-
     # ensure that git is installed
     - script:
         name: install git
