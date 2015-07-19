@@ -2,12 +2,7 @@
 box: analogj/docker-hugo
 build:
     steps:
-    # ensure that git is installed
-    - script:
-        name: install git
-        code: |
-            apt-get update && sudo apt-get -y install git
-            git version
+    
     # move the current tomecast-podcasts files to a subfolder
     - script:
         name: move to tomecast-podcasts subfolder
