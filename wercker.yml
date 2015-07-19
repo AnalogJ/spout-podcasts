@@ -11,7 +11,7 @@ build:
     # move the current tomecast-podcasts files to a subfolder
     - script:
         name: move to tomecast-podcasts subfolder
-        code: mkdir tomecast-podcasts && mv `ls -A | grep -v tomecast-podcasts` ./tomecast-podcasts
+        code: mkdir tomecast-podcasts && mv `ls -A | grep -v tomecast-podcasts|wercker.yml` ./tomecast-podcasts
 
     # checkout the tomecast-web repo
     - script:
@@ -22,7 +22,7 @@ build:
     - script:
         name: populate structure
         code: |
-            rsync -r --exclude=.gitignore --exclude=README.md --exclude=wercker.yml tomecast-podcasts/* tomecast-web/content/
+            rsync -r --exclude=.gitignore --exclude=README.md tomecast-podcasts/* tomecast-web/content/
             cd tomecast-web/content
             rm -rf .gitignore
 
