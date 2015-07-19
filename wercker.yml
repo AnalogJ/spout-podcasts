@@ -1,6 +1,6 @@
 # based off of from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
+box: analogj/docker-hugo
 build:
-    box: analogj/docker-hugo
     steps:
     # ensure that git is installed
     - script:
@@ -49,7 +49,6 @@ build:
             cd tomecast-web && hugo -v
 
 deploy:
-    box: wercker/ruby
     steps:
     - script:
         name: Configure git
