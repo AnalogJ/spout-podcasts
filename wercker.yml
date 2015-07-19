@@ -22,7 +22,7 @@ build:
     - script:
         name: populate structure
         code: |
-            cp -r tomecast-podcasts/* tomecast-web/content
+            rsync -r --exclude=.gitignore --exclude=README.md --exclude=wercker.yml tomecast-podcasts/* tomecast-web/content
             cd tomecast-web/content
 
             # copy the metadata files into the data folder.
