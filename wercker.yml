@@ -26,7 +26,7 @@ build:
             cd tomecast-web/content
 
             # copy the metadata files into the data folder.
-            find -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
+            find * -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
 
             # copy the cover art to the static/img/covers folder
             find -type d -exec mv -n -- {}/cover.jpg ../static/img/covers/{}.jpg \;
@@ -40,7 +40,7 @@ build:
             echo "content folder"
             ls -alt content
 
-            
+
 
 
     # todo: generate the static site using hugo
