@@ -41,9 +41,6 @@ build:
             echo "content folder"
             ls -alt content
 
-
-
-
     # todo: generate the static site using hugo
     - script:
         name: hugo process site
@@ -51,8 +48,8 @@ build:
             hugo version
             cd tomecast-web && hugo -v
 
-deploy :
-    steps :
+deploy:
+    steps:
     - script:
         name: Configure git
         code: |-
