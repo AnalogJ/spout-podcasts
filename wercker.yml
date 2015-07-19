@@ -49,7 +49,7 @@ build:
             cd tomecast-web && hugo -v
 
 deploy:
-    box: analogj/docker-hugo
+    box: wercker/ruby
     steps:
     - script:
         name: Configure git
