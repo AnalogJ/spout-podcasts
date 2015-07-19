@@ -1,6 +1,6 @@
 # based off of from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
-box: analogj/docker-hugo
 build:
+    box: analogj/docker-hugo
     steps:
     # check git version
     - script:
@@ -48,6 +48,7 @@ build:
             cd tomecast-web && hugo -v
 
 deploy:
+    box: analogj/docker-hugo
     steps:
     - script:
         name: Configure git
