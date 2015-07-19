@@ -62,6 +62,7 @@ deploy:
         code: |
             cd tomecast-web/public
             rm -rf .gitignore
+            rm -rf img/covers/.gitignore
             git init
             git add .
             git commit -m "deploy commit from $WERCKER_STARTED_BY"
