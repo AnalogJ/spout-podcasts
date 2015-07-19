@@ -46,7 +46,6 @@ build:
         code: |
             hugo version
             cd tomecast-web && hugo -v
-
 deploy:
     steps:
     - script:
