@@ -2,7 +2,11 @@
 box: analogj/docker-hugo
 build:
     steps:
-    
+    # check git version
+    - script:
+        name: git versionn
+        code: |
+            git version
     # move the current tomecast-podcasts files to a subfolder
     - script:
         name: move to tomecast-podcasts subfolder
