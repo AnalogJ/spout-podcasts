@@ -1,6 +1,6 @@
 # based off of from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
 build:
-    box: publysher/hugo
+    box: analogj/docker-hugo
     steps:
 
     # ensure that git is installed
