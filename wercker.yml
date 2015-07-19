@@ -24,7 +24,6 @@ build:
         code: |
             rsync -r --exclude=.gitignore --exclude=README.md --exclude=wercker.yml tomecast-podcasts/* tomecast-web/content/
             cd tomecast-web/content
-            ls -alt
 
             # copy the metadata files into the data folder.
             find -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
@@ -34,6 +33,14 @@ build:
 
             #for the content files, make sure that we rename the extension to md, instead of json so that hugo will process them.
             cd ../ && find ./content -type f -name "*.json" -print0 | xargs -0 rename 's/.json$/.md/'
+
+            echo "data folder structure"
+            ls -alt data
+
+            echo "content folder"
+            ls -alt content
+
+            
 
 
     # todo: generate the static site using hugo
