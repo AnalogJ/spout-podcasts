@@ -15,7 +15,7 @@ build:
     # checkout the tomecast-web repo
     - script:
         name: checkout the tomecast-web repo
-        code: git  -c http.sslVerify=false clone https://github.com/tomecast/tomecast-web.git
+        code: git clone https://github.com/tomecast/tomecast-web.git
 
     # todo: move the tomecast-podcast content into the correct structure
     - script:
