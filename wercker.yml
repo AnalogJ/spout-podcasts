@@ -1,3 +1,4 @@
+# based off of from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
 build:
     box: publysher/hugo
     steps:
@@ -42,9 +43,6 @@ build:
             hugo version
             cd tomecast-web && hugo -v
 
-    # todo: deploy to github pages or aws s3.
-
-    # example from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
 deploy :
     steps :
     - script:
