@@ -27,6 +27,9 @@ build:
             # copy the metadata files into the data folder.
             cd tomecast-web/content && find -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
 
+            # copy the cover art to the static/img/covers folder
+            cd tomecast-web/content && find -type d -exec mv -n -- {}/cover.jpg ../static/img/covers/{}.jpg \;
+
             #for the content files, make sure that we rename the extension to md, instead of json so that hugo will process them.
             cd ../ && find ./content -type f -name "*.json" -print0 | xargs -0 rename 's/.json$/.md/'
 
@@ -41,3 +44,22 @@ build:
     # todo: deploy to github pages or aws s3.
 
     # example from:  http://devcenter.wercker.com/docs/containers/minimal-containers.html
+deploy :
+    steps :
+    - script:
+        name: Configure git
+        code: |-
+            git config --global user.email "pleasemailus@wercker.com"
+            git config --global user.name "wercker"
+
+            # remove current .git folder
+            rm -rf .git
+            rm -rf tomecast-web/.git
+    - script:
+        name: Deploy to github pages
+        code: |-
+            cd tomecast-web/public
+            git init
+            git add .
+            git commit -m "deploy commit from $WERCKER_STARTED_BY"
+            git push -f $GIT_REMOTE master:gh-pages
