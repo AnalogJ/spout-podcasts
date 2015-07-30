@@ -1,0 +1,1457 @@
+{
+  "title": "How to Create Suspense",
+  "date": "2015-07-30",
+  "description": "<p>Why is soccer the best sport? How has Harlan Coben sold 70 million books? And why does \"Apollo 13\" keep you enthralled even when you know the ending?</p><img src=\"http://feeds.feedburner.com/~r/freakonomicsradio/~4/L2cxUz2cRrU\" height=\"1\" width=\"1\" alt=\"\"/>",
+  "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/hP548VQH0FE/freakonomics_podcast072915.mp3",
+  "segments": {
+    "0": {
+      "requestid": "2f5b6730-748e-48d4-94ab-3ac574811e6d",
+      "confidence": "0.6146517",
+      "timestamp": 0,
+      "content": "chapter one the stranger didn't shatter adams world on wants that was with"
+    },
+    "10": {
+      "requestid": "ba4b3e79-8ab9-44fc-88c4-8f04e209b70f",
+      "confidence": "0.6802544",
+      "timestamp": 10,
+      "content": "bison tellem south later but that was a lie adam somehow knew right away rights in the very first sentence that the life you know when is it to 10 suburban"
+    },
+    "20": {
+      "requestid": "e8e58d3b-cd7e-404a-9d1f-6679d7824f5d",
+      "confidence": "0.6970199",
+      "timestamp": 20,
+      "content": "the father of 2 who is gone forever with a simple sentence on the face of it but there's something in the tone something knowing even care in the list add a note"
+    },
+    "30": {
+      "requestid": "fb904607-a498-401a-8494-dbb671cd9c4f",
+      "confidence": "0.6181189",
+      "timestamp": 30,
+      "content": "nothing will ever be the same you didn't have to stay with strangers and roll with harlan coben reading the beginning of this latest thriller screen"
+    },
+    "40": {
+      "requestid": "a992d9ab-96e1-4147-ad56-1bd5c13b82f4",
+      "confidence": "0.8119203",
+      "timestamp": 40,
+      "content": "I'm all about suspense trying to make it turned out next page I want you to start a stranger 11 o'clock at night think I'll be 10 are 15 minutes and next thing you know jen for morning"
+    },
+    "50": {
+      "requestid": "96e14927-fad7-4577-b85c-b6dbf833dd21",
+      "confidence": "0.6619298",
+      "timestamp": 50,
+      "content": "that's the kind of book I tried it and it worked out pretty well form the stranger is my 27th book it I'm told by world war"
+    },
+    "60": {
+      "requestid": "3d8a1f37-2af8-423f-9c05-339906b1fa7b",
+      "confidence": "0.824503",
+      "timestamp": 60,
+      "content": "adam around 70000000 books in print so presumably you know what you doing so let me ask if there's any rules of thumb for optimal creation"
+    },
+    "70": {
+      "requestid": "3ba1eb13-0a28-450a-af36-c6c5faf7617e",
+      "confidence": "0.700627",
+      "timestamp": 70,
+      "content": "suspense in surprise for me I usually do you know you say always been one are 2 books I have and II know the end I know that final twist and surprise"
+    },
+    "80": {
+      "requestid": "ce565d16-23a4-4f31-9aff-14a7ed442029",
+      "confidence": "0.6522474",
+      "timestamp": 80,
+      "content": "show I compare look for trapping someplace on traveling from new jersey to los angeles I can walk road me and I was doing the books I can give you the suez canal I can stop in tokyo but"
+    },
+    "90": {
+      "requestid": "6045010f-2aca-4d17-a5ff-89f3b6e43d3a",
+      "confidence": "0.6390195",
+      "timestamp": 90,
+      "content": "poison of miller because I can see a liar I know l is the ending in dusica moving away I can surprise you coz I know I can get back on that road so that"
+    },
+    "100": {
+      "requestid": "13ad4b15-bb9a-4e3f-a7ca-ea4cdb08ed23",
+      "confidence": "0.757709",
+      "timestamp": 100,
+      "content": "I don't want things if you know where your last destination is I can lead you astray in a lot of different ways and still am at least myself to keep my I am"
+    },
+    "110": {
+      "requestid": "4f81a2d8-d947-4ba1-b80b-4e3acfa97ad1",
+      "confidence": "0.6478537",
+      "timestamp": 110,
+      "content": "frange I really do wanna for union I don't like to do it to mean if ya'll ation what I can do it in slightly in an interesting misdirection also"
+    },
+    "120": {
+      "requestid": "64c17806-20ff-48a1-ba42-6d0eec4e1068",
+      "confidence": "0.7360873",
+      "timestamp": 120,
+      "content": "are ways to play with what you normally see play with your normal perceptions there's a lot of times when you're eating when I booked I hope we going or not see I know where is going with this"
+    },
+    "130": {
+      "requestid": "ae4d8210-b8e6-4fa7-98c9-c12156c92ad8",
+      "confidence": "0.690825",
+      "timestamp": 130,
+      "content": "how to play without knowing that you're going to make that and then smack in the back of the head"
+    },
+    "140": {
+      "requestid": "3a941610-44d1-4e06-a24a-967234f80373",
+      "confidence": "0.7152835",
+      "timestamp": 140,
+      "content": "the courts while perfectly useful for creating suspense is not necessarily as useful as a missing person I don't like missing people in my book"
+    },
+    "150": {
+      "requestid": "9a51bd5b-7d7b-407d-a1b9-def2653939b1",
+      "confidence": "0.6641908",
+      "timestamp": 150,
+      "content": "I am missing component is really interesting in case of missing person versus imrt a person's death of dedham just trying to solve the crime person is missing you up"
+    },
+    "160": {
+      "requestid": "33ad3e2d-940f-4d91-b14c-fc94dacc0301",
+      "confidence": "0.6353365",
+      "timestamp": 160,
+      "content": "I hope to be the coolest thing in the world can crusher heart like you make sure we can make it sore and so you raise the stakes by giving people hope nearest"
+    },
+    "170": {
+      "requestid": "18d62b01-9283-4817-9167-2bd9b9433b92",
+      "confidence": "0.7381361",
+      "timestamp": 170,
+      "content": "steaks but just leaving something out maybe can complete <profanity>shit</profanity>"
+    },
+    "180": {
+      "requestid": "e1835ee0-607e-439c-a096-23bd910d3730",
+      "confidence": "0.6955611",
+      "timestamp": 180,
+      "content": "are we going to crush your heart my connection I make it sore and when we leave now"
+    },
+    "190": {
+      "requestid": "c4cbba92-2437-4298-acce-1cf190f96e93",
+      "timestamp": 190,
+      "content": ""
+    },
+    "200": {
+      "requestid": "364a6105-b3c5-40fc-98ae-3e8f76ac66c7",
+      "timestamp": 200,
+      "content": ""
+    },
+    "210": {
+      "requestid": "c7c5e288-51c1-4961-9bee-0f58475b14b9",
+      "confidence": "0.5058858",
+      "timestamp": 210,
+      "content": "freakonomics radio podcast city north side of everything here is your house"
+    },
+    "220": {
+      "requestid": "17f18b89-01e9-4502-ae7e-0b37ebe2a47f",
+      "confidence": "0.6556506",
+      "timestamp": 220,
+      "content": "we were taught"
+    },
+    "230": {
+      "requestid": "82cbbb5f-5055-43b0-93e7-a2186a0276e8",
+      "confidence": "0.7287691",
+      "timestamp": 230,
+      "content": "with the novelist harlan coben about how he creates suspense on the page and what you maybe ask yourself can possibly have to do with economics good"
+    },
+    "240": {
+      "requestid": "03cbe6ac-13ed-40f6-a696-7676b30a26e4",
+      "confidence": "0.6838676",
+      "timestamp": 240,
+      "content": "question"
+    },
+    "250": {
+      "requestid": "9f36c03d-c461-4cce-a812-9a31417b84ca",
+      "confidence": "0.6811444",
+      "timestamp": 250,
+      "content": "alex frankel of assistant professor of economics at the booth school of business at the university of chicago ok cool and amir and anna comma nitsa I'm perfect"
+    },
+    "260": {
+      "requestid": "be4b413d-9550-4c17-bc0e-b4b9bde635b2",
+      "confidence": "0.662119",
+      "timestamp": 260,
+      "content": "economics at the booth school of business at university chicago sodemann I holding my hands a 2015 issue of the journal of political economy of the gpe the comma"
+    },
+    "270": {
+      "requestid": "3ee81ec5-764f-47b4-b31e-b987aa1e8ded",
+      "confidence": "0.689904",
+      "timestamp": 270,
+      "content": "call it's one of the most highly regarded economic journals in the land in this particular issue features a paper by the 3 of you called suspense in surprise"
+    },
+    "280": {
+      "requestid": "80254f7a-e6cd-41c4-b56d-33c7f2a49eca",
+      "confidence": "0.6792769",
+      "timestamp": 280,
+      "content": "go to lay person to me what's a paper like that doing in the journal like this so in a nutshell it's"
+    },
+    "290": {
+      "requestid": "e68cb432-2c26-4e7b-ab5e-b57abcb17b71",
+      "confidence": "0.5901155",
+      "timestamp": 290,
+      "content": "IN economics paper because we say I do that with all admiration albino and admiration was noted okay um"
+    },
+    "300": {
+      "requestid": "7a2aa028-833d-4bd4-8012-a4f7834dbc19",
+      "confidence": "0.7530684",
+      "timestamp": 300,
+      "content": "uiview on the construction in the development of suspense in surprise and other aspects of entertainment as basically"
+    },
+    "310": {
+      "requestid": "69a5a4bc-bbd4-4e53-b9dc-88c0cbc1a694",
+      "confidence": "0.7910397",
+      "timestamp": 310,
+      "content": "optimally economize inganna scarce resource which is the ability to change someone's beliefs is lots of settings"
+    },
+    "320": {
+      "requestid": "e247a41a-bd29-4b68-9628-7d2ea8de190d",
+      "confidence": "0.7413407",
+      "timestamp": 320,
+      "content": "where are some money it's about engaging canonic transaction cares about will get a person thinks a salesperson want you to think bad day like you"
+    },
+    "330": {
+      "requestid": "78465087-47be-4ca6-9e0a-743a747f94c6",
+      "confidence": "0.7437915",
+      "timestamp": 330,
+      "content": "RA lobbyist want a politician to think that the policy is good for dinner is good for them to the whole idea how do you change people's believe has"
+    },
+    "340": {
+      "requestid": "86daed43-ca8c-44ab-8f96-88da544e06ec",
+      "confidence": "0.7774936",
+      "timestamp": 340,
+      "content": "lots and lots of an economic applications"
+    },
+    "350": {
+      "requestid": "15dbec51-c0fe-4b3a-846c-003ed7f5e3f6",
+      "confidence": "0.5900292",
+      "timestamp": 350,
+      "content": "I've spent in surprise for thing you wanna do is distinguished between the 2 right here again is harlan coben message"
+    },
+    "360": {
+      "requestid": "6b547401-a200-4ea6-a219-07270b7b19f5",
+      "confidence": "0.689149",
+      "timestamp": 360,
+      "content": "is it to me keeping people engaged and gripped I'm turning the pages cell unk put a gun against your head and you still wanna raybestos pants"
+    },
+    "370": {
+      "requestid": "1c428dd7-772e-49fb-9769-9c30e7c93c0a",
+      "confidence": "0.7290827",
+      "timestamp": 370,
+      "content": "surprises when you reach that end in gry when you reach certain points in the book and you almost gasp out loud to give the book put you in a place you can expect pick up the 3 a"
+    },
+    "380": {
+      "requestid": "df19a770-212d-4971-8e42-0cf2ddc3c8c0",
+      "confidence": "0.5515352",
+      "timestamp": 380,
+      "content": "comma staufer bit more formal definition of suspense in surprise people revolve around our existing the fruit company"
+    },
+    "390": {
+      "requestid": "8e5f15da-cc0d-4935-a139-ce77d6400d87",
+      "confidence": "0.6709787",
+      "timestamp": 390,
+      "content": "absey 2 outcomes the bleep is just a number between zero and one that indicates the probability that describe your views of that moment I like you think about comets"
+    },
+    "400": {
+      "requestid": "8d36c04b-42ae-4292-ab58-f3eb18da5c85",
+      "confidence": "0.6095864",
+      "timestamp": 400,
+      "content": "suspense have to do with our police before an event happens surprise after a moment has 6 pens"
+    },
+    "410": {
+      "requestid": "c8167ac5-d962-4f74-a339-0005b2e98849",
+      "confidence": "0.63955",
+      "timestamp": 410,
+      "content": "if my belief in the next period is a very volatile thing I don't quite know when I'm gonna think the next period"
+    },
+    "420": {
+      "requestid": "16dfa616-c52a-4af3-a4e2-fe8a3163d0e2",
+      "confidence": "0.6102388",
+      "timestamp": 420,
+      "content": "so suspense is the anticipation your police will change with"
+    },
+    "430": {
+      "requestid": "197e6e5a-da5d-4e97-8eea-1d72552ed598",
+      "confidence": "0.6501992",
+      "timestamp": 430,
+      "content": "trisia police have already changed a lot but the big surprise alex franco give the example of watching a baseball game minutes full count basie"
+    },
+    "440": {
+      "requestid": "6f2905ee-2986-4dc7-ab97-b56443f235bc",
+      "confidence": "0.6106714",
+      "timestamp": 440,
+      "content": "bloated hi to alex something is going to happen at the next patch that's going to change your beliefs about how the game will precede going forward"
+    },
+    "450": {
+      "requestid": "b3efe071-5b21-434b-8c3b-16ca0d75a59a",
+      "confidence": "0.6729951",
+      "timestamp": 450,
+      "content": "so that's the moment when you're really on the edge of your seat you're excited also suspense are in a more formal way it is"
+    },
+    "460": {
+      "requestid": "94759aba-bc8e-448e-9cc5-0840f0225fe3",
+      "confidence": "0.7831643",
+      "timestamp": 460,
+      "content": "that looks at a measure of how much are your beliefs at the next period your beliefs in one moment likely to be different from your beliefs today that captures how much is"
+    },
+    "470": {
+      "requestid": "8e8eff1d-e596-4487-8eb4-3dbc2db5029f",
+      "confidence": "0.7720172",
+      "timestamp": 470,
+      "content": "for may shun is about to be revealed on the other side surprises trying to capture the excitement you get after something big just happens your butt"
+    },
+    "480": {
+      "requestid": "2237966a-09d3-48df-afeb-8d43fd2093b3",
+      "confidence": "0.6178464",
+      "timestamp": 480,
+      "content": "it's just change whether not you expect them to change there's a home run your team is now more likely to win your excited for saturday"
+    },
+    "490": {
+      "requestid": "9f4d6ac4-82b5-4dc4-a38e-9f57692fb9fc",
+      "confidence": "0.8032334",
+      "timestamp": 490,
+      "content": "I don't know that we had at this question I don't think I wanna say which sports are the best"
+    },
+    "500": {
+      "requestid": "19dd1b29-8772-4bcb-9a00-330e95523fa7",
+      "confidence": "0.7602658",
+      "timestamp": 500,
+      "content": "that early for spence in spite of the bed is kinda when I really wanna know so if you compare soccer in particular to lots of"
+    },
+    "510": {
+      "requestid": "62ccafa3-dfc5-401c-896d-f3e9c5df7005",
+      "confidence": "0.7385377",
+      "timestamp": 510,
+      "content": "tetera popular united states one thing you find the soccer scores very low based on the data we collected in terms of the amount of surprises that generate"
+    },
+    "520": {
+      "requestid": "d1805449-d80f-4e50-95ba-83179a5f2ebe",
+      "confidence": "0.6355757",
+      "timestamp": 520,
+      "content": "but he does score very high and suspends show eat even that observation alone might change the conversation from which sport is born"
+    },
+    "530": {
+      "requestid": "29a5ce02-22fb-419a-9caf-1a3fbd183808",
+      "confidence": "0.6800608",
+      "timestamp": 530,
+      "content": "ring boring kind of suggested sredni you need to mention a measure of excitement and partly what we're doing is in my possession a 2 dimensional measure of excitement show me"
+    },
+    "540": {
+      "requestid": "dca4696f-0c34-493e-8041-837b9389ce2c",
+      "confidence": "0.7754864",
+      "timestamp": 540,
+      "content": "be by boring you mean what did you know quite often nothing surprising happens yes that's true but there's very few times in soccer where"
+    },
+    "550": {
+      "requestid": "eeb9bd9a-0dde-4f74-9dcb-b8e0993add5d",
+      "confidence": "0.8779668",
+      "timestamp": 550,
+      "content": "you really can safely get up and leave for 5 minutes and come back in on you didn't really miss anything dramatic with you can quite often do in basket"
+    },
+    "560": {
+      "requestid": "80da8572-cb5a-4f68-a84f-eab9846a15e0",
+      "confidence": "0.7130974",
+      "timestamp": 560,
+      "content": "on baseball simply because nothing dramatic could possibly happen over the next 5 minutes knowing what you learn from analyzing surprise and suspensions"
+    },
+    "570": {
+      "requestid": "a62bdf69-b798-431c-80d5-eb2b1c78dbc2",
+      "confidence": "0.7524688",
+      "timestamp": 570,
+      "content": "fort if the 3 of you could come up with a brand new sport that would be extraordinarily fulfilling for the maximum number of people at work"
+    },
+    "580": {
+      "requestid": "a7fb82be-8144-41be-bd2d-f8880da9a5cd",
+      "confidence": "0.7720206",
+      "timestamp": 580,
+      "content": "over that sport be so we're going back to that idea that excitement is 2 dimensional we don't necessarily wanna give me one answer but we can"
+    },
+    "590": {
+      "requestid": "467aa8e0-cc85-4ea0-baef-ad330175e902",
+      "confidence": "0.7655208",
+      "timestamp": 590,
+      "content": "about how we would maximize suspense how we would maximize surprise separately so let's do that um as we said soccer is very suspenseful"
+    },
+    "600": {
+      "requestid": "d11b2118-7751-477b-8857-04af8c46a7b6",
+      "confidence": "0.7844909",
+      "timestamp": 600,
+      "content": "at any moment something very big could happen desport we would propose to be even more suspenseful than soccer has even fewer goals buckle"
+    },
+    "610": {
+      "requestid": "715d2e92-2bde-407e-af69-cf29b4ebffc9",
+      "confidence": "0.7120154",
+      "timestamp": 610,
+      "content": "those are big r in so how do we get that will in soccer any goal you score can only get you from being behind to being tide or being tide to being had"
+    },
+    "620": {
+      "requestid": "4a17e2b2-a18c-40d9-b767-2801a5c09367",
+      "confidence": "0.7972365",
+      "timestamp": 620,
+      "content": "so I can't move beliefs by all that much and then if someone is 2 goals I had the next score doesn't change your beliefs much at all so here's the game we propose"
+    },
+    "630": {
+      "requestid": "fcaa4dde-cfbf-44bc-b5ea-5b651f7a2f2a",
+      "confidence": "0.7504013",
+      "timestamp": 630,
+      "content": "the last team to score wins now at any moment you blink you could miss the game winning goal and of course the rules"
+    },
+    "640": {
+      "requestid": "0294be51-ca72-4ac6-b224-f4dcf7475944",
+      "confidence": "0.7703853",
+      "timestamp": 640,
+      "content": "have to be changed alot to accommodate this when you're ahead you only play defense are no longer trying to score and so forth but that would be a very suspenseful game"
+    },
+    "650": {
+      "requestid": "d7abff1f-f385-4de0-94c9-60d76c055bbe",
+      "confidence": "0.6704739",
+      "timestamp": 650,
+      "content": "how many pounds can I offer a slight modification that which is yeah be more realistic as we've all played you know everybody's been a plan and it's getting dark and you like okay left corwin's nearby"
+    },
+    "660": {
+      "requestid": "5d14a2c4-a08f-4294-a614-d891f5057938",
+      "confidence": "0.820478",
+      "timestamp": 660,
+      "content": "well that's not fair but you do it anyway that's fine what about this is how we play fifa in in my house sometimes I'm at an end and goal in soccer"
+    },
+    "670": {
+      "requestid": "f45950fd-d042-4a69-8025-20824b40100f",
+      "confidence": "0.6977799",
+      "timestamp": 670,
+      "content": "you dribble let's say this would happen in real soccer but in in people could be could modify it if I dribble let's say in real soccer from midfield"
+    },
+    "680": {
+      "requestid": "26037d2d-ae8e-4b3f-b12a-770aded21935",
+      "confidence": "0.7471382",
+      "timestamp": 680,
+      "content": "yen in score batsto goldsworth does that accomplish some of what you're going for I think it could get some way there and there's gonna be at a trade"
+    },
+    "690": {
+      "requestid": "f9555212-cd4b-48fd-927a-829972fb7654",
+      "confidence": "0.801954",
+      "timestamp": 690,
+      "content": "off again that anytime you allow for these big scoring opportunities it means bad what happens earlier in the game is going to be less impactful and your beliefs"
+    },
+    "700": {
+      "requestid": "75476d97-b730-4284-87f6-7374a5f5dae7",
+      "confidence": "0.731683",
+      "timestamp": 700,
+      "content": "I'm when I scored the first goal you no longer think that it's a safe only does it as it was the 2 things out with alex had it for"
+    },
+    "710": {
+      "requestid": "a4c9f3a7-fc4e-48fa-a5e1-f3a30bce0340",
+      "confidence": "0.5197443",
+      "timestamp": 710,
+      "content": "specific proposal would we wanna do also have goals shrink overtime so that's according complex like wake me in the vatican magic tricks ever do physical gold shrinks overtime"
+    },
+    "720": {
+      "requestid": "5a9ba09b-1446-426d-8e99-b8e205db15c1",
+      "confidence": "0.6592862",
+      "timestamp": 720,
+      "content": "can imagine wanda new post touch each other that's when the games over the other thing to add is that really <profanity>pisses</profanity> answer within the particular"
+    },
+    "730": {
+      "requestid": "65cd57b7-e7ca-49b1-b3fe-a3adab12beca",
+      "confidence": "0.6714033",
+      "timestamp": 730,
+      "content": "are context of a sport it is that week rather than design your question was about a design reason why did design is difficult is that almost every"
+    },
+    "740": {
+      "requestid": "5326ff97-301c-4f10-b21e-affeef1f3dd4",
+      "confidence": "0.7591847",
+      "timestamp": 740,
+      "content": "resetting that is on the provide entertainment has a lot of short of cultural elements that are part of it"
+    },
+    "750": {
+      "requestid": "00e41a91-4de3-4972-8d66-20b24bcd9a87",
+      "confidence": "0.8237739",
+      "timestamp": 750,
+      "content": "make it actually the game that it is are you can't change the game so much for the stops resembling the actual thing that people"
+    },
+    "760": {
+      "requestid": "ad51e915-0ef7-4723-b0bb-6ca8e26fcb85",
+      "confidence": "0.7300597",
+      "timestamp": 760,
+      "content": "recognize it again there's a lot of um elements that are complementary to the provisional information like that tequila kind of athleticism"
+    },
+    "770": {
+      "requestid": "9d400045-7d9c-4156-9fb6-45cc00d54b4c",
+      "confidence": "0.6567981",
+      "timestamp": 770,
+      "content": "particular shirt of tradition d'orcia one and those are absolutely integral to to people's engagement and"
+    },
+    "780": {
+      "requestid": "58f61e2f-c184-4650-a480-acf8dd0755da",
+      "confidence": "0.7570169",
+      "timestamp": 780,
+      "content": "and just investment in in the outcomes and that's why be really hard to design a sport from scratch but you have to build this whole mythology around and all"
+    },
+    "790": {
+      "requestid": "78bdcf4f-747e-4a90-9059-bd13c05dd689",
+      "confidence": "0.4413849",
+      "timestamp": 790,
+      "content": "well what would be a quidditch such clinics tomorrow then I suggest you take extra calmest person that seems like it with"
+    },
+    "800": {
+      "requestid": "0b8d65d8-8da0-4fe7-a36d-f0eb0ace5f67",
+      "confidence": "0.6070465",
+      "timestamp": 800,
+      "content": "pretty great design bobl rannu sport slash game at all kinda suspense in surprise and even high stakes I mean we have approved acquitted can't be optimal dolly"
+    },
+    "810": {
+      "requestid": "b0e9a76c-c1d4-4a97-8752-4adc0412888c",
+      "confidence": "0.762037",
+      "timestamp": 810,
+      "content": "so every time someone is trying to explain the rules of quidditch to me I have not read the harry potter books I should"
+    },
+    "820": {
+      "requestid": "c1ac3afa-464e-41f8-810e-66747e8ce05f",
+      "confidence": "0.6512918",
+      "timestamp": 820,
+      "content": "IA woman that's gotta be straight line I mean they have tried to explain the rules and you get into the small details about people chasing"
+    },
+    "830": {
+      "requestid": "f23367ff-827f-484f-be21-896e06b77544",
+      "confidence": "0.5462397",
+      "timestamp": 830,
+      "content": "had such a snitch the golden snitch like this will be there are complicated rules and then in the end it's"
+    },
+    "840": {
+      "requestid": "15397262-901b-4a36-8667-a86d6ba82856",
+      "confidence": "0.7825561",
+      "timestamp": 840,
+      "content": "it's like and all of that stuff that happened in the first get out 9 tenths of the game doesn't matter at all because then someone"
+    },
+    "850": {
+      "requestid": "ab384f73-6e7b-4d2a-a40b-9762c1e41c48",
+      "confidence": "0.6393945",
+      "timestamp": 850,
+      "content": "what is it take to catch the snitch and then the game is over and they win"
+    },
+    "860": {
+      "requestid": "795a60f5-f276-4749-88d7-0fe827e7a1fc",
+      "confidence": "0.7752294",
+      "timestamp": 860,
+      "content": "adventure of a little bit in the game 3 there's actually some interesting strategy associated with catching a snitch because I'm the rules are that the game ends but if your boy"
+    },
+    "870": {
+      "requestid": "e8653411-3546-41e0-a420-022a99330bd7",
+      "confidence": "0.820016",
+      "timestamp": 870,
+      "content": "kind of course you don't want the game to end so really interesting theoretical question from the game 3 point avia what do you do when you found a snitch and your behind you"
+    },
+    "880": {
+      "requestid": "cd214934-ea99-4fe0-85fe-b511e2e1ab0c",
+      "confidence": "0.8444821",
+      "timestamp": 880,
+      "content": "actually have to make sure that the other guy does know that you found a snitch and so you have to fly and completely random directions in order that your path of flight doesn't reveal any information about"
+    },
+    "890": {
+      "requestid": "9faf4ab8-d5be-4f8b-9b60-1a7a0cd0e791",
+      "confidence": "0.6860605",
+      "timestamp": 890,
+      "content": "the location of the snitch and it might be a pretty interesting task to do even if you run a broom"
+    },
+    "900": {
+      "requestid": "82db66a4-70f2-43e4-9c39-6012bfe51b50",
+      "confidence": "0.5742564",
+      "timestamp": 900,
+      "content": "wow economists are such killjoys how can you turn something is funny sports into a sack of map know if it's any comfort"
+    },
+    "910": {
+      "requestid": "ec28f215-09c1-4f39-a7e6-950623cf9013",
+      "confidence": "0.7665297",
+      "timestamp": 910,
+      "content": "can also take the fun out of non sporting events 2 alex went to one thing that I think is interesting about just the realms of movies or"
+    },
+    "920": {
+      "requestid": "9dbedd6b-8d4c-48e0-abbf-8f78293215ca",
+      "confidence": "0.6800816",
+      "timestamp": 920,
+      "content": "I kno falls relative to sports is that in sports the rules are all known very well reading a book it's a lot harder"
+    },
+    "930": {
+      "requestid": "537ed9b4-8e01-47b7-a512-dd278a51d54a",
+      "confidence": "0.6555104",
+      "timestamp": 930,
+      "content": "no I want you should believe are watching a movie listings are going to depend on just what are the formulas of the genre on"
+    },
+    "940": {
+      "requestid": "0063351e-975b-403f-99b1-aba0bbc05b44",
+      "confidence": "0.8108988",
+      "timestamp": 940,
+      "content": "how likely do you think plot twist sorry it's not going to be determined by the rules of the game in the way that sports are harlan coben agree"
+    },
+    "950": {
+      "requestid": "58a54fc5-b322-4bf2-9f00-e9f8b1eb24da",
+      "confidence": "0.7374052",
+      "timestamp": 950,
+      "content": "at this point and he says that from the novel perspective this is harder than you might think my world has been actually be a more realistic than them to be"
+    },
+    "960": {
+      "requestid": "bc7da280-9344-416d-878c-fcf3d4d3f52e",
+      "confidence": "0.6450884",
+      "timestamp": 960,
+      "content": "I'm in the lower amber few years ago there is that horrible case of the girl is the best smart who is kidnapped and choose of 8:15 or 16 and and if I wrote a book meeting"
+    },
+    "970": {
+      "requestid": "571eb43c-dc7b-4571-8af1-918aea657794",
+      "confidence": "0.6366365",
+      "timestamp": 970,
+      "content": "being a homeless guy who are done work in their house fire in madison <profanity>fucking</profanity> use to wait a minute no cops look at the homeless guy the crazy homeless guy with"
+    },
+    "980": {
+      "requestid": "f66454d0-56cf-405d-9542-d8cee33b8702",
+      "confidence": "0.6334944",
+      "timestamp": 980,
+      "content": "god complex who is working are you would throw the book across the room because it's completely unrealistic"
+    },
+    "990": {
+      "requestid": "5abceb10-e8e1-4d57-b3ba-79b76db2ca6f",
+      "confidence": "0.6538427",
+      "timestamp": 990,
+      "content": "what about this numerically inlets a mystery novel what is the ultimate number pot with 3"
+    },
+    "1000": {
+      "requestid": "8cf6004d-689e-41a8-9ef5-4d0cbe20180c",
+      "confidence": "0.2815295",
+      "timestamp": 1000,
+      "content": "on average"
+    },
+    "1010": {
+      "requestid": "2ba27d03-9ad7-4116-908c-6fdb129c12e2",
+      "confidence": "0.800063",
+      "timestamp": 1010,
+      "content": "yes I am so you know the easiest to do you want the short answer to the short answer really S3 on average to slightly longer answer is you know"
+    },
+    "1020": {
+      "requestid": "b1570eea-b9b7-4d7e-ae3c-3eb2473e5be2",
+      "confidence": "0.7859265",
+      "timestamp": 1020,
+      "content": "it depends on the preferences on and I let you know you you couldn't you could imagine someone who who who really likes you know to have 5"
+    },
+    "1030": {
+      "requestid": "17cfbe9d-586d-4581-a816-29c4deeb6f91",
+      "confidence": "0.7765183",
+      "timestamp": 1030,
+      "content": "lots of tiny little surprises in someone who but you know according to according to you know reasonable parameters the number is small"
+    },
+    "1040": {
+      "requestid": "6a906902-7638-4bbd-8bdd-c8bee5feb2f4",
+      "confidence": "0.5395514",
+      "timestamp": 1040,
+      "content": "n and probably around 3"
+    },
+    "1050": {
+      "requestid": "c92545c8-dd83-48cf-9b87-9592b968326e",
+      "confidence": "0.6191414",
+      "timestamp": 1050,
+      "content": "is as scarce resource 2 few plot twist and you for the reader board you are too many the overwhelming I put their premises too hard"
+    },
+    "1060": {
+      "requestid": "6c75e2cc-9a95-462d-a0d1-a4f235a803e6",
+      "confidence": "0.7534723",
+      "timestamp": 1060,
+      "content": "can do you think about it that way do you think about this arsenal of the notice this pulitzer prize in suspense that you have to have enough I have to pay off but if you do"
+    },
+    "1070": {
+      "requestid": "8892290a-af31-4562-ac29-09b9b174834b",
+      "confidence": "0.7389051",
+      "timestamp": 1070,
+      "content": "too much and it's not good yeah it's a tough balance all the time I tried it and it is the key I think is a try to make it organic I'm at I sometimes it"
+    },
+    "1080": {
+      "requestid": "35c5ead5-360c-46eb-896c-53337168023b",
+      "confidence": "0.5984415",
+      "timestamp": 1080,
+      "content": "if I am guilty of the IRI go too far I've rarely medit whispered in traffic um but I'm doing it to be shown in france right now at"
+    },
+    "1090": {
+      "requestid": "5ca1c39e-b8ad-4d91-8858-f7ee3dac668b",
+      "confidence": "0.6095357",
+      "timestamp": 1090,
+      "content": "and I are you have this ridiculous twisted very very in the change the whole thing and I love it was such a great whispers am leaving as much you make your problem is you for"
+    },
+    "1100": {
+      "requestid": "fd1965d5-704f-4a9b-a813-c6a46da7feaa",
+      "confidence": "0.7098783",
+      "timestamp": 1100,
+      "content": "at the wonderful motion you focusing 4 so as much as it pains me I'm going to get rid of that last which one of the hardest part of the job is to make for dinner coz I don't know"
+    },
+    "1110": {
+      "requestid": "ae20ff3e-8ff1-48b0-aa78-e103da6118b7",
+      "confidence": "0.6914972",
+      "timestamp": 1110,
+      "content": "wanna surprise you II need to move you emotionally with the ending so it's one thing to stir or for the mind and and post but I'll ship it through the heart and give"
+    },
+    "1120": {
+      "requestid": "f51c6b8f-881b-43fb-bbb2-2700987bd1f8",
+      "confidence": "0.6805314",
+      "timestamp": 1120,
+      "content": "did it start the hardest part of my job that's the part that really freezes me sometimes ok so um you know AM everyone every creator wants to"
+    },
+    "1130": {
+      "requestid": "8ea1a532-c0c9-41e4-bd55-e9f63b500fde",
+      "confidence": "0.7462236",
+      "timestamp": 1130,
+      "content": "get to bang out of the surprise but he creates it's jeff healey and he doesn't internalize the fact that if he creates you"
+    },
+    "1140": {
+      "requestid": "adad370a-05b3-49a1-9df4-89e4a96b9f6e",
+      "confidence": "0.8289558",
+      "timestamp": 1140,
+      "content": "surprise that's gonna prime the audience to expect yet another surprise the next time he watch is some other guys movie and so it's all of the film"
+    },
+    "1150": {
+      "requestid": "e6389b7b-618e-4736-bcad-84fce763d62f",
+      "confidence": "0.8233277",
+      "timestamp": 1150,
+      "content": "lakers could get together include they would agree to have fewer surprises in order to make each surprise more valuable and make everything more suspenseful reach gaya self interested"
+    },
+    "1160": {
+      "requestid": "bd16fe09-2c23-45ff-8adf-de50990ec40e",
+      "confidence": "0.6542067",
+      "timestamp": 1160,
+      "content": "so he's producing too much of it so brad became part of consolidation of the meeting um no but I'm so you know it it it it explain"
+    },
+    "1170": {
+      "requestid": "c8847313-921b-4e95-9fb8-83586ac7484e",
+      "confidence": "0.7065312",
+      "timestamp": 1170,
+      "content": "is why I am you know you get out of alex and I before coming in here we were talking about our superhero fights and you know you know every single time"
+    },
+    "1180": {
+      "requestid": "07668ef5-ce2b-444b-a998-22bcb76d6c64",
+      "confidence": "0.8363355",
+      "timestamp": 1180,
+      "content": "that does superheroes the get into a fight are gonna knock each other out but there gonna come right back up and um there's really absolutely no surprise what's the web"
+    },
+    "1190": {
+      "requestid": "8d336db6-cf96-4c4a-9c66-046223b1bfd1",
+      "confidence": "0.7706923",
+      "timestamp": 1190,
+      "content": "are involved in watching super heroes fight and you know that that's because at some point in time you know superheroes were new in the"
+    },
+    "1200": {
+      "requestid": "2515f86f-9c0c-45d8-a213-c5be68b0a670",
+      "confidence": "0.8044987",
+      "timestamp": 1200,
+      "content": "who was first controlling superheroes took advantage of the fact that people want experience with them and they use all they got all of surprises out of the way and I were sort of stuck with"
+    },
+    "1210": {
+      "requestid": "741eeb4b-2ad7-4ed2-925a-45071ae2b993",
+      "confidence": "0.7203969",
+      "timestamp": 1210,
+      "content": "yeah the legacy of that which is that that sean at least it's been completely tapped out in terms of the excitement"
+    },
+    "1220": {
+      "requestid": "a3212f7b-24cb-4019-8a8a-231c406e8279",
+      "confidence": "0.8232143",
+      "timestamp": 1220,
+      "content": "writer writing up at something about a sporting event so you're watching friday night lights about a football match you can guess there's probably gonna be in on thurs"
+    },
+    "1230": {
+      "requestid": "227a8335-1069-4193-b4ca-5232c1c711e9",
+      "confidence": "0.8236474",
+      "timestamp": 1230,
+      "content": "and I'll be down by 3 touchdowns and then there gonna have some epic ron at the end where they tie it up and then when up the last second this is something that's very"
+    },
+    "1240": {
+      "requestid": "c8ca1dfa-b0a2-4674-af65-0f7b7cf65e0d",
+      "confidence": "0.8922853",
+      "timestamp": 1240,
+      "content": "yeah unlikely to happen in an actual football game and probably extremely likely to happen in a tv show about a football game are taking advantage"
+    },
+    "1250": {
+      "requestid": "86e256d2-d051-4d0f-8d51-2305f4f9c67e",
+      "confidence": "0.6810272",
+      "timestamp": 1250,
+      "content": "jovar beliefs from one frame and then just adding too many surprises exploiting it in the other coming up on freakonomics radio"
+    },
+    "1260": {
+      "requestid": "65f891fa-c5c5-4930-a43c-2ae06e3e4644",
+      "confidence": "0.7137194",
+      "timestamp": 1260,
+      "content": "I hear from brian grazer one of the producers of friday night lights along with many other huge <profanity>tits</profanity> and I can tell you how weak we did spencer kill an ant"
+    },
+    "1270": {
+      "requestid": "0a890276-f88b-4a66-987a-1996d022cb07",
+      "confidence": "0.6381303",
+      "timestamp": 1270,
+      "content": "what happens when a film maker fails to keep the long as a prize in suspense either you know you just got to live with that and the declining box office for"
+    },
+    "1280": {
+      "requestid": "fb28d012-98f1-4801-8447-4d3dceea9aa6",
+      "confidence": "0.6700961",
+      "timestamp": 1280,
+      "content": "it's become is a result or you know you have to find a new job"
+    },
+    "1290": {
+      "requestid": "99821c71-5cdd-4878-a4b5-7d95b2903981",
+      "timestamp": 1290,
+      "content": ""
+    },
+    "1300": {
+      "requestid": "b7deaa38-837d-4a50-bafb-2c71fcf1c40c",
+      "confidence": "0.9006059",
+      "timestamp": 1300,
+      "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports from"
+    },
+    "1310": {
+      "requestid": "19cd719d-16d7-4098-8296-1399c80a4897",
+      "confidence": "0.7967144",
+      "timestamp": 1310,
+      "content": "genetic information based on a small saliva sample canadiens can learn about their genetic information that published studies have associated with conditions in traits like celiac"
+    },
+    "1320": {
+      "requestid": "6359f93d-c43e-4237-bbca-25414de1c5a9",
+      "confidence": "0.8617386",
+      "timestamp": 1320,
+      "content": "aziz cystic fibrosis and even response to certain medications more information is available at 23 the number in me dot CA"
+    },
+    "1330": {
+      "requestid": "850e64b3-6322-4fe0-a796-10cb2ee57c38",
+      "confidence": "0.760785",
+      "timestamp": 1330,
+      "content": "from wmic this is freakonomics radio here's your host stephen dubner"
+    },
+    "1340": {
+      "requestid": "d583c797-3eaf-4d9c-8b96-850f75531e84",
+      "confidence": "0.7489421",
+      "timestamp": 1340,
+      "content": "what you're about to hear it's not a surprise I ruin the surprise but tell me right before the break we be talking too but hey"
+    },
+    "1350": {
+      "requestid": "7c75c38d-eed0-4d5a-8647-070994ba9fb5",
+      "confidence": "0.7240572",
+      "timestamp": 1350,
+      "content": "bbm a bad memory hyam brian grazer happy to be here with you today on freakonomics kirlia british tv series called empire"
+    },
+    "1360": {
+      "requestid": "b2737065-584d-4fc0-92fc-604aa8267c12",
+      "confidence": "0.6065014",
+      "timestamp": 1360,
+      "content": "which is the weather in elwood indiana we know what are in a kilo 24 arrested development friday night lights in sofia"
+    },
+    "1370": {
+      "requestid": "354e9714-0fe3-4108-aa8c-d9d16288a98e",
+      "confidence": "0.7961342",
+      "timestamp": 1370,
+      "content": "is like that and then of course the movies I won oscar for a beautiful mind and I produced apollo 13 american gangster which I love 8 mile"
+    },
+    "1380": {
+      "requestid": "d9f77f64-7a2b-429d-89fa-eb092508af5f",
+      "confidence": "0.6513026",
+      "timestamp": 1380,
+      "content": "all of friday night lights up brush how many more I'm forgetting right now a beautiful mind is the film about john"
+    },
+    "1390": {
+      "requestid": "9ad4f994-3f3e-4855-ba6a-db6935c578c1",
+      "confidence": "0.7493135",
+      "timestamp": 1390,
+      "content": "ashburn princeton mathematician adult for many years with paranoid schizophrenia in 1994 he was awarded the nobel prize for is contributions to economics in game theory"
+    },
+    "1400": {
+      "requestid": "c69cfed1-91ff-4166-b352-3a347004bec4",
+      "confidence": "0.7259282",
+      "timestamp": 1400,
+      "content": "in may of this year he was killed in traffic crash at 88061 this way I can if you brian grazer before nash died but his admiration with poppy"
+    },
+    "1410": {
+      "requestid": "af4e77d6-f230-4495-afc2-8647e7d8d842",
+      "confidence": "0.7884798",
+      "timestamp": 1410,
+      "content": "for starters there's the title the graeser his given the book just published a curious mind in this book grieser right about his habit of"
+    },
+    "1420": {
+      "requestid": "67521aac-69cd-43aa-abcd-0dd6c33b3bd9",
+      "confidence": "0.7665401",
+      "timestamp": 1420,
+      "content": "arranging conversations with people he admires curiosity conversation to call them so I've done that with a puppy a thousand people in the"
+    },
+    "1430": {
+      "requestid": "32f382c4-50a1-44c2-88b2-171e50bd387b",
+      "confidence": "0.7865627",
+      "timestamp": 1430,
+      "content": "<profanity>fuck</profanity> itself is in some ways of synthesis of these over 30 years of meetings that I had it some it's really what I found is that"
+    },
+    "1440": {
+      "requestid": "6f6e359c-6c29-4826-983b-d744fdf81598",
+      "confidence": "0.7615079",
+      "timestamp": 1440,
+      "content": "each person each subject became kind of a dot in a larger constellation and in some ways and it sometimes they became a"
+    },
+    "1450": {
+      "requestid": "a342fc59-efc1-4410-add6-c96c52913a36",
+      "confidence": "0.792799",
+      "timestamp": 1450,
+      "content": "insight dad gave me an interesting or new perspective on what could be a movie or television are you to buy let's talk about I wanna talk about"
+    },
+    "1460": {
+      "requestid": "cfb29603-2495-4bd8-8022-33f18b20312e",
+      "confidence": "0.7153412",
+      "timestamp": 1460,
+      "content": "suspense in surprise I'm in the premise here is it at these 3 economista brittana paper that analyzes how to optimize surprise"
+    },
+    "1470": {
+      "requestid": "38f61e79-23a3-4c00-9e52-e68f985688a6",
+      "confidence": "0.6366036",
+      "timestamp": 1470,
+      "content": "is in suspense ok so now your friend yeah they talkin or show empire operates on that axiom what do you mean by well then when people say why does me nobody"
+    },
+    "1480": {
+      "requestid": "224bd1f5-59b2-459a-8be4-90139e0ee643",
+      "confidence": "0.7295228",
+      "timestamp": 1480,
+      "content": "knows why is success really work 6 there's no exact formula so in the case of empire were <profanity>ass</profanity> quite a bit like why why is it so successful are in an amazing"
+    },
+    "1490": {
+      "requestid": "e8470772-63ca-4b01-8291-daae05b2f0c8",
+      "confidence": "0.758551",
+      "timestamp": 1490,
+      "content": "and what's the formula in every week it's going up and up and up with the one consistent thing um is that we create she surprises or shocking mom"
+    },
+    "1500": {
+      "requestid": "85323655-6436-4bc2-a897-a72fa592b68d",
+      "confidence": "0.6825823",
+      "timestamp": 1500,
+      "content": "it's every single week really shocking moments that are about betrayal I never let anything come between friendship"
+    },
+    "1510": {
+      "requestid": "320a60d1-d3fd-4332-b012-7690a31a9438",
+      "confidence": "0.6821963",
+      "timestamp": 1510,
+      "content": "or cheating or um greed envy you not wanting the throne be willing to do anything to get the throne"
+    },
+    "1520": {
+      "requestid": "9ec04f54-95d4-4da8-a7c6-6d95d4f183dc",
+      "confidence": "0.6416783",
+      "timestamp": 1520,
+      "content": "um who is sleeping with who oh my god is that really a check in please cookie really did that what is power to disclose to the sec that I would be original in bessemer"
+    },
+    "1530": {
+      "requestid": "3feedceb-e542-4e91-8337-e330272e046f",
+      "confidence": "0.6887841",
+      "timestamp": 1530,
+      "content": "$400,000 in drug money so if that is like within its entire formula of them is the one"
+    },
+    "1540": {
+      "requestid": "a4db2a68-06d4-40be-8c75-3db26bf16089",
+      "confidence": "0.7596126",
+      "timestamp": 1540,
+      "content": "dang it I think is the driving force of white people so did the show know let me ask you this how formulaic is that I don't mean for me like yours about"
+    },
+    "1550": {
+      "requestid": "093f44c4-c08b-44ce-a57e-d48ee6781232",
+      "confidence": "0.6722378",
+      "timestamp": 1550,
+      "content": "sorry but I mean when the script to being written by nelson re written and then finally shot I mean um because these guys well done what they've done is analyzed a bunch of with a"
+    },
+    "1560": {
+      "requestid": "8da5499f-12a9-4e6a-a274-9e31dc54307a",
+      "confidence": "0.7293795",
+      "timestamp": 1560,
+      "content": "you are successful pieces of work with that film novels sporting events and so on and they've come down to like the optimal number of plot twist which by the way is 3 n"
+    },
+    "1570": {
+      "requestid": "efadf790-5755-4580-9cc7-df1bbdfbd0f6",
+      "confidence": "0.7788539",
+      "timestamp": 1570,
+      "content": "best he said which to release or suspend information how do you anticipate may be up in the audience is expectations so how formulaic is that for u"
+    },
+    "1580": {
+      "requestid": "68be1fcc-93bd-490e-853c-bf7faee8cdf0",
+      "confidence": "0.8093679",
+      "timestamp": 1580,
+      "content": "weather with empire or with other tv shows are filmed it mean it's actually not formulaic in the way you're stating it"
+    },
+    "1590": {
+      "requestid": "addebb1a-13ed-413b-9c69-621e50379119",
+      "confidence": "0.7083433",
+      "timestamp": 1590,
+      "content": "not it's not can't its not consciously formulaic now I know when horror films are made it's quite a bit here too they do it here to a formula"
+    },
+    "1600": {
+      "requestid": "27c96831-935d-48c1-9b5a-38debd71fa74",
+      "confidence": "0.650317",
+      "timestamp": 1600,
+      "content": "like the one you just mentioned but in our show it's much more ruffage tonight it's because we have other elements that are you"
+    },
+    "1610": {
+      "requestid": "bacf6c97-5f6e-4301-a045-b12f65e62d2a",
+      "confidence": "0.8204849",
+      "timestamp": 1610,
+      "content": "we have music we have external music internal music that you know the characters singing so um it's not know it might find the formula or"
+    },
+    "1620": {
+      "requestid": "a6e682d6-8814-4b18-9206-a5605ce974c6",
+      "confidence": "0.8133304",
+      "timestamp": 1620,
+      "content": "an algorithm at some points given that we've only done one season but currently we just know that we want at least 3 of those situations shocking"
+    },
+    "1630": {
+      "requestid": "6767fa7a-c222-40e9-b10d-a2002b18b45a",
+      "confidence": "0.6090486",
+      "timestamp": 1630,
+      "content": "or a surprising moments on tour platter ampersand twister epicon prepa said right so if you agree with them on the number"
+    },
+    "1640": {
+      "requestid": "f2b79fbe-2326-4b0b-872a-854091a81b3e",
+      "confidence": "0.7332361",
+      "timestamp": 1640,
+      "content": "that is not within the formula that I think your tights at that precise yet so I was looking at all the films that you've done been involved in tv shows in thinking about surprising"
+    },
+    "1650": {
+      "requestid": "18772ac7-965b-4559-8831-d7b39e1e18a0",
+      "confidence": "0.7621243",
+      "timestamp": 1650,
+      "content": "spence one that came to mind again and again and I wanna talk about is apollo 13 so II don't know if you'll agree that some with me that that is in the"
+    },
+    "1660": {
+      "requestid": "19f4d729-e473-443e-b2d4-38c6204057da",
+      "confidence": "0.6451705",
+      "timestamp": 1660,
+      "content": "the suspenseful yes very suspenseful oh this is houston up say again please houston we have a problem"
+    },
+    "1670": {
+      "requestid": "3f6f894b-8ade-4b58-9987-d58a0f9dabc8",
+      "confidence": "0.7789176",
+      "timestamp": 1670,
+      "content": "it was the goal to make it to spence fault it was hard to do because what I was thinking it's because we know what happens at the end zach lee we know what happens"
+    },
+    "1680": {
+      "requestid": "0ea115be-2892-40a1-8549-aefc6b05e5ea",
+      "confidence": "0.8468129",
+      "timestamp": 1680,
+      "content": "then which is the most important factor in secondarily were limited to only a couple of worlds most it was the world of the space capsule"
+    },
+    "1690": {
+      "requestid": "f82570fe-ad4f-4dde-a1be-b5c048892abd",
+      "confidence": "0.8020989",
+      "timestamp": 1690,
+      "content": "exactly so like all the suspense is like yeah yeah it's pretty inactive I mean considering it to space mission a lot of the shots are you know instrument panels and more instruments"
+    },
+    "1700": {
+      "requestid": "74de0664-3d57-4c5d-9f44-455f735b5e2f",
+      "confidence": "0.6743259",
+      "timestamp": 1700,
+      "content": "malls in the switch being switch and then we get them a lot when you're here um and yeah it's unbelievably suspenso even though I"
+    },
+    "1710": {
+      "requestid": "5daff28b-23cb-49cb-8a9e-8262a9054d98",
+      "confidence": "0.8209252",
+      "timestamp": 1710,
+      "content": "I assume I don't know if you have any data on how many people actually knew that they all got back ok did you know anything about what the audience was expecting on that front no we didn't we didn't know"
+    },
+    "1720": {
+      "requestid": "6794753f-dcf5-42e8-a0bc-a23d2f8cedb3",
+      "confidence": "0.7600735",
+      "timestamp": 1720,
+      "content": "weekly assumed it was a pretty high number to make is how you get your gonna market the movie it's gonna marketing brings attention to what people say what's it about in they say you know bill"
+    },
+    "1730": {
+      "requestid": "e8714e9a-f984-4809-8bf4-999dc915f12b",
+      "confidence": "0.7510831",
+      "timestamp": 1730,
+      "content": "guys that tried to get to the moon I guess they're saying in in made it back if it means so what to be gone on people's minds I think that"
+    },
+    "1740": {
+      "requestid": "2c226059-13c6-4ccb-ba6e-70ba6a43104a",
+      "confidence": "0.6670327",
+      "timestamp": 1740,
+      "content": "liberty high percent thought it was that made it back safely I can tell you how we created spence if you want tell me that is sweet I like they were here yet yahoo"
+    },
+    "1750": {
+      "requestid": "99a4c136-f1be-4b3e-ae7a-5b338d836312",
+      "confidence": "0.649451",
+      "timestamp": 1750,
+      "content": "ok we created suspense by living inside the psyche of these guys these astronauts from created spending a little more time"
+    },
+    "1760": {
+      "requestid": "de14b552-285c-4f27-8cd4-dc6a29b3e5cc",
+      "confidence": "0.8149259",
+      "timestamp": 1760,
+      "content": "the people are comfortable are creating showing their lives in their lives with their families and people that are really important to them so once they got"
+    },
+    "1770": {
+      "requestid": "8e128be9-edf1-4386-91fd-ced205bc72cf",
+      "confidence": "0.531206",
+      "timestamp": 1770,
+      "content": "on that rocketed that engine is blowing them up"
+    },
+    "1780": {
+      "requestid": "53c9d47f-dae6-4eb4-8aa9-a41e9ebfd566",
+      "confidence": "0.7160009",
+      "timestamp": 1780,
+      "content": "that one girl at cape canaveral is crying she is your husband go up is them you know it it gets you really emotional and so"
+    },
+    "1790": {
+      "requestid": "6cf933cd-422c-4cee-b913-ce8d291fa394",
+      "confidence": "0.7965674",
+      "timestamp": 1790,
+      "content": "every time there is a worry in outer space you cut the mission control trying to solve the problem and then when the problem could be solved you"
+    },
+    "1800": {
+      "requestid": "073484c1-31ba-4435-bf73-33b255aab09d",
+      "confidence": "0.8396248",
+      "timestamp": 1800,
+      "content": "how often are cutting to the family are the priest or you know people and external world that are really really important to those 3 astor not in their lives a kid"
+    },
+    "1810": {
+      "requestid": "c82a9927-8634-4ce5-a2f9-cdf49b132879",
+      "confidence": "0.7135965",
+      "timestamp": 1810,
+      "content": "ed's the kids in school yeah when you're on the set up what's it like to watch scenes being shot double end up as very suspenseful but I assume it"
+    },
+    "1820": {
+      "requestid": "fa1528f6-f996-452b-9d85-3b69ff62fd37",
+      "confidence": "0.6104485",
+      "timestamp": 1820,
+      "content": "the actual shooting there's nothing remotely suspenso bad at all haha well but it's boring period haha you know"
+    },
+    "1830": {
+      "requestid": "89faf000-4894-44c9-90f6-76e0d2a45e18",
+      "confidence": "0.7609488",
+      "timestamp": 1830,
+      "content": "the meat is not with you get it yet you asking there just pieces of things so when you're trying to create to spend your getting little pieces of things you're not shooting full"
+    },
+    "1840": {
+      "requestid": "096f37a9-c94f-4514-a5e5-4138affbd401",
+      "confidence": "0.8424914",
+      "timestamp": 1840,
+      "content": "sequences in fact we're shooting everything in the rockets because we decided to show zero gravity by having zero gravity is supposed to take"
+    },
+    "1850": {
+      "requestid": "e293e83b-3c98-49cb-acdb-2d6dcb9ffa77",
+      "confidence": "0.6962495",
+      "timestamp": 1850,
+      "content": "the wires off did you later anything like that we um you know where do use the special KC 3135 jet that I'm pretty"
+    },
+    "1860": {
+      "requestid": "cf176c7e-86b9-4a3f-899c-69f5db2a2eab",
+      "confidence": "0.7561892",
+      "timestamp": 1860,
+      "content": "no prob ulisses meaning weightlessness of about 24 to 28 seconds and you get about 16 seconds of screen time per problem"
+    },
+    "1870": {
+      "requestid": "51ae729a-da4d-4872-8824-e23ef9d07094",
+      "confidence": "0.7559453",
+      "timestamp": 1870,
+      "content": "so you want to build those minutes tiny brick by tiny brick the entire time what's it like to watch the finished product when you know how was the same"
+    },
+    "1880": {
+      "requestid": "761415c5-c009-430b-a733-f131c6383790",
+      "confidence": "0.7082897",
+      "timestamp": 1880,
+      "content": "bold does the suspense in surprise work on you um I know you show you are invited to show apollo 13 at the white house because in clinton by then I know you think so"
+    },
+    "1890": {
+      "requestid": "5516c1f4-c984-4fba-b2a0-3ae4f22c3e5d",
+      "confidence": "0.8105754",
+      "timestamp": 1890,
+      "content": "futai at least a few times but even by that point this is the little bit before they release does the suspense store can you buy that point or is it more like your kinda looking for the the rivets"
+    },
+    "1900": {
+      "requestid": "e9b0698c-9b78-4bdc-bc18-61c9579feef5",
+      "confidence": "0.6617772",
+      "timestamp": 1900,
+      "content": "yeah come on the movie the suspense does still work for me in the map with lynn more than willie equal to or more than this is busy"
+    },
+    "1910": {
+      "requestid": "f8f8b029-01eb-473b-9406-d73e68f40924",
+      "confidence": "0.7077017",
+      "timestamp": 1910,
+      "content": "motion isn't that when it rock it takes off and you hear that james horner music and in that case with that rocket launch for storyboarding by james"
+    },
+    "1920": {
+      "requestid": "edfc36d3-235d-4501-8b58-b29b96ebaf82",
+      "confidence": "0.6991538",
+      "timestamp": 1920,
+      "content": "hammerman it's it's like the sum total of what the entire apollo program felt like to move in with his place in the world was you know"
+    },
+    "1930": {
+      "requestid": "e4fb407b-44e6-45d4-8f64-c3dd6a900845",
+      "confidence": "0.7689942",
+      "timestamp": 1930,
+      "content": "like the enormity of the program in relation to geopolitical politics and II just a dumb <profanity>bitch</profanity> is so powerful in human so I"
+    },
+    "1940": {
+      "requestid": "42f4892c-c2bb-46d8-8757-f64959d8cdda",
+      "confidence": "0.7793573",
+      "timestamp": 1940,
+      "content": "I moved by it every time"
+    },
+    "1950": {
+      "requestid": "caa1b691-0ee5-4afd-ae92-d2b10dfc8899",
+      "timestamp": 1950,
+      "content": ""
+    },
+    "1960": {
+      "requestid": "ed9605bb-0442-4b6e-9f33-d0b0753691d1",
+      "confidence": "0.7158239",
+      "timestamp": 1960,
+      "content": "brian grazer have been phenomenally successful as a producer in 1986 he cofounded imagine entertainment long is ron howard including the project"
+    },
+    "1970": {
+      "requestid": "bd43f189-00ef-4f01-819f-3baff6b12cee",
+      "confidence": "0.8176033",
+      "timestamp": 1970,
+      "content": "meet together grazers movies have taken more than $13 Million with 43 oscar nominations for tv shows have been nominated for more than 150 am"
+    },
+    "1980": {
+      "requestid": "022f7d14-aaba-46e9-9c35-2b87cbee2eff",
+      "confidence": "0.7358671",
+      "timestamp": 1980,
+      "content": "it is of course impossible to attribute graeser success is to simply understand how to dish out suspension surprise but according to economists you"
+    },
+    "1990": {
+      "requestid": "2857ae8f-7d75-478a-b40f-0b10fad9da15",
+      "confidence": "0.7130104",
+      "timestamp": 1990,
+      "content": "can make some art of the counter argument but if you fail to handle suspense is priced properly the market will punish you cheers jeff healey"
+    },
+    "2000": {
+      "requestid": "686c0390-e26f-4cba-9207-47a198dc68bb",
+      "confidence": "0.7067878",
+      "timestamp": 2000,
+      "content": "when I give this talk um I show a plot of the film maker and I&I can ever pronounce his name right I don't know if you know and m night shyamalan"
+    },
+    "2010": {
+      "requestid": "fc53c592-d471-4bb9-9e5a-65205f4096eb",
+      "confidence": "0.6540607",
+      "timestamp": 2010,
+      "content": "shame on me know and III'm i'm about to disparition but I actually think that the 6 cents with that was a great movie times"
+    },
+    "2020": {
+      "requestid": "ad79ea5d-0310-47d0-8911-e200ff70e72c",
+      "confidence": "0.7439109",
+      "timestamp": 2020,
+      "content": "I really like and I even like the second movie unbreakable quite a lot on but when I present this time I show up lots of m night sham alon"
+    },
+    "2030": {
+      "requestid": "d1e88e97-3710-4478-80fb-8bada8ca5d12",
+      "confidence": "0.8381955",
+      "timestamp": 2030,
+      "content": "box office numbers on for his films starting with the 6 cents in a plot shows it clear downward trend since the sixth sense"
+    },
+    "2040": {
+      "requestid": "8c513b5f-a695-4fa4-8636-00298caf6421",
+      "confidence": "0.7907473",
+      "timestamp": 2040,
+      "content": "and I know you know this is an example of why I'm once you've lost control of the audiences expectation"
+    },
+    "2050": {
+      "requestid": "ab856bf1-1cd9-41a2-a822-385125b9304d",
+      "confidence": "0.8104506",
+      "timestamp": 2050,
+      "content": "by exploiting their umniah batay the first time around once you have exploited the audience the first time there coming to expect it in"
+    },
+    "2060": {
+      "requestid": "797ee13b-300f-4b69-95f3-a2ae222fa787",
+      "confidence": "0.7756566",
+      "timestamp": 2060,
+      "content": "I'm either you know you just got to live with that and the declining box office receipts that come as a result or you know you have to find a new art"
+    },
+    "2070": {
+      "requestid": "4dcf7745-1feb-47c0-bc1a-9af133a6b4cc",
+      "confidence": "0.6541183",
+      "timestamp": 2070,
+      "content": "a new genre or renowden at you up to reset the audiences expectations in some way and apparently failed to do that is harlan coben"
+    },
+    "2080": {
+      "requestid": "f6ff80c4-a1c2-4fc5-af3f-d151d1629b48",
+      "confidence": "0.8428262",
+      "timestamp": 2080,
+      "content": "said about writing thrillers you're not just creating suspense in surprise on their own you're creating them in relation to the consumers expectations which I can't sleep"
+    },
+    "2090": {
+      "requestid": "5d423251-0768-45c9-bfbe-3a6809eed40f",
+      "confidence": "0.6339248",
+      "timestamp": 2090,
+      "content": "upgrade still feel kinda bad for help ily disparage sham alon let's see if I start reading will be online hordes of had to say about him"
+    },
+    "2100": {
+      "requestid": "39988d3b-e883-43c7-befc-6db6dd223a1e",
+      "confidence": "0.8031972",
+      "timestamp": 2100,
+      "content": "what are the 4 parts youtube video called m night sham alon sucks I'm talking about like people lining up to see the movie because your name is on it"
+    },
+    "2110": {
+      "requestid": "d55646fc-b86d-46fb-939e-a480623c0d4f",
+      "confidence": "0.7531757",
+      "timestamp": 2110,
+      "content": "nobody saying the movie because your name on it"
+    },
+    "2120": {
+      "requestid": "3cde07b2-f8f4-4912-a9f3-4511456f39d9",
+      "confidence": "0.6076297",
+      "timestamp": 2120,
+      "content": "and stuck with me especially when they start talking to me and I care about more than suspense films the news I think the weather like on a mess"
+    },
+    "2130": {
+      "requestid": "ede4a6db-0eb9-4925-ac3f-3ae50965845b",
+      "confidence": "0.7144296",
+      "timestamp": 2130,
+      "content": "have tended to think about the news is that surprising suspense aren't a part of it at all but alex sprinkle personal entertainment value is the value of an for"
+    },
+    "2140": {
+      "requestid": "85c181b0-111b-4f22-8f65-a48fecac9651",
+      "confidence": "0.8893979",
+      "timestamp": 2140,
+      "content": "and because it tells you what to do people wanna be informed I wanna learn to make the right decisions know if you think of why you go home at night and watch"
+    },
+    "2150": {
+      "requestid": "5ea5aaba-e9f8-48d0-96c8-5ed009cf0915",
+      "confidence": "0.764841",
+      "timestamp": 2150,
+      "content": "the the 6 o'clock news that's probably not relevant to at you don't wanna do um see the news in order to make better decisions"
+    },
+    "2160": {
+      "requestid": "a7598be8-10a8-4939-ad64-0000a5b4e1e4",
+      "confidence": "0.8146962",
+      "timestamp": 2160,
+      "content": "in your life you're probably there in order to be entertained you just like watching this you're engaged with that and that's bacpac were trying to bring in"
+    },
+    "2170": {
+      "requestid": "6f058c9d-f1f8-473e-895a-5303ce93b3b0",
+      "confidence": "0.780659",
+      "timestamp": 2170,
+      "content": "ambat the standard economics is really missing the entertainment aspects in for sure you can see this as a part of the way that they percent the news at this is comma tall"
+    },
+    "2180": {
+      "requestid": "977420ad-6537-4473-ab24-27b1903df72d",
+      "confidence": "0.8423132",
+      "timestamp": 2180,
+      "content": "elevation of course but but the fact it's also coming to the news reveals that it's a lot more like the rest of television and one would think if you thought of it just does informatie"
+    },
+    "2190": {
+      "requestid": "d979c7b3-7463-4f68-be60-525c1af3c00f",
+      "confidence": "0.8208466",
+      "timestamp": 2190,
+      "content": "can you know when you go to the commercial del typically tell you a little bit about the story that's about to come enough to sort of generate suspense about weather gonna tell you after the commercial"
+    },
+    "2200": {
+      "requestid": "432c563b-9c27-4995-918d-540db2735aca",
+      "confidence": "0.7263873",
+      "timestamp": 2200,
+      "content": "lake but you know not without fully revealing it so that you know you have 5 if something you anticipate and a reason to stay tuned in a through with it through the the commercial"
+    },
+    "2210": {
+      "requestid": "bb5755cf-1057-4d0d-b437-63b60af0b3ad",
+      "confidence": "0.7394687",
+      "timestamp": 2210,
+      "content": "break um you know that that would probably not be so relevant if I you were just trying to be informed"
+    },
+    "2220": {
+      "requestid": "98ef27f7-fdcf-4c05-8da5-d17c6b8a24fd",
+      "confidence": "0.6440483",
+      "timestamp": 2220,
+      "content": "so this is interesting view of the news net and it led me to wonder why do"
+    },
+    "2230": {
+      "requestid": "13fe8589-ae7b-4804-b687-965b100d866f",
+      "confidence": "0.7102904",
+      "timestamp": 2230,
+      "content": "consumer news there a lot of standard sort of high moral ground answers that right we consume news to be informed citizen in order to make better decisions"
+    },
+    "2240": {
+      "requestid": "1ec550d1-b982-4468-ba11-21cb4205e318",
+      "confidence": "0.6446921",
+      "timestamp": 2240,
+      "content": "electropop fissions all in services building a more stable democracy better the car in school but what if we really consume the news is mostly because"
+    },
+    "2250": {
+      "requestid": "4cf345ae-bd4c-49d0-9717-2014115d214f",
+      "confidence": "0.6229609",
+      "timestamp": 2250,
+      "content": "it quenches how massive appetite for suspense in surprise when you read about some horrible civil war halfway across the globe does that really make you a better citizen"
+    },
+    "2260": {
+      "requestid": "bf174461-abe2-46ab-928f-b5b406f6e879",
+      "confidence": "0.6429213",
+      "timestamp": 2260,
+      "content": "are you just attracted to the drama and the terror same we might be attracted to harlan coben noble for brian grazer film so in our next episode"
+    },
+    "2270": {
+      "requestid": "6e88e7b2-06d1-4608-9873-1abcc1edecc6",
+      "confidence": "0.602845",
+      "timestamp": 2270,
+      "content": "take the conversation we had today internet tored the news about typically here is the place really tell you who will be hearing from in our next episode"
+    },
+    "2280": {
+      "requestid": "04a96858-f45d-482d-a661-497254d5e298",
+      "confidence": "0.6596345",
+      "timestamp": 2280,
+      "content": "if you clips of what they have to say that would kinda ruin the suspense win"
+    },
+    "2290": {
+      "requestid": "b1143283-54ca-4aca-a30e-6ab8e446b884",
+      "confidence": "0.7109666",
+      "timestamp": 2290,
+      "content": "we wanna add your voice too and upcoming episode freakonomics radio christmas about let's say that you or someone you know god forbid is facing"
+    },
+    "2300": {
+      "requestid": "20e46964-1961-46f0-bfe4-1e6acc4317b8",
+      "confidence": "0.7226536",
+      "timestamp": 2300,
+      "content": "a terminal illness know what if the health insurance company offers you 2 options you can do the typical thing and get as much treatment as you want much medicine is you"
+    },
+    "2310": {
+      "requestid": "b5de6628-6c53-4a73-af51-3f34c73b15ef",
+      "confidence": "0.5675421",
+      "timestamp": 2310,
+      "content": "can't stand in your life as long as possible even if the quality of life is low or you can forgo that heroic and life"
+    },
+    "2320": {
+      "requestid": "96e3340a-e39e-4da4-936e-356f5bcd7143",
+      "confidence": "0.7412419",
+      "timestamp": 2320,
+      "content": "there and get a cash rebate from insurance company maybe you'd use it for one last amazing adventure world be with your kids your grandkids what you think"
+    },
+    "2330": {
+      "requestid": "5dec446d-687b-4002-9923-e089e30955c9",
+      "confidence": "0.6938232",
+      "timestamp": 2330,
+      "content": "this idea let us know by making a brief audio recording to houston every voice memo apps on your phone and email us the file at radio atfreakonomics.com"
+    },
+    "2340": {
+      "requestid": "365712fe-9491-4cf3-8c8a-696015a65284",
+      "confidence": "0.7727705",
+      "timestamp": 2340,
+      "content": "please include your name age and where you're from thank you"
+    },
+    "2350": {
+      "requestid": "cdecb062-fb4e-4262-8898-689ef1306d04",
+      "confidence": "0.6999993",
+      "timestamp": 2350,
+      "content": "freakonomics radio is produced by wmic end up my production our staff include greg results ki caroline english"
+    },
+    "2360": {
+      "requestid": "6df9362d-7408-4944-8d8c-a9a0cd17fb67",
+      "confidence": "0.6348786",
+      "timestamp": 2360,
+      "content": "select number khmer check up in christopher were we at help this week from rick one and redone games with erin kashima high levich if you want more freakonomics radio"
+    },
+    "2370": {
+      "requestid": "367e1dfc-1e0a-408c-9467-8cf2a7605e80",
+      "confidence": "0.6197761",
+      "timestamp": 2370,
+      "content": "you can subscribe to podcasts on I tunes or go to freakonomics.com reify moth radio bought the book morning"
+    },
+    "2380": {
+      "requestid": "f3c6589b-acc7-47c9-95b4-748ce8b0508c",
+      "confidence": "0.4687921",
+      "timestamp": 2380,
+      "content": "boo boo boo boo boo boo"
+    },
+    "2390": {
+      "requestid": "37fbd9cd-2ee2-498c-bbc6-a274b4442334",
+      "confidence": "0.7831384",
+      "timestamp": 2390,
+      "content": "freakonomics radio is supported by wealthfront the lokos automated investment service visitwealthfront.com slash freak to get your free personalized investment port"
+    },
+    "2400": {
+      "requestid": "dedd6a77-60b7-44f9-b62e-b4a00c204f24",
+      "confidence": "0.7972711",
+      "timestamp": 2400,
+      "content": "go today wealthfront ink is an sec registered investment advisor investing in securities involves risks and there is the possibility of losing money past performances"
+    },
+    "2410": {
+      "requestid": "99665b70-263e-464b-ab45-73b5a3477374",
+      "confidence": "0.931504",
+      "timestamp": 2410,
+      "content": "no guarantee of future results please visitwealthfront.com to read their full disclosure"
+    }
+  },
+  "slug": "How-to-Create-Suspense"
+}
