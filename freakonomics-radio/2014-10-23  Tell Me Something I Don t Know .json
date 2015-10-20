@@ -1,0 +1,2993 @@
+{
+  "title": "“Tell Me Something I Don’t Know”",
+  "date": "2014-10-23",
+  "description": "<p>The debut of a live game show from Freakonomics Radio, with judges Malcolm Gladwell, Ana Gasteyer, and David Paterson.</p>",
+  "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/tREMM00T3bg/freakonomics_podcast102314.mp3",
+  "slug": "-Tell-Me-Something-I-Don-t-Know-",
+  "segments": {
+    "0.0": {
+      "requestid": "62d48f5d-fa82-421d-bd67-c150965373ea",
+      "confidence": "0.7053753",
+      "timestamp": 0.0,
+      "content": "freakonomics radio is supported by mu offering a variety of business cards in printed pronox muall solofra sprint nfinity the ability to print a different image on every card more atmu.com",
+      "speaker": "S0"
+    },
+    "17.66": {
+      "requestid": "1cb123ee-8eb2-49d1-ae36-5d26d50687f8",
+      "confidence": "0.784983",
+      "timestamp": 17.66,
+      "content": "if I guess it's news the new episode your butt here is called tell me something I don't know it's a live recording of a new game show that we just invented are you here with lot of fun in person the hope of course is that you will have fun listening to as a podcast",
+      "speaker": "S103"
+    },
+    "31.05": {
+      "requestid": "789c204b-97e6-4db6-b877-47518195ec06",
+      "confidence": "0.7760162",
+      "timestamp": 31.05,
+      "content": "whatever the case do me a favor and let us know what you think you can tweet this at freakonomics leave a comment on our facebook page or it freakingimac.com orange juice and email at radio atfreakonomics.com I'd love to hear what ever be back you have pro concorde tangential thanks",
+      "speaker": "S103"
+    },
+    "48.74": {
+      "requestid": "279f6362-9a40-4366-8f49-c3a067c6c615",
+      "timestamp": 48.74,
+      "content": ""
+    },
+    "54.77": {
+      "requestid": "1b1020f8-da3f-416a-9096-10a425f8fa76",
+      "timestamp": 54.77,
+      "content": ""
+    },
+    "63.79": {
+      "requestid": "1ebaffe4-4f59-49ce-8f8a-e0354f3a2bb1",
+      "confidence": "0.7056696",
+      "timestamp": 63.79,
+      "content": "live from the green space at WNYC in new york",
+      "speaker": "S8"
+    },
+    "68.89": {
+      "requestid": "7deb0efe-cb65-407d-8aa5-aabe59202b2d",
+      "confidence": "0.6225989",
+      "timestamp": 68.89,
+      "content": "come to this freakonomics radio life event",
+      "speaker": "S8"
+    },
+    "80.64": {
+      "requestid": "787c1fe6-bd16-4f97-b14f-ecf45fb66125",
+      "confidence": "0.7916321",
+      "timestamp": 80.64,
+      "content": "thank you so very much and I will",
+      "speaker": "S103"
+    },
+    "83.9": {
+      "requestid": "aa4f3a82-e3f9-44d4-b07c-6ae5980da931",
+      "confidence": "0.8139104",
+      "timestamp": 83.9,
+      "content": "come to the greenspace night we are going to try something very different ok to not only is it a live show with never done before but it's a brand new show that we invented for this occasion so I hope you understand if I'm a little bit nervous",
+      "speaker": "S103"
+    },
+    "97.37": {
+      "requestid": "8806e2d5-d376-4650-916e-af3c2be3e94d",
+      "confidence": "0.8848845",
+      "timestamp": 97.37,
+      "content": "I am however comforted by the fact that you all should actually be a lot more nervous than me because you the audience are going to the stars of the show ok by the time it's over",
+      "speaker": "S103"
+    },
+    "108.4": {
+      "requestid": "f951dc2b-662f-4ff3-b218-5337d489fc1e",
+      "confidence": "0.8806999",
+      "timestamp": 108.4,
+      "content": "I run the risk of being slightly embarrassed you have ever run the risk of being completely broken",
+      "speaker": "S103"
+    },
+    "114.68": {
+      "requestid": "6f32150d-58c1-4557-9911-6c09aeab36df",
+      "confidence": "0.753469",
+      "timestamp": 114.68,
+      "content": "now here freakonomics radio our mission has always been to tell UA",
+      "speaker": "S103"
+    },
+    "120.13": {
+      "requestid": "30d356f7-09e4-4594-bca4-11b3ba498c01",
+      "confidence": "0.8404906",
+      "timestamp": 120.13,
+      "content": "thank you always thought you knew but didn't and be things you never thought you wanted to know but do for instance he probably did not know that nearly 100% of the turkeys eaten by americans are the result of artificial insemination now why would that be",
+      "speaker": "S103"
+    },
+    "139.38": {
+      "requestid": "827f93be-efcc-40ad-bcb5-8bd22d71df51",
+      "confidence": "0.6528022",
+      "timestamp": 139.38,
+      "content": "zeya modern turkey I have quite large turkey breast and it actually physically get in the way when are the male and female adraga create offspring",
+      "speaker": "S19"
+    },
+    "150.93": {
+      "requestid": "553d0e97-9dff-432e-8460-699220ee1dd2",
+      "confidence": "0.812562",
+      "timestamp": 150.93,
+      "content": "yeah",
+      "speaker": "S103"
+    },
+    "154.0": {
+      "requestid": "a8971e48-fca4-4281-a967-d071650d6bf7",
+      "confidence": "0.7182478",
+      "timestamp": 154.0,
+      "content": "I was expecting more sympathy than that game again",
+      "speaker": "S103"
+    },
+    "157.01": {
+      "requestid": "56bd9140-bca9-48ef-82d2-bc65033d96f7",
+      "confidence": "0.8466733",
+      "timestamp": 157.01,
+      "content": "you probably do you know that men are on many levels inferior to women but did you know just how inferior they we are when it comes to getting out of the way of a thunderstorm",
+      "speaker": "S103"
+    },
+    "169.54": {
+      "requestid": "2edad8fe-867c-45a0-af54-ab6a6bcbf080",
+      "confidence": "0.6974797",
+      "timestamp": 169.54,
+      "content": "typically 80 to 85% of the lightning fatalities across united states or men",
+      "speaker": "S22"
+    },
+    "179.42": {
+      "requestid": "2009cf62-4415-4bf9-b838-ecca2d0826c4",
+      "confidence": "0.4855616",
+      "timestamp": 179.42,
+      "content": "bing struck by lightning in the poor turkeys",
+      "speaker": "S103"
+    },
+    "182.63": {
+      "requestid": "bdacb327-2ac9-4c20-ab77-3a8069e069fb",
+      "confidence": "0.8111907",
+      "timestamp": 182.63,
+      "content": "ok I bet you did notice if you work at a company with that say 100 people 100 employees you have college degrees even advance degrees at least one of them is probably lying here is former fbi agent alan ezal",
+      "speaker": "S103"
+    },
+    "198.58": {
+      "requestid": "4526fd76-e0ff-44a3-babe-4ae5ce9d6c05",
+      "confidence": "0.8279279",
+      "timestamp": 198.58,
+      "content": "let me put this way the united states all the colleges and universities in our country award about 1.3 million degrees of year approximately 1% of that we believe is the amount of phony degrees that are sold in our country each year",
+      "speaker": "S26"
+    },
+    "217.69": {
+      "requestid": "22291e8c-45eb-433f-9729-b3cabe216850",
+      "confidence": "0.8534559",
+      "timestamp": 217.69,
+      "content": "ok so that summer but we've told you over the years let me be honest with you",
+      "speaker": "S103"
+    },
+    "222.32": {
+      "requestid": "9acbc79a-75ef-4904-bd31-9894f0339a2a",
+      "confidence": "0.8233401",
+      "timestamp": 222.32,
+      "content": "where exhausted ok it takes more effort to come up with all this stuff to tell you that you didn't know we are totally out of ideas so we thought that we would do with any institution does when you're facing a crisis",
+      "speaker": "S103"
+    },
+    "236.59": {
+      "requestid": "fea97e0f-7876-4cc4-9b28-461f01751afb",
+      "confidence": "0.8042232",
+      "timestamp": 236.59,
+      "content": "which is think how can we make our problem someone else's problem and that's with the show is really bad with that when we have all are you come and tell us something we don't know ok and we just I will call this new show tell me something I don't know how that's going to work",
+      "speaker": "S103"
+    },
+    "256.13": {
+      "requestid": "b34c8b30-5b50-4458-9472-af7ff4df2a3e",
+      "confidence": "0.825686",
+      "timestamp": 256.13,
+      "content": "well the first thing we need are some judges so let's bring em out please join me in welcoming malcolm gladwell",
+      "speaker": "S103"
+    },
+    "264.51": {
+      "requestid": "1e506370-90bd-4784-9a02-100e20a55645",
+      "confidence": "0.7850047",
+      "timestamp": 264.51,
+      "content": "on a gas fire in david patterson",
+      "speaker": "S103"
+    },
+    "273.52": {
+      "requestid": "8a0abfea-2356-4619-83d9-129972530c5b",
+      "confidence": "0.8685881",
+      "timestamp": 273.52,
+      "content": "judges welcome here are a few things that we know so far about you malcolm gladwell",
+      "speaker": "S103"
+    },
+    "279.49": {
+      "requestid": "21552ea9-c1e9-45a0-ac34-da13fcb6f8b5",
+      "confidence": "0.8060016",
+      "timestamp": 279.49,
+      "content": "we know that you are stuff ready for new york eve written 5 best selling books by which I mean that's the best selling book ever thought the first was the tipping point the most recent is david and goliath lesson are you an excellent school boy middle distance runner in the just recently",
+      "speaker": "S103"
+    },
+    "296.75": {
+      "requestid": "cca145da-b1ae-4018-8eca-90e666e03e07",
+      "confidence": "0.7455315",
+      "timestamp": 296.75,
+      "content": "iran the 5th Ave mile here in NY in place this in your age group of the time of the fantastic 4 minutes and 54 seconds for the mayan alphabet",
+      "speaker": "S103"
+    },
+    "307.38": {
+      "requestid": "e537772b-ed6a-4c33-8d48-d54339171a1b",
+      "timestamp": 307.38,
+      "content": ""
+    },
+    "311.78": {
+      "requestid": "4ce7195b-64e8-47fc-b4f0-95ef82a3ffc0",
+      "confidence": "0.7860531",
+      "timestamp": 311.78,
+      "content": "I misses 9 seconds faster than your time last year in the morning so according to my calculations if you keep improving at this rate I'm",
+      "speaker": "S103"
+    },
+    "319.85": {
+      "requestid": "167445b5-5d35-46a6-9190-054df513c321",
+      "confidence": "0.7801096",
+      "timestamp": 319.85,
+      "content": "by the time your ad for you'll be the first human to run a sub zero",
+      "speaker": "S103"
+    },
+    "325.01": {
+      "requestid": "cf1e9848-b63a-4f03-af0f-884673fff425",
+      "confidence": "0.5573505",
+      "timestamp": 325.01,
+      "content": "easy but I did there bad at math yeah yeah I melkam",
+      "speaker": "S104"
+    },
+    "329.69": {
+      "requestid": "4074c6c6-5ec8-41c5-ae22-8e2d9fbefdc2",
+      "confidence": "0.8866199",
+      "timestamp": 329.69,
+      "content": "if you would wanna do then tell us something we don't know about you",
+      "speaker": "S103"
+    },
+    "334.3": {
+      "requestid": "0448f315-43c3-4110-b64d-61a1f223a52f",
+      "confidence": "0.6881968",
+      "timestamp": 334.3,
+      "content": "when I was at 18 years old I in turn for summer with I just a scalea before he was justice and he fired me",
+      "speaker": "S175"
+    },
+    "347.36": {
+      "requestid": "ef18925b-8433-47ac-81bc-ee206e345604",
+      "confidence": "0.5943009",
+      "timestamp": 347.36,
+      "content": "black badge of courage out what to get fire was it because you forgot yesterday",
+      "speaker": "S104"
+    },
+    "352.79": {
+      "requestid": "70d073c1-e972-410c-bd36-259dbc5e74f8",
+      "confidence": "0.7385645",
+      "timestamp": 352.79,
+      "content": "can you tell if you can you tell if I would you take an incompetent I think I would",
+      "speaker": "S104"
+    },
+    "357.2": {
+      "requestid": "f56e8bf0-cf2f-4b94-bd64-f6d59d8fccaa",
+      "timestamp": 357.2,
+      "content": ""
+    },
+    "358.97": {
+      "requestid": "16c173ce-6e65-46d1-8edb-239de9dec79b",
+      "confidence": "0.6729054",
+      "timestamp": 358.97,
+      "content": "has your competence grown not sure",
+      "speaker": "S103"
+    },
+    "363.55": {
+      "requestid": "b1208b75-0982-4eaf-a3fa-5e80932c7da3",
+      "confidence": "0.6849046",
+      "timestamp": 363.55,
+      "content": "what do you like",
+      "speaker": "S103"
+    },
+    "365.87": {
+      "requestid": "7eb8ef6d-975f-4f9f-876b-db7be602a206",
+      "confidence": "0.7482486",
+      "timestamp": 365.87,
+      "content": "hi well impatient with incompetent",
+      "speaker": "S197"
+    },
+    "369.39": {
+      "requestid": "4bf4c19f-27f3-4f92-b34b-ba97df32d06d",
+      "confidence": "0.7030056",
+      "timestamp": 369.39,
+      "content": "what's on a gasteyer hi I'm so happy to have you here thank you",
+      "speaker": "S104"
+    },
+    "376.37": {
+      "requestid": "80951ca0-82ad-4ba3-b1bc-7da9580d559a",
+      "timestamp": 376.37,
+      "content": ""
+    },
+    "381.24": {
+      "requestid": "226e59a3-7f32-4e11-875d-2a989181fad6",
+      "confidence": "0.7441024",
+      "timestamp": 381.24,
+      "content": "we know that you were cast member internet live for 6 seasons not only did you give a sweaty balls which by the way to public radio back for years guys",
+      "speaker": "S103"
+    },
+    "390.4": {
+      "requestid": "fc0081f2-7670-4c1a-9057-fbed55c87ea3",
+      "confidence": "0.6474849",
+      "timestamp": 390.4,
+      "content": "I'm sorry I apologize to the airport is ation mean",
+      "speaker": "S115"
+    },
+    "394.14": {
+      "requestid": "4dc62da7-7517-4c48-a7db-470d4602cf18",
+      "confidence": "0.7540067",
+      "timestamp": 394.14,
+      "content": "also however and martha stewart impression so wicked that you were still apologize again martha stewart if you can I set alarm for years to do you have starred in films including mean girls on broadway as elphaba in wicked and on tv including the abc sitcom suburgatory",
+      "speaker": "S103"
+    },
+    "411.44": {
+      "requestid": "9fc8c6e1-6791-44c2-bbe2-3c7fb6b7ddc5",
+      "confidence": "0.6487277",
+      "timestamp": 411.44,
+      "content": "we also know you are a fantastic singer out your new record is called I'm hip just out and you described as moxie jasien what is the heck is my teacher",
+      "speaker": "S103"
+    },
+    "420.63": {
+      "requestid": "159b2be8-451e-4866-9878-4bbe8969737d",
+      "confidence": "0.4839534",
+      "timestamp": 420.63,
+      "content": "happy just happy that jessica jung to mostly",
+      "speaker": "S115"
+    },
+    "424.38": {
+      "requestid": "f0e50dee-0f8b-4d84-ae18-a9ac3f075fa5",
+      "confidence": "0.6338112",
+      "timestamp": 424.38,
+      "content": "nice ariana can you tell smell something we do not know about you well some people notice by group in washington dc and am I was a childhood friend of RE mccartor president's daughter",
+      "speaker": "S115"
+    },
+    "436.84": {
+      "requestid": "abe1463f-1003-4534-80a0-063e2324cf18",
+      "confidence": "0.7255409",
+      "timestamp": 436.84,
+      "content": "and was invited to camp david up for the weekend as a fifth grader but the most crazy thing is that I watch star wars with the dots",
+      "speaker": "S115"
+    },
+    "449.95": {
+      "requestid": "3d7146e8-0977-4b03-9639-cb281fa45f00",
+      "confidence": "0.7270271",
+      "timestamp": 449.95,
+      "content": "which with enormous the big event for me coz you know it was star wars",
+      "speaker": "S115"
+    },
+    "456.18": {
+      "requestid": "8ed29a46-2b94-4488-a8f6-3cc152f847db",
+      "confidence": "0.5615521",
+      "timestamp": 456.18,
+      "content": "I'm curious which side they took walmart",
+      "speaker": "S104"
+    },
+    "461.45": {
+      "requestid": "8b8324fa-5425-45dd-b664-b1e52c794333",
+      "confidence": "0.6272913",
+      "timestamp": 461.45,
+      "content": "yeah it was that a bad thing to say have your patterson is that a bad idea know it's fun night",
+      "speaker": "S103"
+    },
+    "468.87": {
+      "requestid": "35edc497-be01-4099-9c59-485c0d96796f",
+      "confidence": "0.930101",
+      "timestamp": 468.87,
+      "content": "david patterson we know you are the 55th governor of this very great state of new york",
+      "speaker": "S103"
+    },
+    "474.33": {
+      "requestid": "a4689104-ade7-424a-a2d1-ce720317e288",
+      "timestamp": 474.33,
+      "content": ""
+    },
+    "479.83": {
+      "requestid": "fd6de12c-ab29-4a7f-a7ef-2823087ab612",
+      "confidence": "0.7394616",
+      "timestamp": 479.83,
+      "content": "on these days you are the distinguished professor of health care in public pool theatro college and your the chair of the new york state democratic party which is god how many days now with an indictment it's been awhile yeah",
+      "speaker": "S103"
+    },
+    "493.35": {
+      "requestid": "c1f847ee-c12a-4c8c-a074-71aa9dac4e2e",
+      "confidence": "0.7034249",
+      "timestamp": 493.35,
+      "content": "about a week",
+      "speaker": "S75"
+    },
+    "496.46": {
+      "requestid": "1d031a75-eac8-4e22-a239-5be1e2a4c8ba",
+      "confidence": "0.6867204",
+      "timestamp": 496.46,
+      "content": "I'm at despite being legally blind ur are you been known to be basketball player one opponent for muneer governor mario cuomo is courtisane you got quote some kind of sonar for the basket I can tell was that a compliment know you don't wanna tell him how good the best ballplayer",
+      "speaker": "S103"
+    },
+    "516.11": {
+      "requestid": "3cbb362a-a156-444c-be72-3149e55cf46f",
+      "confidence": "0.6227252",
+      "timestamp": 516.11,
+      "content": "or were you I had one moment when I come to call motomiya paffen I made a layup and ever try to make a lemon knock me down like fun the bornat win in the basket",
+      "speaker": "S250"
+    },
+    "528.28": {
+      "requestid": "b3de8a5e-4b40-46a5-b48a-e6960c0e54be",
+      "confidence": "0.659034",
+      "timestamp": 528.28,
+      "content": "andam these people from cbs came over right on the court and I'm lying on the floor and if it's for your blind how did you make that shot and I said",
+      "speaker": "S250"
+    },
+    "536.77": {
+      "requestid": "dd466abf-6538-4cac-a446-7ab74d747495",
+      "confidence": "0.7718313",
+      "timestamp": 536.77,
+      "content": "I guess I got over it not rained out of court",
+      "speaker": "S250"
+    },
+    "541.16": {
+      "requestid": "8d635dbf-d7a0-483e-a161-a87d09b739fe",
+      "confidence": "0.7714007",
+      "timestamp": 541.16,
+      "content": "I knew that would be on tv that night so I called all my friends in my fat people I owed money until in the watch tv at night",
+      "speaker": "S75"
+    },
+    "550.12": {
+      "requestid": "21e70b81-bf0b-4b42-93bf-dee2f0435d8a",
+      "confidence": "0.6824402",
+      "timestamp": 550.12,
+      "content": "anna didn't come on",
+      "speaker": "S75"
+    },
+    "552.09": {
+      "requestid": "334f72ca-f9b3-4637-b2f4-ef1895d98007",
+      "timestamp": 552.09,
+      "content": ""
+    },
+    "554.53": {
+      "requestid": "3c7cc77b-ffe1-4763-a1c2-d896c20c3a8c",
+      "confidence": "0.6776367",
+      "timestamp": 554.53,
+      "content": "you know why you know why that's the night OJ simpson up the highway with a white",
+      "speaker": "S250"
+    },
+    "560.18": {
+      "requestid": "cd0ace1a-e4e6-40d7-9cd5-6adc63bfad6b",
+      "timestamp": 560.18,
+      "content": ""
+    },
+    "561.83": {
+      "requestid": "f1af6612-cc93-49d7-b02e-ac9988687368",
+      "confidence": "0.8206477",
+      "timestamp": 561.83,
+      "content": "and I kept saying kill him kill him and put the news on",
+      "speaker": "S250"
+    },
+    "574.87": {
+      "requestid": "93959515-4465-4d84-9612-49e81c27c805",
+      "confidence": "0.795826",
+      "timestamp": 574.87,
+      "content": "not going to paterson it it was your turn to tell us something we didn't know about you but I feel you did",
+      "speaker": "S103"
+    },
+    "580.65": {
+      "requestid": "a47c677f-aa6f-4da2-970e-c537c6648aa5",
+      "confidence": "0.5625676",
+      "timestamp": 580.65,
+      "content": "got in the confessional and went on a girl is there anything else not let it shine",
+      "speaker": "S104"
+    },
+    "588.18": {
+      "requestid": "14f15984-d9e5-4ee4-86f7-efd66ece1b8b",
+      "confidence": "0.7234393",
+      "timestamp": 588.18,
+      "content": "alright then we are ready to play tell me something I don't know he's not going to work ok and audience contestant will come on stage",
+      "speaker": "S103"
+    },
+    "595.23": {
+      "requestid": "476ed9c5-2857-40c7-9597-4f5f95d918c1",
+      "confidence": "0.8032288",
+      "timestamp": 595.23,
+      "content": "intel is there I don't know you're born on is an id cakes I'm afterwhich you eat of the judges will give each contestant the score in each of you will rank each one from zero to 10 points which means the perfect score from all 3 judges would be at 30 now what do we actually hoping to hear tonight to learn tonight",
+      "speaker": "S103"
+    },
+    "614.51": {
+      "requestid": "0013fdf8-028c-4f46-b7d6-6958b3bb0344",
+      "confidence": "0.7946715",
+      "timestamp": 614.51,
+      "content": "well most of us like to learn things purely out of self interest it's exciting to learn new information but the pursuit of knowledge mirli tupiza said knowledge can be a bit narcissistic you might sound smart a cocktail party ran a podcast",
+      "speaker": "S103"
+    },
+    "628.95": {
+      "requestid": "de83c7d1-2a14-45e6-bfe7-323fda6270ba",
+      "confidence": "0.8400336",
+      "timestamp": 628.95,
+      "content": "who is really exciting really hoping to hear is the knowledge can be leveraged into something useful in the world so it can be fun but if it's useful all the better so we wanna learn things that we don't know and that are in some way worse knowing",
+      "speaker": "S103"
+    },
+    "642.54": {
+      "requestid": "7ba1cc97-3641-4c00-8de4-32b0d2c60154",
+      "confidence": "0.7838049",
+      "timestamp": 642.54,
+      "content": "I'm on my thing your id k it should be demonstrably true",
+      "speaker": "S103"
+    },
+    "646.99": {
+      "requestid": "aacd2fa1-8b76-436d-9781-2b5e2d480e79",
+      "confidence": "0.7164894",
+      "timestamp": 646.99,
+      "content": "add to bed and we've got our one man I bs detector jodia vardan over in the corner jody is a producer",
+      "speaker": "S103"
+    },
+    "654.85": {
+      "requestid": "0f4c36da-90dc-4f44-9ee7-cf415820e03d",
+      "confidence": "0.7513474",
+      "timestamp": 654.85,
+      "content": "at wmic is brian lehrer show and he's the host of ask ruleta podcasts and libevent here's here'S1 more thing you may not know about jody he's a professional athlete is a veteran of major league ultimate as an ultimate frisbee welcome jody please watch",
+      "speaker": "S103"
+    },
+    "672.01": {
+      "requestid": "b3beea7c-78ae-4e83-b548-17027327f488",
+      "confidence": "0.194805",
+      "timestamp": 672.01,
+      "content": "safe haven",
+      "speaker": "S104"
+    },
+    "674.82": {
+      "requestid": "b84c2d80-2d05-4647-a66f-9fef86836d22",
+      "confidence": "0.8193231",
+      "timestamp": 674.82,
+      "content": "can I do you wanna just tell it how you like to be doing the super secret atomic a verification",
+      "speaker": "S103"
+    },
+    "680.67": {
+      "requestid": "ef293e7f-184e-4f5f-a007-c5c9d2e248e5",
+      "confidence": "0.7495493",
+      "timestamp": 680.67,
+      "content": "yeah I've got my lexis nexis password and I renewed my subscription to all the scholarly journals but mostly I've got a tab open on gugalanna tab open on wikipedia",
+      "speaker": "S135"
+    },
+    "691.92": {
+      "requestid": "8e464dfb-ce2f-4dae-82ad-5e705f1b4f25",
+      "confidence": "0.7686569",
+      "timestamp": 691.92,
+      "content": "ok alright let's play every contestant as a reward for playing will receive a freakonomics radio t shirt for mug the winner of each round will move on to the final round",
+      "speaker": "S103"
+    },
+    "702.01": {
+      "requestid": "d1fe4e05-dcd5-4437-91fc-b658ed777da5",
+      "confidence": "0.8006071",
+      "timestamp": 702.01,
+      "content": "compete for a grand prize and believe me I do you mean grand ok",
+      "speaker": "S103"
+    },
+    "706.41": {
+      "requestid": "ae973850-cecc-49ea-9f25-899b89fc110b",
+      "confidence": "0.7997856",
+      "timestamp": 706.41,
+      "content": "contestants and judges I want to keep in mind the criteria number one we didn't know it number 2 is worth knowing in number 3 it's demonstrably true ok released trupish",
+      "speaker": "S103"
+    },
+    "718.21": {
+      "requestid": "f2f71df3-8550-4974-979f-a70ed06eb29f",
+      "confidence": "0.5686686",
+      "timestamp": 718.21,
+      "content": "and so first let's call up our first contestant sex is it poured is supported portoghese porjus cousin gorgeous",
+      "speaker": "S103"
+    },
+    "726.93": {
+      "requestid": "c717a3a5-df2f-489a-a5c4-c6f7f9dc3974",
+      "timestamp": 726.93,
+      "content": ""
+    },
+    "731.02": {
+      "requestid": "b42b6679-9771-4036-9656-b4e75a38456d",
+      "confidence": "0.8227554",
+      "timestamp": 731.02,
+      "content": "I said how you doing I'm great are who are you what do you do I'm a journalist and cofounder of an app called clock so what do you have to tell these guys all that something that we don't know did you know the pinball machines were legal in new york city for more than 3 decades during which time",
+      "speaker": "S105"
+    },
+    "748.63": {
+      "requestid": "da57c0e7-abae-4a56-8b42-9945aa3137ad",
+      "confidence": "0.6090134",
+      "timestamp": 748.63,
+      "content": "the city engage in a series of prohibition style sweet sue the city including with a dedicated nypd pinball squad over which course they would compensate in smash with sledgehammers",
+      "speaker": "S105"
+    },
+    "761.83": {
+      "requestid": "c88dc80c-8360-4713-b1ff-ca15aceef428",
+      "confidence": "0.687251",
+      "timestamp": 761.83,
+      "content": "thousands upon thousands of pinball machines",
+      "speaker": "S105"
+    },
+    "765.76": {
+      "requestid": "f6355fc2-ed29-425c-9782-8faed2317571",
+      "confidence": "0.6186148",
+      "timestamp": 765.76,
+      "content": "when will make this a pinball machines free legal until 1976 oh my goodness why are they legal nearest papa be a game of chance and ask ellen passakorn teologica thirties and forties in the band start gambling terrassa tapadiya mabrak it",
+      "speaker": "S105"
+    },
+    "781.8": {
+      "requestid": "35e829a1-97c2-41b3-bbb5-00fdcf49a84c",
+      "confidence": "0.6125017",
+      "timestamp": 781.8,
+      "content": "and unlike other gamlin devices like slot machines orthopnea games that appeal to children in bus especially evil nefarious third between gamlin devices the wooden board kids into their traps and never let them go",
+      "speaker": "S105"
+    },
+    "795.41": {
+      "requestid": "1ecf331d-aa83-4a89-ae0d-475693c210b3",
+      "confidence": "0.4477216",
+      "timestamp": 795.41,
+      "content": "were they in my bracket you said :) maybe some some some of them probeware",
+      "speaker": "S103"
+    },
+    "800.94": {
+      "requestid": "e588ee81-4b57-45be-98d0-3e81056416c7",
+      "confidence": "0.764605",
+      "timestamp": 800.94,
+      "content": "do you believe it pimpin ball is a chance game",
+      "speaker": "S115"
+    },
+    "803.72": {
+      "requestid": "c36a3070-3b64-474b-9ad1-efc57cc632b3",
+      "confidence": "0.623023",
+      "timestamp": 803.72,
+      "content": "will back in the days of slippers then exits to the game entirely involve nudging the ball into holds and you actually not gonna pin to the game but nothing like to do today for starly a lot more skill in the game sale in there was back then",
+      "speaker": "S105"
+    },
+    "816.55": {
+      "requestid": "8754664f-a924-4067-a43c-044d47294c1b",
+      "confidence": "0.8852395",
+      "timestamp": 816.55,
+      "content": "malcolm on a",
+      "speaker": "S103"
+    },
+    "818.83": {
+      "requestid": "440a11ea-f840-4fab-a7b3-03faf7530319",
+      "confidence": "0.651338",
+      "timestamp": 818.83,
+      "content": "governor patterson anything more you wanna will friday so I'm actually up liberated as of this time",
+      "speaker": "S103"
+    },
+    "825.83": {
+      "requestid": "93ea1166-e56c-45ab-abdf-38dbeb712512",
+      "confidence": "0.366376",
+      "timestamp": 825.83,
+      "content": "well that sucks",
+      "speaker": "S104"
+    },
+    "827.7": {
+      "requestid": "e985f522-2050-4bef-b73e-a1cf592dc8ac",
+      "confidence": "0.6363809",
+      "timestamp": 827.7,
+      "content": "raylike the first of the most virulent anti pimple for supper with mayor laguardia who is really not exaggeration say the number one priority old and tired miss tration with getting rid of pinball machines from york city",
+      "speaker": "S105"
+    },
+    "839.29": {
+      "requestid": "4e5032c2-ff69-4fd1-81f5-c75ddd12cab3",
+      "confidence": "0.837074",
+      "timestamp": 839.29,
+      "content": "he tried for more than a decade to do this until just a couple weeks after pearl harbor hughes the fact or distracted with you know u boats",
+      "speaker": "S105"
+    },
+    "846.34": {
+      "requestid": "17493746-76c0-4051-bb9f-b44b2fd568e0",
+      "confidence": "0.6139777",
+      "timestamp": 846.34,
+      "content": "tuod push that we always wanted from the deck able to the citywide total universal banap in motion within one day become pats game on 2300 pinball machine ever been this way it'll 76 win the pit bull industry finally got one of which was hearing for the city council",
+      "speaker": "S105"
+    },
+    "862.77": {
+      "requestid": "da0f5878-2a74-44fa-95b2-8a77c6f1239f",
+      "confidence": "0.7435514",
+      "timestamp": 862.77,
+      "content": "wic approved a pinball is a game of skill in a chance about the whole logic behind the band was known for today do is they bring in the best pinball player they can into city hall with a pinball machine",
+      "speaker": "S105"
+    },
+    "874.48": {
+      "requestid": "e5fe8561-be03-413c-98de-8d23372da021",
+      "confidence": "0.6505893",
+      "timestamp": 874.48,
+      "content": "is the 26 roleder gq magazine in roger sharpe who is known as the really depend diapers agreement with the pinball machine and he plays pinball in city hall surrounded by city council cameras microphones and he basically call tisha he says I'm gonna pull punch back I'm gonna hit the ball here",
+      "speaker": "S105"
+    },
+    "892.29": {
+      "requestid": "6bef1da2-ed1d-489f-9c5c-304c0a1d3b9d",
+      "confidence": "0.6175834",
+      "timestamp": 892.29,
+      "content": "nobody's really impressed so we coulda pundra back to start a new ballistas based on my school loan the bubble land in the middle lane at the top of the plainfield post up under back ball bounces to laugh out strikers right way said was almost on the spot new york city council votes to overturn to 34 year old banned commercial mile high does a beautiful thing",
+      "speaker": "S105"
+    },
+    "913.52": {
+      "requestid": "1e6a674d-1353-4a55-8bdc-195ab961ed3f",
+      "confidence": "0.4540012",
+      "timestamp": 913.52,
+      "content": "best",
+      "speaker": "S104"
+    },
+    "916.51": {
+      "requestid": "70aeb8d9-aeac-444a-974b-33efb660e04a",
+      "confidence": "0.5175167",
+      "timestamp": 916.51,
+      "content": "porges oven gorgeous yeah yeah I jody of acne pills does the septa evils of pinball story theme to pan out for you can tell",
+      "speaker": "S103"
+    },
+    "925.32": {
+      "requestid": "d3abeb98-a6a2-4665-8462-0d2bab460b28",
+      "confidence": "0.765307",
+      "timestamp": 925.32,
+      "content": "I am I fat actors in it is true I wanna buy the rights to make this movie",
+      "speaker": "S135"
+    },
+    "930.81": {
+      "requestid": "5f7faee6-fac5-474e-bd29-405272578d7b",
+      "confidence": "0.7986537",
+      "timestamp": 930.81,
+      "content": "I'm looking at all amazing picture from 1949 of the new york city police commissioner william o'brien",
+      "speaker": "S135"
+    },
+    "937.98": {
+      "requestid": "12313e6e-d688-42f6-9c38-8cebfbf315a9",
+      "confidence": "0.6750364",
+      "timestamp": 937.98,
+      "content": "smashing a pinball machine my camera in some sort of like pinball speak easy for whatever they have on this is great and I'm at one little tidbit that at the mention was that during world war 2",
+      "speaker": "S135"
+    },
+    "951.0": {
+      "requestid": "46d702e5-17f9-4c6f-8a40-9614559f5f6c",
+      "confidence": "0.7430187",
+      "timestamp": 951.0,
+      "content": "the pinball industry much like the rest of manufacturing america had to turn toward war time efforts and can copper wiring was so important in pinball's they had to shut up shut down and send all the copper to the war effort gtn good to know",
+      "speaker": "S135"
+    },
+    "964.0": {
+      "requestid": "384ded6e-eaa0-4501-920f-5be107a07ed4",
+      "confidence": "0.5914271",
+      "timestamp": 964.0,
+      "content": "casea judges siritha family there I know it's wrong to wear family spell is it ok to tell me a bad",
+      "speaker": "S103"
+    },
+    "970.88": {
+      "requestid": "a77ed4cd-b396-400f-874d-d90c5f7ac1e7",
+      "confidence": "0.1441307",
+      "timestamp": 970.88,
+      "content": "sellers",
+      "speaker": "S104"
+    },
+    "975.42": {
+      "requestid": "db7d1d49-ab33-44ec-9832-64a86c6fde97",
+      "confidence": "0.5940479",
+      "timestamp": 975.42,
+      "content": "judges umtymp read it to get this corner memby wanna judge it on something you didn't know if something is worth knowing and something that cyber fibris demonstrably true ok score mexico 10 malcolm lisa",
+      "speaker": "S103"
+    },
+    "990.18": {
+      "requestid": "e55a86f6-8eb5-4bb9-aeb6-7e38cb3e4acb",
+      "confidence": "0.5466716",
+      "timestamp": 990.18,
+      "content": "ok um you can only go to tell riley I don't",
+      "speaker": "S103"
+    },
+    "994.08": {
+      "requestid": "83119369-d1f8-43eb-9e32-7a8cedda2ed6",
+      "confidence": "0.4359515",
+      "timestamp": 994.08,
+      "content": "will you do the running over the counter stuff that isn't even mine yeah I do",
+      "speaker": "S104"
+    },
+    "1000.76": {
+      "requestid": "a839b507-6637-424c-a032-56c913d054a6",
+      "confidence": "0.6356783",
+      "timestamp": 1000.76,
+      "content": "speaking for the whole group yeah um no then I'm gonna say 8",
+      "speaker": "S103"
+    },
+    "1005.13": {
+      "requestid": "173726a6-43d1-4c63-8478-6637d4447bc1",
+      "confidence": "0.6352516",
+      "timestamp": 1005.13,
+      "content": "8 ok lovely malcolm gleiberg is it in AI'm gonna guess I'm gonna 99 bay love you safft porjus gorgeous yet governor patterson I get a 24",
+      "speaker": "S103"
+    },
+    "1017.26": {
+      "requestid": "008b60cb-b31e-4af5-86c8-bb4555273fed",
+      "confidence": "0.678845",
+      "timestamp": 1017.26,
+      "content": "sorry I'm at 9 I was tempted to go to 10 go to 10 foot dick",
+      "speaker": "S104"
+    },
+    "1025.52": {
+      "requestid": "8d5d71c8-e89e-48eb-8cca-1735b9230ced",
+      "confidence": "0.63822",
+      "timestamp": 1025.52,
+      "content": "set for just 26 points in a bottle search",
+      "speaker": "S103"
+    },
+    "1033.11": {
+      "requestid": "aa0dc219-b96e-401c-8e42-5cd9e4dbefd3",
+      "confidence": "0.5325491",
+      "timestamp": 1033.11,
+      "content": "frantastic ok",
+      "speaker": "S104"
+    },
+    "1035.98": {
+      "requestid": "27c4ce88-a15d-4b71-acf6-8f83866b2882",
+      "confidence": "0.8458022",
+      "timestamp": 1035.98,
+      "content": "our next contestant is named aaron thompson peak and clap",
+      "speaker": "S103"
+    },
+    "1046.8": {
+      "requestid": "5e08e748-a647-459d-a9d4-047a6fbe959e",
+      "confidence": "0.5155644",
+      "timestamp": 1046.8,
+      "content": "hello this is vicki is the radio talking about",
+      "speaker": "S103"
+    },
+    "1050.32": {
+      "requestid": "8cc961e5-1770-4fed-b6c0-413a4c8d1933",
+      "confidence": "0.8368691",
+      "timestamp": 1050.32,
+      "content": "at what you do",
+      "speaker": "S103"
+    },
+    "1052.9": {
+      "requestid": "13b912c4-d43a-40db-b79a-c8a3f62072c5",
+      "confidence": "0.7612098",
+      "timestamp": 1052.9,
+      "content": "I am a professor of artla in our crime at john jay college of criminal jeff",
+      "speaker": "S156"
+    },
+    "1057.16": {
+      "requestid": "96a9666f-8d83-45e3-a48e-3254f2e5bc9f",
+      "confidence": "0.5275354",
+      "timestamp": 1057.16,
+      "content": "no I didn't know they had that looks neat ok good I'm telesign swedona",
+      "speaker": "S103"
+    },
+    "1061.95": {
+      "requestid": "b57856e0-79bc-4fd7-ac10-5433fa254a02",
+      "confidence": "0.7248864",
+      "timestamp": 1061.95,
+      "content": "well everybody knows that museum tuck billions of dollars of art hang on their walls but did you know that the security at many museums a solax that burglars can credibly easily steelies masterpieces in fact in the most recent spectacular museum break in that will do you say been so simple as a pair of pliers",
+      "speaker": "S156"
+    },
+    "1081.04": {
+      "requestid": "411460ee-3ed2-4b7a-8dab-4a745b3c3719",
+      "confidence": "0.6978737",
+      "timestamp": 1081.04,
+      "content": "to jimmy open the back door of rotterdam's cryztal museum or a ladder the climbathon break the unreinforced window glass",
+      "speaker": "S156"
+    },
+    "1089.11": {
+      "requestid": "81cda7dd-1580-467d-bda0-2764a4fa4b38",
+      "confidence": "0.752817",
+      "timestamp": 1089.11,
+      "content": "next makes the screen or even a thing off is that was the case in one night in 2007 with a group of drunken revelers broke into purses orsay museum and punched a hole through monday",
+      "speaker": "S156"
+    },
+    "1102.25": {
+      "requestid": "d8e131cb-6998-480c-ab70-ad5fb10cc043",
+      "confidence": "0.7268988",
+      "timestamp": 1102.25,
+      "content": "so why don't museums have elaborate laser systems that we see in the movies well for one museums know that the more valuable in this more recognizable a work of art the more easily it will be recovered but more importantly there's a few of roi return on investment",
+      "speaker": "S156"
+    },
+    "1117.9": {
+      "requestid": "3c684ffd-d4d6-49d4-9096-a9740f4d622c",
+      "confidence": "0.6687332",
+      "timestamp": 1117.9,
+      "content": "museum some incredibly limited security but and museums know that part of the rare where is a surprisingly high percentage of all museum visitors would touch right or even spit on works of art is permitted",
+      "speaker": "S156"
+    },
+    "1132.84": {
+      "requestid": "d07950d9-3f3d-4268-8bca-cbf54455d3a9",
+      "confidence": "0.7087228",
+      "timestamp": 1132.84,
+      "content": "ah so museum spend their limited security budget on preventing the spread the face is an everyday sort of patibanda let them define economic rationality by leaving your masterpiece is exposed to be a very occasional threat of a impression is snatching thomas crown",
+      "speaker": "S156"
+    },
+    "1150.09": {
+      "requestid": "410e5249-fe23-4942-a5d2-15c2765e56f4",
+      "confidence": "0.7259855",
+      "timestamp": 1150.09,
+      "content": "the air in the message here is we should all feel more art",
+      "speaker": "S103"
+    },
+    "1155.56": {
+      "requestid": "d3c52505-816b-4d17-b663-b8bd22bb1f74",
+      "confidence": "0.8368196",
+      "timestamp": 1155.56,
+      "content": "right II would have to catch you if you did but",
+      "speaker": "S174"
+    },
+    "1158.62": {
+      "requestid": "6c05f267-8a9a-4a33-9548-35441f8ac5ef",
+      "confidence": "0.7272604",
+      "timestamp": 1158.62,
+      "content": "is there an example of the museum that has it really does have a fantastic steelyard scared",
+      "speaker": "S175"
+    },
+    "1164.5": {
+      "requestid": "4b1c6cff-c44c-4549-a7de-214721742fc0",
+      "confidence": "0.7335007",
+      "timestamp": 1164.5,
+      "content": "the getty museum has that the best security mainly because steve ever been I have to go and take a little tram up the hill have something is missing the shut down the tram and everybody stuck on the hill",
+      "speaker": "S156"
+    },
+    "1175.41": {
+      "requestid": "e2da66f0-a8d3-4310-aed6-7f0db6f3e89c",
+      "confidence": "0.3807123",
+      "timestamp": 1175.41,
+      "content": "tell me up at 9",
+      "speaker": "S104"
+    },
+    "1178.69": {
+      "requestid": "855640bf-1c62-413e-b827-a52964ba6e9a",
+      "confidence": "0.7957446",
+      "timestamp": 1178.69,
+      "content": "is there a museum in the white house",
+      "speaker": "S250"
+    },
+    "1181.41": {
+      "requestid": "05acd1ad-f1a0-4bdc-aed8-e575f73ffc09",
+      "timestamp": 1181.41,
+      "content": ""
+    },
+    "1185.46": {
+      "requestid": "2cd3a109-d165-4683-9420-bf7d57da7ce0",
+      "confidence": "0.5397066",
+      "timestamp": 1185.46,
+      "content": "just wondering where the guy went in there",
+      "speaker": "S104"
+    },
+    "1189.63": {
+      "requestid": "48d073f8-ee11-4391-b77f-545c9934ac2d",
+      "confidence": "0.3869155",
+      "timestamp": 1189.63,
+      "content": "jodie watina",
+      "speaker": "S250"
+    },
+    "1191.25": {
+      "requestid": "bda8d457-e651-470a-ba14-a7a72db895b2",
+      "confidence": "0.7331312",
+      "timestamp": 1191.25,
+      "content": "did generally I check out the 1994 a fact of the scream in oslo best beach to get out basically walton took it they left a note that read quote thanks for the poor security",
+      "speaker": "S135"
+    },
+    "1204.11": {
+      "requestid": "ca990c46-5004-4c1c-a01a-a876a4b014fb",
+      "confidence": "0.2582217",
+      "timestamp": 1204.11,
+      "content": "in cahoots",
+      "speaker": "S135"
+    },
+    "1206.12": {
+      "requestid": "17d4e82b-104c-4bde-b5f1-7b900bf1e2c5",
+      "confidence": "0.7628418",
+      "timestamp": 1206.12,
+      "content": "carmenere invented limited museum budget so I was at you wonder how much a museum guard makes and it's not great at the medic about 10 to 12 bucks an hour",
+      "speaker": "S135"
+    },
+    "1214.88": {
+      "requestid": "46d1bd26-5f72-40e7-9b1e-84458dcd9ffd",
+      "confidence": "0.7501448",
+      "timestamp": 1214.88,
+      "content": "but this led to 82010 new york times article about how many metmuseum employees are actually aspiring artist themselves and in 2010 museum launched on art journals",
+      "speaker": "S135"
+    },
+    "1226.16": {
+      "requestid": "08342897-ae4c-4022-b807-e9c1d4aaf452",
+      "confidence": "0.7855772",
+      "timestamp": 1226.16,
+      "content": "featuring r of museum guard called",
+      "speaker": "S135"
+    },
+    "1228.83": {
+      "requestid": "986f33b4-e6f4-4252-b242-af4dc72c8f66",
+      "confidence": "0.3357913",
+      "timestamp": 1228.83,
+      "content": "swipe and it's showcase",
+      "speaker": "S135"
+    },
+    "1231.35": {
+      "requestid": "21f33f5d-be58-4c81-bbf8-44bbff47f0bc",
+      "confidence": "0.7856692",
+      "timestamp": 1231.35,
+      "content": "I'm at work to do you are a helluva gugler I'm really good guy",
+      "speaker": "S103"
+    },
+    "1234.91": {
+      "requestid": "801d1fe6-c5ea-4ecf-b689-7623af00f8ba",
+      "confidence": "0.587618",
+      "timestamp": 1234.91,
+      "content": "the judges time to give erin some errands I dk uskor here on out and tell us what you wanna scrim why",
+      "speaker": "S103"
+    },
+    "1242.19": {
+      "requestid": "6b5edcf4-e66c-4f9a-8431-ab848686c2e3",
+      "confidence": "0.6565045",
+      "timestamp": 1242.19,
+      "content": "I am gonna give you a text as it is really up interesting and I didn't know what time I look for to talking about it more than I thought and I gotta 7 AM",
+      "speaker": "S115"
+    },
+    "1251.67": {
+      "requestid": "a833f9b6-431e-4bb1-a1ef-2a3020d4c1e5",
+      "confidence": "0.6053373",
+      "timestamp": 1251.67,
+      "content": "write 6 for really and truly a big well I'm sorry you weren't done mine are up did you get mad at me and I should call it off samsung note for 7 I mean 8 for the baby fine",
+      "speaker": "S174"
+    },
+    "1264.2": {
+      "requestid": "b6aabad5-5f04-4663-b64a-b68328bf9064",
+      "timestamp": 1264.2,
+      "content": ""
+    },
+    "1270.67": {
+      "requestid": "743e50fc-5959-4d89-a41f-0a7bfd001d6a",
+      "confidence": "0.5250978",
+      "timestamp": 1270.67,
+      "content": "you are listening audience at home aranza child of mine ok I sell a car daddy are you attractive can you can you google that jody",
+      "speaker": "S192"
+    },
+    "1282.38": {
+      "requestid": "4fbf2fa5-953e-4f11-8ca0-02880c37247d",
+      "confidence": "0.503592",
+      "timestamp": 1282.38,
+      "content": "go to patterson hate myself why are you",
+      "speaker": "S103"
+    },
+    "1286.36": {
+      "requestid": "981016ef-ed0b-48c2-bc93-37453b1a28d0",
+      "confidence": "0.4366814",
+      "timestamp": 1286.36,
+      "content": "one piece at yourself",
+      "speaker": "S104"
+    },
+    "1288.53": {
+      "requestid": "8ec5a926-2eba-4099-8a99-63f2ff3d871a",
+      "confidence": "0.6906415",
+      "timestamp": 1288.53,
+      "content": "I'm actually at the information is very good I would like to been a little more persuaded that I needed to know that that's why I was getting at but not as well malcolm",
+      "speaker": "S103"
+    },
+    "1299.06": {
+      "requestid": "a5abfd18-b223-4770-be31-9afaf0f0a483",
+      "confidence": "0.6438789",
+      "timestamp": 1299.06,
+      "content": "well I you know I figured this to I'm puzzled by why did you british I just don't find this useful this is really useful",
+      "speaker": "S197"
+    },
+    "1310.26": {
+      "requestid": "365b74c6-0e7f-41e2-a146-098111f8c20f",
+      "confidence": "0.4286241",
+      "timestamp": 1310.26,
+      "content": "where are you still in pinball tom",
+      "speaker": "S103"
+    },
+    "1313.06": {
+      "requestid": "75dc8216-89b1-4628-b31f-1f329d6261da",
+      "confidence": "0.4927821",
+      "timestamp": 1313.06,
+      "content": "I'm going night night is this is",
+      "speaker": "S103"
+    },
+    "1317.01": {
+      "requestid": "0f74ea22-5a1a-48a5-9118-5fc8f855baf2",
+      "confidence": "0.6483516",
+      "timestamp": 1317.01,
+      "content": "erin conklin grand total of 25.4 why is healing arts are you today lovely lovely",
+      "speaker": "S104"
+    },
+    "1326.1": {
+      "requestid": "18fb5d88-cdad-41f0-9d62-3d7b52e8ba33",
+      "confidence": "0.6068357",
+      "timestamp": 1326.1,
+      "content": "very well done next contestant will mcleod comana",
+      "speaker": "S103"
+    },
+    "1332.11": {
+      "requestid": "979f0493-7fe2-4579-a6a4-9f49467bd655",
+      "confidence": "0.4038841",
+      "timestamp": 1332.11,
+      "content": "I will add a few",
+      "speaker": "S104"
+    },
+    "1334.92": {
+      "requestid": "01418d93-bbdd-49e0-bc5d-5e328e1414e7",
+      "confidence": "0.782736",
+      "timestamp": 1334.92,
+      "content": "what are you are so I'm an engineer I work with are text art of companies in hardware I've been home I started right now is making wireless learning h accents told him we don't know here would you go to the cloud people spend time thinking about losing weight but a better after self when you lose weight where is that we actually got",
+      "speaker": "S205"
+    },
+    "1357.01": {
+      "requestid": "dc1d18de-d630-4452-93e0-cd8d583b7b04",
+      "confidence": "0.4934214",
+      "timestamp": 1357.01,
+      "content": "when it hit his head we all fall down",
+      "speaker": "S104"
+    },
+    "1360.72": {
+      "requestid": "eed287af-a044-4358-a058-3b1ffc1d7023",
+      "confidence": "0.1671453",
+      "timestamp": 1360.72,
+      "content": "ok",
+      "speaker": "S104"
+    },
+    "1363.4": {
+      "requestid": "8575defa-c676-4669-a824-91911bc00bd7",
+      "confidence": "0.7315648",
+      "timestamp": 1363.4,
+      "content": "it's a mystery I like to think things through um I think a lot of people may think about losing weight when you google that phrase what is the weight actually going to find a lot of pages of article saying we become zenergy what did you know that when you lose weight quickly lose it through your notes",
+      "speaker": "S205"
+    },
+    "1382.3": {
+      "requestid": "ccd140b6-b465-4890-a29e-6d21e9e12e9b",
+      "confidence": "0.656069",
+      "timestamp": 1382.3,
+      "content": "I like to hear that that's gotta give me know if an all point right right so I think with a lot of people think when you go to frezel see that energy way to come today but that would be nuclear fusion you were turning mass into energy we will be walking nuclear reactors not radioactive for not doing that",
+      "speaker": "S205"
+    },
+    "1400.02": {
+      "requestid": "474dd18d-36e5-463b-9607-bae949222570",
+      "confidence": "0.6592124",
+      "timestamp": 1400.02,
+      "content": "turn a question comes where is it go well I'm glad people think maybe it goes in the toilet not to get ipod the fifth",
+      "speaker": "S205"
+    },
+    "1408.98": {
+      "requestid": "0f05813a-224c-4d4f-a92d-938160bb1357",
+      "confidence": "0.6999189",
+      "timestamp": 1408.98,
+      "content": "is that at least partially true value do you do a little bit",
+      "speaker": "S103"
+    },
+    "1412.72": {
+      "requestid": "94eb238e-a99f-4c5a-9cf5-2614d279fe78",
+      "confidence": "0.6885987",
+      "timestamp": 1412.72,
+      "content": "but we got to talking with adjusting fat was when we can experiment and see whether not that's true if you go to bed at night where self rate for you do exactly where is off in the morning before you go to bathroom again",
+      "speaker": "S205"
+    },
+    "1423.88": {
+      "requestid": "f82d715a-d7f1-4af8-aec3-7a988ff3458d",
+      "confidence": "0.6706175",
+      "timestamp": 1423.88,
+      "content": "you'll find it was when I leave at 2 pounds in the morning you actually widest when you wake up the question is where is it going since I cleaned the toilet want me to change your sheets hitscan tomorrow",
+      "speaker": "S205"
+    },
+    "1435.2": {
+      "requestid": "df36cd14-ceb1-4f1f-84d1-61b7e2cc2df8",
+      "confidence": "0.2818458",
+      "timestamp": 1435.2,
+      "content": "edit iphone 5",
+      "speaker": "S104"
+    },
+    "1439.88": {
+      "requestid": "c4f3c7b9-5c36-4cba-b5bd-9092c0a8cdc6",
+      "confidence": "0.8282295",
+      "timestamp": 1439.88,
+      "content": "public ready you can really say anything",
+      "speaker": "S104"
+    },
+    "1444.13": {
+      "requestid": "9a2ac317-517e-4c20-b082-1862e6a89020",
+      "confidence": "0.7633613",
+      "timestamp": 1444.13,
+      "content": "alright so we know it's not going into fusion south community we know it's like on the toilet it turns out the place that actually going super interesting is going into the air the air we breathe out is heavier than the air we breathe in carbon dioxide and water vapor or heavier than oxygen a little better come outside water vapor that we breathe in",
+      "speaker": "S205"
+    },
+    "1461.69": {
+      "requestid": "7fc292b1-b98a-47d8-a8e2-8c76426ea661",
+      "confidence": "0.7437463",
+      "timestamp": 1461.69,
+      "content": "and we kind of notice from wheeling high school the krebs cycle citric acid cycle better really boring abstract way to think about something is so cool and interesting",
+      "speaker": "S205"
+    },
+    "1471.18": {
+      "requestid": "9142e289-2b28-41ea-8245-529c1e6df971",
+      "confidence": "0.6515785",
+      "timestamp": 1471.18,
+      "content": "so figure another way you can think about ai potted plant acorn be put into a pot on it on a scale any put a bowl of water next to everyday water from apple",
+      "speaker": "S205"
+    },
+    "1482.11": {
+      "requestid": "7ecba0af-7b25-4c3d-82f4-1d84b4a207ab",
+      "confidence": "0.6171109",
+      "timestamp": 1482.11,
+      "content": "so as a core trends in twitter it's gonna get heavier right where that way coming from <profanity>fucking</profanity> spoiled spoiled already on the scalp up in the water the water is already on the scale factor come from is the air itself",
+      "speaker": "S205"
+    },
+    "1492.95": {
+      "requestid": "e518aaa5-a205-4551-9de0-d19bef533123",
+      "confidence": "0.7704256",
+      "timestamp": 1492.95,
+      "content": "the air becomes the tree and that's what carbon sequestration if it's a process",
+      "speaker": "S205"
+    },
+    "1498.45": {
+      "requestid": "5761b666-5c73-45dd-8269-3b826fe1e694",
+      "confidence": "0.7093298",
+      "timestamp": 1498.45,
+      "content": "of turning the floating molecules of carbon dioxide into the tree and people do the office it would like he's walking fire's turning solid fuel into gas is just like a car turns liquid fuel into exostar fire make smoke but our smokes cleaner hopefully breathe out",
+      "speaker": "S205"
+    },
+    "1516.18": {
+      "requestid": "b57563a3-b524-4f09-bf3b-f1abb3ea37c7",
+      "confidence": "0.8012174",
+      "timestamp": 1516.18,
+      "content": "how many think it's so cool about that is want you know that you should ask yourself questions like what if I'm losing weight does that mean that every time I breathe a little bit more in does breathing faster make me lose more weight",
+      "speaker": "S205"
+    },
+    "1528.16": {
+      "requestid": "6e6df9ab-bb9d-443a-9e86-3cb81d01454c",
+      "confidence": "0.3768909",
+      "timestamp": 1528.16,
+      "content": "that you out for exercise",
+      "speaker": "S103"
+    },
+    "1530.75": {
+      "requestid": "1892ef91-cd2f-42cf-b907-256abc636292",
+      "confidence": "0.692255",
+      "timestamp": 1530.75,
+      "content": "will awesome I'm judging she wanna know more I'm super psyched about jody right now",
+      "speaker": "S103"
+    },
+    "1535.98": {
+      "requestid": "8a4e1c37-a513-460b-9877-c62f6ad1f2f5",
+      "confidence": "0.5692552",
+      "timestamp": 1535.98,
+      "content": "I don't know",
+      "speaker": "S104"
+    },
+    "1541.17": {
+      "requestid": "63de2ca0-0204-45dc-947e-80ee78d6ac20",
+      "confidence": "0.5086567",
+      "timestamp": 1541.17,
+      "content": "losing weight through nose",
+      "speaker": "S105"
+    },
+    "1544.96": {
+      "requestid": "f761ef12-0cb6-4883-8ba9-f25816393cc6",
+      "confidence": "0.7196527",
+      "timestamp": 1544.96,
+      "content": "oh wait this is the day that is a really really dumb question if I simply sit here and go on my is that means of losing weight you'll pass out",
+      "speaker": "S197"
+    },
+    "1555.5": {
+      "requestid": "91073b46-cb06-40ce-853e-720598bffc00",
+      "confidence": "0.4408903",
+      "timestamp": 1555.5,
+      "content": "unfortunately which could also be fun",
+      "speaker": "S104"
+    },
+    "1558.7": {
+      "requestid": "ab18452a-34f3-48cd-b1ee-8242e55e6777",
+      "confidence": "0.6995318",
+      "timestamp": 1558.7,
+      "content": "what size are so deep the way to make sure that you don't pass out of the word out that means at the oscars of which exercise is best for losing weight so wanna get you breathe and just like that harthern faster",
+      "speaker": "S205"
+    },
+    "1570.28": {
+      "requestid": "669f79c2-c6b5-4f6c-93fe-30176f7c1349",
+      "confidence": "0.6465134",
+      "timestamp": 1570.28,
+      "content": "jodie losing weight for the news",
+      "speaker": "S103"
+    },
+    "1572.93": {
+      "requestid": "186a1f71-2218-4a1a-b95b-2cf47c2e2246",
+      "confidence": "0.8906739",
+      "timestamp": 1572.93,
+      "content": "what will is right when you google the phrase where does the way to actually go",
+      "speaker": "S135"
+    },
+    "1577.55": {
+      "requestid": "493a8c8b-b14b-4078-bf9c-a12dd93a8af0",
+      "confidence": "0.7015797",
+      "timestamp": 1577.55,
+      "content": "are you get no good results so thanks for that red herring well um but I've been made the mistake of googling do you lose weight by breathing and I got lots of art",
+      "speaker": "S135"
+    },
+    "1588.46": {
+      "requestid": "a5ed0026-e25a-415b-93e7-c203a85ccfc7",
+      "confidence": "0.7920796",
+      "timestamp": 1588.46,
+      "content": "tips on yoga techniques up but I also found an article about the latest weight loss program to sweep america oxy size in 15 minutes a day",
+      "speaker": "S135"
+    },
+    "1598.33": {
+      "requestid": "b4d1073c-7d7b-426c-aecd-60f03237c74f",
+      "confidence": "0.7214212",
+      "timestamp": 1598.33,
+      "content": "just by breathing over 750,000 followers claim it transforms body shape sheds pounds within weeks and improves muscle tone and boost energy level I believe every word I said 150 thousand reading american campground there on foot but he is right there I'm coming down sideways weather",
+      "speaker": "S135"
+    },
+    "1616.92": {
+      "requestid": "89b20581-99a9-44a1-b9a2-85e00ee16f08",
+      "confidence": "0.6810045",
+      "timestamp": 1616.92,
+      "content": "bing can't keep in mind the criteria ears novels it worth knowing and is it true anna let's let's score the puppy come to paterson what do you wanna give will and why",
+      "speaker": "S103"
+    },
+    "1628.15": {
+      "requestid": "86db31fb-e5d3-4d24-b760-119cab7eec3a",
+      "confidence": "0.686568",
+      "timestamp": 1628.15,
+      "content": "so well everyone talked about wait so I'll be faced with knowing n is it true apparently it's true and it's great to know that the mass weighs less than the energy I never knew that they needed albert einstein",
+      "speaker": "S250"
+    },
+    "1642.33": {
+      "requestid": "f2fb907e-d02b-4c68-9e54-d8d1ddf74ff8",
+      "confidence": "0.5404316",
+      "timestamp": 1642.33,
+      "content": "but I'll give it a night",
+      "speaker": "S104"
+    },
+    "1646.96": {
+      "requestid": "4f0a1702-0673-4a57-a204-005e04c72eab",
+      "confidence": "0.4618237",
+      "timestamp": 1646.96,
+      "content": "the hecklers route 9",
+      "speaker": "S104"
+    },
+    "1649.63": {
+      "requestid": "b7a2510c-056e-4293-9ea3-5ddf269606f2",
+      "confidence": "0.669268",
+      "timestamp": 1649.63,
+      "content": "malcolm I'm going I'm gonna go to text I hated it is interesting as it was I feel like I kind of knew that the way to lose weight was 2278 cause me to be haveli self",
+      "speaker": "S197"
+    },
+    "1668.14": {
+      "requestid": "51fa566b-1c7d-4616-8bbb-5d55e68ca2e8",
+      "confidence": "0.6630166",
+      "timestamp": 1668.14,
+      "content": "fair enough it's 6 point malcolm gladwell and ana gasteyer",
+      "speaker": "S103"
+    },
+    "1673.04": {
+      "requestid": "04ee0984-1bd2-4380-b08a-ff9bb51f2338",
+      "confidence": "0.728644",
+      "timestamp": 1673.04,
+      "content": "yes I'm gonna do 7 similarly is it was it was it in shri super intriguing also knew by the faster than I thought you did a great job explaining it but I am would absolutely get stuck on the tree in the water story at a dinner party",
+      "speaker": "S115"
+    },
+    "1688.78": {
+      "requestid": "2bb157b0-9329-41e1-bc33-920b93986a26",
+      "confidence": "0.7367976",
+      "timestamp": 1688.78,
+      "content": "like I would it would pull apart a grinding halt and everybody would be excited to know about the weight loss 7 hours and then I'll be like well she may concerts",
+      "speaker": "S192"
+    },
+    "1697.04": {
+      "requestid": "29da118e-1da9-44b9-90ce-e06168fb4786",
+      "confidence": "0.4005041",
+      "timestamp": 1697.04,
+      "content": "yeah huh huh",
+      "speaker": "S104"
+    },
+    "1700.52": {
+      "requestid": "c4ebf81d-0e13-4890-9d2b-888bfc7df940",
+      "confidence": "0.6691263",
+      "timestamp": 1700.52,
+      "content": "so I have to be at 7 coz I'm I'm not the walkway isn't clean enough for me play with it will mcleod 22 points but also freakonomics radio teacher or mug thank you so very much",
+      "speaker": "S103"
+    },
+    "1711.11": {
+      "requestid": "ecb51447-0038-4d31-aad4-82accb1bb83c",
+      "timestamp": 1711.11,
+      "content": ""
+    },
+    "1716.17": {
+      "requestid": "79b4d8c4-051e-466f-9823-2df6285b88af",
+      "confidence": "0.6830018",
+      "timestamp": 1716.17,
+      "content": "more contestants in the first round her name is melissa snyder muscle you come on up",
+      "speaker": "S103"
+    },
+    "1722.32": {
+      "requestid": "3140aab3-8e55-472c-aeba-62df4653bc92",
+      "timestamp": 1722.32,
+      "content": ""
+    },
+    "1724.38": {
+      "requestid": "759be0cd-d268-4bab-89ee-ce7559846447",
+      "confidence": "0.597172",
+      "timestamp": 1724.38,
+      "content": "I'm listening hello how's it going pretty good what do I am a dating relationship counselors in my heart shirt you are wearing a white shirt and you connect to a fella he he's my husband at 6 or in your work is done",
+      "speaker": "S174"
+    },
+    "1744.21": {
+      "requestid": "37eb19a2-bee9-47c3-ad8b-d0a9eca7834a",
+      "confidence": "0.6327321",
+      "timestamp": 1744.21,
+      "content": "um 1257 125 thousand dollars I want you to stress I'm offering a package um what can you tell if my that we don't know",
+      "speaker": "S174"
+    },
+    "1755.41": {
+      "requestid": "6950a321-e6e7-4db3-be68-e739e19a7171",
+      "confidence": "0.8905961",
+      "timestamp": 1755.41,
+      "content": "ok so if your single or dating or married you might find this interesting",
+      "speaker": "S270"
+    },
+    "1764.45": {
+      "requestid": "e6d07e4e-c5e8-4598-8a17-b08fb9c9bd73",
+      "confidence": "0.7932304",
+      "timestamp": 1764.45,
+      "content": "I've got one person I am so people always wanna know like why should I be looking for in early dating relationship like what predix it it's gonna be successful or break up there is great research done in 2010 look at 37,018 couples in different countries",
+      "speaker": "S270"
+    },
+    "1782.63": {
+      "requestid": "5733420b-b3fc-49d2-9d71-47dcc3d9368f",
+      "confidence": "0.8233172",
+      "timestamp": 1782.63,
+      "content": "and they look at 30 factors are in fatalis 4 times to figure out like what actually matters like what makes a difference in his face together in who breaks up",
+      "speaker": "S270"
+    },
+    "1790.56": {
+      "requestid": "dc359a55-388a-4c8a-9c59-142492931dad",
+      "confidence": "0.633075",
+      "timestamp": 1790.56,
+      "content": "and the number one factor was a big surprise to everyone conducting a study it wasn't commitment laura coston things would expect it was something called awesomeness factor of like hot sexy composite of allusions",
+      "speaker": "S270"
+    },
+    "1803.65": {
+      "requestid": "a6cb9060-8ddf-42bd-a5a6-99eb0a977c57",
+      "confidence": "0.3214642",
+      "timestamp": 1803.65,
+      "content": "200 illusion bmi tonight",
+      "speaker": "S103"
+    },
+    "1806.47": {
+      "requestid": "97a1a356-7713-49ae-8bcf-0593780c10ff",
+      "confidence": "0.6742223",
+      "timestamp": 1806.47,
+      "content": "illusions yes lots of you kathy question about that but I would call the office back there because the criteria would be sweet if you think your partner is great you think your relationship is like kinda better than all of your friends relationships they wouldn't other night and it",
+      "speaker": "S270"
+    },
+    "1821.41": {
+      "requestid": "eb035dba-01ee-44cb-9408-8fee0d79f94a",
+      "confidence": "0.6852263",
+      "timestamp": 1821.41,
+      "content": "do you feel like your partner is close irrlicht corky sense of ideal for you and if it is just matter and eating it actually also matter in marriage one funny that looked at newlyweds in kind of a value waited this factor",
+      "speaker": "S270"
+    },
+    "1833.24": {
+      "requestid": "d1ede629-3ed2-446a-8b95-4f2139766c6a",
+      "confidence": "0.6473053",
+      "timestamp": 1833.24,
+      "content": "send it 3 years later than expected to drop everybody except one group guess who is the people at a high awesome the fact of the day they want done I am and I just celebrated my third wedding anniversary so I can enter",
+      "speaker": "S270"
+    },
+    "1847.74": {
+      "requestid": "a00c8f63-ca51-4443-a8a0-fff4367daf28",
+      "confidence": "0.5562109",
+      "timestamp": 1847.74,
+      "content": "now are both of you awesome",
+      "speaker": "S104"
+    },
+    "1849.6": {
+      "requestid": "e9280b3f-93aa-459a-b4cd-c5bfb5e25096",
+      "confidence": "0.6339715",
+      "timestamp": 1849.6,
+      "content": "one does it take to bake a kiosk near me",
+      "speaker": "S174"
+    },
+    "1853.47": {
+      "requestid": "5e68fcff-fdf4-40d6-a529-6aa3e8bc989e",
+      "confidence": "0.6786703",
+      "timestamp": 1853.47,
+      "content": "that's a good question it it's actually like your perception of your partner and a half ounce like different does your partner do things like you're lame you know",
+      "speaker": "S270"
+    },
+    "1861.56": {
+      "requestid": "bb8a835b-8cd3-475a-93f9-a1355fa04f8e",
+      "confidence": "0.7388464",
+      "timestamp": 1861.56,
+      "content": "well I'm really glad you cleared this up iowa",
+      "speaker": "S103"
+    },
+    "1867.41": {
+      "requestid": "ffe9c207-d6c2-4993-9d78-ccfbbbaf86e9",
+      "confidence": "0.3302244",
+      "timestamp": 1867.41,
+      "content": "hello how are you",
+      "speaker": "S104"
+    },
+    "1870.29": {
+      "requestid": "9b0ed0b2-00f5-4b43-8251-6804513679ca",
+      "confidence": "0.7599174",
+      "timestamp": 1870.29,
+      "content": "but but but the test was whether not the passenger opens the driver seat door like in a bronx tale",
+      "speaker": "S103"
+    },
+    "1876.65": {
+      "requestid": "7de6765a-5337-4e48-98b6-ea1795c977c7",
+      "timestamp": 1876.65,
+      "content": ""
+    },
+    "1878.91": {
+      "requestid": "fabcf192-9808-405d-b1b1-afd708e910e0",
+      "confidence": "0.6507281",
+      "timestamp": 1878.91,
+      "content": "do you say when you say pause evolutionz you mean to say that those who have this I people who are at 8 AM I misled",
+      "speaker": "S197"
+    },
+    "1888.21": {
+      "requestid": "375f5086-43e8-465d-bfa5-c15bf5b14fae",
+      "confidence": "0.5298052",
+      "timestamp": 1888.21,
+      "content": "about the virtues of their part of it was there I think about is better than that but rexius",
+      "speaker": "S175"
+    },
+    "1892.84": {
+      "requestid": "6360b357-7d28-4b6f-891c-cf28627eff63",
+      "confidence": "0.7641786",
+      "timestamp": 1892.84,
+      "content": "yes and no um I think the early researchers maybe it had like a hard time with dating you gonna give you read the paper is there like a the rose colored glasses they don't know what they're looking at",
+      "speaker": "S295"
+    },
+    "1904.62": {
+      "requestid": "4ce96626-2953-46a1-9974-1ec315a0a8a5",
+      "confidence": "0.70982",
+      "timestamp": 1904.62,
+      "content": "what it actually turned out that if you think your partner is awesome they actually become a bit off more like over the course of their relationship was gonna like the selfie",
+      "speaker": "S295"
+    },
+    "1913.32": {
+      "requestid": "096b3803-a3df-448e-8e58-43fe1daea4a4",
+      "confidence": "0.6703371",
+      "timestamp": 1913.32,
+      "content": "elegant you know her section of their awesomeness account is that they could be like super gross to somebody else with an awesome or fell on my face",
+      "speaker": "S192"
+    },
+    "1923.18": {
+      "requestid": "0dd5cf5e-b40d-4641-acee-2f0df8cf3adb",
+      "confidence": "0.872405",
+      "timestamp": 1923.18,
+      "content": "I personally find that person I just have a super awesome quality",
+      "speaker": "S192"
+    },
+    "1927.63": {
+      "requestid": "54302817-8eaf-43c5-bc37-6368b58140f5",
+      "confidence": "0.7075475",
+      "timestamp": 1927.63,
+      "content": "that's right perception is reality so if you think that's true it like empaques your whole experience of the relationship",
+      "speaker": "S270"
+    },
+    "1933.51": {
+      "requestid": "2b4e5d77-9383-41df-b217-59d5c262a609",
+      "confidence": "0.6818579",
+      "timestamp": 1933.51,
+      "content": "so it is um it is rose colored glasses by tonight but but but my name for a lifetime",
+      "speaker": "S115"
+    },
+    "1940.23": {
+      "requestid": "cee23e56-a4e6-43b1-9fe5-2069b84f7d7b",
+      "confidence": "0.6654647",
+      "timestamp": 1940.23,
+      "content": "in the better yet but aren't people deceive that way this by the same process",
+      "speaker": "S103"
+    },
+    "1945.33": {
+      "requestid": "4378b4c5-a9eb-4693-b132-75279d93f407",
+      "confidence": "0.4056191",
+      "timestamp": 1945.33,
+      "content": "nigama firle researchers so perhaps when I know them",
+      "speaker": "S270"
+    },
+    "1954.63": {
+      "requestid": "0c3486fd-2dce-46b9-9799-29def2470f62",
+      "confidence": "0.819469",
+      "timestamp": 1954.63,
+      "content": "jodie is there such a thing as the awesomeness actor in does it work",
+      "speaker": "S103"
+    },
+    "1958.9": {
+      "requestid": "a6626966-8a39-46c1-a49a-90f7fe195a17",
+      "confidence": "0.8487602",
+      "timestamp": 1958.9,
+      "content": "well I did find this 2010 study in it it's called",
+      "speaker": "S135"
+    },
+    "1962.45": {
+      "requestid": "9a2c95f4-0804-47cc-a4ab-64a596f67350",
+      "confidence": "0.7130573",
+      "timestamp": 1962.45,
+      "content": "predicting nonmarital romantic relationship the solution colon amedra analytik synthesists I think awesomeness packers a better name amen amen I'm with the judges I mean everything II googled in the last 30 seconds about a positive ilusiones really does talk about it is just as a form of self",
+      "speaker": "S135"
+    },
+    "1980.61": {
+      "requestid": "4fbea7dd-a453-4fc1-86e5-b5509d942e2c",
+      "confidence": "0.7529513",
+      "timestamp": 1980.61,
+      "content": "delusion and then projection",
+      "speaker": "S135"
+    },
+    "1982.98": {
+      "requestid": "2d5b4cd9-cc27-497a-aac2-fc2b1aff6d46",
+      "confidence": "0.5769681",
+      "timestamp": 1982.98,
+      "content": "but you know you isim say has go to fax the one other thing that came out late again",
+      "speaker": "S135"
+    },
+    "1987.29": {
+      "requestid": "3d649eae-7792-4288-9a39-08e8d9ad55d1",
+      "confidence": "0.7499932",
+      "timestamp": 1987.29,
+      "content": "yeah I wanna thing that came up with this idea of perceived superiority which is how you view your relationship in real in relation to others in that apparently makes a really big difference not your name",
+      "speaker": "S135"
+    },
+    "1998.31": {
+      "requestid": "6ce35eaa-66bc-4742-a325-0684b6e8c570",
+      "confidence": "0.6148996",
+      "timestamp": 1998.31,
+      "content": "your apartment friends with a bad relationship issue right up until",
+      "speaker": "S270"
+    },
+    "2003.39": {
+      "requestid": "71799d1e-15b0-416e-a951-1e581f0437e2",
+      "confidence": "0.7588526",
+      "timestamp": 2003.39,
+      "content": "one down and I like this one place on concluded that in men especially satisfactions particulier related to the perception that one's relationship with superior to others where is in women's satisfaction was related to the assumption that most others were just as happy if not more happy than you know",
+      "speaker": "S135"
+    },
+    "2022.14": {
+      "requestid": "d6d85fc7-1316-435b-ac0e-47775d362823",
+      "confidence": "0.6434389",
+      "timestamp": 2022.14,
+      "content": "that's why we get struck by lightning exasol",
+      "speaker": "S135"
+    },
+    "2026.08": {
+      "requestid": "c0842360-3dd4-4d2b-855d-873ec4515d50",
+      "confidence": "0.754372",
+      "timestamp": 2026.08,
+      "content": "malcolm what do you wanna score this and why are well you know I feel like I've already established",
+      "speaker": "S197"
+    },
+    "2032.86": {
+      "requestid": "584beeab-6086-4fb9-ad01-d18eb227b278",
+      "confidence": "0.6052017",
+      "timestamp": 2032.86,
+      "content": "it with my boat on the other people hub haha the bar is for debbie for novelty and also um usefulness I mean no you can robottom museum at a moment's notice is like so useful",
+      "speaker": "S175"
+    },
+    "2047.75": {
+      "requestid": "41e74db3-8fd5-4977-a0d0-24cd0b76b127",
+      "confidence": "0.6458054",
+      "timestamp": 2047.75,
+      "content": "did I get high but not as high so I'm gonna say I have very good milk and thank you anna",
+      "speaker": "S197"
+    },
+    "2056.01": {
+      "requestid": "c1b09203-5fe8-4fe8-ba5a-636410d7e86b",
+      "confidence": "0.6796401",
+      "timestamp": 2056.01,
+      "content": "yeah I'm completely subjective leave going if I'm gonna I'm gonna give the 9 the flop is a reason to get out of a long term a person who really enjoys being superior other side",
+      "speaker": "S115"
+    },
+    "2066.39": {
+      "requestid": "ea71ac09-6169-4834-bb72-c01339f2951b",
+      "timestamp": 2066.39,
+      "content": ""
+    },
+    "2068.84": {
+      "requestid": "2adc7488-06d2-462f-b206-72588b6a3b83",
+      "confidence": "0.6761016",
+      "timestamp": 2068.84,
+      "content": "I find incredibly useful and II add minutes to talk about it my whole 18th wedding anniversary",
+      "speaker": "S192"
+    },
+    "2077.01": {
+      "requestid": "7c870128-ae27-4641-9bae-9668bbc75063",
+      "confidence": "0.6760798",
+      "timestamp": 2077.01,
+      "content": "going to paterson so I'll give it I'm a 92 because obviously 999 on sale",
+      "speaker": "S103"
+    },
+    "2084.59": {
+      "requestid": "0c9dac06-6306-4acf-abc6-5acab49dea0e",
+      "confidence": "0.4106935",
+      "timestamp": 2084.59,
+      "content": "ok about that with yeah I'm holding out for that thing around that you find out of there",
+      "speaker": "S103"
+    },
+    "2090.97": {
+      "requestid": "5832ca96-d526-4e31-9df5-e5eb0d790365",
+      "confidence": "0.6776738",
+      "timestamp": 2090.97,
+      "content": "but I ticad better than that she delivered it in very kind of relaxed way in and didn't come",
+      "speaker": "S250"
+    },
+    "2098.79": {
+      "requestid": "12e1a3ed-e59b-4a9d-8f24-87865e1341fe",
+      "confidence": "0.722689",
+      "timestamp": 2098.79,
+      "content": "should've said that it always has to work but it just seems to be a trend in the way our whole lives are really in many ways about myth and why shouldn't be in our relationships",
+      "speaker": "S250"
+    },
+    "2112.12": {
+      "requestid": "f3b1a06d-e857-43fb-a6b9-8e00e2e3fe44",
+      "confidence": "0.5808047",
+      "timestamp": 2112.12,
+      "content": "she got my phone is cracked are votes for her awesomeness I",
+      "speaker": "S192"
+    },
+    "2116.18": {
+      "requestid": "2b640f36-748c-4106-8267-be2b10ca3025",
+      "confidence": "0.7499104",
+      "timestamp": 2116.18,
+      "content": "play right in the shirt yeah melissa schneider 25 points bank you so much for trying",
+      "speaker": "S103"
+    },
+    "2124.14": {
+      "requestid": "d9978fa2-b6a2-49b6-9ddd-c35bcc234233",
+      "confidence": "0.4183481",
+      "timestamp": 2124.14,
+      "content": "great great job in german back",
+      "speaker": "S104"
+    },
+    "2127.75": {
+      "requestid": "6dcbf4da-4beb-4baf-b090-54e685f278d2",
+      "confidence": "0.6798405",
+      "timestamp": 2127.75,
+      "content": "our first round and we have a winner for the total is 26 point it's a 42 out of 3",
+      "speaker": "S103"
+    },
+    "2134.73": {
+      "requestid": "7ce83539-6c72-410f-9be6-8602f849e080",
+      "confidence": "0.4200045",
+      "timestamp": 2134.73,
+      "content": "speak evil of pinball are you guys at",
+      "speaker": "S104"
+    },
+    "2138.75": {
+      "requestid": "4ae94e5b-804d-431d-bef3-4b71aeb17125",
+      "confidence": "0.8082637",
+      "timestamp": 2138.75,
+      "content": "I said congratulations we will see you again in the final round out with a quick break will be right back with more of tell me something I don't know from freakonomics radio and w in my city",
+      "speaker": "S103"
+    },
+    "2177.94": {
+      "requestid": "089099dd-9740-416c-b55b-1e85f84994b1",
+      "confidence": "0.9075979",
+      "timestamp": 2177.94,
+      "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample",
+      "speaker": "S335"
+    },
+    "2191.92": {
+      "requestid": "8c354c94-b814-4efb-9c76-ca039c01f796",
+      "confidence": "0.8885621",
+      "timestamp": 2191.92,
+      "content": "canadiense can learn about their genetic information to publish study's have associated with conditions in traits like celiac disease cystic fibrosis and even response to certain medications",
+      "speaker": "S335"
+    },
+    "2202.88": {
+      "requestid": "80b7f5bd-4983-44a8-9bd0-03c541ef1e23",
+      "confidence": "0.896478",
+      "timestamp": 2202.88,
+      "content": "more information is available at 23 the number in me dot CA",
+      "speaker": "S335"
+    },
+    "2208.59": {
+      "requestid": "9ae90471-4f97-44fc-8721-1005a1aa2020",
+      "confidence": "0.8576624",
+      "timestamp": 2208.59,
+      "content": "freakonomics radio is supported by citrix go to meeting designed to be a fast and simple way to meet and collaborate with clients and coworkers online",
+      "speaker": "S103"
+    },
+    "2217.73": {
+      "requestid": "69b24c09-6e92-466e-99d4-6dae24f74263",
+      "confidence": "0.7992406",
+      "timestamp": 2217.73,
+      "content": "go to meeting with users share screens change presenters",
+      "speaker": "S103"
+    },
+    "2221.41": {
+      "requestid": "c484bf26-3577-480e-87be-1fcc92b6ad94",
+      "confidence": "0.8747244",
+      "timestamp": 2221.41,
+      "content": "in turn on their webcams for high definition video conferencing go to meeting allows teams to stay connected from wherever they are at anytime using any computer mobile or tablet music go to meeting.com and click on that riot free button for a free 30 day trial",
+      "speaker": "S103"
+    },
+    "2239.63": {
+      "requestid": "f3632c02-3f0f-4cb9-a308-1c6c8fd2d559",
+      "timestamp": 2239.63,
+      "content": ""
+    },
+    "2241.71": {
+      "requestid": "ff56858b-422f-4796-9f34-ba5044e9b82b",
+      "confidence": "0.7520902",
+      "timestamp": 2241.71,
+      "content": "from w nyc this is freakonomics radio here's your host stephen dubner",
+      "speaker": "S343"
+    },
+    "2249.32": {
+      "requestid": "9e8aec06-7839-44ab-8f43-44a15f8dff6f",
+      "confidence": "0.7833405",
+      "timestamp": 2249.32,
+      "content": "welcome back to tell me something I don't know but we can I mix radio I'm stephen dubner our next round is called judges choice before the show we ask each of our 3 judges what they wanted to know more about an hour hour live audience is going to try to help them out ok",
+      "speaker": "S103"
+    },
+    "2265.36": {
+      "requestid": "fe9b740f-2cff-4f76-839c-be318bdd29cf",
+      "confidence": "0.8439115",
+      "timestamp": 2265.36,
+      "content": "ana gasteyer formateur night live cast member to start with a new record called I'm hip and I love your video it's so great I think you're fantastic I'm on AI understand you are eager to know more about the civil war",
+      "speaker": "S103"
+    },
+    "2277.66": {
+      "requestid": "5b60dc17-f224-4b00-8af1-6840faeffb66",
+      "confidence": "0.6239689",
+      "timestamp": 2277.66,
+      "content": "william up because I took it out of summer school class that covered it might be after lunch",
+      "speaker": "S115"
+    },
+    "2284.01": {
+      "requestid": "6c979de0-fa73-4862-86ff-e8af3622a4ed",
+      "confidence": "0.6096061",
+      "timestamp": 2284.01,
+      "content": "sorry I got the big picture was kinda embarrassing thing I've been on teams are um very big labia in my son's name is ulysses so let me know what is the heat on",
+      "speaker": "S115"
+    },
+    "2294.86": {
+      "requestid": "9799ccc4-3421-42cb-a483-f3f8f7ea31fa",
+      "confidence": "0.8046209",
+      "timestamp": 2294.86,
+      "content": "david patterson former governor of new york now a professor of health care in public policy you would like to know more about astronomy said you like that I went to the haden plan",
+      "speaker": "S103"
+    },
+    "2305.39": {
+      "requestid": "2068f738-a04b-4d33-b9db-cd5867ff4823",
+      "confidence": "0.7664011",
+      "timestamp": 2305.39,
+      "content": "terry M1 of those class trips travel center 8 years old and I kind of got caught up and I'm trying to figure out the universe malowana governed the universe",
+      "speaker": "S250"
+    },
+    "2316.76": {
+      "requestid": "386c3be3-bb63-47ae-90b0-caa4d810ff69",
+      "timestamp": 2316.76,
+      "content": ""
+    },
+    "2323.81": {
+      "requestid": "83e762b3-5294-4592-b5f4-8e56f873bf44",
+      "confidence": "0.7917178",
+      "timestamp": 2323.81,
+      "content": "and malcolm gladwell best selling author in staff writer at the new yorker you told is that you had to know more about tax law yes sexy why is that malcolm",
+      "speaker": "S103"
+    },
+    "2334.9": {
+      "requestid": "f6e77894-b52c-445b-8d31-cab1559aac1c",
+      "confidence": "0.6857635",
+      "timestamp": 2334.9,
+      "content": "when I wykeham this country 20 years ago so fricken dan discovered umiat amaze me to say which is that what 75% of american politics I just backed taxes so I would not wanna know more about that",
+      "speaker": "S175"
+    },
+    "2347.61": {
+      "requestid": "3c8e2a6c-d429-4e4b-bd24-0fec25e0ada1",
+      "timestamp": 2347.61,
+      "content": ""
+    },
+    "2350.88": {
+      "requestid": "ea7f9dcb-ecf6-4ce4-ae33-a884b6e6fab4",
+      "confidence": "0.7710506",
+      "timestamp": 2350.88,
+      "content": "I love with that said it's it's it's it's the answer I was not expecting",
+      "speaker": "S103"
+    },
+    "2357.22": {
+      "requestid": "ed3e564b-e942-4678-a97a-9accb0f2df33",
+      "confidence": "0.8161545",
+      "timestamp": 2357.22,
+      "content": "here's how judges choice work sucks members of the audience we need you to line up at the microphone right over there if you can tell us something we don't know about the civil war astronomy or text for now this is the lightning round to make it fast if you hear this bell",
+      "speaker": "S103"
+    },
+    "2373.71": {
+      "requestid": "ea6a9ee9-1fa9-4018-a8a9-a215853b5167",
+      "confidence": "0.8151373",
+      "timestamp": 2373.71,
+      "content": "that means you should stop",
+      "speaker": "S364"
+    },
+    "2375.47": {
+      "requestid": "f6c8931d-a7ed-4022-81f8-7e685d9a388b",
+      "confidence": "0.740474",
+      "timestamp": 2375.47,
+      "content": "talking retardancy ok all you need to do is tell if your name and your id KI don't know everyone who plays then go to freakonomics radio t shirt or mug in the winner of this round will qualify for the final round judges",
+      "speaker": "S103"
+    },
+    "2389.55": {
+      "requestid": "8fb5f854-4270-47c5-a939-4ccf108bff12",
+      "confidence": "0.7952582",
+      "timestamp": 2389.55,
+      "content": "at the end of the round left each of you to pick your favourite I dk that was directed at you and give me the score in anywhere from zero to 10 points based on the same criteria something you didn't know something that's worth knowing and that's demonstrably true grit let's go first contestant please step up tellus your name and something we don't know",
+      "speaker": "S103"
+    },
+    "2408.37": {
+      "requestid": "4b16a714-b875-4bad-9a8c-00e61e704677",
+      "confidence": "0.5605462",
+      "timestamp": 2408.37,
+      "content": "my name is michael bolton on this factor sayanim biesenbach by randall munroe cowon s",
+      "speaker": "S371"
+    },
+    "2414.47": {
+      "requestid": "e6e96449-3b42-484d-b046-a70b23c17325",
+      "confidence": "0.7281897",
+      "timestamp": 2414.47,
+      "content": "um if a supernova curd where the sun is it done more this summer <profanity>fucking</profanity> going to supernova river did it be so bright be brighter in a hydrogen bomb exploded at the surface of your eyeball known it would be brighter be a big idiot billion times brighter",
+      "speaker": "S371"
+    },
+    "2431.09": {
+      "requestid": "ce26742f-b08b-4377-97c5-3dbddb3e01ee",
+      "confidence": "0.794441",
+      "timestamp": 2431.09,
+      "content": "a supernova from the sun will be a billion times brighter than a hydra bomb exploded right here",
+      "speaker": "S371"
+    },
+    "2436.99": {
+      "requestid": "20c907e1-7e76-4878-86b7-2b62b0bce158",
+      "timestamp": 2436.99,
+      "content": ""
+    },
+    "2441.76": {
+      "requestid": "1cfd7aeb-dc27-4da9-9700-fc26bdbcd93e",
+      "confidence": "0.5882467",
+      "timestamp": 2441.76,
+      "content": "hi there coming up to see a way name is daniel this is for Mr. gladwell I do you know that in the ireland and the denmark there's a flatulence taefung cows to reduce the emissions at rr road out by then",
+      "speaker": "S103"
+    },
+    "2455.32": {
+      "requestid": "c319a406-36a1-4a1d-90be-b05198823410",
+      "confidence": "0.6122802",
+      "timestamp": 2455.32,
+      "content": "and it is important because um that might end up happening in america as well so the kelser to every kawther farmer ones's text beautifully done",
+      "speaker": "S103"
+    },
+    "2466.51": {
+      "requestid": "cff43dc7-dc99-427b-96b5-5af02bec924f",
+      "confidence": "0.6916603",
+      "timestamp": 2466.51,
+      "content": "thank you so much daniel steven up and tell us something we don't know",
+      "speaker": "S103"
+    },
+    "2470.17": {
+      "requestid": "4991cb4f-da26-4682-9069-72e43b96d854",
+      "confidence": "0.6658783",
+      "timestamp": 2470.17,
+      "content": "ah hi my name is malhar and I did you know that on johnny way up to the flash gonna meet and do you know on January 2nd I gotta do you see celebridades January 1st as the new year but in January 2nd does a russian ankla benkahla perihelion which is when does the earth is closest to the sun",
+      "speaker": "S384"
+    },
+    "2488.21": {
+      "requestid": "9f75abb7-1dd3-43c6-9512-77e13e87bb10",
+      "confidence": "0.5711511",
+      "timestamp": 2488.21,
+      "content": "I think about how close how close is sod jennifer savinien arbitrary number omagine of January 2nd was the new year uncle with happy",
+      "speaker": "S384"
+    },
+    "2497.08": {
+      "requestid": "2284ebbc-d493-47b4-be77-cf25d0dc3ffc",
+      "confidence": "0.3516036",
+      "timestamp": 2497.08,
+      "content": "thank you",
+      "speaker": "S104"
+    },
+    "2503.14": {
+      "requestid": "49dfd7fe-565d-41f1-9e42-292b2e906d7c",
+      "confidence": "0.6880752",
+      "timestamp": 2503.14,
+      "content": "and for those wanna retire with a little bit more money does a text lupului contribute your traditional 401 k and roll it over to a post tax roth 401 k without a tax penalty famu up at the 30% beautiful thank you so much",
+      "speaker": "S343"
+    },
+    "2520.84": {
+      "requestid": "4a090807-e1cf-4de3-84ce-ab5a934ed373",
+      "confidence": "0.5673339",
+      "timestamp": 2520.84,
+      "content": "hi there",
+      "speaker": "S104"
+    },
+    "2522.5": {
+      "requestid": "d805de34-627f-428d-a1d0-902d52ede33c",
+      "confidence": "0.9090317",
+      "timestamp": 2522.5,
+      "content": "tell if your name and something we don't know",
+      "speaker": "S103"
+    },
+    "2524.18": {
+      "requestid": "ab56c958-69d5-4ee6-90c3-3c3073155b3c",
+      "confidence": "0.7481309",
+      "timestamp": 2524.18,
+      "content": "hi my name is alex I'm not coming along time fan of your hair on",
+      "speaker": "S392"
+    },
+    "2528.61": {
+      "requestid": "adbc1dd5-7cfe-4efb-ae3a-7ea9ff78bf27",
+      "confidence": "0.6730561",
+      "timestamp": 2528.61,
+      "content": "if I would you do you know about me I'm so this is nastra many factors in using the supernova theme but I'm going to be some projection every second there are 30 super know bye",
+      "speaker": "S392"
+    },
+    "2540.13": {
+      "requestid": "f527c53e-4f34-4d98-bab7-ca0d82846b1f",
+      "confidence": "0.7779465",
+      "timestamp": 2540.13,
+      "content": "in the observable observable universe that's for every baby born there are 7 stars explode",
+      "speaker": "S394"
+    },
+    "2550.47": {
+      "requestid": "59f1cb90-edd3-4742-a3b5-81b62d3f9bc6",
+      "confidence": "0.7240756",
+      "timestamp": 2550.47,
+      "content": "beautiful hi there does anyone know anything about the civil war help",
+      "speaker": "S174"
+    },
+    "2555.54": {
+      "requestid": "30919bec-22f2-49fd-bb0f-01dfd393eb2a",
+      "confidence": "0.7279292",
+      "timestamp": 2555.54,
+      "content": "what is why I don't know anything so it's all gonna be good for me at the high for how is your name",
+      "speaker": "S192"
+    },
+    "2560.42": {
+      "requestid": "47667f01-f460-47b0-90b4-e53c19907fff",
+      "confidence": "0.7327561",
+      "timestamp": 2560.42,
+      "content": "hi my name's aaron winner iron I have something about tax law in the civil war",
+      "speaker": "S399"
+    },
+    "2565.56": {
+      "requestid": "4ef19022-7e7a-4a5a-b9e6-418daeb73325",
+      "timestamp": 2565.56,
+      "content": ""
+    },
+    "2571.87": {
+      "requestid": "96d0331a-d44f-42b5-9bf5-018a351f8076",
+      "confidence": "0.7942836",
+      "timestamp": 2571.87,
+      "content": "in which galaxy",
+      "speaker": "S104"
+    },
+    "2579.06": {
+      "requestid": "96c0441c-db28-4d11-b43c-13095bb83138",
+      "confidence": "0.6708463",
+      "timestamp": 2579.06,
+      "content": "flooded during the civil war are the south webid taxes adorata thai consistent with what is confederate money was worth at the time the bed at a territory schragis at lunch there was effectively a large amount of inflation spent a lot of money concentrate in the smaller and smaller area where it was legal",
+      "speaker": "S399"
+    },
+    "2596.99": {
+      "requestid": "7cbcd050-634d-428e-8f74-a9c5d5e4fb51",
+      "confidence": "0.55239",
+      "timestamp": 2596.99,
+      "content": "so they ended up not letting it out taxes and it was the dishes for is cycle contribute to be in place in america to the academy which northard are you at work",
+      "speaker": "S399"
+    },
+    "2607.9": {
+      "requestid": "a50f47f2-f9ec-46e9-8e69-9295808e1637",
+      "confidence": "0.489837",
+      "timestamp": 2607.9,
+      "content": "call sippy cup should be either how do you do",
+      "speaker": "S104"
+    },
+    "2614.09": {
+      "requestid": "0f6f6972-7e99-4785-aef0-303160a83953",
+      "confidence": "0.5706325",
+      "timestamp": 2614.09,
+      "content": "what's your name or so high I need reese",
+      "speaker": "S403"
+    },
+    "2616.69": {
+      "requestid": "cd29f9c8-5b29-476e-b381-6460f0cd26f5",
+      "confidence": "0.7231842",
+      "timestamp": 2616.69,
+      "content": "answer the tax law and the civil war",
+      "speaker": "S403"
+    },
+    "2619.77": {
+      "requestid": "5099f8b1-f3cb-47c5-8d6f-26964c1fdadd",
+      "confidence": "0.746241",
+      "timestamp": 2619.77,
+      "content": "who",
+      "speaker": "S104"
+    },
+    "2623.46": {
+      "requestid": "cf150f81-2065-47a3-ae8d-049e10e6838a",
+      "confidence": "0.6937256",
+      "timestamp": 2623.46,
+      "content": "so um do you need to pay for the war among 'cause they were kind of war judgement if so what they did was they felt an income tax on the rich and soap in the way how they enforce it was that they create you like a registry so that you can look up any person and see how much they paid in taxes",
+      "speaker": "S403"
+    },
+    "2641.88": {
+      "requestid": "db91baaf-c1bb-4ea0-9878-b795309d69a6",
+      "confidence": "0.7053919",
+      "timestamp": 2641.88,
+      "content": "and so anybody who thought that somebody was he know kind of living in way that would assist with the income of a reported do it they would do is that you can report them and say oh well um this person is living too large so in fact based report abraham lincoln",
+      "speaker": "S403"
+    },
+    "2658.7": {
+      "requestid": "002540e7-13f0-47cc-9aeb-6f6ab1c5ba30",
+      "confidence": "0.6129178",
+      "timestamp": 2658.7,
+      "content": "so on the tax reporters omweg ledger what date it was a bath ago actually investigate this is kinda funny I agree",
+      "speaker": "S403"
+    },
+    "2669.48": {
+      "requestid": "194a4719-4373-4537-bee9-be38a875ada4",
+      "confidence": "0.5236123",
+      "timestamp": 2669.48,
+      "content": "I agree thank you so much great job in green grapes on time",
+      "speaker": "S104"
+    },
+    "2676.58": {
+      "requestid": "786e33f4-3d75-4011-a918-e19c1e3383a1",
+      "confidence": "0.7236366",
+      "timestamp": 2676.58,
+      "content": "tell it tell if your name and something we don't know hi my name is mariana yannich I don't have an astronomy fact did you know that the illinois state senate was so angry when pudo was demoted from planet to dorf planet in 2006",
+      "speaker": "S414"
+    },
+    "2691.09": {
+      "requestid": "37394a6d-a2e7-455d-ae78-3e777453f002",
+      "confidence": "0.7305087",
+      "timestamp": 2691.09,
+      "content": "but on March 13th 2009 bibhudutta reinstated as a planet in the back de puto de in illinois",
+      "speaker": "S414"
+    },
+    "2701.7": {
+      "requestid": "940ba667-377e-4e53-9045-d9c35a1fa5a7",
+      "confidence": "0.5584928",
+      "timestamp": 2701.7,
+      "content": "ok I got your name",
+      "speaker": "S104"
+    },
+    "2703.79": {
+      "requestid": "c0aa2878-3dda-4816-98ab-c83a0a23ae47",
+      "confidence": "0.7305189",
+      "timestamp": 2703.79,
+      "content": "nothing we don't know I'm I'm just um um we know more about the civil war the midwives would've because of cancer at the end of life president ulysses grant I'm not mad",
+      "speaker": "S394"
+    },
+    "2714.23": {
+      "requestid": "0bdb194d-7676-4c3f-8c06-4da6b7cfc179",
+      "confidence": "0.4466909",
+      "timestamp": 2714.23,
+      "content": "tell the kids I have no sister",
+      "speaker": "S103"
+    },
+    "2716.21": {
+      "requestid": "a8c054ac-dbe2-4736-a824-1dcdeb37a0b5",
+      "confidence": "0.6867814",
+      "timestamp": 2716.21,
+      "content": "what is a pressure diretas memoirs and record water meter the civil war we might otherwise not at noon",
+      "speaker": "S394"
+    },
+    "2722.21": {
+      "requestid": "dbc25379-e186-4acd-a18f-678e7d3dc9a7",
+      "confidence": "0.7576228",
+      "timestamp": 2722.21,
+      "content": "nicely done and we got time I'm afraid for just one more thing wanted to step up with your name and something we don't know",
+      "speaker": "S103"
+    },
+    "2729.1": {
+      "requestid": "aa9fd3ca-3073-469f-b7c5-24d457a7fcbc",
+      "confidence": "0.6228375",
+      "timestamp": 2729.1,
+      "content": "I'm a name is steve missourian in this is a odd are income tax outlaw fact I'm there are really 2 classes of income tax payers in those days people who can itemize deductions people cannot",
+      "speaker": "S421"
+    },
+    "2740.05": {
+      "requestid": "75fe03dc-d718-4e57-9c69-b7073b12a751",
+      "confidence": "0.7486953",
+      "timestamp": 2740.05,
+      "content": "untypically tatulli property owners and on property owners of course your new york we have a lot of renters what most people don't know is that if they make some kind of large deduction are large contribution like maybe donating a used car that donation kenexa be held over for long is 5 years",
+      "speaker": "S421"
+    },
+    "2756.71": {
+      "requestid": "7274d655-0ff4-4820-9ba9-df0cf369d14d",
+      "confidence": "0.8459092",
+      "timestamp": 2756.71,
+      "content": "IN when I was younger I donated a car that I paid 100 bucks for I got a 2550 dollar right off I held it for 4 years that I bought a house and I got a $900 credit on my taxes zoulou metallari 100",
+      "speaker": "S421"
+    },
+    "2771.35": {
+      "requestid": "e3531218-1f3f-4d63-8919-5ef282ed8597",
+      "confidence": "0.6573504",
+      "timestamp": 2771.35,
+      "content": "you should've been governor",
+      "speaker": "S104"
+    },
+    "2776.6": {
+      "requestid": "8146f826-d86d-4e83-821e-fc3352e3605f",
+      "confidence": "0.3778703",
+      "timestamp": 2776.6,
+      "content": "ok",
+      "speaker": "S104"
+    },
+    "2778.61": {
+      "requestid": "c84c444f-27a3-40f0-bba1-1c9c72bc17fd",
+      "confidence": "0.709353",
+      "timestamp": 2778.61,
+      "content": "now here's the thing judges it's time for each of you to pick your favourite of those and assign a number score to it ok so I'm done",
+      "speaker": "S103"
+    },
+    "2786.02": {
+      "requestid": "3e5a7190-da2d-4c2c-88c1-fcc4d6522d40",
+      "confidence": "0.8496643",
+      "timestamp": 2786.02,
+      "content": "just to be clear I can only vote on the things about the civil war",
+      "speaker": "S115"
+    },
+    "2789.36": {
+      "requestid": "9a0604d0-f664-4f84-8c05-a9fdd2175d7b",
+      "confidence": "0.6762627",
+      "timestamp": 2789.36,
+      "content": "yeah yeah but basically we want each of you to pick a winner in your category gadama score ok yummy patterson uti we are going to bed here bout astronomy your church topic we did and they were over",
+      "speaker": "S103"
+    },
+    "2801.03": {
+      "requestid": "3c4a92b6-5825-4303-9dae-0e23a51123d8",
+      "confidence": "0.5675293",
+      "timestamp": 2801.03,
+      "content": "good and um I think I actually would need to put of planets parents the way the afikoman decommissionings not gonna be there any commissions on pluto but um bring on mohar",
+      "speaker": "S250"
+    },
+    "2818.06": {
+      "requestid": "d70b7ec6-b8b1-468d-b378-347f4d91fe0e",
+      "confidence": "0.4398113",
+      "timestamp": 2818.06,
+      "content": "that was telling you about",
+      "speaker": "S104"
+    },
+    "2819.57": {
+      "requestid": "bc75b9a3-53da-4158-a9f6-76b8f3a549cd",
+      "confidence": "0.7966506",
+      "timestamp": 2819.57,
+      "content": "January 2nd verse January 1st we are very good very good and godly person can you put in number score on on that one please",
+      "speaker": "S103"
+    },
+    "2828.02": {
+      "requestid": "e23d28b2-5178-43da-8073-bafabd29272d",
+      "confidence": "0.5088464",
+      "timestamp": 2828.02,
+      "content": "oblaka like at 10:10",
+      "speaker": "S250"
+    },
+    "2834.45": {
+      "requestid": "4223ad2e-5480-4525-8d6d-4a30a25a8345",
+      "confidence": "0.5201252",
+      "timestamp": 2834.45,
+      "content": "not even like the senate and friends",
+      "speaker": "S104"
+    },
+    "2838.19": {
+      "requestid": "a1364389-dc0d-4b27-8b46-ba130b922021",
+      "confidence": "0.6348628",
+      "timestamp": 2838.19,
+      "content": "malcolm gladwell uopeople time and ted only one day apart and he sold it like it was like half a year",
+      "speaker": "S103"
+    },
+    "2848.93": {
+      "requestid": "8f42002b-9c99-4f1c-910b-6dd8ae3f8400",
+      "confidence": "0.8040287",
+      "timestamp": 2848.93,
+      "content": "malcolm gladwell us to people talk about taxali told you that text so what was your favourite",
+      "speaker": "S103"
+    },
+    "2853.42": {
+      "requestid": "3f75a85b-b772-4db3-b296-ab2049608eb8",
+      "confidence": "0.7661448",
+      "timestamp": 2853.42,
+      "content": "oh wow they were all good on this is impossible I am but I'm gonna go with cow flatulence yeah",
+      "speaker": "S197"
+    },
+    "2863.0": {
+      "requestid": "e1b974cc-38c4-4c4a-bfd1-aee5f767b581",
+      "confidence": "0.6265445",
+      "timestamp": 2863.0,
+      "content": "I gotta get back imma 9",
+      "speaker": "S104"
+    },
+    "2865.91": {
+      "requestid": "e2c46462-3aad-4c83-90ca-a7fa7f9e5a9e",
+      "confidence": "0.6218608",
+      "timestamp": 2865.91,
+      "content": "anna um but you don't have the deadlock I think they have a nail biter between arelina random tom it was that they're both incredibly useful facts about what involves tax laws one didn't want involved ulysses are you know like I'm gonna say that I'm gonna choose that factoid about um",
+      "speaker": "S156"
+    },
+    "2884.22": {
+      "requestid": "968fdf51-2385-4506-aad4-97924b7a1c7c",
+      "confidence": "0.8015978",
+      "timestamp": 2884.22,
+      "content": "grant having cancer because I think there's something really awesome",
+      "speaker": "S115"
+    },
+    "2888.1": {
+      "requestid": "663f2449-8b38-4fea-94a9-85b2f0a8fd30",
+      "confidence": "0.8779749",
+      "timestamp": 2888.1,
+      "content": "applicable in conversation about how we record history in memory in beautiful",
+      "speaker": "S115"
+    },
+    "2895.92": {
+      "requestid": "7bca282c-bc0e-4e38-ad4c-22a338b80e59",
+      "confidence": "0.5789326",
+      "timestamp": 2895.92,
+      "content": "jodie we have a",
+      "speaker": "S104"
+    },
+    "2897.65": {
+      "requestid": "9d130f82-8b2c-46e2-83e2-f1dd6aba7a1a",
+      "confidence": "0.8006495",
+      "timestamp": 2897.65,
+      "content": "contested contestir can you tell if anything about any of the winners in weather there is factuals we think they are",
+      "speaker": "S103"
+    },
+    "2904.98": {
+      "requestid": "fefe0c82-f1b9-4d06-b080-aea64bc41668",
+      "confidence": "0.7362986",
+      "timestamp": 2904.98,
+      "content": "barrall generally fachschule um with regards to our the window is actually for the window around the 2nd of January where the earth and the sun the closest and I think in 22015 it's gonna be January 4th at the earth and the sun the closest to each other",
+      "speaker": "S135"
+    },
+    "2922.31": {
+      "requestid": "ef4e2a3c-ebf7-4e35-bcf2-2a685e88dae2",
+      "confidence": "0.5750245",
+      "timestamp": 2922.31,
+      "content": "but when is high so I guess your on your 12:30",
+      "speaker": "S103"
+    },
+    "2928.64": {
+      "requestid": "7ec864c1-0f75-4aa0-b0e6-474c155a98e4",
+      "confidence": "0.5824392",
+      "timestamp": 2928.64,
+      "content": "who is trying to kill a 12 year old boy just got up here until this is that you're gonna dakim for being a couple bars",
+      "speaker": "S103"
+    },
+    "2935.89": {
+      "requestid": "aa797165-1331-4a1e-9a3b-ef25465ffa14",
+      "confidence": "0.7065142",
+      "timestamp": 2935.89,
+      "content": "literally the first pagegoogle.com for sale",
+      "speaker": "S135"
+    },
+    "2938.32": {
+      "requestid": "84bd5c98-2fd6-4758-8f78-0a0dbf088745",
+      "confidence": "0.412997",
+      "timestamp": 2938.32,
+      "content": "who sings opera honey bunny",
+      "speaker": "S104"
+    },
+    "2946.31": {
+      "requestid": "b578bf9d-bcac-4dfa-a156-fa2c72531382",
+      "confidence": "0.6898431",
+      "timestamp": 2946.31,
+      "content": "sitting in in denmark you will get tacked $110 per cow for fighting county in ireland its only $18 so you know you gotta put my shipment get him over there and take advantage of that stuff you say",
+      "speaker": "S135"
+    },
+    "2960.4": {
+      "requestid": "c155d86b-e02f-4bdb-a53a-4655a1ac5d07",
+      "confidence": "0.6562715",
+      "timestamp": 2960.4,
+      "content": "ok part of russia here's a question are we chat is it arbitrage opportunity so here's the question um governor patterson having her jody teleset mohar is in a little bit off do you wanna talk in point you wanna take away is 10",
+      "speaker": "S103"
+    },
+    "2976.77": {
+      "requestid": "ab657237-f6ba-441f-9af9-a3da26ad9cf8",
+      "confidence": "0.8986549",
+      "timestamp": 2976.77,
+      "content": "no",
+      "speaker": "S103"
+    },
+    "2979.38": {
+      "requestid": "ef408692-dc97-409a-9d1b-8771ce78dd96",
+      "confidence": "0.5966256",
+      "timestamp": 2979.38,
+      "content": "how do you live",
+      "speaker": "S104"
+    },
+    "2984.24": {
+      "requestid": "5b4a3638-1ea3-41fb-b5a2-5b8f3a750746",
+      "confidence": "0.7405846",
+      "timestamp": 2984.24,
+      "content": "I'm so what we've got here is google know about time",
+      "speaker": "S103"
+    },
+    "2990.37": {
+      "requestid": "40962c10-eef4-4a11-b917-d48209ca16cf",
+      "confidence": "0.668753",
+      "timestamp": 2990.37,
+      "content": "alright so we got 2 winners you got a good time for the judges choice randy got mall harwit January 2nd and tom with we wouldn't know so much about the civil war if it weren't for ulysses s grant's cancer the both of those that attend so congratulations tom",
+      "speaker": "S103"
+    },
+    "3012.09": {
+      "requestid": "8c621c4f-b79f-4317-a413-901b7ed19ebe",
+      "confidence": "0.7824713",
+      "timestamp": 3012.09,
+      "content": "coming up every 3 find little each team up with one of our judges to go after the grand prize that's next on tell me something I don't know",
+      "speaker": "S103"
+    },
+    "3039.78": {
+      "requestid": "06136952-9537-414c-b760-a72efc6d814c",
+      "confidence": "0.867205",
+      "timestamp": 3039.78,
+      "content": "welcome back to tell me something I don't know what new game show from freakonomics radio and wmic I'm stephen dubner we had a great night so far I think we would agree",
+      "speaker": "S103"
+    },
+    "3056.29": {
+      "requestid": "ce09096d-b19a-4b93-a05f-e0d9044c0043",
+      "confidence": "0.7319278",
+      "timestamp": 3056.29,
+      "content": "3 of our audience contestants have made it through to this the final round with all now be teamed up with our 3 judges so governor david paterson will play with mauj are malcolm gladwell will play with tom and ana gasteyer will play with seth welcome aboard guys",
+      "speaker": "S103"
+    },
+    "3076.85": {
+      "requestid": "42a4ae75-c008-4fff-bd7e-fc47f8d567c2",
+      "confidence": "0.7109651",
+      "timestamp": 3076.85,
+      "content": "I know I know what you're thinking you thinking",
+      "speaker": "S104"
+    },
+    "3079.18": {
+      "requestid": "def8ff53-3102-4525-8c08-39d60be25342",
+      "confidence": "0.808962",
+      "timestamp": 3079.18,
+      "content": "final round what is this final round where is jicama",
+      "speaker": "S103"
+    },
+    "3085.4": {
+      "requestid": "1270f9fb-fe74-4f32-800b-6e73c90af772",
+      "confidence": "0.7798559",
+      "timestamp": 3085.4,
+      "content": "may I present to you please the spinning wheel of maximum's danger",
+      "speaker": "S103"
+    },
+    "3093.34": {
+      "requestid": "179b937d-4155-46a8-8e46-15245111f5c8",
+      "confidence": "0.8560024",
+      "timestamp": 3093.34,
+      "content": "that's right it is the spinning wheel with 12 rather random topics that you are studio audience up with come up with before the show began you member how that work now it's all coming clear right so I'm gonna read them to you",
+      "speaker": "S103"
+    },
+    "3106.51": {
+      "requestid": "af999ccc-129f-4f17-99d8-439bd7b07271",
+      "confidence": "0.7360088",
+      "timestamp": 3106.51,
+      "content": "we've got our topic start insulin ninja warrior workout tapes anime battem island indoor plumbing did someone write those next to each other on purpose",
+      "speaker": "S103"
+    },
+    "3119.28": {
+      "requestid": "7194fb2e-b3ea-474e-af9a-293cff79acfb",
+      "confidence": "0.6640948",
+      "timestamp": 3119.28,
+      "content": "that seems low blow hogwarts's eleanor roosevelt bread neuroscience disney in the kama sutra ok so here here's the way it's gonna work ok I'm gonna spin the wheel",
+      "speaker": "S103"
+    },
+    "3134.44": {
+      "requestid": "b040e41e-eb69-4f93-9b90-1cd038213d69",
+      "confidence": "0.8118188",
+      "timestamp": 3134.44,
+      "content": "to pick a topic for each team ok and each team will win have about 60 seconds give are take to confirm and tell all of us something we don't know about this rather randomly chosen topic",
+      "speaker": "S103"
+    },
+    "3148.74": {
+      "requestid": "7a08c410-9425-4ed6-b611-f911294ee23a",
+      "confidence": "0.6572921",
+      "timestamp": 3148.74,
+      "content": "when it's all over you the studio audience will give us a strobe or maybe clapping stomping anyway you wanna make a noise to pick out a grand prize winner ok no clear any questions comments complaints criticism on a set list",
+      "speaker": "S103"
+    },
+    "3161.85": {
+      "requestid": "a82e4046-f2b4-45ef-b21b-59e018823ed9",
+      "confidence": "0.4498661",
+      "timestamp": 3161.85,
+      "content": "no doubt it it's fair lawn care",
+      "speaker": "S115"
+    },
+    "3166.26": {
+      "requestid": "e7403905-fda0-4c61-8d01-89747dbbd248",
+      "confidence": "0.7767142",
+      "timestamp": 3166.26,
+      "content": "right let's spin the wheel first to pick a topic for kim patterson here we go",
+      "speaker": "S103"
+    },
+    "3170.99": {
+      "requestid": "25aefdca-a26f-45ba-93af-1c81fe72db08",
+      "timestamp": 3170.99,
+      "content": ""
+    },
+    "3173.43": {
+      "requestid": "3c80ad01-a6a4-4e22-bc07-7c74e51a5598",
+      "confidence": "0.6782228",
+      "timestamp": 3173.43,
+      "content": "eleanor roosevelt aradippou realea ok next topic 14 gladwell",
+      "speaker": "S103"
+    },
+    "3181.15": {
+      "requestid": "5ff50f44-667f-4e4d-8c3b-04aeace2e51e",
+      "confidence": "0.5462241",
+      "timestamp": 3181.15,
+      "content": "with tom and you",
+      "speaker": "S490"
+    },
+    "3185.17": {
+      "requestid": "1316aff7-10e3-438c-bc3f-b8434ae5e45c",
+      "confidence": "0.5748541",
+      "timestamp": 3185.17,
+      "content": "do not get to do eleanor roosevelt also we have a provision against this I'm here it is",
+      "speaker": "S103"
+    },
+    "3192.26": {
+      "requestid": "ed4640b4-3715-42a7-86df-c03bdeb96cca",
+      "timestamp": 3192.26,
+      "content": ""
+    },
+    "3194.66": {
+      "requestid": "e275bc65-6825-408c-a671-443d969b44f3",
+      "confidence": "0.5774356",
+      "timestamp": 3194.66,
+      "content": "brad wow how lucky is that",
+      "speaker": "S103"
+    },
+    "3199.19": {
+      "requestid": "0ee7cc77-15d3-4642-902b-e1fef2c7dbe5",
+      "confidence": "0.7766376",
+      "timestamp": 3199.19,
+      "content": "and steven on a you get jealous of something we don't know about",
+      "speaker": "S103"
+    },
+    "3203.45": {
+      "requestid": "8ecd9983-14a0-4f22-8bd1-9b9629307de5",
+      "timestamp": 3203.45,
+      "content": ""
+    },
+    "3206.44": {
+      "requestid": "8809602e-2bf2-4c20-bdfd-b0250596009c",
+      "confidence": "0.6430073",
+      "timestamp": 3206.44,
+      "content": "what's a indoor plumbing",
+      "speaker": "S103"
+    },
+    "3211.87": {
+      "requestid": "71c28c0b-7cc3-475b-9f8f-029e23a4c2b6",
+      "confidence": "0.628899",
+      "timestamp": 3211.87,
+      "content": "you got one bowl already alright take your time off",
+      "speaker": "S104"
+    },
+    "3217.18": {
+      "requestid": "95d192fb-f8e8-4a9b-8020-6bbec6023907",
+      "confidence": "0.7791826",
+      "timestamp": 3217.18,
+      "content": "60 seconds of it and I want you to tell us something we don't know about eleanor roosevelt for tim patterson indoor plumbing for team gas fire in bread for team gladwell",
+      "speaker": "S103"
+    },
+    "3282.47": {
+      "requestid": "44ff1589-9197-4f90-9442-c2622e793179",
+      "confidence": "0.7627195",
+      "timestamp": 3282.47,
+      "content": "ok time is up I",
+      "speaker": "S103"
+    },
+    "3285.32": {
+      "requestid": "e0095a07-fd8e-472f-b664-e2794003bd0e",
+      "confidence": "0.7510545",
+      "timestamp": 3285.32,
+      "content": "you wanna hear what you all came up with audience members were gonna go after you've heard all 3 presentations ok the first up dummy david patterson in mohar want you to tell it something we",
+      "speaker": "S103"
+    },
+    "3296.74": {
+      "requestid": "c1c92e7a-87e3-49bc-973c-4be7c7005eb7",
+      "confidence": "0.7816187",
+      "timestamp": 3296.74,
+      "content": "don't know about eleanor roosevelt",
+      "speaker": "S103"
+    },
+    "3300.04": {
+      "requestid": "744d64ec-908b-47fc-b07d-dd110168f9b5",
+      "confidence": "0.6562142",
+      "timestamp": 3300.04,
+      "content": "I eleanor roosevelt with along with all of it big friend of a amelia earhart",
+      "speaker": "S384"
+    },
+    "3305.04": {
+      "requestid": "f3097b04-b79a-4eb1-b0a3-e4147fb27d64",
+      "confidence": "0.6387188",
+      "timestamp": 3305.04,
+      "content": "IN the women's rights advocate she was such a good friend of amelia earhart ever thought inseparable edwind wet wet amelia earhart been missing he was a huge proponent of the plans are when the us cent hundreds of ships to around the area where she was last",
+      "speaker": "S384"
+    },
+    "3321.09": {
+      "requestid": "14347faa-ff92-4b06-a14b-785a28007c6e",
+      "confidence": "0.677413",
+      "timestamp": 3321.09,
+      "content": "send the video odd lots videos of transmission",
+      "speaker": "S384"
+    },
+    "3325.07": {
+      "requestid": "e60a64e8-4815-4524-a2bf-6f3f14ba69b7",
+      "confidence": "0.8182842",
+      "timestamp": 3325.07,
+      "content": "very good ok thank you very much",
+      "speaker": "S103"
+    },
+    "3333.44": {
+      "requestid": "dd492597-fcaf-453b-b053-b8eedbe569cc",
+      "confidence": "0.7496508",
+      "timestamp": 3333.44,
+      "content": "malcolm gladwell entama can you tell us about bread that we don't know",
+      "speaker": "S103"
+    },
+    "3338.0": {
+      "requestid": "1f94755a-8b34-4dd3-93d5-dba3a4a23e23",
+      "confidence": "0.5177436",
+      "timestamp": 3338.0,
+      "content": "everyone thinks of for caccia bing some high",
+      "speaker": "S103"
+    },
+    "3342.04": {
+      "requestid": "c2653d07-7b1e-4d43-ac43-66045333a2c1",
+      "confidence": "0.6833763",
+      "timestamp": 3342.04,
+      "content": "valuable part of some h italian cultural culinary heritage wrong with the bend it by guimel on a 1975 really",
+      "speaker": "S103"
+    },
+    "3350.81": {
+      "requestid": "71fca169-73d2-4e15-aa59-45af6bc0a145",
+      "confidence": "0.6132341",
+      "timestamp": 3350.81,
+      "content": "who is italy belmont is it in milan italy are my new jersey month",
+      "speaker": "S103"
+    },
+    "3355.1": {
+      "requestid": "079f64af-6c99-4b07-836a-459a20196bd8",
+      "confidence": "0.5618598",
+      "timestamp": 3355.1,
+      "content": "it is late but that's about it wow ok I forgot your not old not old beautiful thank you very much",
+      "speaker": "S103"
+    },
+    "3368.12": {
+      "requestid": "33fa33a5-8e12-426a-b9d8-203bd6b951e4",
+      "confidence": "0.7409706",
+      "timestamp": 3368.12,
+      "content": "and last but so not least on a cast iron stuff what can you tell us about indoor plumbing",
+      "speaker": "S103"
+    },
+    "3375.5": {
+      "requestid": "cd61b167-4127-415b-a1ac-7e0e9853ab58",
+      "confidence": "0.7751229",
+      "timestamp": 3375.5,
+      "content": "we decided to talk about of mario from super mario brothers",
+      "speaker": "S115"
+    },
+    "3381.0": {
+      "requestid": "bdb234e1-4a9a-4369-ad6a-e0a7f0e5821e",
+      "confidence": "0.6259455",
+      "timestamp": 3381.0,
+      "content": "that's all we know better they have yet to maryo the only reason to the plumber in the 1st place but total accent base on the graphical limitations of the early video games sigaram your time is the guy who created mario 1 of the way to show for my body sweetmeat overalls shut alarms anyone showspace tall is this thing typed all that stuff",
+      "speaker": "S105"
+    },
+    "3399.15": {
+      "requestid": "d540cc66-cd02-47f7-8c90-0720504d06e0",
+      "confidence": "0.6963335",
+      "timestamp": 3399.15,
+      "content": "the maze camille plumber it all just because the computers back then kinda suck",
+      "speaker": "S105"
+    },
+    "3403.39": {
+      "requestid": "624952fe-2126-4a8d-a611-f42dee00a78e",
+      "confidence": "0.6572661",
+      "timestamp": 3403.39,
+      "content": "so we don't really know how to fix your ear you dream",
+      "speaker": "S115"
+    },
+    "3406.17": {
+      "requestid": "11723350-95a1-4ed2-834f-2199596eed01",
+      "confidence": "0.5119148",
+      "timestamp": 3406.17,
+      "content": "wow wow fantastic fantastic grey goose creek",
+      "speaker": "S104"
+    },
+    "3416.07": {
+      "requestid": "5bc26900-bbcd-4564-b39a-c4cb2810ea0c",
+      "confidence": "0.6270481",
+      "timestamp": 3416.07,
+      "content": "so bad but is that wouter do 3 news for today ok so before we got before we have you all vote for the grand prize winner jodia brigandi everything that elf on the factual level here",
+      "speaker": "S103"
+    },
+    "3428.08": {
+      "requestid": "d09ca94b-5ab9-4985-b05b-90456a0e77b5",
+      "confidence": "0.6866918",
+      "timestamp": 3428.08,
+      "content": "factual alarm I've been I've been googling quickly and actually be 4 on the I got the fact about owner roosevelt I had stumbled upon a very fascinating wicca pedia section for alan rus.com quote other relationship music and indeed she had a deep friendship",
+      "speaker": "S135"
+    },
+    "3446.11": {
+      "requestid": "39aeeb81-805c-4b81-9d94-026c7b24cc91",
+      "confidence": "0.5798298",
+      "timestamp": 3446.11,
+      "content": "it's at one end of the spectrum about dinner should I wear today",
+      "speaker": "S135"
+    },
+    "3450.61": {
+      "requestid": "0ee02620-5740-4725-922e-6da325554bc6",
+      "confidence": "0.8079948",
+      "timestamp": 3450.61,
+      "content": "but she was at do you friends with amelia earhart they wrote letters to each other that included such endearment that quote I wanna put my arms around you and kiss you at the corner of your mouth and I can't kiss you so I kiss your picture goodnight and good morning sweet now I know why she didn't hear",
+      "speaker": "S135"
+    },
+    "3466.61": {
+      "requestid": "31ef134e-5e2d-4da8-8305-ef24120dd6c2",
+      "confidence": "0.4301714",
+      "timestamp": 3466.61,
+      "content": "04",
+      "speaker": "S104"
+    },
+    "3474.02": {
+      "requestid": "f8672cc2-e7c5-4a5e-aca8-68d4ce22eedd",
+      "confidence": "0.6752096",
+      "timestamp": 3474.02,
+      "content": "now we know why you are one term governor",
+      "speaker": "S104"
+    },
+    "3476.47": {
+      "requestid": "898c55f7-5b88-4b97-8e4f-f7fea73a9baa",
+      "timestamp": 3476.47,
+      "content": ""
+    },
+    "3482.76": {
+      "requestid": "d6d83c78-7066-49c7-820f-75674b76ecb2",
+      "confidence": "0.680137",
+      "timestamp": 3482.76,
+      "content": "ok jody aafa cocchia in super mario anything on there are wrong I am so thrilled to say malcolm gladwell I think you just made that up",
+      "speaker": "S135"
+    },
+    "3492.24": {
+      "requestid": "60141c5d-ad7c-41c5-8096-55db109557ed",
+      "timestamp": 3492.24,
+      "content": ""
+    },
+    "3496.56": {
+      "requestid": "0022e8dc-8fa0-4ca1-819e-5caf83df0912",
+      "confidence": "0.4649091",
+      "timestamp": 3496.56,
+      "content": "in ancient rome palmiest focac as well",
+      "speaker": "S135"
+    },
+    "3509.66": {
+      "requestid": "d7b4a97e-bd06-4e7a-95b5-aaffa9bca00a",
+      "confidence": "0.5794191",
+      "timestamp": 3509.66,
+      "content": "why don't we do the almighty been thinking here we wasted the money on jodi pizzo",
+      "speaker": "S103"
+    },
+    "3515.27": {
+      "requestid": "abba6b78-7b78-4819-8ec6-0d0106813713",
+      "confidence": "0.4442677",
+      "timestamp": 3515.27,
+      "content": "busted mouth to mouth would have to save yourself experts differ act",
+      "speaker": "S103"
+    },
+    "3520.94": {
+      "requestid": "0a85eeae-2300-4ba7-b4f0-3b5ec8f01431",
+      "confidence": "0.7723802",
+      "timestamp": 3520.94,
+      "content": "wow wow",
+      "speaker": "S103"
+    },
+    "3522.96": {
+      "requestid": "125e4c82-fe34-45ab-83f8-e7a1e5a58ee5",
+      "confidence": "0.7965279",
+      "timestamp": 3522.96,
+      "content": "wow I can't believe this is all happening",
+      "speaker": "S103"
+    },
+    "3525.67": {
+      "requestid": "bd59b6ea-9465-4823-8d7f-d1b1ab7533f5",
+      "confidence": "0.6647664",
+      "timestamp": 3525.67,
+      "content": "audience we're not gonna ask you to pick up",
+      "speaker": "S103"
+    },
+    "3528.88": {
+      "requestid": "1b1597a9-d243-4c9f-a559-bbbb618d2a59",
+      "confidence": "0.7951723",
+      "timestamp": 3528.88,
+      "content": "grand prize winners to keep and keep in mind everything we talked about tonight something you didn't know some that were doing something that's true I wish",
+      "speaker": "S103"
+    },
+    "3537.65": {
+      "requestid": "74a543a8-7374-43b7-8b4b-f1068f055fe9",
+      "confidence": "0.7074097",
+      "timestamp": 3537.65,
+      "content": "and all those are the criteria and we're gonna ask if the boat by clapping shouting whistling whatever you got ok the first of all let's hear the first boat 14 patterson eleanor roosevelt amelia airhart what do",
+      "speaker": "S103"
+    },
+    "3551.36": {
+      "requestid": "866b35e4-7c45-4149-b593-251fb511358c",
+      "confidence": "0.1631484",
+      "timestamp": 3551.36,
+      "content": "die",
+      "speaker": "S104"
+    },
+    "3557.62": {
+      "requestid": "7006c16f-c85e-4817-993c-5c3c16734285",
+      "confidence": "0.2365716",
+      "timestamp": 3557.62,
+      "content": "santa clarita cancel",
+      "speaker": "S104"
+    },
+    "3565.05": {
+      "requestid": "75044457-29ff-4704-af6d-34c91e7d90a9",
+      "confidence": "0.3888056",
+      "timestamp": 3565.05,
+      "content": "tim gladwell is partner tomppa kochia",
+      "speaker": "S135"
+    },
+    "3568.16": {
+      "requestid": "e7677b35-47ae-43e4-b58c-29ea2d8ffd9b",
+      "confidence": "0.7764146",
+      "timestamp": 3568.16,
+      "content": "not so old or maybe",
+      "speaker": "S104"
+    },
+    "3574.91": {
+      "requestid": "8cd0053d-cdf6-4eac-a683-57599e7c8519",
+      "confidence": "0.495643",
+      "timestamp": 3574.91,
+      "content": "we speak it is too I believe ya I've II wasn't impressed but I believe that's what it was an impression",
+      "speaker": "S104"
+    },
+    "3584.88": {
+      "requestid": "dd27759a-90a4-401b-8984-c5ada1508364",
+      "confidence": "0.6339766",
+      "timestamp": 3584.88,
+      "content": "and finally lettieri vote for team despire and her partner said you told us about super mario latourette",
+      "speaker": "S103"
+    },
+    "3592.1": {
+      "requestid": "38e9fa16-e23b-4e32-8af3-884764bb4dad",
+      "timestamp": 3592.1,
+      "content": ""
+    },
+    "3599.99": {
+      "requestid": "252fcdbc-2df0-44a6-8cf2-6770acba25ea",
+      "confidence": "0.8390201",
+      "timestamp": 3599.99,
+      "content": "I'd like to say congratulations to governor patterson and of course you are",
+      "speaker": "S103"
+    },
+    "3604.58": {
+      "requestid": "e1017bff-68c2-4e4f-8445-da49ab6eaebd",
+      "confidence": "0.5070425",
+      "timestamp": 3604.58,
+      "content": "do you make my alarm ring tone",
+      "speaker": "S104"
+    },
+    "3616.24": {
+      "requestid": "89dd9115-bddd-4f75-b6c3-ced349934d5c",
+      "confidence": "0.8821571",
+      "timestamp": 3616.24,
+      "content": "you are the very first winner of tell me something I don't know no matter what else happens in the rest your life no one can ever take away this victory from you now here's a question what grand prize could we possibly give",
+      "speaker": "S103"
+    },
+    "3628.68": {
+      "requestid": "1cb3e207-fbe7-4a05-a13e-814e959ecf68",
+      "confidence": "0.7849108",
+      "timestamp": 3628.68,
+      "content": "does commensurate with the level of knowledge you've displayed tonight well my heart you member of the baby gonna show the former fbi agent we heard from earlier",
+      "speaker": "S103"
+    },
+    "3638.81": {
+      "requestid": "ffb01516-a4d9-40c7-9642-7e2fc352f45b",
+      "confidence": "0.7569005",
+      "timestamp": 3638.81,
+      "content": "let me put this way the united states all the colleges and universities in our country award about 1.3 million degrees are you approximately 1% of that we believe is the amount of phony degrees that are sold in our country each year",
+      "speaker": "S26"
+    },
+    "3658.04": {
+      "requestid": "3f84bd67-ad2f-4d08-8bdc-fd45b8a5e7d9",
+      "confidence": "0.7141083",
+      "timestamp": 3658.04,
+      "content": "that's right now are we are buying you your very own counterfeit degree",
+      "speaker": "S103"
+    },
+    "3671.22": {
+      "requestid": "5fc79cfe-3ce2-4dff-ba37-6a74ce9951fd",
+      "confidence": "0.6468446",
+      "timestamp": 3671.22,
+      "content": "your choice it'll take about 4 to 6 weeks to get it for next year",
+      "speaker": "S104"
+    },
+    "3675.11": {
+      "requestid": "6d59500c-f23c-454d-8e40-4ca6562b6e62",
+      "confidence": "0.7165776",
+      "timestamp": 3675.11,
+      "content": "maybe you want harvard law you look like you aren't even out of middle school yeah you could at harvard law by the end of next month maybe something in animal husbandry listen congratulations to malhar in allaire another concussion",
+      "speaker": "S103"
+    },
+    "3689.56": {
+      "requestid": "380e488b-1945-4cb5-ae5e-7f34bd944774",
+      "confidence": "0.5881673",
+      "timestamp": 3689.56,
+      "content": "thank you 2 are fantastic judges malcolm gladwell",
+      "speaker": "S104"
+    },
+    "3698.67": {
+      "requestid": "3093cb5c-b0ea-4652-aa58-0d9c07ea4ec5",
+      "confidence": "0.5442747",
+      "timestamp": 3698.67,
+      "content": "damn everyone is wmic in the green bay press trachtenberg and tonight joe mayer and most of all thank you for coming here to tell me bear with me tell me",
+      "speaker": "S104"
+    },
+    "3714.03": {
+      "requestid": "d1f963c5-1323-4be9-897d-7ea907c94233",
+      "confidence": "0.8066041",
+      "timestamp": 3714.03,
+      "content": "thank you so much goodnight",
+      "speaker": "S104"
+    },
+    "3730.37": {
+      "requestid": "e4165abc-7730-41c9-bdd3-538228422714",
+      "confidence": "0.7487626",
+      "timestamp": 3730.37,
+      "content": "if a cats whiskers on the next week and I miss radio imagine there's a zombie invasion coming to town what's the first thing you do you probably fill up the gas tank in stock up on groceries",
+      "speaker": "S103"
+    },
+    "3742.14": {
+      "requestid": "00a5f7e9-d84d-409d-82da-7111d9baec71",
+      "confidence": "0.6589828",
+      "timestamp": 3742.14,
+      "content": "it's absolutely the case with their invasion of zombies there be a great deal of economic activity generated",
+      "speaker": "S103"
+    },
+    "3747.9": {
+      "requestid": "d4951a6c-4f46-4e2a-a7f3-f091cf8ed4ba",
+      "confidence": "0.5584651",
+      "timestamp": 3747.9,
+      "content": "that's right be economic of the undead that next time I'm free I'm free",
+      "speaker": "S103"
+    },
+    "3757.32": {
+      "requestid": "e69850a1-51b0-4f9d-b02c-5d9fe7d19dc3",
+      "confidence": "0.8061574",
+      "timestamp": 3757.32,
+      "content": "freakonomics radio is produced byWNYCN.net production tell me something I don't know why is produced by john mayer with help from jody avrig and bailey kanstantsin diana miller special thanks to the crew with the green space including",
+      "speaker": "S580"
+    },
+    "3773.02": {
+      "requestid": "41f5b83f-475d-4af4-bbc8-d304c617c07d",
+      "confidence": "0.5475844",
+      "timestamp": 3773.02,
+      "content": "versend rope for heart of fernandez cheese coupons david mclean bilma in banepa care",
+      "speaker": "S580"
+    },
+    "3780.1": {
+      "requestid": "80698b9d-b0f4-4a41-be02-c9da433e3b50",
+      "confidence": "0.6506775",
+      "timestamp": 3780.1,
+      "content": "our staff include david herman rec rozalski gottacon caroline english susie lechtenberg and chris banants with help from joe warner",
+      "speaker": "S580"
+    },
+    "3789.38": {
+      "requestid": "3e602c98-fcb0-449e-ae5d-502d43cdfe62",
+      "confidence": "0.752112",
+      "timestamp": 3789.38,
+      "content": "if you want more freakonomics radio you can subscribe to podcasts on itunes or go to freakonomics.com will find lots of radio bob the books and more",
+      "speaker": "S580"
+    },
+    "3820.31": {
+      "requestid": "d514a9cd-c318-4101-93c9-882c8f00ea53",
+      "timestamp": 3820.31,
+      "content": ""
+    },
+    "3822.35": {
+      "requestid": "34cf1e44-8798-47d6-8323-a477a32fadbf",
+      "confidence": "0.8035225",
+      "timestamp": 3822.35,
+      "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
+      "speaker": "S103"
+    },
+    "3841.7": {
+      "requestid": "bd3373bb-3262-42db-a90e-a48172ecc27e",
+      "confidence": "0.8909215",
+      "timestamp": 3841.7,
+      "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
+      "speaker": "S103"
+    }
+  }
+}
