@@ -1,0 +1,2484 @@
+{
+  "title": "Regulate This!",
+  "date": "2014-09-04",
+  "description": "<p><span>Airbnb, Uber, Lyft, EatWith, and other companies in the “sharing economy” are practically daring government regulators to shut them down. The regulators are happy to comply.</span></p>",
+  "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/r8d_pzYlMz0/freakonomics_podcast090414.mp3",
+  "slug": "Regulate-This-",
+  "segments": {
+    "0.0": {
+      "requestid": "c2601d3a-0e65-4861-878d-12dad13f016e",
+      "confidence": "0.7049857",
+      "timestamp": 0.0,
+      "content": "freakonomics radio is supported by mu offering a variety of business cards in printed pronox muall solofra sprint nfinity the ability to print a different image on every card more atmu.com",
+      "speaker": "S0"
+    },
+    "13.3": {
+      "requestid": "6d14d173-733b-4ad1-8cec-bad3e03b98df",
+      "confidence": "0.848209",
+      "timestamp": 13.3,
+      "content": "freakonomics radio is supported by brain tree green trees new b dot OSDK makes it easy to support multiple mobile payment types with one simple integration to learn more and try another sandbox go to brain treepayments.com slash freak",
+      "speaker": "S10"
+    },
+    "37.22": {
+      "requestid": "1beb9ef4-0b31-4160-a1fd-80854d06772f",
+      "confidence": "0.7322795",
+      "timestamp": 37.22,
+      "content": "rebecca sisneros our mission at freakonomics it's always been to talk about things you thought you knew but didn't do things you never thought you wanted to know what do",
+      "speaker": "S10"
+    },
+    "46.64": {
+      "requestid": "7dc577bb-9fa5-49c7-8d36-d3571d2bbe88",
+      "confidence": "0.8039197",
+      "timestamp": 46.64,
+      "content": "well now is your turn to tell us something we don't know on Monday October 6th in new york city we are launching alive game show called tell me something I don't know in the audience with you is the store so",
+      "speaker": "S10"
+    },
+    "61.48": {
+      "requestid": "5bc9cd91-5b94-49e6-a52c-d56faee7d023",
+      "confidence": "0.7832593",
+      "timestamp": 61.48,
+      "content": "if you have a great idea for an interesting setup faxina great story and you live in new york know somebody does",
+      "speaker": "S10"
+    },
+    "68.79": {
+      "requestid": "d8abb03f-f328-4c98-9ccf-08fb22bc9204",
+      "confidence": "0.7732684",
+      "timestamp": 68.79,
+      "content": "please go to freakonomics.com slash tell me to sign up you could tell us about anything food medicine dating and meeting brain science all we ask is that is interesting at least do you worthwhile least a little bit and bob true",
+      "speaker": "S10"
+    },
+    "86.95": {
+      "requestid": "17b1370c-793c-41ab-bdc4-eba62d66d8b3",
+      "confidence": "0.7751603",
+      "timestamp": 86.95,
+      "content": "there will be prizes in celebrity judges including malcolm gladwell again that is monday october 6",
+      "speaker": "S10"
+    },
+    "93.64": {
+      "requestid": "765cbc36-9167-4ea9-b9bc-035778d5ff3c",
+      "confidence": "0.7950749",
+      "timestamp": 93.64,
+      "content": "in new york city sign up atfreakonomics.com slash tell me I cannot wait to hear what you have got today",
+      "speaker": "S10"
+    },
+    "101.65": {
+      "requestid": "88a35295-8572-4314-a480-373b2f6b0291",
+      "timestamp": 101.65,
+      "content": ""
+    },
+    "104.37": {
+      "requestid": "7357e0d3-d020-4f5d-8f55-0ba625e1ccc7",
+      "confidence": "0.62001",
+      "timestamp": 104.37,
+      "content": "drive to think about when years ago when I was at and figure out how to live in europe for 2 years and I had this dream of having a service the bigger size can set up where it would basically call them and then they would sort of likes of you",
+      "speaker": "S13"
+    },
+    "120.05": {
+      "requestid": "94d6298c-c14d-4415-a0c4-dc9a1b77cc57",
+      "confidence": "0.5359174",
+      "timestamp": 120.05,
+      "content": "jonathan 11 AM after fessor ave mamatid samford university and I do research on microclimates in particular I'm not your network of places in market designer shoes",
+      "speaker": "S15"
+    },
+    "134.31": {
+      "requestid": "94ef929f-af44-4cbd-afae-e000f871413d",
+      "confidence": "0.6871963",
+      "timestamp": 134.31,
+      "content": "few years ago levane was awarded john p clark medal which is with young economists often win before they eventually get a nobel prize",
+      "speaker": "S10"
+    },
+    "143.83": {
+      "requestid": "d66f14c7-784d-41e9-a0aa-fcc553fa6fdd",
+      "confidence": "0.6105228",
+      "timestamp": 143.83,
+      "content": "who is this brilliant business idea he had while backpacking through europe",
+      "speaker": "S10"
+    },
+    "148.14": {
+      "requestid": "85af441d-0bec-443e-b8f8-43f4aa83cf52",
+      "confidence": "0.6697579",
+      "timestamp": 148.14,
+      "content": "deserve just have to get the train to go to paris or to go to some other city year did everyone going in",
+      "speaker": "S19"
+    },
+    "153.16": {
+      "requestid": "c14ce3a5-83bc-4d88-b3ba-6ae321eb778a",
+      "confidence": "0.7332845",
+      "timestamp": 153.16,
+      "content": "when you arrived he would call them back and they would have to meet all the arrangements for you and did you become so cumbersome to do anything like that",
+      "speaker": "S19"
+    },
+    "161.3": {
+      "requestid": "fff74bd1-760b-4c0a-b2c6-78d7dcab8c0b",
+      "confidence": "0.5688297",
+      "timestamp": 161.3,
+      "content": "lemon never follow through on business idea",
+      "speaker": "S132"
+    },
+    "165.0": {
+      "requestid": "5cf6f850-3dc9-40ba-880c-78a30685a2a4",
+      "confidence": "0.473277",
+      "timestamp": 165.0,
+      "content": "the other people lot of other people",
+      "speaker": "S132"
+    },
+    "172.63": {
+      "requestid": "2b6a1655-c5e3-4116-a8fd-f587246cfac2",
+      "confidence": "0.5962427",
+      "timestamp": 172.63,
+      "content": "book a car open table that is a rest from poking saared be in beta connects people who want to rent out a living space to travelers need a place to stay",
+      "speaker": "S23"
+    },
+    "182.97": {
+      "requestid": "6dd28a8d-189c-4c78-a2fb-555cf765605c",
+      "confidence": "0.6157802",
+      "timestamp": 182.97,
+      "content": "this is what is not that long ago levene's now early forties kids any idea that like it that problem with mike never trust a mind of my kids that just getting to train a note to let the fun would it be to get a new glasses that level of convenience for regular people",
+      "speaker": "S19"
+    },
+    "201.94": {
+      "requestid": "16c1865c-86d0-4889-a265-dae9885f4b90",
+      "confidence": "0.7611899",
+      "timestamp": 201.94,
+      "content": "as opposed to just for the diners in the world is really remarkable it's an amazing democratization of",
+      "speaker": "S19"
+    },
+    "207.85": {
+      "requestid": "6759f320-7a4f-438a-8adf-5ed79265d963",
+      "confidence": "0.7702978",
+      "timestamp": 207.85,
+      "content": "personal service inconvenience",
+      "speaker": "S19"
+    },
+    "210.26": {
+      "requestid": "6f82a5a8-4f06-42d1-a090-39c8a46529a2",
+      "confidence": "0.7508506",
+      "timestamp": 210.26,
+      "content": "milk if you were sitting back at the beginning of internet time when you were wondering what kind of people are in the best position to exploit this amazing new technology",
+      "speaker": "S10"
+    },
+    "222.86": {
+      "requestid": "2b2fc780-3067-4ea9-b21f-696f85c498ea",
+      "confidence": "0.6811717",
+      "timestamp": 222.86,
+      "content": "you might of thought it would be big institutions multibillion dollar firms multi trillion dollar industries government after all they had big budgets and you might've bought a big incentive to keep pace with change",
+      "speaker": "S10"
+    },
+    "240.39": {
+      "requestid": "560add98-fa11-4eaf-8256-2eed0d2c7e2a",
+      "confidence": "0.6996083",
+      "timestamp": 240.39,
+      "content": "bing workout the way things that the internet is done is just a dramatically lower barriers of entry in many industries it is much much easier to flip a switch and better product available",
+      "speaker": "S15"
+    },
+    "253.06": {
+      "requestid": "cdefd637-8439-40ef-a530-3a56667acbf7",
+      "confidence": "0.8110732",
+      "timestamp": 253.06,
+      "content": "people all over the country over the world in a way that would've been extremely difficult for the internet",
+      "speaker": "S35"
+    },
+    "259.01": {
+      "requestid": "94e69bf7-ec6d-4540-a5c5-7a44381aaef2",
+      "timestamp": 259.01,
+      "content": ""
+    },
+    "261.38": {
+      "requestid": "35543f93-f77d-457d-bab9-95b60fb097a3",
+      "confidence": "0.8041716",
+      "timestamp": 261.38,
+      "content": "flipping the switch in just let you build an online version of a brick and mortar businesslike amazon did barnes noble",
+      "speaker": "S10"
+    },
+    "268.26": {
+      "requestid": "8a5c3918-0dba-4d48-8241-5dd2132a640b",
+      "confidence": "0.7178267",
+      "timestamp": 268.26,
+      "content": "buner not let anyone do business with anyone else came a lot easier to sell something was sitting around forgotten or unus like your grandmother's porcelain figurines would you could mow lawn mower on ebay",
+      "speaker": "S10"
+    },
+    "282.03": {
+      "requestid": "7b9e5ae6-4e8c-4f7a-97f0-535894c347c6",
+      "confidence": "0.7848979",
+      "timestamp": 282.03,
+      "content": "lake the extra room in your apartment with you could rent out on air B&B like the back seat of your car is empty approximately 99% the time but which as it happens someone might pay to fit in",
+      "speaker": "S10"
+    },
+    "296.03": {
+      "requestid": "6a49665f-3ab4-4fe7-95cf-525a1a7daec6",
+      "confidence": "0.7528952",
+      "timestamp": 296.03,
+      "content": "this kind of activity is blown up last year's eve tickets to peer to peer economy to sometimes called or even more hopefully the sharing economy it means that you can find a place to stay in some far away city is it is not a hotel you not a restaurant",
+      "speaker": "S10"
+    },
+    "313.86": {
+      "requestid": "344f8435-141e-4cdd-a81a-b531edf854ca",
+      "confidence": "0.7839842",
+      "timestamp": 313.86,
+      "content": "you can catch a ride with someone who is not a licensed taxi drive huber frandsen's build apps that let pretty much any one with a smartphone higher just met anyone with a car he is currently valued at about 8",
+      "speaker": "S10"
+    },
+    "326.75": {
+      "requestid": "76991d8c-f188-498f-b62f-da97c5ea9e0e",
+      "confidence": "0.7902064",
+      "timestamp": 326.75,
+      "content": "teen billion dollars roughly one third the market cap of general motors hoover just hire david platt",
+      "speaker": "S10"
+    },
+    "334.05": {
+      "requestid": "54ee364f-ed67-45da-a2bb-c73a0afd9420",
+      "confidence": "0.7116427",
+      "timestamp": 334.05,
+      "content": "the former obama campaign manager ned buizer is it senior VP policy and strategy",
+      "speaker": "S10"
+    },
+    "341.94": {
+      "requestid": "a4316244-b687-4b92-b8d1-a5619cf8854c",
+      "confidence": "0.7259829",
+      "timestamp": 341.94,
+      "content": "new economy with every call it heaven make the world work better it makes good use of dormant resources with more people earn a living",
+      "speaker": "S10"
+    },
+    "353.03": {
+      "requestid": "b2c06579-85b8-4a1c-a55b-d61e03ce491a",
+      "confidence": "0.8171402",
+      "timestamp": 353.03,
+      "content": "not everybody sees it this way taxi in hotel industry is for instance and especially the people in charge of regulating the taxi in hotel industry is what we got for you today please in german",
+      "speaker": "S10"
+    },
+    "366.52": {
+      "requestid": "6df6cf2b-912b-44ef-899e-8c88028ceead",
+      "confidence": "0.856783",
+      "timestamp": 366.52,
+      "content": "is a good old fashioned",
+      "speaker": "S54"
+    },
+    "379.55": {
+      "requestid": "c668d8f8-a75d-4f06-9a13-05ccad956f0b",
+      "confidence": "0.8342276",
+      "timestamp": 379.55,
+      "content": "fighting primarily out of their home gym in silicon valley",
+      "speaker": "S10"
+    },
+    "383.35": {
+      "requestid": "f8ba3f37-e77d-44cc-b763-4670325c9634",
+      "confidence": "0.8154981",
+      "timestamp": 383.35,
+      "content": "if we took the approach of hey let's wait and see what the government does to create a path that is very very clear then we wouldn't be operating on",
+      "speaker": "S57"
+    },
+    "394.57": {
+      "requestid": "8bca8c7d-3107-4ce4-b5f0-f9a8a03b56a1",
+      "confidence": "0.7597933",
+      "timestamp": 394.57,
+      "content": "where many times the regulator is the little bit behind to catch up with dick knology",
+      "speaker": "S374"
+    },
+    "399.27": {
+      "requestid": "13435e52-9b65-4ad5-9486-fa1698f5563d",
+      "confidence": "0.7667565",
+      "timestamp": 399.27,
+      "content": "when are advocating that there should be rules just saying bad things have a bald and it's worth taking a fresh look",
+      "speaker": "S59"
+    },
+    "409.1": {
+      "requestid": "3478df18-7b35-45f4-9991-b204c1b37271",
+      "confidence": "0.8311794",
+      "timestamp": 409.1,
+      "content": "and in this corner representing the biggest baddest government of all",
+      "speaker": "S10"
+    },
+    "414.86": {
+      "requestid": "1ca4ed1c-ccb9-49f1-becb-2c69dd0f4b00",
+      "confidence": "0.7855169",
+      "timestamp": 414.86,
+      "content": "new york some people seem to think that if you're a business model that's on the internet",
+      "speaker": "S265"
+    },
+    "421.74": {
+      "requestid": "d857cc8a-24ca-4dfd-b34d-ec7ca6768a14",
+      "confidence": "0.6955032",
+      "timestamp": 421.74,
+      "content": "it's like magic in hocus pocus is just business and there's a reason for government to regulate business whether it has a physical fight somewhere or whether it's in the cloud",
+      "speaker": "S265"
+    },
+    "434.99": {
+      "requestid": "8792ca84-61b0-45bf-8fac-200a4342073f",
+      "confidence": "0.7289369",
+      "timestamp": 434.99,
+      "content": "the problem is companies come in they say were not interested in whether not conduct is if I lay chalov we may very well in fact as a strategic matter decide to break the law with the okreek citation that through means of pressure we won't enforce the law",
+      "speaker": "S64"
+    },
+    "455.03": {
+      "requestid": "b258ab97-1b72-4e65-9bc8-674a13e2b3ae",
+      "confidence": "0.7361214",
+      "timestamp": 455.03,
+      "content": "I pod cast of nurse are you ready to rumble",
+      "speaker": "S127"
+    },
+    "463.72": {
+      "requestid": "a8659fb3-4515-4a9c-be78-f7b7e4c63f4f",
+      "confidence": "0.5149351",
+      "timestamp": 463.72,
+      "content": "the state",
+      "speaker": "S278"
+    },
+    "466.45": {
+      "requestid": "b5293895-d7eb-4b48-b309-f65a20d11f33",
+      "timestamp": 466.45,
+      "content": ""
+    },
+    "475.72": {
+      "requestid": "0a63c58a-13d3-4109-9b62-00aa96bd5c50",
+      "confidence": "0.6332757",
+      "timestamp": 475.72,
+      "content": "mw on my feet this is freakonomics radio podcast 6 north side of everything",
+      "speaker": "S542"
+    },
+    "483.32": {
+      "requestid": "6e329b8a-4ac4-4e89-b9c3-16f815247ddf",
+      "confidence": "0.4505744",
+      "timestamp": 483.32,
+      "content": "here's your help keep it up now",
+      "speaker": "S70"
+    },
+    "491.48": {
+      "requestid": "7ba6c21b-65f5-4f0e-826f-c83587fdea56",
+      "timestamp": 491.48,
+      "content": ""
+    },
+    "495.75": {
+      "requestid": "1f2e6758-7cc8-40a1-965f-f1b011c2acda",
+      "confidence": "0.7744777",
+      "timestamp": 495.75,
+      "content": "go to pick one company that at this moment personifies the battle of the internet versus the states air B&B auto",
+      "speaker": "S10"
+    },
+    "504.11": {
+      "requestid": "2eb74420-ed95-4632-b510-3c11f150fb49",
+      "confidence": "0.6278618",
+      "timestamp": 504.11,
+      "content": "I'm nathan blue charizard co founder and ceo of air B&B",
+      "speaker": "S104"
+    },
+    "508.17": {
+      "requestid": "2fce06fd-285e-4567-98a3-bdb1864d749c",
+      "confidence": "0.6949764",
+      "timestamp": 508.17,
+      "content": "pecheur is it started raining cold when he was a kid he study computer science at harvard and help start air B&B with his friends brian chesky m geohagan arabiya",
+      "speaker": "S10"
+    },
+    "518.09": {
+      "requestid": "67901042-fbaf-4929-a1c3-8097853f5f0b",
+      "confidence": "0.7960573",
+      "timestamp": 518.09,
+      "content": "bywood started inspired by the bed that happened in october 2007 back den of the 3 of us a joke brian myself were roommates in the rent an apartment was raised to 25%",
+      "speaker": "S104"
+    },
+    "530.98": {
+      "requestid": "2e8dd4ea-0337-4ad3-9a28-95fdbb5b4962",
+      "confidence": "0.7776802",
+      "timestamp": 530.98,
+      "content": "and I decided to move out there that you guys didn't have money to pay for the rent",
+      "speaker": "S104"
+    },
+    "535.31": {
+      "requestid": "802bd0ba-d93f-462b-a307-c4afe970af48",
+      "confidence": "0.8864226",
+      "timestamp": 535.31,
+      "content": "but they're both designers and I saw that and international design conference is coming to san francisco and that all the hotels are sold out so they got this idea to rent out the extra bedroom 2 designers need a place to stay",
+      "speaker": "S104"
+    },
+    "547.26": {
+      "requestid": "30e3a85e-8bbf-4d4a-a40b-416743a50756",
+      "confidence": "0.876371",
+      "timestamp": 547.26,
+      "content": "that weekend they hosted 3 designers in they made over thousand dollars thus allowing them to pay rent with password a couple months later the 3 of us got together and decided we should do this for other people in other situations",
+      "speaker": "S104"
+    },
+    "559.66": {
+      "requestid": "d9624f3b-de21-4f5d-8188-f3d724a11fb1",
+      "confidence": "0.83158",
+      "timestamp": 559.66,
+      "content": "western into a lot of people a lot of situations",
+      "speaker": "S10"
+    },
+    "563.38": {
+      "requestid": "57c7741f-74c2-4e4b-8ca9-08af6f724aaf",
+      "confidence": "0.8854005",
+      "timestamp": 563.38,
+      "content": "on any given night this summer roughly 350,000 people are staying on air bnb",
+      "speaker": "S104"
+    },
+    "570.13": {
+      "requestid": "3aa70d40-fa0d-4905-9e29-31a2674bf850",
+      "confidence": "0.8593251",
+      "timestamp": 570.13,
+      "content": "we serviced 17000000 guests today over the last 6 years what's crazy is that it took 4 years to service our first million guests and out each month were servicing a million more to that gives you a sense of the exponential growth and how it's progressed",
+      "speaker": "S104"
+    },
+    "586.85": {
+      "requestid": "80d4e80e-b0f5-4f7f-975c-e4aba859a8f9",
+      "confidence": "0.9235453",
+      "timestamp": 586.85,
+      "content": "in terms of properties we now have 100 thousand properties",
+      "speaker": "S104"
+    },
+    "590.54": {
+      "requestid": "c1b694a2-b49f-4a1e-9632-710f619ad90f",
+      "confidence": "0.7775881",
+      "timestamp": 590.54,
+      "content": "in 192 countries 35,000 different cities so tremendous emon tori",
+      "speaker": "S104"
+    },
+    "597.43": {
+      "requestid": "f6456d3b-e840-4311-b70f-b7022d30e9dd",
+      "timestamp": 597.43,
+      "content": ""
+    },
+    "602.83": {
+      "requestid": "a0cc78e3-016b-4426-b833-87a1f9244e03",
+      "confidence": "0.7671393",
+      "timestamp": 602.83,
+      "content": "when bhuchar is it says we now have 800,000 properties in 192 countries may be tempted to think of air B&B as a big hotel chain lake hilton",
+      "speaker": "S10"
+    },
+    "613.21": {
+      "requestid": "25b61403-bb02-4b10-aad0-193b47a1f710",
+      "confidence": "0.6578236",
+      "timestamp": 613.21,
+      "content": "air B&B doesn't own any nor does it have to hire housekeeper's bellhops uber similarly doesn't own fleet of cars in the point drivers on the road",
+      "speaker": "S10"
+    },
+    "624.92": {
+      "requestid": "2981a183-186a-4eca-8ad5-5cc5b321ed8e",
+      "confidence": "0.7889962",
+      "timestamp": 624.92,
+      "content": "these companies are not the kind of companies that many people think of when I think of what company that's all they are really are cloud based platforms that establish a market between individual",
+      "speaker": "S10"
+    },
+    "637.18": {
+      "requestid": "5c0ac630-4759-4310-a92b-29f210be9846",
+      "confidence": "0.6819913",
+      "timestamp": 637.18,
+      "content": "pretty much just open the spigot and let the water flow downhill lets apply find demand",
+      "speaker": "S95"
+    },
+    "646.34": {
+      "requestid": "6f386382-ca61-41ce-85de-b3e11409347f",
+      "confidence": "0.7283189",
+      "timestamp": 646.34,
+      "content": "fold out couch in your fourth floor new york city walk up it is now on the market just like a room at the hilton sappleton oranges yes but it goes through",
+      "speaker": "S95"
+    },
+    "657.66": {
+      "requestid": "2ddc0c68-54bc-4434-ad7a-f8aec79c7271",
+      "timestamp": 657.66,
+      "content": ""
+    },
+    "661.04": {
+      "requestid": "0115b459-53a2-4990-bf10-61b1464a41ed",
+      "confidence": "0.7790178",
+      "timestamp": 661.04,
+      "content": "in the market cap of roughly $25 Billion air B&B which is privately funded",
+      "speaker": "S10"
+    },
+    "667.1": {
+      "requestid": "08bdb8fc-5ac4-413d-9aa5-c860f7117ec3",
+      "confidence": "0.7763606",
+      "timestamp": 667.1,
+      "content": "bing valuated at $10 Billion not bad for just",
+      "speaker": "S10"
+    },
+    "671.34": {
+      "requestid": "2b13dce6-f31f-4dc3-aa66-cc995592f234",
+      "confidence": "0.7216684",
+      "timestamp": 671.34,
+      "content": "opening this big deal with hindsight it's easy to think that air B&B success was inevitable but imagine your investor in the very beginning you want me to give a few million dollars to company who sold business is to get strangers to groom up with strangers",
+      "speaker": "S10"
+    },
+    "689.69": {
+      "requestid": "afb870a7-7e5c-4984-b1cc-447d27e66bd0",
+      "confidence": "0.7678262",
+      "timestamp": 689.69,
+      "content": "yes that was certainly an apple a crazy idea back then I and over the first year we approach many investors pitching I'm on this concept and explain the story of what we had experience in what we're trying to do in",
+      "speaker": "S104"
+    },
+    "702.95": {
+      "requestid": "4469decc-bec4-4ca1-b728-d2a22e260359",
+      "confidence": "0.7675657",
+      "timestamp": 702.95,
+      "content": "none of the investors can see it on they couldn't see themselves using the product",
+      "speaker": "S104"
+    },
+    "707.24": {
+      "requestid": "1a81625f-29c6-4216-9d85-1f3c53c8a38e",
+      "confidence": "0.777864",
+      "timestamp": 707.24,
+      "content": "hominick not even if there were people who would do this it would certainly be a small market in each product and not stopping at their interest investing in silver entire first year we ran this company are using our own savings account or in fact credit cards",
+      "speaker": "S104"
+    },
+    "723.05": {
+      "requestid": "ec6d2889-b858-48f0-8c09-df39a74f2e49",
+      "confidence": "0.7817691",
+      "timestamp": 723.05,
+      "content": "terzic think some investors were also cautious because the great recession was just taking hold on the other hand the recession may have helped the actual business get going",
+      "speaker": "S10"
+    },
+    "733.56": {
+      "requestid": "77705847-5862-4313-b325-9b6f5369f665",
+      "confidence": "0.8772042",
+      "timestamp": 733.56,
+      "content": "back then there were a huge number of people who were really trying to make ends meet and cannot afford to stay in their homes and we have anecdotally heard hundreds not thousands of the stories so I do know that we provide a lot of people relief during this period so it musta been a help",
+      "speaker": "S104"
+    },
+    "753.04": {
+      "requestid": "83840828-2ef7-4bed-8c16-f6a0c4fbe9d6",
+      "confidence": "0.8351285",
+      "timestamp": 753.04,
+      "content": "is another reason why platforms like air B&B in huber were able to take off when they did the internet been around long enough by now that most people enough people at least willing to trust a stranger on the other end of a nap",
+      "speaker": "S10"
+    },
+    "766.49": {
+      "requestid": "a9277571-6511-4483-99cb-4f987a2d743f",
+      "confidence": "0.8041917",
+      "timestamp": 766.49,
+      "content": "what's happened is that people are comfortable with online identities there was a time before facebook where people's online profiles were off and completely fictitious right in there was no trust a signed with an online identity",
+      "speaker": "S104"
+    },
+    "781.95": {
+      "requestid": "9bb5bbfd-9c7f-4ff7-a606-720f146c9e63",
+      "confidence": "0.762071",
+      "timestamp": 781.95,
+      "content": "bing facebook came along and said require people to upload their their real names and pictures etc I and everyone started participating in that allow these profiles to gain more legitimacy",
+      "speaker": "S104"
+    },
+    "796.15": {
+      "requestid": "a02d66ab-c357-49d1-92fd-8ec4c9cbb64d",
+      "confidence": "0.7237647",
+      "timestamp": 796.15,
+      "content": "so who adam loves her being be the most",
+      "speaker": "S10"
+    },
+    "799.94": {
+      "requestid": "f838b381-e0a5-424a-9ecd-a19ea1b472ef",
+      "confidence": "0.6678362",
+      "timestamp": 799.94,
+      "content": "what category",
+      "speaker": "S123"
+    },
+    "803.41": {
+      "requestid": "f1668d04-a9a6-4f0c-ac50-792fe22bc711",
+      "confidence": "0.9130984",
+      "timestamp": 803.41,
+      "content": "people is it the people who travel the people who ran out I mean",
+      "speaker": "S10"
+    },
+    "807.04": {
+      "requestid": "2686ab69-cad0-4003-87d2-08fc975d8d0e",
+      "confidence": "0.7879053",
+      "timestamp": 807.04,
+      "content": "oh well I think I think both frankly I did it takes 2 to make this transaction happen",
+      "speaker": "S104"
+    },
+    "812.95": {
+      "requestid": "f26e22b5-2827-404d-829a-39aaf5a3b69a",
+      "confidence": "0.7036955",
+      "timestamp": 812.95,
+      "content": "ok on the flip side then who hates air B&B the most for maybe he will not right word may be fear is a better word aotona how bout misunderstands right there still",
+      "speaker": "S123"
+    },
+    "824.27": {
+      "requestid": "f7ceaf08-1554-4bad-b69d-bab4e03cf4a8",
+      "confidence": "0.7971931",
+      "timestamp": 824.27,
+      "content": "abass majority people who have not used air B&B themselves they only care about her being be through headlines and I am I think there's a so much controversy right now that is easy for people to get the wrong impression remember 6 years ago when I started this company everybody's out of the crazy idea",
+      "speaker": "S104"
+    },
+    "847.89": {
+      "requestid": "28843d0f-2895-4d0b-9840-2b99af9d731a",
+      "confidence": "0.4916046",
+      "timestamp": 847.89,
+      "content": "did you do using air bnb need to set up cheap temporary why I rent my apartment out",
+      "speaker": "S128"
+    },
+    "854.6": {
+      "requestid": "d430d2c2-7018-4f66-be88-24b32994b58c",
+      "confidence": "0.6543069",
+      "timestamp": 854.6,
+      "content": "amanda said he needed it for is brother and sister in law I need to escape home in about 20 people are hosting a filbey <profanity>orgy</profanity> siwana discover the guys who use their be in be to rent her apartment for using it for their errada",
+      "speaker": "S128"
+    },
+    "869.35": {
+      "requestid": "3690a192-c4d9-4903-b91e-36c7a5c568bf",
+      "confidence": "0.8561997",
+      "timestamp": 869.35,
+      "content": "massage service charge it up to $300 per hour left behind in her apartment",
+      "speaker": "S132"
+    },
+    "875.25": {
+      "requestid": "7160cd95-960c-4e30-ae34-d30cabbd27b5",
+      "confidence": "0.7381865",
+      "timestamp": 875.25,
+      "content": "this red clown nose",
+      "speaker": "S132"
+    },
+    "879.44": {
+      "requestid": "22217733-cf83-4e36-ace9-8e3836ecea0e",
+      "confidence": "0.7608708",
+      "timestamp": 879.44,
+      "content": "they are so excited about getting you to participate in there making money but they don't actually care that they're breaking laws for that their ink urging you",
+      "speaker": "S133"
+    },
+    "892.09": {
+      "requestid": "37654aa4-f2fc-4d1e-9600-1c76dff3bdd2",
+      "confidence": "0.3272362",
+      "timestamp": 892.09,
+      "content": "estetic alhos orga's to be breaking loss",
+      "speaker": "S133"
+    },
+    "897.44": {
+      "requestid": "3beaf039-2c20-4dc2-acb2-034268750833",
+      "confidence": "0.7527061",
+      "timestamp": 897.44,
+      "content": "it's liz krueger she is a new york state senator represent the east side of manhattan check with a lot of apartment and a lot of hotels",
+      "speaker": "S10"
+    },
+    "905.11": {
+      "requestid": "219db415-69c4-4fd5-a5af-95d099c48a2d",
+      "confidence": "0.5327003",
+      "timestamp": 905.11,
+      "content": "she's been cold air bnb dauder in chief",
+      "speaker": "S10"
+    },
+    "908.7": {
+      "requestid": "961ab2b9-0c40-4e92-8306-049eb059c27d",
+      "confidence": "0.761726",
+      "timestamp": 908.7,
+      "content": "where the title came from it's a little music",
+      "speaker": "S133"
+    },
+    "911.43": {
+      "requestid": "e1fe110e-7c48-49df-b844-940fb1b2ba55",
+      "confidence": "0.8138219",
+      "timestamp": 911.43,
+      "content": "ok here's with the title came from in 2010 krueger was the primary sponsor of legislation that came to be known as the illegal hotel las just made it harder for people to legally use air B&B in new york",
+      "speaker": "S10"
+    },
+    "925.43": {
+      "requestid": "5cc0ef55-2d3c-4e8c-bd09-9c50a001f694",
+      "confidence": "0.7038903",
+      "timestamp": 925.43,
+      "content": "she said she got involved after receiving calls lots of calls from her constituents",
+      "speaker": "S10"
+    },
+    "931.15": {
+      "requestid": "3e69aa3d-8932-477b-b5a9-71e257083078",
+      "confidence": "0.7809132",
+      "timestamp": 931.15,
+      "content": "all of this was coming from people who lived in the same building to work on their elected officials complaining saying",
+      "speaker": "S133"
+    },
+    "938.65": {
+      "timestamp": 938.65,
+      "content": ""
+    },
+    "943.88": {
+      "timestamp": 943.88,
+      "content": ""
+    },
+    "961.2": {
+      "timestamp": 961.2,
+      "content": ""
+    },
+    "965.93": {
+      "timestamp": 965.93,
+      "content": ""
+    },
+    "969.79": {
+      "timestamp": 969.79,
+      "content": ""
+    },
+    "983.15": {
+      "timestamp": 983.15,
+      "content": ""
+    },
+    "991.48": {
+      "timestamp": 991.48,
+      "content": ""
+    },
+    "1007.07": {
+      "requestid": "5b91184a-774d-4d7c-90d3-f365b5c50027",
+      "confidence": "0.5877267",
+      "timestamp": 1007.07,
+      "content": "of course yes but not our biggest fan",
+      "speaker": "S104"
+    },
+    "1009.61": {
+      "requestid": "f9f0c727-8a5c-4664-b414-6816d343d60d",
+      "confidence": "0.6546627",
+      "timestamp": 1009.61,
+      "content": "yeah not your biggest fan so we spoke with her and she brings up there is concern that the ban smoking in and see how you on how you respond so when is it she estimates 2 thirds balair bbs business in new york city is illegal",
+      "speaker": "S10"
+    },
+    "1024.23": {
+      "requestid": "2c78821a-94ae-4c70-9fb1-7aa7a8a1f5d6",
+      "confidence": "0.7607092",
+      "timestamp": 1024.23,
+      "content": "if it's a multi family dwelling you are not legally allowed to do short term rentals under 30 day lsu miracle of miracles live in the building were landlord has decided to write a lease that says you can do short term rentals",
+      "speaker": "S133"
+    },
+    "1039.06": {
+      "requestid": "61d93159-7e3d-490c-bda7-a446d90ec4ef",
+      "confidence": "0.7190095",
+      "timestamp": 1039.06,
+      "content": "it's a violation of your lease you live in rent stabilize housing it illegal if you live in a building that is zoned residential it's technically illegal to have not seen any by laws that allow it to when I say 2 thirds",
+      "speaker": "S133"
+    },
+    "1053.32": {
+      "requestid": "274d1c89-a0b9-4eb2-b9f9-6ce892ccfa44",
+      "confidence": "0.4950535",
+      "timestamp": 1053.32,
+      "content": "that's a conservative estimate",
+      "speaker": "S133"
+    },
+    "1059.34": {
+      "requestid": "8167284b-de4f-4ed9-9533-d5082f6d58a2",
+      "confidence": "0.7944281",
+      "timestamp": 1059.34,
+      "content": "well I think that's exactly my point in YD existing regulation needs to be re evaluated israels go way back prior to air bnb never been 3200 years ago so what were saying is that we should be reevaluate it may 20 for sentry can't",
+      "speaker": "S104"
+    },
+    "1076.25": {
+      "requestid": "6e0b9c27-e39c-4333-8e2d-26d26231c1c4",
+      "confidence": "0.7950041",
+      "timestamp": 1076.25,
+      "content": "I krugers is the air B&B helps facilitate criminal activity including specifically and I quote moving drug dens boat moving houses of prostitution in illegal gambling operation I would you know better",
+      "speaker": "S10"
+    },
+    "1090.59": {
+      "requestid": "876f708f-66ec-4681-b824-92c2639bf09e",
+      "confidence": "0.8262486",
+      "timestamp": 1090.59,
+      "content": "is there is no data that would support that said there certainly out one of anecdotal stories that have a curtain in this will happen when you're dealing with a scale of 350,000",
+      "speaker": "S104"
+    },
+    "1102.09": {
+      "requestid": "cc9748b2-5819-44f6-bd8e-b912fc1507b4",
+      "confidence": "0.8229162",
+      "timestamp": 1102.09,
+      "content": "gas per night and this certainly is something that will happen in hotels in this will certainly happen in apartment buildings in respective of air bnb",
+      "speaker": "S104"
+    },
+    "1111.26": {
+      "requestid": "434bdb26-cbd6-4829-8c90-bec2eb01aec7",
+      "timestamp": 1111.26,
+      "content": ""
+    },
+    "1112.8": {
+      "requestid": "e7a4b3c8-0832-49ef-b315-b95f6174d826",
+      "confidence": "0.7261977",
+      "timestamp": 1112.8,
+      "content": "sender krueger also argues the air B&B mix harder for new yorkers to find affordable housing because it entices landlords to convert long term rentals in 2 d facto hotel",
+      "speaker": "S10"
+    },
+    "1125.69": {
+      "requestid": "13f9704e-8b0d-4ead-9c7d-86ba22227f48",
+      "confidence": "0.7932869",
+      "timestamp": 1125.69,
+      "content": "I don't need the number that up there so new york has over 1,000,000 housing units and in new york we have a total of about 20,000 properties now almost half of those are one third of those are people renting out an extra room in their home so those are certainly not available housing units",
+      "speaker": "S104"
+    },
+    "1144.49": {
+      "requestid": "136de691-c805-4886-9e1c-1fae4413625f",
+      "confidence": "0.7852127",
+      "timestamp": 1144.49,
+      "content": "the vast majority people are renting out the home in which they live ayandeh for doing on a part time basis I want you kind of",
+      "speaker": "S104"
+    },
+    "1152.02": {
+      "requestid": "cb2548be-fc8d-4524-b648-e483e93a77f9",
+      "confidence": "0.8039228",
+      "timestamp": 1152.02,
+      "content": "kill off all these layers there's actually a very small number of units that could even possibly be resulting in housing been taken off",
+      "speaker": "S104"
+    },
+    "1159.93": {
+      "requestid": "ba7eb217-0d89-49a6-b39d-d0b3fd95cdc0",
+      "confidence": "0.6206416",
+      "timestamp": 1159.93,
+      "content": "the market but what about hotels azebu charset all this earlier derbyan b currently list some 800,000 properties online",
+      "speaker": "S10"
+    },
+    "1170.18": {
+      "requestid": "76779120-5131-48e1-bcfb-66d4b75d96e0",
+      "confidence": "0.6716633",
+      "timestamp": 1170.18,
+      "content": "best peten we were describing",
+      "speaker": "S10"
+    },
+    "1172.57": {
+      "requestid": "0e4d8e58-f3c3-45ad-ac3f-5db43255b2d0",
+      "confidence": "0.8107629",
+      "timestamp": 1172.57,
+      "content": "hotel chain with that many rooms how many employees do you think that hotel chain would have versus and how many are employed does air B&B actually have",
+      "speaker": "S10"
+    },
+    "1183.48": {
+      "requestid": "3cfb2bd8-0d51-4b62-a5ba-c8e293680f90",
+      "confidence": "0.7702972",
+      "timestamp": 1183.48,
+      "content": "I at hotel up with that many rooms would certainly have tens of thousands of 900,000",
+      "speaker": "S104"
+    },
+    "1190.15": {
+      "requestid": "67569a09-55a1-4c94-93c6-7fb437304f71",
+      "confidence": "0.6653019",
+      "timestamp": 1190.15,
+      "content": "place air B&B has a bad 1000 employees",
+      "speaker": "S104"
+    },
+    "1194.5": {
+      "requestid": "84ff3f0a-42a7-4504-b7f4-21b4e2bed454",
+      "confidence": "0.8827983",
+      "timestamp": 1194.5,
+      "content": "you don't have to think too hard to see with this is going to you in new york like most big cities the hotel industry is an important one state senator in les kruger again",
+      "speaker": "S10"
+    },
+    "1205.81": {
+      "requestid": "f017ea99-d818-47f8-b537-a141719899a4",
+      "confidence": "0.6900707",
+      "timestamp": 1205.81,
+      "content": "I love that air bnb or whomever always keep saying somehow but I know there's a shilling for the hotel industry now is it growing to the level where",
+      "speaker": "S141"
+    },
+    "1218.02": {
+      "requestid": "a30461c9-e4e3-406f-9a80-33c8192e1f89",
+      "confidence": "0.7204992",
+      "timestamp": 1218.02,
+      "content": "yes this does appear to be competition with some in the hotel industry it really seems to vary with what type in level of hotel",
+      "speaker": "S141"
+    },
+    "1229.67": {
+      "requestid": "5f241c42-c165-47c2-ab6d-65ef2073bdd9",
+      "confidence": "0.7589973",
+      "timestamp": 1229.67,
+      "content": "yes I'm not anti business competition but I'm also believe are in a fair playing field where the same rules apply to everybody so if there someone saying",
+      "speaker": "S141"
+    },
+    "1241.26": {
+      "requestid": "240ec3f5-b9f5-43c3-9670-9817f7287185",
+      "confidence": "0.7368578",
+      "timestamp": 1241.26,
+      "content": "what we should be able to run a alternative hotel model 2 what is the existing structure then I say well are we meeting the same fire stander's up with meeting the same safety standards",
+      "speaker": "S141"
+    },
+    "1256.46": {
+      "requestid": "0f2089b6-c85a-4c57-803e-a20130f89d5d",
+      "confidence": "0.7850055",
+      "timestamp": 1256.46,
+      "content": "are we cutting people out of business I'm in decreasing the number of jobs in the economy with the new model because were very conscious of having union jobs that pay well here in the city of new york",
+      "speaker": "S141"
+    },
+    "1270.52": {
+      "requestid": "672982f5-ea5b-4f73-aa01-9ffad9777217",
+      "timestamp": 1270.52,
+      "content": ""
+    },
+    "1276.0": {
+      "requestid": "68abf5fa-36fa-4820-99eb-921bf9c9c493",
+      "confidence": "0.7240542",
+      "timestamp": 1276.0,
+      "content": "have to admit for someone who says they are not a protectionist that last bit",
+      "speaker": "S10"
+    },
+    "1281.13": {
+      "requestid": "b8fb7d6c-c0b5-476a-94a3-974bfa210cbf",
+      "confidence": "0.7504053",
+      "timestamp": 1281.13,
+      "content": "were very conscious of having union jobs that pay well here in the city of new york",
+      "speaker": "S141"
+    },
+    "1286.3": {
+      "requestid": "da62f154-88a9-45c1-bd3d-271db5ccd474",
+      "confidence": "0.5672692",
+      "timestamp": 1286.3,
+      "content": "it sounds bad connection",
+      "speaker": "S10"
+    },
+    "1289.19": {
+      "requestid": "fa13d362-86a8-46bf-a09a-252168ff08bd",
+      "confidence": "0.6148387",
+      "timestamp": 1289.19,
+      "content": "from their narrow perspective aid understand my concern it's jonathan levin again the stanford kinda missed it maybe that is does ginger some businesses in hotel industry pick up robbie now mostly been since their operating out of lelo and hotels in not more I am market hotels",
+      "speaker": "S197"
+    },
+    "1306.77": {
+      "requestid": "3465e143-db39-4052-9033-9ee49e308e20",
+      "confidence": "0.7026173",
+      "timestamp": 1306.77,
+      "content": "if you ask for moped a broader perspective is it out and eliminate ing jobs of raw",
+      "speaker": "S197"
+    },
+    "1312.2": {
+      "requestid": "fa7892e3-2a60-4b21-88e7-195d98b0cb63",
+      "confidence": "0.6911965",
+      "timestamp": 1312.2,
+      "content": "it's much less clear to me because it may be that some people working in hotels have bibles their jobs if if a hotel shut down the other hand you're creating new jobs for people being entrepreneurs by renting out their home so it's not obvious that the net effect on jobs is negative",
+      "speaker": "S197"
+    },
+    "1335.57": {
+      "requestid": "c30811cd-4356-4637-a195-9149fb827294",
+      "confidence": "0.6217396",
+      "timestamp": 1335.57,
+      "content": "no surprise in the comus look at this from a different angle dban politician who are you nice hotel worker",
+      "speaker": "S10"
+    },
+    "1342.49": {
+      "requestid": "7e2f0a4c-6700-4bb8-8f1b-bf310898d317",
+      "confidence": "0.8813925",
+      "timestamp": 1342.49,
+      "content": "what are the tenets of economics is the notion of creative destruction",
+      "speaker": "S10"
+    },
+    "1346.98": {
+      "requestid": "bcc27475-a02f-4687-b2c9-d23154b88ad8",
+      "confidence": "0.6950185",
+      "timestamp": 1346.98,
+      "content": "new industries destroy old 1 new jobs place old one but the person who held the old job may not necessarily get one of the new jobs nor will the new job necessarily pay as well yes",
+      "speaker": "S10"
+    },
+    "1362.05": {
+      "requestid": "2c73223c-fc4f-46b3-b95b-8afdbc9386c7",
+      "confidence": "0.7390416",
+      "timestamp": 1362.05,
+      "content": "there will be winners but there also be losers air B&B as you heard is the winner",
+      "speaker": "S10"
+    },
+    "1368.94": {
+      "requestid": "b7543800-5906-4626-aad7-2a184e4836c0",
+      "confidence": "0.7876031",
+      "timestamp": 1368.94,
+      "content": "nathan butch arsik 31 years old is one of the youngest billionaires in the world do you get the air B&B helping a lot of people make my",
+      "speaker": "S10"
+    },
+    "1379.57": {
+      "requestid": "4b04a665-68e7-4fd5-8d66-0cb01d642cee",
+      "confidence": "0.8323953",
+      "timestamp": 1379.57,
+      "content": "in 2014 we will generate a $768 Million worth of economic impact in new york to roughly 1:30 that will go to host santinho studies are people trying to pay the mortgage for the rent",
+      "speaker": "S104"
+    },
+    "1394.04": {
+      "requestid": "2a09ce9b-fee7-4af5-82aa-4a35a88d0a2c",
+      "confidence": "0.8325848",
+      "timestamp": 1394.04,
+      "content": "so this is much needed income for them I'm by 2 thirds of that will be spent out and about shopping dining etc and what's really interesting is that over 70% of the properties are outside of",
+      "speaker": "S104"
+    },
+    "1406.0": {
+      "requestid": "81b6124f-384d-4945-8236-9ef662644027",
+      "confidence": "0.7225772",
+      "timestamp": 1406.0,
+      "content": "major tourist attraction in so perhaps an unintended consequence of air B&B is that huge tourism dollars are flying to neighborhoods they don't normally see the benefit of tourism that's actually a really good thing for the local economy",
+      "speaker": "S104"
+    },
+    "1420.25": {
+      "requestid": "23b3c80b-de92-4b92-9805-4db5a395423a",
+      "confidence": "0.8475096",
+      "timestamp": 1420.25,
+      "content": "according to air B&B's numbers new york city hosts as they are called will take in roughly 2050 million dollars and 2014 wynn hotel in new york takes in 2050 million dollars apiece a big chunk of that money in taxes but the city doesn't see much tax revenue from air B&B",
+      "speaker": "S10"
+    },
+    "1437.08": {
+      "requestid": "6aaec49c-50b0-408f-91a0-7f8ae8c50ec8",
+      "confidence": "0.7515352",
+      "timestamp": 1437.08,
+      "content": "first off I'd like to clarify that air B&B pays all the taxes that air B&B is responsible for",
+      "speaker": "S104"
+    },
+    "1443.31": {
+      "requestid": "a476647a-bb5e-47a8-be80-54517238109f",
+      "confidence": "0.8156803",
+      "timestamp": 1443.31,
+      "content": "that maybe true but again air B&B in hotel company it just makes the market derbyan be earned its money by taking a cut every transaction",
+      "speaker": "S10"
+    },
+    "1453.87": {
+      "requestid": "12756e01-ccda-453e-b81d-0afdeeae9c95",
+      "confidence": "0.8181471",
+      "timestamp": 1453.87,
+      "content": "so our business model to take between 6 and 12% from the guest and 3% from the host so on average a little about 10%",
+      "speaker": "S104"
+    },
+    "1462.59": {
+      "requestid": "916c2f31-065d-4dbe-a498-9b3c4f049f77",
+      "confidence": "0.7578436",
+      "timestamp": 1462.59,
+      "content": "so the host steak in roughly 90% of the dollars with their legally obligated to pay taxes on",
+      "speaker": "S10"
+    },
+    "1468.14": {
+      "requestid": "07ba1438-98a7-45f5-be7d-99212d01f297",
+      "confidence": "0.8065442",
+      "timestamp": 1468.14,
+      "content": "but they really do when a one reason is that pretty tempting and easy did not pay taxes on peer to peer transactions but but urzica argue there's at least one more reason",
+      "speaker": "S10"
+    },
+    "1482.1": {
+      "requestid": "cbb32924-de4e-42be-b129-321acf0d36c4",
+      "confidence": "0.7881405",
+      "timestamp": 1482.1,
+      "content": "alotta hoes are afraid because they aren't sure if they are allowed to rent out their homes on a short term basis and so they fear that if they pay the tax at is do and in doing so give away their identity eye that'll be called on the carpet for violating a short term rental",
+      "speaker": "S104"
+    },
+    "1501.08": {
+      "requestid": "7fb97096-7e3b-4d94-9def-44dbd6b5fa23",
+      "confidence": "0.7694717",
+      "timestamp": 1501.08,
+      "content": "and said he's too and she's really go hand in hand and it's hard to solve a tax problem without also um allowing people to stop fighting",
+      "speaker": "S104"
+    },
+    "1510.68": {
+      "requestid": "12430d6a-fd40-4a67-b853-4db6f6627d85",
+      "confidence": "0.8374431",
+      "timestamp": 1510.68,
+      "content": "so if I ask you to build and your site way to let the automatically collect sales and hospitality and any other applicable taxes within that transaction even know u air B&B are not really smart for that would you do that and why not if not",
+      "speaker": "S10"
+    },
+    "1525.18": {
+      "requestid": "c175fd82-0ad3-4d22-8466-abc3f3369dc6",
+      "confidence": "0.8675417",
+      "timestamp": 1525.18,
+      "content": "I yes we are willing to do that I that does represent a great deal of effort for us but we're happy to partner with cities in to have a constructive relationship",
+      "speaker": "S104"
+    },
+    "1534.53": {
+      "requestid": "a2b5ff24-b5b3-4678-8978-87d7586d0310",
+      "confidence": "0.8388396",
+      "timestamp": 1534.53,
+      "content": "and it actually done this already starting at the beginning of july with the city of portland so we're not clocking tax on behalf of the city of portland were doing it automatically such that host don't even have to fill out any paperwork",
+      "speaker": "S104"
+    },
+    "1548.36": {
+      "requestid": "d7d8cee4-5074-4def-8943-3a6a5cb4d3f1",
+      "confidence": "0.8750151",
+      "timestamp": 1548.36,
+      "content": "now I think for us to be able to do this at all the different cities that we operate and remember 135 thousand different cities in certainly well over 100 cities where we operate at major scale",
+      "speaker": "S104"
+    },
+    "1559.27": {
+      "requestid": "522502ed-6649-458e-bd2e-87000821c23c",
+      "confidence": "0.8161582",
+      "timestamp": 1559.27,
+      "content": "we need to make sure we implement esystems in a standardized away otherwise will be left in a place that's on sustainable in terms of operating disk yet complex process",
+      "speaker": "S104"
+    },
+    "1570.31": {
+      "requestid": "11993d85-c778-49bd-a114-81be84d00913",
+      "confidence": "0.827783",
+      "timestamp": 1570.31,
+      "content": "right so you're helping portland collect taxes is air bnb operating entirely legally in portland",
+      "speaker": "S10"
+    },
+    "1577.71": {
+      "requestid": "9ff09844-4690-49a1-98aa-805ca1c962d1",
+      "confidence": "0.7473428",
+      "timestamp": 1577.71,
+      "content": "well there's a simultaneously AA review of the regulation going on I'm so um that is happening in multiple stages",
+      "speaker": "S104"
+    },
+    "1586.97": {
+      "requestid": "16b10754-e2ff-46df-9b81-167480991025",
+      "confidence": "0.7937729",
+      "timestamp": 1586.97,
+      "content": "right but short answer and I realize that for legal reasons you not want to say these words but I can short answer is your not operating legally yet in portland",
+      "speaker": "S10"
+    },
+    "1596.23": {
+      "requestid": "21940089-faf7-4043-901a-b0a9698a001c",
+      "confidence": "0.6518842",
+      "timestamp": 1596.23,
+      "content": "you can <profanity>fuck off</profanity> if someone has a gun to your head name",
+      "speaker": "S10"
+    },
+    "1601.26": {
+      "requestid": "be7bc919-66c7-4f41-ac7d-f9359e00042f",
+      "confidence": "0.7057133",
+      "timestamp": 1601.26,
+      "content": "I'm so over again this is something that is a balding I air B&B itself is of deathly operating legally the individual cases of our hosts of berries very much based on what kind of building they ran out what part of the city to run at sarah",
+      "speaker": "S104"
+    },
+    "1619.99": {
+      "requestid": "8216dc04-82ec-4149-893f-b7d0d1922ea8",
+      "timestamp": 1619.99,
+      "content": ""
+    },
+    "1628.85": {
+      "requestid": "6c76b18f-9d75-4672-bc98-c8f4a984a42b",
+      "confidence": "0.7500026",
+      "timestamp": 1628.85,
+      "content": "since we spoke with butch arsik portland city commissioners voted to legalize air B&B rentals for guests staying less than 30 days",
+      "speaker": "S10"
+    },
+    "1637.99": {
+      "requestid": "8c687334-8b17-45af-ac1a-69e96f491487",
+      "confidence": "0.7646143",
+      "timestamp": 1637.99,
+      "content": "as long as host get a permit and submit to some safety inspection which gives a bit more leveraged air B&B's general position which is essentially hey we're not doing anything illegal even know we asila t transactions that made in some cases be illegal",
+      "speaker": "S10"
+    },
+    "1655.14": {
+      "requestid": "dec56e8c-8608-4c0f-92d0-3e61addc874c",
+      "confidence": "0.7760006",
+      "timestamp": 1655.14,
+      "content": "only be an old fashion come and regulators would wake up and smell the creed of destruction",
+      "speaker": "S10"
+    },
+    "1661.67": {
+      "requestid": "3ac14a9f-edd8-467e-bbfa-d7fcdd541339",
+      "confidence": "0.7826766",
+      "timestamp": 1661.67,
+      "content": "we would happily help send millions of dollars in lost tax revenues there way",
+      "speaker": "S10"
+    },
+    "1667.52": {
+      "requestid": "8e48a020-4bf0-46a2-8eda-0aee77b278b5",
+      "confidence": "0.698493",
+      "timestamp": 1667.52,
+      "content": "we just need to partner up a portelance doing it why can't new york city",
+      "speaker": "S10"
+    },
+    "1673.04": {
+      "requestid": "44cfc7b1-dcb6-4f35-a708-c48d1575fbf9",
+      "confidence": "0.6841599",
+      "timestamp": 1673.04,
+      "content": "after hearing from air B&B's nathan butchard like in new york senator this krueger",
+      "speaker": "S10"
+    },
+    "1678.47": {
+      "requestid": "6ea2d60b-d009-4a2d-9945-53829bdb79e3",
+      "confidence": "0.7440444",
+      "timestamp": 1678.47,
+      "content": "you get the sense that krueger may not be the partner the air B&B is looking for a new york krueger you'll remember with behind me some illegal hotel address",
+      "speaker": "S10"
+    },
+    "1688.99": {
+      "requestid": "1d37846c-a192-47cc-b061-a1059d8f4271",
+      "confidence": "0.7684691",
+      "timestamp": 1688.99,
+      "content": "I don't think the last week past are strict enough so I want to look at more enforcement perhaps increase find",
+      "speaker": "S141"
+    },
+    "1697.23": {
+      "requestid": "feab9fef-c970-433c-a15c-edd885d5bd29",
+      "confidence": "0.7708384",
+      "timestamp": 1697.23,
+      "content": "and penalties on I do have a very serious frustration that's the kind of love I think we really need needs to be federal way catch the fade is superseded by federal law when it comes to regulating online business some people seem to think",
+      "speaker": "S141"
+    },
+    "1716.05": {
+      "requestid": "89d368ce-ab48-4e3c-91a1-bd04d6c14643",
+      "confidence": "0.7745767",
+      "timestamp": 1716.05,
+      "content": "that if you re business model s on the internet",
+      "speaker": "S141"
+    },
+    "1718.96": {
+      "requestid": "a5b88a3e-1fab-4dc8-bdc5-f49d73d05d10",
+      "confidence": "0.7418272",
+      "timestamp": 1718.96,
+      "content": "it's like magic in hocus pocus is just business",
+      "speaker": "S265"
+    },
+    "1724.58": {
+      "requestid": "e9c56ddb-7194-46b1-b407-4bc3851a7af2",
+      "confidence": "0.7347708",
+      "timestamp": 1724.58,
+      "content": "and there's a reason for government to regulate business whether it has a physical site somewhere or whether it's in the cloud because the real impact on real people are actually not in the cloud they are very real and communities all over actually the world at this point",
+      "speaker": "S142"
+    },
+    "1745.23": {
+      "requestid": "ccdda793-d2e9-4877-9873-4fcf3d145124",
+      "timestamp": 1745.23,
+      "content": ""
+    },
+    "1750.02": {
+      "requestid": "536e994f-bdf9-4b91-bb0c-40b2ddb907bd",
+      "confidence": "0.7647047",
+      "timestamp": 1750.02,
+      "content": "coming up on for tonight radio the ride sharing service lift of the head on collision with new york regulators they interpret laws one way and are trying to do their job and we interpret laws another way and are trying to innovate",
+      "speaker": "S123"
+    },
+    "1765.98": {
+      "requestid": "e88e84be-9d59-456b-a3ae-0a6d6a383fe8",
+      "confidence": "0.7744372",
+      "timestamp": 1765.98,
+      "content": "and we send one of our producers to eat in a restaurant it's really just a guy cooking in this apartment do you to get poisoned or worse",
+      "speaker": "S10"
+    },
+    "1775.3": {
+      "requestid": "839f1a7c-7b08-46e1-84be-f0fb0b424adb",
+      "confidence": "0.5063032",
+      "timestamp": 1775.3,
+      "content": "I'm giving dad AY which is kind of narrowed it down the people that actually happened",
+      "speaker": "S273"
+    },
+    "1782.66": {
+      "requestid": "ec987ac1-2590-49e4-96a1-c1ffb90a7abe",
+      "confidence": "0.4989077",
+      "timestamp": 1782.66,
+      "content": "are you guys passing not psycho test",
+      "speaker": "S274"
+    },
+    "1785.36": {
+      "requestid": "4f1ad6d0-3d56-4904-a08a-f3185af6b7c8",
+      "confidence": "0.5333508",
+      "timestamp": 1785.36,
+      "content": "yes we like to think like we do",
+      "speaker": "S275"
+    },
+    "1790.48": {
+      "requestid": "c8709893-563b-4c14-874c-d94a4a546ced",
+      "confidence": "0.749738",
+      "timestamp": 1790.48,
+      "content": "one more thing if you do not already subscribe to freakonomics radio mount me say this peer to peer I think you should go to sign up for free I tunes and you'll get the next episode in your sleep",
+      "speaker": "S10"
+    },
+    "1804.22": {
+      "requestid": "d6a77262-4e38-44f5-a3da-113786d9eedb",
+      "timestamp": 1804.22,
+      "content": ""
+    },
+    "1808.88": {
+      "requestid": "a3f80beb-62ab-47f8-8b8c-f2274f05cfe3",
+      "timestamp": 1808.88,
+      "content": ""
+    },
+    "1812.54": {
+      "requestid": "f32d89d6-0549-4ffe-aec8-b51cdfb2e04e",
+      "timestamp": 1812.54,
+      "content": ""
+    },
+    "1817.47": {
+      "requestid": "2f6931c9-d376-4c44-bf7b-6d01fbaf8aad",
+      "confidence": "0.9114109",
+      "timestamp": 1817.47,
+      "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample",
+      "speaker": "S280"
+    },
+    "1830.91": {
+      "requestid": "2174106c-8445-4a6b-a483-7d5a791c8b0f",
+      "confidence": "0.8880392",
+      "timestamp": 1830.91,
+      "content": "canadiense can learn about their genetic information to publish study's have associated with conditions in traits like celiac disease cystic fibrosis and even response to certain medications",
+      "speaker": "S280"
+    },
+    "1842.11": {
+      "requestid": "dc97d6ad-9eeb-489f-8534-6292a703a15a",
+      "confidence": "0.9007638",
+      "timestamp": 1842.11,
+      "content": "more information is available at 23 the number in me dot CA",
+      "speaker": "S280"
+    },
+    "1847.9": {
+      "requestid": "a9d5ae33-7ab0-4fb9-910b-c6bebce29a95",
+      "confidence": "0.7979733",
+      "timestamp": 1847.9,
+      "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
+      "speaker": "S283"
+    },
+    "1867.18": {
+      "requestid": "5076c787-8bdc-4de7-8167-6ded821db5b2",
+      "confidence": "0.8899775",
+      "timestamp": 1867.18,
+      "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
+      "speaker": "S283"
+    },
+    "1880.77": {
+      "requestid": "b4e41e9b-e74d-404e-a094-61673aae98f0",
+      "confidence": "0.7657173",
+      "timestamp": 1880.77,
+      "content": "from wmic this is freakonomics radio here's your host stephen dubner",
+      "speaker": "S289"
+    },
+    "1891.95": {
+      "requestid": "2da48b3f-3ef9-4a78-8f1a-f953c330190e",
+      "confidence": "0.7942252",
+      "timestamp": 1891.95,
+      "content": "please program were talking about the internet versus state the battle between companies like air bnb would let anyone rent out a place to stay to anyone else",
+      "speaker": "S10"
+    },
+    "1901.48": {
+      "requestid": "cc11c884-f0e0-471e-859d-b515ed6c7a39",
+      "confidence": "0.7084862",
+      "timestamp": 1901.48,
+      "content": "government regulators lake new york state senator mysc",
+      "speaker": "S10"
+    },
+    "1905.47": {
+      "requestid": "a3cb33d0-c0fe-47a3-98df-a65418787bca",
+      "confidence": "0.6687973",
+      "timestamp": 1905.47,
+      "content": "antuan I say I think the model is mostly used by people intending to do illegal activity but this model also was fabulous if you're planning on doing something illegal",
+      "speaker": "S133"
+    },
+    "1915.21": {
+      "requestid": "66036bd8-f41d-4459-b17a-2c8fc99c8740",
+      "confidence": "0.680967",
+      "timestamp": 1915.21,
+      "content": "cosmos is the units in new york city end up being an apartment buildings without shamroz or so if you want to run a moving drogden this is a fabulous model to find yourself location it's a very easy way",
+      "speaker": "S133"
+    },
+    "1932.28": {
+      "requestid": "d51ded87-98ab-4e86-b804-133e0838107e",
+      "confidence": "0.640465",
+      "timestamp": 1932.28,
+      "content": "I'm to offer a moving houses of prostitution apparently it's also very convenient for running illegal game",
+      "speaker": "S295"
+    },
+    "1943.35": {
+      "requestid": "49c14b8d-bb9c-447a-b0f3-62782b33a0a6",
+      "confidence": "0.6479393",
+      "timestamp": 1943.35,
+      "content": "how to do sir greg brozowski interviewed krueger",
+      "speaker": "S10"
+    },
+    "1946.58": {
+      "requestid": "82c86cde-46d8-43ef-9141-f56b3113728e",
+      "confidence": "0.7868099",
+      "timestamp": 1946.58,
+      "content": "given her concerns about air B&B greg asked are one last question",
+      "speaker": "S10"
+    },
+    "1952.18": {
+      "requestid": "5c5f7835-b835-4c3a-9895-09e4479d6c14",
+      "confidence": "0.6667703",
+      "timestamp": 1952.18,
+      "content": "it's not just her baby there's all these other showing up to one that's gaining popularity new york and I think actually in your district is called eat wif",
+      "speaker": "S300"
+    },
+    "1959.97": {
+      "requestid": "1ac370f2-a49d-46b0-8c62-cc3c80f5a563",
+      "confidence": "0.7293257",
+      "timestamp": 1959.97,
+      "content": "and he with his beskydy air bnb for restaurants private citizens invite people into their homes of in their apartments and people come in and they eat they play pay for restaurant experience in somebody's home could you to tell me what your thoughts on that",
+      "speaker": "S300"
+    },
+    "1976.43": {
+      "requestid": "b69c5a7a-b6cb-45ef-948b-4bd9e60663fe",
+      "confidence": "0.7993656",
+      "timestamp": 1976.43,
+      "content": "I actually have not heard from anybody about",
+      "speaker": "S295"
+    },
+    "1979.88": {
+      "requestid": "9dc12b81-1cf7-4baf-8f38-fba50c74021b",
+      "confidence": "0.594774",
+      "timestamp": 1979.88,
+      "content": "men right off the bat",
+      "speaker": "S295"
+    },
+    "1982.06": {
+      "requestid": "5f1b1c55-3e2f-4f60-8613-ca158c4d4d04",
+      "confidence": "0.830989",
+      "timestamp": 1982.06,
+      "content": "so you're letting strangers into your apartment so you are potentially facing some kind of personal liability risk there is new york city",
+      "speaker": "S133"
+    },
+    "1993.84": {
+      "requestid": "ff496929-1bea-432a-8e26-e3a75ab363bc",
+      "confidence": "0.7121397",
+      "timestamp": 1993.84,
+      "content": "law about health inspections and I'm really hoping that you aren't pudding in illegal restaurant type of ems if I get food poisoning are they liable",
+      "speaker": "S295"
+    },
+    "2008.36": {
+      "requestid": "b387c9e1-233d-4652-9fe3-d04c3b5ebda4",
+      "confidence": "0.7095027",
+      "timestamp": 2008.36,
+      "content": "I guess I would wanna ask a question conceivably if I was the one eating you know how do I know you're not poisoning me and watch the liability",
+      "speaker": "S295"
+    },
+    "2023.04": {
+      "requestid": "f40e7265-f966-4fca-a36d-9392c5ae3629",
+      "confidence": "0.6454837",
+      "timestamp": 2023.04,
+      "content": "what do you make it here",
+      "speaker": "S311"
+    },
+    "2026.55": {
+      "requestid": "5ab58553-c60e-4e4c-9bec-78feaed45c33",
+      "confidence": "0.3191356",
+      "timestamp": 2026.55,
+      "content": "text ginger sauce",
+      "speaker": "S311"
+    },
+    "2028.74": {
+      "requestid": "a0190589-6edc-448f-a28d-47b3f0f06644",
+      "confidence": "0.645457",
+      "timestamp": 2028.74,
+      "content": "at what is the pungent smell that smell like the ginger did you do that here is the show really strong flavor is a kingdom halls of them are gonna do a quick mix",
+      "speaker": "S312"
+    },
+    "2038.33": {
+      "requestid": "ee4ff6ce-87a4-4ca0-9bbc-04514c14b219",
+      "confidence": "0.589093",
+      "timestamp": 2038.33,
+      "content": "we have more guests here",
+      "speaker": "S275"
+    },
+    "2043.71": {
+      "requestid": "48833564-b8a5-4100-a03d-b91c8a1d581e",
+      "confidence": "0.4660966",
+      "timestamp": 2043.71,
+      "content": "my name is max trailer nimrata saga in russia right now talk",
+      "speaker": "S274"
+    },
+    "2051.46": {
+      "requestid": "8b5e37e3-10b6-41f1-9905-01ed341be5e2",
+      "confidence": "0.535076",
+      "timestamp": 2051.46,
+      "content": "put some restaurants and you know he always want to show people with me an offer",
+      "speaker": "S317"
+    },
+    "2056.7": {
+      "requestid": "bc0e99d2-049c-44b9-a75e-837c3d823463",
+      "confidence": "0.5233108",
+      "timestamp": 2056.7,
+      "content": "bing you when you was in a rush anyanya limited menu syllabus for him",
+      "speaker": "S317"
+    },
+    "2060.61": {
+      "requestid": "76355d47-b46d-46de-bff8-e1bb1f4e3071",
+      "confidence": "0.6893489",
+      "timestamp": 2060.61,
+      "content": "black and we can expand your knowledge why would he likes what she believes it's good",
+      "speaker": "S319"
+    },
+    "2067.24": {
+      "requestid": "b8725099-89f9-4567-859c-f49601b3ba3c",
+      "confidence": "0.4719187",
+      "timestamp": 2067.24,
+      "content": "do today you know they say the shuttle icardi's so it's a way for him to express service dishes and only thing",
+      "speaker": "S319"
+    },
+    "2075.45": {
+      "requestid": "4a21d64f-0803-4d54-9bc2-408920290fa6",
+      "confidence": "0.5164211",
+      "timestamp": 2075.45,
+      "content": "so I grab the meat of the aust ridge grounded",
+      "speaker": "S319"
+    },
+    "2079.66": {
+      "requestid": "8ebe7016-49ce-43ef-bbe5-32efecfa8f15",
+      "confidence": "0.3945222",
+      "timestamp": 2079.66,
+      "content": "in meetha moose with the deshawn samassekou parsley ahead",
+      "speaker": "S322"
+    },
+    "2086.93": {
+      "requestid": "f91d9cad-ee76-4f1f-b0c8-80cef7355ea9",
+      "confidence": "0.3093527",
+      "timestamp": 2086.93,
+      "content": "the sausage biscuits ginger sauce trnka",
+      "speaker": "S312"
+    },
+    "2091.8": {
+      "requestid": "32f70d8b-520b-43b1-a755-804296322713",
+      "confidence": "0.4968523",
+      "timestamp": 2091.8,
+      "content": "for me you know it feels like a business in abisai medicine today know the whole website ya lake mall guest relations you like going back and forth emails colestock",
+      "speaker": "S317"
+    },
+    "2105.18": {
+      "requestid": "4ce430a8-c2a3-4abb-b75c-4ed73d5bb5e0",
+      "confidence": "0.5610835",
+      "timestamp": 2105.18,
+      "content": "I managed by nigel fardowsa in a lil Mr. TS&I know I'm the host 12 I have dinner with you guys is it down man I enjoyed experience you know about sharing a moment in a place with a little random people are you",
+      "speaker": "S317"
+    },
+    "2119.89": {
+      "requestid": "312b5384-a670-4d54-8f3a-f72c98ac919b",
+      "confidence": "0.3452223",
+      "timestamp": 2119.89,
+      "content": "never get home enjoy if you need something water wincue love",
+      "speaker": "S319"
+    },
+    "2128.11": {
+      "requestid": "3529e008-8ca5-46fb-8760-12b3c30a9681",
+      "confidence": "0.4104796",
+      "timestamp": 2128.11,
+      "content": "please feel free to ask anna joy joy welcome",
+      "speaker": "S319"
+    },
+    "2132.05": {
+      "requestid": "ce34bd78-766d-449b-80ce-385d812a61f2",
+      "confidence": "0.505229",
+      "timestamp": 2132.05,
+      "content": "you need done much today I was sick",
+      "speaker": "S319"
+    },
+    "2135.62": {
+      "requestid": "0a128a73-e187-493d-b4f5-4b4d69ae40db",
+      "confidence": "0.5138881",
+      "timestamp": 2135.62,
+      "content": "we got some food poisoning where did you get food poisoning",
+      "speaker": "S312"
+    },
+    "2140.23": {
+      "requestid": "58b96b03-a679-4e6c-b46c-8a98a4723790",
+      "confidence": "0.656657",
+      "timestamp": 2140.23,
+      "content": "do not forget the health inspections by the government I'm also fire safety inspection um and you know get the letter grade in the window so um how do I know you're not poisoning me I have a question for that bush",
+      "speaker": "S333"
+    },
+    "2158.67": {
+      "requestid": "6211d170-6de8-4ff3-871a-2dc4fc24fcf2",
+      "confidence": "0.7054488",
+      "timestamp": 2158.67,
+      "content": "how do you know you're not gonna get poison the restaurant and give you adrina be all well because it's regulated by the health department",
+      "speaker": "S317"
+    },
+    "2166.19": {
+      "requestid": "ad53adda-3994-47a0-aaee-fe72ae424538",
+      "confidence": "0.7269734",
+      "timestamp": 2166.19,
+      "content": "then I ask you this question but how do you know who is cooking for you and I restaurant in what is doing behind the kitchen and contrast we will we do with you you do know who is cooking in what is doing",
+      "speaker": "S317"
+    },
+    "2180.68": {
+      "requestid": "a15f3265-6dd7-4e36-bd20-3f47c76be1cf",
+      "confidence": "0.3539353",
+      "timestamp": 2180.68,
+      "content": "this is just a lover",
+      "speaker": "S322"
+    },
+    "2184.2": {
+      "requestid": "a22beccc-7832-4388-8b80-ccae99180f2e",
+      "confidence": "0.6931286",
+      "timestamp": 2184.2,
+      "content": "in make people happy with food",
+      "speaker": "S322"
+    },
+    "2186.72": {
+      "requestid": "a9cae2de-e279-47d6-8dfe-ffab9c966482",
+      "confidence": "0.5826768",
+      "timestamp": 2186.72,
+      "content": "in how to make people happy for you",
+      "speaker": "S322"
+    },
+    "2197.46": {
+      "requestid": "ee535982-1726-4936-bdc1-2f46b7556f37",
+      "confidence": "0.5098329",
+      "timestamp": 2197.46,
+      "content": "chill at the freeway and I need a crock of <profanity>shit</profanity>",
+      "speaker": "S274"
+    },
+    "2201.6": {
+      "requestid": "38d64245-71e1-4fd5-90ec-030008ecc6ec",
+      "confidence": "0.4889886",
+      "timestamp": 2201.6,
+      "content": "chicken salad mix concealer is very very rich in vitamin d",
+      "speaker": "S312"
+    },
+    "2207.46": {
+      "requestid": "3f9e5272-a472-41da-8f5e-bbbe462b2656",
+      "confidence": "0.5032519",
+      "timestamp": 2207.46,
+      "content": "tell me about face off at lake link <profanity>fuck</profanity> <profanity>shit</profanity> up",
+      "speaker": "S344"
+    },
+    "2212.23": {
+      "requestid": "4cd86a29-3c5d-483d-9db2-7d27c65bb7c3",
+      "confidence": "0.558916",
+      "timestamp": 2212.23,
+      "content": "who plays crazy like I was like did you opening yearly are you how's the bunch of people you've never seen your life but dinner today you know like if you're open minded and you know you like crazy things and are you later if you're gonna like it was busy you say ok",
+      "speaker": "S344"
+    },
+    "2229.58": {
+      "requestid": "e652dabe-8690-4068-a958-7376f1fd5422",
+      "confidence": "0.6202282",
+      "timestamp": 2229.58,
+      "content": "between a dinner party at a friends",
+      "speaker": "S348"
+    },
+    "2234.59": {
+      "requestid": "35a448d9-b854-4699-8bec-8261ac965678",
+      "confidence": "0.6178816",
+      "timestamp": 2234.59,
+      "content": "and the best neighborhood restaurants like your little neighborhood joint where can I see people that you know are maybe mean you people in is this",
+      "speaker": "S348"
+    },
+    "2247.03": {
+      "requestid": "696f61a5-eecf-4318-a18a-51cc704fb5eb",
+      "confidence": "0.7413015",
+      "timestamp": 2247.03,
+      "content": "you actually had sign up and apply and then that there was a vetting process",
+      "speaker": "S300"
+    },
+    "2251.76": {
+      "requestid": "30245837-a791-40fe-97b5-cc3394a9c837",
+      "confidence": "0.4888606",
+      "timestamp": 2251.76,
+      "content": "did you get an interview skype interview then be coming to house",
+      "speaker": "S352"
+    },
+    "2256.17": {
+      "requestid": "e01172d2-b377-4213-8f49-3a2f51042557",
+      "confidence": "0.4745729",
+      "timestamp": 2256.17,
+      "content": "pendik dine with you A&M go to profile and dirt",
+      "speaker": "S352"
+    },
+    "2261.44": {
+      "requestid": "bcbaae09-71a0-4521-8cb9-db7b924a9556",
+      "confidence": "0.75964",
+      "timestamp": 2261.44,
+      "content": "personality",
+      "speaker": "S352"
+    },
+    "2263.39": {
+      "requestid": "bfe7c3bd-3510-4822-a47f-f0ca44f06295",
+      "confidence": "0.5208229",
+      "timestamp": 2263.39,
+      "content": "where are you now are you at home I need with who snitching",
+      "speaker": "S352"
+    },
+    "2267.31": {
+      "requestid": "b26035f1-bbda-41fa-b358-0b565e0977d7",
+      "confidence": "0.5241373",
+      "timestamp": 2267.31,
+      "content": "I'm giving dad take me to eat which is kind of narrowed it down the people that actually happen a high iq test",
+      "speaker": "S273"
+    },
+    "2274.18": {
+      "requestid": "d2fe23dd-7418-4f23-bbe9-a0e5496db633",
+      "confidence": "0.5183137",
+      "timestamp": 2274.18,
+      "content": "are you guys passing not psycho test yes yes we like this thing like we did",
+      "speaker": "S274"
+    },
+    "2279.37": {
+      "requestid": "1ffcde67-be78-4f59-b1a8-a01a9261d85e",
+      "confidence": "0.544804",
+      "timestamp": 2279.37,
+      "content": "do you know I'm just leave if you don't have any interviews ring stores that were not gonna eat",
+      "speaker": "S344"
+    },
+    "2293.6": {
+      "requestid": "66f86940-b751-4ac1-93d5-4f89a41abe03",
+      "confidence": "0.5766537",
+      "timestamp": 2293.6,
+      "content": "then we were looking for some cool fun stuff to do when your phone is in town so he was looking up on trip advisor annie found it some really interesting but it's horrible this time are you off to stay with there being be right now we're staying in an apartment here",
+      "speaker": "S358"
+    },
+    "2312.3": {
+      "requestid": "9813dbac-6d37-4de6-8d48-644c16e85543",
+      "confidence": "0.5059876",
+      "timestamp": 2312.3,
+      "content": "mascot for the sharing economy see your staying in irving be eating up with did you come here in huber",
+      "speaker": "S312"
+    },
+    "2320.63": {
+      "requestid": "ccce3591-656b-4749-8d36-b003b542ddc9",
+      "timestamp": 2320.63,
+      "content": ""
+    },
+    "2326.3": {
+      "requestid": "6f44492b-7133-43d8-b01b-f279ee4f3237",
+      "confidence": "0.5230917",
+      "timestamp": 2326.3,
+      "content": "blasco's i'm in does anybody feel poison that this",
+      "speaker": "S312"
+    },
+    "2329.43": {
+      "requestid": "38c83263-7505-45a5-b3fe-2700a7759eae",
+      "timestamp": 2329.43,
+      "content": ""
+    },
+    "2335.95": {
+      "requestid": "6813d8fa-121b-495f-8314-19a6a278dc31",
+      "timestamp": 2335.95,
+      "content": ""
+    },
+    "2340.23": {
+      "requestid": "7000ef74-4b65-40cc-a8ec-eab8aed0362f",
+      "timestamp": 2340.23,
+      "content": ""
+    },
+    "2343.49": {
+      "requestid": "937871e8-3012-401f-9b52-05927e0db6f4",
+      "confidence": "0.7801157",
+      "timestamp": 2343.49,
+      "content": "if you go tomorrow to a dinner with friends or friends of friends augustine nobody's expecting the health department to come in to regulate this kitchen",
+      "speaker": "S367"
+    },
+    "2355.07": {
+      "requestid": "16cd16b0-2926-4fc8-bf15-530b1261c3fc",
+      "confidence": "0.6357023",
+      "timestamp": 2355.07,
+      "content": "the sky mislan the ceo and cofounder of eat with",
+      "speaker": "S10"
+    },
+    "2359.17": {
+      "requestid": "f3189e6f-fbbc-4310-99b4-d1dc7de14419",
+      "confidence": "0.7193666",
+      "timestamp": 2359.17,
+      "content": "nobody in the world is iphone using the health department regulates what's going on in homes thing is if you operate on a commercial level and you have employees are interacting with the food in the",
+      "speaker": "S367"
+    },
+    "2374.46": {
+      "requestid": "58e01381-15e1-44db-98a7-caa4ed4d8163",
+      "confidence": "0.7425049",
+      "timestamp": 2374.46,
+      "content": "does the owner in south there a large volumes of people coming in this commercial quantities I guess it makes sense",
+      "speaker": "S371"
+    },
+    "2387.41": {
+      "requestid": "722be8b2-db25-4ab1-bd2d-480e22ea3880",
+      "confidence": "0.7963635",
+      "timestamp": 2387.41,
+      "content": "michelin starred in the company in tel aviv today were in 32 countries in with adding new country is basically every month now",
+      "speaker": "S10"
+    },
+    "2394.87": {
+      "requestid": "c3c0f67a-e844-4e1f-b6b3-23b407d21828",
+      "confidence": "0.7202",
+      "timestamp": 2394.87,
+      "content": "eques was inspired by air B&B mason got the idea while on vacation",
+      "speaker": "S10"
+    },
+    "2401.23": {
+      "requestid": "ceafeb8d-ac31-4f25-855c-f43c3f2f1573",
+      "confidence": "0.7045367",
+      "timestamp": 2401.23,
+      "content": "play their starters almost 3 years ago I was traveling with my wife to the island of crete penderyn like many times when you travel we selling to every possible tourist trap",
+      "speaker": "S374"
+    },
+    "2414.14": {
+      "requestid": "31208b7f-3952-418a-8362-ac20ce83cb18",
+      "confidence": "0.7487313",
+      "timestamp": 2414.14,
+      "content": "insoft a few days I remember that I once met in the conference and guy from kryten I actually emailed him and ask him where do the locals eat",
+      "speaker": "S374"
+    },
+    "2423.56": {
+      "requestid": "c32bb375-6a6d-4445-b79b-28c02d46981b",
+      "confidence": "0.7323347",
+      "timestamp": 2423.56,
+      "content": "and instead of just giving me a supermodel restaurant invited me home tour frida dinner with his family which turned out to be by far the best thing that happen to us on this trip",
+      "speaker": "S374"
+    },
+    "2434.8": {
+      "requestid": "8bf12476-a03b-4385-9589-5c28ada24955",
+      "confidence": "0.7017717",
+      "timestamp": 2434.8,
+      "content": "I think that by interacting with the locals by staying with the local bike eating with the locals just changes your whole experience you don't feel like it earth anymore you feel almost like a local for few days until when I went back home I met with my co founder and we fed",
+      "speaker": "S374"
+    },
+    "2452.48": {
+      "requestid": "0d7a79cc-9d93-4146-83ce-4c421fd252c2",
+      "confidence": "0.7972267",
+      "timestamp": 2452.48,
+      "content": "it has to be a way to replicate this magic and could share it with other people around the world",
+      "speaker": "S374"
+    },
+    "2461.11": {
+      "requestid": "df1f3911-523b-40e7-80e0-530651e75a74",
+      "confidence": "0.7791952",
+      "timestamp": 2461.11,
+      "content": "eat with is now based in san francisco course",
+      "speaker": "S10"
+    },
+    "2464.75": {
+      "requestid": "7d289aec-3153-448f-b148-e81567e862c8",
+      "confidence": "0.7176481",
+      "timestamp": 2464.75,
+      "content": "west mifflin if he's running to any resistance from regulators",
+      "speaker": "S10"
+    },
+    "2468.19": {
+      "requestid": "8f4e3e1f-89a7-4422-a88e-3efa6d67aa44",
+      "confidence": "0.7178609",
+      "timestamp": 2468.19,
+      "content": "thank god no but the burlington say not yet I'm sure it will happen I think that sometimes laughing many times the regulator is the little bit behind to catch up with",
+      "speaker": "S374"
+    },
+    "2481.01": {
+      "requestid": "806d340f-a927-447a-bac9-2018fa189651",
+      "confidence": "0.7469696",
+      "timestamp": 2481.01,
+      "content": "nology it since the cats I used to work for for the government thing is when I used to work for the state attorneys office and what I learn from this period is that theory when you look at regulation you do you need to peel off",
+      "speaker": "S367"
+    },
+    "2494.35": {
+      "requestid": "2d2b8914-fbcb-4540-abed-c362aa542dcb",
+      "confidence": "0.7394035",
+      "timestamp": 2494.35,
+      "content": "and look at the original reason why this law was put in place in on at all the different interest group that are involved and if you think about urban beats obvious that this is a phenomenon that's not gonna go away",
+      "speaker": "S367"
+    },
+    "2510.12": {
+      "requestid": "bbe3d084-c9dd-49a2-9227-426a3dc7fd68",
+      "confidence": "0.7203997",
+      "timestamp": 2510.12,
+      "content": "so obviously the reg and I don't want me to come in and hopefully in a dialogue with all the different constituencies",
+      "speaker": "S367"
+    },
+    "2517.19": {
+      "requestid": "a4eae9d9-5721-4082-8781-b75ea9f99de5",
+      "confidence": "0.7238239",
+      "timestamp": 2517.19,
+      "content": "adapt to create a new regulation that fix the reality and I think lifted up very nicely here in california",
+      "speaker": "S367"
+    },
+    "2525.71": {
+      "requestid": "32ef879c-be58-4812-866e-a37df46380b1",
+      "confidence": "0.8159012",
+      "timestamp": 2525.71,
+      "content": "let's lift as in the ride share service",
+      "speaker": "S10"
+    },
+    "2528.71": {
+      "requestid": "f812efd3-a949-44e1-a35b-06f1f493a6e4",
+      "confidence": "0.8187464",
+      "timestamp": 2528.71,
+      "content": "my name is john zimmer on the co founder and president of left",
+      "speaker": "S434"
+    },
+    "2531.91": {
+      "requestid": "81532e29-ffb0-4790-bc46-9979469dc6ce",
+      "confidence": "0.8356671",
+      "timestamp": 2531.91,
+      "content": "are in lift ly ft cars with pink mustaches for those who don't know what love is all about can you explain it from the ground up",
+      "speaker": "S10"
+    },
+    "2540.15": {
+      "requestid": "04615d86-7cd4-46bd-9cfb-6719458e0496",
+      "confidence": "0.8396533",
+      "timestamp": 2540.15,
+      "content": "select is born out of the idea dot transportation is really into fishing today and you can see that and the fact that 80% of seats are empty at all times",
+      "speaker": "S395"
+    },
+    "2549.18": {
+      "requestid": "935cbd09-798a-4c5a-ab78-633bb8e0ce78",
+      "confidence": "0.801548",
+      "timestamp": 2549.18,
+      "content": "show list is now in over 65 cities across the country we've done over 10,000,000 rides",
+      "speaker": "S395"
+    },
+    "2555.85": {
+      "requestid": "b787340c-cff3-4ffe-a3e8-9cb5957b1e32",
+      "confidence": "0.8677847",
+      "timestamp": 2555.85,
+      "content": "and it's a peer to peer network for a people in your community to give each other rides in a safeway will use a mobile application to connect drivers and passengers who have extra time or extra seats in the car",
+      "speaker": "S395"
+    },
+    "2569.83": {
+      "requestid": "d8f59617-c6fd-47f9-8d00-dd43ceed2b95",
+      "confidence": "0.833397",
+      "timestamp": 2569.83,
+      "content": "to give rides at the lowest possible price point",
+      "speaker": "S395"
+    },
+    "2573.12": {
+      "requestid": "306f30f9-5c98-44be-8ddb-8773122a0331",
+      "confidence": "0.667325",
+      "timestamp": 2573.12,
+      "content": "lift is not as well known as number nor is well endowed currently valued at roughly $1 Billion compared to bridge $18 Billion they are rivals butt lift seems to have a different view of itself",
+      "speaker": "S400"
+    },
+    "2591.19": {
+      "requestid": "2a30d287-fbf7-416f-862f-55181d5d9cf9",
+      "confidence": "0.8102474",
+      "timestamp": 2591.19,
+      "content": "I think we oftentimes people focus on in what we're doing I say oh is this another",
+      "speaker": "S393"
+    },
+    "2596.36": {
+      "requestid": "795f1774-1722-4163-9d8e-df304ee93744",
+      "confidence": "0.747784",
+      "timestamp": 2596.36,
+      "content": "taxi app that just kind of dress is it often but the reality is no that's not what we're building that's not what were at our visiones you notice the taxi market is the in the us at $11 Billion market",
+      "speaker": "S393"
+    },
+    "2609.01": {
+      "requestid": "47d3a501-43bd-4711-b273-ff78367d2ff8",
+      "confidence": "0.8347985",
+      "timestamp": 2609.01,
+      "content": "where going after a trillion dollar opportunity which is the owning an operation of a car by every american household",
+      "speaker": "S393"
+    },
+    "2617.57": {
+      "requestid": "8c48603e-950f-4ebc-bba0-1658a712458a",
+      "confidence": "0.8033264",
+      "timestamp": 2617.57,
+      "content": "at and on a individual level up owning and operating a vehicle at 89000 dollars a year is the second highest household expense in america second only to owning a house",
+      "speaker": "S393"
+    },
+    "2628.76": {
+      "requestid": "938b21e4-79da-4bc2-a680-65dfee4c4b13",
+      "confidence": "0.8527684",
+      "timestamp": 2628.76,
+      "content": "and then you have in bar mental impact 20% of here to missions are coming from the system and so we also believe that there is an ability to redesign our city's not just for buildings and cars on roads bad for people IN and people interacting",
+      "speaker": "S393"
+    },
+    "2646.15": {
+      "requestid": "7e3a2db7-8b85-4de8-a96d-e66cb0fcaecd",
+      "confidence": "0.6373094",
+      "timestamp": 2646.15,
+      "content": "inspiration for lift in the predecessor called zimride came from a call",
+      "speaker": "S10"
+    },
+    "2651.34": {
+      "requestid": "2b6ee29c-e718-48ae-84cc-2bc814f9d7d3",
+      "confidence": "0.8401365",
+      "timestamp": 2651.34,
+      "content": "lecture so in 2006 I went to cornell hotelschool in in my senior year and took a class in city planning and architecture school",
+      "speaker": "S393"
+    },
+    "2660.56": {
+      "requestid": "3788bb0b-cd73-46f9-a872-b14becd7e25e",
+      "confidence": "0.7976612",
+      "timestamp": 2660.56,
+      "content": "NA classes call green cities in had this amazing professor the professor robert young is first lecture is the history of the world in 30 minutes pa flexure asimah recalls on the history of transportation",
+      "speaker": "S393"
+    },
+    "2672.77": {
+      "requestid": "11fa6065-6d43-4215-a6cb-fb6900a1f45c",
+      "confidence": "0.6475528",
+      "timestamp": 2672.77,
+      "content": "any talk to the evolution from canals to railroad tie west",
+      "speaker": "S393"
+    },
+    "2677.77": {
+      "requestid": "5f0a6089-f794-4af8-bdd7-a7e27cc7e39f",
+      "confidence": "0.8954727",
+      "timestamp": 2677.77,
+      "content": "and I saw images of these networks of the physical infrastructure systems that you put up on the board and I started thinking",
+      "speaker": "S393"
+    },
+    "2685.58": {
+      "requestid": "c5eecf03-0933-4795-8b4f-6786d1e0b51f",
+      "confidence": "0.8639876",
+      "timestamp": 2685.58,
+      "content": "when he lays it out so simply as you know step one step 2 step 3 there's gotta be a step 4 and I started racking my brain thinking what would be the fourth infrastructure that is built in at first thought it would have to be physical because everything else that I saw on the screen was with physical infrastructure system",
+      "speaker": "S393"
+    },
+    "2703.15": {
+      "requestid": "eb31d7c3-fdac-4b24-a4ba-e7e0ecbcf0da",
+      "confidence": "0.7772765",
+      "timestamp": 2703.15,
+      "content": "and then you not using them in metric that we think about in the hotel scolding occupancy I asked what is the occupancy of the seats I'm within the system within this network another vessel under 20%",
+      "speaker": "S421"
+    },
+    "2715.75": {
+      "requestid": "e53e1d9c-9539-4170-b894-360e712c90d8",
+      "confidence": "0.7763481",
+      "timestamp": 2715.75,
+      "content": "if you are a hotel with 20% occupancy you gonna business if you're driving a car with 20% occupancy well you just a typical american",
+      "speaker": "S10"
+    },
+    "2725.81": {
+      "requestid": "6f6ee1da-1caa-4852-9450-6ff95f177371",
+      "confidence": "0.8528695",
+      "timestamp": 2725.81,
+      "content": "and there's an interesting fact that the average cock events in los angeles is 1.1 and if it was 1.3",
+      "speaker": "S421"
+    },
+    "2732.96": {
+      "requestid": "87fdb21f-a805-4048-849a-9cd1774b2e6d",
+      "confidence": "0.8527516",
+      "timestamp": 2732.96,
+      "content": "traffic in la would be eliminated and I got really excited and I thought well if we could do the next infrastructure and it would require nothing physical and it was only information best people that",
+      "speaker": "S421"
+    },
+    "2746.0": {
+      "requestid": "6049ae84-d82c-4367-8d03-4da9f74007a2",
+      "confidence": "0.827401",
+      "timestamp": 2746.0,
+      "content": "have carbs are have seats are giving rides in people that need a ride on that would be incredible we would solve for the economic environmental and the social problems associated with this transportation system with belt",
+      "speaker": "S421"
+    },
+    "2758.62": {
+      "requestid": "1f6e64ee-22cc-4b5e-aa93-364f64b049eb",
+      "confidence": "0.8041013",
+      "timestamp": 2758.62,
+      "content": "the don zimmer and his co founder logan green in the grand vision for changing help people get around but as they rolled out lift in city after city they find regulators off and don't share that vision",
+      "speaker": "S10"
+    },
+    "2772.14": {
+      "requestid": "1083f756-e8f2-4557-8a3c-e4ddc13d7dca",
+      "confidence": "0.8102503",
+      "timestamp": 2772.14,
+      "content": "they interpret laws at one way in are trying to do their job and we interpret laws another way and are trying to innovate and those 2 things are at odds and the timelines are at odds and you know if we took the approach of",
+      "speaker": "S434"
+    },
+    "2789.1": {
+      "requestid": "22c82589-2dab-48f9-9a01-905312ebaf71",
+      "confidence": "0.8326349",
+      "timestamp": 2789.1,
+      "content": "hey let's um let's wait and see what the government does to create a path that is very very clear for this new industry that we believe benefits drivers passengers are in cities then we wouldn't be operating anywhere",
+      "speaker": "S434"
+    },
+    "2806.18": {
+      "requestid": "0c1abe7c-3025-4191-a194-3e46d84eb5b4",
+      "confidence": "0.8048127",
+      "timestamp": 2806.18,
+      "content": "and so as you know someone who isn't purposely trying to be unt agonist it but someone who really believes in the change that were trying to create an we need to push forward and we need to know that friction will happen because both sides are trying to do their jobs in their jobs are different",
+      "speaker": "S434"
+    },
+    "2830.89": {
+      "requestid": "621e5b60-f076-4be9-bd62-7238fa3aa9ce",
+      "confidence": "0.7735187",
+      "timestamp": 2830.89,
+      "content": "yes friction will happen for lift it happened press not surprisingly in new york city",
+      "speaker": "S10"
+    },
+    "2838.08": {
+      "requestid": "96b28834-eb4f-448d-a323-70e67c921d8e",
+      "confidence": "0.6163808",
+      "timestamp": 2838.08,
+      "content": "cancel to begin service in new york city today in brooklyn please",
+      "speaker": "S444"
+    },
+    "2841.97": {
+      "requestid": "661f24c9-313f-4155-9dea-071dc62b82d0",
+      "confidence": "0.551341",
+      "timestamp": 2841.97,
+      "content": "legal challenges put those plans I can you turn in general eric schneiderman in financial services different time",
+      "speaker": "S444"
+    },
+    "2852.79": {
+      "requestid": "42a12730-81eb-4173-8511-9a7c1e16a784",
+      "confidence": "0.7404221",
+      "timestamp": 2852.79,
+      "content": "the spring of 2014 lift began operating in upstate new york in rochester and buffalo but I haven't cleared the path with the state's attorney general",
+      "speaker": "S10"
+    },
+    "2862.29": {
+      "requestid": "dd515e30-961a-4778-bb86-0b9cacfe9627",
+      "confidence": "0.811859",
+      "timestamp": 2862.29,
+      "content": "we were having conversations them to try to understand what exactly they're doing in buffalo rochester ynn weather in for some action would be merited and in the mist of those conversations they decided to launch in new york city potentially in violation of the same",
+      "speaker": "S448"
+    },
+    "2879.81": {
+      "requestid": "228672d5-118f-4c1c-bc53-20f8a6fc5f9c",
+      "confidence": "0.5955951",
+      "timestamp": 2879.81,
+      "content": "laws michael asher and I'm just after new york state attorney general eric",
+      "speaker": "S10"
+    },
+    "2885.83": {
+      "requestid": "d53c131f-82db-4977-945a-a7117a47ce63",
+      "confidence": "0.6669889",
+      "timestamp": 2885.83,
+      "content": "lift argued that because it is a ride sharing app connecticut",
+      "speaker": "S10"
+    },
+    "2890.02": {
+      "requestid": "f0425090-0ada-415e-9edc-8322ffe58fe7",
+      "confidence": "0.7561833",
+      "timestamp": 2890.02,
+      "content": "bears are technically suggested donations it shouldn't be subject to the sort of rules that govern taxis",
+      "speaker": "S10"
+    },
+    "2897.26": {
+      "requestid": "310e314a-58c5-4523-a668-e6688afc753a",
+      "confidence": "0.7846218",
+      "timestamp": 2897.26,
+      "content": "new york regulators disagreed soaz lift prepared to launch in new york city",
+      "speaker": "S10"
+    },
+    "2902.4": {
+      "requestid": "8738c32e-7c11-4559-8d3f-5812491a3154",
+      "confidence": "0.741057",
+      "timestamp": 2902.4,
+      "content": "garment went to court to stop them arguing that lift head quotes from dafnos at the law in at the company's legal strategy was quote based on audacity in pretence michael asher personally tweeted that lift and john zimmer were quote not just disruptive but also personally dishonest in their dealings with",
+      "speaker": "S10"
+    },
+    "2922.33": {
+      "requestid": "ea462636-5375-4089-8e5e-4128a2871263",
+      "confidence": "0.6543732",
+      "timestamp": 2922.33,
+      "content": "lakers and the pawn go to court after the 1st court proceeding the delay the NY city launch",
+      "speaker": "S458"
+    },
+    "2928.86": {
+      "requestid": "99aa5ab7-e007-4334-843c-da05d9cd2b21",
+      "confidence": "0.7940665",
+      "timestamp": 2928.86,
+      "content": "I'm here again is john zimmer from lift",
+      "speaker": "S10"
+    },
+    "2931.9": {
+      "requestid": "d9d57af4-192d-4b59-b286-88533f09239a",
+      "confidence": "0.8758686",
+      "timestamp": 2931.9,
+      "content": "it became very clear that there wasn't going to be a natural path forward",
+      "speaker": "S434"
+    },
+    "2939.12": {
+      "requestid": "50083e08-e4e5-4a3e-964c-063f9f499904",
+      "timestamp": 2939.12,
+      "content": ""
+    },
+    "2941.53": {
+      "requestid": "41f54333-e9e4-4c8f-9929-f5ce08487b1c",
+      "confidence": "0.7703479",
+      "timestamp": 2941.53,
+      "content": "to lift had to adapt to model for instance they agreed to use only drivers and vehicles license by the taxi limousine commission",
+      "speaker": "S10"
+    },
+    "2950.49": {
+      "requestid": "abd53f3e-7c6e-49ad-8a4f-bc4b89286478",
+      "confidence": "0.8004223",
+      "timestamp": 2950.49,
+      "content": "which means that even a lift is operating in new york city but really operating",
+      "speaker": "S10"
+    },
+    "2955.48": {
+      "requestid": "c1f899a0-7b93-482a-a98d-5ac4671337ac",
+      "confidence": "0.7161949",
+      "timestamp": 2955.48,
+      "content": "like daft it's not fulfilling john's image grand vision for new transportation model it is also not posing much of a threat to the cities heugten",
+      "speaker": "S10"
+    },
+    "2966.42": {
+      "requestid": "176e4e2b-0b75-446f-80e5-dbcf180214e5",
+      "confidence": "0.3711675",
+      "timestamp": 2966.42,
+      "content": "see in carson street",
+      "speaker": "S10"
+    },
+    "2969.1": {
+      "requestid": "641f024b-be67-4dd3-b72f-9d88c4d09353",
+      "confidence": "0.8367014",
+      "timestamp": 2969.1,
+      "content": "this is very complicated because there so many regulatory agencies I am and you know many of them wanna do their job correctly I'm in protect public safety but then there's also others that are protecting an existing industry and in one of the conversations that we often have with the regulator is",
+      "speaker": "S434"
+    },
+    "2984.36": {
+      "requestid": "a31123e5-5064-4972-b574-a8b23047e40e",
+      "confidence": "0.9447088",
+      "timestamp": 2984.36,
+      "content": "ok let's talk about where we wanna get 2 are we talking about protecting public safety or we talking about protecting an existing industry and making sure that we do things exactly the same way into the future as we've done in the past",
+      "speaker": "S434"
+    },
+    "3000.03": {
+      "requestid": "b15cfd00-8cd7-4fbd-b3cc-4923718a0271",
+      "confidence": "0.7889503",
+      "timestamp": 3000.03,
+      "content": "at and when people say you look up priorities patagon public safety we can have a really productive conversation",
+      "speaker": "S434"
+    },
+    "3006.88": {
+      "requestid": "7b1ab5b6-8f72-40d5-9329-7c03244d7e15",
+      "confidence": "0.8256438",
+      "timestamp": 3006.88,
+      "content": "the notion that the attorney general is carrying water for taxi history is laughable",
+      "speaker": "S458"
+    },
+    "3011.36": {
+      "requestid": "57ff1ac0-b680-4fa2-9e82-1235dcbf7d31",
+      "confidence": "0.6334069",
+      "timestamp": 3011.36,
+      "content": "michael asher again the ag's chief of staff",
+      "speaker": "S10"
+    },
+    "3014.64": {
+      "requestid": "49d63b81-8bbc-4ef0-9dc7-f267e3b23f44",
+      "confidence": "0.8189654",
+      "timestamp": 3014.64,
+      "content": "is certainly the case that there are entrenched interests you as a matter of their own self interest want to stop new innovators mutryn the marketplace it's laughable and frankly a rhetorical tactic by",
+      "speaker": "S458"
+    },
+    "3028.96": {
+      "requestid": "23145f2d-41c1-450f-8410-773493a410d1",
+      "confidence": "0.8405642",
+      "timestamp": 3028.96,
+      "content": "some of the companies we had to deal with for them to group attorney general schneiderman into that",
+      "speaker": "S458"
+    },
+    "3035.6": {
+      "requestid": "9841286b-2ec3-42aa-a7c0-86f09d120e87",
+      "confidence": "0.8836947",
+      "timestamp": 3035.6,
+      "content": "the new york attorney general's office is also for a long legal battle with there being",
+      "speaker": "S283"
+    },
+    "3040.48": {
+      "requestid": "0965e771-b8d0-437c-8fcc-c784db27f801",
+      "confidence": "0.8121245",
+      "timestamp": 3040.48,
+      "content": "b but again lashar says it is the hotel industry the office is trying to protect public",
+      "speaker": "S10"
+    },
+    "3047.92": {
+      "requestid": "9226e55e-92df-4b67-ae47-09985b03d445",
+      "confidence": "0.8225223",
+      "timestamp": 3047.92,
+      "content": "what is big issues is the question externality is an extra l'impact in other words if my next door neighbor is using your apartment as a hotel room there not just wanna risk of their apartment getting trashed there having an impact on me",
+      "speaker": "S458"
+    },
+    "3062.06": {
+      "requestid": "d224fb06-7bea-4015-beb9-f6186f0e25b3",
+      "confidence": "0.8185374",
+      "timestamp": 3062.06,
+      "content": "similarly in case of left if one of those drivers get into a car accident doesn't have the proper insurance that can have an impact on whole bunch of folks who did not sign up for that",
+      "speaker": "S458"
+    },
+    "3071.47": {
+      "requestid": "45610eb4-d110-402a-9fb4-7adec4ce8ae1",
+      "confidence": "0.8132485",
+      "timestamp": 3071.47,
+      "content": "the problem is is companies come in they say were not interested in whether not to conduct is if I leave seloc we may very well in fact as a strategic matter decide to break the lock with the old rex acacia not true means of pressure we won't enforce the law",
+      "speaker": "S458"
+    },
+    "3090.19": {
+      "requestid": "c949a308-1ec4-48bb-98b5-6d4105e8de5e",
+      "timestamp": 3090.19,
+      "content": ""
+    },
+    "3095.87": {
+      "requestid": "37562d10-e87e-4691-88ce-7416fcad5c11",
+      "confidence": "0.7124636",
+      "timestamp": 3095.87,
+      "content": "may be tempting to look at the regulators resistance to lift an air B&B in say no it is stuck in the past even if their not purely protectionist reset my anti innovation lashar insist that is not the case",
+      "speaker": "S10"
+    },
+    "3112.82": {
+      "requestid": "13ee7079-2ee4-4bb4-9a62-482ec4065f14",
+      "confidence": "0.786844",
+      "timestamp": 3112.82,
+      "content": "I think we demonstrate your ability to work with innovative companies to come up with new ways look at things with uber for instance we did have an investigation into burke with regard to whether or not their surge pricing violated new york state price gouging laws",
+      "speaker": "S448"
+    },
+    "3129.48": {
+      "requestid": "52afadc5-e71f-4a65-9d79-db8463d41a71",
+      "confidence": "0.7313279",
+      "timestamp": 3129.48,
+      "content": "surge pricing bats in charging more for a ride on a saturday night for instance are during bad weather is the standard practice for uber and lyft is well",
+      "speaker": "S10"
+    },
+    "3139.62": {
+      "requestid": "aa2c5b45-e013-4b01-87e0-23d8efb08ce1",
+      "confidence": "0.7380054",
+      "timestamp": 3139.62,
+      "content": "and in that case over kuat parade with our office and we're able to negotiate a resolution that maintained the integrity of the application of the sales price gouging laws but it away that was thoughtful and it didn't interfere with what number was doing in fact it was a model dave now applied across the country",
+      "speaker": "S448"
+    },
+    "3159.1": {
+      "requestid": "80c0b386-cc9b-462e-a4e3-6a637f6cd28f",
+      "confidence": "0.9057398",
+      "timestamp": 3159.1,
+      "content": "the compromise in that case",
+      "speaker": "S10"
+    },
+    "3161.42": {
+      "requestid": "84206165-fe3f-45cb-8571-37c3b8c96c47",
+      "confidence": "0.8215502",
+      "timestamp": 3161.42,
+      "content": "uber could adjust prices to fit them and butt head to set a price ceiling can spy kids price is the weight did during a snow storm in new york in 2013 1335 dollars a mile with a minimum ride $175 as for lift",
+      "speaker": "S10"
+    },
+    "3179.55": {
+      "requestid": "e9cb8a2f-2e15-4e13-a4f2-055ceb52111a",
+      "confidence": "0.7828991",
+      "timestamp": 3179.55,
+      "content": "john zimmer was frustrated that lift could only bring to new york and neutered version of itself",
+      "speaker": "S10"
+    },
+    "3186.32": {
+      "requestid": "084cc1e0-ae6f-4f4c-a9ab-1a49ce4d9278",
+      "confidence": "0.8633831",
+      "timestamp": 3186.32,
+      "content": "we believe that regulations can make sense on the deck current regulations were traded at a time when I could have predicted that type of solutions that we have today",
+      "speaker": "S434"
+    },
+    "3195.05": {
+      "requestid": "b61d37f8-01d0-4d2c-8d70-22e36a0518a1",
+      "confidence": "0.8415133",
+      "timestamp": 3195.05,
+      "content": "I like to think about what is a positive way of coming out of all lesson what is the way that we could fix that friction and I think that's not something that hasn't been solved in something that hasn't been figured out how could accompany approach is in a way that wouldn't i ruffled up the regulators others in the same way",
+      "speaker": "S434"
+    },
+    "3215.0": {
+      "requestid": "82e13b48-3b6c-463f-9d20-ae711dfd53b9",
+      "confidence": "0.7743568",
+      "timestamp": 3215.0,
+      "content": "lift has had an easier time in some other cities I mean we had",
+      "speaker": "S10"
+    },
+    "3219.32": {
+      "requestid": "cfebc53e-6582-450b-bb7c-b84cb06e4e28",
+      "confidence": "0.7599225",
+      "timestamp": 3219.32,
+      "content": "meyers call us and ask us to come to their city pittsburgh at the mayor has been extremely welcoming amereon albuquerque in otaman visit the office and said we really need this",
+      "speaker": "S434"
+    },
+    "3244.21": {
+      "requestid": "d5e4a74e-21b0-4df4-8507-04bafbfbee94",
+      "confidence": "0.7648315",
+      "timestamp": 3244.21,
+      "content": "this is what is creative destruction looks like this is the way the world moves forward how common is move forward and new technologies invented by someone for some purpose",
+      "speaker": "S10"
+    },
+    "3257.87": {
+      "requestid": "bc56e72e-8556-4a9d-ac37-e8c3d5ce43e9",
+      "confidence": "0.6939675",
+      "timestamp": 3257.87,
+      "content": "military purposes my whole bunch and energetic people moving in many different directions faster than anyone could imagine",
+      "speaker": "S10"
+    },
+    "3265.02": {
+      "requestid": "c1bac32a-7577-4976-a6db-2e4a022b5620",
+      "confidence": "0.7173404",
+      "timestamp": 3265.02,
+      "content": "most of their attempts will fail",
+      "speaker": "S10"
+    },
+    "3267.83": {
+      "requestid": "db541b8f-1558-4df3-895b-a7c702a19332",
+      "confidence": "0.7387736",
+      "timestamp": 3267.83,
+      "content": "some work and some work so so will happen so fast if you're even a little bit old guard get to look like the sky is falling you imagine the worst about this new technology do well on the dangers in the destruction old way of life is economist john 11",
+      "speaker": "S10"
+    },
+    "3287.57": {
+      "requestid": "18c918d4-ea1a-46e2-a96a-ba96b30593ae",
+      "confidence": "0.7069744",
+      "timestamp": 3287.57,
+      "content": "thank you take a longer term perspektiven at you think about this over the last 200 years day this economies",
+      "speaker": "S521"
+    },
+    "3294.67": {
+      "requestid": "b0ef0098-79a7-4d91-bd2f-9aef7ab3dd3f",
+      "confidence": "0.6602933",
+      "timestamp": 3294.67,
+      "content": "doubled in size every 30 years are so instead of per capita gdp and what that means is that there's been distant romarco madhav change in pretty much every one's lifetime my parents left in my grandparents later in my lifetime and",
+      "speaker": "S521"
+    },
+    "3309.85": {
+      "requestid": "ae2a8d0c-4460-45ee-b127-58c35c2cd0d1",
+      "confidence": "0.7852192",
+      "timestamp": 3309.85,
+      "content": "a lot of the changes bing destruction of existing industries in the creation of new industries big huge fraction of the us labor force is to be an agriculture",
+      "speaker": "S521"
+    },
+    "3319.25": {
+      "requestid": "2dc9ffd5-34bf-4009-9886-05de58b1ea8f",
+      "confidence": "0.534775",
+      "timestamp": 3319.25,
+      "content": "and now it's the middle school sex",
+      "speaker": "S521"
+    },
+    "3323.68": {
+      "requestid": "5919825f-2647-4a0e-98d5-ab79a065fac4",
+      "confidence": "0.7589458",
+      "timestamp": 3323.68,
+      "content": "some of the things this program in the future might find queen to hear people arguing about which human being is going to drive you from point a to point b",
+      "speaker": "S10"
+    },
+    "3333.76": {
+      "requestid": "0ce24bc1-7ac6-48bf-9bf6-be09d1f29e48",
+      "confidence": "0.553507",
+      "timestamp": 3333.76,
+      "content": "end of more fundamental threat to taxi drivers in low long run is a plebeian flight is almost certainly cortana scars",
+      "speaker": "S521"
+    },
+    "3341.39": {
+      "requestid": "900a510f-c3a8-4211-9bf0-6a41b30a6904",
+      "confidence": "0.6919618",
+      "timestamp": 3341.39,
+      "content": "in 20 years it may be that direction people in the front seat of car",
+      "speaker": "S521"
+    },
+    "3344.96": {
+      "requestid": "42e3463c-edaa-43b0-9d93-f4f0e83b14e8",
+      "confidence": "0.6858732",
+      "timestamp": 3344.96,
+      "content": "and if cortana knows vehicles really work",
+      "speaker": "S10"
+    },
+    "3348.2": {
+      "requestid": "740f8c38-276b-4dba-9d33-aa1bef43c89c",
+      "confidence": "0.6608175",
+      "timestamp": 3348.2,
+      "content": "what about all the other people drive from new leaf 3% of united states workforce at 3.6 million people feed their families by driving taxis buses delivery trucks tractor trailers other vehicles what is a toast to do with this new technology start to bloom greater likelihood",
+      "speaker": "S10"
+    },
+    "3368.19": {
+      "requestid": "5f03fb54-a2c6-45b2-826f-0eba7dc5992a",
+      "confidence": "0.5524529",
+      "timestamp": 3368.19,
+      "content": "well the very least",
+      "speaker": "S10"
+    },
+    "3371.18": {
+      "requestid": "104684cc-65bf-496b-8c44-3e31ec24d042",
+      "confidence": "0.6565747",
+      "timestamp": 3371.18,
+      "content": "should be allowed a job opening system and regulators",
+      "speaker": "S10"
+    },
+    "3387.86": {
+      "requestid": "1ecbcbcb-9a74-4603-849d-d482e3a1d7cb",
+      "confidence": "0.6753728",
+      "timestamp": 3387.86,
+      "content": "goodbye kisses news on next week show mea pharmacist has a headache what do you think she will buy the name brand bare aspirin or the much cheaper storebrand",
+      "speaker": "S10"
+    },
+    "3397.08": {
+      "requestid": "b4eb0993-4c1a-4031-b60a-56732ac0dcae",
+      "confidence": "0.6072882",
+      "timestamp": 3397.08,
+      "content": "play by and large take a store brand sold in acatic the headache remedies for 992 percent of that account is harmas fire storebrand and wish you had very consistently across nurses doctors in cylinder on my way more store brandon restaurants",
+      "speaker": "S537"
+    },
+    "3410.61": {
+      "requestid": "47e2bf39-9d27-4fd9-9b51-c5c46545e530",
+      "confidence": "0.7009917",
+      "timestamp": 3410.61,
+      "content": "the rest of us spend up to $2 Billion extra each year just some brand names headache medicine so this does the triumph of marketing for something more when is the time to go generic say before the college education test next time on freakonomics radio",
+      "speaker": "S10"
+    },
+    "3432.6": {
+      "requestid": "bed125f6-1d08-43c2-a99d-8bcaa5f1c482",
+      "confidence": "0.6887912",
+      "timestamp": 3432.6,
+      "content": "freakonomics radio is produced byWNYCN.net production our staff include david herman pregra southpeak readercon caroline english susie lechtenberg in crispins in",
+      "speaker": "S542"
+    },
+    "3444.58": {
+      "requestid": "e1c66a95-c37a-4b0e-a9bb-d0e0a836aadc",
+      "confidence": "0.7384365",
+      "timestamp": 3444.58,
+      "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio appliances and more",
+      "speaker": "S542"
+    },
+    "3466.44": {
+      "requestid": "de8afcc9-61cb-46a2-a96b-d6c1fde37382",
+      "confidence": "0.8656713",
+      "timestamp": 3466.44,
+      "content": "freakonomics radio is supported by new york life who's been helping families protect their financial futures for 170 years these days most working women have far less life insurance in the mid see if your family is fully protected at new yorklife.com slash freak",
+      "speaker": "S10"
+    },
+    "3483.94": {
+      "requestid": "155a2e40-b563-4b22-92da-3f749f41c4fc",
+      "confidence": "0.8312849",
+      "timestamp": 3483.94,
+      "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
+      "speaker": "S283"
+    },
+    "3503.47": {
+      "requestid": "5ddb541f-9db6-4b2c-8a4c-c1183fb7d301",
+      "confidence": "0.9017736",
+      "timestamp": 3503.47,
+      "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
+      "speaker": "S283"
+    }
+  }
+}
