@@ -1,0 +1,1326 @@
+{
+  "title": "Failure Is Your Friend",
+  "date": "2014-06-05",
+  "description": "<p>In which we argue that failure should not only be tolerated but celebrated.</p>",
+  "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/fcvcv_LJMpI/freakonomics_podcast060514.mp3",
+  "slug": "Failure-Is-Your-Friend",
+  "segments": {
+    "0.96": {
+      "requestid": "60e1b781-9c1c-46ea-a882-9e04f32e4924",
+      "timestamp": 0.96,
+      "content": ""
+    },
+    "2.86": {
+      "requestid": "7de2d69e-9262-4399-8879-e6d9092abf16",
+      "timestamp": 2.86,
+      "content": ""
+    },
+    "10.64": {
+      "requestid": "4a6bde4c-9921-40ba-a9a5-7a88e6f5b3b1",
+      "confidence": "0.7618182",
+      "timestamp": 10.64,
+      "content": "I'm just curious um if you succeed in everything you've ever done",
+      "speaker": "S1"
+    },
+    "16.73": {
+      "requestid": "f593a955-af8a-4ddc-8a22-bda577737025",
+      "confidence": "0.5217636",
+      "timestamp": 16.73,
+      "content": "no I've mostly failed at everything I've ever done with definite golf golf has been a life long failure",
+      "speaker": "S1"
+    },
+    "23.99": {
+      "requestid": "10805f26-12b4-4f96-bc50-9fe4b8cdc95e",
+      "confidence": "0.7405651",
+      "timestamp": 23.99,
+      "content": "do you know when I was a kid all I wanna do is pass on golf road and thank god that I was so bad at golf that I can even imagine trying to be a pro golfer think were the worst life you can have something in the modern world",
+      "speaker": "S1"
+    },
+    "36.81": {
+      "requestid": "25584033-a59f-4001-936b-1f345a30133f",
+      "confidence": "0.6130991",
+      "timestamp": 36.81,
+      "content": "is thinking you're good enough to play progoff not bing gonna play poker struggling for a decade are 20 years and then you got nothing to show in it like that was so bad I can even pretend its father",
+      "speaker": "S1"
+    },
+    "51.89": {
+      "requestid": "1658dc7b-de85-457e-8af6-839ab3d33bb7",
+      "confidence": "0.6753746",
+      "timestamp": 51.89,
+      "content": "meet you at the field at becoming the kind of a condom is that you thought you should become when you for starting the economic drink yet started out as a macro economists wanna be in",
+      "speaker": "S1"
+    },
+    "62.07": {
+      "requestid": "d74fc906-5f7d-44a8-b6d0-7047450ec499",
+      "confidence": "0.6417868",
+      "timestamp": 62.07,
+      "content": "very quickly I realize that modern macro it's all about solving dynamic optimization models with chris hopefully then I wanted to be an economic theorist and I actually that was more dangerous because I moved closer I will call her now I actually was able to publish some papers that were pretty good pretty good drink",
+      "speaker": "S1"
+    },
+    "79.42": {
+      "requestid": "6cbf53d0-11b2-4b48-b519-2f54c75effdd",
+      "confidence": "0.6714455",
+      "timestamp": 79.42,
+      "content": "but the thing that saved me hunting in my cortana is sexy a funny story which is that one of my advisors at MITI walked in his office",
+      "speaker": "S1"
+    },
+    "89.38": {
+      "requestid": "181d6fb6-8f6c-4a15-af12-d514a928b62d",
+      "confidence": "0.6996868",
+      "timestamp": 89.38,
+      "content": "and um he said so what do you been working on dates",
+      "speaker": "S1"
+    },
+    "93.46": {
+      "requestid": "cff109de-7b52-46cf-bd4a-c798b59c4aef",
+      "confidence": "0.6535772",
+      "timestamp": 93.46,
+      "content": "it's not normal person would have said I see my name is steve but I didn't do it and he called me david fordley weeks in months ago I feel bad but at the annual party but after students",
+      "speaker": "S1"
+    },
+    "105.06": {
+      "requestid": "e179d460-3f27-4a4d-a1f8-618559df61be",
+      "confidence": "0.6905174",
+      "timestamp": 105.06,
+      "content": "I gathered around all of my friend that said that he's gonna call me dave just don't worry I'm fine it was not that I thought I could be a serious it was that I was so embarrassed in traumatized by the idea that some point I was gonna have to say to my main advisor",
+      "speaker": "S1"
+    },
+    "119.73": {
+      "requestid": "2b4bab8e-55fb-4660-8b94-42312991f8e1",
+      "confidence": "0.6667929",
+      "timestamp": 119.73,
+      "content": "set my name is axy stevenot dave after 6 months of pretending",
+      "speaker": "S1"
+    },
+    "123.62": {
+      "requestid": "c3734d56-45e9-47e8-bcb3-46adb38c41bf",
+      "confidence": "0.434569",
+      "timestamp": 123.62,
+      "content": "who said I should just forget about siri and google now",
+      "speaker": "S1"
+    },
+    "128.95": {
+      "requestid": "12d7a15a-b091-47f5-b365-398872d82994",
+      "timestamp": 128.95,
+      "content": ""
+    },
+    "137.66": {
+      "requestid": "463e8c65-c956-4d7d-bbbf-0de07dc00ff1",
+      "confidence": "0.700668",
+      "timestamp": 137.66,
+      "content": "I'm wmic this is freakonomics radio podcast that explored the inside of everything",
+      "speaker": "S20"
+    },
+    "145.25": {
+      "requestid": "2f641f71-1fe1-4c81-b80a-de33ab11bde0",
+      "confidence": "0.3226853",
+      "timestamp": 145.25,
+      "content": "here's your host stephen dubner",
+      "speaker": "S20"
+    },
+    "153.4": {
+      "requestid": "cbba011b-132e-41b3-9ab3-d4c043800c83",
+      "timestamp": 153.4,
+      "content": ""
+    },
+    "157.67": {
+      "requestid": "d41d091f-89eb-41b7-abbe-56d35ef751f7",
+      "confidence": "0.7186744",
+      "timestamp": 157.67,
+      "content": "last week's episode we talk about quitting specifically the upside of quitting why are so many people so reluctant to quit one reason is a tent with quit quitting failure and there's a huge stigma attached a failure but",
+      "speaker": "S22"
+    },
+    "174.02": {
+      "requestid": "85e4858a-8327-4fd6-978b-1fe97cf47ef5",
+      "confidence": "0.8059769",
+      "timestamp": 174.02,
+      "content": "should there be in our new book think like a freak make the argument that perhaps we are not thinking clearly about failure maybe failure to be your friend",
+      "speaker": "S22"
+    },
+    "185.65": {
+      "requestid": "777ec581-a97d-4f87-a889-d7cc548992d9",
+      "confidence": "0.5328761",
+      "timestamp": 185.65,
+      "content": "I would come it didn't fail quickly quickly fail the more chance you have to fail at something else before you open tray maybe find thing we don't hear that",
+      "speaker": "S26"
+    },
+    "195.04": {
+      "requestid": "42621f5b-3891-497d-929a-d244843a9b6f",
+      "confidence": "0.6830199",
+      "timestamp": 195.04,
+      "content": "when failure stigmatas demonize people will try to avoid it at all costs even wanna trip isn't nothing more than a temporary set",
+      "speaker": "S22"
+    },
+    "204.14": {
+      "requestid": "a873d476-4810-4ba5-b133-dd1c48a0acca",
+      "confidence": "0.671384",
+      "timestamp": 204.14,
+      "content": "steve levitt my frickin I'm spending coauthor does some consulting on the side he tells the story about one of his earliest consulting jobs with that big multinational retailer",
+      "speaker": "S22"
+    },
+    "215.34": {
+      "requestid": "fdf26a79-7031-45a7-9040-5a36394a3823",
+      "confidence": "0.654997",
+      "timestamp": 215.34,
+      "content": "this with the fur make many friends I had a verb to pick up chinese for the culture in which if you ever said anything bad about the firm with a prospective firm you work hope you're not a complete this firm with that opened its first store in china in shanghai",
+      "speaker": "S22"
+    },
+    "230.6": {
+      "requestid": "5a3229e3-bcab-466d-a76e-a0236eae47c0",
+      "confidence": "0.7915928",
+      "timestamp": 230.6,
+      "content": "pretty big deal and for all kinds of reasons it was really important store open on time so but 2 months before the scheduled opening the ceo some in the leaders of the 7 teams are involved in stores opening and he asked each of them for a detailed status",
+      "speaker": "S22"
+    },
+    "248.54": {
+      "requestid": "89ae7075-0da2-4b7c-868a-b18f921aa8f9",
+      "confidence": "0.6651672",
+      "timestamp": 248.54,
+      "content": "all the reports with positive tennessee last post 17 liters to pick one of 3 signals green light yellow light red light to show how confident they worth it to shanghai store would indeed we all set",
+      "speaker": "S22"
+    },
+    "264.12": {
+      "requestid": "702d7a24-b3d9-4c04-b3f7-27164f94387c",
+      "confidence": "0.7114589",
+      "timestamp": 264.12,
+      "content": "went with the green like everyone was so excited they were completely on track to shopping to my father now there is a very I smarter people with purple completely understood how does culture will help and families who is predicted enterrement and others so they had set up an internal prediction markets",
+      "speaker": "S236"
+    },
+    "280.73": {
+      "requestid": "a6ae5116-db4e-4c6f-8502-492b5399b0f7",
+      "confidence": "0.7878405",
+      "timestamp": 280.73,
+      "content": "and they wanted people to be able to express their true opinions in the market this work place market is a great way to get people to tell you the truth is it anonymous meeting in because there actually sent the money intentive titun",
+      "speaker": "S236"
+    },
+    "293.24": {
+      "requestid": "ae4afc5a-85cf-4b11-92a3-9d05aa4abdad",
+      "confidence": "0.7571429",
+      "timestamp": 293.24,
+      "content": "and it's funke's people like to win it with a competition if you could amass the most money by buying and selling securities that were tide to the outcome of the <profanity>fuck</profanity>",
+      "speaker": "S236"
+    },
+    "301.04": {
+      "requestid": "7abbdf97-4cb3-4ca9-ae25-deeaa7f72a63",
+      "confidence": "0.7626783",
+      "timestamp": 301.04,
+      "content": "and unlike the stock market which is not supposed to allow insider knowledge this is actually the opposite right in the firm you're trying to get the best knowledge can people actually are working on the prowl",
+      "speaker": "S242"
+    },
+    "311.85": {
+      "requestid": "9d8a952b-dae5-44b1-a095-c4cec2cc2664",
+      "confidence": "0.7722194",
+      "timestamp": 311.85,
+      "content": "exactly the firm had put this internal prediction market in the place exactly with the hope that they could learn the truth about what was going on because they weren't sure they were there any other way",
+      "speaker": "S236"
+    },
+    "321.1": {
+      "requestid": "a0982d4c-e48f-4edd-87ca-64f682b580cc",
+      "confidence": "0.8560349",
+      "timestamp": 321.1,
+      "content": "this prediction market offered one bet on whether the chinese store would open on time now considering all 17 leaders involved in the opening have given the green light",
+      "speaker": "S106"
+    },
+    "332.19": {
+      "requestid": "f34396d8-4c76-44f4-81cd-cee77da7a4b6",
+      "confidence": "0.774639",
+      "timestamp": 332.19,
+      "content": "might think that everybody in the company would be bullish they weren't the company's internal prediction market showed a 92% chance the store wouldn't open on time",
+      "speaker": "S106"
+    },
+    "343.59": {
+      "requestid": "92a6ef50-dc9e-4219-981b-fa4a7aa43bbb",
+      "confidence": "0.7692198",
+      "timestamp": 343.59,
+      "content": "so guess who is right be anonymous betterson the prediction market for the team leaders who had to stand from their bosses",
+      "speaker": "S106"
+    },
+    "351.88": {
+      "requestid": "3bdcb195-1fb1-472a-9e51-0135ef3126fc",
+      "confidence": "0.7925525",
+      "timestamp": 351.88,
+      "content": "so even though the 17th at all set for sure we're on track everybody basically new almost for sure if there's almost no chance in store open on time indeed the store did not open on time",
+      "speaker": "S236"
+    },
+    "363.87": {
+      "requestid": "5e92f37f-3a12-4c1d-82ad-5178c147e127",
+      "confidence": "0.80882",
+      "timestamp": 363.87,
+      "content": "what does that say about B17 liters to head to present to the ceo in their fear of failure is it fear of failure was it the fear of the peering out there not doing their job well how to spell your factor in",
+      "speaker": "S242"
+    },
+    "374.33": {
+      "requestid": "eb09ac7b-5c98-4ad8-9345-bb25ea84ce3b",
+      "confidence": "0.8480431",
+      "timestamp": 374.33,
+      "content": "let you know it's funny because in this case will you can be defined and in different ways I mean ultimately they felt the store did not open",
+      "speaker": "S236"
+    },
+    "383.51": {
+      "requestid": "20516bc2-abb0-4bcc-935d-42d4da401afd",
+      "confidence": "0.760009",
+      "timestamp": 383.51,
+      "content": "could you pin that failure in any individual not really but it's tricky because the in santa time you talk so much about incentives over the years in mcallen 10 of them eat",
+      "speaker": "S236"
+    },
+    "392.96": {
+      "requestid": "6f47ee3e-15bf-4f03-a8ac-f9ffee94fbc9",
+      "confidence": "0.8036671",
+      "timestamp": 392.96,
+      "content": "how do you there were some financial incentives associated with the doctor at watching it I think that would really was most costly is for you to stand up in the room and be the only one willing to say I'm really sorry and I know we've been planning this lunch for 5 years but we bought it and we're not gonna make it",
+      "speaker": "S236"
+    },
+    "411.3": {
+      "requestid": "0b16d2c5-2d8c-4442-b6eb-fa832fdfbf01",
+      "confidence": "0.6906778",
+      "timestamp": 411.3,
+      "content": "but there's no place for that mean",
+      "speaker": "S236"
+    },
+    "421.13": {
+      "requestid": "53b69fb8-ab3e-4157-97f9-b2b7bca2ed09",
+      "confidence": "0.7651933",
+      "timestamp": 421.13,
+      "content": "so it's easy especially from a distance to criticize 17 liters told are ceo that they were sure the store would open on time from sound of it",
+      "speaker": "S173"
+    },
+    "431.1": {
+      "requestid": "bce97e7d-999e-4dfc-b647-bbedd618eb71",
+      "confidence": "0.597847",
+      "timestamp": 431.1,
+      "content": "the ceo had what is called go fever neighborhood ago fever better",
+      "speaker": "S173"
+    },
+    "436.3": {
+      "requestid": "e5feeb3e-fb82-49e9-95da-8449e05dd601",
+      "confidence": "0.7134136",
+      "timestamp": 436.3,
+      "content": "freeze so she was nasa having to do with rocket launches when a boss catches go fever I can take a lot of courage to focus on potential failures speak about the factors working against you is momentum",
+      "speaker": "S173"
+    },
+    "449.98": {
+      "requestid": "a8b6c90d-b1c5-47ab-b2db-79e7376344be",
+      "confidence": "0.6490688",
+      "timestamp": 449.98,
+      "content": "institutional poltex you go in the consequences of gold fever can be far more tragic than the delayed opening a burrito shop in shanghai",
+      "speaker": "S173"
+    },
+    "459.97": {
+      "requestid": "a3ee538a-c9a2-439b-84fe-d15aefb8ffa2",
+      "confidence": "0.5279043",
+      "timestamp": 459.97,
+      "content": "this is so my mom can come and t -2 hours 28 minutes and counting you come see you guys if you wanna play truth or tineola date are ready to the front the only see building for the launchpad",
+      "speaker": "S69"
+    },
+    "472.58": {
+      "requestid": "6a465663-e56e-4c5c-a58e-44176b44cd05",
+      "confidence": "0.7541341",
+      "timestamp": 472.58,
+      "content": "on January 28 1986 nasa was planning to launch the space shuttle challenger from kennedy space center in cape canaveral florida state mission hadran mass of public interest largely because the crew included sebilian school teacher from new hampshire in christa mcauliffe",
+      "speaker": "S120"
+    },
+    "488.79": {
+      "requestid": "ddc3e6c0-d23b-4a2d-a26f-6227245fe607",
+      "confidence": "0.8485875",
+      "timestamp": 488.79,
+      "content": "oh I am so excited to be here I don't think any teacher has ever been more ready to have 2 lessons in my life",
+      "speaker": "S72"
+    },
+    "497.39": {
+      "requestid": "48a7c8da-9ef7-4b68-9211-37f62bee9303",
+      "confidence": "0.7317875",
+      "timestamp": 497.39,
+      "content": "I want to darti been delayed a few times number on the night before the new launch date nasa",
+      "speaker": "S120"
+    },
+    "502.82": {
+      "requestid": "48f5ed20-ac5e-4632-8f7c-dad4dfe1c56d",
+      "confidence": "0.7713479",
+      "timestamp": 502.82,
+      "content": "held along tele conference call with engineers from morton thiokol it's the contractor that built the challengers solid rocket motors ok well I'm at alan mcdonald's",
+      "speaker": "S120"
+    },
+    "513.94": {
+      "requestid": "c6e1bb29-9314-402c-bb39-2b311c0a08a2",
+      "confidence": "0.8140907",
+      "timestamp": 513.94,
+      "content": "mcdonald was one of the 5 call engineers on site in cape canaveral at the time I was the director of the space shuttle solid rocket motor project for my company morton pacaud with unusually cold in florida",
+      "speaker": "S120"
+    },
+    "526.68": {
+      "requestid": "570b07fc-7d15-41a4-b432-f2d92d73c3f2",
+      "confidence": "0.7729661",
+      "timestamp": 526.68,
+      "content": "there is AA meter ologist in orlando that saying that the strong wins we saw today or bing fallbacks femco front moving target cape in there expecting to see temperatures may be as low as 18 degrees fahrenheit by tomorrow morning at the opening of our lunch window",
+      "speaker": "S107"
+    },
+    "544.66": {
+      "requestid": "6be901c8-7623-40f4-93b6-1d0402ecacc0",
+      "confidence": "0.6170052",
+      "timestamp": 544.66,
+      "content": "nexus good grief eyes's i'm really concerned that are o ring seals nice big joints will operate properly tascona damn pictures",
+      "speaker": "S127"
+    },
+    "554.28": {
+      "requestid": "152f2da9-e369-4bb9-8fec-b227e94f5e59",
+      "confidence": "0.6342736",
+      "timestamp": 554.28,
+      "content": "BO ring seals kept be extremely hot gases like 6000 degrees hot and I'm skipping the shuttle boosters do not want those gases to escape the shuttle boosters",
+      "speaker": "S173"
+    },
+    "568.34": {
+      "requestid": "6dc36dcb-b62b-4708-b432-6c661f094a3b",
+      "confidence": "0.7424205",
+      "timestamp": 568.34,
+      "content": "but is mcdonald's leader described in this book truth lies and o rings for the boosters have never been tested below 53 degrees in the forecast for launch morning going to tempters much lower than that so",
+      "speaker": "S186"
+    },
+    "582.35": {
+      "requestid": "3216663b-ca08-467a-ae79-69d823eba9ac",
+      "confidence": "0.7539687",
+      "timestamp": 582.35,
+      "content": "on net tele conference call tonight for the launch mcdonald and his team recommended did launch be postponed again",
+      "speaker": "S186"
+    },
+    "589.68": {
+      "requestid": "4addd816-483d-4651-a50e-5db3e2c9f3f3",
+      "confidence": "0.6664699",
+      "timestamp": 589.68,
+      "content": "and that nasa immediately challenge the basis for such a recommendation which really surprise me because prior to that time",
+      "speaker": "S109"
+    },
+    "599.43": {
+      "requestid": "4c12becc-a545-490f-b695-07f29b2e3f3d",
+      "confidence": "0.7552251",
+      "timestamp": 599.43,
+      "content": "I had given every flight readiness review for every flights inside because it was put on program and I was challenged every one of them of making sure that I could say was safe enough to fly planes in here all of a sudden we recommended not flying in the challenge the basis for that",
+      "speaker": "S109"
+    },
+    "618.06": {
+      "requestid": "592330e8-13a6-46a8-9475-da8ed5b6b5e3",
+      "confidence": "0.6671702",
+      "timestamp": 618.06,
+      "content": "mcdonald's couldn't believe that nasa wanted to launch despite what he saw is it obvious risk",
+      "speaker": "S173"
+    },
+    "623.89": {
+      "requestid": "dab33a32-7196-46f1-86f1-5d252612e809",
+      "confidence": "0.7559134",
+      "timestamp": 623.89,
+      "content": "I was amazed that they may check statements because we always aired on the side of safety",
+      "speaker": "S109"
+    },
+    "630.74": {
+      "requestid": "34996a11-7987-40ed-95f9-8e1e101451d0",
+      "confidence": "0.7535397",
+      "timestamp": 630.74,
+      "content": "in fact the engineers got put into position to prove that it would fail",
+      "speaker": "S109"
+    },
+    "635.51": {
+      "requestid": "06097e83-2790-45b7-8c22-d49c466ff047",
+      "confidence": "0.8180491",
+      "timestamp": 635.51,
+      "content": "I could not do that",
+      "speaker": "S109"
+    },
+    "637.15": {
+      "requestid": "5d9c6fd9-5448-4989-ae74-0e0cf700387b",
+      "confidence": "0.6160662",
+      "timestamp": 637.15,
+      "content": "nisoldipine quest according to mcdonald hughes bausback martonffy call headquarters in utah got off vanessa conference call for about 30 minutes talk about the situation with other if I called seconds",
+      "speaker": "S96"
+    },
+    "650.27": {
+      "requestid": "88ccd1b9-febe-4027-9bdd-8bf7b35cef20",
+      "confidence": "0.759377",
+      "timestamp": 650.27,
+      "content": "when you got back on the line mcdonald's has the recommendation to postpone the launch have been reversed mcdonald was angry but he been overruled launch with back on",
+      "speaker": "S96"
+    },
+    "662.83": {
+      "requestid": "d7395459-ec7a-428a-b610-6b3b7a3a38a0",
+      "confidence": "0.7780423",
+      "timestamp": 662.83,
+      "content": "now nasa requested that the responsible morton 5 colt official sign off on the decision to launch",
+      "speaker": "S96"
+    },
+    "670.85": {
+      "requestid": "4af95368-f799-4467-9acc-a9d7d8515d52",
+      "confidence": "0.7301589",
+      "timestamp": 670.85,
+      "content": "I knew that responsible facog official was that was me that was my job that was my responsibility that's why I was where I was at",
+      "speaker": "S102"
+    },
+    "679.92": {
+      "requestid": "78ba1e14-6fc5-4785-9202-e079df09afc1",
+      "confidence": "0.8504565",
+      "timestamp": 679.92,
+      "content": "and I did the smartest thing I ever did in my entire life time and that was I refuse to sign the lunch recommendations as a result of that my boss had to sign it and send it down to me",
+      "speaker": "S102"
+    },
+    "694.55": {
+      "requestid": "daaff9b3-f215-45ac-b523-316cc6a102a9",
+      "confidence": "0.8619559",
+      "timestamp": 694.55,
+      "content": "wiki did my fax machine as the engineers are waiting for the fax mcdonald's book up again",
+      "speaker": "S106"
+    },
+    "700.45": {
+      "requestid": "c7d24af3-d481-43f5-bb80-6de8062d9552",
+      "confidence": "0.7770423",
+      "timestamp": 700.45,
+      "content": "so then I got more frustrated well let me tell you some I surely hope nothing happens tomorrow",
+      "speaker": "S107"
+    },
+    "706.3": {
+      "requestid": "51ceead0-42d0-431e-a5a0-4ec11ee68b0f",
+      "confidence": "0.8299139",
+      "timestamp": 706.3,
+      "content": "but if it does I'm not gonna be the person to stand before board of inquiry",
+      "speaker": "S107"
+    },
+    "711.32": {
+      "requestid": "00f746cd-c06a-4e7a-bba6-19050b6b5284",
+      "confidence": "0.7858834",
+      "timestamp": 711.32,
+      "content": "explain why I gave you permission to fly this old rock motors in the condition that I knew they were never qualified to do",
+      "speaker": "S109"
+    },
+    "718.56": {
+      "requestid": "9f5129c3-3e47-425c-a83e-381200ca195a",
+      "timestamp": 718.56,
+      "content": ""
+    },
+    "725.84": {
+      "requestid": "fc14adcd-7dbc-4bbe-998b-00c0179ae2f4",
+      "timestamp": 725.84,
+      "content": ""
+    },
+    "729.99": {
+      "requestid": "86620f0e-dac8-4f03-848d-054af7f21656",
+      "confidence": "0.7855984",
+      "timestamp": 729.99,
+      "content": "coming up on freakonomics radio you know what happens the next morning sunshine",
+      "speaker": "S111"
+    },
+    "734.25": {
+      "requestid": "e4160ca7-03c9-4f41-a9e9-84f69b289d10",
+      "confidence": "0.530836",
+      "timestamp": 734.25,
+      "content": "my controllers are looking very careful in situation obviously a major malfunction",
+      "speaker": "S112"
+    },
+    "740.84": {
+      "requestid": "a85303e6-0ac7-4428-ac7f-850118921586",
+      "confidence": "0.6459044",
+      "timestamp": 740.84,
+      "content": "the only thing I saw fly with a solid rocket boosters they were still going everything else it disappeared and huge explosion cloud in teeny pieces",
+      "speaker": "S113"
+    },
+    "753.33": {
+      "requestid": "bc49fb61-874d-4c40-98a0-6520c31658fb",
+      "confidence": "0.6933518",
+      "timestamp": 753.33,
+      "content": "and what if you could learn how you might fail without going to the trouble is actually failing so lean back in your chair it yourself",
+      "speaker": "S115"
+    },
+    "764.09": {
+      "requestid": "72dfc2cb-3bc1-4271-8e79-da34b5bbd8ab",
+      "confidence": "0.6622292",
+      "timestamp": 764.09,
+      "content": "come in just a little bit dreamy I don't want any day dreaming but I just want you ready to get to be thinking about things",
+      "speaker": "S116"
+    },
+    "771.29": {
+      "requestid": "8f28e0e4-d093-41d0-8d14-14a5be567a7d",
+      "confidence": "0.5024269",
+      "timestamp": 771.29,
+      "content": "oh",
+      "speaker": "S117"
+    },
+    "787.16": {
+      "requestid": "66135755-749a-42aa-bc6a-022b2623dfde",
+      "confidence": "0.7726647",
+      "timestamp": 787.16,
+      "content": "from wmic this is freakonomics radio here's your host stephen dubner",
+      "speaker": "S118"
+    },
+    "798.12": {
+      "requestid": "02abde93-1dbc-4f06-93c7-bca0c21c3dfe",
+      "timestamp": 798.12,
+      "content": ""
+    },
+    "799.92": {
+      "requestid": "24f6c103-b0c1-47e4-a0db-8cec77a49891",
+      "confidence": "0.7928451",
+      "timestamp": 799.92,
+      "content": "so alan mcdonald was the director of the space shuttle solid rocket motor projects for morton 5 call that company working with nasa on the challenger shuttle launch the night before the launch mcdonald recommended launch be delayed out of concern that the shuttles o ring seals might fail in the unseasonably",
+      "speaker": "S120"
+    },
+    "818.73": {
+      "requestid": "df221914-cbdb-4554-920f-6fba0193ba46",
+      "confidence": "0.8517998",
+      "timestamp": 818.73,
+      "content": "cold florida weather but mcdonald's was over ruled the next morning he walked to watch control",
+      "speaker": "S122"
+    },
+    "826.48": {
+      "requestid": "aa5744f5-c096-490e-8679-5ebd7042df66",
+      "confidence": "0.4873502",
+      "timestamp": 826.48,
+      "content": "dang my briefcase monjan my headset mother",
+      "speaker": "S123"
+    },
+    "830.05": {
+      "requestid": "e808d01a-6e1b-4cbf-af15-cd711883396b",
+      "confidence": "0.7373711",
+      "timestamp": 830.05,
+      "content": "and I was like 22 degrees and isosceles icicles hanging all over the place",
+      "speaker": "S123"
+    },
+    "836.46": {
+      "requestid": "e73535d8-553a-48b0-bf0f-e4daa67e5410",
+      "confidence": "0.6999028",
+      "timestamp": 836.46,
+      "content": "and I said to myself at the office after lunch thing today and I was the maze they finally came and said they were gonna send a team high steam out to see if they could not be iced down as much",
+      "speaker": "S123"
+    },
+    "848.21": {
+      "requestid": "b7073baf-5296-4fe1-adf9-504462a4d15b",
+      "confidence": "0.5945097",
+      "timestamp": 848.21,
+      "content": "possible to reduce the radius rest and they did they end up doing that actually twice before they finally a wind tunnel com and launched the challenge",
+      "speaker": "S127"
+    },
+    "860.59": {
+      "requestid": "76e09243-f2d3-4610-9906-5cede2c3dfd1",
+      "confidence": "0.680889",
+      "timestamp": 860.59,
+      "content": "mario kart 876 we have main engine start hey member held my breath 3",
+      "speaker": "S129"
+    },
+    "868.85": {
+      "requestid": "bc89a896-dfe8-44e9-aa06-7fa0fea3bd6f",
+      "confidence": "0.5225544",
+      "timestamp": 868.85,
+      "content": "21 at least I'm not driving lesson 20 cents a shuttle mission and it is cleaned the tower",
+      "speaker": "S130"
+    },
+    "879.88": {
+      "requestid": "22f8d1b2-d7f4-48ca-b1e2-73a5ec5963d5",
+      "timestamp": 879.88,
+      "content": ""
+    },
+    "882.81": {
+      "requestid": "fc654413-bc43-4adc-b844-0e1ab2f1c5c5",
+      "timestamp": 882.81,
+      "content": ""
+    },
+    "884.39": {
+      "requestid": "e819dbec-ab35-42a2-832a-268e33f29b01",
+      "confidence": "0.4613298",
+      "timestamp": 884.39,
+      "content": "2900 feet per second 29 north mountain range does the7.com",
+      "speaker": "S112"
+    },
+    "890.75": {
+      "requestid": "4f7a340e-b716-48ce-887e-f122d803c7d0",
+      "confidence": "0.8686961",
+      "timestamp": 890.75,
+      "content": "73 seconds later to see this thing",
+      "speaker": "S133"
+    },
+    "894.51": {
+      "requestid": "a02ba534-33c7-4caf-b049-75b64b574fb0",
+      "confidence": "0.704621",
+      "timestamp": 894.51,
+      "content": "blow up in the sky",
+      "speaker": "S133"
+    },
+    "900.31": {
+      "requestid": "f2c05117-c8fa-4b22-b270-586ca7c38353",
+      "confidence": "0.8184444",
+      "timestamp": 900.31,
+      "content": "I was in shock I say",
+      "speaker": "S131"
+    },
+    "902.64": {
+      "requestid": "9208da44-d928-4320-92a0-152dfcc3522e",
+      "confidence": "0.3289896",
+      "timestamp": 902.64,
+      "content": "blue up",
+      "speaker": "S131"
+    },
+    "906.69": {
+      "requestid": "0ce0d193-dcfc-41ee-b40c-43db71e68282",
+      "confidence": "0.8148866",
+      "timestamp": 906.69,
+      "content": "my heart sank just like everybody in the control room and I can hear people sobbing the background",
+      "speaker": "S107"
+    },
+    "912.01": {
+      "requestid": "62eb5ce5-9c2a-4c01-8794-a546c9916549",
+      "confidence": "0.5264869",
+      "timestamp": 912.01,
+      "content": "I controllers are looking very carefully put shoe ation",
+      "speaker": "S112"
+    },
+    "918.27": {
+      "requestid": "4a03b7f5-3e88-4fe5-901d-507a69216864",
+      "confidence": "0.5854513",
+      "timestamp": 918.27,
+      "content": "obviously a major malfunction",
+      "speaker": "S112"
+    },
+    "920.66": {
+      "requestid": "04190a4c-cc4d-403f-bae8-7d6c7fb61a35",
+      "confidence": "0.6945753",
+      "timestamp": 920.66,
+      "content": "and I kept hearing this voice over the network saying archeal srt alasht which is returnal on site not getting response back from the arbiter",
+      "speaker": "S127"
+    },
+    "930.23": {
+      "requestid": "0817e4ba-3755-446d-b51a-c82a2f3034c3",
+      "confidence": "0.758835",
+      "timestamp": 930.23,
+      "content": "the only thing I saw flying with a solid rocket boosters they were still going everything else to disappear dnis huge explosion cloud in teeny pieces",
+      "speaker": "S127"
+    },
+    "942.4": {
+      "requestid": "5c5d3973-bff7-4d4d-932b-ae64b0ce20d7",
+      "confidence": "0.5777828",
+      "timestamp": 942.4,
+      "content": "we have a report from levi dinamico for that vehicle has exploded by director confirm that we're looking after checking with a recovery forces to see you at work can be done at this point",
+      "speaker": "S139"
+    },
+    "956.43": {
+      "requestid": "c14d7dec-6e90-4c34-a32a-e270a6129977",
+      "confidence": "0.6090247",
+      "timestamp": 956.43,
+      "content": "no way they could survive that and I've been and are they did abby sleep",
+      "speaker": "S140"
+    },
+    "963.11": {
+      "requestid": "18f85e20-eee8-4530-bc66-906a72a67ddb",
+      "timestamp": 963.11,
+      "content": ""
+    },
+    "967.48": {
+      "requestid": "7a7af922-3946-4829-84fc-27f8c4b55564",
+      "confidence": "0.6654398",
+      "timestamp": 967.48,
+      "content": "at that point mcdonald's is the cause of the explosion was unknown",
+      "speaker": "S142"
+    },
+    "973.49": {
+      "requestid": "af30bdd1-6a2c-480e-bba0-597cdf4c9c61",
+      "confidence": "0.7914817",
+      "timestamp": 973.49,
+      "content": "where to do not copy anything offspring are all frozen they locked the doors they cut all the telephone lines",
+      "speaker": "S143"
+    },
+    "981.95": {
+      "requestid": "6ac61543-4d85-4ae0-9dbb-c0bdb840d724",
+      "confidence": "0.7393708",
+      "timestamp": 981.95,
+      "content": "so nobody can talk to anybody about the meeting saying that all the date it would be considered secret",
+      "speaker": "S143"
+    },
+    "988.67": {
+      "requestid": "8c51c360-b2bb-49ef-aca2-96a00e7ca3e3",
+      "confidence": "0.6110914",
+      "timestamp": 988.67,
+      "content": "and I will be watching until the next day that I really feel like twitter app",
+      "speaker": "S143"
+    },
+    "993.47": {
+      "requestid": "1884a241-7a2e-47cc-bca6-e3ee02cb4fd4",
+      "confidence": "0.7497584",
+      "timestamp": 993.47,
+      "content": "in the days after the accident mcdonald's as a review of the data showed the cause of the explosion to be what he had feared might happen BO rings failed to hold their seal in the cold temperature not exactly what happened",
+      "speaker": "S142"
+    },
+    "1008.84": {
+      "requestid": "637e0bcd-cc5d-4f83-a1f8-4070a0cb426e",
+      "confidence": "0.7252758",
+      "timestamp": 1008.84,
+      "content": "this cause was later made official buy a presidential commission to with alan mcdonald contribute testimony in the televised portion of the hearings the physicist richard feynman famously demonstrated the cause of the failure by dropping the o rings into some ice porn",
+      "speaker": "S142"
+    },
+    "1026.4": {
+      "requestid": "a1af677e-e256-4b37-818d-277f78cb91e0",
+      "confidence": "0.5851865",
+      "timestamp": 1026.4,
+      "content": "like the stuff that I got out of your shield I put it nice for my discover that when you put some pressure on it roll out ahead and do it maintains it doesn't stretch by it stays the same dimension another word",
+      "speaker": "S151"
+    },
+    "1042.82": {
+      "requestid": "e154863e-35d6-4a9b-983f-6e4361b87d5a",
+      "confidence": "0.6420184",
+      "timestamp": 1042.82,
+      "content": "for a few seconds at least 10 more seconds",
+      "speaker": "S151"
+    },
+    "1045.95": {
+      "requestid": "57b3d120-d7ea-45bb-b4f5-2ffc6757fe9b",
+      "confidence": "0.5122337",
+      "timestamp": 1045.95,
+      "content": "bisnow resilience in this particular material",
+      "speaker": "S151"
+    },
+    "1049.02": {
+      "requestid": "b73338f0-eb38-418b-bb30-c3f966041e19",
+      "confidence": "0.8229781",
+      "timestamp": 1049.02,
+      "content": "when is the temperature 32 degrees I believe that has some significance",
+      "speaker": "S151"
+    },
+    "1057.57": {
+      "requestid": "51c3c2c9-b3e4-4875-be82-83ba7deee43b",
+      "confidence": "0.8197345",
+      "timestamp": 1057.57,
+      "content": "no course allen mcdonald's already knew that at least that's what he was worried might happen and that's what makes the challenger explosion so remarkable even more tragic and it was the people in the know me some of them",
+      "speaker": "S106"
+    },
+    "1071.82": {
+      "requestid": "fb9e1c15-0817-43c0-861f-cf6936a5a058",
+      "confidence": "0.6838207",
+      "timestamp": 1071.82,
+      "content": "had foreseen the exact cause of failure so why even with that warning did nasa pushan",
+      "speaker": "S106"
+    },
+    "1079.92": {
+      "requestid": "6bfa8dba-c88d-4796-bedc-bb719280942e",
+      "confidence": "0.7134584",
+      "timestamp": 1079.92,
+      "content": "what really happened with typical I think in large beer credit card is ation zinnen any big organization",
+      "speaker": "S107"
+    },
+    "1087.16": {
+      "requestid": "a5a3cf52-5931-4569-82f1-a74f956030ff",
+      "confidence": "0.8054499",
+      "timestamp": 1087.16,
+      "content": "where is your frankly trying to be a hero in doing your job at nasa had 2 strikes against it from the start which one of those is they were too successful",
+      "speaker": "S107"
+    },
+    "1098.77": {
+      "requestid": "66998413-7936-476a-9bf1-b9be80944686",
+      "confidence": "0.7372294",
+      "timestamp": 1098.77,
+      "content": "they had gotten by for a quarter century now and never lost a single person go to space what is considered very hazardous thing to do",
+      "speaker": "S107"
+    },
+    "1107.75": {
+      "requestid": "0ec259d2-7c15-44fe-abd0-7878cb0d138b",
+      "confidence": "0.7342626",
+      "timestamp": 1107.75,
+      "content": "and they had rescued the apollo 13 halfway to the moon part of the vehicle blew up",
+      "speaker": "S107"
+    },
+    "1113.91": {
+      "requestid": "3f101922-5dd4-4f85-b99c-ad0045e019b1",
+      "confidence": "0.7799498",
+      "timestamp": 1113.91,
+      "content": "sing like it was impossible task but they did it so how could this cold o ring 'cause problem when they had done so much over the past years to be successful so give you a little bit of a eragon she shouldn't have an huge amount of money involved but they had",
+      "speaker": "S107"
+    },
+    "1131.66": {
+      "requestid": "1285a438-d40e-4964-9ee5-46f58d69c1b5",
+      "confidence": "0.6288678",
+      "timestamp": 1131.66,
+      "content": "cambodia in a dish preston so you really had to quote prove it would fail nobody could do that",
+      "speaker": "S165"
+    },
+    "1139.26": {
+      "requestid": "2fe1578b-a31c-4cf3-aad1-4b5455bd9aa8",
+      "confidence": "0.9029043",
+      "timestamp": 1139.26,
+      "content": "who",
+      "speaker": "S166"
+    },
+    "1146.47": {
+      "requestid": "ea49c496-820e-47cc-857e-f447bc3b7f13",
+      "confidence": "0.7379076",
+      "timestamp": 1146.47,
+      "content": "you might think it's a rare case when a group of decision makers know with such precision just want to go wrong with a project but is it what is",
+      "speaker": "S111"
+    },
+    "1155.02": {
+      "requestid": "473a68ec-bcb3-4dc1-8c52-d507d27aaacb",
+      "confidence": "0.792781",
+      "timestamp": 1155.02,
+      "content": "there were a way to peek around the corner on any project to see if it's destined to fail at it if you could learn how old you might fail without going to the trouble with actually feeling a bike meet gary klein",
+      "speaker": "S111"
+    },
+    "1172.44": {
+      "requestid": "55c94c05-6cc2-4db9-ab21-a37012930186",
+      "confidence": "0.7651002",
+      "timestamp": 1172.44,
+      "content": "cousin of psychologist I got my phd I'm back in 1969 experimental psychology",
+      "speaker": "S116"
+    },
+    "1179.03": {
+      "requestid": "fbb64344-1086-44f1-9311-ad0e7b2ccaf9",
+      "confidence": "0.6331295",
+      "timestamp": 1179.03,
+      "content": "find most recent book is seeing what others don't remarkable ways to gain insights estudies decision making it specially how people make decisions in real settings like the challenger launch",
+      "speaker": "S173"
+    },
+    "1192.59": {
+      "requestid": "4d5d79ed-c11f-4e73-bd32-4aee036502ff",
+      "confidence": "0.6966606",
+      "timestamp": 1192.59,
+      "content": "the challenger incident has been intensely studied incerteza a wonderful object lesson are we so I hear what is repression of of consequences that you didn't wanna have to deal with because it would've been so inconvenient so",
+      "speaker": "S175"
+    },
+    "1208.26": {
+      "requestid": "a2ff367b-b8fe-46eb-9ded-ac31ccf3ba3c",
+      "confidence": "0.8497302",
+      "timestamp": 1208.26,
+      "content": "we make the argument and r block that there's a a general reluctance to quit word untangle ursell from projects or relationships are wet not",
+      "speaker": "S179"
+    },
+    "1219.1": {
+      "requestid": "8cb09c70-6350-4a48-aaaf-c927c8f4efb9",
+      "confidence": "0.8540612",
+      "timestamp": 1219.1,
+      "content": "and that that's in part because failure is seen as such a stigma no one wants to we don't wanna quit because we don't wanna be seen as having failed",
+      "speaker": "S179"
+    },
+    "1229.44": {
+      "requestid": "fd87b960-97b3-47ec-ae30-2f3afe88b593",
+      "confidence": "0.8326593",
+      "timestamp": 1229.44,
+      "content": "insulet spoke first of all about the stigma of failure do you think it deserves it or do you think we should rethink the way we consider failure generally",
+      "speaker": "S179"
+    },
+    "1239.85": {
+      "requestid": "02c39155-3066-4d5a-97fb-e4bf9025b82d",
+      "confidence": "0.7302306",
+      "timestamp": 1239.85,
+      "content": "well that is the standard line is bad double ear fell off into get smarter and you fell in productive ways in which the wave building mental models in all of those things are true",
+      "speaker": "S184"
+    },
+    "1253.69": {
+      "requestid": "c498fc01-4eb8-4f9e-b34c-27139d064b4e",
+      "confidence": "0.7552035",
+      "timestamp": 1253.69,
+      "content": "so how can failure be made more from gary klein has one idea which I think is pretty brilliant it cold cream or did you actually heard about post mortem at the process by which you figure out what exactly killed say hospital patient or maybe a big project",
+      "speaker": "S186"
+    },
+    "1273.3": {
+      "requestid": "62e291a7-fb9d-4121-b9af-351d94f5e50d",
+      "confidence": "0.6102269",
+      "timestamp": 1273.3,
+      "content": "berada glee everybody benefits from the knowledge he gathered during postmormon",
+      "speaker": "S186"
+    },
+    "1278.13": {
+      "requestid": "58aad617-00f8-4f61-b47e-be0443fed2f4",
+      "confidence": "0.6824493",
+      "timestamp": 1278.13,
+      "content": "everybody out except the patient with the patient is dead the idea for pre mortem is to try to run to the process before the patient dies",
+      "speaker": "S116"
+    },
+    "1286.46": {
+      "requestid": "42e5721a-565e-48bd-be86-31795cd7f4e1",
+      "confidence": "0.7888626",
+      "timestamp": 1286.46,
+      "content": "but the patient in this case we should say is not a human but the project or a product or something like that correct exact",
+      "speaker": "S191"
+    },
+    "1293.9": {
+      "requestid": "63d743a9-49fb-4221-9605-519ddecf8596",
+      "confidence": "0.4553953",
+      "timestamp": 1293.9,
+      "content": "zachary with a pre board",
+      "speaker": "S186"
+    },
+    "1296.0": {
+      "requestid": "e77c20ea-dd40-48eb-9611-17b1b91ea76f",
+      "confidence": "0.7129451",
+      "timestamp": 1296.0,
+      "content": "you try to find out what might go wrong support goes wrong how does this work gary klein will walk through it",
+      "speaker": "S186"
+    },
+    "1304.64": {
+      "requestid": "f14d0a22-d7f7-4a1e-a60f-c9e414a8b26b",
+      "confidence": "0.7814695",
+      "timestamp": 1304.64,
+      "content": "men do you work for a company is about to launch some big projects that you in awhile but it's been working on for months maybe years but before you launch find gathers all be important team members in the group",
+      "speaker": "S186"
+    },
+    "1319.33": {
+      "requestid": "666a5ab9-bcc8-4132-a16b-61540f3426f7",
+      "confidence": "0.7572463",
+      "timestamp": 1319.33,
+      "content": "I need you to be in a relaxed state of mind so lean back in your chair it yourself calm and just a little bit rainy I don't want any day dreaming but I just want you ready to",
+      "speaker": "S116"
+    },
+    "1332.11": {
+      "requestid": "9f85723a-a127-4bd0-9a29-25a85381bc9c",
+      "confidence": "0.6115505",
+      "timestamp": 1332.11,
+      "content": "to be thinking about things and looking in a crystal ball and a 00 gosh",
+      "speaker": "S116"
+    },
+    "1340.47": {
+      "requestid": "d77db209-cd2b-485d-9732-12ee3e012754",
+      "confidence": "0.7191181",
+      "timestamp": 1340.47,
+      "content": "image in a crystal ball is a really ugly image is this is 6 month effort",
+      "speaker": "S116"
+    },
+    "1346.55": {
+      "requestid": "c96c14d3-7ce2-4834-b86c-502c2420e62f",
+      "confidence": "0.7413931",
+      "timestamp": 1346.55,
+      "content": "we are now 3 months into the effort in this clear this project has failed is no doubt about it is no way that it's going to succeed oh and I'm looking at another seen a few months later project is over and you don't even wanna talk about it and when we pass each other in the hall",
+      "speaker": "S116"
+    },
+    "1366.07": {
+      "requestid": "05e4dd79-7e68-4a29-8cbc-f41ebe85b5f6",
+      "confidence": "0.8025914",
+      "timestamp": 1366.07,
+      "content": "you don't even make eye contact is that painful ok so this project has failed no doubt about it",
+      "speaker": "S116"
+    },
+    "1374.79": {
+      "requestid": "74ddcee8-84d0-4a15-b75b-1e584737a2fc",
+      "timestamp": 1374.79,
+      "content": ""
+    },
+    "1377.39": {
+      "requestid": "ab829235-6ee1-4112-97d4-ef829381dc36",
+      "confidence": "0.7264985",
+      "timestamp": 1377.39,
+      "content": "for the next 2 minutes and I'm gonna time is the next 2 minutes I want each of you to write down all the reasons why this project is fail me know which failed no doubts write down why it failed",
+      "speaker": "S205"
+    },
+    "1391.66": {
+      "requestid": "a9f7c826-1ef1-4303-83f8-755efee0a312",
+      "confidence": "0.6756872",
+      "timestamp": 1391.66,
+      "content": "I keep the script o'clock because we don't wanna chew up too much time on this to see everybody is writing and I say there's 20 seconds to go in the writing faster <profanity>pussy</profanity> trying to get everything in",
+      "speaker": "S205"
+    },
+    "1403.1": {
+      "requestid": "d1a7985a-0fe1-47ea-be67-2c502e642280",
+      "confidence": "0.7707673",
+      "timestamp": 1403.1,
+      "content": "and now 5 seconds and then ok finish this sentence and then pencil suck",
+      "speaker": "S205"
+    },
+    "1407.96": {
+      "requestid": "85f1d06f-f0ef-4dc4-99a4-204f56705fff",
+      "timestamp": 1407.96,
+      "content": ""
+    },
+    "1413.29": {
+      "requestid": "682e92e1-c362-48c9-a4d5-e9fceec22214",
+      "confidence": "0.5691769",
+      "timestamp": 1413.29,
+      "content": "no climate around the room and ask for one item from each persons list and they compile card log all the way is the project mcfail klein calls this respect if hindsight what is it accomplish",
+      "speaker": "S186"
+    },
+    "1426.64": {
+      "requestid": "e817fb05-57ed-4629-b200-dcf7341175d2",
+      "confidence": "0.6344224",
+      "timestamp": 1426.64,
+      "content": "really reduces overconfidence and people are usually way too confident is beginning of the projects of the premortem temper's that overconfidence",
+      "speaker": "S116"
+    },
+    "1436.55": {
+      "requestid": "76dfae3b-f557-4881-84b3-d34f917d8a34",
+      "confidence": "0.7417838",
+      "timestamp": 1436.55,
+      "content": "no climate ask if you in the room to think of one thing they could do to help the project",
+      "speaker": "S186"
+    },
+    "1441.86": {
+      "requestid": "4f6249e8-9491-43b4-b1ca-b65e509de2b2",
+      "confidence": "0.8142176",
+      "timestamp": 1441.86,
+      "content": "and then we go round the room to see why people are planning to do that they hadn't thought of before to try to make it more successful tell you put a happy ending on a potentially sad story exactly as we're trying to do without sugar coating the problems that the faces",
+      "speaker": "S175"
+    },
+    "1456.87": {
+      "requestid": "1b299daf-f2dd-4bdf-a468-083e65b2aedd",
+      "timestamp": 1456.87,
+      "content": ""
+    },
+    "1467.14": {
+      "requestid": "67a533eb-cae3-4e3e-8b93-3384c7cc1ae2",
+      "confidence": "0.7994996",
+      "timestamp": 1467.14,
+      "content": "now here's an obvious question if you are running a pre mortem and everybody involved with the project is able to come up with a few ways in which the product might fail",
+      "speaker": "S186"
+    },
+    "1476.08": {
+      "requestid": "2bbc5cbe-361d-4370-b50f-db793b3aadb0",
+      "confidence": "0.7939901",
+      "timestamp": 1476.08,
+      "content": "why are these potential problems on coming up now on the project is about to launch gary klein says that's because the pre mortem liberat my I do I'd be afraid of looking like they're not a",
+      "speaker": "S186"
+    },
+    "1488.02": {
+      "requestid": "6725d904-821a-4789-84d2-4eeb71af5983",
+      "confidence": "0.748027",
+      "timestamp": 1488.02,
+      "content": "team player because now everybody's being asked think about failure so instead of looking like a bad teammate you are pulling in the same direction there buddy app",
+      "speaker": "S186"
+    },
+    "1498.17": {
+      "requestid": "6e4f26e2-5708-4fa1-994e-989af6b08f95",
+      "confidence": "0.7528877",
+      "timestamp": 1498.17,
+      "content": "now that the man characteristic is show me how smart you are show me how clever you are and how experienced you are by identifying things that we need to worry about",
+      "speaker": "S116"
+    },
+    "1508.19": {
+      "requestid": "9faa1a6d-78c5-4119-993d-382261ed7629",
+      "confidence": "0.7627029",
+      "timestamp": 1508.19,
+      "content": "I'm tristan know how well the",
+      "speaker": "S173"
+    },
+    "1511.29": {
+      "requestid": "c6d4569b-9908-4510-82f5-18a9bc171fa7",
+      "confidence": "0.8616374",
+      "timestamp": 1511.29,
+      "content": "free mordum is catching on because I feel like whenever I describe it to a group of people smaller large dirt blown away by it I love the idea",
+      "speaker": "S179"
+    },
+    "1522.1": {
+      "requestid": "49240818-d757-42fb-9229-43d6ba46d3f4",
+      "confidence": "0.8317027",
+      "timestamp": 1522.1,
+      "content": "and very few of them have heard of it so I'm curious for an idea that sounds so great sense of practical up why hasn't taken over the world bit more",
+      "speaker": "S179"
+    },
+    "1534.73": {
+      "requestid": "695a310e-7d66-4a00-af60-b0b4dc3e3262",
+      "confidence": "0.5591987",
+      "timestamp": 1534.73,
+      "content": "it's very kind of you I'm",
+      "speaker": "S184"
+    },
+    "1537.57": {
+      "requestid": "2ddd9bfa-51e0-45dd-91a3-01d2e428fbd5",
+      "confidence": "0.7978759",
+      "timestamp": 1537.57,
+      "content": "I am I'm not entirely sure I think one reason is we have not gone out of her way to publicize it this is just kind of activity that grew up out of her own practice and we would just doing it internally and after that",
+      "speaker": "S184"
+    },
+    "1551.08": {
+      "requestid": "ef0b92d4-16cc-4005-8ab3-a2170b659130",
+      "confidence": "0.7942027",
+      "timestamp": 1551.08,
+      "content": "we would do it with a few on project managers in the sponsors and they said can you use it with some of our other projects even though you're not involved so I buy some see it the other way I'm surprised at how many people are using ha ha ha",
+      "speaker": "S184"
+    },
+    "1565.47": {
+      "requestid": "f1326a14-3ce8-4612-add5-e2755f23e7ee",
+      "confidence": "0.7314643",
+      "timestamp": 1565.47,
+      "content": "I hear about people using an old navy and another body ever mentioned it to me so I'm impressed I just got this much mileage is it has",
+      "speaker": "S184"
+    },
+    "1582.15": {
+      "requestid": "a5845cd7-108e-451b-9f2f-53683ffedba2",
+      "timestamp": 1582.15,
+      "content": ""
+    },
+    "1586.49": {
+      "requestid": "959fca03-47d0-4386-a7aa-2fd484d3694c",
+      "confidence": "0.530948",
+      "timestamp": 1586.49,
+      "content": "I would like to steve levitt with a couple questions",
+      "speaker": "S232"
+    },
+    "1590.6": {
+      "requestid": "6b31f1fd-51d4-4ea0-bda0-dd49f3d44667",
+      "confidence": "0.6985051",
+      "timestamp": 1590.6,
+      "content": "why do you think of such a stigma associated with failure generally I think to be willing to accept failure you have to have self that time you have to be accepting of the id a bad feeling isn't it",
+      "speaker": "S233"
+    },
+    "1606.59": {
+      "requestid": "e9c5270e-ede3-472b-96fd-0c039b944ac1",
+      "confidence": "0.7245639",
+      "timestamp": 1606.59,
+      "content": "doesn't define do you are feeling get something out of the way that keep you from finding the thing that you're actually going to be good rn mean like we're spoiled by you and I both have stumbled onto a lot of success in this so much easier",
+      "speaker": "S236"
+    },
+    "1620.04": {
+      "requestid": "431bda61-3ecb-4fcf-98d3-6747f4fba6cd",
+      "confidence": "0.7373239",
+      "timestamp": 1620.04,
+      "content": "to be terribly things to do with me in terra bowl win in other part of your life you get rewarded people in writing letters and tell your grade up I think it's easy for us to accept fire in and honestly you know I think I've gotten much better they got older",
+      "speaker": "S236"
+    },
+    "1635.3": {
+      "requestid": "c7661729-6632-41b7-bbf0-374b99e2cdb8",
+      "confidence": "0.6854227",
+      "timestamp": 1635.3,
+      "content": "ebinger laugh at myself I was really into care for along time I wanna show people at 7 I think about a guy name and I off of a laptop when I do stupid things that I left the hardest",
+      "speaker": "S236"
+    },
+    "1646.91": {
+      "requestid": "76e238a4-2fb8-4c10-8e3a-d1714f17a68b",
+      "confidence": "0.8103211",
+      "timestamp": 1646.91,
+      "content": "so what's the strategy if you're the ceo if you another ceo even if you the ceo of a 2 person operation listening to this what is the strategy to encourage people to acknowledge that failure may happen in that would be much better off dealing with a failure beforehand and after",
+      "speaker": "S242"
+    },
+    "1662.55": {
+      "requestid": "f7f74b4e-e74a-4699-819d-66621457eb3d",
+      "confidence": "0.7172816",
+      "timestamp": 1662.55,
+      "content": "I think the only credible way to make fillier acceptable is to celebrate failure I know if my little from tvd the greatest good we had our greatest failure active turned out to be our greatest success I think in terms of real building winner",
+      "speaker": "S236"
+    },
+    "1678.21": {
+      "requestid": "aacf82b4-b2c4-4c78-8c8f-daa71c75142a",
+      "confidence": "0.6770018",
+      "timestamp": 1678.21,
+      "content": "yes give a speech one more client and I am I told the truth in that speech and it led tr bing fire at the very next day the jackets of the company that are not worth it interesting hearing the truth",
+      "speaker": "S236"
+    },
+    "1689.85": {
+      "requestid": "cddd066e-26a9-4a22-bd37-257efc28ee14",
+      "confidence": "0.7324808",
+      "timestamp": 1689.85,
+      "content": "and unceremoniously to email we were fired from one of our biggest accounts and um the thing was that I we celebrated my patches britain celebrate we really celebrated because our viewers",
+      "speaker": "S236"
+    },
+    "1701.78": {
+      "requestid": "544b98bf-67ec-466e-8682-9e490e348cb0",
+      "confidence": "0.8605401",
+      "timestamp": 1701.78,
+      "content": "is no point in staying up all night working on projects for clients if they don't appreciate it but don't wanna hear the truth then how in the world we wanna spend your life doing this work",
+      "speaker": "S236"
+    },
+    "1711.96": {
+      "requestid": "55cb9a31-dfb5-4888-b508-d27da5cd859a",
+      "confidence": "0.7706522",
+      "timestamp": 1711.96,
+      "content": "and what happen with the people at at our little firm I think they would've thought we be upset and it wasn't me the other people ran from we could've been happier in we broke up then why do we celebrate the fact that when the biggest companies in the world did this had to fire is because we tell the truth",
+      "speaker": "S236"
+    },
+    "1726.28": {
+      "requestid": "9a8f32aa-51cf-46d0-be50-2f4f47490f10",
+      "confidence": "0.7871362",
+      "timestamp": 1726.28,
+      "content": "and I think you know wanna things that you and I really come to believe overtime is it really not for most people about money or something bigger that that if you gonna work hard and do something it's about the pride in the joy of feeling like a part of something bigger something exciting",
+      "speaker": "S236"
+    },
+    "1740.75": {
+      "requestid": "7c2b3971-a790-4fb0-b806-ccfee6776492",
+      "confidence": "0.7956105",
+      "timestamp": 1740.75,
+      "content": "and the folks who worked it out lochfield am actually felt that day that it was about something bigger that we were about the truth we are about him doing good work in and it's hard to do in a business setting",
+      "speaker": "S236"
+    },
+    "1752.48": {
+      "requestid": "bf6b8755-18ad-4840-9e08-1c4191f1ad62",
+      "confidence": "0.4805796",
+      "timestamp": 1752.48,
+      "content": "but it was it now on I want to get up this get in but it kinda medical",
+      "speaker": "S233"
+    },
+    "1758.51": {
+      "requestid": "d6c46f87-3d54-4273-bf8b-574e192d334d",
+      "timestamp": 1758.51,
+      "content": ""
+    },
+    "1763.45": {
+      "requestid": "5be53269-e468-4d7e-ac69-625a71418c65",
+      "timestamp": 1763.45,
+      "content": ""
+    },
+    "1770.84": {
+      "requestid": "feda4557-b837-4446-bebe-124f00b28f0d",
+      "confidence": "0.7154383",
+      "timestamp": 1770.84,
+      "content": "a pocket passers on the next week and I miss radio time is the world cup every sports fan in america bring my 13 year old son try to get excited",
+      "speaker": "S191"
+    },
+    "1781.35": {
+      "requestid": "1db9df1d-0a3d-44c8-812a-e7785500a0d2",
+      "confidence": "0.2253748",
+      "timestamp": 1781.35,
+      "content": "that song sucked",
+      "speaker": "S232"
+    },
+    "1784.0": {
+      "requestid": "cdd68cf6-1409-485e-8cb2-8571ebbeee97",
+      "confidence": "0.7328122",
+      "timestamp": 1784.0,
+      "content": "you don't let me say the word soccer do you know I did",
+      "speaker": "S232"
+    },
+    "1788.36": {
+      "requestid": "f0a6ab16-03c4-4dc0-8259-50095410cf2e",
+      "confidence": "0.7845296",
+      "timestamp": 1788.36,
+      "content": "do you hear from football fanatics including andrew luck quarterback for the american football team indianapolis colts you ask him what it will take to finally turned us into a fight with you loving nation",
+      "speaker": "S191"
+    },
+    "1801.3": {
+      "requestid": "2b11b24b-6d4d-403e-b362-619bb956cb3a",
+      "confidence": "0.7557775",
+      "timestamp": 1801.3,
+      "content": "I need more of a pipe piper would be a us national team to win in the world cup <profanity>dildo</profanity> as we know it we love winners in this country",
+      "speaker": "S270"
+    },
+    "1809.64": {
+      "requestid": "b8f8b794-73c2-4ba0-b1a6-373b697b43d6",
+      "confidence": "0.8099403",
+      "timestamp": 1809.64,
+      "content": "world cup fever and why we don't catch it next time I'm at radio",
+      "speaker": "S191"
+    },
+    "1821.73": {
+      "requestid": "0d5213d4-fbbd-49a6-9680-e46bd6de8f69",
+      "confidence": "0.7680278",
+      "timestamp": 1821.73,
+      "content": "freakonomics radio is produced byWNYCN.net production",
+      "speaker": "S20"
+    },
+    "1826.58": {
+      "requestid": "22e3c965-7f46-4f7f-a38d-ec8a2316ad16",
+      "confidence": "0.6583651",
+      "timestamp": 1826.58,
+      "content": "our staff include david herman greg rozalski readercon bourail am susie lechtenberg in crispins in with engineering help ramgen break if you want more freakonomics radio you can subscribe to podcasts on itunes or so tofreakonomics.com",
+      "speaker": "S20"
+    },
+    "1842.1": {
+      "requestid": "4f67ff29-7b88-4fd4-bf71-963bd2329efe",
+      "confidence": "0.5034837",
+      "timestamp": 1842.1,
+      "content": "will find lots of radio log book in morn",
+      "speaker": "S20"
+    },
+    "1856.05": {
+      "requestid": "4ff75321-5bb7-44fe-8ffa-fdc57a491f3e",
+      "timestamp": 1856.05,
+      "content": ""
+    },
+    "1863.4": {
+      "requestid": "6b2be944-130b-4f95-bc59-7f4feb7bb462",
+      "confidence": "0.8007802",
+      "timestamp": 1863.4,
+      "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
+      "speaker": "S279"
+    },
+    "1882.59": {
+      "requestid": "fa22da73-d9a8-4253-9fb4-a07c5d6eca21",
+      "confidence": "0.8944414",
+      "timestamp": 1882.59,
+      "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
+      "speaker": "S279"
+    }
+  }
+}
