@@ -13,35 +13,23 @@ build:
         name: checkout the tomecast-web repo
         code: git clone https://github.com/tomecast/tomecast-web.git
 
-    # todo: move the tomecast-podcast content into the correct structure
     - script:
         name: populate structure
         code: |
-            rsync -r --exclude=.gitignore --exclude=README.md tomecast-podcasts/* tomecast-web/content/
-            cd tomecast-web/content
-            rm -rf .gitignore
-
-            # copy the metadata files into the data folder.
-            find * -type d -exec mv -n -- {}/metadata.json ../data/{}.json \;
-
-            # copy the cover art to the static/img/covers folder
-            find * -type d -exec mv -n -- {}/cover.jpg ../static/img/covers/{}.jpg \;
-
-            #for the content files, make sure that we rename the extension to md, instead of json so that hugo will process them.
-            cd ../ && find ./content -type f -name "*.json" -print0 | xargs -0 rename 's/.json$/.md/'
+            cd tomecast-web/
+            ruby _preprocessor.rb
 
             echo "data folder structure"
-            ls -alt data
+            ls -alt _data
 
             echo "content folder"
-            ls -alt content
+            ls -alt podcasts
 
-    # todo: generate the static site using hugo
     - script:
-        name: hugo process site
+        name: jekyll process site
         code: |
-            hugo version
-            cd tomecast-web && hugo -v
+            jekyll version
+            jekyll build --source tomecast-web
 deploy:
     steps:
     - script:
