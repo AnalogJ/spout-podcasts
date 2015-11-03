@@ -4,1552 +4,1776 @@
   "description": "<p>Doctors, chefs, and other experts are much more likely than the rest of us to buy store-brand products. What do they know that we don’t?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/RhL5vBSMrOE/freakonomics_podcast091114.mp3",
   "slug": "How-to-Save--1-Billion-Without-Even-Trying",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "43a0f430-4eb9-4560-8b7e-d32f289c75d5",
       "confidence": "0.7689092",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu working to help bring business stories and brands to life to arrange a printed pronox my business cards flyers stickers and postcards also offering design templates and the option to upload a personal design more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f0f436ba-6460-4a23-aed3-115fafafbf8e"
     },
-    "17.23": {
+    {
       "requestid": "3e8fdf23-83f3-47fd-a049-8465de9baeda",
       "confidence": "0.85719",
       "timestamp": 17.23,
       "content": "freakonomics radio is supported by brain tree brain trees new b dot OSDK makes it easy to support multiple mobile payment types with one simple integration to learn more and try another sandbox go to brain treepayments.com slash freak",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "e46d314a-69fb-40df-b266-5b9f4907d293"
     },
-    "38.64": {
+    {
       "requestid": "bd47caba-5a25-48ec-b6cf-923c71a5a880",
       "confidence": "0.7364876",
       "timestamp": 38.64,
       "content": "we recently held up peanut butter and jelly sandwich taste test here at wmic where we record our show",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "d1620036-3a57-4d62-8dd2-782ff9b8351f"
     },
-    "46.01": {
+    {
       "requestid": "6d4b05af-e495-4592-899d-7376f90ac949",
       "confidence": "0.603117",
       "timestamp": 46.01,
       "content": "2 guys just bring episode about um premium brandesburton storebrand came in so we sears tuberosa sandwiches wanna play my play there",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "27e58ac2-855e-46a1-9032-f438a253cc3b"
     },
-    "56.42": {
+    {
       "requestid": "e7dd8492-f7e6-4b9b-846b-fcac37c45a64",
       "confidence": "0.8849946",
       "timestamp": 56.42,
       "content": "in one on the board and play it there ok",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "0b5ca014-6339-4c37-9336-cb03ab696d7e"
     },
-    "59.31": {
+    {
       "requestid": "ad1fb3b2-6a2b-4765-8478-a057917b445e",
       "confidence": "0.7835732",
       "timestamp": 59.31,
       "content": "and the sandwiches are made with either",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "7dc35576-a5d4-4cb9-b52e-4930a0c67e5d"
     },
-    "62.16": {
+    {
       "requestid": "1e5d2710-5333-4a90-8395-89641cf2a69b",
       "confidence": "0.6705769",
       "timestamp": 62.16,
       "content": "freemium skippy creamy and the smuckers strawberry preserves so any nut allergies are",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "a8b918e1-dc97-4b18-b3b8-f5cc223ad5bc"
     },
-    "68.34": {
+    {
       "requestid": "3ecb29f6-2a73-4f4a-b845-8a9cb2858a25",
       "confidence": "0.7332035",
       "timestamp": 68.34,
       "content": "verbal waivers if you die not a problem",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "440addcc-2c55-4d7b-9931-d46cbef4490d"
     },
-    "71.55": {
+    {
       "requestid": "f1aedb0b-4fff-420f-aadc-1f9f0e464fe1",
       "confidence": "0.5251368",
       "timestamp": 71.55,
       "content": "it'll be fine thin layer",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "f8d539c6-dc73-4a07-95b9-0a7d252143a2"
     },
-    "76.58": {
+    {
       "requestid": "d4e65b07-ee17-4923-b855-9297bb262703",
       "confidence": "0.6338042",
       "timestamp": 76.58,
       "content": "tend to be a bit b storebrand sandwiches r um shop rite peanut butter creamy they put their addictive lance peanut butter creamy",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "6e6bbcf7-6bce-4dee-83a2-381e8edd1e97"
     },
-    "86.24": {
+    {
       "requestid": "9693bc45-06ff-4040-8262-61a78388261e",
       "confidence": "0.617837",
       "timestamp": 86.24,
       "content": "anaam strawberry preserves shop rite in the bread is identical it's been bo",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "2c8dd639-d0d3-4c46-b265-0b6a2c644ce1"
     },
-    "92.23": {
+    {
       "requestid": "6a4ac7cc-6171-4f9a-8e7a-852e3fdcedf2",
       "confidence": "0.8460848",
       "timestamp": 92.23,
       "content": "so really I'm all we want is for you to eat one of each and tell us which one you prefer and why",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "58c5ec82-5236-4b7d-8f0e-40c07ed07d04"
     },
-    "101.38": {
+    {
       "requestid": "c5f01bb7-564a-4490-9b17-25fbcd94b34d",
       "confidence": "0.5078508",
       "timestamp": 101.38,
       "content": "pattern play disc one",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "3da3d686-03b6-44ae-ae41-74e3a9e09239"
     },
-    "102.93": {
+    {
       "requestid": "35a19d17-2159-4f31-ad92-1538c24ebb09",
       "confidence": "0.5892154",
       "timestamp": 102.93,
       "content": "test on madio more on this stuff in this one",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "9693abf5-0fc7-48b7-9732-c44aab36dd70"
     },
-    "107.3": {
+    {
       "requestid": "91e94049-f6b6-4488-bc5e-8023bd699ce9",
       "confidence": "0.7222164",
       "timestamp": 107.3,
       "content": "yes less sugar more texture more texture in there for better there for hours",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "a0ce88dd-cc2f-4bf9-9cec-5f8768730602"
     },
-    "111.87": {
+    {
       "requestid": "cb1e6229-3eb0-4f10-88cd-6fb8bbddb6c0",
       "confidence": "0.5926095",
       "timestamp": 111.87,
       "content": "I like your picture sums it better I like the border and I thought it was the premium bend it like",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "98a5965a-20ab-4310-95a3-2a92d187da04"
     },
-    "119.05": {
+    {
       "requestid": "9fde724a-d5b3-43bf-a312-2a3e2c907699",
       "confidence": "0.6761015",
       "timestamp": 119.05,
       "content": "the border one for whatever reason it just tasted slightly more delicious in the next meeting",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "96e23045-c25f-490f-943a-a467ae6386a6"
     },
-    "128.78": {
+    {
       "requestid": "0ed67fb7-25ba-4de5-a121-fe1521712b23",
       "confidence": "0.7901027",
       "timestamp": 128.78,
       "content": "how would you feel collectively if I told you that they were just all the same",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "a1f968cb-3b06-4793-bd1c-e6beb3f2bea9"
     },
-    "133.61": {
+    {
       "requestid": "22498254-980d-4303-8825-f166c0b6322d",
       "confidence": "0.6613067",
       "timestamp": 133.61,
       "content": "another all the generic and it was no difference at all in the plate or call you a liar and you be right so ok thanks",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "af843453-0bcd-4678-a8ac-1bf30ddbab46"
     },
-    "144.58": {
+    {
       "requestid": "f0fffb0d-c2ef-46fc-b0e4-7dcdf70936a5",
       "timestamp": 144.58,
-      "content": ""
+      "content": "",
+      "uuid": "0066c016-02f0-4e6a-979a-b18e325f147e"
     },
-    "154.86": {
+    {
       "requestid": "18be8b22-918b-4ea4-9d32-a1c49dd4130b",
       "confidence": "0.6312968",
       "timestamp": 154.86,
       "content": "mw on my feet this is freakonomics radio podcast 6 north side of everything",
-      "speaker": "S21"
+      "speaker": "S21",
+      "uuid": "6975d0c8-1379-490e-afed-c10a5907582f"
     },
-    "162.45": {
+    {
       "requestid": "a7f8c415-6f09-4616-984b-75b94cf6c177",
       "confidence": "0.4046122",
       "timestamp": 162.45,
       "content": "here's your host diesin.net",
-      "speaker": "S22"
+      "speaker": "S22",
+      "uuid": "64fc1dd3-3005-46e1-83e5-45a767773e48"
     },
-    "170.43": {
+    {
       "requestid": "eef88351-2390-4a68-a0d4-fb3ed33b85d1",
       "confidence": "0.4289276",
       "timestamp": 170.43,
       "content": "boom boom boom boom boom boom boom boom",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "3fd59a9a-b432-4963-aace-edabfd10d5aa"
     },
-    "177.54": {
+    {
       "requestid": "7e8ff457-5565-4627-ab75-ff99e04f90d1",
       "timestamp": 177.54,
-      "content": ""
+      "content": "",
+      "uuid": "eae56569-9510-4e57-84a4-30acd8d9263b"
     },
-    "179.33": {
+    {
       "requestid": "36ce89f2-f8f7-49f0-adeb-ad166ea0049b",
       "confidence": "0.7826979",
       "timestamp": 179.33,
       "content": "try not to buy too much around here but yes in the interest of science",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "2f0e7280-55e6-49f7-a5f8-7eb236a58470"
     },
-    "183.03": {
+    {
       "requestid": "cad492fa-20a1-4f86-9eac-328d667b1003",
       "confidence": "0.6721714",
       "timestamp": 183.03,
       "content": "we need to lie about peanut butter jelly sandwiches they were all made with the same storebrand ingredients none were made with the skippy peanut butter or smucker's prasert",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "90a41591-f87a-4a6b-ae8e-2337c7586583"
     },
-    "193.18": {
+    {
       "requestid": "27edcb8c-132f-4b61-915c-35f442cc215a",
       "confidence": "0.7068608",
       "timestamp": 193.18,
       "content": "and yet are you could hear most of our tasters were pretty sure the 2 sandwiches were quite different and then you which one they preferred which one was better even though neither of them was better know why we do this",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "296983f3-692f-40f3-8acd-b60bd4b98ac6"
     },
-    "208.96": {
+    {
       "requestid": "c779ade6-56ca-4a35-bbdd-5c881b8eb43b",
       "confidence": "0.7294276",
       "timestamp": 208.96,
       "content": "the idea was to get all about thinking about the consumption choices we make how meaningful they are for us as individuals and for the overall economy we have a couple of akamas",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "36073d7e-7a8c-484b-bb9e-678748b5e633"
     },
-    "221.39": {
+    {
       "requestid": "d1e4a3dd-a333-40a7-a87f-1fb3e2648233",
       "confidence": "0.3186659",
       "timestamp": 221.39,
       "content": "do walkthroughs",
-      "speaker": "S33"
+      "speaker": "S33",
+      "uuid": "7612b897-e94e-4c5e-9bca-2a014e175a4b"
     },
-    "223.54": {
+    {
       "requestid": "74db9254-ac52-4d8b-a858-268ab06511b7",
       "confidence": "0.4740389",
       "timestamp": 223.54,
       "content": "I am jessica pero I'm gonna play microeconomist on",
-      "speaker": "S33"
+      "speaker": "S33",
+      "uuid": "e31d9a71-81dd-4ca6-8206-ebbc37cb7d49"
     },
-    "228.77": {
+    {
       "requestid": "5f404d46-0cc6-4b41-a2c7-cdb463c8171e",
       "confidence": "0.4903315",
       "timestamp": 228.77,
       "content": "I think I'm at that ms that damn it yeah I would each",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "e8338d26-6d03-42b2-81c4-3ace5fb9b141"
     },
-    "233.49": {
+    {
       "requestid": "74120966-034e-479d-8402-909584b459ac",
       "confidence": "0.8148091",
       "timestamp": 233.49,
       "content": "I am a professor of economics at the university of chicago booth school of business in a visiting professor of economics at brown university",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "402d1960-4c19-413e-89ac-2e420c4f3606"
     },
-    "240.18": {
+    {
       "requestid": "fe5ebbf0-f723-4f11-bf18-f4fe60965639",
       "confidence": "0.4812114",
       "timestamp": 240.18,
       "content": "africa map",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "12e15a30-1bc1-4693-91c3-b455ba51d2aa"
     },
-    "241.69": {
+    {
       "requestid": "ef1e4606-0622-4209-bfdb-262f3eb247e1",
       "confidence": "0.591653",
       "timestamp": 241.69,
       "content": "yeah I'm at gentzkow I'm also microeconomist",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "7c6a8ac7-9583-470d-b721-9a5ccd797827"
     },
-    "245.26": {
+    {
       "requestid": "dd2ce90b-a9e3-47ab-bbcb-34ac0ddd4ab3",
       "confidence": "0.632537",
       "timestamp": 245.26,
       "content": "I'm a professor of economics said that you vs chicago bulls score business",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "08af66f9-65a8-4f28-b39c-852e0f4dcf46"
     },
-    "249.82": {
+    {
       "requestid": "a092aec1-4cdc-4170-ab34-5654e8878ccf",
       "confidence": "0.7511019",
       "timestamp": 249.82,
       "content": "and I wanna talk to you today about working paper called do pharmacists by bear bears in the aspen inform shoppers in the brand premium 7 or to get that very dramatic question out of the way do pharmacists bibar or are they more likely to buy the generic aspirin",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "77463698-f6d7-48e7-8237-99eb8739ed9a"
     },
-    "268.48": {
+    {
       "requestid": "29ea3fc6-4fcd-430c-9aee-fc1b6b1978a0",
       "confidence": "0.585302",
       "timestamp": 268.48,
       "content": "pharmacist don't buy bear",
-      "speaker": "S324"
+      "speaker": "S324",
+      "uuid": "4f3acf7e-bdc3-4988-87c5-89c6d45511ac"
     },
-    "270.97": {
+    {
       "requestid": "36a25431-cfc9-402a-b381-de9a1471e5e3",
       "confidence": "0.4866079",
       "timestamp": 270.97,
       "content": "he compared to see if it's ok",
-      "speaker": "S324"
+      "speaker": "S324",
+      "uuid": "dc53dc0c-0089-46ea-9edf-124a97d9f5a1"
     },
-    "275.0": {
+    {
       "requestid": "a9ed6766-effa-43be-b5ef-24d4b9fafc28",
       "confidence": "0.7862618",
       "timestamp": 275.0,
       "content": "and what about going outside of the domain of pharmacist and headache medicine what about other experts in their domains and do they tend to buy store brand versus premium brand",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "98dc8423-385d-4ede-92cf-62234009854f"
     },
-    "285.2": {
+    {
       "requestid": "fc65d67c-2c65-4111-b2cc-57b147095013",
       "confidence": "0.9231563",
       "timestamp": 285.2,
       "content": "well first of all if you look at",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "bf97eed8-7f88-48ad-a350-d4e13aa3986d"
     },
-    "288.02": {
+    {
       "requestid": "05e3bf24-3e6c-4bc2-b277-be21b096af6f",
       "confidence": "0.769857",
       "timestamp": 288.02,
       "content": "at halifax birds outside of headache remedies to see this pattern in a lot of product especially medications over the counter medications",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "4d202ac8-2f14-42cc-ae1f-39f248656440"
     },
-    "295.17": {
+    {
       "requestid": "93de8bd3-a0dc-4274-a5a9-1ef4981936ae",
       "confidence": "0.646321",
       "timestamp": 295.17,
       "content": "you see that our people who are informed about the product into rocky peso iceberg's their way more likely to buy store run across a lot of categories outside of the house coming",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "d7778bf9-79cc-4539-b5f9-c977c8a42de9"
     },
-    "304.58": {
+    {
       "requestid": "dcadd10a-f703-4a28-973d-76503ae94f27",
       "confidence": "0.7045654",
       "timestamp": 304.58,
       "content": "I will take a look at at at at re staple things like table salt I have sugar in it turns out that chef start considerably more likely than anosh <profanity>ass</profanity> to buy store and I saw sugar baking soda things like that",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "6b1c2f30-f9d9-401e-9d3a-58c6d437152b"
     },
-    "319.17": {
+    {
       "requestid": "fb3f0294-b065-4efb-be98-52cd973e54a5",
       "confidence": "0.7274723",
       "timestamp": 319.17,
       "content": "ok so this is the kind of research that I think is of great interest to most people in yet would lead many of those most people to say wow really this is what time is it university chicago spend your time doing for get it from his mind as prince",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "5f5749f2-6cf6-426f-b75b-df004cf765b3"
     },
-    "334.95": {
+    {
       "requestid": "12af6120-1af8-43ea-b13c-f94e1e18e29d",
       "confidence": "0.765635",
       "timestamp": 334.95,
       "content": "so let's let's assume that be on that very narrow question there's a great broad answer or great broad line of thought that you're trying to pursue what what are the questions you're trying to answer really when you do stuff like this",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "991bb7da-a472-4cc8-8c18-7ee507254661"
     },
-    "349.51": {
+    {
       "requestid": "dc922ed6-0df9-4c60-a37b-b3ae1c7d9c2b",
       "confidence": "0.8327",
       "timestamp": 349.51,
       "content": "yeah I think I think that's a good way to introduce it because this is a paper we think of is some really simple fact that speak to",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "658a87c4-25fe-45b9-b7d6-21b1aa72a4c9"
     },
-    "356.38": {
+    {
       "requestid": "bb9e905d-f2f6-4f78-b232-1c7318be09c6",
       "confidence": "0.5956018",
       "timestamp": 356.38,
       "content": "a big olds endos kind of important question so that question in the background is",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b0aae64d-304d-4bef-8850-ee10b2f5e189"
     },
-    "362.68": {
+    {
       "requestid": "c3ce227d-c122-42ca-a894-e59b0b3f3d1d",
       "confidence": "0.9128149",
       "timestamp": 362.68,
       "content": "what is advertising and branding",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1a10f8d0-9073-48b9-bedd-2c8681744918"
     },
-    "366.37": {
+    {
       "requestid": "13742bd5-593e-426f-a1e6-afc6562752cf",
       "confidence": "0.8791554",
       "timestamp": 366.37,
       "content": "and all the stuff the company spent so much effort on really about is it fundamentally about trying to inform consumers help to make good decisions help them identify what are the best product so they can buy them",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "036127b7-85dc-4695-b333-7ea1e78fc07a"
     },
-    "378.8": {
+    {
       "requestid": "b9250532-2dbd-4af3-a45a-509017f636be",
       "confidence": "0.7890253",
       "timestamp": 378.8,
       "content": "or if the other extreme is a lot of people have speculated is it really about trying to confuse people cause them to make mistakes convince them that stuff that really is not any better is in cup in the pay lot of money for that something people of argued about for a very long time you some",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "28196fee-8d2b-4367-b84f-22b45b109596"
     },
-    "394.77": {
+    {
       "requestid": "d72d66d9-d53a-48ef-8ad1-54d947c96865",
       "confidence": "0.9254856",
       "timestamp": 394.77,
       "content": "quotes in the paper from",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "58f55b52-6e8c-4113-9a1b-d41821443903"
     },
-    "396.78": {
+    {
       "requestid": "9dfd63d9-20bd-4267-8ca4-aaf2ec418c07",
       "confidence": "0.8860099",
       "timestamp": 396.78,
       "content": "you know 5060 70 years ago people speculating",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "458e7280-c1cf-43a6-bd1d-71ee2b76aa26"
     },
-    "400.29": {
+    {
       "requestid": "5b53d0e4-6eb2-4da0-95af-00e7055ef154",
       "confidence": "0.7766118",
       "timestamp": 400.29,
       "content": "you know there's this like brandon soap flakes fat people sing that a lot for instead of the really simple basic soap flakes and both of them are just so plakson tell you wonder why are people paying for this",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "fe34fcff-bbfd-4353-9d59-b3181356ccd2"
     },
-    "411.1": {
+    {
       "requestid": "8175e973-adc6-421b-bd2d-651f17f4df8d",
       "confidence": "0.7656299",
       "timestamp": 411.1,
       "content": "is it because there something special about the expensive ones are the just the people are confused and so having all these really large datasets where you can actually go look at lot smarter people zaykabar kisses",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e13b10fc-12e3-43af-8ecc-9c3b8cf7cebc"
     },
-    "422.83": {
+    {
       "requestid": "bcd56382-bead-40e2-a532-87bc431bcd14",
       "confidence": "0.8715062",
       "timestamp": 422.83,
       "content": "as well as their occupations in various other indicators of",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "7df1a24e-6d9d-4da7-bde9-3d7c835f7374"
     },
-    "426.97": {
+    {
       "requestid": "faf38b27-20b6-42f3-9105-552123df464e",
       "confidence": "0.6396124",
       "timestamp": 426.97,
       "content": "how sophisticated are canicattini attraction an old question",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a36f70ca-8d19-40be-83a9-0df45ec9542a"
     },
-    "430.95": {
+    {
       "requestid": "8c1de9fa-d093-4ebb-961d-ca2ee06353ee",
       "timestamp": 430.95,
-      "content": ""
+      "content": "",
+      "uuid": "14c8bf13-1a39-4aeb-b9c1-bead33e47138"
     },
-    "434.07": {
+    {
       "requestid": "af62e350-22bf-4f69-b115-00e50c8bf665",
       "confidence": "0.7512913",
       "timestamp": 434.07,
       "content": "ok so let's say you buy this argument for why this kind of question is meaningful assuming it is how do you go about answering me",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "045fd628-a884-4d8c-9e2d-d8f4fab9d739"
     },
-    "443.05": {
+    {
       "requestid": "060beab2-db3f-4b66-acc6-7452a273e7f3",
       "confidence": "0.7895823",
       "timestamp": 443.05,
       "content": "so I think that stepping back so I'll tell you in a minute how we did it but I'll be back I think what we wanna do is we wanna follow somebody around the grocery store the drug store in every time they make a decision between say storebrand",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "3981f153-8bf1-45c6-88ae-b170b4ef5075"
     },
-    "456.0": {
+    {
       "requestid": "1aa0bfc2-0b98-4b6a-8ed1-908156c54bd8",
       "confidence": "0.6645722",
       "timestamp": 456.0,
       "content": "you know cd s brand aspirin or national brancai bayer aspirin wanna ask without addition of indefinite mean you more that's why the question I wanna ask if they wanna know that for every dial in every store",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "a1aef792-2c2e-43c3-ae57-5b984daf1189"
     },
-    "467.59": {
+    {
       "requestid": "344b6d6f-e881-4c31-9701-ba925d6e1b2b",
       "confidence": "0.7194508",
       "timestamp": 467.59,
       "content": "and for every shopper another very tough question I got the answer we don't have that you know hypothetical are there more informed shopper set an accident sang with they would do so we need to go and find those counterparts in the data",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "b796bcc0-204f-44cc-94a9-8e63f8eae079"
     },
-    "480.73": {
+    {
       "requestid": "55c1e78f-0781-4177-ab61-e8c558079af4",
       "confidence": "0.7858146",
       "timestamp": 480.73,
       "content": "so are we started with a dating site called are the nielsen homescan panel and is the datasette were people basically have a bar code scanner at home and they record all the purchases they make at supermarkets at drug stores at club stores in at mass margini stores all the mankada retailers",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "02122370-0308-4104-b6ef-16ad716fe786"
     },
-    "498.79": {
+    {
       "requestid": "12ae8bcd-6b25-431b-b0b7-31a795b1c340",
       "confidence": "0.8325078",
       "timestamp": 498.79,
       "content": "and that was great for getting a measure of you know the everyday person purchases that we need to find a way to do identify these kind of inform counterparts for everybody and so the way we did not",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "c1ab0eac-4ebd-475d-b3e5-9c5d85a3def7"
     },
-    "510.05": {
+    {
       "requestid": "9b0affe5-b015-4859-88e3-02f1773d9312",
       "confidence": "0.7177052",
       "timestamp": 510.05,
       "content": "yes we ran 2 custom surveys in collaboration with nielsen of the homes campagnola so we basically went out to them and ask them some questions I will ask people what was the occupation so what do I do for a living",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "c85983c2-36f6-47ca-a05b-1966017d14df"
     },
-    "521.19": {
+    {
       "requestid": "8c9287b9-459a-4e25-a70a-6c8e8bf3afc5",
       "confidence": "0.7632534",
       "timestamp": 521.19,
       "content": "I know we also gay people quit we said what's the active ingredient in tylenol what's the active ingredient in advil and get the multiple choice test to see how to get in so we try to do that is we try to find people who have had similar image of home ownership live in the same geographic area shop at similar kinds of stores",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "33cebab7-35ee-4568-a123-8561753d0bb5"
     },
-    "540.46": {
+    {
       "requestid": "3b39f8ef-3793-402b-aad1-f0c582f152f6",
       "confidence": "0.7822394",
       "timestamp": 540.46,
       "content": "but different how much they know by the rocks that are buying afranet we can try to construct",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "654761ac-d26e-4605-8ae2-9a503b69ddf6"
     },
-    "545.63": {
+    {
       "requestid": "706f2fdc-01ef-4e9f-84aa-6999cffd06e7",
       "confidence": "0.744065",
       "timestamp": 545.63,
       "content": "you know what kind of data driven answer to the question how different would be choices be if people were a better informed",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "869913dc-0ae2-4483-a971-9f8c97090798"
     },
-    "552.05": {
+    {
       "requestid": "2551fbbf-4b1a-4180-b3cf-e9f27f7591a1",
       "confidence": "0.7382762",
       "timestamp": 552.05,
       "content": "I think it's really important is that bad data set is really really big show in around to do a lot of surveys and things than ulson homescan konoha's",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2317e0b2-89a2-4f66-8501-81438d1bd120"
     },
-    "561.5": {
+    {
       "requestid": "29951138-0c52-4753-ab16-2f6ed7f01e7e",
       "confidence": "0.7200584",
       "timestamp": 561.5,
       "content": "inattendu thousand people in it and that means",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5188643a-2d3c-4fef-9021-0174ec58fbde"
     },
-    "566.13": {
+    {
       "requestid": "5a2dc62f-f4e5-4f86-90ef-9db18610e590",
       "confidence": "0.7566457",
       "timestamp": 566.13,
       "content": "that 120 an odd particular occupation like pharmacist sorciers you still have a lot of those people in the day are you almost any other traditional sources one might of had surveys that asking too much with a bye",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "65e6ffb4-46ea-41eb-b752-dd1cdb072707"
     },
-    "579.52": {
+    {
       "requestid": "f487ae18-0379-43f2-9a99-3e5bc836eea4",
       "confidence": "0.8560846",
       "timestamp": 579.52,
       "content": "it would be hard to use for this because at the end of the day you might end up with you know 3 pharmacists in 6 shots and then you couldn't really figure it out",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2ccfb787-8550-4b23-acee-d2ec4781a13b"
     },
-    "587.16": {
+    {
       "requestid": "889af416-2f66-4b4c-ac3a-846b2890d554",
       "confidence": "0.704012",
       "timestamp": 587.16,
       "content": "I think let's um talk about the headache medicine aspirin for the while you said it would be some questions asked multiple choice I'm content how many questions were there in can you recite a min will let me in the listener play long to see if we have any of your document",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "e88caadb-8d94-4105-ad82-3e3b4a175620"
     },
-    "599.83": {
+    {
       "requestid": "8fda2ca4-7bde-41ba-8954-a12c37373852",
       "confidence": "0.6678377",
       "timestamp": 599.83,
       "content": "I think there are at 5 question game",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "2228a2d9-9bde-4103-b485-c8ec404794f6"
     },
-    "602.63": {
+    {
       "requestid": "f631020c-ce35-4533-aaff-79bc0e1dcdf4",
       "confidence": "0.7234343",
       "timestamp": 602.63,
       "content": "and II can ask it a question but I don't know that I'll be able to remember all the multiple choice is gonna give it a try going ok so what is the active ingredient in tylenol is it a acetyl salicylic acid me a cinnamon offend sinaproc in sodium I or did I do profen",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "90e39cc7-8f56-4e43-9e2a-3a14e92d136a"
     },
-    "620.32": {
+    {
       "requestid": "67d3d3f9-15ec-4ae1-a959-53246820715f",
       "confidence": "0.4789891",
       "timestamp": 620.32,
       "content": "acetaminophen who graduations email that very much snow are there in the shopper",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "f0741412-2332-48c8-ac40-6076f92c5157"
     },
-    "625.77": {
+    {
       "requestid": "14b912bb-2a28-48b5-9e1a-4cc272a2352c",
       "confidence": "0.618741",
       "timestamp": 625.77,
       "content": "never thought that would put me in the in form drama ready to swim at that one out of 5 into the night can you connect wagon and give it one more",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "61864bff-d6a5-434d-ae87-282645f7fd81"
     },
-    "633.92": {
+    {
       "requestid": "5ef5ec49-60e2-46e8-9a2c-7432397aa4d7",
       "confidence": "0.6477033",
       "timestamp": 633.92,
       "content": "ok but I'm not gonna give it a multiple choice is there I'll ask me what what's the active ingredient in advil",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "833c7273-d2a8-459d-95bc-3d3c4a243943"
     },
-    "641.14": {
+    {
       "requestid": "fce6f09f-4fbb-4393-83bc-bd0ef1d84f2b",
       "confidence": "0.6256776",
       "timestamp": 641.14,
       "content": "buy advil is ibuprofen ok are you get what I gotta do leave I can you leave if I had to hear don't worry be 5 at bats in naproxen something out that's why I know my pain medication fellas choices had a couple of I hate you know there there at like sodium chloride are something with pot apple butter",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "e26da227-5898-4bda-a424-289dbb4eb971"
     },
-    "660.98": {
+    {
       "requestid": "56a35a77-0905-4d59-9e2b-13cf1a628071",
       "confidence": "0.7915151",
       "timestamp": 660.98,
       "content": "not so headache remedy kind of thing start into the multiple choice is the mix things up",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "e780a3d5-7511-4f4c-85f6-710f64ac5eb9"
     },
-    "665.13": {
+    {
       "requestid": "d626c395-ae3d-4800-9d0b-1975c3c0a6e7",
       "confidence": "0.7535995",
       "timestamp": 665.13,
       "content": "but ok so that's the kind of questions you're giving to separate out how old expert someone is in their domain greg not how they know",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "c471bd86-3c14-4c13-8334-030568621ecb"
     },
-    "674.69": {
+    {
       "requestid": "05b50b43-60ea-4a88-8c42-073abbf5f6be",
       "confidence": "0.75957",
       "timestamp": 674.69,
       "content": "something about the product correct that we ask these questions of everybody and so we think of them as separately from occupation is a separate measure",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ae405e4f-7f78-4b54-a336-85c6bdcbe096"
     },
-    "686.28": {
+    {
       "requestid": "72705c33-0e1b-47bc-b98b-1f462d6a0cd6",
       "confidence": "0.7873728",
       "timestamp": 686.28,
       "content": "I love how much people know about these products how sophisticated are they it's gonna be we think it's gonna be correlated with lots of general on knowledge and sophistication not only do you know he's active ingredient per say but somebody who knows he's active ingredient like you",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "982bba01-5c40-4774-b7a5-37f360b765ea"
     },
-    "703.84": {
+    {
       "requestid": "fb2c6053-d7ca-4713-a4da-b9eebf7b5b53",
       "confidence": "0.8647309",
       "timestamp": 703.84,
       "content": "it also like a pretty smart talented the fifth to get a person who knows a lot about lots of different kinds of things",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "22d427d4-9361-4571-adcf-13da3a69930e"
     },
-    "709.24": {
+    {
       "requestid": "5767da17-cbf6-4785-a55c-8cb575ab11dc",
       "confidence": "0.798642",
       "timestamp": 709.24,
       "content": "any idea being if you know the active ingredient in the name brand thing and then you look at the store benton you say oh active ingredient is identical you think well I should buy the one that's a third the price right that's that's the connection were trying to make you right",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "3c36ff97-7a3e-4d12-84ac-3c786bccdef0"
     },
-    "721.33": {
+    {
       "requestid": "046ce6a9-7059-4f85-85cf-41e7316947c1",
       "confidence": "0.6001412",
       "timestamp": 721.33,
       "content": "basically a tiny bit there's a simple version of this and then a slightly more celebration the simple version is",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "89f9d0bc-a886-464d-b260-996517f1101d"
     },
-    "727.6": {
+    {
       "requestid": "a2c6ecb9-0561-496c-b63f-60a141600a1b",
       "confidence": "0.759778",
       "timestamp": 727.6,
       "content": "tylenol and cvs brand or both acetaminophen if you realize that you would know that the same thing so you should buy the cheap ones that are the simple story",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a9256f3d-586b-44df-b4d3-3ea9cd218b47"
     },
-    "736.29": {
+    {
       "requestid": "f042c160-28e0-4d80-83c4-3000908e3541",
       "confidence": "0.838467",
       "timestamp": 736.29,
       "content": "the more subtle story is even if you know that there the same active ingredients you might still be kinda worried about a variety of things might wander",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "218cdd43-c320-499f-a0b0-72f359c330ba"
     },
-    "745.14": {
+    {
       "requestid": "e5ed2e93-94c4-4a02-9bfe-237505975ccf",
       "confidence": "0.7497171",
       "timestamp": 745.14,
       "content": "do they have different coatings you might think I heard that the store brands are manufactured in indian mabedi plant in india are not so good I heard that there is like a recall of these products once upon a time when you know something went wrong with the manufacturing in they weren't safe",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6f221c45-c7c3-4c5d-9676-24dbfe95e4e0"
     },
-    "761.75": {
+    {
       "requestid": "ae1ce10b-f7ef-4c5e-a528-4cab9474ca2b",
       "confidence": "0.800307",
       "timestamp": 761.75,
       "content": "so you could come up with a whole bunch of reasons why even after the same active ingredient you might still wanna pay little bit extra for the fancier think this may be it take for kids maybe it has according to make it work better",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b2484261-9978-444e-9ad6-353be4fabd04"
     },
-    "772.86": {
+    {
       "requestid": "dcfe103f-2e54-4f25-b06a-47bca86be848",
       "confidence": "0.801613",
       "timestamp": 772.86,
       "content": "and so there above and beyond knowing that they're the same active ingredients you need some knowledge and sophistication to be able to assess are all of those other different things I should be worried about",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b0d8a656-7252-4f31-a0fa-3e4270c01b18"
     },
-    "784.77": {
+    {
       "requestid": "d4973b71-b2a0-483a-95f9-01caea3aeb17",
       "confidence": "0.7832757",
       "timestamp": 784.77,
       "content": "are they really different first of all if they are different should I care in should I care to know",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "60832417-16fd-413b-bcc9-5a5753331254"
     },
-    "789.42": {
+    {
       "requestid": "b9c7acea-544c-4c36-bea7-85cb53e337b9",
       "confidence": "0.8348756",
       "timestamp": 789.42,
       "content": "you know $3 every time I buy a bottle of the stuff so we think of using knowledge matters is picking up both do you know the fact and also probably there correlated with",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "deb02a97-d586-4bb7-ad76-1beea909914a"
     },
-    "800.47": {
+    {
       "requestid": "6cf8b48d-fc3d-4f47-83fc-83dfe1b4df6c",
       "confidence": "0.8767996",
       "timestamp": 800.47,
       "content": "are you sophisticated enough to be able to make good judgments about those other characteristics",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "303d9a4b-2137-42f3-90be-44698c22aa0c"
     },
-    "805.92": {
+    {
       "requestid": "3f7f9f2a-227f-4245-8e27-5cba684e1f8f",
       "confidence": "0.7689239",
       "timestamp": 805.92,
       "content": "in what can you tell about the reality of that for all those um for all those factors that you just described I knew some people say that with generic a pain relief medicine they were that be absorbed shinry me to breakdown me a note called in the body is different than that of",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "8694569e-5300-4b1f-a514-4deb0315f7ca"
     },
-    "819.8": {
+    {
       "requestid": "970abaa2-7e9a-442b-addd-57c1526aff90",
       "confidence": "0.9070297",
       "timestamp": 819.8,
       "content": "premium brand so do you know much about what can you tell us about the actual physical difference between a",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "ce0065dd-7966-4d59-9073-38758cfcb3c9"
     },
-    "826.44": {
+    {
       "requestid": "c002e22b-f1fb-4c2e-9329-dc2f13c87acc",
       "confidence": "0.85038",
       "timestamp": 826.44,
       "content": "premium in a generic pain relief pill",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "2aaac044-d547-4d76-8b2a-fae5df419fb8"
     },
-    "828.86": {
+    {
       "requestid": "3e5f7a11-b254-4eaa-9b04-77b5675141ef",
       "confidence": "0.8027688",
       "timestamp": 828.86,
       "content": "car to say completely for sure but if you go to be at the website I'll tell you that store brandon national brand over the counter medications have a jacket the same strength and composition of safety and efficacy as one another",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "19eb44cb-215c-4db8-bfb9-6485ebf3a064"
     },
-    "842.22": {
+    {
       "requestid": "597ff1b1-3e99-425b-886f-4f7c1e3feb96",
       "confidence": "0.7641438",
       "timestamp": 842.22,
       "content": "but this is but still I think this is one of these topics that people get very worked up about 10",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "122aad61-f227-458c-85d9-d4322a5a7d87"
     },
-    "847.46": {
+    {
       "requestid": "5e5336ba-44fe-4ebe-92bc-adb55ff4f2c7",
       "confidence": "0.74228",
       "timestamp": 847.46,
       "content": "so im going around and talk about this paper we've met many smart academics you know people who is jack miley respectu have a different view of air intake know there really I buy advil in there really is a good reason for lots in chinese food is finished at least enough controversy that people can re d evidence different ways there certainly studies of",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5ab2ab26-e846-45ce-811c-325d50d673af"
     },
-    "867.42": {
+    {
       "requestid": "310db96f-9cd4-460b-8bee-c36be78613cd",
       "confidence": "0.7114381",
       "timestamp": 867.42,
       "content": "prescription medication for example where it was shown that does absorption rates for different with a different coding to be had actually affected efficacy",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6fa1a488-a871-4c42-8a40-8958ab453326"
     },
-    "876.25": {
+    {
       "requestid": "6baf4782-f74f-4bbb-93b5-d13ba686373d",
       "confidence": "0.7541237",
       "timestamp": 876.25,
       "content": "it certainly has been recalled and examples of safety problem that's not at all clear whether those are any different for the your tylenol has had recalls the brand so it's not clear how different they are on but I think for my son to be talking to people there's enough",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "75582859-a81c-4c0a-b75b-b87a45cd9f5d"
     },
-    "890.67": {
+    {
       "requestid": "32522a6c-329f-4618-8771-8bffe65ae8a4",
       "confidence": "0.7854599",
       "timestamp": 890.67,
       "content": "I murr kinasa just enough murkiness in the fact that people could come to different conclusions and so that's in a way that's kind of where the study comes from is like we could have just had this debate based on",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "79a64005-566d-40a5-b20f-5bfcd76398bd"
     },
-    "904.32": {
+    {
       "requestid": "5709e3ac-6962-4401-be83-49d4109d7585",
       "confidence": "0.6914422",
       "timestamp": 904.32,
       "content": "direct evidence in first principles and what about king george and write be think this is the way to kainat sidestep all of that and say well whatever all that stuff is lexie with the smart people do I know when they make purchases for them self",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "23d00b5e-aa08-4714-81a2-cf1789f0d672"
     },
-    "919.12": {
+    {
       "requestid": "909e1b87-f2f2-464e-9489-46aa5ecaf456",
       "confidence": "0.7529764",
       "timestamp": 919.12,
       "content": "yeah we're sort of assuming whatever differences do or do not exist doctors and pharmacist know more about them then people were not doctors and pharmacists so we can learn from their choices when there shopping around I am I at what they think",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "0b15bd54-ff84-42c1-bf77-abb770af6aaa"
     },
-    "932.33": {
+    {
       "requestid": "bb2ee6d0-9a11-450f-981a-60295bdcba16",
       "confidence": "0.8297853",
       "timestamp": 932.33,
       "content": "ok so what do the smart people do in the case of aspirin or headache medicine or something like that do the pharmacist by the name brand or do they buy and take the generic",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "16ef1a7c-4c87-4663-99e8-32095791e079"
     },
-    "944.03": {
+    {
       "requestid": "440d6cf5-e2d1-4b1b-8ca3-4dc20189b0ac",
       "confidence": "0.691127",
       "timestamp": 944.03,
       "content": "hey by and large take a store run so in the context of headache remedies about 92% of data can a pharmacist buyer storebrand and we see that very consistently across other healthcare occupation's nurses doctors in so I'm there all by way more store brandon the rest of us",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "b6e6c68a-5898-4bda-a4ea-8febe3ee1439"
     },
-    "959.54": {
+    {
       "requestid": "52eee28c-6a67-4ab3-88f6-f9a8112cd390",
       "timestamp": 959.54,
-      "content": ""
+      "content": "",
+      "uuid": "6f9adce6-9506-4080-9df3-927b971ff159"
     },
-    "967.29": {
+    {
       "requestid": "46419271-2d33-4d40-954e-2ef1b34aaf25",
       "confidence": "0.7372612",
       "timestamp": 967.29,
       "content": "as for the rest of us about 74% of non pharmacist's buy store brand headache remedies compared to 92% on cissokho big difference",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "76b5e2c7-4025-4278-b0fc-17a1f73dccfd"
     },
-    "979.43": {
+    {
       "requestid": "7d9a7f41-f4c1-4f0a-ae8e-0afa7089a6a0",
       "confidence": "0.7376621",
       "timestamp": 979.43,
       "content": "coming up on for can I mix radio wanna come is like steve lebet prides himself on thinking with his brain rather than emotions so does this apply to personal consumption",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "7df10ac3-fba2-42dc-9fcd-7e1449508a69"
     },
-    "992.1": {
+    {
       "requestid": "8e6641f2-b7db-468a-bdad-8277e4950173",
       "confidence": "0.6730066",
       "timestamp": 992.1,
       "content": "I always buy the most expensive golf ball because it is even the tiniest ants that is in the magic and then then then I want me",
-      "speaker": "S154"
+      "speaker": "S154",
+      "uuid": "5c84a562-56fa-4047-a27d-c677d7add167"
     },
-    "1000.68": {
+    {
       "requestid": "7facb6d2-0fe2-4bc3-811c-5e03617133b8",
       "confidence": "0.5589698",
       "timestamp": 1000.68,
       "content": "what about jesse shapiro matt genscan did studying generix make them buy more generic",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "978f7980-2d31-4c51-8e20-6fb21b415c00"
     },
-    "1007.28": {
+    {
       "requestid": "ef265d4f-1f4f-4ca7-9648-7847906cc60a",
       "confidence": "0.6202387",
       "timestamp": 1007.28,
       "content": "I think I probably buy a little more now then before he wrote the study not so much because of anything I learned from the study but more because I think I would feel hypocritical I buy viagra after reading this neighbor",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "ae9b7ada-f0c1-49b5-8707-91c67b713363"
     },
-    "1023.7": {
+    {
       "requestid": "c1344c85-25d5-4cdf-8471-36748493ab07",
       "confidence": "0.7449056",
       "timestamp": 1023.7,
       "content": "and one more thing if you don't already subscribe to freakonomics radio want to give it a try you can sign up for free at itunes based on what we've learned on today's program radio is probably just as good as this american life for radio lab",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "18e92613-4e6f-4ae3-b3aa-255273c8e023"
     },
-    "1043.94": {
+    {
       "requestid": "f6c5a44e-f24d-4676-a361-15160abc1c3e",
       "timestamp": 1043.94,
-      "content": ""
+      "content": "",
+      "uuid": "4ffa7a45-e7ff-4b93-a4f8-c1f5a8f22990"
     },
-    "1046.89": {
+    {
       "requestid": "346e88a3-b5ca-434f-b31d-3b17f2cea5e0",
       "timestamp": 1046.89,
-      "content": ""
+      "content": "",
+      "uuid": "c8d16b64-a290-4ca0-8222-29662b70e794"
     },
-    "1052.36": {
+    {
       "requestid": "f5e28786-39a9-478f-8d11-bb12ddc39c48",
       "confidence": "0.9095307",
       "timestamp": 1052.36,
       "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample",
-      "speaker": "S164"
+      "speaker": "S164",
+      "uuid": "4be0a2ad-9767-4c4d-b9f4-175ea9849397"
     },
-    "1065.83": {
+    {
       "requestid": "7eb299b0-49e2-4431-be0d-ffab2d2d6610",
       "confidence": "0.8903255",
       "timestamp": 1065.83,
       "content": "canadians can learn about their genetic information to publish study's have associated with conditions in traits like celiac disease cystic fibrosis and even response to certain medications",
-      "speaker": "S164"
+      "speaker": "S164",
+      "uuid": "563b3238-e087-40cb-85f8-cabf972589a2"
     },
-    "1076.8": {
+    {
       "requestid": "c83de41c-8027-43a3-af1e-25c794965a83",
       "confidence": "0.8898896",
       "timestamp": 1076.8,
       "content": "more information is available at 23 the number in me dot CA",
-      "speaker": "S164"
+      "speaker": "S164",
+      "uuid": "0b36f13c-e648-469b-b59b-802608147617"
     },
-    "1082.32": {
+    {
       "requestid": "22edfc29-9b65-4535-87a9-5508c89c2fff",
       "confidence": "0.8291389",
       "timestamp": 1082.32,
       "content": "free mix radio is supported by new york life who's been helping families protect their financial futures for 170 years musebox might like statistics even more than we do for instance",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "d778ec1b-53fa-498c-9327-46c7c93f98c5"
     },
-    "1094.06": {
+    {
       "requestid": "66d6b8ae-f68b-4be6-a257-a72c3048b186",
       "confidence": "0.8182753",
       "timestamp": 1094.06,
       "content": "60% of americans believe they have enough life insurance for only 20% actually do and why many americans have less insurance and I need there others who have even less than they think find out the inside of that story at new yorklife.com slash freak",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "38860c21-5b5d-47ec-aaac-d98d043c808f"
     },
-    "1110.56": {
+    {
       "requestid": "6b7447b4-9c71-48b3-98b5-70c84b1b1ea9",
       "confidence": "0.8307513",
       "timestamp": 1110.56,
       "content": "freakonomics radio is supported by square space supporting outliers in independent thinkers since 2004 with elegant versible templates in a powerful interface allows you to customize your layout it's never been easier to create beautiful space for your ideas online squarespace also offer 24/7 customer support at no extra cost",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "0dea03cc-27ed-45f7-a8cb-72054a231c7b"
     },
-    "1130.56": {
+    {
       "requestid": "5067c360-6cb5-4109-a1fb-9a4b64751864",
       "confidence": "0.8938043",
       "timestamp": 1130.56,
       "content": "for free trial in 10 percent off music square space.com slash freak",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "1e0a2214-3c78-4e97-9fd2-d0518201de97"
     },
-    "1137.23": {
+    {
       "requestid": "16ee7f62-92a7-486f-8674-d8cfab9311a2",
       "confidence": "0.7724218",
       "timestamp": 1137.23,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "868cab04-b2de-4ac7-b73b-65150faed816"
     },
-    "1153.95": {
+    {
       "requestid": "f0c6f74a-7339-43a4-a54c-37962fecc607",
       "confidence": "0.7528146",
       "timestamp": 1153.95,
       "content": "play were talking with 2 economists about how experts 10 to buy cheaper store brand items like aspirin or kitchen staples and why is that doable y it's because they know enough to know the store brand items are just as good as the more expensive name brand soap",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "47eadc28-d0c8-4eb1-b760-e4be7187945b"
     },
-    "1171.6": {
+    {
       "requestid": "8c21587d-cd9d-4b5d-b32c-b9880463a7a8",
       "confidence": "0.6586276",
       "timestamp": 1171.6,
       "content": "you might think that kinda miss behave the same way kinda miss like 11 my freakonomics friend and coworker",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "c8039dbb-1208-4fc9-966c-e33fe42370ce"
     },
-    "1180.8": {
+    {
       "requestid": "cb27f5b2-76b6-4c70-b085-4a1ca035a051",
       "confidence": "0.7970718",
       "timestamp": 1180.8,
       "content": "deliver what about you are you a slave to name brands what are some product that you only buy name brand of",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "ad301974-7b0f-4598-918c-bae48ba24a8e"
     },
-    "1187.48": {
+    {
       "requestid": "f571a01d-35a0-4eb7-8b3f-8bc9dbdf000e",
       "confidence": "0.7719153",
       "timestamp": 1187.48,
       "content": "it is funny I'm a little bit into the magic in so um when I am at the store and I'm looking at brandon unbranded ionically each time I look at it and I asked myself for a particular application do I think they could be magic",
-      "speaker": "S182"
+      "speaker": "S182",
+      "uuid": "12db59ed-8a55-4ecd-8200-1027623b38f2"
     },
-    "1203.62": {
+    {
       "requestid": "a4891bde-ee71-48be-8821-743926c60ef6",
       "confidence": "0.3108746",
       "timestamp": 1203.62,
       "content": "brandon sometimes it doesn't",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "e967a892-8f2a-48c6-81b3-67d65a7214dc"
     },
-    "1206.74": {
+    {
       "requestid": "c185ba87-5b16-42bd-99ec-111900f068b8",
       "confidence": "0.6808771",
       "timestamp": 1206.74,
       "content": "and I in bed and probably fall in your life but you know I'm not very patient is anyway so if I think it's even a little chance that there some special magic mountain dew and I'll pay double for just even the with magic",
-      "speaker": "S182"
+      "speaker": "S182",
+      "uuid": "e875fea2-5a16-498e-9660-66e9421e0616"
     },
-    "1218.49": {
+    {
       "requestid": "fddcbd10-fc12-483e-b25c-5068d8baac2d",
       "confidence": "0.7128242",
       "timestamp": 1218.49,
       "content": "it up though so I'm guessing the roman which you suspect is magic may apply would be golf balls for instance we always buy the premium brand golf ball",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "45de22ee-070f-46bd-a5e8-232092c07c39"
     },
-    "1228.88": {
+    {
       "requestid": "9a264edd-8de3-4232-a5da-881bec16f961",
       "confidence": "0.6236109",
       "timestamp": 1228.88,
       "content": "are your hours by the most expensive golf ball because if there's even the tiniest ancep distended the magic in there then um I want that",
-      "speaker": "S154"
+      "speaker": "S154",
+      "uuid": "1f387c47-8f97-4ac7-a4fb-5524b54e7bb3"
     },
-    "1240.24": {
+    {
       "requestid": "b356ade0-52f2-44d4-bda2-628cf0af90dc",
       "confidence": "0.677143",
       "timestamp": 1240.24,
       "content": "makedonsko and jesse shapiro meanwhile argue that a lot about brandy magic is an allusion which means that a lot of people are spending a lot of money they probably don't need to so what does that add up to cure again is jesse shapiro",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "44611572-b89f-4c5c-bbaf-6a88e3f51597"
     },
-    "1259.86": {
+    {
       "requestid": "b91bb76b-7b67-41f0-8546-d8cbfe607242",
       "confidence": "0.6982649",
       "timestamp": 1259.86,
       "content": "we look at 6 different headache medicines you know aspirin ibuprofen acetaminophen and so on and I think we have to meet people are spinning at 8,000,000,000 on those alone every other other you know how to granny's out there and I think we find in those categories if everyone would act like a farm",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "a398efe2-48b1-4585-ab5a-05b962ad23a1"
     },
-    "1276.17": {
+    {
       "requestid": "39a31016-8d83-4870-842a-66dad31741f8",
       "confidence": "0.7261991",
       "timestamp": 1276.17,
       "content": "test people would spend a between one and $2 Billion less every year",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "20c90b05-fc9b-4928-8cfb-e325728b42c5"
     },
-    "1280.37": {
+    {
       "requestid": "78fa5286-b053-4a2c-ae80-714dcf474638",
       "confidence": "0.8074576",
       "timestamp": 1280.37,
       "content": "and how should we the populist think about one are $2 Billion that's $22 Billion that would not be going from individual packets into corporate pockets and then distributed to their friends families and shareholders and it cetera is that",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "0f5efa07-7525-4726-8e13-5e5a69bba38f"
     },
-    "1296.85": {
+    {
       "requestid": "35f0fd12-a038-4c0c-b0ba-eb0d4926a739",
       "confidence": "0.856276",
       "timestamp": 1296.85,
       "content": "ok for the economy the people are over spending on premium brand because it's something that they want them there just you know revealing their preferences in",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "83ce2075-c538-4114-a186-36cbc4c4bd02"
     },
-    "1305.51": {
+    {
       "requestid": "ea352ff5-78d9-4e31-90e6-9fcf69ca6e68",
       "confidence": "0.7528871",
       "timestamp": 1305.51,
       "content": "even if it's a placebo effect hey you know <profanity>pussy</profanity> boa fact is not nothing or is that in your view as economists just a waste of time and money",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "62e94584-a49d-4740-b4bd-dc53db2df225"
     },
-    "1315.33": {
+    {
       "requestid": "4a3bb679-b15d-4f23-bc2d-bb4650d1def8",
       "confidence": "0.7598978",
       "timestamp": 1315.33,
       "content": "I'm in a really depends on whether you accept that people would like to act like doctors and pharmacists act and they just don't know enough to do it if you take that pranas dongya people are making a want to do and our mistake",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "daecf317-f87e-47d0-8583-62b279f6e0ee"
     },
-    "1328.05": {
+    {
       "requestid": "85d00b8a-86ef-4d56-bc5f-609a0400dfc4",
       "confidence": "0.7569803",
       "timestamp": 1328.05,
       "content": "if you wanna say that believing that brandon medusans are battered allows them to work better in reduces headaches more and so on then I think it's much harder to make a kiss",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "9ea31f32-1125-444f-951b-edc0690d826b"
     },
-    "1337.86": {
+    {
       "requestid": "d613b78a-e9e6-4fb1-bebf-c8bbd2ece2a5",
       "confidence": "0.8264923",
       "timestamp": 1337.86,
       "content": "and this proves your paper proves or argues more broadly what that we are susceptible to marketing and advertising to agree that we shouldn't be that we r in fort quote informed by things that aren't really very informative that were just gullible jenner we would it what is it are you",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "addbdd01-fafd-483e-a00e-d39e003f54d5"
     },
-    "1356.64": {
+    {
       "requestid": "c78a11ad-ffc8-44bd-b51f-0e7d4c74e8a4",
       "confidence": "0.7554145",
       "timestamp": 1356.64,
       "content": "perfect answer the question it's good to take account of is full set of products that we look at so we",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e2adf5c1-3b07-4897-b848-2233a4ead530"
     },
-    "1363.52": {
+    {
       "requestid": "e60f22a7-d3ba-408b-a2e9-efb65665525a",
       "confidence": "0.7395845",
       "timestamp": 1363.52,
       "content": "start with this case study of headache remedies will be fine he's very big affects we look at each other over the counter medications warasii similarly big a fact",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "40bf5382-96aa-4f54-9f2d-81cc25802058"
     },
-    "1373.03": {
+    {
       "requestid": "0fbf50f4-f124-4a10-8d8b-d3c69374ccde",
       "confidence": "0.686296",
       "timestamp": 1373.03,
       "content": "and we look at these pantry staples like sugar and salt were looking at shaws progesses we see some really big fax over all those categories of products piqua conclusiones yeah this this this seems to be a mistake and people are misled",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f1bd6e28-b330-47a8-98bf-f033c43e84a5"
     },
-    "1388.26": {
+    {
       "requestid": "3af33031-7f1e-4bc1-b6ac-c7076cd66d24",
       "confidence": "0.7320453",
       "timestamp": 1388.26,
       "content": "I there by advertising horobi just absent of knowledge they would take to make decisions but we also go look across a much broader set of products in a supermarket you know everything from soft drinks the frozen entrees day",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "43d03536-05a0-419d-b186-d4446050aa5d"
     },
-    "1402.51": {
+    {
       "requestid": "5ff44dfb-f1f4-4767-a8ce-09094d733edd",
       "confidence": "0.4857792",
       "timestamp": 1402.51,
       "content": "are all kind of hair product minus",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "7883e2dc-358f-4c4a-b98f-c974403dfdcd"
     },
-    "1404.74": {
+    {
       "requestid": "7706f1a0-6905-478c-9f34-ffcfcc74bea2",
       "confidence": "0.7451798",
       "timestamp": 1404.74,
       "content": "market in and what we see in not really big said is there actually lots of product categories where",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6c1c22e7-a9e3-43f7-a1f6-a0674a9f3c89"
     },
-    "1410.29": {
+    {
       "requestid": "5aee83ee-cdc3-4ac1-bd36-2359d2353f73",
       "confidence": "0.714487",
       "timestamp": 1410.29,
       "content": "the experts don't differ systematically in their purchases and even a couple of categories warrick's experts like chefs seem to be more willing to pay for brands",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a5359f04-a703-4675-b440-f44e591bbd5d"
     },
-    "1421.72": {
+    {
       "requestid": "1f4cf287-81d2-45ef-9689-454063d40d3a",
       "confidence": "0.8355321",
       "timestamp": 1421.72,
       "content": "and so across all those categories it looks like you know maybe there are many where the brands are really are better",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5f134b3a-f421-4c02-bebd-7d04fe040f88"
     },
-    "1429.61": {
+    {
       "requestid": "7f50e404-4571-4d0d-8d8c-1f48ed0f8c9c",
       "confidence": "0.7817129",
       "timestamp": 1429.61,
       "content": "and so the big picture I would say is we know that if we look at the product where we would've been the most worried that there aren't any difference is michalik remedies really chosen to be if there's any product category were you would've thought",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1facbecc-c7b2-44dc-848a-dd700299e05e"
     },
-    "1443.37": {
+    {
       "requestid": "50f82f4b-e60c-432d-aeb0-6269c6eb5c2a",
       "confidence": "0.7922426",
       "timestamp": 1443.37,
       "content": "this thing can't possibly be that different it would've been that's so when we look at those places we see ya there some big mistakes but",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1bd77b30-0f6f-4456-8780-03f23c58d496"
     },
-    "1451.03": {
+    {
       "requestid": "0a85fa6e-eaf8-4532-b6a7-b0b77b6e7345",
       "confidence": "0.8670278",
       "timestamp": 1451.03,
       "content": "were also very far from the situation where all brands",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "dd385a01-c480-4072-b700-a9bb1a67d979"
     },
-    "1455.32": {
+    {
       "requestid": "784b101e-8c32-4867-b8c1-9522e6794bd1",
       "confidence": "0.7671164",
       "timestamp": 1455.32,
       "content": "are in a steak overall branter about this information into one way to think about it is an average in the decisions consumers face",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "4cfe71dd-e64f-4554-86be-e3beaf4698fe"
     },
-    "1464.42": {
+    {
       "requestid": "81a515f9-c38b-4cf8-95e1-d99bb5261e4e",
       "confidence": "0.7587041",
       "timestamp": 1464.42,
       "content": "brands typically are better for there are differences a cross product differences across brands",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "4ce01182-e2dc-4c52-a3f9-7f6d105a2b31"
     },
-    "1470.01": {
+    {
       "requestid": "86a54290-89a5-44b3-b593-20a8ed83ef11",
       "confidence": "0.7967529",
       "timestamp": 1470.01,
       "content": "and the aristoc 30 I should probably pay a little extra to go with the brand I trust isn't so bad it's like a pretty good way to make decisions on average a problem is it's a good resting in some places it's not a good rest again other places in like a lot of things people apply the same rule",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "66d0276f-9a17-4096-bcc9-bb95950406e7"
     },
-    "1485.25": {
+    {
       "requestid": "4b6c155e-b0fc-49b1-bd1c-4c860f1100a8",
       "confidence": "0.8540701",
       "timestamp": 1485.25,
       "content": "2 broadway and end up making mistakes as a result",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "81da1cdf-da2b-4316-a839-2e2d86da8b5f"
     },
-    "1488.94": {
+    {
       "requestid": "09956057-68ef-4e51-9720-8372dccb7074",
       "confidence": "0.7514368",
       "timestamp": 1488.94,
       "content": "I'm curious what you heard from advertisers for marketers about your research mean on the one hand eresearch is this massive compliment to them",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "082bc9ba-87b8-4bd5-95f2-3e82854057ee"
     },
-    "1497.96": {
+    {
       "requestid": "c0ebb838-30dc-4e3f-b22b-e96abf289a1a",
       "confidence": "0.7705778",
       "timestamp": 1497.96,
       "content": "you sing to them that you could take 2 identical objects and make 13 times more valuable I did not mean in writing gray jingles on the other hand you're saying I will follow everybody who responds to your fantastic work is kind of an idiot",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "f90e21ce-e08b-431c-82da-b2774a3983e9"
     },
-    "1513.89": {
+    {
       "requestid": "c68185bc-7ce0-40ef-9155-69c910bb3249",
       "confidence": "0.7071102",
       "timestamp": 1513.89,
       "content": "what were fortunate enough to have to marketers is coauthors on this paper one of our colleagues at chicago jp dipayan bar bronnenberg with mark and professor in the netherlands so I'm in a week we get their input on this they don't seem to be walking around incredibly depressed at least as far as week",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "767fffcc-be8e-4d3b-b945-e47cbcfcc2c5"
     },
-    "1532.63": {
+    {
       "requestid": "90064787-2a8c-454b-9645-d317858daad1",
       "confidence": "0.6500291",
       "timestamp": 1532.63,
       "content": "tell your other professors of marketing there not making good money by selling product rights attorneys",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "33c75b4e-2e0e-4cf8-ae50-aa296ba453f8"
     },
-    "1538.9": {
+    {
       "requestid": "bb73e441-32ea-46ba-8e64-a130aa074d34",
       "confidence": "0.7337955",
       "timestamp": 1538.9,
       "content": "no other teaching their students at adam arkin product and I think they think and I think that you know that there are supportive of this is there a lot of categories where",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "51167685-b4fb-4831-97c5-61f8ffc5242d"
     },
-    "1546.81": {
+    {
       "requestid": "f3f9ad30-94a0-4d37-a712-22e10d7d2ce3",
       "confidence": "0.6988171",
       "timestamp": 1546.81,
       "content": "you know marketing if it really is no helping people and I don't think there's anything in the paper that really disputada chester there are you know there's a subset of categories what it looks like on people are overpaying for for brown's death and you have to remember is you know pharmacist take take pharmacies in doctors by headache medicine",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "32f12c24-3bdc-485e-af02-f10d2091bc18"
     },
-    "1564.08": {
+    {
       "requestid": "698fb3cf-3216-4921-b570-da29ab9883d3",
       "confidence": "0.7170743",
       "timestamp": 1564.08,
       "content": "it in the case of aspirin the national brankas maybe 5 times propel what are the store brankas so how do I define x price the experts are generally buy store brand maybe other 2 s price or 1.5 x price you get some of those doctors and pharmacies buying that the national run you know which we don't know for sure",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "2f811932-9e71-45f1-bd5e-58776ec4b9ed"
     },
-    "1582.27": {
+    {
       "requestid": "938bf7ac-4379-4718-a57e-3fb89fb85484",
       "confidence": "0.789167",
       "timestamp": 1582.27,
       "content": "I like to think about the box berman imagine that you walked into supermarket are you walking to walmart are you walking to cvs and instead of all these fancy brightly colored brandon packages in everything's in white boxes with like black",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "891dc98b-fe06-4c10-b357-386098e396fa"
     },
-    "1597.79": {
+    {
       "requestid": "c1b1ff61-2bfa-4de9-8c4b-9941b5d761f4",
       "confidence": "0.8174108",
       "timestamp": 1597.79,
       "content": "labels stating what it was and you had no brands in the store and you try to walk around and like figure out what to buy think that would be a pretty hard situation for most of us it would do you like spend a lot of time trying to get your groceries like the brands are serving",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2d0bcba0-9620-4418-9f7a-f43e8fa59584"
     },
-    "1612.02": {
+    {
       "requestid": "61b49b48-1214-4c92-990e-9a3e01b59f31",
       "confidence": "0.7666599",
       "timestamp": 1612.02,
       "content": "first as a mark of quality secunda's as a way to just make all these decisions we have to make every day easier in a deployable psychology to help us be able to quickly identify and get what we want I think I think there's clearly a lot of",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "29f40e54-ea0c-471d-a4bb-2881524c1e5d"
     },
-    "1626.67": {
+    {
       "requestid": "d601b2e8-4554-4b20-9664-f71e19c1545c",
       "confidence": "0.7453725",
       "timestamp": 1626.67,
       "content": "value being produced their the question is just you know where is it more where is it lasts is it air from exploiting the same mechanism that certain usefully many places to the drive up the profits in in a small number of categories",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "acc83562-f3be-42a7-b1cc-611ad7a6500d"
     },
-    "1641.22": {
+    {
       "requestid": "1fa36674-eff4-4eb9-a982-8c5309f90ed3",
       "confidence": "0.7185776",
       "timestamp": 1641.22,
       "content": "I'm curious on how this is change your guys consumption habits especially if you have kids especially when it comes to be no golden flure baby you know allergy medicine or anything that might give your kids are you songs",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "92245acd-bc0c-4c05-9974-2b2fe0d313a7"
     },
-    "1656.31": {
+    {
       "requestid": "07b822a7-37e6-4d9c-83fb-0e3e4afd83e5",
       "confidence": "0.7068977",
       "timestamp": 1656.31,
       "content": "how do I out I mean I buy a lot of storbraaten stuff I think I probably by little more now then before he wrote the study not so much because of anything I learned from the study but more because I think I would feel hypocritical I buy",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "429c5dd4-3382-471a-86c4-7a2976840aa2"
     },
-    "1672.62": {
+    {
       "requestid": "33b20c54-89f3-4f01-a187-aa817ddc2ef1",
       "confidence": "0.5329852",
       "timestamp": 1672.62,
       "content": "viagra after I do the same thing I can I add more afraid of that then I",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "1b2555ca-4282-46d4-8fda-1ef068864c91"
     },
-    "1678.1": {
+    {
       "requestid": "0c758369-a456-43a5-bc0e-06b8a0bcc0a6",
       "confidence": "0.4489011",
       "timestamp": 1678.1,
       "content": "any restaurants around that occasion",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "abc30472-cc2a-4baf-9650-5eabd3661fe7"
     },
-    "1680.09": {
+    {
       "requestid": "87615b6b-e068-4776-a2e1-12b3844abd6b",
       "confidence": "0.7600832",
       "timestamp": 1680.09,
       "content": "I also pretty much by just yell storebrand over the counter things in generic prescription things even for my kids I think that was true before this paper I don't think it really change much I think in my experience I guess is kinda growing up camilio where",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1b47e113-d9a9-411b-b953-349d08484a42"
     },
-    "1696.45": {
+    {
       "requestid": "73fd273c-20f2-4754-b041-3904d08f1d9d",
       "confidence": "0.6359744",
       "timestamp": 1696.45,
       "content": "this message that you're kind of a sucker if you pass by brent is pretty pervasive vendsel",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "dd0cb06b-775c-485a-bf82-35478550dde9"
     },
-    "1703.64": {
+    {
       "requestid": "ea0f271e-e1d1-4e40-9317-b525b95f4c42",
       "confidence": "0.7892423",
       "timestamp": 1703.64,
       "content": "is something you see a little bit nor did I think there's a kind of generational thing where 2030 years ago generix actually weren't very good and so maybe you carry that forward but it seems like for my own personal habits are something but it hasn't made a huge",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5ea41778-5e93-4456-a396-2eb62e1dd063"
     },
-    "1720.59": {
+    {
       "requestid": "7213c87b-39a9-4367-aef3-259ef4b055bf",
       "confidence": "0.8757228",
       "timestamp": 1720.59,
       "content": "yeah that's a great point and I guess it be nice to know",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "440163b5-5e2d-4e25-94a0-03739f5f040c"
     },
-    "1723.94": {
+    {
       "requestid": "a8ee1deb-7877-4f3e-b86f-9cc203509b83",
       "confidence": "0.7758321",
       "timestamp": 1723.94,
       "content": "you guys not at this is your realm how is the shopper to tell the difference between a us store brand generic in just a piece of junk mean sometimes the line is pretty fun right",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "79009315-f1c1-4943-91ba-9a5a784ad007"
     },
-    "1735.24": {
+    {
       "requestid": "15c0f7ca-6eac-4603-8f7b-34dd68382f42",
       "confidence": "0.7933022",
       "timestamp": 1735.24,
       "content": "tell me all they need to do is go get access to the nielsen homescan panel",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b5a1a106-c7e8-4987-ad53-e006708985fc"
     },
-    "1738.8": {
+    {
       "requestid": "25aedde7-2c52-42f8-ae51-a5a45f4d7aa6",
       "confidence": "0.485636",
       "timestamp": 1738.8,
       "content": "do survey express and just run some attractions in then it's like a pretty easy to see anything in the world is essentially the civilian's up there why is there yet",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "e8a39434-e76f-4e3b-9a89-cf45fc21eb3d"
     },
-    "1748.41": {
+    {
       "requestid": "b79b9d75-9df2-48e6-ac53-e64d68f4c1bf",
       "confidence": "0.6822422",
       "timestamp": 1748.41,
       "content": "are you better than are in a case of my sense is that store brands have gotten a lot better in that",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "8cc15200-dbed-4743-bc33-ec47a27b03a8"
     },
-    "1752.74": {
+    {
       "requestid": "013a9655-8d64-4225-9f32-cdf618d617fd",
       "confidence": "0.7558439",
       "timestamp": 1752.74,
       "content": "you know major retailers now in best a lot in the supply chain for the store and then try to make sure that there is comfortable as possible to the national razor side by side with them on the shelf you look at data on trans you know starbrand as a sheriff persons just going out tremendously starred in the 1990s really taking off and as continue to do that",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "62f2a6e4-382e-41a2-ac4f-8ee0b99c65dd"
     },
-    "1772.48": {
+    {
       "requestid": "7c25a084-bd29-43b2-a6a0-b9b56f840a9e",
       "confidence": "0.8657809",
       "timestamp": 1772.48,
       "content": "so I might be for most categories",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "f870e40b-47dd-47dd-81ab-4566297b3a35"
     },
-    "1775.75": {
+    {
       "requestid": "be081fa8-8b23-46c4-a153-0c9df7d63215",
       "confidence": "0.6558776",
       "timestamp": 1775.75,
       "content": "you know leisti scanavino supermarket in drug store keizer products are my dick is pretty safe",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "fc691d3b-adba-4b5f-9956-df70f252a80d"
     },
-    "1781.8": {
+    {
       "requestid": "da5baab8-1568-430d-8cb8-a4fe4ea048b7",
       "confidence": "0.7848305",
       "timestamp": 1781.8,
       "content": "to buy store brand and then there gonna be cases were just a matter of personal taste like maybe don't like the taste of the store brand cold or something you know that I don't like in an economist tell you",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "4bef1f8a-1b8d-480a-a648-3ad07370f857"
     },
-    "1792.08": {
+    {
       "requestid": "3a7b87e9-7042-4bd3-9e07-d52463621090",
       "confidence": "0.5496922",
       "timestamp": 1792.08,
       "content": "probably an action by the kind",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "839f452d-e57a-4a53-be36-d8258a4475f0"
     },
-    "1794.46": {
+    {
       "requestid": "bd85b4d6-526e-4663-b5c3-5789d8d9d387",
       "confidence": "0.6697124",
       "timestamp": 1794.46,
       "content": "sorry it's so trying a store brand cola and see how your taste buds like it compared to kokas pretty simple and cheap and not much commitment to atwater of something way bigger am choosing a college maybe hausermann supposed to assess",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "ad138b81-d3c4-4b99-bdd5-a1c6abb5b3d6"
     },
-    "1809.47": {
+    {
       "requestid": "983411f8-fda1-483b-abbd-6a20b8b6ab16",
       "confidence": "0.7930401",
       "timestamp": 1809.47,
       "content": "the premium brand versus yell if michael the generic college with that the less premium brand of college",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "69be3966-ba6e-4d7f-8213-936e9675035b"
     },
-    "1816.17": {
+    {
       "requestid": "d9cbce61-6098-47ac-811e-a3931113ea19",
       "confidence": "0.6777011",
       "timestamp": 1816.17,
       "content": "I did that's a great question we should do a survey and see where professors at fancy name brand how much better I know naked",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "c3266a8c-6141-440e-97b7-5c0fe55a7241"
     },
-    "1824.15": {
+    {
       "requestid": "06d211c4-6df9-484f-9517-efa8f2effab9",
       "confidence": "0.6962851",
       "timestamp": 1824.15,
       "content": "go to say I need the same methodology would deliver a very convincing answer in the opposite direction but if you took the somewhat controversial view that college professors are sophisticated know what did they are doing which could be debated some legs",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ed00f0e2-08a5-45d5-9907-1ab4559b7986"
     },
-    "1837.7": {
+    {
       "requestid": "21d26826-c714-4926-b369-20eded8ac1e9",
       "confidence": "0.7670384",
       "timestamp": 1837.7,
       "content": "definitely college professors at fancy universities I also pay extra center kids events universities for sure",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f7a3ebd1-23d9-423d-889c-6e886588cc00"
     },
-    "1844.81": {
+    {
       "requestid": "b8bccfc7-06b6-4da6-b33c-95b97768b8f6",
       "confidence": "0.7172205",
       "timestamp": 1844.81,
       "content": "although that's a little bit of a self reinforcing pat on the back right because you know if I'm a professor the fancy universita specially plimley it is you know the at that type of university only is deserving of my offspring so",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "574b8a26-a440-43bc-940a-6358d29768a6"
     },
-    "1861.83": {
+    {
       "requestid": "39ec064c-aba1-4d93-803e-8e8b4580badc",
       "confidence": "0.5360646",
       "timestamp": 1861.83,
       "content": "rap but I'm going to bed and there's an event on his bronco because you know it could be the chef doesn't wanna have",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "6a909386-7523-4478-8e03-662bdb2589ea"
     },
-    "1867.91": {
+    {
       "requestid": "ad63b0f7-f4ab-43cc-80e5-bff7b59569bf",
       "confidence": "0.7312855",
       "timestamp": 1867.91,
       "content": "storebrand baking soda on the shelf I wanna have some fancy baking soda from italy or something like that so that they can tell a story about how sophisticated are tastar for baking soda new medicine the same thing there an anime be there is a little bit of that going on",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "c96b50e6-12df-416b-9718-74a9dd68ccd1"
     },
-    "1881.14": {
+    {
       "requestid": "e7d38228-dfe5-4fde-a192-afcb786a7607",
       "confidence": "0.7966295",
       "timestamp": 1881.14,
       "content": "I would be interesting to look at college professors more generally I bet it's the case that faculty at state universities are more likely to pay extra send the kids to ivy league universities than the average person",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "0fa835db-2d63-4af4-835f-c1dd636229d4"
     },
-    "1894.78": {
+    {
       "requestid": "4507b96c-f19e-4da8-87b3-5ea1a90e8d80",
       "confidence": "0.6480891",
       "timestamp": 1894.78,
       "content": "at so it will be right back is that your neck study that we should",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "0101de97-500e-47d8-9729-85fc36956bf0"
     },
-    "1898.3": {
+    {
       "requestid": "4a490178-262f-44c7-b692-eb0befa09cd8",
       "confidence": "0.5965547",
       "timestamp": 1898.3,
       "content": "be looking for that would read that",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "80899a62-e0f6-4aef-bf21-ae813c9cba77"
     },
-    "1901.02": {
+    {
       "requestid": "bd4ff04f-a474-4b06-bb0b-db31f6dcfe1b",
       "confidence": "0.6723385",
       "timestamp": 1901.02,
       "content": "this is your idea maybe you could maybe we should work on this together",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "800096c1-3891-4ffa-8c30-96f9d818a385"
     },
-    "1905.0": {
+    {
       "requestid": "2edea073-9f46-4465-83e7-6e3b8823ea85",
       "timestamp": 1905.0,
-      "content": ""
+      "content": "",
+      "uuid": "5c04bfb8-7b8f-40f6-b598-7c97a0bd620b"
     },
-    "1908.25": {
+    {
       "requestid": "d8329b1a-5d5f-4e21-929b-6edfdf519fdf",
       "timestamp": 1908.25,
-      "content": ""
+      "content": "",
+      "uuid": "fbd58c41-6112-44b8-9bef-9fa922a6de49"
     },
-    "1911.61": {
+    {
       "requestid": "b690698d-0aed-4055-8fda-07f4ccc6bd6d",
       "timestamp": 1911.61,
-      "content": ""
+      "content": "",
+      "uuid": "69dd3170-e4bd-464e-b237-4cfbdf275d8b"
     },
-    "1915.54": {
+    {
       "requestid": "a3a1317b-9bbf-493e-8ed9-36d3b298f8a1",
       "confidence": "0.6418708",
       "timestamp": 1915.54,
       "content": "thanks to jesse shapiro inmagine schoeffer there fine knowledge today and thanks everyone have to partner peanut butter and jelly taste test which you will recall this really a pastrick all the pb and j with storebrand",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "0138bdb5-cfd2-45f5-ae70-1c48d865ad76"
     },
-    "1928.8": {
+    {
       "requestid": "7ed58e6c-6fb7-48d7-82f2-6da1fcc9b11a",
       "confidence": "0.6346052",
       "timestamp": 1928.8,
       "content": "anything like everybody liked it just might caroline english made the sandwiches they were eaten by matt abramovitz gretta cohn jondle or jannaf read karen hablik david herman matupi braille am lormier and email to melissa o'donnell record of speech and steven valentino",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "e11d0ca0-9ba6-4613-bf79-678e3f418cd6"
     },
-    "1946.56": {
+    {
       "requestid": "4c629acf-3a6a-4515-b30d-cbe6af1758ad",
       "confidence": "0.7208777",
       "timestamp": 1946.56,
       "content": "we should say that not everyone was fooled by hour",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "ff01abe5-d146-435f-9029-407416fb2c4d"
     },
-    "1950.19": {
+    {
       "requestid": "15bfd047-3458-45bb-9943-35bbb8d6a7fe",
       "confidence": "0.6509753",
       "timestamp": 1950.19,
       "content": "this trip is it is exactly the same the same to me thank you",
-      "speaker": "S307"
+      "speaker": "S307",
+      "uuid": "9a67b95a-5b53-4793-b2c2-726b5496324f"
     },
-    "1957.11": {
+    {
       "requestid": "49a9cc17-9089-4f3c-ad2e-cc142609204f",
       "confidence": "0.4860063",
       "timestamp": 1957.11,
       "content": "after the sandwiches in chattanooga",
-      "speaker": "S308"
+      "speaker": "S308",
+      "uuid": "b3baeb17-79ca-48c3-a9f5-f3403cb4b65b"
     },
-    "1961.16": {
+    {
       "requestid": "fe9b2af9-b1fe-4c2c-8233-8b02b589dac4",
       "confidence": "0.7764494",
       "timestamp": 1961.16,
       "content": "for those of you who buy anything which is everybody what makes you buy a premium brand when there's a kind of store brand of cleveland and then when you buy a storebrand it when you wouldn't",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "7b8b02a3-9e91-4658-a9ea-0e50db21b3cd"
     },
-    "1972.7": {
+    {
       "requestid": "0fb70222-8a4f-4d16-9bc2-e52fd40066e2",
       "confidence": "0.7600778",
       "timestamp": 1972.7,
       "content": "if it's a party and I'm feeling cheap sure you know but I like if it's gonna be on display then I would probably bring something",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "a3ad75ff-e9db-446d-bdfb-5d9ccaa3bdba"
     },
-    "1980.73": {
+    {
       "requestid": "7e3c411f-bc43-48a1-bfc9-6848572e9b53",
       "confidence": "0.7507785",
       "timestamp": 1980.73,
       "content": "that was pretty I would in a heartbeat by generic medicine",
-      "speaker": "S313"
+      "speaker": "S313",
+      "uuid": "3aeabaf4-57b8-4148-ae04-b8b8fd4af5d2"
     },
-    "1984.32": {
+    {
       "requestid": "6a6ac517-6c78-4bc8-b01f-fefcd38290d6",
       "confidence": "0.5747975",
       "timestamp": 1984.32,
       "content": "I can't taste anything new",
-      "speaker": "S313"
+      "speaker": "S313",
+      "uuid": "bd468c9f-826f-408b-987e-1c51fe5236af"
     },
-    "1986.4": {
+    {
       "requestid": "2ecbc438-7740-4da6-b8d1-ad3f8ace5409",
       "confidence": "0.8456237",
       "timestamp": 1986.4,
       "content": "father when you get sent out to buy like cold medicine for your screaming 6 month old",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "ca755dab-9c98-46b2-9151-95d1ab709c67"
     },
-    "1992.86": {
+    {
       "requestid": "fea39d21-f126-4d42-af58-670a82d18b65",
       "confidence": "0.8488665",
       "timestamp": 1992.86,
       "content": "you're gonna say I wanna see the 5 bucks and I'm gonna buy the cheap and easy",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "728f8cd6-fbc3-4a79-97dc-bdd3846acd63"
     },
-    "1997.61": {
+    {
       "requestid": "355f092b-7993-4a39-b3ae-ed4ca2a6700c",
       "confidence": "0.7028035",
       "timestamp": 1997.61,
       "content": "bissell or in the room but I am gonna say yes I'm at work ethic and I feel like most of these product prices in about it is mostly made in the same place my perception the things are just like one big extruder that puts it in this jar nachar and his label them",
-      "speaker": "S313"
+      "speaker": "S313",
+      "uuid": "e034e0b3-3256-404f-9604-b1b0a1833c8b"
     },
-    "2012.65": {
+    {
       "requestid": "ea3bb03c-a014-4ff7-ac2c-9949dfec9d59",
       "confidence": "0.5986927",
       "timestamp": 2012.65,
       "content": "how much and so save 5 bucks even on my phone",
-      "speaker": "S308"
+      "speaker": "S308",
+      "uuid": "f46d28cc-8f2b-412c-a5e0-59c3ea19a143"
     },
-    "2018.3": {
+    {
       "requestid": "810d0253-a979-4e9c-973d-c5d3ad6c4a24",
       "confidence": "0.7733193",
       "timestamp": 2018.3,
       "content": "name one thing if any that you would never buy a store brand generic brand non premium brand for a orange",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "1bf61f06-f3f3-41ee-a647-c8023999039a"
     },
-    "2026.72": {
+    {
       "requestid": "53ca536c-d4de-4ec7-bcba-8bc62ae0c51b",
       "confidence": "0.7331706",
       "timestamp": 2026.72,
       "content": "choose I'd never get the store brand of this very basic facial moisturizer that I pay like 3 times as much for condom",
-      "speaker": "S21"
+      "speaker": "S21",
+      "uuid": "a682b73a-e49e-4ce7-a863-fc7ccdd492a4"
     },
-    "2034.33": {
+    {
       "requestid": "55764c42-6af2-4aac-8322-d3a58b35822e",
       "timestamp": 2034.33,
-      "content": ""
+      "content": "",
+      "uuid": "a81d95df-7395-4cae-9df3-daee1e0e37e3"
     },
-    "2040.53": {
+    {
       "requestid": "51e0717e-5e95-44f7-873e-01bdae8d4ff0",
       "confidence": "0.5785389",
       "timestamp": 2040.53,
       "content": "ask john what else but touches your genitals would you know",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "b039ac69-4abb-4aa3-9399-9d02f751f052"
     },
-    "2044.92": {
+    {
       "requestid": "d35a31f9-e8b9-40cb-aeec-94d27610e884",
       "confidence": "0.1253096",
       "timestamp": 2044.92,
       "content": "funny",
-      "speaker": "S307"
+      "speaker": "S307",
+      "uuid": "f50229d5-e90a-4b19-a572-ee7e4be04f6c"
     },
-    "2063.17": {
+    {
       "requestid": "96139324-7b56-4134-b78d-2a49530f3bbc",
       "confidence": "0.6926148",
       "timestamp": 2063.17,
       "content": "get my cat to sneeze on next weeks show me ask what does it take to pursue something that everyone else thinks it's not know when to his ideas but it really seriously and he was ostracized ocellated they were people called in the great american humorist put in the profession he was intellectually",
-      "speaker": "S326"
+      "speaker": "S326",
+      "uuid": "997c870c-e358-45e6-b5bf-d1fd40d1baf9"
     },
-    "2082.15": {
+    {
       "requestid": "ae4192be-4af1-4891-af6d-61cebb524e8a",
       "confidence": "0.7082191",
       "timestamp": 2082.15,
       "content": "as it's been said first they ignore you then they laugh at you then they fight you and you when we talk about 3 radical thinkers who is vybz did not follow it straight line",
-      "speaker": "S326"
+      "speaker": "S326",
+      "uuid": "a8f8eb11-4390-4b98-81b6-c71f23d020dd"
     },
-    "2093.53": {
+    {
       "requestid": "c69522b0-39af-4b1b-af95-4fcc103a7cec",
       "confidence": "0.800411",
       "timestamp": 2093.53,
       "content": "outsiders by design we call it that's next time I'm free can I mix radio",
-      "speaker": "S326"
+      "speaker": "S326",
+      "uuid": "77075137-9cd6-4e7a-9804-98e70b4e8ebb"
     },
-    "2104.65": {
+    {
       "requestid": "2aa76c0d-a955-4214-8119-effaa43e2d62",
       "confidence": "0.6534715",
       "timestamp": 2104.65,
       "content": "freakonomics radio is produced byWNYCN.net production our staff includes david herman pregra southpeak predacons bourail am susie lechtenberg in crispins in with help from simon tablet if you want more",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "7e7c3490-bed8-4ad6-8ef2-cd80ce267721"
     },
-    "2119.06": {
+    {
       "requestid": "72a5c1ec-fc81-4151-90fd-a3683f1fb36e",
       "confidence": "0.7530883",
       "timestamp": 2119.06,
       "content": "freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio aplasta book and more",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "1b55e380-5c09-4e63-94a9-64644ec16024"
     },
-    "2137.45": {
+    {
       "requestid": "cd97a6b4-91ae-4d02-8907-52eb4168f4ec",
       "timestamp": 2137.45,
-      "content": ""
+      "content": "",
+      "uuid": "14c05fbc-29d6-49f2-a610-4503b68a5257"
     },
-    "2139.76": {
+    {
       "requestid": "a0ca41f7-4a64-413b-aa87-e5eb48be22b3",
       "confidence": "0.7901214",
       "timestamp": 2139.76,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "3723be41-f071-4667-a778-935075e1fcff"
     },
-    "2158.99": {
+    {
       "requestid": "906abee1-71f6-47cc-938c-9c783e901b9b",
       "confidence": "0.8912264",
       "timestamp": 2158.99,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "ca46b0a6-56e1-4d2f-a30f-f9df9b21568f"
     }
-  }
+  ]
 }

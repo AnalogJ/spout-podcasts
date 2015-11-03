@@ -3,1174 +3,1369 @@
   "date": "2015-08-13",
   "description": "<p>What do NASCAR drivers, Glenn Beck and the hit men of the NFL have in common?</p><img src=\"http://feeds.feedburner.com/~r/freakonomicsradio/~4/JYnow913U_Q\" height=\"1\" width=\"1\" alt=\"\"/>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/JrRfdPXHbg4/freakonomics_podcast081215.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "1ab79f2b-ced3-44c0-a82e-ad2a3d8346d0",
       "confidence": "0.6134038",
       "timestamp": 0,
-      "content": "who the <profanity>fuck</profanity> is this news I've been reading this book called patty at the biography of tom petty written by warren st warren"
+      "content": "who the <profanity>fuck</profanity> is this news I've been reading this book called patty at the biography of tom petty written by warren st warren",
+      "uuid": "00a33b61-e644-4644-83bc-abb94b6f2a51"
     },
-    "10": {
+    {
       "requestid": "e8383bb7-1f0b-4ce3-8d56-aa5f9ded5657",
       "confidence": "0.708672",
       "timestamp": 10,
-      "content": "used to be in a band called adelphoi goes I used to be in a band called the great profile and we played some dates with this way goes love them I love tom petty 2"
+      "content": "used to be in a band called adelphoi goes I used to be in a band called the great profile and we played some dates with this way goes love them I love tom petty 2",
+      "uuid": "60c0748c-84ac-4eb2-b623-0e5292bebca1"
     },
-    "20": {
+    {
       "requestid": "b9be41f1-6155-438d-b1a1-470e034e15cd",
       "confidence": "0.7485593",
       "timestamp": 20,
-      "content": "in reading more in book about tom petty brought back old memories about what it means to be in a band so it's hard"
+      "content": "in reading more in book about tom petty brought back old memories about what it means to be in a band so it's hard",
+      "uuid": "26b07659-2b82-4d1a-bbd9-b25215a8cd41"
     },
-    "30": {
+    {
       "requestid": "30de90f4-fa02-4ccc-9f21-e2fb3ccca8fa",
       "confidence": "0.7090393",
       "timestamp": 30,
-      "content": "I like being married to 3 are 4 people at the same time but also if your gang you share things with me will never share with anyone"
+      "content": "I like being married to 3 are 4 people at the same time but also if your gang you share things with me will never share with anyone",
+      "uuid": "148f5380-0dee-4175-9214-2dcc3b70119f"
     },
-    "40": {
+    {
       "requestid": "e2147e37-9fdc-48df-a13d-0d082b0f1923",
       "confidence": "0.5691908",
       "timestamp": 40,
-      "content": "again the parable parable games release 2 bottles at you you please note triumph the story so weird that it went outside to bed whenever"
+      "content": "again the parable parable games release 2 bottles at you you please note triumph the story so weird that it went outside to bed whenever",
+      "uuid": "b4b20f43-b343-4778-b6b5-be937b0d4f0c"
     },
-    "50": {
+    {
       "requestid": "e9a2eb05-4c1b-45e6-b5f9-fdba3f48f210",
       "confidence": "0.6564982",
       "timestamp": 50,
-      "content": "remember he never told anyone else and of course the music especially the early stuff you broke when you thought you knew you were doing but then as years go on"
+      "content": "remember he never told anyone else and of course the music especially the early stuff you broke when you thought you knew you were doing but then as years go on",
+      "uuid": "b751e308-ccd6-4f1e-908c-68aa9dd4a7f8"
     },
-    "60": {
+    {
       "requestid": "76bf29ae-0bca-4fdd-96bb-79e82318aaaa",
       "confidence": "0.6931058",
       "timestamp": 60,
-      "content": "can you get a little bit better come zabihi didn't know what you were doing so he still listen to that really sucks sometimes can we look at pictures of yourself back in junior high sex"
+      "content": "can you get a little bit better come zabihi didn't know what you were doing so he still listen to that really sucks sometimes can we look at pictures of yourself back in junior high sex",
+      "uuid": "998d08f7-6be1-4289-8db1-6ac7117b78d2"
     },
-    "70": {
+    {
       "requestid": "f74d94b8-6c93-437d-9914-c834b67799d3",
       "confidence": "0.6588671",
       "timestamp": 70,
-      "content": "really me come on but can't stop listening and thinking all these thoughts got me digging in the freakonomics radio archives"
+      "content": "really me come on but can't stop listening and thinking all these thoughts got me digging in the freakonomics radio archives",
+      "uuid": "e7782beb-48e1-4ca6-8d41-a5a5fbe82f20"
     },
-    "80": {
+    {
       "requestid": "8411a093-15bb-4580-b8c5-f4d422c07841",
       "confidence": "0.7313673",
       "timestamp": 80,
-      "content": "I went back back back and I finally got the very first episode river put out early 2010 episode called"
+      "content": "I went back back back and I finally got the very first episode river put out early 2010 episode called",
+      "uuid": "447c419c-ac23-4545-872e-0f857625cde5"
     },
-    "90": {
+    {
       "requestid": "7c3e4312-3987-48de-b7c3-1ea0c0f093d4",
       "confidence": "0.7268246",
       "timestamp": 90,
-      "content": "dangers of safety and since it's august and we were looking to put out an episode from the archives I thought why not"
+      "content": "dangers of safety and since it's august and we were looking to put out an episode from the archives I thought why not",
+      "uuid": "344f79ef-45a0-4c3d-acef-999ef652b554"
     },
-    "100": {
+    {
       "requestid": "870deb24-8e2d-4c81-92cb-601065f39808",
       "confidence": "0.7458608",
       "timestamp": 100,
-      "content": "how much in the past when he did well you let us know what you everything in this episode up today at the time now lot of it isn't"
+      "content": "how much in the past when he did well you let us know what you everything in this episode up today at the time now lot of it isn't",
+      "uuid": "fef6b567-f79b-4ce3-949f-75b434343b62"
     },
-    "110": {
+    {
       "requestid": "1f4d6cc5-b765-48ff-a4b9-3513cb97ef7e",
       "confidence": "0.9054223",
       "timestamp": 110,
-      "content": "I'll give me some specifics later"
+      "content": "I'll give me some specifics later",
+      "uuid": "b89f6e1b-00ab-404e-abef-3d300bc1c34e"
     },
-    "120": {
+    {
       "requestid": "0dde46b6-8951-410a-8d1b-f04ab229eb9e",
       "confidence": "0.8478475",
       "timestamp": 120,
-      "content": "shark attacks the biggest joke of all time"
+      "content": "shark attacks the biggest joke of all time",
+      "uuid": "c987cb2c-0a5c-4bbc-8a42-48d446f54d94"
     },
-    "130": {
+    {
       "requestid": "1fa4f5de-ac58-4ded-abd5-14926c1d6275",
       "confidence": "0.8264275",
       "timestamp": 130,
-      "content": "the biggest waste of time ever"
+      "content": "the biggest waste of time ever",
+      "uuid": "9996448f-9471-4990-899c-f9ae8146f89e"
     },
-    "140": {
+    {
       "requestid": "f24d1f56-7a67-408a-81ab-6af381ca1dfb",
       "confidence": "0.7147517",
       "timestamp": 140,
-      "content": "this is freakonomics radio new podcast about his side of everything in this episode what do nass car driver"
+      "content": "this is freakonomics radio new podcast about his side of everything in this episode what do nass car driver",
+      "uuid": "c8acc015-7c2d-45de-a039-9bba712ff220"
     },
-    "150": {
+    {
       "requestid": "42c8aae1-bdcc-48d4-a4f3-16249ad173cb",
       "confidence": "0.6760653",
       "timestamp": 150,
-      "content": "glenn beck and his men of the nfl have in common here's your host stephen dubner"
+      "content": "glenn beck and his men of the nfl have in common here's your host stephen dubner",
+      "uuid": "2b611641-f1a1-434c-8765-1602a3243761"
     },
-    "160": {
+    {
       "requestid": "7d1dd2a6-2d9d-459b-9450-0cae0fff0521",
       "confidence": "0.6881554",
       "timestamp": 160,
-      "content": "jump and almost everybody does everyday driving your car credibly LOL I bet that if if nothing more to kill you except drive your car in"
+      "content": "jump and almost everybody does everyday driving your car credibly LOL I bet that if if nothing more to kill you except drive your car in",
+      "uuid": "e82b473a-f6d0-4093-b296-7f277aafbd9c"
     },
-    "170": {
+    {
       "requestid": "903d117f-bf1a-49e6-a186-63f9d001b99a",
       "confidence": "0.8158829",
       "timestamp": 170,
-      "content": "all you did was drive your car day and night day night day night expect to live for 200 50th steve levitt is the guy I write books with freakonomics a super freakonomics"
+      "content": "all you did was drive your car day and night day night day night expect to live for 200 50th steve levitt is the guy I write books with freakonomics a super freakonomics",
+      "uuid": "210e9568-3dab-44a9-a957-2ee07557e864"
     },
-    "180": {
+    {
       "requestid": "24fbcdfd-0460-42e9-b36a-e6d7226cf6da",
       "confidence": "0.8676654",
       "timestamp": 180,
-      "content": "he's a professor at the university chicago and it looks like a professor skinny thick glasses comfortable shoes no ones ever gonna miss take him for it"
+      "content": "he's a professor at the university chicago and it looks like a professor skinny thick glasses comfortable shoes no ones ever gonna miss take him for it",
+      "uuid": "9da5a0f1-c9f8-410c-8b6d-cb7050491293"
     },
-    "190": {
+    {
       "requestid": "c117945c-b2f7-4931-8c13-36031c2c4957",
       "confidence": "0.7540749",
       "timestamp": 190,
-      "content": "sky but there are many things he's afraid of you know why because he's a date a guy who spent a lot of time figuring out will kill you know what"
+      "content": "sky but there are many things he's afraid of you know why because he's a date a guy who spent a lot of time figuring out will kill you know what",
+      "uuid": "67c7e4f6-f0f2-43b6-af91-2b0912213a77"
     },
-    "200": {
+    {
       "requestid": "1cb14761-bed9-4c35-9057-bef507551b54",
       "confidence": "0.549809",
       "timestamp": 200,
-      "content": "so he thinks most of our fears bensley overrated I think there's 5 on sync for wanting anything but I am spyder"
+      "content": "so he thinks most of our fears bensley overrated I think there's 5 on sync for wanting anything but I am spyder",
+      "uuid": "cf1505d8-a535-48a5-9490-312fa30db5ce"
     },
-    "210": {
+    {
       "requestid": "80574e1f-9cb5-467c-bcb8-3e1fafc0f053",
       "confidence": "0.6367723",
       "timestamp": 210,
-      "content": "asian tigers and rhinos meetings that we shouldn't be afraid of bugs me more terrified of them but I think people are a <profanity>tard</profanity> are predisposed to"
+      "content": "asian tigers and rhinos meetings that we shouldn't be afraid of bugs me more terrified of them but I think people are a <profanity>tard</profanity> are predisposed to",
+      "uuid": "3b2c5201-5ed1-4a65-b276-11480703adf1"
     },
-    "220": {
+    {
       "requestid": "c4f9d245-276a-489a-8209-4ce8eeb23f54",
       "confidence": "0.7251809",
       "timestamp": 220,
-      "content": "be frightened of things and in the world of media weyrich granola bar did the magic kidnapping is a great example of people you to be kidnapped a lot more than they are today"
+      "content": "be frightened of things and in the world of media weyrich granola bar did the magic kidnapping is a great example of people you to be kidnapped a lot more than they are today",
+      "uuid": "b790df73-0351-4db0-8355-bd0855c55db4"
     },
-    "230": {
+    {
       "requestid": "be563215-f27f-4929-9781-75d26808c909",
       "confidence": "0.7910097",
       "timestamp": 230,
-      "content": "but he wouldn't hear about the little black girls being kidnapped in utah if you lived in chicago or new york but now a little blonde a good kid"
+      "content": "but he wouldn't hear about the little black girls being kidnapped in utah if you lived in chicago or new york but now a little blonde a good kid",
+      "uuid": "cff393c1-7c97-424f-b5ab-33bf4c70a22f"
     },
-    "240": {
+    {
       "requestid": "1dc325b6-aafc-4126-a31a-725337f6408d",
       "confidence": "0.5429742",
       "timestamp": 240,
-      "content": "baptist national news the media promotes fears because people love to read about cascaval horror movies who who in their right mind yoksa mackeeper mars would think that hoe"
+      "content": "baptist national news the media promotes fears because people love to read about cascaval horror movies who who in their right mind yoksa mackeeper mars would think that hoe",
+      "uuid": "c334c9df-60d0-474e-b452-9e9b9e0f4962"
     },
-    "250": {
+    {
       "requestid": "dc619cf5-c422-4969-a470-21f202ee33cb",
       "confidence": "0.6690069",
       "timestamp": 250,
-      "content": "movies with do you think try to be successful john were people try to scare themselves alive people afraid of needles don't go to the hospital and have the needle stuck in them just as I can"
+      "content": "movies with do you think try to be successful john were people try to scare themselves alive people afraid of needles don't go to the hospital and have the needle stuck in them just as I can",
+      "uuid": "3e422d55-302e-4a39-a406-3bc879c9af03"
     },
-    "260": {
+    {
       "requestid": "c18c2fc3-94de-4e4c-a945-4cc9e29969b2",
       "confidence": "0.6860681",
       "timestamp": 260,
-      "content": "the atmosphere it is strange that that um how people's brains work that way you don't even stranger football is the running wave"
+      "content": "the atmosphere it is strange that that um how people's brains work that way you don't even stranger football is the running wave",
+      "uuid": "fca4c289-a135-42fd-a666-a73c01c3256f"
     },
-    "270": {
+    {
       "requestid": "1e64e52a-e892-4979-901b-3a5f8f7ba178",
       "confidence": "0.8491957",
       "timestamp": 270,
-      "content": "scary things are highly improbable football players run into each other on purpose really hard without fear um terence newman"
+      "content": "scary things are highly improbable football players run into each other on purpose really hard without fear um terence newman",
+      "uuid": "097a801b-b8a8-4868-9684-4b87e4ae0b4f"
     },
-    "280": {
+    {
       "requestid": "d8cab0fd-4406-4601-bba5-658dfa5ff376",
       "confidence": "0.8527049",
       "timestamp": 280,
-      "content": "the dallas cowboys terence newman is when the hardest hitters in the nfl you might think he's a big guy but he's not his belt 511 190 pounds"
+      "content": "the dallas cowboys terence newman is when the hardest hitters in the nfl you might think he's a big guy but he's not his belt 511 190 pounds",
+      "uuid": "83014bf7-cb64-479c-aa88-5552de24e9fa"
     },
-    "290": {
+    {
       "requestid": "e0309334-4d36-4643-8e79-957253f263d6",
       "confidence": "0.6969479",
       "timestamp": 290,
-      "content": "that said he's a rock hard dude or is he put it swol as and swollen with muscle on the field new minutes"
+      "content": "that said he's a rock hard dude or is he put it swol as and swollen with muscle on the field new minutes",
+      "uuid": "efa399a2-6727-4c16-91f4-e77f85db5d52"
     },
-    "300": {
+    {
       "requestid": "cb97d026-f05e-4857-b027-184e89ed2055",
       "confidence": "0.6943878",
       "timestamp": 300,
-      "content": "famous for launching is body like a missile if your quarterback what's your favorite thing to do a little favor things out she get into sections in in blue"
+      "content": "famous for launching is body like a missile if your quarterback what's your favorite thing to do a little favor things out she get into sections in in blue",
+      "uuid": "ee8ff520-19a1-466f-bd79-aa997dc50d2e"
     },
-    "310": {
+    {
       "requestid": "cad3e3e8-40d5-44cb-a1ac-fa764cb7d47e",
       "confidence": "0.5150932",
       "timestamp": 310,
-      "content": "I've touched down in a second favorite thing in second everything is blown up receivers are we in for those who don't know blown up receiver means you I would is that mean exactly"
+      "content": "I've touched down in a second favorite thing in second everything is blown up receivers are we in for those who don't know blown up receiver means you I would is that mean exactly",
+      "uuid": "65e46962-254b-44ea-9d8b-485413a5b168"
     },
-    "320": {
+    {
       "requestid": "2f05feae-0558-43a3-a9cf-5727f3ad686b",
       "confidence": "0.604782",
       "timestamp": 320,
-      "content": "or running back but it is this mean cachuma with a good salad it in macy's be clear when you get a min in the go back where did you go running over top"
+      "content": "or running back but it is this mean cachuma with a good salad it in macy's be clear when you get a min in the go back where did you go running over top",
+      "uuid": "e8f4247c-8d04-4cf8-9ef9-ef46ef492d33"
     },
-    "330": {
+    {
       "requestid": "5b6a59b4-4d2e-4070-b1eb-5cfac16ce8fb",
       "confidence": "0.6908887",
       "timestamp": 330,
-      "content": "vman celebrating and going crazy know that stuff robert c 102 CANT you and how old are you old are you"
+      "content": "vman celebrating and going crazy know that stuff robert c 102 CANT you and how old are you old are you",
+      "uuid": "c34df846-b677-42a4-aa4a-77b2ae457556"
     },
-    "340": {
+    {
       "requestid": "582413fe-6b06-4e5c-8fc3-7a0b93701449",
       "confidence": "0.7439278",
       "timestamp": 340,
-      "content": "I think 71 robert cantu there is a professor of neurosurgery at boston university any specializes in the study of traumatic encephalopathy or major blow"
+      "content": "I think 71 robert cantu there is a professor of neurosurgery at boston university any specializes in the study of traumatic encephalopathy or major blow",
+      "uuid": "20ff2312-d27e-408a-bdf9-93b609239520"
     },
-    "350": {
+    {
       "requestid": "00276234-4de7-41f4-8e08-6fb5a3562884",
       "confidence": "0.5550741",
       "timestamp": 350,
-      "content": "is the brain so let's talk about the NFLI love you wanna feel you love the nfl yes she's a fuse holder"
+      "content": "is the brain so let's talk about the NFLI love you wanna feel you love the nfl yes she's a fuse holder",
+      "uuid": "3da66cd5-1007-4234-bbd2-39c591281a82"
     },
-    "360": {
+    {
       "requestid": "30804974-1b68-4df6-9d3c-8468aa68685c",
       "confidence": "0.6939205",
       "timestamp": 360,
-      "content": "who is doctor cantu and I are not alone super bowl become a national holiday more people watch on tv any other show"
+      "content": "who is doctor cantu and I are not alone super bowl become a national holiday more people watch on tv any other show",
+      "uuid": "e1a073b8-b962-46c5-b5df-d4cec917644a"
     },
-    "370": {
+    {
       "requestid": "6de79aab-8a02-4d7a-baf1-8faa26050c80",
       "confidence": "0.7589058",
       "timestamp": 370,
-      "content": "millions of kids grow up with adrena playing in the nfl my own sonic would is 9 years old 4 foot 254"
+      "content": "millions of kids grow up with adrena playing in the nfl my own sonic would is 9 years old 4 foot 254",
+      "uuid": "587f3dfa-3f6e-4f98-8761-17b372307416"
     },
-    "380": {
+    {
       "requestid": "c11492c4-e93d-4def-af19-4d36094c40d1",
       "confidence": "0.7104439",
       "timestamp": 380,
-      "content": "sounds he ain't exactly swol when is the last time that you know why but there's been an on the field death in football there have been"
+      "content": "sounds he ain't exactly swol when is the last time that you know why but there's been an on the field death in football there have been",
+      "uuid": "9aefc19e-8290-4318-8fa0-eb800b38d0dc"
     },
-    "390": {
+    {
       "requestid": "58a0d175-1207-4f36-9b5f-99e8ee785fe5",
       "confidence": "0.8624945",
       "timestamp": 390,
-      "content": "the field <profanity>ass</profanity> in football every single year since 1931 with the exception of 1990 last year there"
+      "content": "the field <profanity>ass</profanity> in football every single year since 1931 with the exception of 1990 last year there",
+      "uuid": "5ffb3413-5944-4e47-8b79-84f16e88ea4f"
     },
-    "400": {
+    {
       "requestid": "59a2d29d-b8ef-42ac-b84d-ac9432774f89",
       "confidence": "0.6690278",
       "timestamp": 400,
-      "content": "r 5 on field <profanity>ass</profanity> this year there have been 2 of them both all 5 last year in both issue"
+      "content": "r 5 on field <profanity>ass</profanity> this year there have been 2 of them both all 5 last year in both issue",
+      "uuid": "ffa34f66-5120-48d1-b5ff-f10a3692558f"
     },
-    "410": {
+    {
       "requestid": "9bc7a700-4b17-4352-b6c3-31e72173039e",
       "confidence": "0.6922404",
       "timestamp": 410,
-      "content": "there were due to brain injuries I'm so pataudi still occur but they occur at relatively low rates compare"
+      "content": "there were due to brain injuries I'm so pataudi still occur but they occur at relatively low rates compare",
+      "uuid": "d2ab54fc-b3aa-4c51-9742-aefc7dfed5bd"
     },
-    "420": {
+    {
       "requestid": "9e7119ea-1bc0-40e1-8604-f869ae217d3e",
       "confidence": "0.7001846",
       "timestamp": 420,
-      "content": "with 3637 38 desi year that were I seen on 40 years ago 4 or 5 deaths"
+      "content": "with 3637 38 desi year that were I seen on 40 years ago 4 or 5 deaths",
+      "uuid": "7b5bba46-9750-4f79-80c9-c6ef8ba58641"
     },
-    "430": {
+    {
       "requestid": "980282ac-5cb9-438a-96f9-f2fdb64de4c5",
       "confidence": "0.8067796",
       "timestamp": 430,
-      "content": "that's about the same number people killed every year around the world in shark attacks who's afraid of football camp 2 says most football deaths occur"
+      "content": "that's about the same number people killed every year around the world in shark attacks who's afraid of football camp 2 says most football deaths occur",
+      "uuid": "2e0990da-3a20-4535-bb10-8075845b8f4f"
     },
-    "440": {
+    {
       "requestid": "9731d614-74ec-4f6a-8553-05ea44ae6404",
       "confidence": "0.7234314",
       "timestamp": 440,
-      "content": "high school and college throw them in a single anfield bethany nfl I'm guessing if there was if a cornerback like terence newman blue upper receiver like chat"
+      "content": "high school and college throw them in a single anfield bethany nfl I'm guessing if there was if a cornerback like terence newman blue upper receiver like chat",
+      "uuid": "82072918-323e-4c56-b080-de0dd5d71c10"
     },
-    "450": {
+    {
       "requestid": "81032ae6-34a9-436b-81e7-8840d64b0a4e",
       "confidence": "0.7074339",
       "timestamp": 450,
-      "content": "2 sinkala national tv we never got up again we would be a lot more for the football they RI don't come play with theory and I get I guess soon"
+      "content": "2 sinkala national tv we never got up again we would be a lot more for the football they RI don't come play with theory and I get I guess soon",
+      "uuid": "5621969e-3dd8-4c17-9823-5a2ca7116c28"
     },
-    "460": {
+    {
       "requestid": "a64cc137-820b-417c-bd61-c84c37001c2c",
       "confidence": "0.4648968",
       "timestamp": 460,
-      "content": "hello nurse about noon your time and sorry again beatles are things with in terms of contactor is the weather in muscat oman"
+      "content": "hello nurse about noon your time and sorry again beatles are things with in terms of contactor is the weather in muscat oman",
+      "uuid": "539b2637-2b1f-4bcc-b5f5-ccc7ea2aacb4"
     },
-    "470": {
+    {
       "requestid": "c44622eb-cf28-4fda-9919-a08eb5cb68fa",
       "confidence": "0.8378122",
       "timestamp": 470,
-      "content": "quintin mikell play strong safety to the philadelphia eagles is roughly the same size as terence newman kiptoo is known for hitting very very hard"
+      "content": "quintin mikell play strong safety to the philadelphia eagles is roughly the same size as terence newman kiptoo is known for hitting very very hard",
+      "uuid": "728a7522-e87e-430e-b7b1-3a61315f268d"
     },
-    "480": {
+    {
       "requestid": "6d447477-60aa-4570-90a8-04b1d9b9557e",
       "confidence": "0.5648504",
       "timestamp": 480,
-      "content": "where is it out when I was actually share room it was me and a guy named justin fargas please please running back for the oakland raiders in mexico"
+      "content": "where is it out when I was actually share room it was me and a guy named justin fargas please please running back for the oakland raiders in mexico",
+      "uuid": "0c61a842-331d-45bd-b673-2a0b0d7d88c8"
     },
-    "490": {
+    {
       "requestid": "2ce881e3-fefd-436b-a6ad-98a1c18a9f20",
       "confidence": "0.5589787",
       "timestamp": 490,
-      "content": "haven't had a toss and he was wide open heroes basically screaming of the field house in the deep cover 2 in account it was funny because he was little"
+      "content": "haven't had a toss and he was wide open heroes basically screaming of the field house in the deep cover 2 in account it was funny because he was little",
+      "uuid": "8d36a6ff-2eb7-4b57-8577-5c92786bdbb3"
     },
-    "500": {
+    {
       "requestid": "ee3255b4-7a09-4f44-956f-6a512f046d0b",
       "confidence": "0.480871",
       "timestamp": 500,
-      "content": "violino going towards him and we're both into silent hill zombified neither one of us are gonna back down is windows gonna be the big legion or not zikr in"
+      "content": "violino going towards him and we're both into silent hill zombified neither one of us are gonna back down is windows gonna be the big legion or not zikr in",
+      "uuid": "bd934043-1e43-4fb8-aa85-6bee227b43a1"
     },
-    "510": {
+    {
       "requestid": "46fc425b-c52b-4b0c-9488-75ff831ef02d",
       "confidence": "0.4327749",
       "timestamp": 510,
-      "content": "heater in a bone but I did know he's going to romeo just watching them in film so this would happen with the basically ran full speed into each other"
+      "content": "heater in a bone but I did know he's going to romeo just watching them in film so this would happen with the basically ran full speed into each other",
+      "uuid": "4264cdb1-1353-4213-8de5-5a218827d162"
     },
-    "520": {
+    {
       "requestid": "7bcb02b0-ea31-4d9e-ade5-2f95c51ae7d6",
       "confidence": "0.5774226",
       "timestamp": 520,
-      "content": "I'm pretty much knock each other out in a try to get a blue too soon enough so they do not wanna know is why we need and bentley trainers pull me out and you like"
+      "content": "I'm pretty much knock each other out in a try to get a blue too soon enough so they do not wanna know is why we need and bentley trainers pull me out and you like",
+      "uuid": "e68387f5-e100-40d0-b5e8-851bc997f698"
     },
-    "530": {
+    {
       "requestid": "32b29cb3-ba29-4e88-a085-d0b3402591cf",
       "confidence": "0.627201",
       "timestamp": 530,
-      "content": "you can't go back in right now in exile he came out for free place to so we both know each other will you try to stay in the game how did you is it is it is it going"
+      "content": "you can't go back in right now in exile he came out for free place to so we both know each other will you try to stay in the game how did you is it is it is it going",
+      "uuid": "d9f9ca96-f80b-4ced-9291-3c1fdd9378ce"
     },
-    "540": {
+    {
       "requestid": "85df861c-fc4c-4ab5-a3cf-0cda865a5ffe",
       "confidence": "0.686711",
       "timestamp": 540,
-      "content": "elder you know you don't do you never know with that guy gif he's gonna get up and I see you wanna be the first wanna get up the wanna make sure that you didn't take you know the last night there so essential"
+      "content": "elder you know you don't do you never know with that guy gif he's gonna get up and I see you wanna be the first wanna get up the wanna make sure that you didn't take you know the last night there so essential",
+      "uuid": "ea7a8dc5-f950-4e68-84e6-537e9bd5034d"
     },
-    "550": {
+    {
       "requestid": "3d85d1eb-3b86-4900-afc0-5fe86e579385",
       "confidence": "0.6150017",
       "timestamp": 550,
-      "content": "the odd I think I want coz I got up for you didn't even know I did not gonna wanna leave me back down so when your actual head feel like after words like"
+      "content": "the odd I think I want coz I got up for you didn't even know I did not gonna wanna leave me back down so when your actual head feel like after words like",
+      "uuid": "08af59b5-548f-4f4b-99a6-a7ac256ea566"
     },
-    "560": {
+    {
       "requestid": "1057ff61-c013-448e-8d3c-1657a346bf21",
       "confidence": "0.6057855",
       "timestamp": 560,
-      "content": "immediately afterwards then later on is really use a really odd feeling in the first inning it is that you everything starts to vibrate like you like if you'd like"
+      "content": "immediately afterwards then later on is really use a really odd feeling in the first inning it is that you everything starts to vibrate like you like if you'd like",
+      "uuid": "a0b29f9c-4094-469e-b8f0-69a891b8ee47"
     },
-    "570": {
+    {
       "requestid": "d07cd8a3-3d64-488a-b2fd-efbe1ba62e39",
       "confidence": "0.5973454",
       "timestamp": 570,
-      "content": "your head on your cell phone put it on vibrate and phone calls you that's what it felt like for me and so that is the high seas on film is like ugh"
+      "content": "your head on your cell phone put it on vibrate and phone calls you that's what it felt like for me and so that is the high seas on film is like ugh",
+      "uuid": "0d26bade-c316-4133-a152-4f50089f99c5"
     },
-    "580": {
+    {
       "requestid": "a9c5a443-d5b9-4d54-a857-3ee1b6585d7a",
       "confidence": "0.594678",
       "timestamp": 580,
-      "content": "on my own in I tried it steady everything and then after that an issue on vibration on the song cycle count in the dream is cool"
+      "content": "on my own in I tried it steady everything and then after that an issue on vibration on the song cycle count in the dream is cool",
+      "uuid": "d043c02b-c191-449b-b73f-698dffe17bc4"
     },
-    "590": {
+    {
       "requestid": "b2545a2f-f5ab-461b-ac57-01e5790d7028",
       "confidence": "0.60536",
       "timestamp": 590,
-      "content": "loan and legs are like jello you turn stand up and get your minds want to buy do about your body and everything disconnected so"
+      "content": "loan and legs are like jello you turn stand up and get your minds want to buy do about your body and everything disconnected so",
+      "uuid": "087684e8-c6e2-4807-9a5d-03b217ba284f"
     },
-    "600": {
+    {
       "requestid": "9137dcee-8bd5-4275-8139-05c7d0dadf5f",
       "confidence": "0.667716",
       "timestamp": 600,
-      "content": "ibnu pretty much is for fly back on the face in and out our brains are designed the float around inside the skull to survive the daily"
+      "content": "ibnu pretty much is for fly back on the face in and out our brains are designed the float around inside the skull to survive the daily",
+      "uuid": "b7f78916-0c5f-42e6-9296-cc8cb7756f66"
     },
-    "610": {
+    {
       "requestid": "efff66d6-3945-47e4-a8c8-a1190518a33e",
       "confidence": "0.7256618",
       "timestamp": 610,
-      "content": "I'm so life playing football different is one tough guy running full speed into another guy driving just as fast in the opposite direction"
+      "content": "I'm so life playing football different is one tough guy running full speed into another guy driving just as fast in the opposite direction",
+      "uuid": "b28d4899-6f62-450c-8865-df47699b0bf2"
     },
-    "620": {
+    {
       "requestid": "5aa400b6-7ee8-49df-8a91-0e1c8678552d",
       "confidence": "0.7683342",
       "timestamp": 620,
-      "content": "I ask doctor cantu what can happen to the brain nick collision like that well the best analogy or at least one that I think is useful esta think of joe"
+      "content": "I ask doctor cantu what can happen to the brain nick collision like that well the best analogy or at least one that I think is useful esta think of joe",
+      "uuid": "19b959c5-3add-4cc4-b522-cb43d0f62708"
     },
-    "630": {
+    {
       "requestid": "cd993e56-1412-47e6-bcdc-ba55114add83",
       "confidence": "0.5995634",
       "timestamp": 630,
-      "content": "low in a bowl and if you hit the ball very forcefully you'll see the jello oscillate and if you put the jello into a ball that is"
+      "content": "low in a bowl and if you hit the ball very forcefully you'll see the jello oscillate and if you put the jello into a ball that is",
+      "uuid": "9fe332a6-3006-4396-9c47-005f4d433752"
     },
-    "640": {
+    {
       "requestid": "ac5975f7-46e3-4198-9902-f5240946cb57",
       "confidence": "0.6092728",
       "timestamp": 640,
-      "content": "lip tickle in shape not round and hit it because you invariably guitar center you'll see that the jello mousse for a gym bag"
+      "content": "lip tickle in shape not round and hit it because you invariably guitar center you'll see that the jello mousse for a gym bag",
+      "uuid": "cac16ed6-5180-44bb-96bf-b926a4b834f0"
     },
-    "650": {
+    {
       "requestid": "247d3832-b92f-4400-b96f-1cbfc4a5883b",
       "confidence": "0.7324797",
       "timestamp": 650,
-      "content": "gruzin it also spins around in the bowl in those are the primary forces enter in part of the brain the linear forces are those that are in"
+      "content": "gruzin it also spins around in the bowl in those are the primary forces enter in part of the brain the linear forces are those that are in",
+      "uuid": "734c1c36-d89e-40b3-9755-b01a8851033c"
     },
-    "660": {
+    {
       "requestid": "4a034c26-d366-4755-9d71-8856db39bf23",
       "confidence": "0.81172",
       "timestamp": 660,
-      "content": "one plane front and back or side to side in the spinning forces are the rotational forces and those combine forces car"
+      "content": "one plane front and back or side to side in the spinning forces are the rotational forces and those combine forces car",
+      "uuid": "5b7ce401-e0b1-4cb3-8825-707c1973ab8a"
     },
-    "670": {
+    {
       "requestid": "ef5ff4e7-7d4a-408c-b154-5bfe4133ce16",
       "confidence": "0.6834952",
       "timestamp": 670,
-      "content": "is sharing in screening of brain tissue and that in turn leads to a metabolic cascade a dysfunction dad"
+      "content": "is sharing in screening of brain tissue and that in turn leads to a metabolic cascade a dysfunction dad",
+      "uuid": "8210e1fc-d46d-427c-b6f3-8a12ea4c1fce"
     },
-    "680": {
+    {
       "requestid": "e40048f4-8a24-4ce0-b8de-7383d10b83d9",
       "confidence": "0.8180675",
       "timestamp": 680,
-      "content": "is what we refer to as a concussion a metabolic cascade of dysfunction in a big hit on the football field the own"
+      "content": "is what we refer to as a concussion a metabolic cascade of dysfunction in a big hit on the football field the own",
+      "uuid": "e466d629-295f-42df-96ba-938273f05def"
     },
-    "690": {
+    {
       "requestid": "ff277477-6c8c-4dc2-abdb-457cb5c74f0b",
       "confidence": "0.7967083",
       "timestamp": 690,
-      "content": "thing standing between your brain in a beating like that is your helmet doctor ken 2 is also affiliated with noxie the national operating committee"
+      "content": "thing standing between your brain in a beating like that is your helmet doctor ken 2 is also affiliated with noxie the national operating committee",
+      "uuid": "badaa72d-eed9-4ac9-bd2b-0055d4524ecb"
     },
-    "700": {
+    {
       "requestid": "c3db6c66-2a5a-4d9e-932e-56fa94224260",
       "confidence": "0.7833623",
       "timestamp": 700,
-      "content": "on standards for athletic equipment is the group tries to make football helmet safer well how much are better today than ever before leax"
+      "content": "on standards for athletic equipment is the group tries to make football helmet safer well how much are better today than ever before leax",
+      "uuid": "2633159e-3988-4f8c-9a2c-f47fb73fa0eb"
     },
-    "710": {
+    {
       "requestid": "e7b3e971-1197-4642-9312-873da072b375",
       "confidence": "0.835205",
       "timestamp": 710,
-      "content": "cool athletic equipment that is on the market today is better than athletic equipment that's been on the market in the past but"
+      "content": "cool athletic equipment that is on the market today is better than athletic equipment that's been on the market in the past but",
+      "uuid": "7a5a01b7-db76-41b9-9923-db438f978629"
     },
-    "720": {
+    {
       "requestid": "368b60d5-06ed-4fae-a820-84dec4c71866",
       "confidence": "0.8140167",
       "timestamp": 720,
-      "content": "the problem is what are you asking an athletic equipment to do in if you're asking it to prevent skull fractures in if you're asking it"
+      "content": "the problem is what are you asking an athletic equipment to do in if you're asking it to prevent skull fractures in if you're asking it",
+      "uuid": "b81b669b-cedb-4ad3-a044-c40e09895117"
     },
-    "730": {
+    {
       "requestid": "2a2e3510-afd2-4542-aa48-7dc33f4f07ef",
       "confidence": "0.7734258",
       "timestamp": 730,
-      "content": "I prevent most serious subdural hematomas it does a stellar job but if you're asking it to prevent concussion"
+      "content": "I prevent most serious subdural hematomas it does a stellar job but if you're asking it to prevent concussion",
+      "uuid": "d3473781-9277-4e90-8c9a-be8629db6bee"
     },
-    "740": {
+    {
       "requestid": "de697160-1991-49f9-9880-0401fb4b0666",
       "confidence": "0.7710868",
       "timestamp": 740,
-      "content": "it can't do it so let's see if we have this right modern how much do a good job of preventing skull fractures in anfield death bed"
+      "content": "it can't do it so let's see if we have this right modern how much do a good job of preventing skull fractures in anfield death bed",
+      "uuid": "4b835e8c-3da0-47ab-8962-7a859fe404c7"
     },
-    "750": {
+    {
       "requestid": "4fdacd7a-04ee-4568-ae01-adcd3268d398",
       "confidence": "0.7833132",
       "timestamp": 750,
-      "content": "why those numbers are way down historically but getting lots of concussions and very healthy there to prevent them doctor cantu could make it more cushion"
+      "content": "why those numbers are way down historically but getting lots of concussions and very healthy there to prevent them doctor cantu could make it more cushion",
+      "uuid": "2a0fd10e-612d-41eb-8a31-3e2af9bc4055"
     },
-    "760": {
+    {
       "requestid": "8ec14385-695e-43cc-9872-083e3846bd15",
       "confidence": "0.7719151",
       "timestamp": 760,
-      "content": "I'm it but then you might be worry bout skull fractures again and then there's this problem if you did get football players in morehead lee cushion helmet what are gonna do it"
+      "content": "I'm it but then you might be worry bout skull fractures again and then there's this problem if you did get football players in morehead lee cushion helmet what are gonna do it",
+      "uuid": "2f09bf88-d2ef-4197-95fb-de0f0871228a"
     },
-    "770": {
+    {
       "requestid": "e715ca0b-9e76-48ec-8e99-54ea49c1dd15",
       "confidence": "0.8437214",
       "timestamp": 770,
-      "content": "why do people think the biggest problem the game today the players use their helmets nothing much is protection is weapon the way for instance in football in my"
+      "content": "why do people think the biggest problem the game today the players use their helmets nothing much is protection is weapon the way for instance in football in my",
+      "uuid": "1352dbee-4f70-4c0e-b8a2-3091efe99fe2"
     },
-    "780": {
+    {
       "requestid": "14683365-d467-45b8-a2aa-2a4aef1a2238",
       "confidence": "0.8016593",
       "timestamp": 780,
-      "content": "hang in there were gonna have to address this problem is to eliminate the helmet is the initial point of contact in the <profanity>ass</profanity>"
+      "content": "hang in there were gonna have to address this problem is to eliminate the helmet is the initial point of contact in the <profanity>ass</profanity>",
+      "uuid": "fcedd892-0a3d-4a32-8217-1a711ff4ff9b"
     },
-    "790": {
+    {
       "requestid": "92fdf969-50d2-4145-a683-ebcf9346517c",
       "confidence": "0.6535483",
       "timestamp": 790,
-      "content": "kucak queen anne even to a certain extent in blocking is well quite frankly when people didn't have the helmet of the sick"
+      "content": "kucak queen anne even to a certain extent in blocking is well quite frankly when people didn't have the helmet of the sick",
+      "uuid": "2382d2cb-bf5b-4203-aecf-fcd77aef61ba"
     },
-    "800": {
+    {
       "requestid": "f4712f34-eb3b-4006-94d1-5609caf99f96",
       "confidence": "0.7683734",
       "timestamp": 800,
-      "content": "irtiza there are today didn't have a face mask and you had to worry about you know is winding up in your ear from you seen your face in a taco"
+      "content": "irtiza there are today didn't have a face mask and you had to worry about you know is winding up in your ear from you seen your face in a taco",
+      "uuid": "5f722aae-a23f-42c1-a80d-28787453cb2f"
     },
-    "810": {
+    {
       "requestid": "21304024-2686-40a0-9a18-3659c89eb402",
       "confidence": "0.8016576",
       "timestamp": 810,
-      "content": "I'm you didn't use your face obviously so as a safety equipment gets better our behavior becomes more aggressive absolutely"
+      "content": "I'm you didn't use your face obviously so as a safety equipment gets better our behavior becomes more aggressive absolutely",
+      "uuid": "65f7611d-968b-4ae0-944c-e8780573b180"
     },
-    "820": {
+    {
       "requestid": "ec81bed2-93bc-43b1-a151-db9803e6af84",
       "confidence": "0.7651978",
       "timestamp": 820,
-      "content": "very much more aggressive very much more violent we seen the same thing happen in ice hockey as well I'm an want one when you put face and head that"
+      "content": "very much more aggressive very much more violent we seen the same thing happen in ice hockey as well I'm an want one when you put face and head that",
+      "uuid": "8c868aba-c535-497b-8fde-ba85e3450465"
     },
-    "830": {
+    {
       "requestid": "40dd434b-77d9-42f3-8df9-bfe718580015",
       "confidence": "0.7903351",
       "timestamp": 830,
-      "content": "action on people there not as worried about taking blows to that area and so did the aggressive nature the activity is greatly enhance"
+      "content": "action on people there not as worried about taking blows to that area and so did the aggressive nature the activity is greatly enhance",
+      "uuid": "0e616a2c-a6ea-45cf-b9b3-54c370e4b61c"
     },
-    "840": {
+    {
       "requestid": "5698cf8c-ee64-4b6f-80d0-55f5d8327e06",
       "confidence": "0.8524275",
       "timestamp": 840,
-      "content": "so wait a minute let's figure this out if the helmet which we think of as a safety device is being used as a weapon when I get rid of the weapon"
+      "content": "so wait a minute let's figure this out if the helmet which we think of as a safety device is being used as a weapon when I get rid of the weapon",
+      "uuid": "edf3164e-6906-4dbc-8c4b-652e595dd9f3"
     },
-    "850": {
+    {
       "requestid": "7562cd68-5a36-4eda-bada-ea2f80f579cf",
       "confidence": "0.8540896",
       "timestamp": 850,
-      "content": "there are sports we play without helmets rugby australian rules football what happens if you try to play american football like they did in the old days without a helmet"
+      "content": "there are sports we play without helmets rugby australian rules football what happens if you try to play american football like they did in the old days without a helmet",
+      "uuid": "3231ff3e-b2c4-40a5-a6aa-76987128703d"
     },
-    "860": {
+    {
       "requestid": "d8dd37ac-d5d2-4f11-85b1-57f92cac2f49",
       "confidence": "0.7109023",
       "timestamp": 860,
-      "content": "here's quintin mikell again it would probably be alone debbie lot less head injuries I know that for a fact and I can tell"
+      "content": "here's quintin mikell again it would probably be alone debbie lot less head injuries I know that for a fact and I can tell",
+      "uuid": "b5bb9b44-0404-4441-b4dd-fcd961100f8e"
     },
-    "870": {
+    {
       "requestid": "28c34df0-cc38-49b5-93e9-277e5a41ae2d",
       "confidence": "0.4477744",
       "timestamp": 870,
-      "content": "that's awesome that I can I should be like different united in irvine by with Mr. face up willingly cell phones"
+      "content": "that's awesome that I can I should be like different united in irvine by with Mr. face up willingly cell phones",
+      "uuid": "8adc5e84-8f82-440c-8ee5-f5d147d95cf2"
     },
-    "880": {
+    {
       "requestid": "e9d1d398-ef36-44d7-81dc-0cc1b125b66a",
       "confidence": "0.6266093",
       "timestamp": 880,
-      "content": "window in head first window in china destroys them are you going to get the money gram yarn and you know maybe will be as exciting or I'm not sure but I know the feeling"
+      "content": "window in head first window in china destroys them are you going to get the money gram yarn and you know maybe will be as exciting or I'm not sure but I know the feeling",
+      "uuid": "13edc0fa-0852-469c-a8ae-134a289d6476"
     },
-    "890": {
+    {
       "requestid": "a2763dff-3618-485c-83a4-de3b92c5bec2",
       "confidence": "0.6118377",
       "timestamp": 890,
-      "content": "did it would be as many injuries wouldn't be as much fun I assume you really liked it it right here yeah but that's how to make the game fun you know d"
+      "content": "did it would be as many injuries wouldn't be as much fun I assume you really liked it it right here yeah but that's how to make the game fun you know d",
+      "uuid": "33d6ebb6-5173-49d6-9bf7-e25acb492c32"
     },
-    "900": {
+    {
       "requestid": "4620e97e-dde3-4184-8212-fd57f71968ac",
       "confidence": "0.3835976",
       "timestamp": 900,
-      "content": "get these are series author don't need any funny a chance to lala palooza home that's that's that's a good night so if"
+      "content": "get these are series author don't need any funny a chance to lala palooza home that's that's that's a good night so if",
+      "uuid": "b701a270-b4df-4266-acac-2869945c1d41"
     },
-    "910": {
+    {
       "requestid": "a6ea107b-02e7-48db-b971-c8d93f1bfa57",
       "confidence": "0.6116685",
       "timestamp": 910,
-      "content": "so for someone like you love the hat especially spindly little receivers you always happen right and you get here if you get to pay him back once in while I'm in if you took away"
+      "content": "so for someone like you love the hat especially spindly little receivers you always happen right and you get here if you get to pay him back once in while I'm in if you took away",
+      "uuid": "efe18806-e1f9-4579-9c41-7175e99c3bec"
     },
-    "920": {
+    {
       "requestid": "f5459f0b-c2d2-45e2-8352-3a1307b70089",
       "confidence": "0.7655548",
       "timestamp": 920,
-      "content": "I'm gonna make it to the way home but could you still have a lot of fun playing the game um I don't think I would you have to wonder if a guy like with michael doesn't have"
+      "content": "I'm gonna make it to the way home but could you still have a lot of fun playing the game um I don't think I would you have to wonder if a guy like with michael doesn't have",
+      "uuid": "419efb0f-6469-42a8-ac67-b67f513f30b4"
     },
-    "930": {
+    {
       "requestid": "842e2c8f-22bf-46db-9439-a882210f622d",
       "confidence": "0.8596283",
       "timestamp": 930,
-      "content": "I'm playing football without the amazing collisions how much fun would we have watching it in if you think it's fun watching 2 football players run into each other head first 20 miles"
+      "content": "I'm playing football without the amazing collisions how much fun would we have watching it in if you think it's fun watching 2 football players run into each other head first 20 miles",
+      "uuid": "f381a5c3-f565-471c-9839-fffc6a8d9ddb"
     },
-    "940": {
+    {
       "requestid": "c69092d6-2424-4e90-b10f-38db2e7447aa",
       "confidence": "0.8116853",
       "timestamp": 940,
-      "content": "power how about 20 cars crashing into each other 108"
+      "content": "power how about 20 cars crashing into each other 108",
+      "uuid": "99a699d5-bfa8-4fbf-85e1-7186ca950694"
     },
-    "950": {
+    {
       "requestid": "5d0e0a96-c057-46e2-a2a2-9afc82fc3766",
       "confidence": "0.9434025",
       "timestamp": 950,
-      "content": "freakonomics radio is support"
+      "content": "freakonomics radio is support",
+      "uuid": "9c6d5384-eb43-4b76-b1e6-fabf286c9e91"
     },
-    "960": {
+    {
       "requestid": "d7ab44c8-91cd-4758-ad7f-66bf86381531",
       "confidence": "0.8749242",
       "timestamp": 960,
-      "content": "by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small"
+      "content": "by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small",
+      "uuid": "bbbed457-26e4-4d40-a30f-4749933678b0"
     },
-    "970": {
+    {
       "requestid": "bb5bed15-41eb-4fef-972e-6203af0fa41c",
       "confidence": "0.8163703",
       "timestamp": 970,
-      "content": "saliva sample canadiens can learn about their genetic information that published studies have associated with conditions in traits like celiac disease cystic fibrosis and"
+      "content": "saliva sample canadiens can learn about their genetic information that published studies have associated with conditions in traits like celiac disease cystic fibrosis and",
+      "uuid": "6dbe300c-b113-4265-9d05-b71f6bb8eb92"
     },
-    "980": {
+    {
       "requestid": "e7b21c23-ea6d-49ad-8646-fe129c5986c5",
       "confidence": "0.8626924",
       "timestamp": 980,
-      "content": "even response to certain medications more information is available at 23 the number in me dot CA freakonomics radio is support"
+      "content": "even response to certain medications more information is available at 23 the number in me dot CA freakonomics radio is support",
+      "uuid": "e8308437-5df7-48c1-a64c-ee9ea5daa96f"
     },
-    "990": {
+    {
       "requestid": "943d82f9-dc3d-49cd-bb09-6b8d76262f7d",
       "confidence": "0.7923425",
       "timestamp": 990,
-      "content": "buy whisper sync for voice and amazon inaudible innovation that allows you to add professional narrations your kindle e books you can read on your tablet and when it's time to go"
+      "content": "buy whisper sync for voice and amazon inaudible innovation that allows you to add professional narrations your kindle e books you can read on your tablet and when it's time to go",
+      "uuid": "5df5cd63-091e-4b51-b4e0-9ce9c1cb8144"
     },
-    "1000": {
+    {
       "requestid": "2eead1d8-797c-4d6e-9847-623a2bc55e59",
       "confidence": "0.7775807",
       "timestamp": 1000,
-      "content": "pick up where you left off by switching to audio listening on your phone picking up the story right where we stopped it now enjoy books you been meaning to read haven't had the time to learn more about"
+      "content": "pick up where you left off by switching to audio listening on your phone picking up the story right where we stopped it now enjoy books you been meaning to read haven't had the time to learn more about",
+      "uuid": "d261ba2e-f17f-40b1-b8fc-158f917704ea"
     },
-    "1010": {
+    {
       "requestid": "d7977635-a951-4283-8ca5-7a6b711605e6",
       "confidence": "0.8506932",
       "timestamp": 1010,
-      "content": "resync and how to add narration 2 over 60,000 kindle bestsellers atamazon.com slash free radio"
+      "content": "resync and how to add narration 2 over 60,000 kindle bestsellers atamazon.com slash free radio",
+      "uuid": "b2f2f123-6298-40de-b9a4-7a7be445334d"
     },
-    "1020": {
+    {
       "requestid": "7fa1f0e9-517f-4cd3-b1ec-6878c7962580",
       "confidence": "0.7421364",
       "timestamp": 1020,
-      "content": "from wmic this is freakonomics radio here's your host stephen dubner"
+      "content": "from wmic this is freakonomics radio here's your host stephen dubner",
+      "uuid": "b56aa872-2706-4dd0-bdc8-878956aea5e4"
     },
-    "1030": {
+    {
       "requestid": "84e9caf4-3d73-4fb5-95a3-3a4a221e2f52",
       "confidence": "0.7567146",
       "timestamp": 1030,
-      "content": "I think the first week and I miss are you episode we ever put out early 2010 a few things you've already heard need updating quintin mikell been a member of the philadelphia eagles note"
+      "content": "I think the first week and I miss are you episode we ever put out early 2010 a few things you've already heard need updating quintin mikell been a member of the philadelphia eagles note",
+      "uuid": "cc09b341-2e0e-4292-b8d2-747f0b316eed"
     },
-    "1040": {
+    {
       "requestid": "c9b6f2d8-44ee-478f-9b5d-b6feaa4ac90c",
       "confidence": "0.7215441",
       "timestamp": 1040,
-      "content": "out of the nfl terence newman is still playing but I was with the minnesota vikings robert cantu is now a senior advisor to the nfl's head neck and spa"
+      "content": "out of the nfl terence newman is still playing but I was with the minnesota vikings robert cantu is now a senior advisor to the nfl's head neck and spa",
+      "uuid": "f9f2123b-9c9a-49ee-96c6-127f4b459b22"
     },
-    "1050": {
+    {
       "requestid": "77f56920-3c58-4864-a518-23cb7aa721db",
       "confidence": "0.7250859",
       "timestamp": 1050,
-      "content": "I'm coming in hot topic of brain injuries become much more pressing in when I said about the superbowl that quote more people watch it on tv than any other show"
+      "content": "I'm coming in hot topic of brain injuries become much more pressing in when I said about the superbowl that quote more people watch it on tv than any other show",
+      "uuid": "5f8b312b-8e29-4307-93bb-07aca1989ebd"
     },
-    "1060": {
+    {
       "requestid": "7c51cd7d-7720-4b8f-a59e-dff883e2deac",
       "confidence": "0.8151529",
       "timestamp": 1060,
-      "content": "I should've said any other show in the united states because american football can't really compete with football or soccer one more thing my so"
+      "content": "I should've said any other show in the united states because american football can't really compete with football or soccer one more thing my so",
+      "uuid": "9a5472c0-39fa-45f7-bd80-6292b2a05036"
     },
-    "1070": {
+    {
       "requestid": "2c4469a5-3323-4e2e-9168-6bc540f532ee",
       "confidence": "0.7580581",
       "timestamp": 1070,
-      "content": "and is no longer 9 years old and 54 pounds he's 15 and I've no idea how much she weighs but his love for football has been eclipsed by his"
+      "content": "and is no longer 9 years old and 54 pounds he's 15 and I've no idea how much she weighs but his love for football has been eclipsed by his",
+      "uuid": "f7a00eb0-5d0e-47b3-b752-bccc993920c7"
     },
-    "1080": {
+    {
       "requestid": "1af26675-23ad-4271-92f9-76d2bdc8e4e6",
       "confidence": "0.5548898",
       "timestamp": 1080,
-      "content": "love for yes football ok back to the danger zone safety"
+      "content": "love for yes football ok back to the danger zone safety",
+      "uuid": "000e4f1e-b386-4380-943c-aeddec0fdb40"
     },
-    "1090": {
+    {
       "requestid": "0f33164c-849e-4b3c-ac72-b66c75b31e0b",
       "confidence": "0.7323408",
       "timestamp": 1090,
-      "content": "I like starting my crew a bad wreck in 1983 daytona this is randy lajoie he was an <profanity>ass</profanity> car driver for about 20 years you 1:15 races"
+      "content": "I like starting my crew a bad wreck in 1983 daytona this is randy lajoie he was an <profanity>ass</profanity> car driver for about 20 years you 1:15 races",
+      "uuid": "5cb2067d-c802-4a5d-99b5-a6e77992a674"
     },
-    "1100": {
+    {
       "requestid": "639aff6f-8a78-43c4-9f5a-4e85b745ffa5",
       "confidence": "0.6179438",
       "timestamp": 1100,
-      "content": "more than $7 Million and I was passing sterling marlin add to qualify for the daytona 500 in the car hit the bomb got sideways"
+      "content": "more than $7 Million and I was passing sterling marlin add to qualify for the daytona 500 in the car hit the bomb got sideways",
+      "uuid": "6acfa1d1-1838-44a7-91fd-83784c2ebe2c"
     },
-    "1110": {
+    {
       "requestid": "21360333-d7b5-4c35-a743-23c0d9373791",
       "confidence": "0.4346886",
       "timestamp": 1110,
-      "content": "ashley to longways average opatija tell me a story 2 weeks early why were texting your man you don't back down here did you gotta crash"
+      "content": "ashley to longways average opatija tell me a story 2 weeks early why were texting your man you don't back down here did you gotta crash",
+      "uuid": "76f91bf0-73c3-4711-af44-e58e89e7e0cf"
     },
-    "1120": {
+    {
       "requestid": "56e64b55-7468-4234-bf7c-d56f7d87d6a1",
       "confidence": "0.570894",
       "timestamp": 1120,
-      "content": "when you do those 2 things are gonna happen if you got either crash real quick and slide along way or you gonna slide along way in"
+      "content": "when you do those 2 things are gonna happen if you got either crash real quick and slide along way or you gonna slide along way in",
+      "uuid": "3da6a520-ee2d-4334-b049-1c1153e38e6f"
     },
-    "1130": {
+    {
       "requestid": "a22c9715-b8a4-4101-bcce-b0bfe860d027",
       "confidence": "0.5979639",
       "timestamp": 1130,
-      "content": "national park he goes if you can remember before you crash to reach down and kill your belt that I do you can get home and take a deep breath"
+      "content": "national park he goes if you can remember before you crash to reach down and kill your belt that I do you can get home and take a deep breath",
+      "uuid": "d2f8318c-ef74-4f11-ad92-ebdcd05cc63b"
     },
-    "1140": {
+    {
       "requestid": "47a57a67-2dc1-41bb-a874-2a5dca5cb67d",
       "confidence": "0.5244513",
       "timestamp": 1140,
-      "content": "I'll be a lot better well and I'm sliding and I'm here I'm gonna hit I reach down my blood on my belt hard as I could you know you can hear you"
+      "content": "I'll be a lot better well and I'm sliding and I'm here I'm gonna hit I reach down my blood on my belt hard as I could you know you can hear you",
+      "uuid": "44971c8d-4dc8-42be-b7a6-0d515fd960e3"
     },
-    "1150": {
+    {
       "requestid": "20cb2631-0b3c-4f26-ad93-5d15509e803a",
       "confidence": "0.5780346",
       "timestamp": 1150,
-      "content": "the year junior learn not to let go today will suck my hand I gotta deal with it when I look at the windshield and all I could see was sky high jewelz bout time I need to"
+      "content": "the year junior learn not to let go today will suck my hand I gotta deal with it when I look at the windshield and all I could see was sky high jewelz bout time I need to",
+      "uuid": "a640b6d5-c5b8-45a6-8841-26157da73760"
     },
-    "1160": {
+    {
       "requestid": "86463d44-c962-41fa-946e-a964cd8ab3ab",
       "confidence": "0.2482715",
       "timestamp": 1160,
-      "content": "the butt"
+      "content": "the butt",
+      "uuid": "af3b23c4-9929-4722-adb7-ae59a10133b6"
     },
-    "1170": {
+    {
       "requestid": "67bbeeb9-62c8-4736-9e9e-7fd74c578756",
       "confidence": "0.703526",
       "timestamp": 1170,
-      "content": "add a severe concussion I was busy for you know I have some people say I'm still dizzy because I had a headache for couple weeks ago but do you know"
+      "content": "add a severe concussion I was busy for you know I have some people say I'm still dizzy because I had a headache for couple weeks ago but do you know",
+      "uuid": "8fde7184-0e07-4a44-a220-a8be4f00f908"
     },
-    "1180": {
+    {
       "requestid": "909f2dde-12f5-428c-8912-e7882c09dd18",
       "confidence": "0.6033815",
       "timestamp": 1180,
-      "content": "3 weeks later I was back to masco north race and we won the championship so you know it didn't bother me again kill me and I would back to win 3 races at daytona"
+      "content": "3 weeks later I was back to masco north race and we won the championship so you know it didn't bother me again kill me and I would back to win 3 races at daytona",
+      "uuid": "e89065bf-8d4f-48a5-92a7-f02e5a02d465"
     },
-    "1190": {
+    {
       "requestid": "1d34c241-9794-49b5-a6f4-afb1119852b3",
       "confidence": "0.5889062",
       "timestamp": 1190,
-      "content": "sarandi seen sky ecem wall anything safe to go get better and better now he's retired he makes super"
+      "content": "sarandi seen sky ecem wall anything safe to go get better and better now he's retired he makes super",
+      "uuid": "2fbc1f7e-2f4e-4ecd-a1ad-78f56671ca66"
     },
-    "1200": {
+    {
       "requestid": "ea0d143f-8846-4fbb-9620-5c79ac325f4e",
       "confidence": "0.6003768",
       "timestamp": 1200,
-      "content": "aluminum seats for race cars how many equipment the fire suits in the helmets o'war definitely as good as it could have been"
+      "content": "aluminum seats for race cars how many equipment the fire suits in the helmets o'war definitely as good as it could have been",
+      "uuid": "69dc8d13-c9a3-4b03-9319-043998e82086"
     },
-    "1210": {
+    {
       "requestid": "73da5578-27d8-40bd-8710-5141c45eeafe",
       "confidence": "0.637163",
       "timestamp": 1210,
-      "content": "I love bug one who sings it but we have realised is a head and neck restraint subnet hold you had an early because of your body strapped in your head"
+      "content": "I love bug one who sings it but we have realised is a head and neck restraint subnet hold you had an early because of your body strapped in your head",
+      "uuid": "7903236e-e918-4d3d-a1fb-4dae246ffce9"
     },
-    "1220": {
+    {
       "requestid": "454843cf-5d12-4827-bb88-aba4b55e6ae3",
       "confidence": "0.540275",
       "timestamp": 1220,
-      "content": "not attached to anything in yo yo get the dale earnhardt get here when adam petty or tony roper blaise alexander ramly those guys"
+      "content": "not attached to anything in yo yo get the dale earnhardt get here when adam petty or tony roper blaise alexander ramly those guys",
+      "uuid": "6cf9b805-83d9-431e-a8fb-e436f32ecce6"
     },
-    "1230": {
+    {
       "requestid": "d9ac14ae-9ebd-4038-be13-3a4800cd8a7b",
       "confidence": "0.6654943",
       "timestamp": 1230,
-      "content": "cory in the past away with the same injury did we lock down with you know once we lost the best we had nascar she's ok we got"
+      "content": "cory in the past away with the same injury did we lock down with you know once we lost the best we had nascar she's ok we got",
+      "uuid": "44f229a0-7a54-4cd6-be90-f5c5a8024ea6"
     },
-    "1240": {
+    {
       "requestid": "49555505-7713-43b1-a908-991644bece3e",
       "confidence": "0.6066071",
       "timestamp": 1240,
-      "content": "stop this early so I mean years ago I mean if something happens when when you put a helmet on ya polec scrap tight people say your brains out the window and that dub"
+      "content": "stop this early so I mean years ago I mean if something happens when when you put a helmet on ya polec scrap tight people say your brains out the window and that dub",
+      "uuid": "3d420364-b67d-48bb-9980-e3b88264ab05"
     },
-    "1250": {
+    {
       "requestid": "1fe97984-2fee-44b3-bce9-3704835873d4",
       "confidence": "0.831179",
       "timestamp": 1250,
-      "content": "a good possibility tell me how old is safety in nass car especially since no one has changed the sport weather from a spectator perspective or"
+      "content": "a good possibility tell me how old is safety in nass car especially since no one has changed the sport weather from a spectator perspective or",
+      "uuid": "a13acd39-2b3e-4b82-acb2-1a761085ae9c"
     },
-    "1260": {
+    {
       "requestid": "b21631d5-ef94-4402-99c2-44cd509eded9",
       "confidence": "0.5985421",
       "timestamp": 1260,
-      "content": "from a strategy perspective are what not when I go anymore funerals of which is good I do how to change a sport is the"
+      "content": "from a strategy perspective are what not when I go anymore funerals of which is good I do how to change a sport is the",
+      "uuid": "4fa6aae4-ffbd-491c-b4df-1a54e3a11330"
     },
-    "1270": {
+    {
       "requestid": "57cbde0c-feda-42de-bfc3-21c49da8aae8",
       "confidence": "0.6331212",
       "timestamp": 1270,
-      "content": "new generation drivers it you know that out of shorts on and on monday and tuesday as the older generation driver you too you look at a 50 year old"
+      "content": "new generation drivers it you know that out of shorts on and on monday and tuesday as the older generation driver you too you look at a 50 year old",
+      "uuid": "25764bd4-90e7-4669-847d-0904ddea5911"
     },
-    "1280": {
+    {
       "requestid": "70d079ae-1809-4fb6-8882-f276a8f34d7f",
       "confidence": "0.5031936",
       "timestamp": 1280,
-      "content": "the nass car drive thru tired all the time mark martin herb yo damn trouble diner on shoes coz it will be done pretty hard you know your your body stretch"
+      "content": "the nass car drive thru tired all the time mark martin herb yo damn trouble diner on shoes coz it will be done pretty hard you know your your body stretch",
+      "uuid": "07c49fa3-56e1-4f8a-b60e-55cc3d98c7e2"
     },
-    "1290": {
+    {
       "requestid": "f38b60a2-e607-4122-ad80-dd0c6e2fda3a",
       "confidence": "0.5982868",
       "timestamp": 1290,
-      "content": "did they had trouble locking hubs and I'm at a lot of different than the older football players you know I mean but we didn't get as many concussions is a date what does fill out"
+      "content": "did they had trouble locking hubs and I'm at a lot of different than the older football players you know I mean but we didn't get as many concussions is a date what does fill out",
+      "uuid": "6d58768f-6f32-4029-8c9e-892745d87cda"
     },
-    "1300": {
+    {
       "requestid": "9c4015de-ccd5-4479-902b-954bdef55747",
       "confidence": "0.6752009",
       "timestamp": 1300,
-      "content": "guys out there that that have hit their head if I get my god one more time I could buy my own easter eggs now net net net the risk I guess is it in other realms"
+      "content": "guys out there that that have hit their head if I get my god one more time I could buy my own easter eggs now net net net the risk I guess is it in other realms",
+      "uuid": "55bf4667-c294-4e57-8a16-ab5c3e3246d9"
     },
-    "1310": {
+    {
       "requestid": "d66e0cdf-787c-40e4-ba98-e2ac3242a4ec",
       "confidence": "0.8052902",
       "timestamp": 1310,
-      "content": "maybe in racing is well the more safety features you at on the more reckless are the more aggressive people tend to get in racing I there's a lot of aggression already so do you think about"
+      "content": "maybe in racing is well the more safety features you at on the more reckless are the more aggressive people tend to get in racing I there's a lot of aggression already so do you think about",
+      "uuid": "ac88373e-61dd-4bbb-9469-9e448da02d68"
     },
-    "1320": {
+    {
       "requestid": "fda1415e-ca4c-4c14-b61e-516434b82531",
       "confidence": "0.7131062",
       "timestamp": 1320,
-      "content": "what do you think about the fact it is the walls the car is the equipment get safer bet there's gonna be more aggression in the end we I mean races were always aggressive I know"
+      "content": "what do you think about the fact it is the walls the car is the equipment get safer bet there's gonna be more aggression in the end we I mean races were always aggressive I know",
+      "uuid": "d8f9cb8c-1310-436e-aed8-8826a5f705e2"
     },
-    "1330": {
+    {
       "requestid": "b7b834fd-e934-4bd6-8d89-e1e9d3669d73",
       "confidence": "0.568992",
       "timestamp": 1330,
-      "content": "who's the wall but I get it before there with a soft walled the safer barrier not hurt a lot more to kokkari was hurt a lot more than that"
+      "content": "who's the wall but I get it before there with a soft walled the safer barrier not hurt a lot more to kokkari was hurt a lot more than that",
+      "uuid": "5f5955ef-f7a3-40c9-ae9c-d58fcfd64ed0"
     },
-    "1340": {
+    {
       "requestid": "19d4cf09-5846-4404-9e9f-6e4ca6ce9ce9",
       "confidence": "0.580606",
       "timestamp": 1340,
-      "content": "take about your nose and one of the things that the drivers of the shower I haven't felt it is really a concrete wall it makes sense"
+      "content": "take about your nose and one of the things that the drivers of the shower I haven't felt it is really a concrete wall it makes sense",
+      "uuid": "6dc9b5a8-774f-4bc8-b68a-1f8e0f3adee5"
     },
-    "1350": {
+    {
       "requestid": "707c92a2-a691-4816-bb38-e132b29c65cd",
       "confidence": "0.8746516",
       "timestamp": 1350,
-      "content": "if you not worried about hitting a concrete wall you might drive a little harder take a few more chances girl strapped in your car surrounded by"
+      "content": "if you not worried about hitting a concrete wall you might drive a little harder take a few more chances girl strapped in your car surrounded by",
+      "uuid": "bc601b9b-e7a6-4d7b-8b33-e76fc55116f9"
     },
-    "1360": {
+    {
       "requestid": "f69d7626-c720-40d7-91f6-cd4f47390a8b",
       "confidence": "0.7404956",
       "timestamp": 1360,
-      "content": "big exo skeleton you don't feel so vulnerable anymore"
+      "content": "big exo skeleton you don't feel so vulnerable anymore",
+      "uuid": "5a958b4c-cc05-4311-ac1d-7131e1a8cfc2"
     },
-    "1370": {
+    {
       "requestid": "bd2d4c4c-bd85-43dd-a687-4188c4af37fe",
       "confidence": "0.594038",
       "timestamp": 1370,
-      "content": "I'm at the kids I tell me what was the car you remember drive riding the dick in the back seat"
+      "content": "I'm at the kids I tell me what was the car you remember drive riding the dick in the back seat",
+      "uuid": "41109b1c-b858-4f7f-ae92-275c7035e785"
     },
-    "1380": {
+    {
       "requestid": "ad482bd9-bb3a-448e-a101-67bd41b12515",
       "confidence": "0.7642656",
       "timestamp": 1380,
-      "content": "1972 impala station wagon I get to 72 was the one who is the 74 a querer is the one with"
+      "content": "1972 impala station wagon I get to 72 was the one who is the 74 a querer is the one with",
+      "uuid": "ad016125-9f5f-45b3-92fd-75fae8ce2ba8"
     },
-    "1390": {
+    {
       "requestid": "05b4719a-1684-419c-b756-01a8a7bb73e3",
       "confidence": "0.6519015",
       "timestamp": 1390,
-      "content": "around it back in there in the tailgate went down underneath the car dealer that swing open oh that's cool you might recognize this voice is glenn"
+      "content": "around it back in there in the tailgate went down underneath the car dealer that swing open oh that's cool you might recognize this voice is glenn",
+      "uuid": "0fc04b55-a460-4869-8594-81edccd5b71e"
     },
-    "1400": {
+    {
       "requestid": "630e8a57-0e2a-4648-bfcb-dc78112c04b4",
       "confidence": "0.5743855",
       "timestamp": 1400,
-      "content": "back to talk show host special edition of the glenn beck program I like to call it r egghead hour now compare new year"
+      "content": "back to talk show host special edition of the glenn beck program I like to call it r egghead hour now compare new year",
+      "uuid": "116bb762-ac97-44f8-b59b-563515b2f74b"
     },
-    "1410": {
+    {
       "requestid": "ad399276-06d5-4cf2-ab69-a349da2a31ba",
       "confidence": "0.6445248",
       "timestamp": 1410,
-      "content": "you're you're younger children tower in under 10 ok so compare now that kind of environment you are insane rising men not there is no"
+      "content": "you're you're younger children tower in under 10 ok so compare now that kind of environment you are insane rising men not there is no",
+      "uuid": "93d57c0e-8ee5-4cb6-afb2-9f9b6162677e"
     },
-    "1420": {
+    {
       "requestid": "a3df60dd-3e80-4489-b3c9-4559afe10de9",
       "confidence": "0.6734926",
       "timestamp": 1420,
-      "content": "call me with any to wear seatbelts we were coming back remember you don't sit next to my dad and you know I maybe I was a kid like that"
+      "content": "call me with any to wear seatbelts we were coming back remember you don't sit next to my dad and you know I maybe I was a kid like that",
+      "uuid": "38427fa1-37b7-48e7-aee5-de6580b03ea8"
     },
-    "1430": {
+    {
       "requestid": "b01f79e0-a604-4fae-b470-9fd0b182a52e",
       "confidence": "0.5721713",
       "timestamp": 1430,
-      "content": "I'd let me dry heaving how do you dye your hair a little bit knock knock it was not now you know I can I replace belt it in"
+      "content": "I'd let me dry heaving how do you dye your hair a little bit knock knock it was not now you know I can I replace belt it in",
+      "uuid": "30521b44-b8f2-479e-b307-6d5f2205da3e"
     },
-    "1440": {
+    {
       "requestid": "f8fb8da6-b70c-497b-8ddf-26c6d4d37d6c",
       "confidence": "0.6318033",
       "timestamp": 1440,
-      "content": "and you know safety harness is this zip car seats in my wife we were where we were"
+      "content": "and you know safety harness is this zip car seats in my wife we were where we were",
+      "uuid": "b7305f18-0fa4-41c2-a71a-a02071505123"
     },
-    "1450": {
+    {
       "requestid": "7d5f5df4-a6a3-4e96-8286-0c5c27923684",
       "confidence": "0.7382216",
       "timestamp": 1450,
-      "content": "some place recently and um this kid was sitting in lost a bet I don't know bout 6 and we were a star"
+      "content": "some place recently and um this kid was sitting in lost a bet I don't know bout 6 and we were a star",
+      "uuid": "055b0693-f56a-4e71-87eb-8a044af42968"
     },
-    "1460": {
+    {
       "requestid": "dd65041c-bf36-4b05-9191-f9b84763f9d1",
       "confidence": "0.6729837",
       "timestamp": 1460,
-      "content": "flight and she saw the kid up stand up out of the seat and lean over the shoulder of your daddy was it out driving in"
+      "content": "flight and she saw the kid up stand up out of the seat and lean over the shoulder of your daddy was it out driving in",
+      "uuid": "18ea4a32-8c94-4cfb-bf84-9c01821112af"
     },
-    "1470": {
+    {
       "requestid": "918dc50a-b85a-40da-9fe9-da837124676a",
       "confidence": "0.6268595",
       "timestamp": 1470,
-      "content": "car and my wife's like oh my gosh there a belt and was like do you know it's cool I don't know we gotta call swap quick get the belt police out"
+      "content": "car and my wife's like oh my gosh there a belt and was like do you know it's cool I don't know we gotta call swap quick get the belt police out",
+      "uuid": "56ee2db8-4dda-4fd4-8bfa-6dd92b0b613f"
     },
-    "1480": {
+    {
       "requestid": "398466b0-bd0b-4fa3-8c8f-86d736910cde",
       "confidence": "0.6811007",
       "timestamp": 1480,
-      "content": "play a map and you know we we all live we survived it's ok these days back drives a mercedes sedan its new sign in black"
+      "content": "play a map and you know we we all live we survived it's ok these days back drives a mercedes sedan its new sign in black",
+      "uuid": "32d6d1d1-682a-4aca-9181-8943c1470861"
     },
-    "1490": {
+    {
       "requestid": "962b9184-ce4a-4adc-aedf-af1d0e2cebf6",
       "confidence": "0.8245907",
       "timestamp": 1490,
-      "content": "everything is in its place I have to ride home with him the other day I ask them what to buy this car in particular dosan in the dealership and it was"
+      "content": "everything is in its place I have to ride home with him the other day I ask them what to buy this car in particular dosan in the dealership and it was",
+      "uuid": "ace3e94c-1faa-4435-8f10-637ec0e8c9c6"
     },
-    "1500": {
+    {
       "requestid": "64ec3b87-194b-428f-bfc9-4638170a8ccb",
       "confidence": "0.6091053",
       "timestamp": 1500,
-      "content": "dimka those looking at an audi as well and I am and it at the guy you know said to me he said he noticed the system amazed"
+      "content": "dimka those looking at an audi as well and I am and it at the guy you know said to me he said he noticed the system amazed",
+      "uuid": "a87e4565-538d-499c-a2af-c43a599ab043"
     },
-    "1510": {
+    {
       "requestid": "d9e1bcaf-dac7-487b-9535-a1eab0ff6149",
       "confidence": "0.6943305",
       "timestamp": 1510,
-      "content": "safety features on it knows when the car is gonna roll with your window is rolled down um it immediately rolls your window up"
+      "content": "safety features on it knows when the car is gonna roll with your window is rolled down um it immediately rolls your window up",
+      "uuid": "7d815b86-a0bf-45c4-86d7-a6f393b4d291"
     },
-    "1520": {
+    {
       "requestid": "2cd99656-fa41-449a-b800-89504ade57a5",
       "confidence": "0.7384613",
       "timestamp": 1520,
-      "content": "it has the side airbags I think your seats depending on what the car senses it's going to do it puts the seat in the right place"
+      "content": "it has the side airbags I think your seats depending on what the car senses it's going to do it puts the seat in the right place",
+      "uuid": "d2987fa1-911a-4aaf-b2de-16aeff08b177"
     },
-    "1530": {
+    {
       "requestid": "f93e1c29-b978-4898-9594-0c3c9c22fdde",
       "confidence": "0.6225253",
       "timestamp": 1530,
-      "content": "ocean you know I'm gonna spread it it makes you want to flip the car I'm gonna put my seed in the most awkward position and I'm gonna"
+      "content": "ocean you know I'm gonna spread it it makes you want to flip the car I'm gonna put my seed in the most awkward position and I'm gonna",
+      "uuid": "0631d204-ed40-4c95-8ee8-437403ffceb6"
     },
-    "1540": {
+    {
       "requestid": "0ead3f69-ba3a-412e-8b7e-02a7fed75bd1",
       "confidence": "0.6543052",
       "timestamp": 1540,
-      "content": "would bet this is like the safest car in the road he used to determine a death proof um um but I"
+      "content": "would bet this is like the safest car in the road he used to determine a death proof um um but I",
+      "uuid": "19936dda-9139-4eb2-8baf-231aa510a43c"
     },
-    "1550": {
+    {
       "requestid": "a4b2c889-180d-457c-97d2-73253d95415f",
       "confidence": "0.7331629",
       "timestamp": 1550,
-      "content": "aalas I didn't even think about it until we were up until I was driving it and I thought"
+      "content": "aalas I didn't even think about it until we were up until I was driving it and I thought",
+      "uuid": "c371840e-63bf-435d-8696-3b1de28bf036"
     },
-    "1560": {
+    {
       "requestid": "65f5a438-bdb0-4a95-94d7-668403823a8a",
       "confidence": "0.6375038",
       "timestamp": 1560,
-      "content": "I take it to court I really was taking a corner little too fast and I'm like I get an online class or is it gonna happen at the glenn beck buys a car that is"
+      "content": "I take it to court I really was taking a corner little too fast and I'm like I get an online class or is it gonna happen at the glenn beck buys a car that is",
+      "uuid": "f82ac00c-00af-4f01-84e3-6553f19028db"
     },
-    "1570": {
+    {
       "requestid": "88f494e8-3f8a-4a9c-9410-b6ef76b79917",
       "confidence": "0.749665",
       "timestamp": 1570,
-      "content": "elvin cause death proof and find saint of driving no more recklessly football players get better helmets and start using them as weapons"
+      "content": "elvin cause death proof and find saint of driving no more recklessly football players get better helmets and start using them as weapons",
+      "uuid": "8322e80a-e9d6-4c3f-9fc9-903f40a9c4ec"
     },
-    "1580": {
+    {
       "requestid": "50c3c155-2626-40f4-b2ab-8f4cca8e04fc",
       "confidence": "0.6814311",
       "timestamp": 1580,
-      "content": "their way to describe is behavior comments like steve levitt know what is the pope's min affect to the bill for the fact which are named after a good friend of mine sent"
+      "content": "their way to describe is behavior comments like steve levitt know what is the pope's min affect to the bill for the fact which are named after a good friend of mine sent",
+      "uuid": "0f7df04b-6c6e-4951-bbee-f57019a9daa8"
     },
-    "1590": {
+    {
       "requestid": "7ce4f143-cc54-4121-ab22-e2e7942db307",
       "confidence": "0.6942855",
       "timestamp": 1590,
-      "content": "it's been a colleague of mine had one most outlandish dresser shoes ever I walked the earth is the idea that you can put in a safety device"
+      "content": "it's been a colleague of mine had one most outlandish dresser shoes ever I walked the earth is the idea that you can put in a safety device",
+      "uuid": "c2d4c80d-bac6-4f66-ab4a-43995145d971"
     },
-    "1600": {
+    {
       "requestid": "b3a99590-ab36-4987-a2f6-bf9c7a112532",
       "confidence": "0.7205458",
       "timestamp": 1600,
-      "content": "and people cinven feel so much safer connect to be there in getting on that they take more and more risk of the point where you actually have the opposite effect if I put in the safe"
+      "content": "and people cinven feel so much safer connect to be there in getting on that they take more and more risk of the point where you actually have the opposite effect if I put in the safe",
+      "uuid": "8385fb4b-c30d-4af1-8511-2bfebf23c789"
     },
-    "1610": {
+    {
       "requestid": "e73518b0-7f91-4911-8050-b03e7a15d202",
       "confidence": "0.694644",
       "timestamp": 1610,
-      "content": "5 you make you need more people I'm being hurt or killed in and a classic example people talk about his seat belt in cars in india d would be without"
+      "content": "5 you make you need more people I'm being hurt or killed in and a classic example people talk about his seat belt in cars in india d would be without",
+      "uuid": "6647daf2-05d3-4731-8e12-1c469c7df32f"
     },
-    "1620": {
+    {
       "requestid": "415af95b-cf54-4a9b-b884-9ea857c79526",
       "confidence": "0.5994483",
       "timestamp": 1620,
-      "content": "he thought you feel at risk with she thought you driving too much more dangerous fashion and that could lead to more death note you sent skeptical"
+      "content": "he thought you feel at risk with she thought you driving too much more dangerous fashion and that could lead to more death note you sent skeptical",
+      "uuid": "07f8e23d-2536-4f14-b9ac-86c110359165"
     },
-    "1630": {
+    {
       "requestid": "55a47d27-a141-479d-8f0e-0dfb082f4a88",
       "confidence": "0.6750171",
       "timestamp": 1630,
-      "content": "I do not believe that there ever have been convincing evidence of a single kaltrina fechner dir dir good bits and pieces a debit you can"
+      "content": "I do not believe that there ever have been convincing evidence of a single kaltrina fechner dir dir good bits and pieces a debit you can",
+      "uuid": "bb88e5a0-941b-4d3f-9455-21e8627a4a7d"
     },
-    "1640": {
+    {
       "requestid": "74c29680-f802-47f1-817f-b27622c31079",
       "confidence": "0.6026844",
       "timestamp": 1640,
-      "content": "surprise its it does seem true that after you put in 2000 card there might have been a miniscule increase in the number pedestrian sure killed"
+      "content": "surprise its it does seem true that after you put in 2000 card there might have been a miniscule increase in the number pedestrian sure killed",
+      "uuid": "301d986d-812f-4698-92f1-c0933d311d15"
     },
-    "1650": {
+    {
       "requestid": "da632b9b-b4c4-4400-95cf-f9b2207b52a6",
       "confidence": "0.690413",
       "timestamp": 1650,
-      "content": "that was overwhelmingly swamped by the number of drivers who are not killed in pasadena cars were not killed because they weather one"
+      "content": "that was overwhelmingly swamped by the number of drivers who are not killed in pasadena cars were not killed because they weather one",
+      "uuid": "f9d8b5e8-0f55-4486-a568-543aa2dcf055"
     },
-    "1660": {
+    {
       "requestid": "5a0d9a76-efe8-41e0-ad56-5315810adcc6",
       "confidence": "0.5946367",
       "timestamp": 1660,
-      "content": "the economist understand well if it people respond to incentives that buddy can I lick his attitude is trying to understand help people to respond it at the pill for the fact"
+      "content": "the economist understand well if it people respond to incentives that buddy can I lick his attitude is trying to understand help people to respond it at the pill for the fact",
+      "uuid": "02f32f87-24c5-433b-82bc-45ffe7c01263"
     },
-    "1670": {
+    {
       "requestid": "bd5d8dc1-4e69-47d5-b31e-942ab894d9d9",
       "confidence": "0.6871038",
       "timestamp": 1670,
-      "content": "is a beer edv and over the top example about it with people respond so strongly to be incentive at the exit in at home doing"
+      "content": "is a beer edv and over the top example about it with people respond so strongly to be incentive at the exit in at home doing",
+      "uuid": "ac2364bc-c1f8-4f02-ade5-6a6cada3e430"
     },
-    "1680": {
+    {
       "requestid": "18ec22f5-ed44-47d1-8467-03ebd47051d9",
       "confidence": "0.6870032",
       "timestamp": 1680,
-      "content": "a benefit at it eat at the safety devices post at the facebook I gotta agree with 11 at least when it comes to driving there are fewer traffic deaths per mile"
+      "content": "a benefit at it eat at the safety devices post at the facebook I gotta agree with 11 at least when it comes to driving there are fewer traffic deaths per mile",
+      "uuid": "1acf9f51-4241-476e-89e1-89bd560a30c9"
     },
-    "1690": {
+    {
       "requestid": "a9a1a32e-3de0-407b-a977-a84c8487e982",
       "confidence": "0.7040533",
       "timestamp": 1690,
-      "content": "do us a never before and it's because of safety measures like seatbelts not to spite them sure glenn beck my feeling vulnerable and his death proof car"
+      "content": "do us a never before and it's because of safety measures like seatbelts not to spite them sure glenn beck my feeling vulnerable and his death proof car",
+      "uuid": "e8e8fbce-69ef-4a26-899c-cc189789ee8d"
     },
-    "1700": {
+    {
       "requestid": "71240d88-eef3-4116-b192-89709e27634e",
       "confidence": "0.7839397",
       "timestamp": 1700,
-      "content": "but since its own safety is at stake here and out of his wife and kids it really does wanna get to ask but what about safety gear that"
+      "content": "but since its own safety is at stake here and out of his wife and kids it really does wanna get to ask but what about safety gear that",
+      "uuid": "028c3225-563f-4348-8bb8-f9fd6db45512"
     },
-    "1710": {
+    {
       "requestid": "c899f44f-1590-4774-b36d-78feb87e2c4a",
       "confidence": "0.716021",
       "timestamp": 1710,
-      "content": "text you will harming someone else like a football helmet for what about all the radiation we absorb in medical test radiation"
+      "content": "text you will harming someone else like a football helmet for what about all the radiation we absorb in medical test radiation",
+      "uuid": "2a9d26ea-770b-4476-8110-82dea759da32"
     },
-    "1720": {
+    {
       "requestid": "ba4d3cc1-3413-4566-8dad-e269af4d76c0",
       "confidence": "0.7009929",
       "timestamp": 1720,
-      "content": "probably causes cancer without a safety net lake legalized abortion when you can reverse the effect of risky behavior like fun"
+      "content": "probably causes cancer without a safety net lake legalized abortion when you can reverse the effect of risky behavior like fun",
+      "uuid": "215df1be-5a26-43f7-a812-beefb9ac9b34"
     },
-    "1730": {
+    {
       "requestid": "bcb20f33-d7fa-4f8c-b50e-1a28a632ca6e",
       "confidence": "0.6894408",
       "timestamp": 1730,
-      "content": "tekken sex aren't people more likely to engage in such behavior the fact is there a craving for safety has its costs"
+      "content": "tekken sex aren't people more likely to engage in such behavior the fact is there a craving for safety has its costs",
+      "uuid": "fcbc089f-6855-43ba-a6c1-2205e1472d3e"
     },
-    "1740": {
+    {
       "requestid": "95ec7f44-de87-4862-b6ec-2fae71ae3965",
       "confidence": "0.770246",
       "timestamp": 1740,
-      "content": "the other factors we spend way too much time being scared of things like shark attacks in terrorist attacks things it in the end are astronomically unlikely"
+      "content": "the other factors we spend way too much time being scared of things like shark attacks in terrorist attacks things it in the end are astronomically unlikely",
+      "uuid": "b765dcb8-863f-40e1-bef7-3021e33f862f"
     },
-    "1750": {
+    {
       "requestid": "59d7b3e9-dc9b-4058-8d2a-af2b31c5c403",
       "confidence": "0.6934339",
       "timestamp": 1750,
-      "content": "we're getting more and more hyped up about a world less and less dangerous you know it's really weird how long the danger stuff we do these days"
+      "content": "we're getting more and more hyped up about a world less and less dangerous you know it's really weird how long the danger stuff we do these days",
+      "uuid": "edef4ef6-e5a5-4c2f-87b5-52067ad0bd94"
     },
-    "1760": {
+    {
       "requestid": "767cf2fb-5724-4f33-b80e-7291a6ff98d0",
       "confidence": "0.6688657",
       "timestamp": 1760,
-      "content": "football stuff we do for kicks not out of necessity put on her own volition if you think about it risk is becoming"
+      "content": "football stuff we do for kicks not out of necessity put on her own volition if you think about it risk is becoming",
+      "uuid": "767b3a3c-d748-4a9a-b4ca-dffec10c545b"
     },
-    "1770": {
+    {
       "requestid": "ecbae093-a891-4913-b4ae-0dd391a8e79e",
       "confidence": "0.5001437",
       "timestamp": 1770,
-      "content": "luxury good kind of like glenn beck's death proof mercedes"
+      "content": "luxury good kind of like glenn beck's death proof mercedes",
+      "uuid": "724d3e12-3d23-4d32-b59d-a24b8d527b48"
     },
-    "1780": {
+    {
       "requestid": "38721f67-01c0-4d33-821c-15307c6df5a7",
       "confidence": "0.4459788",
       "timestamp": 1780,
-      "content": "190 what I can flip it I'll survive is the death proof car with adults"
+      "content": "190 what I can flip it I'll survive is the death proof car with adults",
+      "uuid": "c6bdafb3-6c4a-44a2-892d-a0b6974ab68d"
     },
-    "1790": {
+    {
       "requestid": "6bf811d3-0baa-4dfb-b3c1-8405f96855ae",
       "timestamp": 1790,
-      "content": ""
+      "content": "",
+      "uuid": "6e9edc1c-6cc9-4efb-96e8-cb8cd1ad386a"
     },
-    "1800": {
+    {
       "requestid": "7c0d1406-5cfe-425e-aa10-e6c5f4a33cb5",
       "confidence": "0.7036929",
       "timestamp": 1800,
-      "content": "thanks for listening to our first ever episode can tell your pretty new to podcasting I sounded like I was trying out for the high school radio club"
+      "content": "thanks for listening to our first ever episode can tell your pretty new to podcasting I sounded like I was trying out for the high school radio club",
+      "uuid": "30e7bd3d-fffd-4ae6-b9b1-f738b3375409"
     },
-    "1810": {
+    {
       "requestid": "b47a3a9f-f163-4f91-8d88-1ab674b8c90c",
       "confidence": "0.7890278",
       "timestamp": 1810,
-      "content": "let us know your thoughts on I tunes will you can also subscribe to this free weekly podcast you can also catch it on twitter facebook and it becomes a"
+      "content": "let us know your thoughts on I tunes will you can also subscribe to this free weekly podcast you can also catch it on twitter facebook and it becomes a",
+      "uuid": "9fff9840-9de9-4afc-9ecc-a54a9284329a"
     },
-    "1820": {
+    {
       "requestid": "83649f9a-7f5f-4690-b322-ee5b6c96944b",
       "confidence": "0.7631489",
       "timestamp": 1820,
-      "content": "next week we are back with a brand new episodes what happens when a cutting edge ad agency that hired by an old school financial service"
+      "content": "next week we are back with a brand new episodes what happens when a cutting edge ad agency that hired by an old school financial service",
+      "uuid": "46ad54fd-4a24-486a-a148-56ae9c46b95d"
     },
-    "1830": {
+    {
       "requestid": "ea7bd1bf-78ba-4e24-abcc-f49ebeb42c71",
       "confidence": "0.702751",
       "timestamp": 1830,
-      "content": "is firm to shake up the message yes honey you do you call a triangle on my call rock and a hard place you hire a harvard psychologist of course as"
+      "content": "is firm to shake up the message yes honey you do you call a triangle on my call rock and a hard place you hire a harvard psychologist of course as",
+      "uuid": "dd524f61-7997-4e17-a633-95bb88ff702d"
     },
-    "1840": {
+    {
       "requestid": "e5563a3c-aa82-43a1-a672-8a90e9ee9cd3",
       "confidence": "0.4128563",
       "timestamp": 1840,
-      "content": "pitch man it's great to fix optimistic plan for whatever the future my friend"
+      "content": "pitch man it's great to fix optimistic plan for whatever the future my friend",
+      "uuid": "9dd965ab-d743-4899-b46e-811264c96c48"
     },
-    "1850": {
+    {
       "requestid": "92d93dcb-f584-4b32-8b4e-bed71324e07a",
       "confidence": "0.5997128",
       "timestamp": 1850,
-      "content": "mets next time I'm free country"
+      "content": "mets next time I'm free country",
+      "uuid": "803508db-b0e7-49e7-bb3d-3fc6f8e06a22"
     },
-    "1860": {
+    {
       "requestid": "bb1facfd-ec34-463f-a656-2a02991a97f1",
       "timestamp": 1860,
-      "content": ""
+      "content": "",
+      "uuid": "77929c4d-7cc7-4685-a926-cabad5fec082"
     },
-    "1870": {
+    {
       "requestid": "59b15bb5-c5ae-495f-b5a3-5dbcd68cf371",
       "confidence": "0.6377356",
       "timestamp": 1870,
-      "content": "freakonomics radio was pretty sight WNYC&A new production this episode is produced by colin campbell me molly webster who is mix by michael ray feel"
+      "content": "freakonomics radio was pretty sight WNYC&A new production this episode is produced by colin campbell me molly webster who is mix by michael ray feel",
+      "uuid": "93be7f55-c6a1-460a-9eb3-13dc12daaa21"
     },
-    "1880": {
+    {
       "requestid": "0e9abe13-72a5-4a79-a421-5affb23966ba",
       "confidence": "0.553793",
       "timestamp": 1880,
-      "content": "special thanks to alisha's wickerman our staff include gregory cellski caroline english to be like in berkmar check up christopher worth in cash mahira <profanity>bitch</profanity>"
+      "content": "special thanks to alisha's wickerman our staff include gregory cellski caroline english to be like in berkmar check up christopher worth in cash mahira <profanity>bitch</profanity>",
+      "uuid": "abfd05ad-1b7d-4b9e-949f-0e0ebfc75c5b"
     },
-    "1890": {
+    {
       "requestid": "b0ca77e0-4177-41a0-bcae-80557e62e661",
       "confidence": "0.6280596",
       "timestamp": 1890,
-      "content": "do you want more freakonomics radio you can subscribe to podcasts on I can work withfreakonomics.com be up unlock radio log book and more"
+      "content": "do you want more freakonomics radio you can subscribe to podcasts on I can work withfreakonomics.com be up unlock radio log book and more",
+      "uuid": "1d47fb22-b432-4be9-93b5-e21166dcd35a"
     },
-    "1900": {
+    {
       "requestid": "3a625f35-72fe-46bc-9ef8-513b8711dd5f",
       "timestamp": 1900,
-      "content": ""
+      "content": "",
+      "uuid": "4051f004-cd28-4fe2-bfe1-b24a02b2205c"
     },
-    "1910": {
+    {
       "requestid": "d1ed365c-a3b9-4015-803b-8c07a79846f0",
       "confidence": "0.6375601",
       "timestamp": 1910,
-      "content": "free radio is supported by"
+      "content": "free radio is supported by",
+      "uuid": "bee4afde-0463-4bf0-b62a-9ca074daa930"
     },
-    "1920": {
+    {
       "requestid": "57b2f81c-a55c-4eaf-91a3-853ea0ee8777",
       "confidence": "0.7622476",
       "timestamp": 1920,
-      "content": "I will front the lokos automated investment service visitwealthfront.com slash creek to get your free personalized investment portfolio today wealthfront"
+      "content": "I will front the lokos automated investment service visitwealthfront.com slash creek to get your free personalized investment portfolio today wealthfront",
+      "uuid": "a9859164-c62c-42dd-bc8e-d94c99bc63cb"
     },
-    "1930": {
+    {
       "requestid": "92e8f675-3c26-4417-ae01-7be81ed21e2c",
       "confidence": "0.8570071",
       "timestamp": 1930,
-      "content": "is an sec registered investment advisor investing in securities involves risks and there is the possibility of losing money past performance is no guarantee of future"
+      "content": "is an sec registered investment advisor investing in securities involves risks and there is the possibility of losing money past performance is no guarantee of future",
+      "uuid": "aebbd4cd-2e1f-45a9-bd49-6209ef8d01c4"
     },
-    "1940": {
+    {
       "requestid": "52796949-7878-4629-b15e-e3f2b7f4354f",
       "confidence": "0.8523025",
       "timestamp": 1940,
-      "content": "salt please visitwealthfront.com to read their full disclosure"
+      "content": "salt please visitwealthfront.com to read their full disclosure",
+      "uuid": "eef9647a-3d62-4d22-a0a1-0c8dfcd81f9b"
     }
-  },
+  ],
   "slug": "The-Dangers-of-Safety--Rebroadcast-"
 }

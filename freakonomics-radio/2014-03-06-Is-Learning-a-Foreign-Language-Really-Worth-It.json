@@ -4,997 +4,1144 @@
   "description": "<p>Yes, it expands the mind but we usually don't retain much -- and then there's the opportunity cost.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/hj7i6Tc7Z_U/freakonomics_podcast030614.mp3",
   "slug": "Is-Learning-a-Foreign-Language-Really-Worth-It-",
-  "segments": {
-    "2.38": {
+  "segments": [
+    {
       "requestid": "3c00ff8a-aa5f-4a6e-8797-5a761888ddad",
       "confidence": "0.7167321",
       "timestamp": 2.38,
       "content": "if I guess this means you are but here in episode about the RAY or return on investment of studying in foreign language",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "30a5a9c3-bb06-4879-a7cb-8c1dd5787d87"
     },
-    "13.03": {
+    {
       "requestid": "21e31301-e464-45e4-b263-51ba8d48a7a9",
       "confidence": "0.495082",
       "timestamp": 13.03,
       "content": "what's the roi on listening to freakonomics radio podcast well if it",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "15589fcb-b2ad-4593-b246-e729f7223361"
     },
-    "18.61": {
+    {
       "requestid": "11c79192-4342-4c5f-9140-30ee570d2952",
       "confidence": "0.7239928",
       "timestamp": 18.61,
       "content": "anything above zero then we hope that you consider making a contribution to keep this public radio podcasts free and easy just go to freakonomics.com and click on tony merci beaucoup to daraba",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "67a7273e-9349-491a-95f1-aa11f8c68178"
     },
-    "32.03": {
+    {
       "requestid": "e03988fb-f430-4f8f-83de-bfba1b9b2757",
       "confidence": "0.3670477",
       "timestamp": 32.03,
       "content": "and they create erebea patch",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "4a601a8c-139c-4ece-9468-e88468b8f4cf"
     },
-    "41.22": {
+    {
       "requestid": "ddd14382-aad1-4764-9200-36790d35c985",
       "confidence": "0.7168697",
       "timestamp": 41.22,
       "content": "the average american students who study a foreign language for 2 or 3 years little red schoolhouse is a well regarded private school manhattan the progressive style here kids start with a second language in pre kindergarten go all the way to graduation",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "2e5e3257-a2a9-416e-84de-30c5e71ff0d9"
     },
-    "57.06": {
+    {
       "requestid": "783692cb-dbb6-4032-8cfb-e2ee327004aa",
       "confidence": "0.4691153",
       "timestamp": 57.06,
       "content": "ok but little red elizabeth irwin",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "a45916b3-4179-41fa-943b-ba4254d96f85"
     },
-    "59.43": {
+    {
       "requestid": "5fd3e408-51c8-409e-8cd6-7305426f68ef",
       "confidence": "0.6599749",
       "timestamp": 59.43,
       "content": "and some were going to be on in the classroom the fourth grade spanish word",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "77ffa2cc-dcbf-4379-baca-a842291c311d"
     },
-    "66.84": {
+    {
       "requestid": "5959dbd2-62f6-4b24-b50a-d420bd025b15",
       "confidence": "0.4173379",
       "timestamp": 66.84,
       "content": "which is the best phone in the room",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "bbf2bb3e-5177-4919-9331-54bd93847698"
     },
-    "70.63": {
+    {
       "requestid": "bc9ecd57-4e36-4740-b8ae-5547f5a5cace",
       "confidence": "0.4456266",
       "timestamp": 70.63,
       "content": "cute little red start out studying spanish jenest mahlsdorf get a gusta mucha",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "c2a095ec-a161-41c9-89b0-49915f2420f0"
     },
-    "78.16": {
+    {
       "requestid": "331645bb-7ed1-461a-af56-a98201391577",
       "confidence": "0.695999",
       "timestamp": 78.16,
       "content": "anitha get older they can you to stick with spanish or take mandron for french",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "12936a8e-9921-4c56-b072-9b71c6624458"
     },
-    "83.16": {
+    {
       "requestid": "dd8998a2-2adc-4819-bcb1-44d6f470e3eb",
       "confidence": "0.6171992",
       "timestamp": 83.16,
       "content": "how are they doing so far compared to like a normal spanish speaking person through and say we're pretty bad spelling for person in fourth grade who's winning spanish aeca 2 PM",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "aa5380ef-ec77-4ff3-b4d6-4b958a560b81"
     },
-    "97.16": {
+    {
       "requestid": "f6c7bf61-e92c-4f39-8c0c-25fa613d7aba",
       "confidence": "0.7817324",
       "timestamp": 97.16,
       "content": "are good and they have big dreams about what learning a foreign language will help them accomplish",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "f75de7f9-3bfe-421f-8e29-ec97f5521d86"
     },
-    "103.95": {
+    {
       "requestid": "17f390c9-6d54-480a-9006-8320adb197af",
       "confidence": "0.7400154",
       "timestamp": 103.95,
       "content": "if you have like a big business deal done and they don't speak english then you could make like",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "81998138-dc67-4843-8440-3fe270394df3"
     },
-    "108.47": {
+    {
       "requestid": "01bf5dfe-cd3c-4ef8-81af-691a7c93817f",
       "confidence": "0.592137",
       "timestamp": 108.47,
       "content": "lie lie I think I might wanna work at peachtree showboy bakery and maybe then we can use are french people so I can talk to them",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "3fc7386a-a3ee-486e-858e-a12ced876073"
     },
-    "118.72": {
+    {
       "requestid": "3c7b3912-e808-4d9a-a447-cd1a7963e113",
       "confidence": "0.6558262",
       "timestamp": 118.72,
       "content": "make another bengalis don't say like that in a different language I am I",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "e453d9ac-5866-4c32-8e1c-079ace4ced4d"
     },
-    "123.61": {
+    {
       "requestid": "9e73024d-c0c6-4e6f-80b1-ba2366f352eb",
       "confidence": "0.6794852",
       "timestamp": 123.61,
       "content": "where can I love story because then people who speak other languages me asking questions",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "f7d85aeb-8eda-477d-bf5c-8d28a3f4ea44"
     },
-    "131.46": {
+    {
       "requestid": "37361221-aca3-47a8-a07a-49d0134abaee",
       "confidence": "0.4833837",
       "timestamp": 131.46,
       "content": "so I'm gonna be a world shivling architext where am I",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "15d45904-b918-4178-9f80-4d7e4d82fe0b"
     },
-    "136.26": {
+    {
       "requestid": "2e00191a-5e4a-4c95-a7e5-cb481829519e",
       "confidence": "0.4808368",
       "timestamp": 136.26,
       "content": "is scientists 4",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "b0767f4a-6927-423e-b68e-7a3274eee66b"
     },
-    "138.73": {
+    {
       "requestid": "15c1f93b-e15f-4dd4-a595-b2ddbf98ed40",
       "confidence": "0.7145894",
       "timestamp": 138.73,
       "content": "I might be a mechanic or I might be a person who invented the car and get my installers",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "e956a8e8-843a-48c1-aa0b-5f8b459e44f5"
     },
-    "149.42": {
+    {
       "requestid": "4c14b47b-f440-4531-af3f-0b43c78251b6",
       "confidence": "0.7119961",
       "timestamp": 149.42,
       "content": "I'm tricia were asking what is the value of learning a second language it started with an email to melissa morning doug zaman hirotake",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "ceed9b1a-5072-4963-accb-1b7253f8763b"
     },
-    "159.14": {
+    {
       "requestid": "7b0e33c7-5209-4faa-8efb-630a71e1bbef",
       "confidence": "0.7632502",
       "timestamp": 159.14,
       "content": "I'm very curious how it came to be the teaching students foreign languages which the status it has in the us my oldest daughter is a college freshman in not only am I paid for her to study spanish us for more years even do in grade school now he writes",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d1b2cd4d-7033-416a-a6f1-66c05378dfa3"
     },
-    "173.75": {
+    {
       "requestid": "d11e22f2-611f-4a48-8e68-96c6857c2033",
       "confidence": "0.7984026",
       "timestamp": 173.75,
       "content": "what are college is requiring her to study even more all caps exclamation point it goes on what on earth is going on I'm never got this far in a day and age were schools in every level are complaining about limited resources why on earth do we continue to force these kids to study a foreign language",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "0ae5d5b6-1638-47be-872a-50b236a9905b"
     },
-    "192.09": {
+    {
       "requestid": "26b0be0c-4bbc-43a1-ba63-3e136f29fd82",
       "confidence": "0.75942",
       "timestamp": 192.09,
       "content": "if you ever use in virtually all do not retain 4 to put in economic terms where is the RAY",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "c0596482-d0ed-440b-a072-c05d527e3877"
     },
-    "205.28": {
+    {
       "requestid": "3d66ef78-4c2a-48ef-8dfd-239086379ae7",
       "confidence": "0.6262779",
       "timestamp": 205.28,
       "content": "what is the arle I am learning farm",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "091d480b-6f36-401c-9ad9-6e495fe31a17"
     },
-    "208.47": {
+    {
       "requestid": "5f466e19-5490-47fd-a629-37af0d61ad89",
       "confidence": "0.4824327",
       "timestamp": 208.47,
       "content": "did you learn like spanish version palinda schools on",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "4388e4ae-1599-4b47-8fed-b04b8976471e"
     },
-    "213.48": {
+    {
       "requestid": "1816756a-1470-4132-bdbb-e5e831c2db86",
       "confidence": "0.6598621",
       "timestamp": 213.48,
       "content": "maybe 20 years later do you could become a billionaire in another country mary",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "985ce6ca-cb1f-495a-ab87-58d59170560b"
     },
-    "219.62": {
+    {
       "requestid": "fc35dd56-c543-4d5f-8550-e3694b514f1d",
       "timestamp": 219.62,
-      "content": ""
+      "content": "",
+      "uuid": "a77fbb68-f1a6-4bee-b4d0-b2afb8a758dc"
     },
-    "224.62": {
+    {
       "requestid": "fc80e746-ac9a-422f-bb4c-0eae9ca4a70a",
       "timestamp": 224.62,
-      "content": ""
+      "content": "",
+      "uuid": "dfc9d470-4d03-4184-8c8c-e07a4ae6f73d"
     },
-    "233.33": {
+    {
       "requestid": "8f0dc8a4-65d7-4c17-b2e1-ab61d1218671",
       "confidence": "0.675742",
       "timestamp": 233.33,
       "content": "I'm wmic this is freakonomics radio the podcast that explored the inside of everything",
-      "speaker": "S33"
+      "speaker": "S33",
+      "uuid": "29343542-2f97-4339-991b-20513eedf203"
     },
-    "240.92": {
+    {
       "requestid": "903a749c-6453-47b9-92c2-7fefda78e517",
       "confidence": "0.3636856",
       "timestamp": 240.92,
       "content": "here's your host stephen dubner",
-      "speaker": "S33"
+      "speaker": "S33",
+      "uuid": "be969a55-b00f-437a-a1dd-9706538129a8"
     },
-    "249.35": {
+    {
       "requestid": "73f2c3d3-31f2-4186-9d29-633f69b44378",
       "confidence": "0.6184943",
       "timestamp": 249.35,
       "content": "boo boo boo boo boo boo boo boo boo boo boo boo",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "94c32feb-12d3-494b-9bd0-417f724dad4d"
     },
-    "256.49": {
+    {
       "requestid": "5f1b4183-1c57-416b-bb3f-39b6858ca0c7",
       "confidence": "0.6014968",
       "timestamp": 256.49,
       "content": "today show or talk about learning foreign language like mander",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "2602623b-7363-4771-bc14-701ca63c8219"
     },
-    "260.34": {
+    {
       "requestid": "1a092612-5e1d-4452-92d2-4fe8dc39dfa2",
       "confidence": "0.3844254",
       "timestamp": 260.34,
       "content": "send nigi swagatham how old he was going he said why should this way he say",
-      "speaker": "S37"
+      "speaker": "S37",
+      "uuid": "4bcefdb8-2b5d-46b1-8ab5-11193a334fa8"
     },
-    "271.6": {
+    {
       "requestid": "d3590841-5a2d-410e-82ca-d3aecf3ec78e",
       "confidence": "0.6250057",
       "timestamp": 271.6,
       "content": "why do we do this teacher kid the second language answer it might seem obvious mcboal education speech is your brain on any number to mention let's try to quantify a bit more than that",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "aebf1df9-272b-4a9a-ad84-19824b631158"
     },
-    "282.86": {
+    {
       "requestid": "1859251f-1054-464a-8d20-506a46bb9628",
       "confidence": "0.6884791",
       "timestamp": 282.86,
       "content": "start with bow as keisai he's a psychology professor at university of chicago is specialty is communication",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "dbee7a7f-b6ac-4038-b444-2ea8767a70ad"
     },
-    "289.86": {
+    {
       "requestid": "6cec1430-4e0d-4e3c-be13-67c9727ee042",
       "confidence": "0.7413768",
       "timestamp": 289.86,
       "content": "really am starting communication is the entire the autobiographical because I realize the time I'm different when I'm using both any language other than hebrew",
-      "speaker": "S41"
+      "speaker": "S41",
+      "uuid": "458ade6d-feb2-4c8a-b591-fd2363834d45"
     },
-    "301.07": {
+    {
       "requestid": "0e33738f-e4d4-4c96-a221-2966eab0167f",
       "confidence": "0.7264475",
       "timestamp": 301.07,
       "content": "he starts from israel to protect your interest in communication has to do with how our decision making is affected when we operate in a foreign language",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "4aae128f-2cbc-41eb-8aca-25b47346ad32"
     },
-    "310.56": {
+    {
       "requestid": "2657e9e4-e9b6-4530-a445-55c1afc3a48f",
       "confidence": "0.798382",
       "timestamp": 310.56,
       "content": "things like um making investments I'm much more likely to invest in the stock market when I do it in english if I think about it in hebrew I feel when I become more conservative",
-      "speaker": "S41"
+      "speaker": "S41",
+      "uuid": "bf0e7837-77c5-4ca7-9d5c-094cf9f150cf"
     },
-    "321.94": {
+    {
       "requestid": "0a49118c-d9f9-40a5-b34f-9f38b42e533a",
       "confidence": "0.6178923",
       "timestamp": 321.94,
       "content": "surprising but maybe",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "df4720c8-ced5-4e5b-ae07-9908b9a7376d"
     },
-    "324.85": {
+    {
       "requestid": "7997db58-5e04-471c-9c8e-7a933059ff5e",
       "confidence": "0.7551227",
       "timestamp": 324.85,
       "content": "he thought it was just him so here in an experiment with university of chicago students with little game with money team ed and I give you $20 here's the way casarse game works if he gives you $20 you play a game with 20 rounds dollar round",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "7f03faf5-4929-4520-8595-aba2bf0261ab"
     },
-    "341.1": {
+    {
       "requestid": "dff41fc2-bf18-4d2e-b79a-53dd9c161682",
       "confidence": "0.8089453",
       "timestamp": 341.1,
       "content": "if each round you can either keep the dogs put in your pocket or put the dollarama table in flip a coin if its tails you lose a dollar but if it's heads you get 2050 cents meaning your original dollar back and you win a dollar and a half",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "3e425d63-06ec-4b2d-b789-2fe79758b77b"
     },
-    "357.41": {
+    {
       "requestid": "12209d79-1617-4911-94cf-92fb1e05268c",
       "confidence": "0.7295468",
       "timestamp": 357.41,
       "content": "so you don't need to know lots of math do realize that the expected value is positive another word",
-      "speaker": "S41"
+      "speaker": "S41",
+      "uuid": "2653452a-8c5e-430e-b8f2-d4ea65aebea2"
     },
-    "365.01": {
+    {
       "requestid": "faab02ec-40a2-407f-ab7b-1b4ad734ff47",
       "confidence": "0.6977898",
       "timestamp": 365.01,
       "content": "is that on average you better off with a bet then pocketing the dollar",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "364c4ce7-5f4b-451d-9cd1-c762b5937c45"
     },
-    "371.34": {
+    {
       "requestid": "249c2710-4ce1-40cf-876e-59c9f03635b0",
       "confidence": "0.7561718",
       "timestamp": 371.34,
       "content": "no what is that to do with a foreign language",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "1df836d9-58bd-4fc5-ad1a-268dd05487ab"
     },
-    "373.69": {
+    {
       "requestid": "03301adf-eb2d-4f49-9131-dbdf38c09e36",
       "confidence": "0.8234193",
       "timestamp": 373.69,
       "content": "we will interested to see what happens when you make this decision when you using foreign language",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "dd75f026-9ffe-43a0-a6ea-e47021b7c6f9"
     },
-    "379.18": {
+    {
       "requestid": "9eace095-9551-4808-82bb-48662174f8b9",
       "confidence": "0.8024794",
       "timestamp": 379.18,
       "content": "to the researchers had some student plain english and other students play in foreign language spanish",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "3d834460-f582-436e-bff9-da5915e74afc"
     },
-    "385.2": {
+    {
       "requestid": "7e96d621-dc7d-4b58-b18d-22781598e362",
       "confidence": "0.7159023",
       "timestamp": 385.2,
       "content": "and turns out indian people will like almost 20 percentage points more willing to take bets they were significantly more willing to take the risk in a foreign language",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "06c84cc9-560c-4c22-ac07-57344944f411"
     },
-    "395.79": {
+    {
       "requestid": "f4161fd3-4702-49df-ab6c-1731ed509098",
       "confidence": "0.7444628",
       "timestamp": 395.79,
       "content": "and that is not at all the result that he's expecting",
-      "speaker": "S167"
+      "speaker": "S167",
+      "uuid": "d3edaaab-27e2-40b5-9f79-c4a8b6d4542e"
     },
-    "402.54": {
+    {
       "requestid": "f7cc0a26-f01e-41cb-9913-9ddfea46a41b",
       "confidence": "0.6079534",
       "timestamp": 402.54,
       "content": "I will not respond to that happen soon because it's really the same person who that person dog is used in spanish now and um is the same dollar the same person but just randomly the case that you doing in spanish",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "792c9ff8-3c38-4fc9-af8f-bd36fc0f2620"
     },
-    "416.63": {
+    {
       "requestid": "d62c3f85-b1a0-448d-80df-0e183122ff45",
       "confidence": "0.7193314",
       "timestamp": 416.63,
       "content": "I know it could be the people just don't understand is well in the second language to this is more of a comprehension issue than risk issue with case or at least was persuaded that he was on the sun",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "af36d685-f269-4799-b637-4fd5dc2479f9"
     },
-    "427.83": {
+    {
       "requestid": "592af082-de7f-4fe5-8192-1b4bdc77a185",
       "confidence": "0.6953892",
       "timestamp": 427.83,
       "content": "how about we start thinking that maybe it's a even stronger and more pervasive phenomenon then we even think",
-      "speaker": "S62"
+      "speaker": "S62",
+      "uuid": "555d2cd0-d85c-46e6-b1bf-0977aef1e6ae"
     },
-    "436.73": {
+    {
       "requestid": "077b1724-3643-4ba6-937e-50819745d5f5",
       "confidence": "0.697604",
       "timestamp": 436.73,
       "content": "and not just about risk and indeed we find that there's also the systematic differences that exist when you using for lunch for instance like the one we ask people to think about moral dilemma",
-      "speaker": "S62"
+      "speaker": "S62",
+      "uuid": "70d34a5a-9740-41f4-b902-c7ac395a9138"
     },
-    "450.66": {
+    {
       "requestid": "d04f5546-ecc2-419c-b233-36249b464e81",
       "confidence": "0.7168614",
       "timestamp": 450.66,
       "content": "so would you sacrificed one person to say",
-      "speaker": "S62"
+      "speaker": "S62",
+      "uuid": "cf561ef8-6149-4181-ad9a-d872f26ce482"
     },
-    "455.64": {
+    {
       "requestid": "0b09b589-29ae-44e4-b7a7-571242baf3f8",
       "confidence": "0.8011801",
       "timestamp": 455.64,
       "content": "you heard this kind of dilemma before try to bus driver let's say is going to run over 5 people killed am so do you go ahead and kill the driver before he can kill the other 5 note normally people are reluctant to say yes but if you ask them in a foreign language",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "657a6e87-f867-495e-aa55-c5a36fbe069e"
     },
-    "473.29": {
+    {
       "requestid": "47b78072-08d1-4205-874e-9e7af02963b5",
       "confidence": "0.7246807",
       "timestamp": 473.29,
       "content": "we found that people are twice as likely to do that to actually go for you to terry an option 2",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "4b50a5be-1b17-4dac-97b9-96484c067d52"
     },
-    "481.2": {
+    {
       "requestid": "f20737d8-6efc-43c1-ad2b-b7ce335ee330",
       "confidence": "0.8099825",
       "timestamp": 481.2,
       "content": "sacrificed one person to say 5 not we didn't do this for real",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "c6b57dbc-e0b3-4f48-820c-1f94f6bd78d6"
     },
-    "485.17": {
+    {
       "requestid": "f59c2173-3f2c-4806-8d3c-190b15b2e777",
       "confidence": "0.2124212",
       "timestamp": 485.17,
       "content": "bing fat butt",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "4b3ba0c0-d0f3-4ab2-aea4-d8621fbf57a2"
     },
-    "487.66": {
+    {
       "requestid": "831afdc6-a67d-46c2-a0d3-eb38850d9150",
       "confidence": "0.4696243",
       "timestamp": 487.66,
       "content": "daru diputada go arsenal is better but still they said yes I will do that",
-      "speaker": "S62"
+      "speaker": "S62",
+      "uuid": "b6f9d452-53e2-423c-822f-bc09dbd291d1"
     },
-    "494.59": {
+    {
       "requestid": "a9a7510f-53df-4d3a-a0dc-e3299a20b5c0",
       "confidence": "0.7540111",
       "timestamp": 494.59,
       "content": "so why might this happen to know the reason that it could be interesting is that we know that the 4 language is much less emotional it's a go to less emotional resonance when you use it the same word",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "a57f0f60-a9fb-48bc-a3f1-9c7996b28583"
     },
-    "508.12": {
+    {
       "requestid": "afa3c6b7-e109-4842-8a7e-81e2b24d7056",
       "confidence": "0.7026138",
       "timestamp": 508.12,
       "content": "LOL in time or even know you know exactly the meaning and you know if the meaning meaning meaning is identical",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "dfcc6964-8272-4f70-b2c2-973b2db4fec8"
     },
-    "516.81": {
+    {
       "requestid": "b6c531d3-0a7f-493a-aa0e-02d4394215b1",
       "confidence": "0.7067978",
       "timestamp": 516.81,
       "content": "you still make your native english speaker you get a lot more out of luck on that's been done with jayden off at the weather also physiological reaction so you can show the people's arousal is a higher wednesday is the native tongue when these kind of emotional related words are used",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "bfec273a-1110-41fd-8ecc-18dda6c8ef2a"
     },
-    "535.8": {
+    {
       "requestid": "e7d216e4-b88a-4ae2-894c-ed1677b2919d",
       "confidence": "0.6778331",
       "timestamp": 535.8,
       "content": "pencil case arces when people stink in a foreign language no more reflective about",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "eef54aaa-be8d-4df2-a3ea-75a9cca4430a"
     },
-    "541.98": {
+    {
       "requestid": "ab4e14af-d9e3-40ac-8851-352b93ab0806",
       "confidence": "0.6703712",
       "timestamp": 541.98,
       "content": "their choices than willing to engage in kaufman fresnels is no way and less likely to be swayed by all sorts of emotional reactions that they might have in general",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "aae9331a-c3b6-4955-aecc-786c4f0331b6"
     },
-    "558.77": {
+    {
       "requestid": "f4f8b7c5-3fe6-47f7-b0ee-2982ca59360e",
       "timestamp": 558.77,
-      "content": ""
+      "content": "",
+      "uuid": "ff163337-4a98-47c5-a4fe-57fd2238445d"
     },
-    "561.7": {
+    {
       "requestid": "0f3fb991-2298-44b3-9d09-00ee72673c97",
       "confidence": "0.7377663",
       "timestamp": 561.7,
       "content": "from keytars pov this is not necessarily a good thing or bad thing in fact his experimental examples aren't very consistently since like me that way",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "079fe921-ca80-4375-a4a0-c1d641f4054b"
     },
-    "571.74": {
+    {
       "requestid": "99ebba18-7d17-442e-b577-d4fe4e233ad6",
       "confidence": "0.8292389",
       "timestamp": 571.74,
       "content": "in one instance the foreign language seems to increase your appetite for risk in another it makes you more reflective what matters is it the language always seems to fax something in the way you think or process information or make a decision in bakke really is the point of the argument in favor",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "d99102a0-2411-4498-883a-847813096298"
     },
-    "591.39": {
+    {
       "requestid": "f0de600b-43bc-4614-8a6c-602a54842901",
       "confidence": "0.7212425",
       "timestamp": 591.39,
       "content": "teaching of foreign language the kids because learning a foreign language changes the brain now be evidence for this is pretty compelling bilingual kids have been shown a better memory an executive function there is some evidence of being bilingual stole the onset of alzheimer's disease",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "02fed1a3-138d-43a2-9cff-84401a2953aa"
     },
-    "609.22": {
+    {
       "requestid": "3f3cc542-9a60-4ac0-a08c-32d56f08234d",
       "confidence": "0.7456723",
       "timestamp": 609.22,
       "content": "in there other more utilitarian parsons as the fourth graders at little red schoolhouse reminder",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "441b1e91-d1df-4136-b791-5ac6fcab5fa3"
     },
-    "616.62": {
+    {
       "requestid": "69fe0851-19a5-4da0-a573-dc1e799809e9",
       "confidence": "0.6523989",
       "timestamp": 616.62,
       "content": "well I think I can sing a christmas tree for languages that you can speak more people who knows how to speak to other people and they don't speak your language schoettler language and also is there is make me smarter to know all these different languages can I help you and you kacian",
-      "speaker": "S90"
+      "speaker": "S90",
+      "uuid": "1341c8da-38d5-4023-8fd1-54e6dd03bdf6"
     },
-    "634.2": {
+    {
       "requestid": "f995249f-a479-426e-8506-03960853c492",
       "timestamp": 634.2,
-      "content": ""
+      "content": "",
+      "uuid": "0959a15d-afdc-4b34-a924-824e5bf35d6e"
     },
-    "637.29": {
+    {
       "requestid": "7dcff003-33d7-45e9-8137-67dbb1059018",
       "confidence": "0.7371302",
       "timestamp": 637.29,
       "content": "ok settle good stuff but coming up at freakonomics radio what about the opportunity cost of all that time spent learning a second language there so many kids to remain barely literate enumerate in their own language",
-      "speaker": "S94"
+      "speaker": "S94",
+      "uuid": "c60fb3cd-30ba-4098-af81-7fcff4e2a36f"
     },
-    "652.62": {
+    {
       "requestid": "2973ddad-cec5-4403-b0e2-e5efcb4b984c",
       "timestamp": 652.62,
-      "content": ""
+      "content": "",
+      "uuid": "7efe5bce-a061-4cd7-b390-45b4949bb980"
     },
-    "660.14": {
+    {
       "requestid": "709dbea0-1c18-4841-a18f-41b9fb7921e3",
       "timestamp": 660.14,
-      "content": ""
+      "content": "",
+      "uuid": "6c5a6988-c525-49d4-80ab-1a43f3575e4f"
     },
-    "663.27": {
+    {
       "requestid": "88a617cf-a979-4143-879e-5c5979012628",
       "timestamp": 663.27,
-      "content": ""
+      "content": "",
+      "uuid": "229d0288-70ab-47c5-9eea-56e8ba80fd92"
     },
-    "668.2": {
+    {
       "requestid": "5e20d512-be03-45c4-96e1-4cef1f26e970",
       "confidence": "0.7694269",
       "timestamp": 668.2,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S96"
+      "speaker": "S96",
+      "uuid": "880a4964-7685-4a66-870e-1ab0327de8af"
     },
-    "679.97": {
+    {
       "requestid": "c1321741-f571-423a-8997-5e2b208ae877",
       "confidence": "0.3145306",
       "timestamp": 679.97,
       "content": "I'd like in the alberts I eat out albert einstein says saaz adamidis trat hoping I'd like you to meet albert cyyz missouri",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "752bb6ff-c019-46fb-9755-a9f2cbaf58b2"
     },
-    "695.95": {
+    {
       "requestid": "824fa2d8-e3f7-457b-9062-53ca48029627",
       "confidence": "0.6590018",
       "timestamp": 695.95,
       "content": "almost everything so I don't mind it",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "7f661188-4a4d-4581-9aa8-c74c97e34411"
     },
-    "698.1": {
+    {
       "requestid": "decb2f7c-0719-46cf-a1c7-320817d0c752",
       "confidence": "0.6087769",
       "timestamp": 698.1,
       "content": "sorry albertse it to spanish name anita pronounce I've exactly like the agricultural tool used to mow the grass but it's spelled FAIZ sea see me at all and again in I got all types of fish bones fish and some time I'm used to it whenever you do you say",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "24856de6-a18e-4f61-8675-a040ef03cd5d"
     },
-    "719.49": {
+    {
       "requestid": "a60bab62-ec6c-4615-804f-fb477c7f3637",
       "confidence": "0.7620529",
       "timestamp": 719.49,
       "content": "flights from barcelona barcelona and even come sit on my t where he teaches urban planning on today show we are asking about return on investment of learning a foreign language when you know it face to calculate it exactly that he tracked about 9000 college graduates to see",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "1b2f3c5f-58ea-421a-8c08-945b29527ba1"
     },
-    "738.16": {
+    {
       "requestid": "0e6cbe70-f0ee-4f0a-bdf6-6a0d301faaad",
       "confidence": "0.7284932",
       "timestamp": 738.16,
       "content": "how a foreign language affected their wages",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "e185d475-2898-48a7-a782-8e049a069dba"
     },
-    "743.98": {
+    {
       "requestid": "c08f6490-1541-47ae-94e4-1f6a48dd1b06",
       "confidence": "0.7162845",
       "timestamp": 743.98,
       "content": "unfortunately and I have to say of course because you know why I try to speak 3 I am I was pretty disappointed and actually at we found a very very small return what we did find is it after controlling for the host of characteristic sing using",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6654eef3-fc4d-4772-b348-ed3a4736fb86"
     },
-    "760.8": {
+    {
       "requestid": "89b6df0d-1914-4d8a-a517-48f1d1a98656",
       "confidence": "0.6771604",
       "timestamp": 760.8,
       "content": "a lot of experimental research designs a busy girl trying to compare people who are identical",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "94b9664c-e826-4fff-9dd2-9bf7e9c71016"
     },
-    "767.16": {
+    {
       "requestid": "fdb8837a-fea2-4c7f-a3aa-1b543f25b47d",
       "confidence": "0.7453057",
       "timestamp": 767.16,
       "content": "for everything except for the second language with the time to find a premium in the labor market off about 2% off of wages",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "095a83f1-be5a-4fee-ac1c-7f11b707a576"
     },
-    "778.64": {
+    {
       "requestid": "7690c26b-63a7-47ed-aaf4-2984657d3c9b",
       "confidence": "0.879725",
       "timestamp": 778.64,
       "content": "in other words if you",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "ff0eac67-146b-4a00-a13a-e333bd8813ba"
     },
-    "780.31": {
+    {
       "requestid": "280f4126-d694-4358-a122-ff3ee6e996d8",
       "confidence": "0.7285031",
       "timestamp": 780.31,
       "content": "speak a second language you can expect to earn on average nuts across many many from people on average you can be expected to learn about 2% higher wages don't act like this app think about",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f06cef04-e859-41fc-b553-ecd55d9bfca6"
     },
-    "794.15": {
+    {
       "requestid": "8dccd01d-1941-4e4c-8e49-de3749be668c",
       "confidence": "0.7102922",
       "timestamp": 794.15,
       "content": "your income are your wage bing about $30,000 then you would expect to learn about $600 more per year",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "39544b78-f47e-4e23-8394-1ae7e5d5957b"
     },
-    "803.81": {
+    {
       "requestid": "a6c68a5d-83af-4bf8-9319-b50861ef9f93",
       "timestamp": 803.81,
-      "content": ""
+      "content": "",
+      "uuid": "c33ee5be-6a6c-47fa-bf5c-54358e04550c"
     },
-    "805.96": {
+    {
       "requestid": "d870d8e3-1cb7-4657-b20d-3984b44635ed",
       "confidence": "0.7968734",
       "timestamp": 805.96,
       "content": "it's not nothing there a lot of things you can do that but increase your earnings by even 2% but still it's not a huge premium and I hate to tell is to our young spanish speakers back in the little red schoolhouse in new york",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "751edc12-4cd8-4f51-ad1b-fbde3ffc54aa"
     },
-    "819.15": {
+    {
       "requestid": "a4ef8446-ebc5-441c-9de6-6eb30317c7eb",
       "confidence": "0.4053929",
       "timestamp": 819.15,
       "content": "can I kiss me my love kiss kiss kiss kiss kiss",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "a56e787c-66ca-435f-931d-37ddcb71e748"
     },
-    "824.46": {
+    {
       "requestid": "d1201fa3-06eb-4e19-a524-00b37ec8b7c2",
       "confidence": "0.8344694",
       "timestamp": 824.46,
       "content": "but there's a rank order in terms of how different foreign languages translate into higher earnings",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "69b29f30-e92c-4f2d-a4d0-4705bffe7ec7"
     },
-    "830.42": {
+    {
       "requestid": "dea4967c-7383-4ade-9781-c4314191b2cd",
       "confidence": "0.7078568",
       "timestamp": 830.42,
       "content": "we know that the lowest return it's a spanish word when you get up at 1.5 percent and then french 2.7 percent and and german 4% so you know learning a second language it's something that's worth to do by itself",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "d9aa0cfe-33a3-41a6-a245-9fcdeceb77ca"
     },
-    "845.16": {
+    {
       "requestid": "99010540-fdf2-4f43-8687-f61b33c6a366",
       "confidence": "0.4749286",
       "timestamp": 845.16,
       "content": "bezucha financialization opro leave if you're focusing on financial returns bairrada below and you should focus on languages that are rarely spoken english",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "49797207-78b7-4554-a4b3-8a07a2f0d8bd"
     },
-    "856.87": {
+    {
       "requestid": "1b00a160-14c4-4f14-a8de-9f2473ce3ad7",
       "timestamp": 856.87,
-      "content": ""
+      "content": "",
+      "uuid": "2ca38f2a-559a-4fa3-9f48-f41f1865f3a5"
     },
-    "858.7": {
+    {
       "requestid": "ed746119-5e18-4e6c-8746-3f7ad4d533dc",
       "timestamp": 858.7,
-      "content": ""
+      "content": "",
+      "uuid": "e12741ac-46ed-4156-9d47-654c4b5cdd8e"
     },
-    "861.29": {
+    {
       "requestid": "b3029139-c070-47a3-ab13-9eba8d109f52",
       "confidence": "0.7534947",
       "timestamp": 861.29,
       "content": "ok so the financial returns to learning foreign language or not so large which need some economists to think that it's mostly a waste of time",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "424c0bc8-0361-4e10-b58a-4772c14a14e2"
     },
-    "871.87": {
+    {
       "requestid": "0947afb7-1682-47d8-917e-30b8f606f4f4",
       "confidence": "0.7968724",
       "timestamp": 871.87,
       "content": "make me think the people spending 3 years their lives to acquire very few skills brian kaplan at george mason university all the study seems to be totally failed to teach people how to fluently speak 4 languages",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "49ba6d11-36db-49d4-9448-488694ae7465"
     },
-    "885.37": {
+    {
       "requestid": "a2bcb96b-54e5-4d9d-ae40-b76dd185b0bc",
       "confidence": "0.8755884",
       "timestamp": 885.37,
       "content": "are so we can actually see in the data is that under 1% of americans have learn to speak a foreign language very well in school and he's very well according to them",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "940fc545-69db-4518-ae62-ca585f74c103"
     },
-    "896.84": {
+    {
       "requestid": "d27c5ff3-8161-4f06-9458-2105169a5c94",
       "confidence": "0.6837101",
       "timestamp": 896.84,
       "content": "assassin people tend to exaggerated how good they are things if under 1% clean but they learn to speak a foreign language very well in school then god knows how few actually did",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "102b5e13-bfde-48eb-b12d-98538c293fb0"
     },
-    "906.21": {
+    {
       "requestid": "9bc696e0-b6df-4d03-9806-fede00a5ad35",
       "confidence": "0.8890218",
       "timestamp": 906.21,
       "content": "kaplan tells us that about a quarter of american city speak a language other than english in the people who say they speak it well tended to learn at home not at school and I'm at school instruction does not come cheap in money or time",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "1e5e0ca6-648e-4ba7-8fdf-ca425e1dcd7b"
     },
-    "921.34": {
+    {
       "requestid": "394e5d20-992f-4228-8127-49b7477f795f",
       "confidence": "0.8094204",
       "timestamp": 921.34,
       "content": "it's pretty close to about 16 of the time students are spending high school assuming they start a foreign language in high school so maybe if you average over junior high and high school then you might be spending it to buy the 12th of your time",
-      "speaker": "S129"
+      "speaker": "S129",
+      "uuid": "b1792c52-a79c-466d-aedd-fccd333676e0"
     },
-    "934.55": {
+    {
       "requestid": "2844237c-62f8-4ec9-96ee-d092d73c84d9",
       "confidence": "0.7787686",
       "timestamp": 934.55,
       "content": "so I think a pretty reasonable first pass to say that the cost of foreign language study in your schools about a 12 for the cost of junior high and high school when you multiply that by the total miner spending that is a lot",
-      "speaker": "S129"
+      "speaker": "S129",
+      "uuid": "61d1619e-8e01-40ef-b785-95fb6264b571"
     },
-    "947.77": {
+    {
       "requestid": "034638db-1150-41b1-a839-2786da91e315",
       "confidence": "0.746251",
       "timestamp": 947.77,
       "content": "do you remember something else that's doing sweetheart and bring a time there so many kids to remain barely literate enumerate in their own language and that something where yes it's true he would he would probably not dramatically change their ability to read and write just to go and take the time in foreign language and pudding it into that but",
-      "speaker": "S129"
+      "speaker": "S129",
+      "uuid": "088fb2e0-f63b-48f1-86b9-0051eb27aa1d"
     },
-    "965.52": {
+    {
       "requestid": "d3251c2a-9c05-4f9b-859b-cecb3b9b46e9",
       "confidence": "0.766221",
       "timestamp": 965.52,
       "content": "all that just killed it actually really does pay in the world so it's really were thinking about doing that",
-      "speaker": "S129"
+      "speaker": "S129",
+      "uuid": "3d5fdfb6-f039-4105-b781-0e72017d5e4f"
     },
-    "970.68": {
+    {
       "requestid": "cd476b54-528e-44b7-9d04-6b60fdd20aa5",
       "timestamp": 970.68,
-      "content": ""
+      "content": "",
+      "uuid": "d156fd00-c065-444c-afad-f103af63065f"
     },
-    "975.19": {
+    {
       "requestid": "881fd19c-661a-46ab-91c9-0fa958708a2a",
       "timestamp": 975.19,
-      "content": ""
+      "content": "",
+      "uuid": "fd31f1f7-d8e9-4068-8218-c66f5fea3d02"
     },
-    "976.82": {
+    {
       "requestid": "508d9647-304f-4dae-b162-aca203c817f0",
       "confidence": "0.7373217",
       "timestamp": 976.82,
       "content": "who is brian kaplan season learning a foreign language especially in school may not be worth it unless",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "0d01eef3-3de1-4763-ace0-b8a68d572d24"
     },
-    "984.61": {
+    {
       "requestid": "a26497dd-988e-41cc-81a1-5562fdb42f0a",
       "confidence": "0.6836463",
       "timestamp": 984.61,
       "content": "that foreign language is english men put albert sixfields his study of college graduates found only 2% wage premium for learning foreign language those were american college graduates",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "e3570f34-0aa2-48c8-9f7a-4b1d613e90c9"
     },
-    "998.82": {
+    {
       "requestid": "416c03a8-8f67-4594-840c-87f536295559",
       "confidence": "0.6386932",
       "timestamp": 998.82,
       "content": "I can tell you that there's researching other countries actually the findings in the united states do contracts with other people falling symptomology found in turkey in russia on in israel",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "f5c4161b-ad0e-4611-894f-59a21daa0427"
     },
-    "1011.53": {
+    {
       "requestid": "b5d77c6d-40de-48ec-aee6-0f0a8f60f6fc",
       "confidence": "0.6261268",
       "timestamp": 1011.53,
       "content": "these 3 countries like you speaking english which would be astika language",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "5cfeb1e0-7484-461e-92aa-85e6e52d6441"
     },
-    "1016.16": {
+    {
       "requestid": "f6fbef36-d3e2-40b3-9782-200d93a90f56",
       "confidence": "0.6364748",
       "timestamp": 1016.16,
       "content": "what's associated with a substantial we turn off around 10 to 20% so it's it's really I think english speaking countries where it will not affect its friday LOL when I get my things that's funny <profanity>shit</profanity> right here in michigan it's not telling my phone",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "933930a3-cc42-42ea-8840-952c94c2fe03"
     },
-    "1032.74": {
+    {
       "requestid": "b6635681-edc2-49b3-ae2b-bedc3b06826c",
       "confidence": "0.7679803",
       "timestamp": 1032.74,
       "content": "even brian kaplan our language skeptik is not so surprised by the english language premium",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "1f6e9bc7-0ee6-4d63-8957-8aa57d7fc40a"
     },
-    "1039.65": {
+    {
       "requestid": "438d05f0-522d-478f-a96e-ce43f026fa27",
       "confidence": "0.7393948",
       "timestamp": 1039.65,
       "content": "bright do you think of a real life is very strong",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "6196a862-8d13-4320-9a96-ed902f55f3e9"
     },
-    "1042.59": {
+    {
       "requestid": "70c642b2-fdc7-4cde-8b09-44ef05364806",
       "confidence": "0.7186325",
       "timestamp": 1042.59,
       "content": "swingers in why so many people in or thorne english is there a lot of jobs in north even get it has been a much and it also opens a lot of doors open source for you in terms of things you can read movies you can watch",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "9cda381c-0acf-4cdd-8e8b-8a84cded2666"
     },
-    "1054.49": {
+    {
       "requestid": "5a83fa8e-5c16-4b01-bfcc-65ca6b951db7",
       "confidence": "0.6079255",
       "timestamp": 1054.49,
       "content": "people do you can talk to you after assembly all these things already sure all doors are open by english 120 is in guatemala I was actually asking them so how much is english improve your life here do you know speak english with your life here",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "0c64b02c-a6c4-46ff-92cc-efd4bd8f6edd"
     },
-    "1066.73": {
+    {
       "requestid": "68757b6e-9c41-4b33-a221-c8a3ba7dd7a9",
       "confidence": "0.5074881",
       "timestamp": 1066.73,
       "content": "angie aldag almost like talk to you posted speak you get english talijan it's a nice night day it's really the doorway into the international world breaking the share",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "43b7d794-4fa6-4ebb-bcc8-696b216aa769"
     },
-    "1086.85": {
+    {
       "requestid": "7d0fb2f0-ed3f-4a6f-a467-4f621f02db44",
       "confidence": "0.8076882",
       "timestamp": 1086.85,
       "content": "and by the way brian kaplan for all that he sounds like a language skeptic core the baby still language utilitarian in real life",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "7f741de6-4606-478f-acf3-8a2e89b525d5"
     },
-    "1095.34": {
+    {
       "requestid": "510cfb4f-9ef0-4185-8232-f2600873fd19",
       "confidence": "0.8034333",
       "timestamp": 1095.34,
       "content": "he's a language romantic",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "87b22274-3c4d-479f-8be5-e47655224eea"
     },
-    "1098.52": {
+    {
       "requestid": "15597e41-75a3-4395-a6fc-197dcce6f575",
       "confidence": "0.8244781",
       "timestamp": 1098.52,
       "content": "who's in college he fell in love with german",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "ae4e48e1-5787-4380-98c1-24d19e4b35ea"
     },
-    "1101.77": {
+    {
       "requestid": "bc1d77ad-335d-4617-bdcb-1f6767b93b1f",
       "confidence": "0.6136855",
       "timestamp": 1101.77,
       "content": "litteratur you I can read nietzsche in german cuisine ice blocks in cockroaches survive fancy sunday in some really good german music my favor composer is wickatunk yeah of course",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "7955b938-5839-4fba-8dea-35e8e175facc"
     },
-    "1123.0": {
+    {
       "requestid": "32c66f8b-d0c4-4780-8aab-ec0bde7f3a25",
       "confidence": "0.525229",
       "timestamp": 1123.0,
       "content": "would still be coming in him trumps the romantic",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "fa38d181-05fe-4fb8-afba-12fc850d4116"
     },
-    "1127.64": {
+    {
       "requestid": "1931c61a-f0d1-4b75-ae55-573681c1d74e",
       "confidence": "0.6452407",
       "timestamp": 1127.64,
       "content": "sergen in for me if the afic the basic story of",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "a2f93383-5637-4eba-b6b3-0fea7137a026"
     },
-    "1131.39": {
+    {
       "requestid": "811d02a0-4500-4578-94db-018a31e827e5",
       "confidence": "0.6544891",
       "timestamp": 1131.39,
       "content": "if people either going to get some big krit benefit out of it orlin rich is a personal life then for language studies great",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "a768a51b-0d08-46fa-ab8b-f43744a9766c"
     },
-    "1138.98": {
+    {
       "requestid": "6ea11540-d9c1-4ea4-b8ef-a54d939244f2",
       "confidence": "0.7255583",
       "timestamp": 1138.98,
       "content": "but if it's the average language that doesn't really help akarere than I can use it in there not happy when I'm there",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "afa35612-8b7e-4e62-bbec-04b0512aed7f"
     },
-    "1144.54": {
+    {
       "requestid": "8d825c73-e8a4-4149-91a6-2006df5a2133",
       "confidence": "0.765707",
       "timestamp": 1144.54,
       "content": "I really do not see a point to go to me",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "015e5aa8-c633-48e4-9153-5869076805cd"
     },
-    "1149.78": {
+    {
       "requestid": "3d1867b7-31e0-4309-a29c-469d62ffdcd4",
       "timestamp": 1149.78,
-      "content": ""
+      "content": "",
+      "uuid": "f20357d3-8168-4176-8a15-be22dab55040"
     },
-    "1162.05": {
+    {
       "requestid": "b542aaaa-2c6c-4828-aab2-5b8ab9763ab6",
       "confidence": "0.5070617",
       "timestamp": 1162.05,
       "content": "what is worth",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "2a90f928-5361-4340-8ca8-c29699bb1584"
     },
-    "1163.97": {
+    {
       "requestid": "a70a287a-6f3a-4dbc-9639-9d791b94970a",
       "confidence": "0.7336757",
       "timestamp": 1163.97,
       "content": "we get emails all the time from listeners in foreign countries are teleset babe listen to this freakonomics radio podcast in order to learn english",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "f540c1ba-1215-4ad4-a1eb-ab537495f345"
     },
-    "1172.95": {
+    {
       "requestid": "be4937bc-2d83-4a94-9d2c-0ed9cfb68ddb",
       "confidence": "0.7077584",
       "timestamp": 1172.95,
       "content": "with 2 things to say to you people",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b2fe5ad2-9553-4f58-a252-2a6bf9d9d30b"
     },
-    "1175.16": {
+    {
       "requestid": "146daee9-6325-4876-b29d-ccd549f73de8",
       "confidence": "0.8062087",
       "timestamp": 1175.16,
       "content": "one good luck with that",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "cd07eee6-ed26-4c8a-b2af-58bb9d9e1334"
     },
-    "1184.94": {
+    {
       "requestid": "3c41080d-be9e-4542-8f71-e19f85668ee9",
       "timestamp": 1184.94,
-      "content": ""
+      "content": "",
+      "uuid": "0cb24268-26b8-498f-a474-831aa6bf95fd"
     },
-    "1189.67": {
+    {
       "requestid": "00fc4597-3365-4d0e-babf-95a9d36defc0",
       "timestamp": 1189.67,
-      "content": ""
+      "content": "",
+      "uuid": "9579b860-1ba6-42bd-8139-f7321b46896a"
     },
-    "1196.04": {
+    {
       "requestid": "1c44953d-b829-4566-b201-9b7fc63cb3e8",
       "confidence": "0.7994196",
       "timestamp": 1196.04,
       "content": "if I guess there's next week on the show we listen to a song by queen",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "262f3115-689f-4f08-85d4-156f88ffb568"
     },
-    "1200.48": {
+    {
       "requestid": "cd7e6490-e91b-49df-93b6-868f5b08194d",
       "timestamp": 1200.48,
-      "content": ""
+      "content": "",
+      "uuid": "f8c53948-9ff9-42cb-a2f4-394efa3122e9"
     },
-    "1203.51": {
+    {
       "requestid": "e770844b-db9f-4b6f-bf12-657f35fc783b",
       "confidence": "0.7568755",
       "timestamp": 1203.51,
       "content": "and then we listen to the queen song backwards",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "9d62962c-0afe-4f9a-aecb-622787a32065"
     },
-    "1208.2": {
+    {
       "requestid": "7073585e-1be1-41ae-9bbb-d6413bd0aee4",
       "timestamp": 1208.2,
-      "content": ""
+      "content": "",
+      "uuid": "46a69bb4-dc23-43c8-9064-bc4dc4950efa"
     },
-    "1210.32": {
+    {
       "requestid": "49b0760e-1d13-4cd6-8332-35ec4fc4a58c",
       "confidence": "0.8326924",
       "timestamp": 1210.32,
       "content": "I listen to it again listen to the words it's fun to smoke marijuana at",
-      "speaker": "S167"
+      "speaker": "S167",
+      "uuid": "17500c90-ff04-4a77-881a-22effde0dc39"
     },
-    "1215.44": {
+    {
       "requestid": "227259fb-e794-49c2-940d-a7839134a3ba",
       "timestamp": 1215.44,
-      "content": ""
+      "content": "",
+      "uuid": "0496de2c-a290-4331-ad5b-49d14d693ebd"
     },
-    "1217.68": {
+    {
       "requestid": "66686e69-1b38-47a1-8998-98612c02c650",
       "confidence": "0.6747862",
       "timestamp": 1217.68,
       "content": "in what kind of pizzas about mind reading books",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "219f4a70-8fd8-443f-85e8-2275813e9eb3"
     },
-    "1224.89": {
+    {
       "requestid": "1ea5a3ff-2cbc-4ca7-adbf-9d22a0c788d0",
       "confidence": "0.4324217",
       "timestamp": 1224.89,
       "content": "next time free I'm free",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0ca62ea6-f53c-41a3-990f-e9d77c93efeb"
     },
-    "1231.75": {
+    {
       "requestid": "aea518bc-1e1f-44b9-99d2-ceff17cad097",
       "confidence": "0.106036",
       "timestamp": 1231.75,
       "content": "books",
-      "speaker": "S171"
+      "speaker": "S171",
+      "uuid": "c7bb1427-e0c0-4e25-8551-c8df77f48f04"
     },
-    "1235.32": {
+    {
       "requestid": "6a4414c3-1b2f-42a5-8d3f-45a32ccadad0",
       "confidence": "0.7329667",
       "timestamp": 1235.32,
       "content": "freakonomics radio is produced byWNYCN.net production our staff include david herman greg rozalski credico nbra lamb do you like tim burton crispins and if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com",
-      "speaker": "S172"
+      "speaker": "S172",
+      "uuid": "635d05f2-617b-4b6d-af0f-e6310dad0c5e"
     },
-    "1253.55": {
+    {
       "requestid": "5559753d-81f9-4c1a-a0d0-96d4f77ee7a8",
       "confidence": "0.6586539",
       "timestamp": 1253.55,
       "content": "will find lots of radio oblog the books in morn",
-      "speaker": "S172"
+      "speaker": "S172",
+      "uuid": "53a75237-b1ad-4a64-8c4d-bb1451d484c1"
     },
-    "1257.36": {
+    {
       "requestid": "12365e65-4c55-4348-85e8-c85c5848d1c0",
       "confidence": "0.4202058",
       "timestamp": 1257.36,
       "content": "add another one another one bites the dust",
-      "speaker": "S171"
+      "speaker": "S171",
+      "uuid": "4c6abac3-4a1d-4c9a-af57-80e10aa7a4c8"
     },
-    "1261.44": {
+    {
       "requestid": "d43a7efe-e48c-4a42-98ec-2c38dd2ffc8c",
       "confidence": "0.1535101",
       "timestamp": 1261.44,
       "content": "bing games",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "1fe22513-e3a4-440f-a06b-09c7fab295ae"
     },
-    "1266.76": {
+    {
       "requestid": "767b72fb-4742-4e52-ba36-c36e91ed7966",
       "timestamp": 1266.76,
-      "content": ""
+      "content": "",
+      "uuid": "1105d161-b3c2-4c01-8811-a57cc0d7dcd1"
     },
-    "1272.0": {
+    {
       "requestid": "e8def6f7-9951-4b0f-a08e-e3aeff959cc8",
       "confidence": "0.8273432",
       "timestamp": 1272.0,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "d7ee6c88-d15e-4bd4-98e8-abb676f63330"
     },
-    "1291.28": {
+    {
       "requestid": "eedd2dc6-1698-4ce3-b4fa-3621c982de28",
       "confidence": "0.8922797",
       "timestamp": 1291.28,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "f20981d8-b809-45c8-98d1-bca7b71f737d"
     }
-  }
+  ]
 }

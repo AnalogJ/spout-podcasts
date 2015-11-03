@@ -4,1033 +4,1184 @@
   "description": "<p>A 19th-century Georgia land lottery may have something to teach us about today's income inequality.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/faIkv8aicO4/freakonomics_podcast092613.mp3",
   "slug": "Would-a-Big-Bucket-of-Cash-Really-Change-Your-Life-",
-  "segments": {
-    "1.15": {
+  "segments": [
+    {
       "requestid": "3e7231b9-60f5-4ba9-bdf5-92958616142f",
       "timestamp": 1.15,
-      "content": ""
+      "content": "",
+      "uuid": "9b6b89c9-6cab-40a7-863a-4c2ac78ab17a"
     },
-    "6.33": {
+    {
       "requestid": "2450b0e0-fbf7-4935-9925-0369bb3ccb0b",
       "confidence": "0.7580541",
       "timestamp": 6.33,
       "content": "the other day we heard from the freakonomics radio listener name thomas appleton he had been talking with a friend that giving money to charity and he had this idea",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "cec0f858-9a35-4e5d-b10a-64531e98a120"
     },
-    "16.48": {
+    {
       "requestid": "913a8be0-7b53-4eba-b8ff-8e185cf1b78c",
       "confidence": "0.6857831",
       "timestamp": 16.48,
       "content": "I was wondering what would be the social economic affects is the 50 wealthiest americans each selected 15 ED american families",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "29fc4c51-c6f4-4875-8367-ea269c7ed306"
     },
-    "26.95": {
+    {
       "requestid": "21a26ec2-7877-40ba-8bda-7cd6b119eb2d",
       "confidence": "0.729664",
       "timestamp": 26.95,
       "content": "and gave each 1:01 time get to $50,000 and repeated the process every year with new beneficiaries in what is the zip code for copd trade it in for some pics of the poorest neighborhoods in brooklyn",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "087c6e37-f095-401d-8cd5-d9644927a9ed"
     },
-    "42.11": {
+    {
       "requestid": "1ff12677-bf53-4962-8874-a282fb5672e0",
       "confidence": "0.8152829",
       "timestamp": 42.11,
       "content": "who is the next in question in economic terms thomas is asking about the effects of the geographically concentrated want I'm unconditional cash transfer in weather for instance italy 2",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "80984d1b-c472-4c77-aff0-7729d533cc01"
     },
-    "56.91": {
+    {
       "requestid": "aaf0a666-3080-441b-9dab-c2b0d8c5e64f",
       "confidence": "0.7104559",
       "timestamp": 56.91,
       "content": "real intergenerational income mobility oh by the way he put it is a bit much more exciting",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "33bea5a4-5b9d-441b-a28f-69aadb5ddd6f"
     },
-    "64.92": {
+    {
       "requestid": "bd0d0138-110c-4f64-adbd-f83e4b4cdb22",
       "confidence": "0.6810533",
       "timestamp": 64.92,
       "content": "when we try at 6:50 families $50,000 each at 2 and a half million dollars a year so who out there wants to fund our experiment",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6f65b16b-e943-47f8-b253-4e9f12cc5cb3"
     },
-    "77.14": {
+    {
       "requestid": "857cdc93-f353-4a04-bcb2-cc8fdb85ea49",
       "confidence": "0.8694943",
       "timestamp": 77.14,
       "content": "hello anybody nobody",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "78a63874-b1c7-450e-a504-77cb86e419f9"
     },
-    "82.44": {
+    {
       "requestid": "a21591ce-66f7-4808-a71e-53dff0affee2",
       "confidence": "0.8218472",
       "timestamp": 82.44,
       "content": "this is what happens when you give your podcast wait for free nobody wants to pay for anything anymore alright then I'll just have to find another way to answer thomas is question",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6a46b973-f951-4e0a-92db-a627de58fb72"
     },
-    "94.03": {
+    {
       "requestid": "f69cc8d5-c5db-4b96-aad5-3a4898f264cc",
       "timestamp": 94.03,
-      "content": ""
+      "content": "",
+      "uuid": "d28ccce3-68ef-4c5f-9318-e51d12b80192"
     },
-    "103.32": {
+    {
       "requestid": "a753e060-d9b1-48af-ad88-ad39ccf439f2",
       "confidence": "0.6028048",
       "timestamp": 103.32,
       "content": "mw on my feet this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "89d67317-7bd4-4c35-b56f-151d6be5b705"
     },
-    "110.91": {
+    {
       "requestid": "54e082ff-ca54-4843-8974-6f216424b4a1",
       "confidence": "0.4008741",
       "timestamp": 110.91,
       "content": "here's your help steven dubner",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "4e65b4aa-a296-40cd-aaed-4bc9758170f4"
     },
-    "118.98": {
+    {
       "requestid": "f7b4f3fe-0f16-43d1-84e1-03be6f639af9",
       "timestamp": 118.98,
-      "content": ""
+      "content": "",
+      "uuid": "58be005c-5ee8-4f12-afdf-fd6bc6221910"
     },
-    "125.61": {
+    {
       "requestid": "b57b4f65-5e21-469e-b74b-5585d649737f",
       "confidence": "0.780588",
       "timestamp": 125.61,
       "content": "ok so here's a question were trying to answer today if you were thinking about helping poor families how effective would be to simply give them a big pile of cash would bet change the course of their trajectory overtime",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "75968f5e-af44-419f-903d-8de9e33ad99f"
     },
-    "141.29": {
+    {
       "requestid": "985d8f87-a073-49b1-8da7-34996c137ab9",
       "confidence": "0.9046181",
       "timestamp": 141.29,
       "content": "giving away $50,000 may sound like a lot of money but",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8538314a-461a-401c-a555-6d08d5471608"
     },
-    "146.27": {
+    {
       "requestid": "acd13b7b-9d43-4bb7-8707-a107779ce772",
       "confidence": "0.7713611",
       "timestamp": 146.27,
       "content": "if it means helping out on this one family but the next generation in the next to be bargain right now there a couple of problems with trunk answer this question the first time is it now if you are willing to give me the 2 and a half million dollars to fund experiment",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "2dc8bde3-9c9d-4fd8-ad65-dd4e91e24e47"
     },
-    "162.15": {
+    {
       "requestid": "3064f273-9863-4886-a501-443568eb5b34",
       "confidence": "0.7910277",
       "timestamp": 162.15,
       "content": "results of this in order for it to be an experiment we need to randomize who gets the money that also means having a control group we can measure the fact of the money and also we need a lot of time even if we could give $50,000 to 50 families today",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6bc255cf-17c1-4d65-b1a9-21408322f085"
     },
-    "180.6": {
+    {
       "requestid": "3030c929-39cf-4c77-b16d-3fcab9763463",
       "confidence": "0.7244038",
       "timestamp": 180.6,
       "content": "we wanna see it's a long term affect how to fix their children and grandchildren so would it be great if somewhere in history something like this party happen that",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "972687a5-5fee-4352-ad00-3f06618eb879"
     },
-    "195.43": {
+    {
       "requestid": "40749ec1-42a6-4d9c-9fad-f89748ccaaf1",
       "confidence": "0.628932",
       "timestamp": 195.43,
       "content": "maybe there is some magical datastar a couple of scholars can analyze and write a paper for answers",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b933fe34-cf37-427e-913b-d5931dd67493"
     },
-    "205.46": {
+    {
       "requestid": "7d815180-0e88-43ea-879d-2ab3e74d5eed",
       "confidence": "0.7448448",
       "timestamp": 205.46,
       "content": "bruce shocking behavior random wealth in antebellum georgia and human capital crossed",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "2de39fdc-b0f6-4ba5-b3f2-cdb74174bf7f"
     },
-    "211.42": {
+    {
       "requestid": "5dbc6075-4fbb-4dc8-a8a4-86c188eb56b7",
       "confidence": "0.6739088",
       "timestamp": 211.42,
       "content": "eration well hello that is quite likely he's an economic historian university of chicago currently visiting scholar prince and he did this research with joseph berry thomas in northwest",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8c1a019f-65cb-4fff-a34e-98a51e187c06"
     },
-    "226.47": {
+    {
       "requestid": "a67d3838-1fbc-4d77-b08d-336312597633",
       "confidence": "0.7341323",
       "timestamp": 226.47,
       "content": "to the shocking behavior got that were talking about is a shock to the system which is this land lottery that happen in georgia in the early 19 century yes",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "83d267c9-3e58-4d3e-ae7c-ff4daf110d0c"
     },
-    "235.7": {
+    {
       "requestid": "2d2d624d-1436-4a68-be43-b59bcb323d7c",
       "confidence": "0.793071",
       "timestamp": 235.7,
       "content": "that's right so they serve a little known fun fact or from antebellum days which is the state of georgia opened up almost 3 quarters of its territory to white settlers through system of lotteries dozen actually pulling names out of a barrel to randomly give out landry",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "133e70c3-6645-4ae9-a655-d0a333de0b43"
     },
-    "251.52": {
+    {
       "requestid": "069e86eb-c605-4ef5-978d-c19f1afe8fc7",
       "confidence": "0.7743505",
       "timestamp": 251.52,
       "content": "snow this land we should say I had been confiscated from the indian tribe",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ad1ed1ce-cefa-4af1-8dd1-d4a588eacc30"
     },
-    "255.99": {
+    {
       "requestid": "463479e7-a589-49ac-89fd-b5fde66072a3",
       "confidence": "0.8291354",
       "timestamp": 255.99,
       "content": "that's great so that's the less fun part of the fact which is that of course this happen because of the displacement of the cherokee in the creek and the fact you know that this particular episode we look at is what gave rise to whats call the trail of tears are for the cherokee word for smart style am at oklahoma under some depraved circumstances",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "7452c905-bd3b-480b-a75d-38dd659e6cab"
     },
-    "275.83": {
+    {
       "requestid": "910d67d1-2241-4323-9225-661e52f18366",
       "confidence": "0.7723851",
       "timestamp": 275.83,
       "content": "ok so the garment of georgia had a lot of land and they used to give linda way different way right a somewhat less",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "edc13d52-2c06-41f3-9f01-72ccad598c5f"
     },
-    "284.49": {
+    {
       "requestid": "58aa97a8-ab9a-4ae4-98ba-08f5c2479522",
       "confidence": "0.8226154",
       "timestamp": 284.49,
       "content": "let's randomly not quite a lot less random get something that looks a lot more similar to the way to been done for much of the east of us which is to say they would issue grants or they would have people go out and claim land and they would be entitled to a certain claim but they would also have to show evidence that they done something with it",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "3432141d-ea10-4a5a-9d72-d4c2865b4db4"
     },
-    "303.48": {
+    {
       "requestid": "73b148e5-5dcf-46f0-9471-b3a283bff589",
       "confidence": "0.8030786",
       "timestamp": 303.48,
       "content": "gotcha so so I can say I'll commit to farming this land in hiring certain people it if you give me the land some kind of contract like that",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "37d2cfc5-7495-4c68-8c5a-c691c64f2a25"
     },
-    "310.52": {
+    {
       "requestid": "fcf89269-2cd9-4b7f-9a6f-2851b8e8164d",
       "confidence": "0.6735271",
       "timestamp": 310.52,
       "content": "oh yeah that's right some evidence of having done something with it and that's right",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "e8ba4995-a525-4bd9-bb41-271ab3debec7"
     },
-    "314.59": {
+    {
       "requestid": "7bbbe569-b560-4c54-a0c5-14177bc4c481",
       "confidence": "0.803019",
       "timestamp": 314.59,
       "content": "ok and why did the lottery come about what precipitated the need",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e3648846-12d2-4b95-96a0-36979d133945"
     },
-    "319.45": {
+    {
       "requestid": "6508474c-ad67-476e-936d-21f7ea7c8b3f",
       "confidence": "0.8448039",
       "timestamp": 319.45,
       "content": "well so take yourself back to that map that you may have seen in 11th grade are in high school history thanks where the colonies you know the new states were claiming land all the way out to the mississippi there's dino you may seem a thing with is like a super long gated map of new york in georgia in virginia LOL play me at the mississippi",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "915cd651-3a7e-48d1-bb1d-c4d1ab727e98"
     },
-    "338.68": {
+    {
       "requestid": "b4f89e2e-ca88-402a-a219-82b335acb827",
       "confidence": "0.8041272",
       "timestamp": 338.68,
       "content": "so some enterprising set of gentlemen decided they were gonna start selling that lands in georgia was claiming opening up for settlement and the way they did this is day basically bribe the majority of the legislature's in georgia to make this happen",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "bedfa646-7083-42be-aa77-ec9de464d637"
     },
-    "354.83": {
+    {
       "requestid": "b8bcf7b5-f2e6-4620-80ba-153a3ac6eb0c",
       "confidence": "0.679805",
       "timestamp": 354.83,
       "content": "this generated such a scandal because it part wasn't clear george actually at title to this landquist innerwish legally able to get out the way and eventually they gave it up it's this land was in the state of mississippi eventually bump with for the regenerated suchat throw the rascals out movement",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "2dbf38c9-92df-489a-8d30-b6c04a7ea792"
     },
-    "370.9": {
+    {
       "requestid": "1a06546e-7ab6-4381-b687-15770673e239",
       "confidence": "0.7804041",
       "timestamp": 370.9,
       "content": "that when they came around allocating the part of the state that really was part of georgia politicians opted for with a view does the most incorruptibles the most transparent mechanism possible and they came up on the lottery is such an idea on so they went and you know it surveyed",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "bc265561-93dd-4432-b083-27e8779a7f5d"
     },
-    "388.76": {
+    {
       "requestid": "04513f68-f4ad-4b8f-9cf7-5db5b62c42f5",
       "confidence": "0.740006",
       "timestamp": 388.76,
       "content": "bulanda do a bunch of parcels set out a grid",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "4067eeb3-e021-433d-8f3c-2891766d7e57"
     },
-    "391.82": {
+    {
       "requestid": "50a84ff4-df55-4894-b01d-cede8903f0cb",
       "confidence": "0.7843664",
       "timestamp": 391.82,
       "content": "and after that time are they started pulling bamse bout of errol spence actually every white male who lived in georgia for a few years was eligible to participate in the woods so much money on the table from pratis abating tried it cost to 12 cents to register",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "2b3b4774-5a01-4728-bed2-e38225b789d8"
     },
-    "406.94": {
+    {
       "requestid": "6970fe34-638b-4a3d-83a0-37ae1b2cc450",
       "confidence": "0.8411767",
       "timestamp": 406.94,
       "content": "and can you buy more than one ticket for everybody can have this one",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c2045de2-5b28-4b91-9dd1-638030550aa4"
     },
-    "409.87": {
+    {
       "requestid": "aec0c317-6235-4b01-a668-29811af3eb84",
       "confidence": "0.7556703",
       "timestamp": 409.87,
       "content": "no this was don't think of this is go to the store and buy nokia power button play him know to give it you basically eligible for one registration and we estimate approximately 100% of the people ready",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "c28373eb-482d-4433-a683-923336dc3879"
     },
-    "421.53": {
+    {
       "requestid": "a86008d7-780e-443a-b1c7-aaa050c7112c",
       "confidence": "0.8582394",
       "timestamp": 421.53,
       "content": "wow ok so if we if we forget the fact or deny the fact that the land was confiscated from native americans",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a532fbe3-6496-4d11-b944-e2c97322cd0c"
     },
-    "431.09": {
+    {
       "requestid": "5a107121-f88b-4585-b8a2-012f97c07ee0",
       "confidence": "0.7913367",
       "timestamp": 431.09,
       "content": "ben this is a pretty equitable way to distribute the land yes in that is not giving advantage to people who either have a you know at the craft a legislator in their family friendship are wet not right",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5bfd255f-9372-4b76-b59d-f7e347e491ac"
     },
-    "445.2": {
+    {
       "requestid": "901cd430-ff64-413a-bf73-a2077a62f7ea",
       "confidence": "0.8338666",
       "timestamp": 445.2,
       "content": "yeah I mean you can sit at least at least ahead of time it's a it's in a good way to do it because everybody gets the possibility of winning of course some people win some people lose which end up being central to the way we you know before marissa",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "f2d6bcaf-21ad-47a5-a940-d8786542aafa"
     },
-    "459.37": {
+    {
       "requestid": "7c237cd6-85e0-410a-9e06-22c38eb65309",
       "confidence": "0.781887",
       "timestamp": 459.37,
       "content": "ok so tell me just a couple quick facts about this out what share of you said that there is virtually 100% participation does it was pretty much free to find upton try to win some land at what share of people been one what are my chances of winning",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "cce1aa13-8085-441f-9245-ae869073cdae"
     },
-    "473.89": {
+    {
       "requestid": "0f82073a-4ea9-4b0e-a681-8e3e9aa5b17f",
       "confidence": "0.7673438",
       "timestamp": 473.89,
       "content": "yes a little shy of 20% of the people want",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "53298107-fa92-40bc-ae70-26b632e4f6ac"
     },
-    "476.91": {
+    {
       "requestid": "ef084e53-a881-4c78-ae39-561db515c6a2",
       "confidence": "0.8442039",
       "timestamp": 476.91,
       "content": "and then how much land are they winning and I wanna know what that land is worth and I also wanna know is how I can convert that land in the value of the week my cell it right away or do I have to actually go in farmer build something on it",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "97b732af-e98a-4eca-836d-52a1f3400398"
     },
-    "488.83": {
+    {
       "requestid": "c8f9d97a-e58d-446c-b725-cc14466571cd",
       "confidence": "0.7595903",
       "timestamp": 488.83,
       "content": "tursu in the particular we analyzed are they were winning 160 acre parcels in the northwest part of georgia so think",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "2a09e555-9e26-4dbe-bebe-22880d00469a"
     },
-    "496.09": {
+    {
       "requestid": "095e94a0-eb67-4666-a73d-96272ceea5d7",
       "confidence": "0.7677343",
       "timestamp": 496.09,
       "content": "atlanta into the northwest of that um we estimate that they were winning numbers in the hundreds of dollars maybe 5 to $800 off by a few values in 1850 units which is when we observe them and that put that in concert dollars and it's worth roughly what today",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "f1c89f30-f2ea-4f27-9edc-1b7be0467b83"
     },
-    "514.39": {
+    {
       "requestid": "691c886d-e528-441d-a70a-216ad72c7445",
       "confidence": "0.8308611",
       "timestamp": 514.39,
       "content": "well it's worth a lot if it's worth alot in the sense that it's a little bit hard to convert a dollar into a number today because prices are so different so let me just give you 2 ways of thinking about that one is",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "e545cd21-eed6-421d-b2ef-316475865136"
     },
-    "524.89": {
+    {
       "requestid": "4dc93288-5666-472a-9981-3c34e0a7cfaa",
       "confidence": "0.8042631",
       "timestamp": 524.89,
       "content": "that's pretty close to the median level of wealthy know think about a bell curve of wealth",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b35b0d2e-fd25-4306-941d-307970c4808c"
     },
-    "530.17": {
+    {
       "requestid": "fe614e0d-b20f-4eb4-afea-11a925ac4603",
       "confidence": "0.7276495",
       "timestamp": 530.17,
       "content": "we're basically taking you know sumped amount of money that's approximately equal to work you know half the people are above and below that",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "96bfb32a-d3da-4018-85bd-d91f562ef6c3"
     },
-    "538.51": {
+    {
       "requestid": "7664c259-478c-4b10-99e0-ec3bb9f0225b",
       "confidence": "0.7228807",
       "timestamp": 538.51,
       "content": "right of the non winners and you sing a total wealth tall dresser to be worth about that much will we don't observe are you know if they own stocks or bonds or something like that but the central everybody had their wealth either enlander slaves and that we do observe",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "186f9358-57a8-4065-b6e2-e51a9116716b"
     },
-    "553.01": {
+    {
       "requestid": "f33d9af4-dcfc-4788-8408-a3da9a312391",
       "confidence": "0.7879807",
       "timestamp": 553.01,
       "content": "ok so in other words if I am essentially penniless but I happen to be white male living in georgia for a few years and therefore mentale dentatus lottery",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "2e78c91b-8520-4952-9245-e8800cf5ff21"
     },
-    "560.7": {
+    {
       "requestid": "b34637cf-cbe4-49c3-ae2e-733858f04227",
       "confidence": "0.7669078",
       "timestamp": 560.7,
       "content": "I can overnight have the not the same amount of wealth it is the median mountain georgia that's right so it it for certain people then it will be a life changing event not for all but for some yes it should be yes that's right",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "55ede2ef-5396-4948-9166-75ce8d748229"
     },
-    "583.84": {
+    {
       "requestid": "40367cf1-5462-450c-b7cd-c3d6f4c8c499",
       "confidence": "0.7913027",
       "timestamp": 583.84,
       "content": "so it's 1832 in the state of georgia is giving away a bunch of land be a lottery",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "2703adbc-0b9d-4ae4-9f76-9faaeb04337b"
     },
-    "590.39": {
+    {
       "requestid": "2afbed59-f8c5-41a5-988c-d2b12b88fd0e",
       "confidence": "0.8639359",
       "timestamp": 590.39,
       "content": "roughly one in 5 people who enter the lottery will win",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5bab1109-1f10-466e-9a02-f8a82911bb73"
     },
-    "594.42": {
+    {
       "requestid": "6fdd79fd-71f9-4912-825b-7ddb274a90f5",
       "confidence": "0.8116331",
       "timestamp": 594.42,
       "content": "economically speaking it's a pretty substantial winfall and",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "73bf2f6d-2c07-47d1-be4d-4be52bc43dd8"
     },
-    "599.2": {
+    {
       "requestid": "7888b9c4-f905-41c1-a475-f4f5d313e78c",
       "confidence": "0.7344843",
       "timestamp": 599.2,
       "content": "prepare 21st century researchers it's a pretty big winfall to this kind of organic randomisation it will come school in natural experiment it doesn't happen",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "9050ea65-224b-4280-bc88-b45f50fcfdb6"
     },
-    "612.83": {
+    {
       "requestid": "0e8a4b1a-05a6-4e97-899b-e21c2016fea1",
       "confidence": "0.7256246",
       "timestamp": 612.83,
       "content": "I'm a big fan of the library stair runners open stocks were you can come to walk up to the books and look at them and pull them out and speak and smell them in a christmas thing um uni get up close and personal with him because a lot of stuff good stuff happens by accident um",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "46abe713-f6f9-4f2d-a0ac-d1df92dd14d2"
     },
-    "630.35": {
+    {
       "requestid": "0bd50700-8ad2-4206-bbbf-105f1f27d504",
       "confidence": "0.879932",
       "timestamp": 630.35,
       "content": "and in this case I've done a lot of work looking at the economic history of the southern us which is put me in that part of the library",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "c9201b55-27e6-4b86-9ed9-9c10e57e3b6e"
     },
-    "637.69": {
+    {
       "requestid": "4c64994c-0561-4660-a5af-11eadfa8fa7b",
       "confidence": "0.7761944",
       "timestamp": 637.69,
       "content": "oh and I've seen references to the lottery system of georgia which for awhile I just bought a wood could this be decisum sideshow I don't know what that is",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d86d536c-8c62-4f5a-a7a9-3662236e3ac8"
     },
-    "646.65": {
+    {
       "requestid": "4644a6e0-9dcd-4c0c-bf78-ea914cd1e6ec",
       "confidence": "0.8185169",
       "timestamp": 646.65,
       "content": "but I was walking past the georgia section at the universe chicago library at some point and see this title that says the cherokee land lottery big thick book walking past it",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "8af1024a-5e8e-4139-a1d1-f4cc60aaefa0"
     },
-    "658.34": {
+    {
       "requestid": "147fd188-b540-428d-845d-a131cec4e4e4",
       "confidence": "0.7875078",
       "timestamp": 658.34,
       "content": "now this is your brain takes a second to tell your legs to stop moving",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d332dc8f-123e-406f-b9d1-95fe31351496"
     },
-    "662.93": {
+    {
       "requestid": "a665d4d5-9104-4a70-82e3-b0b88dd811e9",
       "confidence": "0.7125239",
       "timestamp": 662.93,
       "content": "and I am finally at you know couple stacks down I turn around and think I gotta go look at this book and put the book outlander series of these books about the lottery's that describe all the participants names you know um actual winners what they want that sort of thing",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "964e2980-5a3b-4dec-8944-c9d70479cd41"
     },
-    "679.08": {
+    {
       "requestid": "28dfb008-8f82-48d2-8523-d205c4d52cf3",
       "confidence": "0.8508977",
       "timestamp": 679.08,
       "content": "and at that point you know I was done I thought can this really be that they randomise 12th",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "133e72d2-9bea-4c25-b514-2c0b65c4b126"
     },
-    "685.57": {
+    {
       "requestid": "864ee224-8884-416a-9b2f-336284b42ad2",
       "confidence": "0.821664",
       "timestamp": 685.57,
       "content": "and I got on the horn with side with joseph ares is my coauthor at northwestern university he's spent a lot of his career tracking people through these historical records and I said you know we gotta follow up on these people because this was potentially life changing event for them",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "08b986e9-7b57-4e43-80e2-53005e77b2e0"
     },
-    "702.39": {
+    {
       "requestid": "aedf89e0-25a8-4760-9132-ca504d8c477e",
       "confidence": "0.7932551",
       "timestamp": 702.39,
       "content": "and not this early life changing for you guys but it's kind of a diamond in the rough or maybe not even in the rough but to find a pile of data like this which as you put it is a shock to the system in other words it's a kind of experiment the anacondas today would love to run but you can never get permission 2 in here been run right",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "1b0b07e2-2286-47df-86ae-6a6bd95e085a"
     },
-    "721.97": {
+    {
       "requestid": "b75b8223-eb59-4e37-b387-99a8c53e7c02",
       "confidence": "0.858306",
       "timestamp": 721.97,
       "content": "yeah so the reason why I got so excited about this is because of course you know one of the big questions within",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "50d496d2-d5e2-48d0-921b-1ac461198da9"
     },
-    "727.43": {
+    {
       "requestid": "e97e7240-f810-4f43-8baf-1e9054a41596",
       "confidence": "0.8276044",
       "timestamp": 727.43,
       "content": "economics is about the inequality of outcomes that the distribution of wealth distribution of income and for those that this seems to be something that is too large to greer to some degree is transmitted across generations and",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "fb269187-e0b9-43cc-b7e2-6b9a9ebf5f7c"
     },
-    "742.19": {
+    {
       "requestid": "70014cf3-eb52-4ba5-9a93-020a0d7f894f",
       "confidence": "0.7592483",
       "timestamp": 742.19,
       "content": "you know there's a lot of questions as to why there's this kind of persistence kamwi the distribution simpson have such a spread to it",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "cb1eadaf-678f-49b9-a040-a7e521b37c87"
     },
-    "749.52": {
+    {
       "requestid": "c624cc23-3de3-4a89-ae34-1feb64897426",
       "confidence": "0.8464125",
       "timestamp": 749.52,
       "content": "so I guess if I were to guess what you're thinking then I would guess that you're gonna say well ok so here's a perfect tool to tease out the question of",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c8bd8a81-ea02-4953-a3eb-155fa52394c3"
     },
-    "758.4": {
+    {
       "requestid": "15ecc9f1-7215-44fb-b0cd-468d41217f56",
       "confidence": "0.8513937",
       "timestamp": 758.4,
       "content": "do people whose children and grandchildren do better than them do so because of money in because they use money in a certain way or are there other explanation for this is that what you were concerned and excited about that's exactly right",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d8b6d2a2-a75f-4cd1-92c3-57a0a879cfd4"
     },
-    "774.87": {
+    {
       "requestid": "72bf07e1-260c-43a9-98ae-db41f575a43b",
       "timestamp": 774.87,
-      "content": ""
+      "content": "",
+      "uuid": "01788c8a-f7b1-4870-b586-af9da80f2eff"
     },
-    "784.77": {
+    {
       "requestid": "ea1baaef-cfdf-4c28-ad83-6044480e3c75",
       "timestamp": 784.77,
-      "content": ""
+      "content": "",
+      "uuid": "e2641a8a-3bf0-4793-80d4-a64b89917e09"
     },
-    "787.3": {
+    {
       "requestid": "8129ac33-9e81-43f0-8124-1a9f4e2c7101",
       "confidence": "0.73315",
       "timestamp": 787.3,
       "content": "coming up on freakonomics radio what did white lake wielert what did the families who won the land lottery do with their winfall did they will grow in grow over the generations I was surprised I would not have expected this at all",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a09f6b2e-831d-491c-8bca-7ccdf732d27f"
     },
-    "802.72": {
+    {
       "requestid": "5208b239-6a03-4dc6-9f1e-c1a3ebc88267",
       "confidence": "0.8923709",
       "timestamp": 802.72,
       "content": "and what do we know about contemporary lottery winners",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "75080f40-fd78-4807-af0a-d9174f90812f"
     },
-    "807.68": {
+    {
       "requestid": "15f7213f-d64b-4f9a-a018-6947df3b4454",
       "confidence": "0.723529",
       "timestamp": 807.68,
       "content": "if you wanna be depressed you should read either the academic literature the other journalistic ounce of lottery winners com because they basically wasted tried to sue the money very quickly and often times end up worse than than hell they started my new phone",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "f7dc49df-92ac-4c35-a4af-f6a11ba30752"
     },
-    "838.76": {
+    {
       "requestid": "4fa1302f-b284-4d4a-8075-cec0f917dc96",
       "timestamp": 838.76,
-      "content": ""
+      "content": "",
+      "uuid": "586a9115-fec7-4b21-802f-f780d2633d20"
     },
-    "842.25": {
+    {
       "requestid": "89bbacb3-f89d-4eab-a272-8a9833c85764",
       "confidence": "0.8014587",
       "timestamp": 842.25,
       "content": "from WNYC this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "b5390774-0380-4353-bec1-e2b8e7344970"
     },
-    "850.02": {
+    {
       "requestid": "73baba92-512f-428e-bd2b-80b0a98fcb8a",
       "timestamp": 850.02,
-      "content": ""
+      "content": "",
+      "uuid": "030c3b6e-cc98-4abb-bf8b-1a46d47d6082"
     },
-    "855.75": {
+    {
       "requestid": "316956b9-f7ed-4efa-a664-282c8cf74c99",
       "timestamp": 855.75,
-      "content": ""
+      "content": "",
+      "uuid": "ef391dcb-8a7c-4ec8-8af2-8ebdd3e29e44"
     },
-    "861.63": {
+    {
       "requestid": "a4bf256f-c489-453c-a13f-bbb3823f23bf",
       "confidence": "0.7281897",
       "timestamp": 861.63,
       "content": "so a pair of economists week blakely injustice fairy found a fascinating datasat from a fascinating moment in history of big land lottery in georgia in 1832",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0d06800e-df62-4705-aff1-f5d32ef1036a"
     },
-    "874.28": {
+    {
       "requestid": "7f94d406-002b-4025-b49e-a211b8365922",
       "confidence": "0.7128248",
       "timestamp": 874.28,
       "content": "they realize that they could use this data along with us census data to follow families over time comparing lottery winners to losers to see how this shock of sudden wealth effect of those families did the kids in those families acquire more",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "15cc2cc6-efbb-4f85-849b-6210766b3510"
     },
-    "892.73": {
+    {
       "requestid": "181ed6a9-a448-4b1f-abd7-64280f93bd03",
       "confidence": "0.6766543",
       "timestamp": 892.73,
       "content": "human capital is economist call it did they get more education at did they part libat education into even more wealth igeneration are 2 down the Rd",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "967413f5-ccdc-4b87-b664-7df1d5cc7bf5"
     },
-    "905.07": {
+    {
       "requestid": "3ca150f0-181f-4c3a-9b1f-45dccbb78d96",
       "confidence": "0.8452321",
       "timestamp": 905.07,
       "content": "you see a really huge change in the wealth of the individuals but we don't see any",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "712f3336-3fa3-43af-b9af-f0fc780b55cb"
     },
-    "911.46": {
+    {
       "requestid": "7917d526-bbd0-4135-8191-2ebe253a6e73",
       "confidence": "0.825617",
       "timestamp": 911.46,
       "content": "a difference in human capital we don't see that the children are going to school more if your father won the lottery rilax the lottery the school attendance rates are pretty much the same the literacy rates are pretty much the same",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "053d8e40-0158-4923-a71a-2d6843ec914a"
     },
-    "924.16": {
+    {
       "requestid": "40ad8398-837d-402f-8615-409e73403a0e",
       "confidence": "0.7900792",
       "timestamp": 924.16,
       "content": "as we follow their sons into adulthood their wealth looks the same you know in a statistical sense whether their father won the lottery last the lottery their occupation looks the same the grandchildren are going to school more the grandchildren artema literate",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "c196e47e-d9e4-4a6e-976b-9690d5314584"
     },
-    "939.98": {
+    {
       "requestid": "e313dc0c-dbe8-4377-b1ff-87ef7e39e685",
       "confidence": "0.7448195",
       "timestamp": 939.98,
       "content": "wow alright for 2 questions for you one I were you surprised I",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "815febec-2429-4dff-867f-fb2ffa9412fb"
     },
-    "947.55": {
+    {
       "requestid": "4f7ca91a-7218-4754-bc7d-4c1f344d0b66",
       "confidence": "0.8792316",
       "timestamp": 947.55,
       "content": "I would've certainly assume that the families who won the lottery and had alotta money would have used to do what we think most parents should do with their kids which is getting more education getting more prepared for a good career in so I'm were you surprised",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "980c4bcb-c60b-4a5c-96e0-e9d5681ecc3a"
     },
-    "963.49": {
+    {
       "requestid": "c9f030ad-ec48-4327-9ee5-aebf7d82aaeb",
       "confidence": "0.7759821",
       "timestamp": 963.49,
       "content": "I was surprised I would not have expected this at all know this was a period where black people were sending their children to school tesp small degree com",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "81122b10-af4e-46a2-b142-ce643ada5a2a"
     },
-    "974.28": {
+    {
       "requestid": "1d1b3459-459b-4204-8493-3dcb831dad04",
       "confidence": "0.8301183",
       "timestamp": 974.28,
       "content": "love this is a period where it looks like poverty at least in the cross section seem to be an impediment to doing that you know school attendance rates of the very rich versus the very poor for differed by 60%",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "9d2532f1-4bb7-4f3a-9ee9-1ea782e05fa4"
     },
-    "986.95": {
+    {
       "requestid": "ca93dcad-fa1f-4810-b281-33840b97cb29",
       "confidence": "0.7327892",
       "timestamp": 986.95,
       "content": "um and yet when you used this in a random wealth drop to move the very poor into the middle it did not move them along that path to qubes",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "5c38e79b-2706-4503-98dd-2d6105f17320"
     },
-    "998.09": {
+    {
       "requestid": "0ed8323f-90a4-4f50-bfe7-a3b77ee3a274",
       "confidence": "0.7642573",
       "timestamp": 998.09,
       "content": "so is my next question would be where does the money go you're saying that the next generation doesn't maintain the wealth what what happens this month when is it just disappeared",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "43885925-a7f2-47ca-821a-e8377618b346"
     },
-    "1009.62": {
+    {
       "requestid": "c02b5c1a-18eb-4ce0-8275-be64faa6a5f6",
       "confidence": "0.8218014",
       "timestamp": 1009.62,
       "content": "where did it go well you know this is some is a period where are you know you didn't necessarily have access to good retirement assets apart from the stuff that you own ride around you you can imagine that the families that one use this for themselves right and centre children off to do something else com day",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "ece351e1-c014-41f8-93a1-84cb00ac1dda"
     },
-    "1028.9": {
+    {
       "requestid": "fb6f6dc1-e012-4ed3-a8c7-872b7c368146",
       "confidence": "0.7662206",
       "timestamp": 1028.9,
       "content": "do something else meaning what they would have done had the pensnett one the money yeah basically and now I could it be that what you found",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8bbfc7c9-ee18-47a8-ae62-92505d849bf3"
     },
-    "1039.0": {
+    {
       "requestid": "ce52c8ca-e52b-41ae-ac7d-a01387f2569d",
       "confidence": "0.7701785",
       "timestamp": 1039.0,
       "content": "is true for this particular setting on the agrarian southern us in the 19 century and it for whatever reason to make apple does wasn't sober valued and wasn't so after",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "63b05ec9-6b40-47b0-a814-15301a1326b9"
     },
-    "1050.65": {
+    {
       "requestid": "71ab1fad-3563-44b0-96da-7f6408c275cd",
       "confidence": "0.7932665",
       "timestamp": 1050.65,
       "content": "but the question is how old generic for how much does it generalized other contacts and I think you could on the key thing which is",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "5091a713-1298-4b8e-8e4a-d034ea52b38d"
     },
-    "1058.15": {
+    {
       "requestid": "79f1ef0e-1225-4054-86fb-fd96b5c78906",
       "confidence": "0.8691728",
       "timestamp": 1058.15,
       "content": "how much with human capital valued and how much with human capital constraint home on the former question I guess I would say it looks like human capital was valued in the sense that people did send their children to school people who are literate did make more money",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "60c72c68-e2a1-4ad1-a357-2ebbaefe2ecb"
     },
-    "1073.84": {
+    {
       "requestid": "8b6c31e6-a3be-406e-b472-9096e2716ac1",
       "confidence": "0.8893179",
       "timestamp": 1073.84,
       "content": "people who had more money did make those investments in their children with a greater detail propensity",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "653969bc-2125-4414-bc26-b10142eebc38"
     },
-    "1079.65": {
+    {
       "requestid": "d9ad0a0c-c755-4aa6-bfb5-98603b784690",
       "confidence": "0.8391905",
       "timestamp": 1079.65,
       "content": "it just maybe wasn't that the constraint was particule important at least to the men who won or lostlottery.net to keypoint notice that there may have been a lot of money on the table but they just didn't care because you know they didn't care enough about the kids",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "1a63a121-1422-47f4-875f-2425c559bb19"
     },
-    "1096.02": {
+    {
       "requestid": "4d554438-3f8a-404a-a48e-c72c7d99bd14",
       "confidence": "0.830862",
       "timestamp": 1096.02,
       "content": "but you know it gets to the tickets to a few questions that are a few issues that were talking about a lot these days in society generally income inequality and income mobility the whole idea of the american dream is one could do much better igeneration down the road that our economy affords that opportunity",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "f27c8bd5-976f-4772-a090-f452a7e95a82"
     },
-    "1115.88": {
+    {
       "requestid": "21f7d672-0f4c-437c-86d2-9d9f2b88ea85",
       "confidence": "0.7123814",
       "timestamp": 1115.88,
       "content": "what you paid in a fight in one setting is where a shock of wealth",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "984ecdd1-c58a-42ac-9adb-d0bbc95b40e0"
     },
-    "1120.1": {
+    {
       "requestid": "fc88131f-eaa0-4721-bed5-0fca0bdc6aa6",
       "confidence": "0.8464307",
       "timestamp": 1120.1,
       "content": "didn't snowballin turn into a quote better life for that generation and the next generation so I'm curious",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5588a572-1188-4e25-b298-af9eb6bfe753"
     },
-    "1128.28": {
+    {
       "requestid": "c9d23b2b-ff07-4e97-b30c-57f8d70c9b57",
       "confidence": "0.8676946",
       "timestamp": 1128.28,
       "content": "if you can extrapolator generalize it all to you know the broader us or maybe to the present day from what you've learned mean",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "cd9e027e-2a27-4ca7-abbf-5f9c132396e6"
     },
-    "1136.39": {
+    {
       "requestid": "203cfac4-3004-47c0-b248-0ab77ec905cf",
       "confidence": "0.8401362",
       "timestamp": 1136.39,
       "content": "if we look at a map of the us today that shows where income mobility is high and low the deep south including georges's pretty much the headquarters of low income mobility so is it that you found out an example of that or is it that you found something larger than that which is it",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6b7db2a0-a061-4fa8-8afa-3da76d078e52"
     },
-    "1154.75": {
+    {
       "requestid": "c3766e20-2755-4b2f-b227-ead6bf26a753",
       "confidence": "0.7905988",
       "timestamp": 1154.75,
       "content": "wealth alone is not what turns into an greater generational wealth eiw",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "2e00182e-4d8a-49c3-972a-e5328586af1a"
     },
-    "1160.78": {
+    {
       "requestid": "656afb2b-dc60-44fd-b715-2ff28525901d",
       "confidence": "0.7732988",
       "timestamp": 1160.78,
       "content": "make 2 observations one is that we actually observe pretty strong persistence of of outcomes across generations in art samples lottery loser spreitzer think about is the control but it would've been absent at",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "a53d2d8a-399e-43b2-a92c-403d6adc122b"
     },
-    "1174.41": {
+    {
       "requestid": "d583a887-5c70-4e41-a12b-7cf415c99b66",
       "confidence": "0.8091268",
       "timestamp": 1174.41,
       "content": "and the numbers that we get from that are actually comfortable to modern estimates of persistence of wealth of persistence of education literacy etc and so I don't think that this is a particularly exceptional thing in the sense that they know there is",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b11724e7-9d0b-40b2-9fb4-1b6e6d5d8d59"
     },
-    "1189.3": {
+    {
       "requestid": "ec369c40-b972-4c17-8ce4-49eee9a07bd5",
       "confidence": "0.7771066",
       "timestamp": 1189.3,
       "content": "there is mobility but there's also persistens out and we can a fall within the range of that",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "2733be95-92db-4003-a066-e0d592660b26"
     },
-    "1194.84": {
+    {
       "requestid": "858ded7e-641e-4d94-b4ab-fdca09c5e221",
       "confidence": "0.7883862",
       "timestamp": 1194.84,
       "content": "batista comes back to the question of whether",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "057fff5a-dd08-468d-a25f-0197e5db46d7"
     },
-    "1197.51": {
+    {
       "requestid": "5280a321-a397-4cfa-88e7-41a294ba4a58",
       "confidence": "0.692528",
       "timestamp": 1197.51,
       "content": "are you know I hate this is true today is it is dennis",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d482000f-fc63-4bc1-b979-97edd7862425"
     },
-    "1200.62": {
+    {
       "requestid": "06257057-236a-48e6-9f24-b2022b3737e1",
       "confidence": "0.8644124",
       "timestamp": 1200.62,
       "content": "are the disadvantages that might be present for children that are in 4 households are they present because there's not enough resources not enough money on at the pour house sold or is it because there's not enough of something else right",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "4adea6a6-0a0d-4c28-9227-325e2ae767ab"
     },
-    "1216.95": {
+    {
       "requestid": "8e91af75-7efc-4288-a06c-b32494f172d3",
       "confidence": "0.8875921",
       "timestamp": 1216.95,
       "content": "maybe the resources have to come from outside the household be it's a good public school or maybe the resources have to come from the parents but the parents don't know how to provide it in terms of nurturing in terms of",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b666089e-c210-47ba-a164-75698ac75a12"
     },
-    "1229.64": {
+    {
       "requestid": "2ceb04fa-f97a-4942-aab4-6546f33d921c",
       "confidence": "0.8826652",
       "timestamp": 1229.64,
       "content": "you know reading and communicating ideas to their children etc",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "3fb52637-f161-4863-ba19-689aab410b7e"
     },
-    "1233.55": {
+    {
       "requestid": "0e02369d-07a0-422c-975c-cc91056c9177",
       "confidence": "0.7446701",
       "timestamp": 1233.55,
       "content": "but if we want to blow your research up your research concerned a small place in time and I'm a small geographical place if we want to totale and irresponsibly explode and try decreasing grand generalizations we should take well look at you can plainly the debut point",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fe6f9790-14f7-4f91-86b1-784ab26c0646"
     },
-    "1252.38": {
+    {
       "requestid": "fd4ea312-727a-442a-8773-96c4d305332a",
       "confidence": "0.8790686",
       "timestamp": 1252.38,
       "content": "which hold that giving people giving por people money just giving the money doesn't work because they don't use it to produce what",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ab820935-a3d3-4c8d-a80a-268aec601510"
     },
-    "1263.61": {
+    {
       "requestid": "2e8391f1-2f2a-4516-ab7c-2f37ef5800a6",
       "confidence": "0.7530984",
       "timestamp": 1263.61,
       "content": "we the people give the money want him to use it for what does to make their lives in their children's lives appreciably better through getting more education salon right is it be very easy for atlas a politician who believes in that position",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3e88603e-60ed-4586-ae1d-1849e3c6ff94"
     },
-    "1279.87": {
+    {
       "requestid": "25e07235-ff11-424a-ad57-2b1a38924a48",
       "confidence": "0.8087261",
       "timestamp": 1279.87,
       "content": "to read your paper and say hey I've got a university chicago and northwestern economist telling me this is hardcore proof of what I've been saying all along is it",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "10f2324f-03e9-4b54-98f3-a7b12ad4d79a"
     },
-    "1291.67": {
+    {
       "requestid": "f31e213c-0281-45b7-b77f-a6f210d82bdc",
       "confidence": "0.638103",
       "timestamp": 1291.67,
       "content": "well it certainly for this is this a politician were contemplating uudd you know",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "54d44272-193d-4776-8311-5b8c0eee9e3b"
     },
-    "1296.31": {
+    {
       "requestid": "5d388b93-699d-4bbb-888c-e2a3a260108b",
       "confidence": "0.7280746",
       "timestamp": 1296.31,
       "content": "are you giving wellstar to these people in the 18 thirties I certainly that policy for analysis should be right on time in as he said their issues about generalizing adelbert's let's do the wild extrapolation yeah I think you're right to say this is not evidence that what's missing this money at the household level",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "cfad6091-8b5e-4e2b-a216-42cb8411ea47"
     },
-    "1314.18": {
+    {
       "requestid": "f01b9ca4-e589-4ee8-bbaf-e0851efd0387",
       "confidence": "0.8478252",
       "timestamp": 1314.18,
       "content": "right because we don't know whether that it would be spent on these things that we want that doesn't mean that there's nothing to be done it's just that doesn't mean that money is the solution right at least money that gets given to them to those to those fathers mothers",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "66755d64-4928-433a-ba68-5dcab6a0d7c9"
     },
-    "1329.51": {
+    {
       "requestid": "618ef2e8-0961-4046-98dc-8054af1f0243",
       "timestamp": 1329.51,
-      "content": ""
+      "content": "",
+      "uuid": "fb65356d-dfc8-464e-9d8c-bacbc9ca7bbf"
     },
-    "1344.65": {
+    {
       "requestid": "f0db1bea-01e2-4e63-8376-45feb7615022",
       "confidence": "0.6974308",
       "timestamp": 1344.65,
       "content": "it's funny how we can we actually had a elizna rate with recently and say you know I really like your show over",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "bde442b6-ac55-41c9-ac38-13d39e523475"
     },
-    "1350.89": {
+    {
       "requestid": "5396a411-be0f-4339-b463-883d2ce976c9",
       "confidence": "0.7556716",
       "timestamp": 1350.89,
       "content": "that's depressing it's like you take all this good news out there in all these good ideas and good plan the new adam nathan tensions in show how you know people game the system are they don't work are not I could you do this aloe blacc I actually think that were extremely optimistic and kind of hunting always for ideas",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "2a7c7312-532d-46a5-bc92-fb31b564bd14"
     },
-    "1370.8": {
+    {
       "requestid": "4379169b-c68e-4c87-90d3-8ded6793296a",
       "confidence": "0.719529",
       "timestamp": 1370.8,
       "content": "that do work well up but I blah blah with you to press the crap outta me to wait to get the <profanity>fuck</profanity> home because you take in a very basic come I dn belief which is that you know poverty is addressable buy a very simple an event which is giving money to poor people when you're saying",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "f746d72b-c268-4928-931d-ed6f5f7d01b8"
     },
-    "1388.33": {
+    {
       "requestid": "78e936ee-42b6-43f3-aab5-74a68d3bf65c",
       "confidence": "0.6722744",
       "timestamp": 1388.33,
       "content": "based on the seventh it's just not that a solid argument at least nguyen me that nearly rain",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0d6bee25-6a43-4e22-9edd-19cad0b61960"
     },
-    "1394.24": {
+    {
       "requestid": "2649b2d1-0fde-4c8a-96c6-1005fa104df9",
       "confidence": "0.8531687",
       "timestamp": 1394.24,
       "content": "no that's right there may be something you can give to him but money is not that something at least in this episode",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "c2e8c73e-554e-4ecc-a0af-e833a3cffe1c"
     },
-    "1399.9": {
+    {
       "requestid": "6fc5b55a-673a-4b81-b4af-1d611230231f",
       "confidence": "0.54684",
       "timestamp": 1399.9,
       "content": "alright let me ask you this night is gonna be any less depressing anime twizel building renert aning",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fb8a2194-c854-42fe-9216-ed4cf9532eb3"
     },
-    "1405.64": {
+    {
       "requestid": "9ecdef0c-6ee6-4ace-9339-e1c1213fffbb",
       "confidence": "0.735082",
       "timestamp": 1405.64,
       "content": "I'm do you have you left it all at our literature on modern lottery's and what happens to people who win MN weather day um do a better job of encouraging human capital acquisition of america",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "12d385e3-2d18-4d63-bf4b-0c71fb3dcb85"
     },
-    "1419.91": {
+    {
       "requestid": "60e24494-f9c4-47df-a5d1-9e06aa162acb",
       "confidence": "0.7687049",
       "timestamp": 1419.91,
       "content": "their offspring phone no I mean if you wanna be depressed you should read either the academic literature the other journalistic ounce of lottery winners com because they basically wasted try to blow through the money very quickly and often times end up worse than than hell they started many of 'em",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "c849653c-0f75-4460-9b32-916441ad40a6"
     },
-    "1435.24": {
+    {
       "requestid": "d2de6855-1826-4dd8-8d4f-e23e7ce429d2",
       "confidence": "0.8361431",
       "timestamp": 1435.24,
       "content": "note that it bears mentioning that what distinguishes dot group from this one is that it's a very select group of people who go play the lottery every day at the convenience store right does would we gonna miss like to refer to the lottery is a tax on people who don't understand math",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d31607de-1602-4871-a959-dec6dce811b2"
     },
-    "1450.81": {
+    {
       "requestid": "b1b0d95e-3e39-4bc3-bb73-8c5fd71df068",
       "confidence": "0.7684027",
       "timestamp": 1450.81,
       "content": "um because you know in statistical terms it's a it's a negative expected value right you pay more and then you expect to get back out",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "03025ce6-6ad3-405f-b29c-a39044c0a02d"
     },
-    "1458.91": {
+    {
       "requestid": "c471ae16-3a26-4b1f-9932-f7e10479918b",
       "confidence": "0.8008212",
       "timestamp": 1458.91,
       "content": "and that's different from what we saw in the georgia lottery's to allocate land because these people they understood expected value because they paid 12 cents to get basically $100 of expected value fry tonight to preclear position",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "89a3f53b-2313-41e1-ab3a-3b0d8045f6a0"
     },
-    "1473.61": {
+    {
       "requestid": "aad7352d-f8ce-4e53-87ea-349acc39a5c8",
       "confidence": "0.8064543",
       "timestamp": 1473.61,
       "content": "but it helps understand to some extent our results in the sunset when you select a particular group of the population",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b057b0a3-e388-4bcf-9017-edb4ea4871ec"
     },
-    "1480.68": {
+    {
       "requestid": "03b48f4b-a6b9-40ab-9e4d-6a22fc8a7ff9",
       "confidence": "0.8465611",
       "timestamp": 1480.68,
       "content": "and you either give them a new year you could told him to get a little more schooling by bribing them with the cat transfer cell phone minutes are would have you you have to ask whether there some other set of characteristics that they have that makes it hard for them to take advantage of those opportunities",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "0cb8417e-dcbc-4e9f-b6fc-de5cf44fa8db"
     },
-    "1496.76": {
+    {
       "requestid": "b8351bed-3a3f-4863-bef3-fd291800cf86",
       "confidence": "0.8248304",
       "timestamp": 1496.76,
       "content": "and maybe there's an intervention that helps them better manage those other characteristics right that makes it such that that's less of a disadvantage for them out where is giving him something you say well this was great for me it'll be great for you that's that's perhaps not the right approach",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d5fe3792-8679-4dea-b014-cfeffa304c06"
     },
-    "1513.92": {
+    {
       "requestid": "3db469c3-9627-4c87-8d36-be70b9b5abe9",
       "timestamp": 1513.92,
-      "content": ""
+      "content": "",
+      "uuid": "51a12eff-0234-47ee-b2bf-e6067ea8848d"
     },
-    "1516.29": {
+    {
       "requestid": "cfc4e7bc-6c96-4457-8b9d-d59476847b49",
       "timestamp": 1516.29,
-      "content": ""
+      "content": "",
+      "uuid": "5452e25c-d879-4080-98e1-08a3413c816a"
     },
-    "1528.05": {
+    {
       "requestid": "0dc94156-76c2-4622-a709-bc66d138482a",
       "timestamp": 1528.05,
-      "content": ""
+      "content": "",
+      "uuid": "66e72c5f-a415-4004-bb88-c558588b0254"
     },
-    "1532.56": {
+    {
       "requestid": "f6dde6f8-5bd6-4a89-ab5c-7bcbb28ed3f1",
       "confidence": "0.6573012",
       "timestamp": 1532.56,
       "content": "so do we dip rescue 2",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b98f511a-f20e-4af4-a943-c744b68d785b"
     },
-    "1536.22": {
+    {
       "requestid": "a42ba479-8971-4ec2-9530-dd59c44fa6c7",
       "confidence": "0.843699",
       "timestamp": 1536.22,
       "content": "hope not but I suspect we may have ok how bout this and why don't you send us some non depressing ideas for future episodes are email is radio atfreakonomics.com and maybe we can turn your ideas in 2",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7763b83f-27e0-4e0f-99cc-0d2b3af886ca"
     },
-    "1552.31": {
+    {
       "requestid": "0adc52d0-95d6-4934-a234-3dd9afa0f29b",
       "confidence": "0.7075706",
       "timestamp": 1552.31,
       "content": "freakonomics radio good news addition make me the shortest by kathy ever made maybe who knows maybe you'll overwhelm us with uplifting ideas for future episodes in which case will be the ones to win lottery in the promise not to blow",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "acec7eec-6835-4ecf-96d2-627df19c0185"
     },
-    "1568.37": {
+    {
       "requestid": "b2afe98c-c574-4600-9d46-0c8d550b7244",
       "confidence": "0.5029817",
       "timestamp": 1568.37,
       "content": "boo boo boo",
-      "speaker": "S259"
+      "speaker": "S259",
+      "uuid": "44d5c457-5e45-4244-9a57-46656968284d"
     },
-    "1573.56": {
+    {
       "requestid": "4419bf68-1565-4ee2-ba6d-785eedee8e37",
       "timestamp": 1573.56,
-      "content": ""
+      "content": "",
+      "uuid": "9d340351-920c-478a-926e-32c65ebff590"
     },
-    "1581.45": {
+    {
       "requestid": "7cf31c3a-988d-4d02-aefc-941e372e9c3a",
       "timestamp": 1581.45,
-      "content": ""
+      "content": "",
+      "uuid": "06d1e7f9-9d73-4f07-9fec-c0c31ad01906"
     },
-    "1584.97": {
+    {
       "requestid": "633106f0-19b2-413a-8d45-66ab9ce269fb",
       "confidence": "0.6970672",
       "timestamp": 1584.97,
       "content": "hippocampus news on next weeks episode steve lebni do what we sometimes do we answer your questions not say that they are pretty darn good central heating a primary cause of obesity why do south asians dominate the hotel motel pat that's why do corporate honchos in mafia",
-      "speaker": "S262"
+      "speaker": "S262",
+      "uuid": "44f3e108-269d-4f6c-8f1a-201a2c07ad05"
     },
-    "1604.29": {
+    {
       "requestid": "24f8df8c-f0e7-43e0-98bc-10d7df365a21",
       "confidence": "0.7218498",
       "timestamp": 1604.29,
       "content": "tristan sells inexpensive sing for people who care about the environment more or less likely to use a toilet",
-      "speaker": "S262"
+      "speaker": "S262",
+      "uuid": "76d337b4-fe6d-4a0a-89c5-746147a82da3"
     },
-    "1612.13": {
+    {
       "requestid": "83673786-0fcc-4d5d-9111-7fe1e13554e0",
       "confidence": "0.6544697",
       "timestamp": 1612.13,
       "content": "papa do cardboard cut out of policeman really the truth that's how many sexual predators spell have there for another installment of freak with me up question next time I'm free I'm free",
-      "speaker": "S262"
+      "speaker": "S262",
+      "uuid": "a9667291-44ea-4ab3-8c71-a17bf2272d4b"
     },
-    "1634.52": {
+    {
       "requestid": "ae4c3fea-bde1-4661-ac81-3084344e58c2",
       "confidence": "0.7491716",
       "timestamp": 1634.52,
       "content": "freakonomics radio is produced byWNYCN.net production our staff includes david herman greg rozalski paradelle and susie lechtenberg chris banning",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "cd33d826-d6ed-4208-a581-41cea87a1ea3"
     },
-    "1645.03": {
+    {
       "requestid": "7e181c7c-664a-4826-be13-5d0227c44538",
       "confidence": "0.7796013",
       "timestamp": 1645.03,
       "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com real find lots of radio ablanca books and more",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "3bcaae57-eb26-4870-b8c9-680a5b117881"
     },
-    "1654.91": {
+    {
       "requestid": "a4aada8d-7115-49e6-a575-5d2b9ce6f80b",
       "timestamp": 1654.91,
-      "content": ""
+      "content": "",
+      "uuid": "329ff24e-68a4-47f6-9c06-d0f6fdad1355"
     },
-    "1671.37": {
+    {
       "requestid": "cf46db51-80de-420d-ae64-1af2a3db4ab6",
       "confidence": "0.8052612",
       "timestamp": 1671.37,
       "content": "can I mix radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5f88abf4-5c88-4f19-b241-d1826971cdfb"
     },
-    "1690.46": {
+    {
       "requestid": "93ca907f-358f-4c11-81f9-f0a6e1ee50cf",
       "confidence": "0.8929024",
       "timestamp": 1690.46,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d21a52d9-3d56-457a-b45a-79b01a3a3603"
     }
-  }
+  ]
 }

@@ -4,2205 +4,2528 @@
   "description": "<p>We spend billions on our pets, and one of the fastest-growing costs is pet \"aftercare.\" But are those cremated remains you got back really from your pet?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/vsAN0GAoM0k/freakonomics_podcast101413.mp3",
   "slug": "The-Troubled-Cremation-of-Stevie-the-Cat",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "68dd11bb-d563-4e8e-9a41-9a4e5f8ee879",
       "confidence": "0.8706234",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by constant contact with email marketing tools like there drag and drop editor social media tools and expert coaching constant contact is committed to helping small businesses and nonprofits become marketer's more at constantcontact.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "cf0750cb-8b02-4ecb-ac0d-e44b6c334235"
     },
-    "24.15": {
+    {
       "requestid": "175c18a8-63fe-4bef-a46d-272f04d99f4d",
       "confidence": "0.7143606",
       "timestamp": 24.15,
       "content": "play podcast listeners you are about to cure a new episode of freakonomics radio called the troubled cremation stevie the cat I think you'll like it",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "94c0a258-f17b-4220-ae2c-8c4f78a3b035"
     },
-    "32.25": {
+    {
       "requestid": "15662b7f-09c9-4be1-9d78-6ed5035b588a",
       "confidence": "0.8471081",
       "timestamp": 32.25,
       "content": "but before we get to that",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "b8cceb67-5c85-4876-a758-3f0ffd068aa1"
     },
-    "34.46": {
+    {
       "requestid": "f697986c-cccf-44e6-b129-f8517cdc26a7",
       "confidence": "0.8580846",
       "timestamp": 34.46,
       "content": "maybe you feel like sending us the money",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "f2d50c39-a95f-4436-86a2-00b6e77c6627"
     },
-    "39.72": {
+    {
       "requestid": "6e516b8f-baf9-4d45-8540-a23419b6addf",
       "confidence": "0.8188552",
       "timestamp": 39.72,
       "content": "we've been making it podcast for almost for years but 150 episodes and we pull out for free every week but it cost quite a bit to make the show and this being a public radio podcast",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "3982e4de-123a-4614-af5e-a92c41977e7c"
     },
-    "52.14": {
+    {
       "requestid": "ec6cdeb7-fb86-4d64-a001-e3a4224f6448",
       "confidence": "0.821286",
       "timestamp": 52.14,
       "content": "we're doing the public radio thing and asking for your donation so that we can keep it for now does it make any sense for you to pay for something that you don't have to if you can just keep getting for free",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "2cd0c583-c02b-44fb-a21f-976f1a291d43"
     },
-    "64.85": {
+    {
       "requestid": "06f5102f-5b43-45ec-8a59-1384ea73148b",
       "confidence": "0.8042624",
       "timestamp": 64.85,
       "content": "probably not from a purely rational perspective but hey if we've learned anything together over the past few years is it we all do irrational things once in awhile so if you are feeling a bit irrational right now",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "9a63f58f-5574-44db-8a72-7f5bb64f803d"
     },
-    "80.47": {
+    {
       "requestid": "27dad7aa-2cac-4a3e-a277-50fcbbd378a6",
       "confidence": "0.7092869",
       "timestamp": 80.47,
       "content": "did risky bit freaky in please go to freakonomics.com please donate there some nice swag available we gotta freaking I'm tryna coffee mug t shirt signed book even a chance to win a trip to new york city to hang out with me and the freakonomics radio crew for the day",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "650f8afa-4797-4091-a647-71dc777d106d"
     },
-    "101.75": {
+    {
       "requestid": "cacf5681-1c7f-4922-94df-8add4f77130a",
       "confidence": "0.6439908",
       "timestamp": 101.75,
       "content": "troubled cremation stevie the cat",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "76079813-2220-4025-b739-06fa623c4282"
     },
-    "104.57": {
+    {
       "requestid": "f75aecbb-df76-45f1-b547-0aaec0851f0f",
       "timestamp": 104.57,
-      "content": ""
+      "content": "",
+      "uuid": "5c5f7d53-c2d0-41e3-91f7-4026797f70fb"
     },
-    "113.26": {
+    {
       "requestid": "d195eb09-eb6c-4669-b2f3-4b1f72af6b26",
       "confidence": "0.6971595",
       "timestamp": 113.26,
       "content": "few months back we got an email from a fella named john rymkus in willowbrook illinois just outside chicago he wrote quote hello",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "80e14c2a-9261-4259-9077-df26bbebc430"
     },
-    "121.43": {
+    {
       "requestid": "c5314440-affb-4dfb-aeb8-9185e688104e",
       "confidence": "0.8116673",
       "timestamp": 121.43,
       "content": "this is kind of a long shot but out of left field but I was curious to see it would be any interest in trying to prove that to cremated remains from certain pet crematories are unlikely to be those of a particular pat and quotes",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "b57ae0cf-a7e3-45db-ac19-29f85a5f00fb"
     },
-    "136.55": {
+    {
       "requestid": "d42bd679-d511-4c9c-be87-262555762531",
       "confidence": "0.6964546",
       "timestamp": 136.55,
       "content": "is there any interest hey john is kitty cat say meow",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e3da6c21-8413-420c-b39c-97031b2d7476"
     },
-    "146.14": {
+    {
       "requestid": "d959f773-d8f1-4a54-a002-cae14d800965",
       "confidence": "0.7188249",
       "timestamp": 146.14,
       "content": "turns out that john rymkus himself is in the pet cremation business andeel to run the hinsdale animal cemetery it took us on a tour",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "33bf5045-df4a-45c2-b3c6-47eef2c1cf52"
     },
-    "155.29": {
+    {
       "requestid": "475fc350-ddac-48de-88f1-5a3f0e5425f8",
       "confidence": "0.8127152",
       "timestamp": 155.29,
       "content": "what you're looking at is the oldest park the cemetery directly in front of us",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "3a073048-3e1d-40e0-8a14-4c98665f74b9"
     },
-    "161.41": {
+    {
       "requestid": "d64d13a0-4988-4f69-82f4-4a7e44c6c8aa",
       "confidence": "0.743183",
       "timestamp": 161.41,
       "content": "famous dogs in particular",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "58e85e9f-e661-477b-972a-62a6635f33de"
     },
-    "163.7": {
+    {
       "requestid": "65777618-7128-47a2-89a2-95b8ebbe4805",
       "confidence": "0.5025269",
       "timestamp": 163.7,
       "content": "but why do I bother",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "1b38ba4d-9d57-4c0c-85dd-de697902d244"
     },
-    "168.51": {
+    {
       "requestid": "17e7b6c5-2264-4fab-af05-07776874b2a1",
       "confidence": "0.6141801",
       "timestamp": 168.51,
       "content": "cemetery is family business along with john there's his brother I'm david rymkus is father my name is bill rankus and his mom my name samantha rental",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "0f6a4ddc-05c2-4e94-97e9-adb3565de90b"
     },
-    "181.99": {
+    {
       "requestid": "235e9f1b-e8e2-4f12-9183-999435440e9d",
       "confidence": "0.5395827",
       "timestamp": 181.99,
       "content": "so how to ground a couple my favourite epitaphs tidur to go to hear",
-      "speaker": "S29"
+      "speaker": "S29",
+      "uuid": "9e07ccf0-aa4e-4f86-af42-29b29201ee96"
     },
-    "188.7": {
+    {
       "requestid": "b7451acd-0d0a-49bf-aebc-2db208fb63e5",
       "confidence": "0.8212168",
       "timestamp": 188.7,
       "content": "the cemetery has been in the family since 1951 john rymkus is grandparents",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "04019c1b-a00e-4cde-ae8e-d58afe22ca97"
     },
-    "194.01": {
+    {
       "requestid": "4cc356e7-263f-47c7-aa2c-1abff665d8ad",
       "confidence": "0.6766942",
       "timestamp": 194.01,
       "content": "are there in abit afsa's may the force be with you sweep up 1978 through 2000",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "1227f54c-3b39-451c-9d04-eaa9c1cbc648"
     },
-    "201.46": {
+    {
       "requestid": "48357085-87d2-4fa5-9c74-88e94f7a277e",
       "confidence": "0.5698326",
       "timestamp": 201.46,
       "content": "although in my internets gonna show",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "dba79012-1c12-45ba-a5cf-268fd79cf9cf"
     },
-    "204.51": {
+    {
       "requestid": "5c48d020-86e5-4495-8f86-a39c6bc3a19c",
       "confidence": "0.7059701",
       "timestamp": 204.51,
       "content": "empire strikes back to come out to my 280 in the toyota made its debut",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "6a9776ec-47e7-45f6-94ad-170e786610f0"
     },
-    "209.44": {
+    {
       "requestid": "1fe2c354-b219-41e0-91bc-e912f483f57d",
       "confidence": "0.7915812",
       "timestamp": 209.44,
       "content": "and the spot was born in 1978",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "ea8c7aa4-28b8-49fb-8937-1e0e71f66246"
     },
-    "213.46": {
+    {
       "requestid": "402a7205-843d-456d-bb19-1caaea42efd3",
       "confidence": "0.4649783",
       "timestamp": 213.46,
       "content": "I should have made him here maybe I'm dirty outside I said I'd like to know the story behind it",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "80a75a6b-37d8-45f9-9ad2-9c643c85d987"
     },
-    "221.9": {
+    {
       "requestid": "4778d991-7bb4-4ff5-893c-d470564aedb8",
       "confidence": "0.7335162",
       "timestamp": 221.9,
       "content": "thousands of cats and dogs buried here along with bunny rabbits birds hamsters horses 3 foot shark and about 30 human beings 2",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6a0a8f22-d450-4b21-8516-6d178bb7ef86"
     },
-    "232.92": {
+    {
       "requestid": "c5e3dade-b8a2-450e-a3a8-ccd34f5ba490",
       "confidence": "0.707266",
       "timestamp": 232.92,
       "content": "does the place for people comes to rest alongside their pets",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "aa779c48-e53f-435a-94de-8ca53bf86abc"
     },
-    "236.91": {
+    {
       "requestid": "e1e17bd1-d9f9-4920-a631-300b937ce9df",
       "confidence": "0.5156079",
       "timestamp": 236.91,
       "content": "henry sendo's that'S1 example",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "edb6a97d-4ef3-40d8-8917-fdef1d8d603f"
     },
-    "240.25": {
+    {
       "requestid": "8ee12731-b0de-4044-adeb-5c38525bce60",
       "confidence": "0.812764",
       "timestamp": 240.25,
       "content": "the stone says will never forget you",
-      "speaker": "S31"
+      "speaker": "S31",
+      "uuid": "3265e266-c13a-41a5-b1ef-2b9a31049ee0"
     },
-    "242.38": {
+    {
       "requestid": "98680778-8833-4123-bb25-bbace468ba47",
       "confidence": "0.9235101",
       "timestamp": 242.38,
       "content": "you always be in our thoughts and in our hearts we love you",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "91ec738c-2252-4860-b2f2-314db5949b62"
     },
-    "248.11": {
+    {
       "requestid": "e3ce8682-61d2-4050-a57e-c62f560a0daa",
       "confidence": "0.5868179",
       "timestamp": 248.11,
       "content": "some of the animals buried here in courts form in stomach been cremated",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "069a0fa0-adfd-418a-82ed-69dea7451823"
     },
-    "253.05": {
+    {
       "requestid": "189a0864-0275-40ea-9d75-64f4e25f41ed",
       "confidence": "0.6792512",
       "timestamp": 253.05,
       "content": "which brings us back to the reason why john winthrop do it",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "08873121-05d7-4f14-8659-a5c7c61d0a9a"
     },
-    "256.51": {
+    {
       "requestid": "53673563-172b-4d19-a7ca-3d64c6ce4583",
       "confidence": "0.8104976",
       "timestamp": 256.51,
       "content": "he thinks there something fishy about the pet cremation industry think that some of his competitors are not playing by the rules out a few years ago remkes hired a private investigator try and prove it so you might call him a motivated whistleblower motivated that his bike",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "491bd87f-33e3-4a27-bfc2-2652e934d93d"
     },
-    "275.59": {
+    {
       "requestid": "1eee5443-0ef4-40d7-8d2a-18d5a232835d",
       "confidence": "0.7293797",
       "timestamp": 275.59,
       "content": "casting built on his rivals in the process of making his own business look better",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "06b194ac-98bc-4922-af9e-493b5fe2b694"
     },
-    "281.88": {
+    {
       "requestid": "ad171c42-6eb9-44f8-bc64-57e8adcaa3c1",
       "confidence": "0.8533289",
       "timestamp": 281.88,
       "content": "maybe so but",
-      "speaker": "S43"
+      "speaker": "S43",
+      "uuid": "90af773e-4a9a-4b97-9646-9bc0e305f930"
     },
-    "283.94": {
+    {
       "requestid": "18ed5530-e458-4563-8cd0-0220bdd4959d",
       "confidence": "0.6091429",
       "timestamp": 283.94,
       "content": "is that necessarily mean john rimkus",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e04352d3-da6a-415c-ba72-385e85de601d"
     },
-    "289.43": {
+    {
       "requestid": "b091d47d-8c93-4a77-9ad6-92131cc8ef9c",
       "timestamp": 289.43,
-      "content": ""
+      "content": "",
+      "uuid": "24df9015-4cae-49cb-9797-675d19c3cfb4"
     },
-    "291.81": {
+    {
       "requestid": "caa5faef-dbc2-43cd-9f9e-12bd13088f5a",
       "timestamp": 291.81,
-      "content": ""
+      "content": "",
+      "uuid": "8811c456-9175-4bdd-8c84-8fb5029b935d"
     },
-    "300.31": {
+    {
       "requestid": "9c27c5e6-d720-4f25-a9e7-03812f5d0c2a",
       "confidence": "0.6270068",
       "timestamp": 300.31,
       "content": "I'm wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S418"
+      "speaker": "S418",
+      "uuid": "32fc3a98-7b2c-47dc-8730-176ecbc10e7a"
     },
-    "307.91": {
+    {
       "requestid": "1c235451-5c06-4f45-9cc4-4675de224687",
       "confidence": "0.3305788",
       "timestamp": 307.91,
       "content": "here's your help steven dubner",
-      "speaker": "S48"
+      "speaker": "S48",
+      "uuid": "6d70e49d-70be-40b0-a986-89dfce9e793a"
     },
-    "324.81": {
+    {
       "requestid": "4d843726-c8a2-4b48-a659-ad826112c9f0",
       "confidence": "0.6847632",
       "timestamp": 324.81,
       "content": "so john rymkus suren's a pet crematory outside chicago route to say that he suspects his competitors fraud and that he hired API try to prove",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "3ab0bed1-9fc1-4dd7-906e-17408027e000"
     },
-    "335.17": {
+    {
       "requestid": "1fc07d37-9712-437f-b877-a5207058b8b2",
       "confidence": "0.5207708",
       "timestamp": 335.17,
       "content": "producer catherine will take it from here",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "c0ae9dd0-ef5d-495e-8100-841fbc2dceaf"
     },
-    "339.96": {
+    {
       "requestid": "d18aeb1e-4439-4681-850c-a33dbba8d94d",
       "confidence": "0.722689",
       "timestamp": 339.96,
       "content": "I met up with john rymkus in a father bill to talk about this investigation here's bell",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "13ad333b-472d-41ba-8f11-b4dd065e4ffa"
     },
-    "344.96": {
+    {
       "requestid": "36426d43-0f74-488b-8c24-472c6216fd44",
       "confidence": "0.8443293",
       "timestamp": 344.96,
       "content": "cremations a mystery to most people and",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "bd266c03-7a14-440e-aebb-295b50138018"
     },
-    "348.84": {
+    {
       "requestid": "48efa766-d2ed-4fda-a7f0-ec88894a1a5e",
       "confidence": "0.7926036",
       "timestamp": 348.84,
       "content": "what did bingham istriane how cremation should be performed are what it's all about it it's easy to take advantage of you because I don't understand it",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6bc74608-ef8b-4788-b108-236478bf9e75"
     },
-    "357.29": {
+    {
       "requestid": "126bf093-c353-4151-9288-caedd1e46dc7",
       "confidence": "0.6558009",
       "timestamp": 357.29,
       "content": "boom boom boom boom boom",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "082db8d7-23e6-49d3-95a4-4e3a279bb565"
     },
-    "360.88": {
+    {
       "requestid": "62edd301-dd9e-4c8c-a814-55529f79383e",
       "confidence": "0.8492421",
       "timestamp": 360.88,
       "content": "to understand the investigation do you need to understand how cremation work",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "feadb016-b96e-462b-8f76-fec82e4218c4"
     },
-    "365.28": {
+    {
       "requestid": "7d314d10-509e-4a1e-8f39-62521fd1c669",
       "confidence": "0.8250678",
       "timestamp": 365.28,
       "content": "so you just had your dog put down your at the back with the body you're probably distraught",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d0f9509c-945b-4288-87a6-dec219426798"
     },
-    "370.65": {
+    {
       "requestid": "6218ceee-1117-44cb-8404-68c67add355f",
       "confidence": "0.8263939",
       "timestamp": 370.65,
       "content": "the bed will ask you what you wanna do you do you wanna take him home and she might suggest that you cremate to pat and she might offer to take care of the process for you if you don't want the ashes back the vet will send up the dog for something called a group cremation",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "dc248a41-9722-44d5-8335-44f7ed48c41b"
     },
-    "386.78": {
+    {
       "requestid": "4e7fde96-bdf8-4faf-8bf4-8841e2fa8258",
       "confidence": "0.6790296",
       "timestamp": 386.78,
       "content": "where a bunch of pezzati made it together if you do want the ashes back so she suggest you do a private cremation john rymkus showed us how this process",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fd096c7f-1d02-4b11-951e-ac68c6fdb220"
     },
-    "398.57": {
+    {
       "requestid": "6b4ecbf6-9137-4e05-91ad-2d9c2a9c1c55",
       "confidence": "0.673422",
       "timestamp": 398.57,
       "content": "let me do a private cremation in just one step at a time",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "41efe4bf-57ea-401c-9743-73801acf6896"
     },
-    "402.1": {
+    {
       "requestid": "2aaa64dd-6722-4c7d-87e0-ad4867088cff",
       "confidence": "0.3701836",
       "timestamp": 402.1,
       "content": "send my receipts back of their pets for me to come a little later",
-      "speaker": "S62"
+      "speaker": "S62",
+      "uuid": "f2dc9b98-d597-4223-a037-c41bd778d4fc"
     },
-    "410.33": {
+    {
       "requestid": "dad1c409-af7b-455d-a9a4-a41eef61d625",
       "confidence": "0.8717685",
       "timestamp": 410.33,
       "content": "the cremation machine is a big silver metal black with a little door in french",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "34ba1254-f673-40ec-a86e-78af7acd5db1"
     },
-    "414.45": {
+    {
       "requestid": "13eddf43-9d5c-4e6b-843a-eaea89a39a3e",
       "confidence": "0.7476503",
       "timestamp": 414.45,
       "content": "eric when I press the button for the door to come up",
-      "speaker": "S64"
+      "speaker": "S64",
+      "uuid": "82d19720-54df-4f90-b710-e098f1f5519b"
     },
-    "429.76": {
+    {
       "requestid": "47e271f9-711f-4870-b18a-e3105a61aa97",
       "confidence": "0.7237007",
       "timestamp": 429.76,
       "content": "jeda fire that comes down from the ceiling and makes contact with those cremated remains",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "6f82c9d3-9de1-4b9b-ba19-0a739b96206b"
     },
-    "436.58": {
+    {
       "requestid": "83d0f3ef-1a05-48ad-b8c1-440d3d971f5c",
       "confidence": "0.7334155",
       "timestamp": 436.58,
       "content": "the cremation process is complete",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "72b59f3a-dabb-461e-8fce-ace3042cd6c4"
     },
-    "440.9": {
+    {
       "requestid": "4bea47da-e9e7-457c-8961-61efff4ed5de",
       "confidence": "0.5989783",
       "timestamp": 440.9,
       "content": "when the burn is finished belts we found the remains which are mostly phone",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "05ab588e-2c9f-4c11-8ef3-c44752795097"
     },
-    "446.72": {
+    {
       "requestid": "a246d387-de56-41a3-9409-4277daaab250",
       "confidence": "0.6110194",
       "timestamp": 446.72,
       "content": "bring them up",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "7f371c48-8b43-4ed9-8d7c-b442ed1d945a"
     },
-    "454.29": {
+    {
       "requestid": "c0c15188-5204-4488-a62f-0e7289cb400a",
       "timestamp": 454.29,
-      "content": ""
+      "content": "",
+      "uuid": "5d80e175-1e9e-40ef-bf4d-fbf5f064ca29"
     },
-    "466.43": {
+    {
       "requestid": "e724129a-9526-4bc0-891b-60265e53efaf",
       "confidence": "0.7572374",
       "timestamp": 466.43,
       "content": "pretty simple right if you don't want the ashes back go with the group cremation if you do go with private",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "933bd896-d224-4c54-b2e3-5073bde98926"
     },
-    "473.29": {
+    {
       "requestid": "ed9b514c-1291-4f92-b755-f3e1650a35df",
       "confidence": "0.7925455",
       "timestamp": 473.29,
       "content": "well it's not actually that simple",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "289b21a5-b2a9-4727-bbc7-83da5d572425"
     },
-    "477.04": {
+    {
       "requestid": "904b2b59-80ce-4b5a-a6ca-44154cb11fc6",
       "confidence": "0.7790339",
       "timestamp": 477.04,
       "content": "because there is yet another option you might be offered it's an in between not quite private option how it's done it several animals are cremated together in one machine but they're separated with bricks are on metal trays so erratically you should still get most of your pet fashions back",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "881882da-8134-4872-99a8-9eb7e1386ae3"
     },
-    "494.36": {
+    {
       "requestid": "ed151731-95e9-44d9-bd76-e9e3ab724f68",
       "confidence": "0.7683874",
       "timestamp": 494.36,
       "content": "the third option is usually called segregated or partitioned cremation but the terms can get confusing you might also hear it called semi private or even individual it is usually cheaper than a totale private cremation but there's a problem",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f6435d32-49c1-4895-af46-8297d6503036"
     },
-    "511.42": {
+    {
       "requestid": "678b7cac-459c-465a-bb77-165dfad1e546",
       "confidence": "0.794384",
       "timestamp": 511.42,
       "content": "what private or individual or partitioned cremation really means depends on who you're talking to",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "651766f0-3135-4399-bdf6-4c97acea0a94"
     },
-    "519.32": {
+    {
       "requestid": "e0a7b1b1-c389-45db-9f68-4990c05f4fc5",
       "confidence": "0.7828948",
       "timestamp": 519.32,
       "content": "in the lower the prices go the mercury the",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "997d44ef-5961-4b32-a0b8-48a46e17618a"
     },
-    "522.42": {
+    {
       "requestid": "28c26e3a-9c7c-4456-847d-39e76fdc6848",
       "confidence": "0.745888",
       "timestamp": 522.42,
       "content": "definitions get so when john ramprasad at some of its competitors were offering very low prices for some of the services he got suspicious",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fb89cf82-09c9-4243-b69f-42236fdc7804"
     },
-    "532.13": {
+    {
       "requestid": "561c1332-97cb-4eb2-8352-2cc4a1277944",
       "confidence": "0.7606329",
       "timestamp": 532.13,
       "content": "and generally just the ridiculousness kept increasing in the market in just got sillier and sillier how low the prices would go",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "5073bb42-41ff-4a89-a049-4115c05699da"
     },
-    "543.07": {
+    {
       "requestid": "adbd03aa-5053-48a5-bb69-fc037d577bdd",
       "confidence": "0.8408336",
       "timestamp": 543.07,
       "content": "rymkus charges about $180 for a private cremation of a small animal",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c14524aa-ef46-453c-942b-7e17d45aa6db"
     },
-    "548.1": {
+    {
       "requestid": "49b7b4b0-66e6-4d50-b8f3-8215d48013d4",
       "confidence": "0.7829995",
       "timestamp": 548.1,
       "content": "but what he started to see website is competitors are offering much lower prices in doing things like giving away free tv is thabet who funneled business to them ramcat says he just couldn't imagine how is competitors could be making a profit off of the services at those prices",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2cb72717-53de-4216-8b3c-5e654e2763b3"
     },
-    "565.43": {
+    {
       "requestid": "fe821d02-497f-45e5-bc4f-eec31b98aa1a",
       "confidence": "0.8649656",
       "timestamp": 565.43,
       "content": "so we decided to do something about it he hired a private investigator in the devised an experiment",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c2105b7f-018f-48a5-9b84-51df126dc3c0"
     },
-    "572.86": {
+    {
       "requestid": "54518508-1ef8-4371-a1e5-5e8a3882bb9a",
       "confidence": "0.8706107",
       "timestamp": 572.86,
       "content": "so what we did it came up with the trash and compound that would allow most chemically test for the presence after the cremation process through",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "07b88e5a-e482-453d-8bb7-25ce83a35c67"
     },
-    "582.57": {
+    {
       "requestid": "c19fcef2-f7dc-4605-888d-f1032d92f58a",
       "confidence": "0.7079025",
       "timestamp": 582.57,
       "content": "rymkus had on hand a dead stray cats it'd been passed along time for disposal beschizza little gory but what he did is he had",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "255eb670-6792-4df8-b0c4-3595e8f1d3bd"
     },
-    "591.99": {
+    {
       "requestid": "ac425150-fae3-4be8-853b-ea4befed8be7",
       "confidence": "0.7840379",
       "timestamp": 591.99,
       "content": "bet implant eats dead animal with this tracking material titanium dioxide know cremation machines get very very hot like 1600 degrees hot",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3e9f9f33-20e7-4538-a406-99d8f279f303"
     },
-    "604.41": {
+    {
       "requestid": "9904cce7-ba11-4eb3-b0ce-959023636913",
       "confidence": "0.8054873",
       "timestamp": 604.41,
       "content": "what titanium dioxide melting point is way above that it's 3350 degrees fahrenheit",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "8ea331bf-b3b9-4909-a759-36e1818a6625"
     },
-    "611.82": {
+    {
       "requestid": "a795fcd3-e919-432b-b927-67a2982578df",
       "confidence": "0.8358076",
       "timestamp": 611.82,
       "content": "so this material would make it through the burn and still show up in the ashes after words so after this material was in plan to be private investigator took the dead animals to several of the competitors with a very low",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2f652450-0fa1-40b7-92d4-1782b603f3fc"
     },
-    "625.67": {
+    {
       "requestid": "80e2cc0e-22e0-4adf-b63b-b09492274ef5",
       "confidence": "0.7955059",
       "timestamp": 625.67,
       "content": "prices he asked each one of them to do a partitioned cremation be in between sort of private option",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b4e72e68-2de5-4c7a-b2cd-8200a53eeb34"
     },
-    "633.59": {
+    {
       "requestid": "b8b19d01-aa67-4987-b64a-e353f8b546bb",
       "confidence": "0.6672215",
       "timestamp": 633.59,
       "content": "we got issues back and um you know they all look like cremated remains in that in fact they were they were cremated remains punt I'm having them analyzed",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "43426347-4f6f-4068-82c7-0dcac9dc4c0a"
     },
-    "643.4": {
+    {
       "requestid": "ace442a4-1021-4b71-829c-5ec7cebfc191",
       "confidence": "0.8083543",
       "timestamp": 643.4,
       "content": "so far so good but when a lab analytes the cremeans for the tracking material 3 of the 8 samples weren't right",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "dc59e712-e0bf-49b6-9502-cd2798367937"
     },
-    "652.1": {
+    {
       "requestid": "5c9bd951-4cac-46e6-8bd4-6b2c816fbf4b",
       "confidence": "0.7698137",
       "timestamp": 652.1,
       "content": "we discovered that there was such an insignificant amount of the tracking material in the number the samples dad at best do you were given a scoop of a larger group cremation",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "98ddb7ed-5da7-44fe-8c4a-52bba9eb017e"
     },
-    "668.28": {
+    {
       "requestid": "1950a882-0632-4df2-b633-2ea5cff897c4",
       "timestamp": 668.28,
-      "content": ""
+      "content": "",
+      "uuid": "e3d959c7-fa94-4221-8c90-7eea1bf175bb"
     },
-    "674.52": {
+    {
       "requestid": "9c6057cd-6da8-44ca-a2b7-d967b44ec16d",
       "confidence": "0.8102859",
       "timestamp": 674.52,
       "content": "when you send in your cat to be cremated how do you know that the scoop you get back are full of fluffy what is they were max the dog or a gerbil or are at are all of those mixed together in",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0d3e412e-cddc-4881-95e6-f2fec1a0b7d6"
     },
-    "686.35": {
+    {
       "requestid": "8b2d48f5-5c67-4443-9902-4adf1c39d870",
       "confidence": "0.8174928",
       "timestamp": 686.35,
       "content": "topped off with some parakeet the truth is short of doing a test like this there's really no way for you to tell how many cremation happens unless you go and watch it yourself",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b9bf8de8-ffdf-4f45-8d9c-90e30c8882f8"
     },
-    "697.67": {
+    {
       "requestid": "5fb67b69-ce16-49c4-991c-ce773de94c8e",
       "timestamp": 697.67,
-      "content": ""
+      "content": "",
+      "uuid": "f0bd23d8-fc86-4eba-af38-340367304b5c"
     },
-    "700.73": {
+    {
       "requestid": "72b21d7a-d487-4f69-b427-78d1c221c1f4",
       "confidence": "0.7914017",
       "timestamp": 700.73,
       "content": "note john rehmke spell like the tracking material experiment with pretty solid proof that his competitors were not doing cremation in the way that they advertised but he wanted to be really sure so he did a second test",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "59de6776-c271-4393-b57a-68582d05c5a1"
     },
-    "714.85": {
+    {
       "requestid": "195544b1-96ec-4cc0-9a5f-6e92fc6c58a6",
       "confidence": "0.7713118",
       "timestamp": 714.85,
       "content": "I'm so what we did is um we had the investigators pritscher",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ac8007a2-c935-4c59-bcf6-f3d60f35d642"
     },
-    "720.53": {
+    {
       "requestid": "10a10729-2013-46fc-87be-c3a25883cdf9",
       "confidence": "0.8341419",
       "timestamp": 720.53,
       "content": "I'm too stuffed animal cats and where do you get a stuffed animal cat by the way over there is a place online that had realistic stuffed animal cats that were actually manufactured using rabbit fur",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "59d1bfee-1d70-40fa-a538-41e5b2c66964"
     },
-    "734.43": {
+    {
       "requestid": "af9c0db3-8953-489b-b4d8-395037ccb1db",
       "confidence": "0.919972",
       "timestamp": 734.43,
       "content": "they were so soft that you couldn't tell the difference",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2079b05c-6bd0-4f0d-a10f-1ca27a6a6387"
     },
-    "737.08": {
+    {
       "requestid": "2730591a-4963-404d-a594-34cb4b66cd56",
       "confidence": "0.706266",
       "timestamp": 737.08,
       "content": "and we had the investigators do is stuff them with some hamburger meat and some crisco I'm just to approximate the waynesfield of the deceased catenin adam freese stop cat up",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "84da1284-0fde-43a0-a740-985a6de64334"
     },
-    "751.69": {
+    {
       "requestid": "6bb27ed0-cadd-4485-88bc-e49e84cd9319",
       "confidence": "0.8827556",
       "timestamp": 751.69,
       "content": "that last part may sound strange but it's not that unusual for people to freeze in animal until they can take it for cremation",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0c378a39-3cd7-4127-a2a7-bf1b337a1f74"
     },
-    "758.71": {
+    {
       "requestid": "68402dbf-80dc-480b-8458-8c7e13c4e0e1",
       "confidence": "0.7449273",
       "timestamp": 758.71,
       "content": "philosophy's frozen fake <profanity>ass</profanity> went for another partitioned cremation now it's important to reinforce hear that bone is really the only part of the body that survives the heat of cremation everything else bring the way so with beef bake boneless cats there would be almost nothing left",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5c9b65b3-ed4e-4ba6-9327-88b51f7b7acd"
     },
-    "778.68": {
+    {
       "requestid": "26706aef-99cb-4a71-b36c-7e1bc2da5c78",
       "confidence": "0.7456121",
       "timestamp": 778.68,
       "content": "so we sent 2 through directly to this a particular competitor and in both instances we got back bone ash in the amount of what you would expect for ipad of that size",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "d0d5f207-2f8d-47ac-a218-41cf073c0fda"
     },
-    "792.63": {
+    {
       "requestid": "cb184916-cba4-456b-aff6-78daedb54bd5",
       "confidence": "0.6716093",
       "timestamp": 792.63,
       "content": "ok to use and throw a fit caps through with no bone in them yet and you got phone back",
-      "speaker": "S117"
+      "speaker": "S117",
+      "uuid": "e46b44ff-c9d1-498c-87e6-fcaafd27bd5f"
     },
-    "799.19": {
+    {
       "requestid": "72fcab3d-887e-4da3-a0f0-25470bd05a43",
       "confidence": "0.7740194",
       "timestamp": 799.19,
       "content": "not just not just some bone exactly what you'd expect for",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ec86cd0c-3566-4e0c-8dda-0bd27f6b9842"
     },
-    "804.17": {
+    {
       "requestid": "8baa5f1a-0079-4b49-af98-b6f46eebf304",
       "confidence": "0.5080392",
       "timestamp": 804.17,
       "content": "of ipad of that weight so what is that suggested completest",
-      "speaker": "S117"
+      "speaker": "S117",
+      "uuid": "5696ee06-8f76-402e-82b9-470c035a187c"
     },
-    "808.92": {
+    {
       "requestid": "312ed7b6-b1ad-49b8-bf61-93f19beb676c",
       "confidence": "0.7532278",
       "timestamp": 808.92,
       "content": "call for me to have that suggested this company is just taking a scoop of a group cremation in doling it out based on the weight of the animal that comes in so hot simplified a big labrador might be 3 scoops a cat might be one scoop and that's",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "8c06887b-ba25-4c0b-81c2-de4f8bbcb1ef"
     },
-    "826.5": {
+    {
       "requestid": "18ab225e-461b-4dcd-9967-3f7e2f9d823f",
       "confidence": "0.781492",
       "timestamp": 826.5,
       "content": "what we believe what's happening in a sentences",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "c4218064-7ac1-46a3-a02c-a626a9c367ce"
     },
-    "830.04": {
+    {
       "requestid": "9a51dc70-d06c-48f5-a5ff-f1d7e700dba9",
       "timestamp": 830.04,
-      "content": ""
+      "content": "",
+      "uuid": "6ad373c2-c3a3-40e6-ab0f-8678b14aea55"
     },
-    "834.89": {
+    {
       "requestid": "8f813ec6-0591-4175-922a-b89044805321",
       "timestamp": 834.89,
-      "content": ""
+      "content": "",
+      "uuid": "310d09f9-cacf-4ba9-9ec3-796d04c66993"
     },
-    "839.3": {
+    {
       "requestid": "920ef103-7c7b-4e2e-b829-b842dcebaa95",
       "confidence": "0.7749191",
       "timestamp": 839.3,
       "content": "why would a crematory do this",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "af1a7df2-b351-476f-b766-2ebf4b7aacda"
     },
-    "841.64": {
+    {
       "requestid": "706431c6-1a3c-459c-a996-421538db1544",
       "confidence": "0.770785",
       "timestamp": 841.64,
       "content": "well it saves time labour energy money and it means more profit but I think it's worth pointing out but I can also imagine how much less nefarious way for this to happen cremation is a turbulent process it's a huge fire after all",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c5fb74f9-a17e-40b9-94ea-683bd477893d"
     },
-    "859.6": {
+    {
       "requestid": "51a80ac8-ddfc-46f3-9e72-905a0ccd72db",
       "confidence": "0.7867764",
       "timestamp": 859.6,
       "content": "and it's possible that these companies did in fact separate out all of the body is but in the process of burning remains become mix",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b52cc87d-5fdc-4ef1-8e74-46fd1e2c685e"
     },
-    "868.68": {
+    {
       "requestid": "c5202497-4968-40c2-a7bd-4fca80cf3301",
       "confidence": "0.8601785",
       "timestamp": 868.68,
       "content": "but in the end it doesn't really matter whether the mixup is intentional or not because the bottom line is that the pet owner is not getting back with they think they're getting back which is only bear animal",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "df75d98c-3005-4d0c-ac84-6bd01d320854"
     },
-    "881.86": {
+    {
       "requestid": "1d4b1e18-3e71-4fd0-80b7-5d9131e9839a",
       "timestamp": 881.86,
-      "content": ""
+      "content": "",
+      "uuid": "65760870-5e92-417f-b871-b7afcfbbb4ad"
     },
-    "886.49": {
+    {
       "requestid": "9e7ccd13-9b7c-462f-8328-fef8f46c3cf7",
       "confidence": "0.7774663",
       "timestamp": 886.49,
       "content": "after john remkes did his experiment he brought his findings to the attorney general of illinois is consumer protection division division review the procedures of one of the competitors a company called all paws no further action was taken",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3d6aaa7e-62d7-424d-a4bc-5836d514864f"
     },
-    "903.81": {
+    {
       "requestid": "35eb0dd6-7190-4421-8f91-215dd50bef89",
       "timestamp": 903.81,
-      "content": ""
+      "content": "",
+      "uuid": "63e657fc-f843-4419-beac-4e0bc0d354f2"
     },
-    "907.26": {
+    {
       "requestid": "23a516e7-c4c4-4c50-b6d9-c17df22b24dd",
       "confidence": "0.6307809",
       "timestamp": 907.26,
       "content": "the rim kisses are so convinced that fraud is out there you're strong and bell again",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c7ed9c91-637c-4946-8691-fd6309d04244"
     },
-    "912.93": {
+    {
       "requestid": "ffb2c35c-a305-4268-9816-69ce126a3861",
       "confidence": "0.7773889",
       "timestamp": 912.93,
       "content": "it made me more sad than anything that",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "db24c376-145d-4fa0-bfd6-170f7c6a00fd"
     },
-    "916.66": {
+    {
       "requestid": "c2bee66c-e6f0-45ca-a756-739a1a9ba9e8",
       "confidence": "0.809005",
       "timestamp": 916.66,
       "content": "pet owners are being taken advantage of and they and they don't even know it",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "5b321574-c680-4e06-bbdc-c3a37cdaa56a"
     },
-    "920.26": {
+    {
       "requestid": "faf3cb6c-477f-4e7d-86e3-98a121066cec",
       "confidence": "0.7429656",
       "timestamp": 920.26,
       "content": "when you choose cremation services on price chances are you're gonna get burned 90 times out of 100 you're gonna get burned",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "011c71ce-bfb8-47e8-b698-39dea37ed212"
     },
-    "931.21": {
+    {
       "requestid": "2377c963-080a-4dac-a4ba-9d258a5d4a5b",
       "timestamp": 931.21,
-      "content": ""
+      "content": "",
+      "uuid": "f0b9278f-ffa2-40ab-8822-dabd75938c59"
     },
-    "934.72": {
+    {
       "requestid": "77430c9d-2956-4b85-be14-cfc01c33462e",
       "confidence": "0.7970937",
       "timestamp": 934.72,
       "content": "note as we noted earlier for john rymkus to clean is competitors are being dishonest well he may not be the most unbiased source in the world",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "3c6ef1dd-76f6-4799-b364-5464104f1b06"
     },
-    "944.87": {
+    {
       "requestid": "136f62b6-4786-4f0b-a2e9-f47437cdecab",
       "confidence": "0.8251343",
       "timestamp": 944.87,
       "content": "we contacted several of these other crematories mussum didn't return our calls or emails but when did he didn't wanna go on tape but here's a little bit he said I running on this business with been doing this for 40 years we don't mix things up and he said sure I've heard of that happening not here",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "eed12b0e-14e8-40ce-8a94-f1d57db28a73"
     },
-    "963.42": {
+    {
       "requestid": "eebdc837-9b45-439d-908e-58bdded06e24",
       "confidence": "0.7710377",
       "timestamp": 963.42,
       "content": "and he said I'm in the business of helping grieving pet owners not of pointing fingers are calling my competitors names on the radio this story makes rymkus with bad for doing that and he said",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "eaa3e576-5be6-4b5c-a87d-9c4cbcaca3d5"
     },
-    "976.98": {
+    {
       "requestid": "cf7818e7-cd78-45d6-9c51-5f7bf3b64ac9",
       "confidence": "0.7704049",
       "timestamp": 976.98,
       "content": "I'm not thrilled to hear that the sky block at least with chemicals to us and then we burn those chemicals what if they were combustible what is somebody got hurt",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "5dd4d280-262f-407e-a584-8d789822ced6"
     },
-    "986.55": {
+    {
       "requestid": "5c333430-ab95-4482-9711-1677436bc961",
       "confidence": "0.7655473",
       "timestamp": 986.55,
       "content": "so we don't have enough information to say who is right here to look people do you cheat at every day in just about every realm of life should we assume that pet cremation with some help exempt course not",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "9b8c9b9a-ccb6-4a1c-b16e-7c4f5ea8f069"
     },
-    "1001.05": {
+    {
       "requestid": "92d77c77-c1ea-40b9-8132-c358fa91247d",
       "confidence": "0.7506977",
       "timestamp": 1001.05,
       "content": "unfortunately we couldn't find any worthwhile data it would help us definitely answer this question for now the only proof is a homemade investigation of the hamburger in crisco friday",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "f05f516e-cbe5-488c-afdf-a4c385e65913"
     },
-    "1015.27": {
+    {
       "requestid": "e58700ff-9bba-4f90-b236-c8144f53c1cc",
       "timestamp": 1015.27,
-      "content": ""
+      "content": "",
+      "uuid": "c6010754-5f96-47d4-9b38-f28ed0216df3"
     },
-    "1018.06": {
+    {
       "requestid": "6c57fe54-bf50-45ba-ba06-b6455731f4a4",
       "confidence": "0.7797967",
       "timestamp": 1018.06,
       "content": "so coming up on freakonomics radio we're on our own",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "00ad031c-fb1d-45b1-9314-b2ed8f973c5d"
     },
-    "1023.16": {
+    {
       "requestid": "28e16db8-9de6-400d-8e79-13e11b6d2a17",
       "confidence": "0.7040837",
       "timestamp": 1023.16,
       "content": "experiment to see what happens to send crematory a cat",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "740665ab-4f76-405f-98b3-2950476760bf"
     },
-    "1028.16": {
+    {
       "requestid": "4ddec260-2473-411a-9c22-7f1cb4a7a887",
       "confidence": "0.5934841",
       "timestamp": 1028.16,
       "content": "has no bones",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "fe1df648-6772-4a27-9afb-8914d46be1a5"
     },
-    "1031.09": {
+    {
       "requestid": "bd8a7dfc-6f26-48e1-905e-3baee4aeebca",
       "confidence": "0.2614441",
       "timestamp": 1031.09,
       "content": "healing pm",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "6a982a26-f7c1-4e7f-9deb-19d05868c9e8"
     },
-    "1038.37": {
+    {
       "requestid": "6c79d3c6-6935-44f8-a5d2-f731a7226d09",
       "confidence": "0.5706069",
       "timestamp": 1038.37,
       "content": "and it's only cremation happens with pets",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "f6c55c4a-039b-4eb3-865f-67311bdcab1c"
     },
-    "1042.48": {
+    {
       "requestid": "7d4de97a-e80b-4581-aefc-5fea7f10aa03",
       "confidence": "0.7169177",
       "timestamp": 1042.48,
       "content": "does happen with people to one of the",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6ededd75-fa5e-438e-be89-a8cb18b006ee"
     },
-    "1045.22": {
+    {
       "requestid": "5dcfa3c6-44f0-4d1e-9f01-ce2f6c969666",
       "confidence": "0.6462082",
       "timestamp": 1045.22,
       "content": "cases on him inside it really made a change in now everybody handled humence out of commission",
-      "speaker": "S155"
+      "speaker": "S155",
+      "uuid": "2f820526-3f59-4a36-9e75-207651c71fd0"
     },
-    "1051.79": {
+    {
       "requestid": "831abf3c-6741-4f97-8734-8581bde9e661",
       "confidence": "0.8077028",
       "timestamp": 1051.79,
       "content": "I was in oakwood georgia",
-      "speaker": "S155"
+      "speaker": "S155",
+      "uuid": "68e09dd6-f1e4-402a-b726-1a78c07d9fc3"
     },
-    "1073.17": {
+    {
       "requestid": "74863d0d-1915-4b82-a4fe-b48d9e2cf54f",
       "timestamp": 1073.17,
-      "content": ""
+      "content": "",
+      "uuid": "260b0633-4553-4012-b6a4-95c74c29f649"
     },
-    "1077.57": {
+    {
       "requestid": "16a69bd9-2f32-4c2d-a109-7f01dceeb69f",
       "confidence": "0.7689266",
       "timestamp": 1077.57,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S160"
+      "speaker": "S160",
+      "uuid": "bb5708d6-3c20-46d7-a08c-c7d7f2862b56"
     },
-    "1087.25": {
+    {
       "requestid": "9c0d4c5e-22f1-4d0d-a1a9-0944e0017ff8",
       "timestamp": 1087.25,
-      "content": ""
+      "content": "",
+      "uuid": "c49ceeb1-23d3-4ed9-9dee-7d7abae07d5b"
     },
-    "1095.04": {
+    {
       "requestid": "fe2f2b1b-255b-4f0c-8160-12b9dc5cd852",
       "confidence": "0.7647792",
       "timestamp": 1095.04,
       "content": "according to garman statistics there well over 200000000 pets in america not counting pet fish why government statistics don't include fish we don't know me better not to set another day that we spend a lot of money on these pets at $61 Billion a year which is roughly the size of us wedding",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "1f024dc7-8bbd-4da2-b75b-f9d3a32159d2"
     },
-    "1114.7": {
+    {
       "requestid": "d7ee8e68-df9d-4c7d-a5d3-9187a66518bb",
       "confidence": "0.8423459",
       "timestamp": 1114.7,
       "content": "industry and just wait till pet start getting married",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "f9fe8bfa-660b-45e3-a1b6-abb1bf4a9374"
     },
-    "1118.49": {
+    {
       "requestid": "f59db181-d019-49d9-8586-7db4735efd16",
       "confidence": "0.8235722",
       "timestamp": 1118.49,
       "content": "20 years are pet spending is tripled what area it's going very very fast is pet aftercare the international association of pet cemeteries in crematories",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "0254ed18-e1c6-4948-be31-df6b93d58ed5"
     },
-    "1130.21": {
+    {
       "requestid": "7ca65493-67aa-4c52-a267-2a967c10ef97",
       "confidence": "0.8638694",
       "timestamp": 1130.21,
       "content": "tells us that 10 years ago only a handful of places specialize in pat aftercare for today your more than 700 pet funeral homes crematories in cemeteries",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "ce3b86f0-3be8-4daf-bbb4-f6a93729fa6a"
     },
-    "1141.75": {
+    {
       "requestid": "adbbcb51-ce62-48a2-8434-c5049f1837a9",
       "confidence": "0.5867496",
       "timestamp": 1141.75,
       "content": "here's producer kathryn wells again",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "8267b714-e72c-4cdc-aa3b-40e2ffcd0dd6"
     },
-    "1147.65": {
+    {
       "requestid": "ca664b98-9d4e-4b26-84d7-dd832a30af28",
       "confidence": "0.9274671",
       "timestamp": 1147.65,
       "content": "if you wanna find out about the pet cremation industry and the people in it",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b253b015-7d43-49cc-b35f-734af1a68998"
     },
-    "1152.26": {
+    {
       "requestid": "fff6e11d-e2b4-48e9-bd90-6362c574bf3d",
       "confidence": "0.8185526",
       "timestamp": 1152.26,
       "content": "a good place to start is the annual conference of the icc FAFC international cemetery cremation and funeral association",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a16eff4c-d2c0-4bd2-ae21-e409b0cca29e"
     },
-    "1161.46": {
+    {
       "requestid": "949ed6c4-8f62-4c9a-a825-0d0ff9205493",
       "confidence": "0.8409759",
       "timestamp": 1161.46,
       "content": "this year's annual conference was held in tampa in the springtime",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "63f188d2-4554-416f-800d-5bbd3f6f6b48"
     },
-    "1165.58": {
+    {
       "requestid": "ef350100-19f9-415c-9d2c-68a21485465e",
       "confidence": "0.7836763",
       "timestamp": 1165.58,
       "content": "the icc fa is mostly an organization for funeral directors for humans but every year more and more",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a301e3a8-a8d5-4d99-9e5d-556a04f80179"
     },
-    "1172.79": {
+    {
       "requestid": "2cfbbbcd-6b0e-4770-9943-37c71eafe4ae",
       "confidence": "0.5607417",
       "timestamp": 1172.79,
       "content": "pet funeral professionals come clean ellis is one of them",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "cccaf0d0-61d6-4a8c-ac47-d1fdc1dde31e"
     },
-    "1178.11": {
+    {
       "requestid": "c2d4322a-34fd-454a-a8e8-36326d8864e3",
       "confidence": "0.855836",
       "timestamp": 1178.11,
       "content": "I meant for mama so all of my children have fur coat",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "7d94735e-d1d2-4813-ab03-493f6a1ad3bf"
     },
-    "1181.57": {
+    {
       "requestid": "b143dec0-0150-47f6-8552-995811da7163",
       "confidence": "0.6673566",
       "timestamp": 1181.57,
       "content": "ellis is the head of the pet loss professionals alliance and that mean she loves pet she's not alone",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "e60ff2e7-b34e-4be1-878b-03b4e3074d55"
     },
-    "1189.13": {
+    {
       "requestid": "39034c70-1cf1-47f5-9d48-960fba6b32c7",
       "confidence": "0.7923391",
       "timestamp": 1189.13,
       "content": "perceval 62% of people own a pet ok 83% of the 62% refer to themselves as mommy and daddy's baby boomer 79th and in the pats are the new kids and they wanna make sure that when they have those new kids there giving them every spoiling right that they would give to any child",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "4d824f89-7e1d-46b6-b0e4-9083cf2e18b7"
     },
-    "1208.28": {
+    {
       "requestid": "35f3f873-710e-46d0-a2de-cee7701515a3",
       "confidence": "0.6508496",
       "timestamp": 1208.28,
       "content": "the younger folks the x in the wise",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "9ee7185d-ce67-4d17-89ac-967e7fb1b28f"
     },
-    "1210.67": {
+    {
       "requestid": "b673bb6f-3dd2-447e-a371-f03111fd547e",
       "confidence": "0.7712357",
       "timestamp": 1210.67,
       "content": "right now they are maybe hold off on having kids other test driving with the puppy and kitty defining the treats that are organic or finding the little doggie spa so they can do facials atameken have fun time defining the doggie day cares were they can go socialize them and they can be fine and in good pet parents because I've taken a child",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "e1101d33-2a08-4144-af82-cf8408c7d4bb"
     },
-    "1229.46": {
+    {
       "requestid": "a626a877-16f7-488c-aa63-2c9de1a3eec8",
       "confidence": "0.8136596",
       "timestamp": 1229.46,
       "content": "over to play with other children ok so the trend of life is gonna push the trend of death",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "d5f62968-f5de-47f7-9b47-cb9dc1b97e82"
     },
-    "1234.89": {
+    {
       "requestid": "ff50dc85-7c92-40c0-9b03-cfcbda98a66c",
       "confidence": "0.6219108",
       "timestamp": 1234.89,
       "content": "and when you on your death you honor life",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "6529af38-49fd-429b-8728-bc66e2cc7a1d"
     },
-    "1238.69": {
+    {
       "requestid": "437a09bf-9c00-407e-9e29-7da896082a5b",
       "confidence": "0.7375471",
       "timestamp": 1238.69,
       "content": "that means no expenses baird when pets die 2 ellis points to a necklace she was wearing at the big silver heart with little paw prints on it",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0e87bb16-cc2d-425c-829c-b7407958f370"
     },
-    "1248.01": {
+    {
       "requestid": "aca23e9b-16d1-43f4-8f6f-3817eace12b8",
       "confidence": "0.821409",
       "timestamp": 1248.01,
       "content": "I haven't ernan around my neck right now I don't have cremains and hear what I have is the hair in the farina little whiskered of all the living and deceased animals that I've had in my life and so for me this is the way that I can honor them I can keep them with me",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "01eb30fe-f03e-4cc2-85d2-9bcc0862985f"
     },
-    "1262.92": {
+    {
       "requestid": "82b27341-8d49-4203-b234-2756de94c418",
       "confidence": "0.7697271",
       "timestamp": 1262.92,
       "content": "urn necklaces seem to be pretty popular alice wasn't actually the only person wearing one of the conference hers even opened up and had a usb port inside",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c23c534d-3576-4644-a31d-655bdb430171"
     },
-    "1273.66": {
+    {
       "requestid": "0847603b-4743-4859-9660-5a29dfe96aac",
       "confidence": "0.6001008",
       "timestamp": 1273.66,
       "content": "where she keeps videos of oliver peck she sent them to me if anything pretty",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "dd0a4159-fb02-441a-86bd-10deb303dcc5"
     },
-    "1282.92": {
+    {
       "requestid": "223d70d0-1381-4169-ba1c-d818bb7abd75",
       "confidence": "0.3998884",
       "timestamp": 1282.92,
       "content": "at god look at my",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "eb9bee47-df73-4a23-ba8e-e87067ebac0b"
     },
-    "1286.1": {
+    {
       "requestid": "11bfdd6f-e83d-4767-8ce0-c84a25e38446",
       "confidence": "0.4572997",
       "timestamp": 1286.1,
       "content": "babies are so good you wanna treat",
-      "speaker": "S191"
+      "speaker": "S191",
+      "uuid": "e17c55d6-fec6-473d-b491-58152e5d71df"
     },
-    "1291.9": {
+    {
       "requestid": "d8e63a23-a4a5-49bb-be06-680b4b51d468",
       "timestamp": 1291.9,
-      "content": ""
+      "content": "",
+      "uuid": "92cf1203-dbcd-45cd-bbe8-633e0132f6d8"
     },
-    "1296.31": {
+    {
       "requestid": "51be1402-6a67-4407-a154-614ab488bd96",
       "confidence": "0.8037493",
       "timestamp": 1296.31,
       "content": "so obviously ellis is really proud of her animals and she knows that pet owners like her would be really devastated to find out that the ashes they got back didn't belong to their animals in a question that came up at the conference with this",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f037e4d9-1443-4367-aa23-97abcccf1ddc"
     },
-    "1313.31": {
+    {
       "requestid": "a55e1b53-2d6a-414f-9d4b-0db13c07dba7",
       "confidence": "0.7109594",
       "timestamp": 1313.31,
       "content": "what a pet owner ever be so devastated debate soup",
-      "speaker": "S160"
+      "speaker": "S160",
+      "uuid": "f7710057-2929-4d52-afa6-d27804d7cae4"
     },
-    "1319.76": {
+    {
       "requestid": "59ae97c6-7697-4bdf-b657-0aa0dadb1d4d",
       "confidence": "0.5690206",
       "timestamp": 1319.76,
       "content": "pets are a big market in that means there's like bill gates",
-      "speaker": "S155"
+      "speaker": "S155",
+      "uuid": "ce9af69a-b499-417e-b104-dd2aaecbfb6f"
     },
-    "1323.74": {
+    {
       "requestid": "68473a32-d645-41b7-a24c-3d4726bd7749",
       "confidence": "0.7986106",
       "timestamp": 1323.74,
       "content": "this is paul lemasters he was happy I ccf a conference 2 he used to be a funeral director and embalmer but today he works with human and pet funeral homes on legal issue",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "00012ff6-9bbd-4d98-a657-bd926c49273c"
     },
-    "1334.94": {
+    {
       "requestid": "9d0e35ab-0f43-4495-bc6a-d99abe64fadc",
       "confidence": "0.8259785",
       "timestamp": 1334.94,
       "content": "I will tell me when you can expect to make money off of something and not cradle I billetes same time is it doesn't work that way",
-      "speaker": "S200"
+      "speaker": "S200",
+      "uuid": "45edca8d-c729-47ff-9cee-4ce7d5a83214"
     },
-    "1345.39": {
+    {
       "requestid": "ae5aed3a-e019-4507-a43c-acf002cec01b",
       "confidence": "0.75517",
       "timestamp": 1345.39,
       "content": "lately lemasters is been thinking a lot about the legal implications of cremation frode any told me there's actually a precedent for this pet mass in the human cremation business it happened in 2002 in the town of noble georgia",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "50bd805c-2cb4-4c54-817c-e8d77133a100"
     },
-    "1360.41": {
+    {
       "requestid": "8382b966-d949-4b02-9616-70db48144c45",
       "confidence": "0.5753045",
       "timestamp": 1360.41,
       "content": "how is covered a one concrete box of stuff are packed with more human remains",
-      "speaker": "S204"
+      "speaker": "S204",
+      "uuid": "aba063d9-86b8-48e6-b7f1-d589e672967e"
     },
-    "1368.88": {
+    {
       "requestid": "8f1c14f0-fd8b-4b4d-8964-3aec8f895011",
       "confidence": "0.7027162",
       "timestamp": 1368.88,
       "content": "a large garage by building with bill today filled to the top with the composing human remains so far 92 sets of remains have been recovered in some of these remains dates back decades",
-      "speaker": "S205"
+      "speaker": "S205",
+      "uuid": "f7ea902a-6a6c-441b-9dd9-0532959fcf32"
     },
-    "1380.33": {
+    {
       "requestid": "57316275-792f-4ad2-abfc-8ad94535dcb1",
       "confidence": "0.7008156",
       "timestamp": 1380.33,
       "content": "we found some one of the cases on him inside it really me to change and how everybody handled to humans how to cremation I was in noble georgia",
-      "speaker": "S207"
+      "speaker": "S207",
+      "uuid": "af44134b-4b2e-46e1-95f4-0f7ee954d64f"
     },
-    "1392.32": {
+    {
       "requestid": "612cadbf-48a9-488f-b86d-9d82c29c310a",
       "confidence": "0.7895345",
       "timestamp": 1392.32,
       "content": "the tri state crematory and noble had been receiving bodies from funeral homes for years and investigation uncovered something awful the owner is been dumping corpses in the woods and getting other materials like some endust back to the families",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "25302ce4-ef65-40fe-be66-84caf39a1e7e"
     },
-    "1406.79": {
+    {
       "requestid": "40271c87-952b-4597-a809-64213373d921",
       "confidence": "0.8369713",
       "timestamp": 1406.79,
       "content": "in total more than 300 bodies",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b18b0336-0fdb-42e4-adb5-7b20c9c02f62"
     },
-    "1409.39": {
+    {
       "requestid": "e0e09b7b-5b8c-4236-8d56-0a859badf5f3",
       "confidence": "0.7696242",
       "timestamp": 1409.39,
       "content": "that was supposed to have been cremated or found",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "035c0869-74e2-45b7-b7e2-c44932cf3168"
     },
-    "1412.32": {
+    {
       "requestid": "f9ebbb80-786a-463c-a5f8-1a8db08034f5",
       "confidence": "0.7534589",
       "timestamp": 1412.32,
       "content": "so they ended up going after the crematory and also after the funeral homes that were using am many things were discovered on me included that allows the funeral for using discrimina tori shirley because of their price because happen to be the cheapest are they also found out that nobody was inspecting nobody was even going to work",
-      "speaker": "S155"
+      "speaker": "S155",
+      "uuid": "1dd12b16-4e9d-4a68-b08f-a512c44f035d"
     },
-    "1431.95": {
+    {
       "requestid": "79162fe6-7df9-409e-bfa3-391aee99afee",
       "confidence": "0.8046059",
       "timestamp": 1431.95,
       "content": "bucas set an important legal precedent the guy who ran the crematory was sentence to 12 years in prison in both he and the funeral homes used him or find millions of dollars",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "94ba10fd-7af9-481f-b461-24df381d5b09"
     },
-    "1445.23": {
+    {
       "requestid": "2a156d2a-9788-41e2-8d00-49d131f4e713",
       "confidence": "0.8294067",
       "timestamp": 1445.23,
       "content": "after the scandal states",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "0707b2d8-2995-44e3-87bd-4612342282d6"
     },
-    "1451.35": {
+    {
       "requestid": "7f00a95f-81df-4096-a3ed-cd9bebf9f6be",
       "confidence": "0.8303316",
       "timestamp": 1451.35,
       "content": "tight and regulations of the human cremation industry now there all sorts of certifications and licenses and permits emission standards and specific requirements for proper procedures to identify and keep track of remains but pet crematories don't have nearly the same amount of oversight",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "924d4dd3-2e3e-4455-89ed-8474878b51e6"
     },
-    "1471.12": {
+    {
       "requestid": "b517c9e6-c3fd-44aa-867c-7b366a36cba4",
       "confidence": "0.8672754",
       "timestamp": 1471.12,
       "content": "it varies from state to state and even from county to county but in most places are you need to do to open a pet crematory is fill out an application for license and get a permit from the epa paula masters think the reason there might be less oversight of the pet cremation industry",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "17924095-ad75-432a-850d-c7c9dccb6f70"
     },
-    "1488.29": {
+    {
       "requestid": "8048e448-2d7c-4853-b520-f2bb19dce9cf",
       "confidence": "0.7943114",
       "timestamp": 1488.29,
       "content": "it's because there hasn't really been a high profile pet cremation lawsuits in the us",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1ab7c411-bd6c-4e16-b732-b531b5603794"
     },
-    "1511.05": {
+    {
       "requestid": "b520d333-0977-447f-98db-410f99acfca1",
       "confidence": "0.8264339",
       "timestamp": 1511.05,
       "content": "happy I ccf a conference this year lamastre stage the big mock trial it was in a hotel ballrooms they sent out folding tables in the shape of a court room in about 75 people showed up to watch",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1d0f1e3f-74bc-42c6-b98b-490eee6a540f"
     },
-    "1524.53": {
+    {
       "requestid": "53d0e844-ad93-4874-8d07-e0e52721a41e",
       "confidence": "0.7565461",
       "timestamp": 1524.53,
       "content": "lemasters wanted to know what would happen if a case of cremation frode ever came to trial how would a jyri react what kinda price would be put on a pair",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d7f6ed96-032a-45c0-a01b-161d96ff18f1"
     },
-    "1535.5": {
+    {
       "requestid": "1ce5f07a-be7d-4646-b809-0868fc287470",
       "confidence": "0.8406247",
       "timestamp": 1535.5,
       "content": "and who would have to pay it",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "95a1f911-7187-4021-9142-dd2fb41a1288"
     },
-    "1537.41": {
+    {
       "requestid": "f5b980b0-5473-41f0-9474-4107f52ebbab",
       "timestamp": 1537.41,
-      "content": ""
+      "content": "",
+      "uuid": "edab0ff9-bab5-41f5-99d3-6a09750facc8"
     },
-    "1542.72": {
+    {
       "requestid": "8796280e-cde5-4f80-af0a-da691c4bde3c",
       "timestamp": 1542.72,
-      "content": ""
+      "content": "",
+      "uuid": "fca43f58-9cfe-4948-aabc-bfe699e285e5"
     },
-    "1548.66": {
+    {
       "requestid": "7bc39fc4-c8b0-48c1-8254-68de1117ee7a",
       "timestamp": 1548.66,
-      "content": ""
+      "content": "",
+      "uuid": "ef6bbb96-2c00-46b4-91e9-5fa349b30e86"
     },
-    "1553.51": {
+    {
       "requestid": "033ec416-9b28-4eec-9fa4-69cb3bab86d6",
       "confidence": "0.864507",
       "timestamp": 1553.51,
       "content": "that's lemasters again playing the role of the prosecuting attorney he gives his opening statement and called the first witness up to the stand",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fedbebd7-c1fb-4b90-9a5a-29166da6215e"
     },
-    "1561.34": {
+    {
       "requestid": "d1cac070-8b78-4605-9258-2f340533a682",
       "confidence": "0.7719564",
       "timestamp": 1561.34,
       "content": "do you solemnly affirming the testimony you may give in this matter will be the truth the whole truth and nothing but the truth I too big",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "038db14f-983b-4eaa-a77f-731ada0ec606"
     },
-    "1569.96": {
+    {
       "requestid": "8cb65033-c0c3-4670-9f1e-d1b8ff6a4698",
       "confidence": "0.7674657",
       "timestamp": 1569.96,
       "content": "this is roberta nah she's a counselor at a pet funeral home in ohio and she volunteered to play the roles of plaintiff's counsel bob marley",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "6be532f4-4d4f-4366-94ca-29d42f8ed69d"
     },
-    "1580.39": {
+    {
       "requestid": "a7f275b0-8065-4fab-a26d-928b76739953",
       "confidence": "0.7906967",
       "timestamp": 1580.39,
       "content": "molly with my best friend she was a wonderful companion and she was very close to my heart",
-      "speaker": "S235"
+      "speaker": "S235",
+      "uuid": "10fd932d-88f7-4d93-a9db-1b6c289bb0bc"
     },
-    "1589.1": {
+    {
       "requestid": "291753e6-b7ee-474f-bfa5-054a6ca2871d",
       "confidence": "0.4160935",
       "timestamp": 1589.1,
       "content": "got it I would like",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "256b07db-e249-4274-91ee-60a784b00ac9"
     },
-    "1593.67": {
+    {
       "requestid": "c5c246df-7869-4e42-a530-7a944b11ebe1",
       "confidence": "0.8340764",
       "timestamp": 1593.67,
       "content": "note starts to tell the story of the made up dawg molly she said marley died from cancer at an old age and with cream made it through the back everything seems fine at first but a few months after she brought the ashes home",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1b0a18f4-7f51-4148-9ccb-de3e6f674310"
     },
-    "1606.67": {
+    {
       "requestid": "18f27dda-98fc-4789-80c4-60aff3db781f",
       "confidence": "0.777536",
       "timestamp": 1606.67,
       "content": "not heard that the crematory owners were being investigated but apparently been dumping animals in the field and returning random ashes back to people",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "37b0c991-9809-4670-a109-da781a689478"
     },
-    "1615.86": {
+    {
       "requestid": "abce1332-8302-4588-9742-3a2caac94e55",
       "confidence": "0.7272969",
       "timestamp": 1615.86,
       "content": "the vet nearing clinic called and said there had been an investigation",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "7801727a-c87b-4a06-b861-2381923763fc"
     },
-    "1622.13": {
+    {
       "requestid": "c9263fee-084d-4aa4-9fc3-0db2a60880b6",
       "confidence": "0.4637977",
       "timestamp": 1622.13,
       "content": "and they told me that was the only sad cat",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "53335069-7ef1-4ccd-a053-bb33f41d0a85"
     },
-    "1627.76": {
+    {
       "requestid": "2c3d06df-78b1-4dec-b3de-683d36b62ee9",
       "confidence": "0.2003718",
       "timestamp": 1627.76,
       "content": "please pick ation",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "bba88107-c7e2-4bc7-998e-7ef0f76e4e3a"
     },
-    "1630.74": {
+    {
       "requestid": "5669bef9-50d7-44a9-8156-af4f0054cbcd",
       "timestamp": 1630.74,
-      "content": ""
+      "content": "",
+      "uuid": "d98e2f68-5308-4493-bd48-c6d84475d9da"
     },
-    "1636.4": {
+    {
       "requestid": "447b6933-0889-4266-a252-892a9747e4cf",
       "confidence": "0.692692",
       "timestamp": 1636.4,
       "content": "I know who is suing not just the crematory but the bed too because the bet hip outsource the cremation to the cheapest company and then stopping off with a hefty upcharge which it turns out it's not uncommon practice north had no idea",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0a72bfb2-7908-4d4d-90f8-7ba2fa92e445"
     },
-    "1651.61": {
+    {
       "requestid": "013f7f35-8f50-4290-b10a-3b13ce0e809f",
       "confidence": "0.6814505",
       "timestamp": 1651.61,
       "content": "I don't have",
-      "speaker": "S245"
+      "speaker": "S245",
+      "uuid": "dbc33cff-c6a4-4584-b9b1-6b8dc567eae8"
     },
-    "1654.55": {
+    {
       "requestid": "1a8703fa-8a96-47c0-aab5-77e32290bf97",
       "confidence": "0.4355862",
       "timestamp": 1654.55,
       "content": "I'll never know",
-      "speaker": "S245"
+      "speaker": "S245",
+      "uuid": "aec2047c-814c-46d8-8f93-6ed7cbde44d2"
     },
-    "1662.13": {
+    {
       "requestid": "bd600405-d2a7-457b-a8fd-4cb5788b3032",
       "confidence": "0.7407449",
       "timestamp": 1662.13,
       "content": "note this point north starts crying real tears she told me later that her pain was real because she knows this actually happens to pet owners the mock jurors who is been recruited off of craigslist removed",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5df0ffa0-6e6d-4e3e-8d87-7cd1e40f16f1"
     },
-    "1677.42": {
+    {
       "requestid": "f99be81f-75d7-4c79-ac0a-5587de628eec",
       "confidence": "0.742057",
       "timestamp": 1677.42,
       "content": "on the issue of infliction of emotional distress what do you find with a friend in oceanside cream",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "d8703b29-181d-48e7-a753-44f5944f3c6b"
     },
-    "1685.0": {
+    {
       "requestid": "3a5db49c-f527-4901-8da8-7f7a8b7b9e03",
       "confidence": "0.5828625",
       "timestamp": 1685.0,
       "content": "sorry we do you find my bowl in war damage is neemrana 100",
-      "speaker": "S249"
+      "speaker": "S249",
+      "uuid": "981bafa5-4bac-4024-aba9-cdb5df51f7ae"
     },
-    "1689.7": {
+    {
       "requestid": "3f5d428d-3766-4ee0-9cd5-58f5af64f9c7",
       "confidence": "0.6170866",
       "timestamp": 1689.7,
       "content": "$3000 on the issue of negligence what do fine",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "7be7c357-cb3d-49af-9026-4b367397a34a"
     },
-    "1694.31": {
+    {
       "requestid": "50bd7334-0739-4d94-8dbe-021824895cbf",
       "confidence": "0.6624508",
       "timestamp": 1694.31,
       "content": "oceanside crematory dufine liable in the worth of damage of 350",
-      "speaker": "S249"
+      "speaker": "S249",
+      "uuid": "99052efc-a753-4c2b-a1b4-5b52069d93ba"
     },
-    "1699.83": {
+    {
       "requestid": "fe26a0ca-47fd-4758-af4b-5f0b5990800d",
       "confidence": "0.6118037",
       "timestamp": 1699.83,
       "content": "thousand dollars and finally I need issue a punitive damages what do fine",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "3141c5d7-941a-40b2-836a-9c74ca70519f"
     },
-    "1706.78": {
+    {
       "requestid": "1be4f24b-705d-4bff-962f-6be70b61de9e",
       "confidence": "0.5575616",
       "timestamp": 1706.78,
       "content": "oceanside crematory define liable in a quarter diameter of $3 Million in punitive damages against everton",
-      "speaker": "S249"
+      "speaker": "S249",
+      "uuid": "2ff00568-cbdf-4db2-bd87-ad8a972b9907"
     },
-    "1717.23": {
+    {
       "requestid": "761b62a3-55e7-4e26-8baa-274df8e86611",
       "confidence": "0.1313321",
       "timestamp": 1717.23,
       "content": "well ok",
-      "speaker": "S254"
+      "speaker": "S254",
+      "uuid": "f4f547b1-0492-4eed-a522-d4794ad4fd47"
     },
-    "1721.86": {
+    {
       "requestid": "5f3a3df1-97b2-489e-9b37-3c26bcb040ed",
       "confidence": "0.7104195",
       "timestamp": 1721.86,
       "content": "mock jury charge the veterinary clinic with images 2 for not going out to check on the crematory lot for jury",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2c172ffa-39cc-43db-bdb1-c7029682a7fd"
     },
-    "1735.56": {
+    {
       "requestid": "3d4e2265-638c-4576-b7d0-e5597e27f475",
       "timestamp": 1735.56,
-      "content": ""
+      "content": "",
+      "uuid": "1bcc8e00-9aa7-4c3d-ad5b-23e29fb1f9bd"
     },
-    "1740.36": {
+    {
       "requestid": "b8989b9a-a0d1-4e99-b22d-83e6fd4cd17c",
       "confidence": "0.723372",
       "timestamp": 1740.36,
       "content": "what masters was really excited about this result excited because it confirmed his hunch that the jury would be willing to punish fraudulent pet crematories",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "64ee2796-609b-40ef-9871-013b37067ffe"
     },
-    "1750.29": {
+    {
       "requestid": "c51cdaef-8c15-47ed-8dd7-f1f13fec60ce",
       "confidence": "0.7725467",
       "timestamp": 1750.29,
       "content": "I said they wouldn't dismiss it as just a dog or a cat",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1f952ae1-0d1a-40b0-b30a-42bfec9772df"
     },
-    "1754.09": {
+    {
       "requestid": "5e7e1c81-a40a-4984-b60f-8f6994a5004f",
       "confidence": "0.7909727",
       "timestamp": 1754.09,
       "content": "lemasters and I talked about what could happen after the trial was over",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2b54a69a-7ba2-485c-8474-2792edd4ba2c"
     },
-    "1757.9": {
+    {
       "requestid": "29a08328-5aab-42cb-8e1c-daa57ffdd2e1",
       "confidence": "0.7171833",
       "timestamp": 1757.9,
       "content": "lisa did it for real jorry ever did the same thing",
-      "speaker": "S259"
+      "speaker": "S259",
+      "uuid": "52a80b8b-42b4-4001-879b-59c2ad197e31"
     },
-    "1760.93": {
+    {
       "requestid": "f36148c6-06ac-474f-88bc-bbe64f5b846f",
       "confidence": "0.4461173",
       "timestamp": 1760.93,
       "content": "real money involved",
-      "speaker": "S259"
+      "speaker": "S259",
+      "uuid": "d37adce8-aa46-4244-959e-801b7150fddb"
     },
-    "1762.95": {
+    {
       "requestid": "9e5c1db0-2193-4a40-8548-9f2a151cce9c",
       "confidence": "0.8845639",
       "timestamp": 1762.95,
       "content": "it could completely change have a pet cremation industry work",
-      "speaker": "S259"
+      "speaker": "S259",
+      "uuid": "d0daa68f-10b5-4b7f-b656-ce5a2ab2119f"
     },
-    "1767.13": {
+    {
       "requestid": "8bd5f0f4-b765-4fa2-8cd1-c50e5e57dd16",
       "confidence": "0.7645032",
       "timestamp": 1767.13,
       "content": "in the court system pets of typically always been considered property however over the years",
-      "speaker": "S155"
+      "speaker": "S155",
+      "uuid": "1e7e539f-65d4-4b69-8859-75c9c8d80e7c"
     },
-    "1774.69": {
+    {
       "requestid": "16ce6913-72c5-4741-afe1-4bb8775cd172",
       "confidence": "0.7622647",
       "timestamp": 1774.69,
       "content": "quarta starting to recognize that pets are people too and it gives them more and more latitude and their owners parents more latitude recover damages",
-      "speaker": "S155"
+      "speaker": "S155",
+      "uuid": "99fe5655-2269-4e1c-a5dd-c49d5d8da5ec"
     },
-    "1787.72": {
+    {
       "requestid": "c996d297-8ce3-4862-b243-4256c77bf098",
       "timestamp": 1787.72,
-      "content": ""
+      "content": "",
+      "uuid": "73304fa6-39f2-4602-bcb9-0373727d8887"
     },
-    "1790.84": {
+    {
       "requestid": "edc53e7d-34ec-4ae3-bf6b-7d226fb2d38d",
       "confidence": "0.5186152",
       "timestamp": 1790.84,
       "content": "who was kathryn wells reporting force",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "43e3d1a3-3c20-4523-9cd9-8a5a81cc91be"
     },
-    "1796.29": {
+    {
       "requestid": "ac838755-1720-4c70-aae3-1d6c08b2d0df",
       "timestamp": 1796.29,
-      "content": ""
+      "content": "",
+      "uuid": "e1ccd359-a87c-486c-8497-82d3485c16cd"
     },
-    "1797.86": {
+    {
       "requestid": "031013b3-0467-47a8-a166-6f4745f4d73f",
       "confidence": "0.8056214",
       "timestamp": 1797.86,
       "content": "I'm ok were here to talk about stevie stevie in stevie",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "a75743b5-1b42-4642-8ba0-6cc04cb9ca99"
     },
-    "1801.72": {
+    {
       "requestid": "dbac3d36-a231-4848-8081-677c3b4f9c6d",
       "confidence": "0.6030859",
       "timestamp": 1801.72,
       "content": "did we name him stephen accadde call darrell called steam account this tv in this is susie lo",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "92ee7e82-293b-433d-9dab-21c75a71c889"
     },
-    "1807.01": {
+    {
       "requestid": "f1ac3a9a-c17f-4df4-b465-0ce611f8c695",
       "confidence": "0.7587644",
       "timestamp": 1807.01,
       "content": "deanburg she is the executive producer of freakonomics radio the cats are named after legbiter near me",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "888159f9-1853-4fe4-bebf-4aa00148aebc"
     },
-    "1813.44": {
+    {
       "requestid": "f50861fc-74ee-44da-aa15-a0c312751cf5",
       "timestamp": 1813.44,
-      "content": ""
+      "content": "",
+      "uuid": "8b507464-8a7f-4626-b3ec-57a83b18808a"
     },
-    "1817.91": {
+    {
       "requestid": "3601aa6a-1885-400f-9d5e-9ea7b23ce80d",
       "confidence": "0.7473828",
       "timestamp": 1817.91,
       "content": "the cats name stevie that she's talking about well we decided to run our own tests at 3 pet crematories here in new york we wanted to see what would happen if we did what john remkes told as he did in illinois send",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "cb1e434a-9b23-4a12-9f3c-984abe55eac1"
     },
-    "1834.47": {
+    {
       "requestid": "1cd6a48c-5475-47c3-b549-46a9affc0de3",
       "confidence": "0.7790906",
       "timestamp": 1834.47,
       "content": "fatkat out for cremation so we bought 3 feet cats from a store called this place is a zoo they market the cat says quotes not very cuddly but great for display port to replace a missing pet",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "39dcbca8-26f8-47fd-a38e-61fff49e3dcc"
     },
-    "1848.27": {
+    {
       "requestid": "6532dda2-791d-4c8b-ae64-b862434996e9",
       "confidence": "0.660288",
       "timestamp": 1848.27,
       "content": "yeah it looked like it had anymore coz it's the fort well we're excited when they arrive there by very realistic orange and white kitties curled up asleep a stiff body covered in real",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "8857779d-50bc-4462-a2ee-d75d8d85e082"
     },
-    "1862.91": {
+    {
       "requestid": "86a4288e-0122-4a80-b22c-a383a6664389",
       "confidence": "0.214149",
       "timestamp": 1862.91,
       "content": "healing pm",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "1be6dc88-c1d4-408d-b981-7bf37513a08a"
     },
-    "1866.64": {
+    {
       "requestid": "b77fb794-1370-4753-8338-596de9fb4a37",
       "confidence": "0.7426597",
       "timestamp": 1866.64,
       "content": "we stripped the rabbit fur off the cats and stuff into them with a few pounds of hamburger at 10:10 am I free today should we put is burger stuffed rabbit for cat skins in a grocery bag in frozen for few days until we could arrange for the 3 crematories to pick them up",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "1fac96b8-8b08-4673-a725-82cea5e77ad3"
     },
-    "1883.96": {
+    {
       "requestid": "a99ac281-4e17-4b9a-b16a-c7a62da975a8",
       "confidence": "0.6989023",
       "timestamp": 1883.96,
       "content": "by this point didn't really look that much like cats but apparently they work at lake enough for the 3 crematories to take him over here that looks really nice like",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "4d3ed1ed-668f-4e4a-9809-b1d721e0cccb"
     },
-    "1892.36": {
+    {
       "requestid": "79e42218-37d4-4d15-a404-d50583db67f8",
       "confidence": "0.3511273",
       "timestamp": 1892.36,
       "content": "how much semen is in fine condition of this is not",
-      "speaker": "S285"
+      "speaker": "S285",
+      "uuid": "e3c25c9a-2a5d-45eb-864a-792b7e0b02dc"
     },
-    "1898.36": {
+    {
       "requestid": "c97d5b5b-31eb-461b-a90d-59f863c23baf",
       "confidence": "0.7793787",
       "timestamp": 1898.36,
       "content": "and we of course were telling the fit right were telling them that what we're giving them is the real dead cats nails when you get back cremated remains whether to pet were human",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "42520d5d-20f7-459c-8d3a-78db978999fe"
     },
-    "1911.07": {
+    {
       "requestid": "6fac0379-26c6-4173-8ea6-d5044b39d8b9",
       "confidence": "0.683421",
       "timestamp": 1911.07,
       "content": "is composed almost entirely the bone ash so in this case were sending a cat with no bones so theoretically we should get back my cash at all",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "3620833f-3125-49fb-a83a-a380ff981232"
     },
-    "1921.66": {
+    {
       "requestid": "d1168e5a-81d0-4d4b-8594-e4da31857832",
       "confidence": "0.7256778",
       "timestamp": 1921.66,
       "content": "the for in the hamburger meat should burn off almost entirely so we sent off the 3 cats siouxsie and the other producers handle this point they kept me in the dark I have no idea what kind of remains if any we got back",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6744016c-aaec-4951-a016-f6d57d7e1876"
     },
-    "1936.61": {
+    {
       "requestid": "a9e9a731-4bde-46b2-8885-38e267d35924",
       "confidence": "0.671585",
       "timestamp": 1936.61,
       "content": "a few weeks later we sat down the dogs",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "95c00f88-d9a1-4550-afee-3a7f5b203456"
     },
-    "1941.66": {
+    {
       "requestid": "7a371323-27e2-43cd-80b5-205e4a092a0b",
       "confidence": "0.6225239",
       "timestamp": 1941.66,
       "content": "ok so can I ask you first what do you think happened what would I predict afcent",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "a444c9e0-1676-48ba-929d-e557c22b2100"
     },
-    "1946.68": {
+    {
       "requestid": "265d9845-a890-4901-8f31-e49e79de817d",
       "confidence": "0.8098131",
       "timestamp": 1946.68,
       "content": "ok to take 3 cats we send me to 3 different pet crematoria and what do I think happened",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e7776d24-e47d-4b01-9048-25988e727605"
     },
-    "1954.26": {
+    {
       "requestid": "d1139c8e-e7ad-4b46-a0ff-404a5d83f909",
       "confidence": "0.7785515",
       "timestamp": 1954.26,
       "content": "03 cats coz bodies are made up of hamburger meat stuffed in rabbit for stuffed in rabbit for",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "efd3f120-1f52-415c-9f6e-4b0eeedce590"
     },
-    "1961.08": {
+    {
       "requestid": "3e9a8071-5949-437e-96c5-62095f38fb15",
       "confidence": "0.7932729",
       "timestamp": 1961.08,
       "content": "I guess what I hope happened is it each of these 3 institutions called and said susie um I'm sorry to tell you this but something with strange with stevie your cat and he just burnt to hell and there was nothing left",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "04957943-37dc-4cbf-ac39-2a29e53fe0dd"
     },
-    "1977.96": {
+    {
       "requestid": "b424c0c3-8e43-49c1-a770-66e215ae79cb",
       "confidence": "0.7784207",
       "timestamp": 1977.96,
       "content": "and would love to give you the ashes of your beloved steve the cat but we can understand why there aren't any instead will give you AM may be nice plush stuffed animal 01 way to see what happen you ready",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "bcd6e840-2b96-492b-9b0b-82ebd23367d1"
     },
-    "1993.64": {
+    {
       "requestid": "ce9e652a-f808-411d-8369-5b820e58c23b",
       "confidence": "0.6759126",
       "timestamp": 1993.64,
       "content": "please don't be ashes please don't be asses at the fact that there something here is not good I'm gonna open it",
-      "speaker": "S301"
+      "speaker": "S301",
+      "uuid": "fefb4bd0-fab9-4f30-b60d-458fb340b26a"
     },
-    "2003.88": {
+    {
       "requestid": "e344a7c0-d98a-4c5b-9e48-6d2f3b8841b6",
       "timestamp": 2003.88,
-      "content": ""
+      "content": "",
+      "uuid": "7c11e167-7744-4cb0-9ddf-299ee4928e4d"
     },
-    "2006.16": {
+    {
       "requestid": "7286b20b-d9f0-44e6-9ec5-2885ca74d5df",
       "confidence": "0.6190608",
       "timestamp": 2006.16,
       "content": "um well this is promising I'm getting happier can I hope I got everything",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "697e8da1-c743-449d-b33e-6b84c2c38967"
     },
-    "2010.76": {
+    {
       "requestid": "e1ac8165-0a74-40d5-8b16-9c8f6db5d25b",
       "confidence": "0.4751405",
       "timestamp": 2010.76,
       "content": "the plastic thing yeah I'm not be happy china",
-      "speaker": "S301"
+      "speaker": "S301",
+      "uuid": "9f9accf4-c227-4790-a230-7615085c0039"
     },
-    "2015.81": {
+    {
       "requestid": "c1170e17-ec04-4cd5-9b5d-32b9eb9c7d2f",
       "confidence": "0.8475358",
       "timestamp": 2015.81,
       "content": "oh no oh bummer I thought it was a",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "fe6f65df-4ada-4032-8db0-0a76139e2815"
     },
-    "2020.47": {
+    {
       "requestid": "2dd07c9f-3c9d-4352-af87-6858c67f24e6",
       "confidence": "0.7251602",
       "timestamp": 2020.47,
       "content": "man it is this is somebody else's dedep at right here right now that is not stevie",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "03d99a00-844e-4f83-9601-e891f3163c4c"
     },
-    "2033.9": {
+    {
       "requestid": "3fdb0041-140a-4d2e-b6e9-e63791e9213f",
       "confidence": "0.8327097",
       "timestamp": 2033.9,
       "content": "the first box is from a place called pet crematory agency we paid for a private cremation $460 which meant did stevie the cat should've been alone in the chamber the second box is from pet cremation of new york again",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "dad82bf7-ecb0-4b6c-ba05-6cde7b0e16ca"
     },
-    "2050.24": {
+    {
       "requestid": "fdcdc869-2b41-4ea4-9fe3-0763846b2972",
       "confidence": "0.7325844",
       "timestamp": 2050.24,
       "content": "private cremation this one cost $307 who is heavy",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "86eed596-6984-4d54-b235-919aa956699c"
     },
-    "2057.87": {
+    {
       "requestid": "840643ef-fb55-4d87-801e-f2b8b5ece604",
       "confidence": "0.8168951",
       "timestamp": 2057.87,
       "content": "and right there the label on when I open the boxes",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "81fe5849-b62d-4601-ba8a-b8aaf52f092d"
     },
-    "2062.1": {
+    {
       "requestid": "8b202e85-06b5-4ad3-a1fe-aa94b6acee4b",
       "confidence": "0.7676368",
       "timestamp": 2062.1,
       "content": "private cremation and get appears to be another bag",
-      "speaker": "S314"
+      "speaker": "S314",
+      "uuid": "49c043d2-e16c-46c1-925d-37e7be4b6fcb"
     },
-    "2068.46": {
+    {
       "requestid": "0b83134c-85d9-4055-b62e-b943114be221",
       "confidence": "0.6689529",
       "timestamp": 2068.46,
       "content": "of animal phones that do not belong to stevie the cat because steve the cat had no",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "3002b993-dba2-4a3b-b6b2-88e7dff6ba9f"
     },
-    "2076.31": {
+    {
       "requestid": "e542d3f0-060a-43ce-8f39-1420c3fb7b03",
       "confidence": "0.7802659",
       "timestamp": 2076.31,
       "content": "the second bag had way more ashona maybe 3 times as much is the first one",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "7823f05c-9364-47ba-ac96-fea69d8801a3"
     },
-    "2081.41": {
+    {
       "requestid": "de1a507a-cd85-45ae-8f13-e04bfc64fd68",
       "confidence": "0.6899675",
       "timestamp": 2081.41,
       "content": "ok so that was stevie wonder stevie to give me number 3 got what's called an individual cremation meaning",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6c2ebcf4-df87-4cc2-83a8-88db647a49a6"
     },
-    "2088.96": {
+    {
       "requestid": "9bc2fb4d-8e96-45b8-8d4f-817a99c34629",
       "confidence": "0.8239632",
       "timestamp": 2088.96,
       "content": "he supposed to be alone in a pan with that other animals were also in the chamber in different plans are you been so this one cost more than the others $505.74 with him a place called hartsdale crematory",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e4c6e498-e424-4770-b70d-f67f7660f9d3"
     },
-    "2103.65": {
+    {
       "requestid": "30b563bf-c008-42b8-bf8a-25ba5ade81b0",
       "confidence": "0.6525346",
       "timestamp": 2103.65,
       "content": "ok once again IAT 10",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "97e49791-a500-43a5-8f11-b25aa730a2ec"
     },
-    "2106.74": {
+    {
       "requestid": "d0b8f5a0-10d4-45c0-b790-86bb8c136a0b",
       "confidence": "0.7867181",
       "timestamp": 2106.74,
       "content": "beautiful floral print screen smaller",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6b9aada1-d991-4a40-aeb4-fa39b8c6e6dc"
     },
-    "2109.67": {
+    {
       "requestid": "b57ca290-9223-4cbb-953c-bce035c67124",
       "confidence": "0.6238624",
       "timestamp": 2109.67,
       "content": "paper work here and",
-      "speaker": "S314"
+      "speaker": "S314",
+      "uuid": "aecb52db-e273-4c1f-bebe-55dd0567b2e4"
     },
-    "2112.87": {
+    {
       "requestid": "911ec0ab-9594-4946-b32a-fdb136f739b9",
       "confidence": "0.5651671",
       "timestamp": 2112.87,
       "content": "more of the same more kitty ramondetta sibi's look a little",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "4bcde6a1-ce30-4b67-aef1-b5606843538b"
     },
-    "2117.58": {
+    {
       "requestid": "6985bc82-61b2-4a65-9246-63a0be2f4b64",
       "confidence": "0.5104654",
       "timestamp": 2117.58,
       "content": "bet that sucks I'm asleep this looks like peach stand there look to be chunks of",
-      "speaker": "S301"
+      "speaker": "S301",
+      "uuid": "9873dd9c-0e1a-4930-8c10-080654ae3d82"
     },
-    "2125.97": {
+    {
       "requestid": "65707d27-d34c-4d33-8445-8c30c48901ff",
       "confidence": "0.6763737",
       "timestamp": 2125.97,
       "content": "owner bone fragment in ashit stuff which I guess is other phone sometimes this tv on there I'm so I know this isn't my tv this might be somebody else's day",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "d9e1075f-19f4-41e0-a933-24652e395a3e"
     },
-    "2137.34": {
+    {
       "requestid": "5da4fc18-2256-48d3-99c6-bb06ce8b1a75",
       "confidence": "0.1851645",
       "timestamp": 2137.34,
       "content": "baby",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "50f070e6-95a1-4e42-b53e-bee9537161b3"
     },
-    "2140.18": {
+    {
       "requestid": "811d91cf-f106-4295-8922-60536b5466f8",
       "confidence": "0.7317285",
       "timestamp": 2140.18,
       "content": "ok so let's not assume that these crematories are doing something wrong maybe something happened in the burn chamber that would explain why we got back all that bone ash from animals didn't have any bondor",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "52ed8ae9-956b-43a7-82a9-0bebd8cdcb43"
     },
-    "2154.02": {
+    {
       "requestid": "1c27f26d-192e-4ef2-a405-aeb658e24eab",
       "confidence": "0.8182385",
       "timestamp": 2154.02,
       "content": "maybe the hamburger meat we used had an inordinately large amount of ground boninite not likely but if you read a paper from the animals of diagnostic pathology called fast food hamburgers what are we really eating",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "98300bb9-18e3-4c79-9574-0ec97a41a34d"
     },
-    "2168.4": {
+    {
       "requestid": "f767e8a6-d03e-41a2-afd9-22ce9ab00aab",
       "confidence": "0.6991643",
       "timestamp": 2168.4,
       "content": "you'll see the phone and lots of other cole parts can end up in ground chuck",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "da30a6c2-6960-44cd-a75e-cb4e8f76b809"
     },
-    "2175.23": {
+    {
       "requestid": "f4e9fe50-ac76-42d8-996c-83942954f24d",
       "confidence": "0.7189031",
       "timestamp": 2175.23,
       "content": "maybe not",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "33e923cc-b582-4477-bb34-a9ba726d9e53"
     },
-    "2185.36": {
+    {
       "requestid": "9aeeb058-49d2-4dab-b50b-fda0297eefca",
       "confidence": "0.8217471",
       "timestamp": 2185.36,
       "content": "I visited nick petracco at his friend the club at john jay college of criminal justice in new york",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "e0a6a3dc-8317-4bd3-ae11-6a0eee950596"
     },
-    "2190.66": {
+    {
       "requestid": "6b4a9526-483b-4d1c-92b0-956812974d86",
       "confidence": "0.762562",
       "timestamp": 2190.66,
       "content": "he teaches chemistry in forensic science fair",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "ca1726a7-8eec-422b-9a8d-864f6a8669f2"
     },
-    "2193.4": {
+    {
       "requestid": "7be3bf2c-b005-47b0-a888-9bd9c9a8bd64",
       "confidence": "0.7660652",
       "timestamp": 2193.4,
       "content": "bodrato used to be a cop he started his career then why pd in 1968",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "dcb3ccd6-a360-467c-a6c4-50eb7a295e63"
     },
-    "2198.03": {
+    {
       "requestid": "09fa770d-c1ab-4876-b812-070e974e3a8c",
       "confidence": "0.6666592",
       "timestamp": 2198.03,
       "content": "mini finished a chemistry degree and went on to work at the police left by the detective he retired in 1990 and now he runs a friend find consulting firm especially of trace evidence he and a colleague name john ruffner who's also a professor frendak find the john jay agreed to analyze the crimeans for us we look at the ashes on your license being so",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "a7d2d870-07cf-4bff-8994-d35fb5b4e07c"
     },
-    "2217.46": {
+    {
       "requestid": "7b8cd3a4-f299-4104-b572-9886cf1ef0b5",
       "confidence": "0.5937163",
       "timestamp": 2217.46,
       "content": "don't tell in the top of the petri dish my way I look at now I am",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "3aaa6353-09bd-4096-80df-e4df639d9217"
     },
-    "2222.83": {
+    {
       "requestid": "2142a2ec-b7e8-4fce-9b39-ac1ad3b7f62a",
       "confidence": "0.4540371",
       "timestamp": 2222.83,
       "content": "let's see what is a beautiful <profanity>ass</profanity> <profanity>bitch</profanity> phone",
-      "speaker": "S338"
+      "speaker": "S338",
+      "uuid": "640a6690-6e79-4e3f-8cb5-55c961dfee0b"
     },
-    "2229.52": {
+    {
       "requestid": "177a2161-6276-4488-b40c-f479efe7ce35",
       "timestamp": 2229.52,
-      "content": ""
+      "content": "",
+      "uuid": "3a914a17-0a72-41c7-844e-c466928a3448"
     },
-    "2235.38": {
+    {
       "requestid": "0f3293f6-e7cf-41bc-b2a5-3031be129f2b",
       "confidence": "0.6051611",
       "timestamp": 2235.38,
       "content": "how to chrisland structure",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "3d65c1fc-6a0c-4b3e-99d0-854971840c8a"
     },
-    "2238.22": {
+    {
       "requestid": "e1f2db79-3624-4783-afb7-37a6494a74ea",
       "confidence": "0.5707432",
       "timestamp": 2238.22,
       "content": "I will take a look to fix this is this is all over this tv one",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "815384df-3038-4822-a68e-7b79082586c8"
     },
-    "2242.74": {
+    {
       "requestid": "c2781d29-f259-4f3f-9031-160151c68944",
       "confidence": "0.4526237",
       "timestamp": 2242.74,
       "content": "my phone me phone",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "8b21b776-5a51-47f3-a559-d2ac8907329d"
     },
-    "2247.66": {
+    {
       "requestid": "bd1bb380-bc63-438a-b4ca-244efbbbdd87",
       "confidence": "0.5494884",
       "timestamp": 2247.66,
       "content": "this is not residue from with you",
-      "speaker": "S338"
+      "speaker": "S338",
+      "uuid": "976df4a9-6ddc-4223-96b9-a2d3a0cd5301"
     },
-    "2253.23": {
+    {
       "requestid": "f48a1f3b-6817-4637-8cdd-8ac3b9de8ec5",
       "confidence": "0.7202438",
       "timestamp": 2253.23,
       "content": "so that was their initial reaction looking at the ashina microscope but they hadn't done there for forensic analysis yet so I couldn't say for sure that their means we got back randy",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "2d75264c-a1d0-4238-beff-73e9ab0de9ed"
     },
-    "2262.34": {
+    {
       "requestid": "c2abe92a-a578-4303-b71d-b4ed29db77d8",
       "confidence": "0.5962917",
       "timestamp": 2262.34,
       "content": "phone but before we get to what they found island nick pacheco is a dog lover in you had 3 beagles jake rauffenbart",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "7ed2b208-2fc6-433d-98bb-65be8b4f814d"
     },
-    "2272.56": {
+    {
       "requestid": "4374cbdb-78fb-46cc-9472-5daca15d5b81",
       "confidence": "0.3960823",
       "timestamp": 2272.56,
       "content": "which fat <profanity>ass</profanity> puppy from on my fantasy owners come down here",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "13d6ee94-3498-4df4-b197-973ec9a34dda"
     },
-    "2278.72": {
+    {
       "requestid": "50d50761-b476-4fa4-8942-fe667224bc29",
       "confidence": "0.4060352",
       "timestamp": 2278.72,
       "content": "philip 15 years",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "65ed0c4c-3746-400d-99f4-cdc4c291ee6f"
     },
-    "2280.55": {
+    {
       "requestid": "6a0afd4c-ee8b-41b6-bde7-758fdc47c85a",
       "confidence": "0.4083808",
       "timestamp": 2280.55,
       "content": "cat good life",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "a19888f5-5bb8-4c09-8bf5-03ab2ea4e38c"
     },
-    "2282.57": {
+    {
       "requestid": "788de567-1c5e-4f33-b51d-1e6ac3152549",
       "confidence": "0.3680777",
       "timestamp": 2282.57,
       "content": "I cry of animal porn but I have a good life music belinga 20 acres",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "c31990ea-090d-4b5c-948f-0ddd6f56614d"
     },
-    "2289.24": {
+    {
       "requestid": "254a4079-5da4-44e8-acf6-52643a8de3d8",
       "confidence": "0.494014",
       "timestamp": 2289.24,
       "content": "set appointment a little bit agonising when you come on sale this is where I sent my around pottstown alzao through my",
-      "speaker": "S349"
+      "speaker": "S349",
+      "uuid": "f03c78b0-7522-4cbb-912d-ccdf58276257"
     },
-    "2299.49": {
+    {
       "requestid": "2c026555-a601-4070-9be1-54dfb19b07e0",
       "confidence": "0.156366",
       "timestamp": 2299.49,
       "content": "fat",
-      "speaker": "S159"
+      "speaker": "S159",
+      "uuid": "357a0b78-9c95-4255-bc17-aca9709c9fbc"
     },
-    "2305.32": {
+    {
       "requestid": "0585078c-1ff4-4251-934a-c2e2b4976d67",
       "confidence": "0.7305492",
       "timestamp": 2305.32,
       "content": "this is before he looks at the remains from hartstown yeah I got out I don't know if I can take care and miss ya",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "15fc4c95-9710-4a00-8b7c-a069fa97715e"
     },
-    "2312.0": {
+    {
       "requestid": "c38a2ceb-e1fe-4d3b-98cf-41d1de59f736",
       "confidence": "0.7855012",
       "timestamp": 2312.0,
       "content": "so clearly this guy did not want what's in the hearts ville package claim that he did not wanna stick it out",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "e932237f-d876-4361-be31-365cd4571b61"
     },
-    "2319.67": {
+    {
       "requestid": "d986d117-f099-4c88-b05f-86ff7d6293a5",
       "timestamp": 2319.67,
-      "content": ""
+      "content": "",
+      "uuid": "fd4b1057-3631-4cdc-92fc-8c7e8a60a596"
     },
-    "2323.87": {
+    {
       "requestid": "4149ceff-15ff-4eae-88c7-f2d744bdd5a4",
       "confidence": "0.736257",
       "timestamp": 2323.87,
       "content": "after left john jay at tapah talk about a week to do a full forensic work up until exactly what was an argument I called to see what he found out",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "024b037b-be13-4051-a0f6-e206c17cc168"
     },
-    "2331.54": {
+    {
       "requestid": "cacd8c03-b9df-4018-a6c7-0a2687f1edff",
       "confidence": "0.5705903",
       "timestamp": 2331.54,
       "content": "are we found a nature only 3 sets of material from the crematoriums each set of materials that primarily bone fragments in it and it'll burn bone fragments",
-      "speaker": "S355"
+      "speaker": "S355",
+      "uuid": "788e213f-b780-47a4-97d6-4559c83ee918"
     },
-    "2346.03": {
+    {
       "requestid": "5e252afd-7d37-4e71-81c7-d723c1b1cb8d",
       "confidence": "0.6552283",
       "timestamp": 2346.03,
       "content": "my fair find the elemental composition",
-      "speaker": "S357"
+      "speaker": "S357",
+      "uuid": "a9f01cf5-bf6f-4395-9471-df950a224ee1"
     },
-    "2350.24": {
+    {
       "requestid": "18193b1c-1513-44cd-a2d2-ec6866633262",
       "confidence": "0.5171027",
       "timestamp": 2350.24,
       "content": "viajante finding calcium and phosphorus which is typically your bones made out of calcium phosphate how much fun are we talking about all of this with jarita materials found a break from each case mom",
-      "speaker": "S357"
+      "speaker": "S357",
+      "uuid": "2c303b00-1fb8-448a-95c2-6dfed843886e"
     },
-    "2373.84": {
+    {
       "requestid": "00ddcc1c-6efd-4050-8f2f-e5e67f5f6627",
       "confidence": "0.7628289",
       "timestamp": 2373.84,
       "content": "a right to sue the according to be is forensic experts the 3 bags of pet cremations we get back were made up almost entirely bone",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "23a642ef-ca22-4df8-bd81-6a9d6c752a02"
     },
-    "2383.05": {
+    {
       "requestid": "1c1c69f4-0da7-4b53-907d-8464b6bb8bb3",
       "confidence": "0.816209",
       "timestamp": 2383.05,
       "content": "which doesn't seem to make sense since we sent each of them a boneless cat in 2 of the 3 cases we paid for a private cremation so we don't know where this bonus came from I need in the third case the individual cremation we're still supposed to get back only the remains of our pet right",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "8aa87c44-3591-4c0b-bf33-5d896daf100b"
     },
-    "2401.0": {
+    {
       "requestid": "e042979f-fa2b-4605-9b6d-1d81909bd6fa",
       "confidence": "0.7149007",
       "timestamp": 2401.0,
       "content": "I think we at with him that he's crematories give us back a scoop of ashes from some other guy",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "92fdcbb3-86e7-40b7-bfb0-733dff2ca090"
     },
-    "2405.14": {
+    {
       "requestid": "03567694-3328-442d-9881-0a1cdd1bbffb",
       "confidence": "0.8068428",
       "timestamp": 2405.14,
       "content": "atana yeah because it in our case it should have been any cream and released only a tiny bit but based on what we've learned today if I had a real pet to send in for cremation I would not be all that confident that the remains that I'd be getting back",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "42731037-890b-44c0-97de-d4af6567eae8"
     },
-    "2421.71": {
+    {
       "requestid": "20685b18-2a44-4345-b963-f208bdcee852",
       "confidence": "0.6330121",
       "timestamp": 2421.71,
       "content": "are definitely from my pet I'm at right pierznik the truck again",
-      "speaker": "S117"
+      "speaker": "S117",
+      "uuid": "5fac8aa3-bdb3-401f-a2d1-693e66e6e450"
     },
-    "2426.87": {
+    {
       "requestid": "9b36cc49-8859-4f1f-ae9d-613a55860183",
       "confidence": "0.5566375",
       "timestamp": 2426.87,
       "content": "did basically and not doing what they say they do I know if it's fine but it's certainly not morally right kasimatis pachorra aridia to the people I have pain dicis to have it done properly",
-      "speaker": "S355"
+      "speaker": "S355",
+      "uuid": "bca59fea-ff90-456d-9afe-13c04f72eeb0"
     },
-    "2439.73": {
+    {
       "requestid": "52b19c5d-220c-4228-918a-2611bb519fc6",
       "timestamp": 2439.73,
-      "content": ""
+      "content": "",
+      "uuid": "f9b4aff1-e627-4f4b-a9fe-b6d94acc11b3"
     },
-    "2445.08": {
+    {
       "requestid": "a994ef5c-bab2-4986-a58c-d34b2e423cea",
       "timestamp": 2445.08,
-      "content": ""
+      "content": "",
+      "uuid": "e7b7afd3-1207-4646-987c-cdf187ebeae0"
     },
-    "2447.34": {
+    {
       "requestid": "b99d3480-2af0-4b91-b3ab-5d9b8ae164dc",
       "timestamp": 2447.34,
-      "content": ""
+      "content": "",
+      "uuid": "b677c9e2-70df-49e5-b0f9-38d22bf44467"
     },
-    "2456.54": {
+    {
       "requestid": "ba82861d-20c0-4296-b5c8-84919ad46ebd",
       "confidence": "0.7622658",
       "timestamp": 2456.54,
       "content": "so apparently we got back some ashes from other people's pets in this may just mean that some crematories don't",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "d60dd182-81ba-4044-b269-8385f918ea8b"
     },
-    "2466.22": {
+    {
       "requestid": "a41c156a-e063-474b-a4bf-5b52fd290162",
       "confidence": "0.7703928",
       "timestamp": 2466.22,
       "content": "do the right thing when they cremate a fake",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "4f8f704f-52d9-4fdf-b40e-35dc4e75caa4"
     },
-    "2468.83": {
+    {
       "requestid": "5a20fb80-e37c-4f5d-b9a8-645b8cd9b937",
       "confidence": "0.6577559",
       "timestamp": 2468.83,
       "content": "we called the 3 new york crematories we tested asomugha respond",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "0c0b1cf8-872f-484c-8810-9735e065c1bd"
     },
-    "2474.18": {
+    {
       "requestid": "3c9112ce-98e0-498e-87e3-68a4273fed04",
       "confidence": "0.8040892",
       "timestamp": 2474.18,
       "content": "none of them would go on tape when crematory pet cremation of new york declined to comment on the record the second one pet crematory agency did send something in writing they noted that",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "5acfdaa4-c58e-41bb-b541-4869906c4844"
     },
-    "2486.56": {
+    {
       "requestid": "7271203a-b47c-4426-9442-003f3ed451d1",
       "confidence": "0.7226712",
       "timestamp": 2486.56,
       "content": "warm we signed when we gave them stevie said we were giving them a cat and they needed further proof that this db we sent wasn't cat",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "6ffe486c-524e-4487-97d4-6a78e5d12bfa"
     },
-    "2500.29": {
+    {
       "requestid": "4de314e1-8284-4fd7-9df8-3e8921b8b5c0",
       "confidence": "0.6674456",
       "timestamp": 2500.29,
       "content": "the third crematory hartsdale also center in britain state 16 pages long they inv attic lee denied any allegation that was the improper handling of petra mean",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "755d79ad-c9d9-44ad-bcef-60ed2b5f87f7"
     },
-    "2510.99": {
+    {
       "requestid": "a3f7bd5b-381a-4439-875d-6434fb93ab7b",
       "confidence": "0.7212686",
       "timestamp": 2510.99,
       "content": "they say that hartsdale quote adheres to strictly monitored and enforce procedures in safeguard throughout the cremation process to ensure the respectful treatment apetri means from intake through return and quotes",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "559632d5-207e-40a7-b0a0-8d60af75e952"
     },
-    "2523.96": {
+    {
       "requestid": "e201d08f-c19d-4723-9266-0388102dd683",
       "confidence": "0.7297506",
       "timestamp": 2523.96,
       "content": "hearts ville says the contents of our bags were placed in an individual stainless steel tray put in the crematory furnace",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "9242b53a-cdfc-4132-99e0-2c5340fd8e63"
     },
-    "2531.58": {
+    {
       "requestid": "20d902f5-1fc4-4b1a-8d31-c39dece48ee9",
       "confidence": "0.7497967",
       "timestamp": 2531.58,
       "content": "upang completion of the cremation process the cremains quote consisting solely of the skeletal remains of stevie were removed and processed by pulverising the bones in quote spell some cool a copy of the form signed by in employee",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "4be324d7-45d1-4487-8b38-0f6563ba447e"
     },
-    "2547.55": {
+    {
       "requestid": "1844bf19-2053-4c9b-a021-1e8612f8dd31",
       "confidence": "0.6725635",
       "timestamp": 2547.55,
       "content": "sing at the ashes are stevie's ashes into this employee take personal responsibility for cremation",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "39a53486-8037-45b5-8b61-5a2ebd402d5c"
     },
-    "2555.64": {
+    {
       "requestid": "c1bae511-fbab-4865-9ecc-db6d6a4a1588",
       "confidence": "0.6358272",
       "timestamp": 2555.64,
       "content": "purge deleter senafe an addendum to its original statement saying",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "56557074-b537-4b86-8246-7d20a670da30"
     },
-    "2559.09": {
+    {
       "requestid": "7a5e01f7-2000-4898-afe6-e423e926517a",
       "confidence": "0.7831711",
       "timestamp": 2559.09,
       "content": "the active cold mingling of cremated remains will occur when you perform a cremation with more than one pet in the chamber be attached a newsletter from the pet last professional alliance supporting minutes",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "0cd3c4fb-28fb-4028-a6a2-d881ef12a2fa"
     },
-    "2572.88": {
+    {
       "requestid": "b910d92c-eaed-46e4-a83f-008ec4beda30",
       "confidence": "0.8263385",
       "timestamp": 2572.88,
       "content": "you give me the full statement from pet crematory agency in hartsdale on their websitefreakonomics.com",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "0c2d4b69-07ef-4ee4-95c2-1d8e79dd270b"
     },
-    "2579.21": {
+    {
       "requestid": "b7a3812c-cbe9-446b-a3da-5f5de924320a",
       "confidence": "0.8687239",
       "timestamp": 2579.21,
       "content": "we also shared our findings with the new york state attorney general's office if we learn that they do conduct an investigation will be sure to let you know",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "c5ac2f22-0b0f-4ce3-8e0e-b332d0d47df4"
     },
-    "2587.14": {
+    {
       "requestid": "3fca558f-4c16-47ca-84a6-beacae747eb9",
       "confidence": "0.6958316",
       "timestamp": 2587.14,
       "content": "in the mean time we wound up with 3 piles of pet cremations in even though there not from our pets be probably want to someone so",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "434415b7-088a-41ac-aff6-f264dd8547e8"
     },
-    "2597.94": {
+    {
       "requestid": "a6e85af3-f1fe-4135-87a4-fd105a7435f5",
       "confidence": "0.8175141",
       "timestamp": 2597.94,
       "content": "we thought we take the ashes outdoors and give them a proper sentence",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "b2f8401b-4404-4a55-ac93-211401efa51f"
     },
-    "2605.05": {
+    {
       "requestid": "8cc19a00-0e5f-4447-80e2-9949f7d37c0c",
       "confidence": "0.9379874",
       "timestamp": 2605.05,
       "content": "ok here we go",
-      "speaker": "S395"
+      "speaker": "S395",
+      "uuid": "3adb5502-96c3-4f1c-a7d5-21dfc2cbdf9b"
     },
-    "2633.82": {
+    {
       "requestid": "7d292465-e935-40b5-b8b4-de26d8c808e6",
       "confidence": "0.7953215",
       "timestamp": 2633.82,
       "content": "pay packet pushers hope you enjoyed this episode I also hope you will consider supporting the freakonomics radio podcast by going to a website in making a donation would love",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "c58674d3-77ee-40e8-80c7-f23a8183d5c3"
     },
-    "2643.91": {
+    {
       "requestid": "10c25c45-8228-4284-ba53-05ee8136f5df",
       "confidence": "0.8033285",
       "timestamp": 2643.91,
       "content": "giving away this podcast for free but it does cost money to make it look at the pet cremation episode we sent catherine wells the florida to cover the mock trial at the international cemetery cremation and funeral association conference",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "9005a011-2427-4d91-a934-b4a58e4027e4"
     },
-    "2657.36": {
+    {
       "requestid": "d0e45fb9-ea05-4327-b928-5cce81b7469a",
       "confidence": "0.7722656",
       "timestamp": 2657.36,
       "content": "at cosco bit more than a thousand dollars we also did that peeping at the pet cemetery outside of chicago me of the bible is very realistic fake cats coming in real rabbit for $184.70 and it was a hamburger meat to stuff the cat put some rubber gloves and garbage bags set another",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "ede75f0c-787f-4927-9d95-0149cd390b43"
     },
-    "2674.86": {
+    {
       "requestid": "49404c6d-82d4-4403-bcbf-6257aaf06f39",
       "confidence": "0.8216612",
       "timestamp": 2674.86,
       "content": "$48.98 the pet cremation itself at 3 crematories set us back 1274 dollars and 40 cents",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "76eabc51-32d7-4d52-8af5-a4001bdc9a4d"
     },
-    "2684.32": {
+    {
       "requestid": "be76e3cd-9bcf-4aa0-b436-b20d71a2379f",
       "confidence": "0.8250405",
       "timestamp": 2684.32,
       "content": "but the real costs or would it take to turn our weekly podcast in a public radio show we have a staff of great producers and engineers on salary they get health insurance",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "12f12e90-87a0-47a4-9e29-7eb18b27780c"
     },
-    "2695.09": {
+    {
       "requestid": "77a711dd-22df-432d-a6c7-b9d405577657",
       "confidence": "0.8343453",
       "timestamp": 2695.09,
       "content": "we pay for the music we use of the hardest to make it get paid with a little bit",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "bb52b7fc-7491-4fcb-9cc6-25d41b3a3922"
     },
-    "2700.76": {
+    {
       "requestid": "ac8a20e3-7664-4dab-9b4b-fe89dfec5325",
       "confidence": "0.8423214",
       "timestamp": 2700.76,
       "content": "we also need to cover the cost of streaming are podcasts know the good news is that a lot of you listen to the spot",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "516787b1-b65f-41c0-9ed2-02dfa37ddf6a"
     },
-    "2707.58": {
+    {
       "requestid": "1e578597-e41c-4fc1-8352-a633d66a0b0e",
       "confidence": "0.8528958",
       "timestamp": 2707.58,
       "content": "yes we do more than 3000000 download a month but you're the bad news more downloads the more we pay in streaming call so last year we paid about $36,000 this year we hope to pay even more so long story short if",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "a78b888e-3526-4b3e-ae9d-9cd3b5d186f3"
     },
-    "2724.61": {
+    {
       "requestid": "fbdaa035-7af8-444c-a960-821d19283d75",
       "confidence": "0.9340732",
       "timestamp": 2724.61,
       "content": "you are so inclined please go to freakonomics.com make a donation thank you very much and we will talk to you next week",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "561dd6db-0d96-4e86-b85b-5dfa166e72ae"
     },
-    "2736.4": {
+    {
       "requestid": "dbfaed3a-8284-432d-bbe3-a517620374c3",
       "confidence": "0.6544297",
       "timestamp": 2736.4,
       "content": "freakonomics radio is produced by wmic dubner production our staff include david herman greg rozalski perail am susie lechtenberg in crispins in with help from kathryn wells special thanks to bill healy ivens imerman and jenna creed",
-      "speaker": "S418"
+      "speaker": "S418",
+      "uuid": "da6b9968-67c3-4e9f-9bef-2b4484780286"
     },
-    "2752.04": {
+    {
       "requestid": "d2ba1fdf-9c2a-4340-a862-376eb6ed087c",
       "confidence": "0.758666",
       "timestamp": 2752.04,
       "content": "if you want more freakonomics radio you can subscribe to podcasts on itunes or go to freakonomics.com will find lots of radio classical",
-      "speaker": "S418"
+      "speaker": "S418",
+      "uuid": "932bed32-e412-496b-b880-6a1f4a05cdd8"
     },
-    "2771.3": {
+    {
       "requestid": "4212becb-666c-443c-a3e7-b9230ff60875",
       "timestamp": 2771.3,
-      "content": ""
+      "content": "",
+      "uuid": "4c0c7d6b-33fb-4d0f-a33e-9f2fe138adaf"
     },
-    "2774.18": {
+    {
       "requestid": "628aafc3-8b04-42ca-be88-28b806f755ce",
       "timestamp": 2774.18,
-      "content": ""
+      "content": "",
+      "uuid": "fe1a0ebc-f0cd-400c-abc8-487831e0116d"
     },
-    "2776.07": {
+    {
       "requestid": "108acde6-4251-4a89-a934-4e8935021185",
       "confidence": "0.8370939",
       "timestamp": 2776.07,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "351d1033-00be-4316-b479-c298d25e632b"
     },
-    "2795.36": {
+    {
       "requestid": "d07deb94-a8b5-4ca5-b5dd-fa0661841287",
       "confidence": "0.8940098",
       "timestamp": 2795.36,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e73f2bf3-5738-46b2-8bb9-d8cd17d4cfec"
     }
-  }
+  ]
 }

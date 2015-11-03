@@ -4,2034 +4,2326 @@
   "description": "<p>From domestic abusers to former child soldiers, there is increasing evidence that behavioral therapy can turn them around.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/8Nmum3AUKyg/freakonomics_podcast091615.mp3",
   "slug": "-I-Don-t-Know-What-You-ve-Done-With-My-Husband--But-He-s-a-Changed-Man.-",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "1b821e18-0146-4487-8857-b43012541709",
       "confidence": "0.8646162",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by constant contact with email marketing tools like there drag and drop editor social media tools and expert coaching constant contact is committed to helping small businesses and nonprofits become marketer's more at constantcontact.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e7239d3e-1827-4481-8b22-49e85c5af16d"
     },
-    "16.08": {
+    {
       "requestid": "8693ee1a-09cd-4173-8a26-b80eaf803cc3",
       "confidence": "0.5746107",
       "timestamp": 16.08,
       "content": "all of a sudden we heard of the wall",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "98d948dd-252d-4287-bf57-baeeb19cae0d"
     },
-    "24.67": {
+    {
       "requestid": "9bdf26ae-a9e6-438a-9890-3c7a35b2ff7a",
       "confidence": "0.7669989",
       "timestamp": 24.67,
       "content": "the war for the civil war the first of 2 in liberia west africa again in 1989 johnson born with 18 years old",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d507e358-371c-4669-9a74-9d6c2da48a93"
     },
-    "33.19": {
+    {
       "requestid": "27e48518-d893-44c0-a110-f4fc9a5ac7ce",
       "timestamp": 33.19,
-      "content": ""
+      "content": "",
+      "uuid": "92364aa6-1f4f-4b98-a2c0-29ae6ca89613"
     },
-    "34.89": {
+    {
       "requestid": "da941c2f-9735-4c97-bca8-25a47557c067",
       "confidence": "0.4804806",
       "timestamp": 34.89,
       "content": "audio is from and everything",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c6406a21-c3e1-446f-a378-4b07ba9510fa"
     },
-    "41.21": {
+    {
       "requestid": "2b87b1b1-eb77-418c-ae4e-27514b1e2149",
       "confidence": "0.7976636",
       "timestamp": 41.21,
       "content": "there is a little place to hide",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "533c88c4-efe4-49ab-ada7-099f6aba3f6d"
     },
-    "43.74": {
+    {
       "requestid": "6a9a39ff-74fa-4ab6-a2bd-dd7263dac7c4",
       "confidence": "0.8768192",
       "timestamp": 43.74,
       "content": "war was in high school at it I'm getting ready to move up to a vocational school but he says he was conscripted into the npfl the national patriotic front of liberia",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "8cc58880-fbd3-4fb5-a3d7-7632ed570e5b"
     },
-    "54.81": {
+    {
       "requestid": "a6729cd4-9dc6-43b6-a213-8f9db5956d24",
       "confidence": "0.8137291",
       "timestamp": 54.81,
       "content": "that was a rebel group led by charles taylor would come to be known as an infamously brutal warlord's the npfl was fighting against the government of samuel doe when the war started johnson borwood thrown right into the action",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "48ae3ac5-ae8f-414e-9b79-b1313c744ea1"
     },
-    "70.48": {
+    {
       "requestid": "e96837d4-b8b7-4037-ae6c-9789ab3b27a4",
       "confidence": "0.5703773",
       "timestamp": 70.48,
       "content": "it was just chaotic because when you on the phone 9 developer theatine the boys that you're punishing idea what do over on you became a company commander so I was the wrong with people with torch on with the wrong people were killed because I was but a drink",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d14b7293-7661-4d13-a23c-1fda1ebba098"
     },
-    "85.28": {
+    {
       "requestid": "d7d93290-1658-4e04-a96f-04aca925c5fb",
       "confidence": "0.79941",
       "timestamp": 85.28,
       "content": "the population of liberia at the time is barely 2000000 during the war roughly a quarter of a million people died many of them civilians 4 told our producer christopher wirth",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3c9890c5-21de-4ea7-9391-d55830d13a9a"
     },
-    "96.2": {
+    {
       "requestid": "8b4481d3-3b18-46a1-8518-b3a44b0305b3",
       "confidence": "0.8114673",
       "timestamp": 96.2,
       "content": "about one distinguishing aspect of the liberian civil war use a child soldiers",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "44ef1690-fada-41d4-bd19-4d6aa0278dff"
     },
-    "102.21": {
+    {
       "requestid": "57219942-8a23-4047-a813-dca022d35790",
       "confidence": "0.481892",
       "timestamp": 102.21,
       "content": "go a lot of child soldiers do I need to know evie high unatco is bu smobile unit that we also had about josh will just",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "fd2489b3-61d1-4f83-afa3-e0a4600daa8b"
     },
-    "111.02": {
+    {
       "requestid": "ec3de66a-0d20-4d15-acdd-1270e76926df",
       "confidence": "0.5179192",
       "timestamp": 111.02,
       "content": "and they are not in france do in the weather you are requested to go do you have no experience life pseudodoxia of death will not be dead special awaye is the madame",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "6799aaec-4202-44f2-a3a6-21b1e0f9723c"
     },
-    "124.14": {
+    {
       "requestid": "f1e8fdba-4d4e-43c3-8078-1d7b36413048",
       "confidence": "0.5399832",
       "timestamp": 124.14,
       "content": "I like that kinda taking drugs in order gonna stop and have arms in your hand told josh we double always use independent instances to talk to",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "0d137595-8f61-4611-967b-1a962e95656f"
     },
-    "133.12": {
+    {
       "requestid": "43bca0cb-4f2a-48bb-b8ec-7f48a5195d21",
       "confidence": "0.6078573",
       "timestamp": 133.12,
       "content": "tv if that was the case where is such a pressing need to be executed you always want to use consul does the dude",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "6f5d6594-b747-4c01-b22e-a779516d00f1"
     },
-    "139.93": {
+    {
       "requestid": "406e47ca-2418-43d6-8998-42da60a947eb",
       "confidence": "0.7316851",
       "timestamp": 139.93,
       "content": "did you have to be involved in something like that other ordering rv executioner torture of anything like that",
-      "speaker": "S22"
+      "speaker": "S22",
+      "uuid": "928a2a7c-20e3-462f-bc18-9e3615174b6a"
     },
-    "146.23": {
+    {
       "requestid": "b6d0f3a2-51a4-4454-83f3-f65f2e06a335",
       "confidence": "0.662661",
       "timestamp": 146.23,
       "content": "not really but uncle is the most likely because if you are leaving a true and you have a joke on you we haven't seen that what do you need all the camana is responsible you do come I know we always be responsible for those kind of stuff",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "7fd5f866-46a6-461c-8602-f511e67eed8f"
     },
-    "160.11": {
+    {
       "requestid": "45a3f43e-0e3b-4971-9c7a-886ba5a65d39",
       "confidence": "0.541541",
       "timestamp": 160.11,
       "content": "borte was eventually boondein kombat",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b75ac80b-a8dc-4814-8808-35d72f02f250"
     },
-    "162.57": {
+    {
       "requestid": "abe344f9-5c66-4f5c-b378-44d8262d1c06",
       "confidence": "0.7128106",
       "timestamp": 162.57,
       "content": "I feel like apple have diabetes cause I went off I was on a lot so as soon as I go to the hospital they had to like put sunblock",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "60213fa6-e646-4844-9626-350f729a02b9"
     },
-    "171.91": {
+    {
       "requestid": "9fc7b6e2-3982-47ac-8679-7b94dfe13730",
       "confidence": "0.6284401",
       "timestamp": 171.91,
       "content": "emim qizi me but in the scheme of things been going did with not the worst thing that could happen",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "28e15f7d-b51b-4ba1-9805-70bd5d0ca347"
     },
-    "178.59": {
+    {
       "requestid": "78e93e1f-b684-46d7-a0fc-e92a7a58c9dc",
       "confidence": "0.6515054",
       "timestamp": 178.59,
       "content": "but that was one way that you can get escape from the wall either you run away or if you I will ask for your pin to let you go because in that again I couldn't make use of you",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "22ba923a-f916-4161-8102-f2db53dc9db3"
     },
-    "186.96": {
+    {
       "requestid": "b1096b79-ceb6-4925-8ce7-cde30eeb185c",
       "confidence": "0.6268857",
       "timestamp": 186.96,
       "content": "in it with donna I love to walk",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "02777589-10c6-4603-a360-9088a54fffef"
     },
-    "189.29": {
+    {
       "requestid": "0c85a44e-f986-4fc9-8ad7-8d5970a79967",
       "confidence": "0.8527174",
       "timestamp": 189.29,
       "content": "charles taylor's revell's prevailed and he took over the presidency of liberia for 6 years he was eventually convicted of war crimes and crimes against humanity now serving 15 years in a british prison",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5e25d7a1-6422-4bb4-b5ab-e3f2d5ba33d1"
     },
-    "202.22": {
+    {
       "requestid": "7e69305b-8203-474e-b9ca-20c9db41df92",
       "confidence": "0.8082775",
       "timestamp": 202.22,
       "content": "if you choose civil wars in more than a dozen years of on and off fighting laberia find me to get to settle down elections were held in the country tried to find a new normal but you had to deal with the fact that the generation with young men",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7d8f96f8-42e2-423a-98f2-fbe8f04317d1"
     },
-    "218.24": {
+    {
       "requestid": "461466a9-2597-4224-8241-811577993f07",
       "confidence": "0.6581054",
       "timestamp": 218.24,
       "content": "it really know it normal men",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4e5ba16c-1eb1-4698-878f-97f1bfe349a2"
     },
-    "220.05": {
+    {
       "requestid": "f147c946-da96-4b3e-8a02-cca41e3e96be",
       "confidence": "0.5696059",
       "timestamp": 220.05,
       "content": "does the problem that we face in liberia because of the number of josue does away with the wall injury in sunshine to normal community is a very serious issue",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "22889ce0-4d72-47f2-8c4c-7cb0573303f0"
     },
-    "231.76": {
+    {
       "requestid": "4ca8b00f-fa5b-4660-b6f1-dfe16f19b9ba",
       "confidence": "0.6736709",
       "timestamp": 231.76,
       "content": "letters are small country it's only been for many people",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "80ac135e-605f-4abf-ae1f-5ac080506b67"
     },
-    "236.93": {
+    {
       "requestid": "52294998-f2e5-4183-be93-dbe2f501d399",
       "confidence": "0.679719",
       "timestamp": 236.93,
       "content": "key is in a columnist in political find is the columbia university spent time in monrovia liberia's capital it's tropical",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f0ba2dfe-a18f-4b26-8087-651ebeb58966"
     },
-    "244.83": {
+    {
       "requestid": "f0525b13-4cfd-4076-8114-03720ff3ad6e",
       "confidence": "0.6725435",
       "timestamp": 244.83,
       "content": "when the rain is countries in the world so pictures city in the middle of a swamp in a jungle law for lake washington dc I except browndown rundown naktis by the go traffic through the window by the war in years of the klaine",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "3664fe81-638c-47df-b6e0-9cf6d7d9fb43"
     },
-    "260.53": {
+    {
       "requestid": "64e86a5c-4551-4bf3-90de-f56d84db8b0c",
       "confidence": "0.7420396",
       "timestamp": 260.53,
       "content": "blattman is essentially a development scholar in their forties particular attention to property and the associated violence work primarily in africa and as an advisor to the liberian government",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "dc6ce50f-c0b0-482b-bd23-3085fe5f5af2"
     },
-    "272.75": {
+    {
       "requestid": "648a9104-d94f-4b8b-87ad-76a7bb19fc60",
       "confidence": "0.7825397",
       "timestamp": 272.75,
       "content": "liberia has made gains since the wars but it's hardly flourishing gross national income per capita is $400 on the un human development index maderae ranks 170 fifth and 187 countries",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "647c24e4-2d66-4129-8a77-41d11617461c"
     },
-    "288.59": {
+    {
       "requestid": "59afcde3-0a83-4b20-a576-35645692c1e5",
       "confidence": "0.8691103",
       "timestamp": 288.59,
       "content": "adult literacy is below 50% life expectancy is only about 60",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "53070fd7-a67a-4b56-9310-7536d5f8abbe"
     },
-    "293.8": {
+    {
       "requestid": "733fe017-57f5-4526-a5da-704f123aac5b",
       "confidence": "0.8420677",
       "timestamp": 293.8,
       "content": "homicide rate is about 10 per 100 thousand people would just put that in context is about double new york city's but only a little more than half as bad as chicago",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ad6d1168-abcf-4d74-a03e-8c263f537ff6"
     },
-    "305.42": {
+    {
       "requestid": "38d054ea-61f9-44bc-b998-b436fcae97a8",
       "confidence": "0.7679093",
       "timestamp": 305.42,
       "content": "even so the us state department ranks the threat of robbery and political violence in liberia as high",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d5b4530b-c73e-4e4f-b9dc-2bc575bec04e"
     },
-    "312.86": {
+    {
       "requestid": "647ca038-9fe0-4052-84b9-39f7784f6521",
       "confidence": "0.8629826",
       "timestamp": 312.86,
       "content": "chris black men have tried the forecast when and where bylands me break out the problem it seems is an artifact of war",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "801d92e2-f029-4d3b-9e58-233073fb4874"
     },
-    "323.04": {
+    {
       "requestid": "f2908e90-8783-4ac7-a3ac-7c6f4a66cdf7",
       "confidence": "0.7679865",
       "timestamp": 323.04,
       "content": "the there is nobody who family was in touch by the war almost I'm sure every family fadanuf we had somebody involved in the war in some way most people really great very well with years after the war there's who knows what percent but some chunk of these young men were still doing really poorly so you have guys who have",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "9e349583-8061-4d01-974e-e3f151ad21dd"
     },
-    "341.72": {
+    {
       "requestid": "10f1def1-4c43-4360-8d86-0595d30eb8e0",
       "confidence": "0.7269269",
       "timestamp": 341.72,
       "content": "lived lives of island to heaven raina created some of whom were engaged in crime",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "75f2416a-3cc3-4ea1-9e6b-53f1220261e0"
     },
-    "347.02": {
+    {
       "requestid": "b7c62832-b995-4d4c-9808-df5440e44cc9",
       "confidence": "0.8084949",
       "timestamp": 347.02,
       "content": "johnson bore with seamus first and he was by now is mid twenties cute happened ypon a couple of humanitarian organizations and he been exposed to trauma healing and peace building and you got some training on how to work with troubled ex combatants who experience love the things he had",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "78126bfd-d0a4-4095-8aa4-a73eec4cccf1"
     },
-    "365.54": {
+    {
       "requestid": "00978d62-0625-45bb-bc51-4ab4afd7fe55",
       "confidence": "0.6113958",
       "timestamp": 365.54,
       "content": "so I will you sing dusken about skills do I do to get into the mix with the new kind of skills I've had to discourage him from going back to work because I will sit with you until I blow it like",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "026307e8-309c-4dd0-bc31-cb7a2063dbcc"
     },
-    "377.39": {
+    {
       "requestid": "7ca76a25-fd3d-4ad5-a271-c9fe9a673722",
       "confidence": "0.5612575",
       "timestamp": 377.39,
       "content": "acain off the wall was a fumble varaga people eating from a fashion to another in doing different part of the country that was how it works and people kept repeating castledawson wanna be so if I do that with that in the wall we try to discourage them and also spreading message to honor you for an awesome day today was not good",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "da8d0bf9-aafb-47a4-9f76-5c23823d3530"
     },
-    "396.38": {
+    {
       "requestid": "2e71d543-c0b3-4b82-9b18-a67223270d33",
       "confidence": "0.8550614",
       "timestamp": 396.38,
       "content": "in 2004 and another ex combatants started an organization called the network for empowerment in progressive initiative for nappy the idea was to help former soldiers in other young men who are in trouble or heading for trouble",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a15383b8-2fa7-4ea0-ac56-8b0ff982cf43"
     },
-    "411.45": {
+    {
       "requestid": "cff8a546-6106-4239-bf9e-eb602a98bf86",
       "confidence": "0.817982",
       "timestamp": 411.45,
       "content": "nappy partnered with larger international organizations in the conference in washington dc johnson 4 met chris blackman",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "668e9e1d-a853-449e-b158-1e6b85a4f6cc"
     },
-    "420.59": {
+    {
       "requestid": "9d3042d9-d8f6-4f75-abb1-cf5e699eaabb",
       "confidence": "0.7138472",
       "timestamp": 420.59,
       "content": "it sounded blattman is it pours nepi was having a dramatic impact on the liberians work with blattmann wind up working closely with poor and his colleagues in liberia so we can see from self exactly what they were doing",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4b0f7e80-60f9-4445-b2cf-204bc0b6cd6c"
     },
-    "435.06": {
+    {
       "requestid": "e8068015-48f4-4193-9eff-306d8ecb0666",
       "confidence": "0.5812362",
       "timestamp": 435.06,
       "content": "I think they stumbled someone accidentally onto cbt",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "3143b825-3fec-40ea-98a9-cd3d042bfb29"
     },
-    "439.62": {
+    {
       "requestid": "99ff5fbc-bd7a-4d19-ad0e-b810d8b5424c",
       "confidence": "0.7271903",
       "timestamp": 439.62,
       "content": "cbt or cognitive behavioral therapy is the form of psychotherapy that tries to teach behavior change without necessarily attacking underlying psychological root of that behavior",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "83eae7cd-4508-4f88-b785-495aff29d004"
     },
-    "452.08": {
+    {
       "requestid": "77d31cb1-9fbd-4ee3-beb1-376de4a4c91f",
       "confidence": "0.7570146",
       "timestamp": 452.08,
       "content": "the cobble together curricula from the us and who knows where in",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "10834aa9-aee2-44dc-aa1e-8d8f8bbeced6"
     },
-    "458.08": {
+    {
       "requestid": "3e9b6df8-90f6-465b-abd8-9f0b188f6d2f",
       "confidence": "0.7983837",
       "timestamp": 458.08,
       "content": "training manuals in this and that in their own experience is an experiment experiment to determine that all the time and when I met them almost 15:20 years after they left the war they had this program that seem to bring in these really outkast young man in one in",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "e160faa3-17b1-49a4-83a4-554b723a8484"
     },
-    "475.46": {
+    {
       "requestid": "29eba03b-dce1-4bbc-a291-8099e8c70b88",
       "confidence": "0.8370158",
       "timestamp": 475.46,
       "content": "and then with some probability spit out change people",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "9e15086f-4479-4d4a-972a-5bdfb33c454f"
     },
-    "479.13": {
+    {
       "requestid": "04758d4c-b089-46f4-afc6-c3667c9a4bee",
       "confidence": "0.7134843",
       "timestamp": 479.13,
       "content": "today I'm free can I mix radio what's the evidence that people truly can't change with something simple and cheap as cbt also what happens if besides the therapy bistro win cash incentive",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "33dc7464-ace0-42e2-9bda-7d80c37f8295"
     },
-    "493.15": {
+    {
       "requestid": "474e20bd-9568-4f51-b16c-14e4b6e3eac3",
       "confidence": "0.7979046",
       "timestamp": 493.15,
       "content": "and could the same kind of behavior insights be applied to domestic violence",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2bda32d5-19f2-4749-ab13-a49e069ce6b6"
     },
-    "499.85": {
+    {
       "requestid": "ff7a47b6-1dfd-4ead-8a63-1a35631596f9",
       "confidence": "0.7575901",
       "timestamp": 499.85,
       "content": "I think one woman in particular said I don't know what you've done with my husband but he's a change man",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "316b669b-0373-43c9-b097-ed6e9fc10065"
     },
-    "504.88": {
+    {
       "requestid": "0ab81330-9563-46c5-b989-a1420ce97464",
       "timestamp": 504.88,
-      "content": ""
+      "content": "",
+      "uuid": "eef8d0a8-19e1-4f04-9874-c35154ecb1ba"
     },
-    "513.56": {
+    {
       "requestid": "3ac5d307-bde1-4897-b90f-006d68db5f64",
       "confidence": "0.5456702",
       "timestamp": 513.56,
       "content": "from w nyc this is freakonomics radio podcast explorer side of everything",
-      "speaker": "S80"
+      "speaker": "S80",
+      "uuid": "a7bc1bda-366d-462a-bf1a-cd453cf126d9"
     },
-    "521.19": {
+    {
       "requestid": "4669edd3-051a-4aa4-81d8-2903083a84dc",
       "confidence": "0.2616639",
       "timestamp": 521.19,
       "content": "here's your help",
-      "speaker": "S80"
+      "speaker": "S80",
+      "uuid": "c14067d3-9e34-4113-a966-5c1e48fa9cea"
     },
-    "528.37": {
+    {
       "requestid": "7ad92b79-efce-4db2-8be1-98dbdd90b301",
       "confidence": "0.7694055",
       "timestamp": 528.37,
       "content": "in our previous episode we look at a couple programs in chicago that use cognitive behavioral therapy cbt to try to keep young men from committing crimes dropping out of school one them with called becoming a manor bam run by tony di vittorio",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "9d789f6c-cd86-486d-abdd-2fd468a70eee"
     },
-    "543.5": {
+    {
       "requestid": "3dd3a7ad-9c57-461b-9a55-d5a0876c15a9",
       "confidence": "0.79019",
       "timestamp": 543.5,
       "content": "I was working with these you to refer to me for anger issues cut in clash on after teachers would have you",
-      "speaker": "S85"
+      "speaker": "S85",
+      "uuid": "d3a4af82-97e9-493e-b1cf-2cc0d8ea1dca"
     },
-    "550.14": {
+    {
       "requestid": "553191b9-cad7-4d56-bf45-48388f908d3d",
       "confidence": "0.8584555",
       "timestamp": 550.14,
       "content": "a team of researchers from the university of chicago's crime lab coapexpan the programs and importantly they randomize the treatments are they could've valuate if it was effective",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "89fdfbe2-6218-48ea-8d87-5762beda11d7"
     },
-    "561.5": {
+    {
       "requestid": "3df21f77-59eb-4566-9a09-6fdcc48ca99b",
       "confidence": "0.6721591",
       "timestamp": 561.5,
       "content": "I think the first time that we saw these attacks we thought wow can this be right",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "f2b425e8-4448-4947-8e07-92b6559ba12b"
     },
-    "565.81": {
+    {
       "requestid": "c6d5a635-63ac-437c-ad67-0a229020e9e6",
       "confidence": "0.7206777",
       "timestamp": 565.81,
       "content": "criminologist sarah heller helped abali wait bam",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ceb99786-a680-4c20-9678-95d80d2399f9"
     },
-    "568.81": {
+    {
       "requestid": "28bf0c8b-1215-4edb-af09-2b1f6e8f30e7",
       "confidence": "0.7585775",
       "timestamp": 568.81,
       "content": "so the first year of bam least a 44% decline in violent crime arrest in a 36% decline in other nonviolent on property non drug arrests on we seen increase in school engagement that we think might end up eventually want the kids are old enough improving graduation rates by maybe 7 a 22%",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "1cc89080-ab02-41ac-bfa9-71a385d73f13"
     },
-    "588.32": {
+    {
       "requestid": "91436823-c60a-4410-873d-3134b2fef98c",
       "confidence": "0.7815015",
       "timestamp": 588.32,
       "content": "the reason cbt was affective heller and your colleagues argue is that it teaches people to stop and think about them haters in way that they really do",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "36bc141d-8a0f-4e34-a5f1-328db90acdc7"
     },
-    "597.08": {
+    {
       "requestid": "0252d2dc-60ed-482a-9a94-a6d48a19e8fc",
       "confidence": "0.6099915",
       "timestamp": 597.08,
       "content": "the basic theory resawn something that were calling automaticity or automatic payvar an automatic behavior something we all engage in all the time right <profanity>bitches</profanity> be hating without consciously thinking about it",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "f8f5b9b0-7d6d-4238-a82a-708a1d5cc1e3"
     },
-    "608.38": {
+    {
       "requestid": "dbf624a8-b7fb-4717-95f0-5cd48aac0820",
       "confidence": "0.8447772",
       "timestamp": 608.38,
       "content": "and then if done right cbt teaches people to disrupt those behaviors get some to reframe their perspective to think differently about the negative emotions and how to respond to them",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "e41c686e-cd38-4b2f-8437-b0b49a1dfad2"
     },
-    "621.28": {
+    {
       "requestid": "1afda185-6743-452d-a8dd-9144a1265f66",
       "confidence": "0.8186483",
       "timestamp": 621.28,
       "content": "but it seems as if the benefits of cbd are relatively short lived to be filled out after year to know is there hella point out this doesn't mean the therapy is it worthwhile",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5f428c76-d210-4476-b4a2-a67ace6706de"
     },
-    "632.33": {
+    {
       "requestid": "766f173e-a0dd-4ebd-81f8-bb169489ce0d",
       "confidence": "0.7022547",
       "timestamp": 632.33,
       "content": "so there's a way to reduce violent crime even for just a year at a pretty low cost we should do it",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "369cef20-b206-4491-91e7-764a13fe3313"
     },
-    "638.73": {
+    {
       "requestid": "1a626fc0-cf95-4922-99ae-d4c0fae6bfdc",
       "confidence": "0.8037937",
       "timestamp": 638.73,
       "content": "in the cost is relatively very low especially compared with some of the more traditional anti crime programmes",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5a275c21-1c7d-4c92-940d-43c3c4988478"
     },
-    "644.86": {
+    {
       "requestid": "c00f1770-016b-4e35-92d6-4fcc6323dd9c",
       "confidence": "0.7843065",
       "timestamp": 644.86,
       "content": "the governments tend to favor how do I do you sleep with it you know we would love the fact the last forever and so we're sort of working to figure out what combination of interventions and for how long I can help you fax last",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b3488e5b-68af-499c-9a95-d34a41fa56bf"
     },
-    "656.1": {
+    {
       "requestid": "61048134-abed-487e-ab23-15a482617acd",
       "confidence": "0.6220644",
       "timestamp": 656.1,
       "content": "one combination of interventions chicago programmed in tri CBT and",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d23fdeae-609c-425a-8068-06f7c8edb220"
     },
-    "663.91": {
+    {
       "requestid": "5bfe020c-9d6b-4c72-a3da-4c729c3cd9ed",
       "confidence": "0.7284497",
       "timestamp": 663.91,
       "content": "which brings back to my period did johnson board the former company commander in the rebel army",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "810e8806-f8f1-403c-b238-bc5672bcbf2c"
     },
-    "669.55": {
+    {
       "requestid": "30a31bf5-1cfa-4137-a088-0c144bb98f7c",
       "confidence": "0.6627861",
       "timestamp": 669.55,
       "content": "nepi the organization he help set up",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f3c5fe58-45e8-4ed2-9f7c-ed1fa49bcc45"
     },
-    "672.52": {
+    {
       "requestid": "04f6d007-2efc-417a-a9ca-421e7e8cf09d",
       "confidence": "0.7229779",
       "timestamp": 672.52,
       "content": "brother former fighters and to chris blackman the columbia researcher who is so impressed with nappy do you want to see it first hand",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "42930f87-69f6-4431-85f9-7e48a45c6643"
     },
-    "680.96": {
+    {
       "requestid": "34575fb0-2717-4e09-86df-5bb3d453de70",
       "confidence": "0.7513853",
       "timestamp": 680.96,
       "content": "over several years blatman went back and forth between us in liberia spending several weeks at a time in monrovia hyuna's collaborators julian jameson and other condiments in market sheridan a psychologist help 4 in his team refine their curriculum in responding",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "554fad44-a5fc-46fd-a344-bc9acf9c9238"
     },
-    "697.72": {
+    {
       "requestid": "fcaed965-4c59-41bd-9999-80a99f7953f1",
       "confidence": "0.7670286",
       "timestamp": 697.72,
       "content": "steve again recruiting young men who were known troublemakers",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1e7f302b-1e9f-4539-9971-45204afaf876"
     },
-    "701.78": {
+    {
       "requestid": "b5257f97-4b8d-4c8d-beb4-b4ddfa8f6eac",
       "confidence": "0.8221574",
       "timestamp": 701.78,
       "content": "and try to teach these men anger management and self control using the same kind of therapeutic and role playing exercises used by others ebt program like becoming a man in chicago",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d5a2383d-83b9-4484-ae9e-34bf8c7cd208"
     },
-    "713.15": {
+    {
       "requestid": "17b7df33-ccf3-465c-a6fb-7dba5768fbdb",
       "confidence": "0.7350076",
       "timestamp": 713.15,
       "content": "you know we have to be to your anger in it in a case for someone's trying to taper off your something nasty happens with somebody until 2 in so we might start in the classroom does the the very basic what's the baby step you take well now I'm gonna have you to stand up here in the u got in fulton",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "58aa4b64-1563-4f48-870d-d80ad4aa1f65"
     },
-    "729.51": {
+    {
       "requestid": "7e091394-99e5-410c-8488-a05daa92bfae",
       "confidence": "0.7601032",
       "timestamp": 729.51,
       "content": "write in the notes a joke and he comes up with some info never be lost without a real situation of anger but that the guy who is in fulton now have to come up with something else to say",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "a710d7e2-39bc-483b-ab0c-cbef22866e86"
     },
-    "739.35": {
+    {
       "requestid": "a73d73c0-3755-4c39-b87b-c4a47d8eb8aa",
       "confidence": "0.6909027",
       "timestamp": 739.35,
       "content": "it works when we gonna do you and will play how is not gonna react",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "816fc4c2-abe5-44d3-847a-bdf8f0c52949"
     },
-    "742.68": {
+    {
       "requestid": "6b05692a-3d58-49a2-a001-da676bdd1611",
       "confidence": "0.7997869",
       "timestamp": 742.68,
       "content": "when the group brainstorm ways to avoid confrontations defuse the situation they talk about what works what doesn't work",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "827cc1f0-0ba8-45b3-aa1b-f5b5309b649e"
     },
-    "749.89": {
+    {
       "requestid": "69563789-6cf7-4b10-9451-026787d7145b",
       "confidence": "0.8185531",
       "timestamp": 749.89,
       "content": "2 liters would also teach the former soldiers seemingly simple things I never learn to do good with bank buy food the supermarket",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f05458f2-aa08-429b-8a43-e48c33f59e64"
     },
-    "757.54": {
+    {
       "requestid": "c8bef343-b3f2-4921-81de-7344cdbb17ff",
       "confidence": "0.7497001",
       "timestamp": 757.54,
       "content": "lettmann said was important for these guys to change the self image to be able to see themselves as part of normal society rather than outkast",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "53d3337f-fcdb-41c2-a8f5-d3780b3ede1d"
     },
-    "765.63": {
+    {
       "requestid": "dd178349-e1c2-45ac-9ae5-d8e648d0e706",
       "confidence": "0.7070928",
       "timestamp": 765.63,
       "content": "so when you look at these guys do you haven't got it we recruited was dressed a little bit rattlin",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "501b85d1-c47d-4cb1-90b6-9b14974361ae"
     },
-    "773.39": {
+    {
       "requestid": "6a9e1fd4-1f50-4102-9341-2368fdb0bdb6",
       "confidence": "0.5054511",
       "timestamp": 773.39,
       "content": "bing hardcore gay hairy how do cardinality how to take the bob dylan at anything about is food and drugs",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "e5520340-b054-44d8-bcf1-446440c31bd2"
     },
-    "779.61": {
+    {
       "requestid": "95379526-3aef-4fad-9166-a47e2c5c6151",
       "confidence": "0.7367986",
       "timestamp": 779.61,
       "content": "in this guys know that feeling is babino the drug dealing is bad at least it's friday considers it a bad thing we know that tried using is considered bad if you don't disagree on what the moral principles are in society they just dona seely believe it that's their group quite that bad for you but that's not bad for guys like me",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "ed51c5ce-0c9e-424c-aa67-93e795f62440"
     },
-    "797.23": {
+    {
       "requestid": "28ebcc57-9fbe-4830-9dff-40378cb2e6b6",
       "confidence": "0.6790038",
       "timestamp": 797.23,
       "content": "into that was their image that was your self image into the goal is to actually get them to try thinking like mainstream society members",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "21052301-f6af-47ad-81ca-4b8b4da689d2"
     },
-    "804.33": {
+    {
       "requestid": "490f70cd-b0f0-44e2-b055-b64480953a43",
       "confidence": "0.8161476",
       "timestamp": 804.33,
       "content": "who is part of the program the men were encouraged to clean themselves up where queen close the program even offered free haircuts",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4ea2f82e-3235-465e-8af1-a8664dce64e2"
     },
-    "811.2": {
+    {
       "requestid": "a25e4db8-6379-4ab5-9e91-3f3cecfe61df",
       "confidence": "0.759632",
       "timestamp": 811.2,
       "content": "guy comes in with billy just a razor blade in the chair and will shave off your dresser that you're basically have a shaved head which is true respectable look in liberia",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "9edd7bf2-b3eb-4ad2-943e-c0cc3898295d"
     },
-    "820.21": {
+    {
       "requestid": "2699834a-acde-477a-849e-20a2d111780f",
       "confidence": "0.8024086",
       "timestamp": 820.21,
       "content": "what women want to learn was just how much a person self image could change at this point and how effective it would be to teach life skills to adult men self control for instance",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "683cc359-d22c-4c7c-ab30-c70dcc56cfe6"
     },
-    "830.41": {
+    {
       "requestid": "45036916-8cc6-4049-9799-5adb2816c28c",
       "confidence": "0.8422987",
       "timestamp": 830.41,
       "content": "there's been a lot of research on how self control developed in childhood like the famous marshmallow experiment by walking michelle young children were set in the room and offered one marshmallow take me right away or if they chose to wait 15 minutes alone in the room without eating a marshmallow",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2b7d4c9e-6229-4cc1-a0b0-24d65d236b2a"
     },
-    "848.43": {
+    {
       "requestid": "bf3922ea-759c-4000-b918-e9e6e604bd9c",
       "confidence": "0.7754351",
       "timestamp": 848.43,
       "content": "big y 2 marshmallows as a reward for their patients this audio is from a cbs news report",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "14d71bb7-fe7f-4649-8406-c79aa3610ad6"
     },
-    "854.92": {
+    {
       "requestid": "10634159-3140-4655-8444-8994390f4067",
       "confidence": "0.599791",
       "timestamp": 854.92,
       "content": "if you had to choose would you like to come",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "0f4bfa9e-f193-4ff6-a50c-12408d215eea"
     },
-    "861.09": {
+    {
       "requestid": "65f0fe36-73da-422b-92f8-a3a2b2be31d8",
       "confidence": "0.8101158",
       "timestamp": 861.09,
       "content": "and they look after 20 years it dies children's life it comes in they find it the one to display more self control is a preschooler even younger are a lot more self control associated with better job better pay less crime",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "577f34b8-4dfe-4b89-857a-f4046550e65b"
     },
-    "876.92": {
+    {
       "requestid": "8245988d-46e8-463e-85f0-aa8f1f39e7f1",
       "confidence": "0.7694956",
       "timestamp": 876.92,
       "content": "and when they've had program to try to build the skills foster the skirt are schools in very young children like in preschool doesn't have the big payoff in terms of less crime and better working happier lives later in life so",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "f4ad7580-e4e1-4c13-899a-a5bfce70cfd7"
     },
-    "891.8": {
+    {
       "requestid": "04f0dae7-6bf7-4777-867c-b8d8b9f76e72",
       "confidence": "0.8072174",
       "timestamp": 891.8,
       "content": "this is terrific we know this is really really valuable but I think there's been an assumption that adults are no longer malleable and we need to throw addleton to the bus and put all our social spending into preschoolers",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "8d199f8f-cde0-4277-8f23-2cfe54e8e9f9"
     },
-    "904.28": {
+    {
       "requestid": "e522e8cc-7a25-48d6-958d-8448abd25d94",
       "confidence": "0.7931769",
       "timestamp": 904.28,
       "content": "to have a better future generation road and save these guys can actually change",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "af2eab89-95f0-4002-ad3b-8d50efcf9843"
     },
-    "910.85": {
+    {
       "requestid": "83d0c6dd-7e27-4958-9e6f-d4801dadad74",
       "confidence": "0.7269026",
       "timestamp": 910.85,
       "content": "cbt programs in chicago truth remarkably effective with criminal inclined teenagers",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "508e66dd-d42f-4236-9884-4df6af8cd0a5"
     },
-    "917.27": {
+    {
       "requestid": "baae3dba-0490-497a-bce2-6a241f6d5218",
       "confidence": "0.7855771",
       "timestamp": 917.27,
       "content": "how would a similar program work with criminal inclined adult men in liberia to find out blattmann 4",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "91cc5541-4244-4179-91d4-45fa6553bcb9"
     },
-    "925.63": {
+    {
       "requestid": "e3544846-dee9-4791-8fcb-4f01000e1db5",
       "confidence": "0.7607207",
       "timestamp": 925.63,
       "content": "ender team set up a recurring if they approached 1500 men in monroe via age roughly 1535 who more less",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ad5129f5-3b1a-403b-a126-7f524de340ed"
     },
-    "934.57": {
+    {
       "requestid": "57adbd2e-615d-44ca-a905-4fc29570f513",
       "confidence": "0.7159261",
       "timestamp": 934.57,
       "content": "mdta being involved in criminal activity with known in liberia as the hustle blatman says this could include anything from",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3f74a5a0-95d6-4275-be88-bb250cc94e48"
     },
-    "942.09": {
+    {
       "requestid": "05c4be4b-2f6f-4879-a95d-65c3446c9a1e",
       "confidence": "0.735838",
       "timestamp": 942.09,
       "content": "pickpocketing in robbery to some other kind of scam often in combination with some legal ways to make money small jobs little farming in the 1500 min they approached I got about a thousand acres for the sake of the research blatman randomise them",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "dacdcdeb-b3ec-4c7f-85b0-46b17537b519"
     },
-    "957.76": {
+    {
       "requestid": "5162527a-1973-4e10-a8ab-726bd0ea0e6c",
       "confidence": "0.7366492",
       "timestamp": 957.76,
       "content": "I knew that there was gonna be a lottery then we explained it so you can get it so your not working fallover time is it foggy over here because you wanna see how this works out and so you gonna play with a call lucky ticket in liberia",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "945fba59-edd0-4aa9-9ad8-c333df9232ec"
     },
-    "969.3": {
+    {
       "requestid": "0c88ed75-57ee-45d0-9f0c-1ae08ce491e5",
       "confidence": "0.7688421",
       "timestamp": 969.3,
       "content": "blattman also want to try another element that the chicago resorters didn't use the cash incentive something for dispensing study would be given $200 now in liberia $20 goes a long way",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "e6a120d2-c34f-4d55-93d5-44b8a6b5b5ae"
     },
-    "981.25": {
+    {
       "requestid": "138035d2-7133-4de9-9497-b82116c36ff2",
       "confidence": "0.6387233",
       "timestamp": 981.25,
       "content": "20 bucks is about 3 or 4 months of what they could learn from their so called hustle so do you think of it like for months wages",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "3fb34319-d7aa-4aea-a7fb-c87afaa12eec"
     },
-    "989.47": {
+    {
       "requestid": "4e012ab7-b9f9-439d-93aa-894e80bd8dfd",
       "confidence": "0.8142773",
       "timestamp": 989.47,
       "content": "and we do for 2 reasons the first cash was actually way to measure a change in behavior to be a few more self disciplined for more persevered for more self control as a result of this therapy maybe we'll see it show up in your spending maybe are more likely to spend it on small business in less likely to spend it on",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "ec47c84b-e86d-4d50-bba4-b87f2ef84e27"
     },
-    "1008.49": {
+    {
       "requestid": "cb6a53c1-1122-4fb9-8447-23438655b789",
       "confidence": "0.6470719",
       "timestamp": 1008.49,
       "content": "booze or a meal in the market",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "cf297375-c85f-47c2-9f27-e5494f70b57c"
     },
-    "1011.25": {
+    {
       "requestid": "9cb1119c-9e84-4b1b-8855-c968ef0dfa7b",
       "confidence": "0.8347625",
       "timestamp": 1011.25,
       "content": "that money most of which by the way is provided by american or other western 8 agencies in foundations it could also be used as investment capital",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4d295732-f24f-45bf-97f8-03b75a05e3d7"
     },
-    "1020.16": {
+    {
       "requestid": "e4db78c5-41b2-429a-a53f-2ec768ecfc3a",
       "confidence": "0.8162102",
       "timestamp": 1020.16,
       "content": "now you can buy a bunch of scrap cards in silver you can buy things in bulk in fellated higher profit now you can have a little shoe shine kit",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "c36a2db6-527e-42c1-a15f-268548f6847a"
     },
-    "1028.4": {
+    {
       "requestid": "41d7300b-5294-4136-a66a-f28a1a9a52e5",
       "confidence": "0.8168912",
       "timestamp": 1028.4,
       "content": "figures of the family setup of the roughly 1000 men who are recruited one quarter of them too and 50 will get any help at all day become a control group another quarter of them and we get cbd one quarter we get cbt and that will be all",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2675b178-aa19-46a7-a6d7-48d96b12f7d7"
     },
-    "1043.79": {
+    {
       "requestid": "b8d0116b-7af7-4718-a9b1-2b7ebe2e0de9",
       "confidence": "0.652114",
       "timestamp": 1043.79,
       "content": "cash milavec oarsmen would get just the 20 dollars cash that way blattmann could measure which of the treatments if any were effective johnson bore was among the first to see the results the result of very much remarkable it was very successful",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "7ae78c6f-be3d-40f0-bbe7-ecabf0da1c97"
     },
-    "1063.39": {
+    {
       "requestid": "9501d18d-07a0-4a8c-a745-66b16dc32d66",
       "confidence": "0.6830596",
       "timestamp": 1063.39,
       "content": "criminal behavior feltham stansly mungall 3 treatment groups",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ab440111-a0f0-4270-b3f4-1c2d016c6a4a"
     },
-    "1067.01": {
+    {
       "requestid": "48653e1a-1327-4040-97a9-691fd97e9838",
       "confidence": "0.7624664",
       "timestamp": 1067.01,
       "content": "if you got the cash or she got there before she got both within a month",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "2489b337-70cd-404f-8151-32a9f58fcd97"
     },
-    "1071.29": {
+    {
       "requestid": "15915818-806f-4b59-adc3-99537392af7a",
       "confidence": "0.8050587",
       "timestamp": 1071.29,
       "content": "you had shape up your cleaning a lot less crime so you're going to the boat out one time a week to africa a week that such a thing and you are less likely to be aggressive you are less likely to be selling drugs by about half",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "9b357647-e1f1-4926-84a7-f0773780c285"
     },
-    "1087.18": {
+    {
       "requestid": "54a13af8-c648-4be8-abfd-53df7bd6d3b7",
       "confidence": "0.8393591",
       "timestamp": 1087.18,
       "content": "so 20% of a control group I believe is selling drugs in that was about 10% sure she went to treatment",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "68847962-00c5-4c82-b7c3-a2d3124aea7a"
     },
-    "1093.75": {
+    {
       "requestid": "8f9d354b-0724-41fc-9de4-b3f194937a73",
       "confidence": "0.7900355",
       "timestamp": 1093.75,
       "content": "now you might argue that if you've just been given $200 gablettes need to sell drugs but still these were the results after one month with the results look like after one year it turns out that the effects had diminished after year for the men receive just therapy or just cash but",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "544a49fe-c692-40a0-ba4e-b01f731f6804"
     },
-    "1112.23": {
+    {
       "requestid": "d8a0d56d-69ae-4ce0-8590-250c578d4fd3",
       "confidence": "0.7323166",
       "timestamp": 1112.23,
       "content": "men received both therapy in cash we still doing much better",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4cc3f478-a56b-41ae-bcae-d48072d05b96"
     },
-    "1116.41": {
+    {
       "requestid": "af313a23-3c2a-4d00-8cbc-d6fad80ae4db",
       "confidence": "0.7884218",
       "timestamp": 1116.41,
       "content": "in what we found is that these changes in their crime and all the things we collect social behaviors like aggression in cheating and things of this nature and everyday weiland's those are still down a lot by boat 40 are 50% in the groups that are see both cash in therapy",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "a749d6c8-647e-4ac9-9c5d-57251194e9d9"
     },
-    "1131.95": {
+    {
       "requestid": "78e50fb1-e0aa-4282-a085-fd2bab8a4ae9",
       "confidence": "0.7747888",
       "timestamp": 1131.95,
       "content": "as weapons affected receiving a big cash infusion at 7 AM and start up small businesses",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "cc63d14c-fe31-4ff9-83ec-2906f5c71fc8"
     },
-    "1138.03": {
+    {
       "requestid": "e2a263ff-5172-4c4f-8d45-bf1364096bca",
       "confidence": "0.7721129",
       "timestamp": 1138.03,
       "content": "the guy made the most money went out of town to distillery bought a giant barrel of some kind of alcohol came back and then sold it by the couple in mid killing",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "432739a2-7c29-49cf-9bb1-d004cf5b2fea"
     },
-    "1149.24": {
+    {
       "requestid": "0ed5859e-c605-4f94-8358-f61e5d00e2ff",
       "confidence": "0.774874",
       "timestamp": 1149.24,
       "content": "india latin point out all the men receive cash weather with therapy or without and lost all of it one reason is that robbery and burglary a pretty common in liberia lapindo office in munro b was broken into new computers were stolen",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7ca54da0-0518-4341-a996-abdfe4c0facc"
     },
-    "1164.8": {
+    {
       "requestid": "b54a3f64-1d94-49fe-8080-d6a38fbeb952",
       "confidence": "0.7866802",
       "timestamp": 1164.8,
       "content": "but as blatman interprets the data from the study even if men lost their money they were still better off because they got to adjust are self image",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "20077a1b-fb6b-4e25-a275-d0704f0e5a87"
     },
-    "1174.9": {
+    {
       "requestid": "740438c2-673a-4e1e-a5e4-ffd532bec9f6",
       "confidence": "0.6538842",
       "timestamp": 1174.9,
       "content": "cbt is about practice to the guys about the cash",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "f8bd4d10-6977-4dc4-9258-5ccd392a6cce"
     },
-    "1178.71": {
+    {
       "requestid": "69add796-540e-4bd3-922c-ef6e5059c153",
       "confidence": "0.831723",
       "timestamp": 1178.71,
       "content": "got to practice being a businessman had to put",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "a84cc276-ef79-4845-905f-3ee6fb53444d"
     },
-    "1182.4": {
+    {
       "requestid": "d37ec1b6-a378-4e26-a96e-028b759a4234",
       "confidence": "0.733767",
       "timestamp": 1182.4,
       "content": "self control and action by making self control decisions that money reinvesting profits we got to pier them cells in the community like normal people members of society in so even after that was stored away from them after few months it's like maybe next raider 12 weeks of practice babyfoot doubling the amount of their feet ahead",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "f2c99095-6734-43a7-b5d5-c6be06c70a0e"
     },
-    "1201.44": {
+    {
       "requestid": "2a954af5-c7ef-4dac-939b-db551c636a1f",
       "confidence": "0.8345991",
       "timestamp": 1201.44,
       "content": "blattman believes this is ground breaking territory",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "89763975-80b3-4749-8d9e-91230372bf0c"
     },
-    "1204.9": {
+    {
       "requestid": "4e4ee987-7c73-4eff-89f2-82d61a4018d4",
       "confidence": "0.7306176",
       "timestamp": 1204.9,
       "content": "we think this is the first time anyone that writing like this in a while because your list of all fradelle stay with this kind of population",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "a8721d30-6e03-4edc-90eb-7cdf5be18d69"
     },
-    "1213.88": {
+    {
       "requestid": "a5021a1e-af69-4fa8-b8f1-72947df1eb3b",
       "confidence": "0.6638258",
       "timestamp": 1213.88,
       "content": "one major caveat is that study relies on self reported data which we've repeatedly warned you wanna show to be lyrio",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c2958b81-1d66-4942-b1b2-de2574d65d19"
     },
-    "1222.42": {
+    {
       "requestid": "8041b3ad-965e-441a-93c6-05cecf078831",
       "confidence": "0.8160039",
       "timestamp": 1222.42,
       "content": "in this case the participants simply told researchers weather dade committed a crime are use drugs in what they spend their money on indeed blatman was worried the subjects were just telling the researchers what they wanted to hear",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1858139d-bd5d-48d0-84f0-f896b1adfaa3"
     },
-    "1237.43": {
+    {
       "requestid": "93969041-5460-4540-9745-ebde8b044daa",
       "confidence": "0.5410851",
       "timestamp": 1237.43,
       "content": "will be for sally's real quick but no way this is too big we don't believe in onosaka nabieva",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "2883740e-7732-4995-b788-0105f9418865"
     },
-    "1242.94": {
+    {
       "requestid": "04af5be2-53ca-4f4e-85ba-38c7292b1191",
       "confidence": "0.7779147",
       "timestamp": 1242.94,
       "content": "so as a precaution lettmann set up a ballad ation group researchers falater ounce of the subject roughly one in 12 of the men who are enrolled",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "bd4d8edf-741d-4069-98dc-0044bf10bd91"
     },
-    "1252.16": {
+    {
       "requestid": "a010f1ea-ca1a-46d5-ab44-4e10e6d1eeae",
       "confidence": "0.8348721",
       "timestamp": 1252.16,
       "content": "bing hang out for several days talk with the friends and family lettmann says they can see no difference between what the men had told the researchers in what they actually did which of course makes it easier to believe the data on the men who weren't followed",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a014c9ac-6fd9-4af9-8918-bbb946fb2d83"
     },
-    "1266.65": {
+    {
       "requestid": "daa55253-3721-4bd2-a32b-961df0b2e9ed",
       "confidence": "0.8167003",
       "timestamp": 1266.65,
       "content": "blattman also point out that but we generally considered a more concrete form of data arrest records from chicago for instance",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "458a8ab4-7173-49c5-91ab-69d41b25a440"
     },
-    "1276.1": {
+    {
       "requestid": "066b5c48-38f1-464f-8e2f-c2648a34a4da",
       "confidence": "0.7192571",
       "timestamp": 1276.1,
       "content": "often exist in the sort of grey zone",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "65b86ac4-8a37-4640-b391-17e5627a80ab"
     },
-    "1279.18": {
+    {
       "requestid": "e516dd96-3619-4b03-9e6a-b3727b7cc802",
       "confidence": "0.7283701",
       "timestamp": 1279.18,
       "content": "this is true any crime study zone us we go we feel better we ever esteta but I think the one thing maybe events of the last year in the us really brought to mind is actually big ice arrested in that is in the ceiling mean you committed a crime",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "0e717586-d9df-4616-a208-3c9f6d6b0194"
     },
-    "1292.8": {
+    {
       "requestid": "428d6ac2-22c9-43d2-98b5-e8d9599479ef",
       "confidence": "0.7441953",
       "timestamp": 1292.8,
       "content": "I might mean you looked like the wrong kinda person so you can't believe that data and you can't believe our data they might just be telling us what we wanna hear so always take all of you think of the green assault we are very cautious but",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "1a98b059-9a83-4b1d-9432-00fd8d5f6609"
     },
-    "1306.83": {
+    {
       "requestid": "38537977-1b3a-4f03-88fc-d9cf8cc5a726",
       "confidence": "0.6722574",
       "timestamp": 1306.83,
       "content": "yes these guys multiple times billy released because then we went to me like hung out with him for as long as we can see we could without it but feeling really really weird sound no sense that anything was amiss with what we're learning",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "2be7ca2c-9989-466b-9e5d-23d4818ee399"
     },
-    "1321.06": {
+    {
       "requestid": "096dda41-9b4c-4698-a272-eb670eb0f443",
       "confidence": "0.8058907",
       "timestamp": 1321.06,
       "content": "and again even if the liberian study was half as effective as it was at twice the price it still be pretty cheap cost about $500 per person",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ff307296-301e-44d0-90e3-7625a2ee1b2e"
     },
-    "1333.44": {
+    {
       "requestid": "323755c8-69eb-4741-a0fe-66af11c03e5d",
       "confidence": "0.7577565",
       "timestamp": 1333.44,
       "content": "$500 per person is for both programs with therapy and cash is a bargain compared to most welcome programs so whenever skills training program ushli casa thousand and $2000 um",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "214f0908-5762-4956-ac22-c226d66e2419"
     },
-    "1347.66": {
+    {
       "requestid": "5005bc8a-2a2b-42b6-bc7e-ff25aa69b024",
       "confidence": "0.7425947",
       "timestamp": 1347.66,
       "content": "near me to think of it is you know we suck ryan's drop by boat gopher make 50 grams per person 25 times for person so this is basically $20 a crime",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "ff02704a-1a94-4ee7-9d5b-86343988ba5d"
     },
-    "1356.09": {
+    {
       "requestid": "9ab27427-ab4b-4d4c-a8b7-c71b3df146c4",
       "confidence": "0.7468473",
       "timestamp": 1356.09,
       "content": "so if what they were stealing anytime is worth $20 or more on average than society sexy better off before even think about that changes in the skies other aspects of their lives like butts aggression with silent",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "99b4844b-bd50-43c7-b3f0-b02ef7f4061a"
     },
-    "1368.09": {
+    {
       "requestid": "58cc60f0-1f75-41e4-a12d-aaedb03cee4e",
       "confidence": "0.7887185",
       "timestamp": 1368.09,
       "content": "even though bc bt studies in liberia in chicago a relatively tiny chris blackman believes it's time to consider cbt as a valuable tool in preventing crime specially if as in both the library in chicago cases you can target the biggest troublemakers you can find",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d0956920-ac26-4cc5-8584-afd601694b70"
     },
-    "1387.57": {
+    {
       "requestid": "fe2b7c78-1d3f-4e22-a927-fa94221b6fbf",
       "confidence": "0.7854732",
       "timestamp": 1387.57,
       "content": "we have evidence from chicago and we have evidence from liberia and have evidence of a lot of incarceration another texans tutions in the us",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "c7133c33-ea83-4e6f-b637-b15d1be1dcc9"
     },
-    "1396.78": {
+    {
       "requestid": "83a2c2e3-70e9-4466-83d9-74439119e2ab",
       "confidence": "0.8297334",
       "timestamp": 1396.78,
       "content": "so that's not enough to say let's do this everywhere but it actually looks a lot better than a lot of things we do and it fits with the way to call just think about human beings are presten everywhere so we think we should try this a couple more places before going gangbusters and going up in which is our plan",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "d53fb2b6-2089-4aea-83b6-b6a3d75b8ec3"
     },
-    "1413.33": {
+    {
       "requestid": "302dba50-fad0-4bd2-9ae9-b20b041906ee",
       "confidence": "0.7676002",
       "timestamp": 1413.33,
       "content": "but I'm optimistic this has water potential for those tanner 20 are 30,000 hayce kristmann in any given urban center",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "c7f2abbf-563d-4b5a-93f7-5bf6992cb342"
     },
-    "1422.76": {
+    {
       "requestid": "bc06d0c3-0bd4-4678-a086-fb13b4df53cf",
       "confidence": "0.9478033",
       "timestamp": 1422.76,
       "content": "coming up after the break",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "24e579d0-ab67-4dbb-9a68-de27655a8919"
     },
-    "1424.5": {
+    {
       "requestid": "0b62bf5a-43d5-4444-90d9-6146ca317257",
       "confidence": "0.752885",
       "timestamp": 1424.5,
       "content": "cbt is not the only new idea being used try to prevent crime what might happen if for instance you write a simple message on a wall",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7f3832a2-097a-4679-922e-93e858bc4e18"
     },
-    "1435.08": {
+    {
       "requestid": "2a605822-a768-442d-be5c-7a98d00cdf7f",
       "confidence": "0.7534373",
       "timestamp": 1435.08,
       "content": "do people wind up in the police holding cell",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fb6b0e39-cc97-4a32-8d1e-4a6a34d67abb"
     },
-    "1436.97": {
+    {
       "requestid": "f0f8d6bb-d0f6-41a2-9511-854fbcc6575d",
       "confidence": "0.7246785",
       "timestamp": 1436.97,
       "content": "when you have literally a captive audience to be right message which might help in offender think tiffany about what they've done in about who they are",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "e4943823-646b-4d03-bfa2-4a2c01ceeaee"
     },
-    "1446.12": {
+    {
       "requestid": "6abfb0b2-2df2-4e3d-9a52-7acdc046ca53",
       "confidence": "0.7272218",
       "timestamp": 1446.12,
       "content": "and you're enjoying this podcast is bubba just go ahead and subscribe to it on itunes or wherever you get podcasts can also helps out by reidinger if you are give me to reading my personal favourite is 5 star rating in the rave review but you know your results may vary don't find more freakonomics stuff",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ea83579b-ef75-4e0c-8e45-b034d6dea143"
     },
-    "1465.59": {
+    {
       "requestid": "b2d47288-c361-4fb5-9c69-858bbbc35f10",
       "confidence": "0.680081",
       "timestamp": 1465.59,
       "content": "brivefreakonomics.com",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7d310419-690f-4532-a6bb-a5f154a5e986"
     },
-    "1468.32": {
+    {
       "requestid": "6e9d3b1a-f42e-4c33-9650-60e05601e40c",
       "timestamp": 1468.32,
-      "content": ""
+      "content": "",
+      "uuid": "d936fec8-7d5b-4945-973a-6f65007ac4dc"
     },
-    "1478.89": {
+    {
       "requestid": "18a688b9-8162-46ca-b18b-45b2cb3ef3e3",
       "confidence": "0.833065",
       "timestamp": 1478.89,
       "content": "freakonomics radio is supported by square space supporting outliers in independent thinkers since 2004 with elegant personal templates in a powerful interface allows you to customize your layout it's never been easier to create a beautiful space for your ideas online squarespace also offer 24/7 customer support at no extra cost",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "82bdbed1-deb2-4644-ad9a-e11b7170b81d"
     },
-    "1498.39": {
+    {
       "requestid": "a94f152b-e397-42af-815b-220612dab1f4",
       "confidence": "0.902991",
       "timestamp": 1498.39,
       "content": "for free trial and 10 percent off visit square space.com slash freak",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f0e1401a-d18d-4ad9-9dd0-06d6be7adfa1"
     },
-    "1503.53": {
+    {
       "requestid": "529504a0-9b54-4755-a29c-328d5626588a",
       "timestamp": 1503.53,
-      "content": ""
+      "content": "",
+      "uuid": "6985179d-3e8e-4fcb-a300-39f0e77a0bb3"
     },
-    "1505.78": {
+    {
       "requestid": "730a2747-fdf2-4c3f-a561-d1e8cf18623f",
       "confidence": "0.7560553",
       "timestamp": 1505.78,
       "content": "if you have listened even a handful of our previous episodes you know we are fond of discussing clebert simple solutions that are built on a purely scientific understanding human behavior",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "6d65d130-4852-4bdf-9df5-ed59a94c702c"
     },
-    "1518.08": {
+    {
       "requestid": "9e117699-f3c8-425f-aac8-c0a3bcb0131d",
       "confidence": "0.7229838",
       "timestamp": 1518.08,
       "content": "in most cases that means we patrolled periphery's of academia be private industry but occasionally you run across the government",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c4178763-a4f0-422c-be0e-b0b318afd8d2"
     },
-    "1526.7": {
+    {
       "requestid": "f70d4361-8287-457f-8259-fef40f7d5333",
       "confidence": "0.4502518",
       "timestamp": 1526.7,
       "content": "fort least common unit",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5fcae54a-e7f9-4d31-83af-6da8125c8e40"
     },
-    "1528.38": {
+    {
       "requestid": "5934d783-f092-4f28-82d2-679bc532daf7",
       "confidence": "0.5431532",
       "timestamp": 1528.38,
       "content": "that also believes in such behavior insights will make a call to do you know",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b888d9ae-c167-4680-be51-21d5bf31d746"
     },
-    "1533.61": {
+    {
       "requestid": "0b30fb1f-3937-479b-ab65-bf8783952747",
       "confidence": "0.4528359",
       "timestamp": 1533.61,
       "content": "about the people in sight steam",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c32ea323-ffd7-4834-a683-0d049660f468"
     },
-    "1536.86": {
+    {
       "requestid": "1b625255-fc30-4327-a062-d0c8f3649df4",
       "confidence": "0.6509109",
       "timestamp": 1536.86,
       "content": "that's with the go by in the uk wear a group of scholars another couple people been working for several years now on injecting behavioral science into public house you may have heard mention of april in 16 in the pastor also known",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fff9984d-e5b9-476a-a4bb-d5eba95a9bc8"
     },
-    "1550.48": {
+    {
       "requestid": "c675838f-e30e-4a5a-8bff-68c864dd3fb3",
       "confidence": "0.716781",
       "timestamp": 1550.48,
       "content": "nudgee unit after the book knowledge by richard sale in cass sunstein it has become a bit of a bible in how he broke tricks for nudges can help a government increase the rate of pension take up showing up for court",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2aa18003-d023-468f-bae6-1534f47dd4d2"
     },
-    "1566.0": {
+    {
       "requestid": "ac775df4-634d-49a4-b34e-cf01ba611f81",
       "confidence": "0.5933446",
       "timestamp": 1566.0,
       "content": "old in the nation irecruit minnesota's to the army",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "0f9b6c88-25da-46d0-80b1-9042bc4a5d74"
     },
-    "1569.7": {
+    {
       "requestid": "76c853ab-e4b7-48a3-a078-6af63e6111e5",
       "confidence": "0.7678842",
       "timestamp": 1569.7,
       "content": "if I'm in buda ki is head of home affairs security in international development for the bagel in 16",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "87e9a217-42ca-4863-b514-bebf5390fad6"
     },
-    "1576.91": {
+    {
       "requestid": "32d5e0b1-04fa-42de-91bb-08285b778422",
       "confidence": "0.8321755",
       "timestamp": 1576.91,
       "content": "and the remit of the team is ready to investigate how some of the nascent findings in the fields of paper economics and experimental psychology could be applied to public policy making in the broadest perspective to see how we could deliver better results for the country",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "53434810-0941-4edf-8159-00bdeee391c5"
     },
-    "1595.23": {
+    {
       "requestid": "be228bb4-d9bd-4fcd-9e41-cfb1973f01bf",
       "confidence": "0.7448027",
       "timestamp": 1595.23,
       "content": "you know that unit was personally cheered on by prime minister david cameron and with set up principally within the walls of number 10 with a lot of skepticism from british lawmakers the media general public",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fee17888-44a3-4fc3-b1e9-1549b92861ad"
     },
-    "1607.23": {
+    {
       "requestid": "175124c9-0972-454f-b552-8ed18434b2a8",
       "confidence": "0.7763903",
       "timestamp": 1607.23,
       "content": "but what became apparent quite quickly was that we were able to demonstrate robust impacts of the work that we did surprising everybody because we still quite big positive impact positive gains from reasonably low cost interventions",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "76263962-f31a-48e8-9264-6000351eea94"
     },
-    "1624.64": {
+    {
       "requestid": "425f6845-f591-4ec3-a26a-303cc0a7f3c1",
       "confidence": "0.8852428",
       "timestamp": 1624.64,
       "content": "one of the early big wins had to do with tax compliance",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "8dca096b-e766-463f-8103-a2619bf45c20"
     },
-    "1628.05": {
+    {
       "requestid": "eadaab17-a7a5-4fdd-a08f-d3c20e1e322d",
       "confidence": "0.81495",
       "timestamp": 1628.05,
       "content": "we demonstrated that making really small and simple changes to the way tax letters written text matt is it reminded people that they owe tax to the government significantly increased the speed at which people repaid the texas",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "abff6609-2c13-4fdc-9437-cb823889bfd1"
     },
-    "1642.84": {
+    {
       "requestid": "ab8ac4eb-a0b8-448f-a186-5abcd9cf7f8b",
       "confidence": "0.7419077",
       "timestamp": 1642.84,
       "content": "for instance based on the knowledge that herd mentality is very prominent among us humans in a june and it's very simple language do these letters in red",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2297d8e8-4456-4815-8ded-eceb86dbcc9c"
     },
-    "1652.1": {
+    {
       "requestid": "74fbca5f-1761-49ad-b946-4f056cca31c3",
       "confidence": "0.8420211",
       "timestamp": 1652.1,
       "content": "9 out of 10 people in the uk have already paid the taxes you're one of the few people who haven't that leads to a significant increase in people panghat texas",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "ed98dcb2-f7ef-42b8-bb44-bba419f1d698"
     },
-    "1664.07": {
+    {
       "requestid": "087ce6c8-6d76-4908-89cc-82fbf178a00c",
       "confidence": "0.716212",
       "timestamp": 1664.07,
       "content": "me when we get into the little bit more we see the different messages have different effects of people who have different amounts of money so for example if you tell an average population that actually pays taxes are important as they pay for road schools etc it doesn't make that much difference in fact I don't think we found a significant impact tool",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "fb18943c-94ef-4dcc-8669-ea8f9eed8713"
     },
-    "1681.38": {
+    {
       "requestid": "4d7e57ba-cf5c-4f27-be79-436c0d481bf5",
       "confidence": "0.8048812",
       "timestamp": 1681.38,
       "content": "before people with that survive a 30,000 pounds in makes a big impact",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "2292c9c0-9070-4a04-84ed-8706df58929a"
     },
-    "1685.46": {
+    {
       "requestid": "76797e0a-8005-42be-81c7-8ca2a868a667",
       "confidence": "0.7067314",
       "timestamp": 1685.46,
       "content": "people inside steam has since become a private company with as it says social purpose that would support me on by the british government",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ec717a2b-d086-4eba-b69f-02edb840ef36"
     },
-    "1693.36": {
+    {
       "requestid": "13585b64-a0b8-494f-be4a-4190347be983",
       "confidence": "0.8413514",
       "timestamp": 1693.36,
       "content": "it is even establish satellite units in sydney in the summer in new york",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c5683002-5c8d-4539-a3c6-5a9d3d2d9cfc"
     },
-    "1698.55": {
+    {
       "requestid": "8650b114-9023-4437-ac27-fc7a6828bcca",
       "confidence": "0.7338712",
       "timestamp": 1698.55,
       "content": "when we were chatting with simon rudaux we have time if you knew of any good work being done using people in sites to reduce crime as we've been exploring in liberia in chicago he mentioned a british anti domestic violence africa project carca were questioning against relationship abuse",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "90182c5e-a239-4518-95d8-a043681028f4"
     },
-    "1717.65": {
+    {
       "requestid": "49885395-cb67-48b3-81f2-be4007d30b90",
       "confidence": "0.7874033",
       "timestamp": 1717.65,
       "content": "it's built on the recognition that not all act of domestic violence are the same",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "098c00ab-4407-44d0-aaf7-14c7b9ac3e68"
     },
-    "1722.77": {
+    {
       "requestid": "012a8390-4858-4bf8-b180-9cd6650a2cfe",
       "confidence": "0.7056197",
       "timestamp": 1722.77,
       "content": "the kind of domestic abuse domestic violence that attracts a lot of public attention that that of course it gives rise to the greatest concern by faith police and the public at large is actually a relatively rare phenomenon",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "bf48ae7c-20cc-4afd-bb1e-e9172e4f3d0c"
     },
-    "1741.7": {
+    {
       "requestid": "6cc105f7-d345-45c1-9c15-19685f0e4fda",
       "confidence": "0.7592737",
       "timestamp": 1741.7,
       "content": "but other string cheese research director at cambridge university's institute of criminology",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a69f67a6-bd57-4fd5-bb33-6f488c2b3b2c"
     },
-    "1747.01": {
+    {
       "requestid": "a3a17228-ae05-4609-81a1-f286414fffcc",
       "confidence": "0.648025",
       "timestamp": 1747.01,
       "content": "andy around apps 2% of all cases of domestic abuse domestic violence that comes to please attention is at that honey ham high frequency level",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "69b123fc-41c7-491a-98a8-b600abd6ca62"
     },
-    "1760.87": {
+    {
       "requestid": "8b37cf74-3be2-4462-99c4-78d1748dd67b",
       "confidence": "0.6917093",
       "timestamp": 1760.87,
       "content": "meanwhile in 80% of domestic abuse arrests are for with sprinkles the low level of abuse",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1383bfbc-8cd1-4abc-83dd-1155e63f42e5"
     },
-    "1767.46": {
+    {
       "requestid": "9bf374c6-d7e3-4813-91a9-065c0b4b002f",
       "confidence": "0.6164234",
       "timestamp": 1767.46,
       "content": "in about half of those cases indeed there is no physical violence a tool and nothing in fact to charge an offender about",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "b4091e45-3df1-4a9f-939e-1529d938f55b"
     },
-    "1777.36": {
+    {
       "requestid": "41687086-a1e7-409a-95c2-fc7c8e9e08c7",
       "confidence": "0.6472989",
       "timestamp": 1777.36,
       "content": "so we know that there is still a lot of misery an alarm com association with those lower level incident and of course a huge mind please jesus is expended on those cases",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "072ba0db-7a73-48b3-8a7b-de4f04585ba8"
     },
-    "1791.6": {
+    {
       "requestid": "32ea57b4-5f92-4352-b278-72547971be58",
       "confidence": "0.7915058",
       "timestamp": 1791.6,
       "content": "the springs points at the criminal justice system that ended to not make that distinction when responding to domestic abuse calls",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "67af02c0-c90e-4713-9607-54e54338450d"
     },
-    "1798.7": {
+    {
       "requestid": "2f5c5ace-180b-4249-855c-1089409ab073",
       "confidence": "0.815652",
       "timestamp": 1798.7,
       "content": "it's important to understand when victims cool",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "dcf08bed-53ff-4a27-a57d-a3adc4204569"
     },
-    "1801.9": {
+    {
       "requestid": "5ef377b5-81c8-4645-97df-7171317ba409",
       "confidence": "0.8053898",
       "timestamp": 1801.9,
       "content": "please in relation to domestic incident",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "bb3e1871-7e27-4649-912c-9dd3c7f0ee18"
     },
-    "1805.17": {
+    {
       "requestid": "9f3bacdf-5331-495a-afa6-18585bc50043",
       "confidence": "0.6278939",
       "timestamp": 1805.17,
       "content": "what is it that they want to happen is sumsion is that it's a cool place because they want",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "4b80547f-e2f1-4573-adac-4d01e1c9e71a"
     },
-    "1813.45": {
+    {
       "requestid": "35dbdb70-1042-406a-aa69-18c7a32f0888",
       "confidence": "0.5402386",
       "timestamp": 1813.45,
       "content": "sipadan arrested for in fact we find it earlier and 28% of all victims actually wanted their offender arrested",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "b430f783-1545-4adf-8919-a8680e846a40"
     },
-    "1824.73": {
+    {
       "requestid": "cff2bb60-c539-43a9-84ed-306e49a5a701",
       "confidence": "0.6841373",
       "timestamp": 1824.73,
       "content": "I need a smaller proportion want some classic use it even know 100% of these offenders well rested because that's what happens when you call it please",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "e37c0332-b46a-4bac-89e9-d23409a965d4"
     },
-    "1834.92": {
+    {
       "requestid": "95d21a04-a9be-46b7-878e-4e12135783a0",
       "confidence": "0.5408071",
       "timestamp": 1834.92,
       "content": "but 2 sets of some simply wanted see please to town the situation",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "ece5a29e-58dd-412e-b9ec-62234d83a82e"
     },
-    "1840.89": {
+    {
       "requestid": "658679ff-d6a8-43f5-921d-80d5a6b4dc03",
       "confidence": "0.6685595",
       "timestamp": 1840.89,
       "content": "and who knows to sit sit sit their primary reason for calling was actually to get",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "5b13fe6e-23b5-4029-b857-2f7ebbe3a2d4"
     },
-    "1847.79": {
+    {
       "requestid": "755b9ca8-c444-479e-81dc-79221aad4478",
       "confidence": "0.5645645",
       "timestamp": 1847.79,
       "content": "help with that part net rises and punishment for that because all those cheez its actually wanted to be lation ship to continue and said some things that helps is often overlooked in this field",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "07f02ccd-bc92-4553-90f8-3fd1d80e9f09"
     },
-    "1863.22": {
+    {
       "requestid": "061ae202-823c-4f42-8946-4e5c3b4f87fb",
       "confidence": "0.8549371",
       "timestamp": 1863.22,
       "content": "in terms of getting help for the partner judges sometimes do you require an offender to get counseling but that's just for that 2% of high level abuse cases that actually make it to court",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "8dcdeca7-758a-4997-afe6-2d19c9c2c8c7"
     },
-    "1875.28": {
+    {
       "requestid": "f01c36e3-3359-48a6-a536-d1858fc33e3b",
       "confidence": "0.8292763",
       "timestamp": 1875.28,
       "content": "so you have a very small number of cases usually quite serious cases",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "3aa79589-4f83-4890-9ef1-06509ddf01af"
     },
-    "1882.44": {
+    {
       "requestid": "2aa1df07-dca0-4456-be09-1c2f4bb7a729",
       "confidence": "0.6616569",
       "timestamp": 1882.44,
       "content": "and usually some very resentful offenders who believes that they are being very hard done by 5 c prices said they fix parents 702 in a very positive frame of mind too and take this program",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "71e4518f-5d9c-444b-bf23-840d8dd2d400"
     },
-    "1899.75": {
+    {
       "requestid": "2b666490-c346-4c74-8b40-574274518153",
       "confidence": "0.5695556",
       "timestamp": 1899.75,
       "content": "berelson client owners program something lasting 26 weeks almost nobody ever finishes them and send it back in court for failing to complete the program",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "0a2c4f6e-3489-402a-a21c-1552191f43c4"
     },
-    "1912.45": {
+    {
       "requestid": "cf413393-5f9b-43bc-92b5-e22de8aa9b39",
       "timestamp": 1912.45,
-      "content": ""
+      "content": "",
+      "uuid": "98532195-c387-4321-b88f-f7b942d52dd0"
     },
-    "1914.61": {
+    {
       "requestid": "80903c61-f6a8-4f54-ba76-1ad5401b491b",
       "confidence": "0.786323",
       "timestamp": 1914.61,
       "content": "every a valuation of these programs according to string show that they haven't worked that they haven't reduce the likelihood that those offenders will commit domestic abuse again",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "74b41eda-56f4-4b22-8803-1bed79cf37ec"
     },
-    "1923.81": {
+    {
       "requestid": "757d0ed1-67e1-4b6e-b2f1-eedd2cdf4c8b",
       "confidence": "0.8199636",
       "timestamp": 1923.81,
       "content": "so a few years back the police constabulary in hampshire matesa county in southern england to try something different they partnered with a local charity to create some workshops emdd about much larger group of low level domestic abuse offenders",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "9c737aaa-41f9-4afd-b7bc-d6ca5ba27266"
     },
-    "1938.43": {
+    {
       "requestid": "1a27c706-3f5d-4461-ac5c-4337802a3362",
       "confidence": "0.8168802",
       "timestamp": 1938.43,
       "content": "this is an unusual program in many ways because it is",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "9089c545-459b-4136-8557-337ab3f2f08b"
     },
-    "1943.66": {
+    {
       "requestid": "3b9ce707-6cd5-4355-9065-59d7a3fa7fd4",
       "confidence": "0.5343692",
       "timestamp": 1943.66,
       "content": "note punitive in its orientation",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "44e361d6-7ae8-46f3-a617-f93ac763db52"
     },
-    "1947.56": {
+    {
       "requestid": "b72ec545-c598-4b35-b47f-78dfe9928875",
       "confidence": "0.7011124",
       "timestamp": 1947.56,
       "content": "the objectives are to get to participants to understand something about why they behave as they have done the way in which they use violence in their relationships and to understand really what emotional abuse it is all about",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "c8c62195-420f-4be4-9af5-d4d159dc6110"
     },
-    "1966.22": {
+    {
       "requestid": "c58b1e2f-e99c-435b-b4ba-7181bb58106f",
       "confidence": "0.6666741",
       "timestamp": 1966.22,
       "content": "and it's also to get them to recognize that there isn't physical symptoms of anger",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "303e7107-9139-47bb-91dc-1801a6f64d1d"
     },
-    "1972.92": {
+    {
       "requestid": "ce5122ae-c90f-4def-84eb-0031e30d449e",
       "confidence": "0.6769161",
       "timestamp": 1972.92,
       "content": "angen feelings leading to the anger and then on to silence and what we were interested in investigating what is the effectiveness of this program",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "0dcbdce7-fb1c-4a27-81f3-876349df44a7"
     },
-    "1986.69": {
+    {
       "requestid": "53a56826-b8ed-43ab-ab9d-67553ab52dc2",
       "confidence": "0.5854179",
       "timestamp": 1986.69,
       "content": "in tackling with that huge bulk of kohls that come to please attention",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "3f91f13e-206c-436e-ba78-76c21dbcc9ff"
     },
-    "1993.33": {
+    {
       "requestid": "821a6414-34e8-4b4f-8cdb-f8101bf96282",
       "confidence": "0.7922797",
       "timestamp": 1993.33,
       "content": "so heather spring set up a randomized control trial to measure the effectiveness here's help",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3ad120e2-ed18-4e49-b9b5-1bb7a036fc43"
     },
-    "1999.78": {
+    {
       "requestid": "4a472484-7290-4399-8608-462594034174",
       "confidence": "0.782442",
       "timestamp": 1999.78,
       "content": "woodbridge police are called on a domestic abuse complaint the offender is generally rested with assumed the sake of pronoun use he is a male as most vendors are there not all of course",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3f8c7414-bbbe-41c3-ae46-ebb1004139f2"
     },
-    "2011.26": {
+    {
       "requestid": "595dceb0-e271-461b-9d35-5a6534c1ee20",
       "confidence": "0.8054523",
       "timestamp": 2011.26,
       "content": "when is part of this new approach is diverted into it called conditional cautioning that is essentially a promise by offenders that will be on their best behavior",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d3129013-e1fc-457d-8a16-96288ad46684"
     },
-    "2022.29": {
+    {
       "requestid": "3118ef4b-3947-4555-b11c-4d8156cca7e5",
       "confidence": "0.7873194",
       "timestamp": 2022.29,
       "content": "and at that point they are randomly assigned eyes are too",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "4761b412-18f0-452c-804d-e2acceed398c"
     },
-    "2027.2": {
+    {
       "requestid": "8fd8e37b-863f-4895-9137-09fdaced844e",
       "confidence": "0.60269",
       "timestamp": 2027.2,
       "content": "simply be required to be a good behavior full moon",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "b124517f-16c5-4061-bec8-222bb4f05e16"
     },
-    "2031.7": {
+    {
       "requestid": "285c6b07-bcc7-4f30-a34b-ef41a9c287cc",
       "confidence": "0.6760143",
       "timestamp": 2031.7,
       "content": "or they are randomly assigned to of course be of good behaviour for 4 months but also undergo this intervention",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "706f2b9a-bf4d-490c-a1f1-6f5ece6d9626"
     },
-    "2041.06": {
+    {
       "requestid": "97321e94-7438-4d4e-8d8b-27587f1a3cdb",
       "confidence": "0.8728575",
       "timestamp": 2041.06,
       "content": "this intervention consists of 2 workshops about 4 weeks apart it workshop is about 5 hours with a break for lunch",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0a884269-4bce-414b-94dc-e0f70df70b2e"
     },
-    "2048.49": {
+    {
       "requestid": "2d30d5c6-f0fb-444e-87eb-3ea3897ccbe9",
       "confidence": "0.6326562",
       "timestamp": 2048.49,
       "content": "it on saturday mornings and they held in a hotel because the wechat vida's believe that it's very important to show you I can respect flessa tootoosis vendes",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "46c36c0e-6b8a-4895-b93c-8c1d1055213f"
     },
-    "2062.02": {
+    {
       "requestid": "3b6cb3d4-062b-4bbc-80fd-b7bacc78f35f",
       "confidence": "0.6076208",
       "timestamp": 2062.02,
       "content": "it's restricted only 2 adult male friend is and to those who is misty offense and they must have no prior eckwood of violence towards victims in the preceding 2 years",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "855e3e3e-f85a-4fcb-a5b8-07f867d0dc71"
     },
-    "2077.58": {
+    {
       "requestid": "9c1ca590-de09-4639-a77e-5396ebfe44bc",
       "confidence": "0.845906",
       "timestamp": 2077.58,
       "content": "it also restricted to men who abuse their intimate partners not other family members and the victims have to agree that the treatment not put them in for the danger in the beginning strings is the men are reluctant to engage",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "1f1f377a-680f-4678-a6e5-f493239e4b78"
     },
-    "2092.96": {
+    {
       "requestid": "4ab3a16c-094c-4581-a014-517833ab8df4",
       "confidence": "0.6750901",
       "timestamp": 2092.96,
       "content": "andy facilitate is expected this is normal",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "747cec3a-0a2e-471b-8813-b858c24b4de6"
     },
-    "2097.31": {
+    {
       "requestid": "825ba0ec-25b3-45d0-bdd5-f6c00e76a54a",
       "confidence": "0.6232259",
       "timestamp": 2097.31,
       "content": "does off an initial aeolus's victim blaming a lot of excusing of behavior",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "3f090c43-57d8-4c79-b04d-3e56e2f372ce"
     },
-    "2104.26": {
+    {
       "requestid": "b2003a1e-b4bc-426b-b0f4-37c69f259999",
       "confidence": "0.6654604",
       "timestamp": 2104.26,
       "content": "and they don't confront it directly they unload the participants enough room enough space to talk in cells I have to explain why they've behaved as they have",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "0be3c983-18bc-4a9c-aaf4-a0441199fa82"
     },
-    "2118.36": {
+    {
       "requestid": "73a5a132-d0cb-4f63-9f0f-f838a1460798",
       "confidence": "0.7021968",
       "timestamp": 2118.36,
       "content": "and of course they hear the stories of all the other people in the room is well",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "4f10cb3f-bfb2-4a54-a224-8687426170ce"
     },
-    "2124.63": {
+    {
       "requestid": "e1178478-e206-4965-9151-fd553033f9ec",
       "confidence": "0.6406708",
       "timestamp": 2124.63,
       "content": "and buy cat food questioning by the facilitate is about different ways in which they perceive their relationship with a victim of racing",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "6c5f4706-123d-4e76-9ae9-a9aec04dc714"
     },
-    "2138.4": {
+    {
       "requestid": "4f131a08-8951-49fb-a320-0bd3c013153f",
       "confidence": "0.6222354",
       "timestamp": 2138.4,
       "content": "rather than any direct confrontation at series as new kind of unpacking of out what appears to be going on and as in the valuation we are getting astonishingly good results",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "12a6efd4-8168-495e-853f-681d4da8de7e"
     },
-    "2157.26": {
+    {
       "requestid": "429bc68c-8586-49a3-a334-2f9926cb50ea",
       "confidence": "0.8234786",
       "timestamp": 2157.26,
       "content": "how good is astonishingly good",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b6813fc4-9132-4fb9-bbbf-b822f53487f6"
     },
-    "2159.95": {
+    {
       "requestid": "92958369-ba25-46a0-a7c3-0d50aa010b5f",
       "confidence": "0.7141473",
       "timestamp": 2159.95,
       "content": "sky news been looking",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ab8da2fd-db5b-48ad-8278-1a92e78d093e"
     },
-    "2161.8": {
+    {
       "requestid": "a92c5ea0-cec7-46c5-8508-f8bb4de119c1",
       "confidence": "0.7418524",
       "timestamp": 2161.8,
       "content": "400 domestic abuse case in half of them at least 2 years party passed since the workshop again",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b864cd97-ce3b-4fe1-b3e8-4ad5f928d248"
     },
-    "2168.58": {
+    {
       "requestid": "76ef22db-6b93-4e8c-86d5-f65605f2458f",
       "confidence": "0.7966762",
       "timestamp": 2168.58,
       "content": "compared to them and didn't get the workshops",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4b55e669-4727-47b2-8ce8-116ad7d3d2cd"
     },
-    "2172.62": {
+    {
       "requestid": "307df8d9-30e4-446d-b5c5-34ff76b5dfac",
       "confidence": "0.861342",
       "timestamp": 2172.62,
       "content": "with a 40% reduction in committing for their domestic abuse in with a 20% reduction and other crimes we have",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "4fe6be5f-928c-452c-a9b4-228b0ebe3b95"
     },
-    "2181.24": {
+    {
       "requestid": "0d4a7ffe-e032-4a57-b146-8cb037119c24",
       "confidence": "0.6369651",
       "timestamp": 2181.24,
       "content": "interviews many of the victims who is cases have been dealt with this way and they themselves indicate that there has been a market improvement in the behavior of snow patna's pulling the program",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "d579f606-4018-4cbf-9262-55bd0c5af827"
     },
-    "2196.23": {
+    {
       "requestid": "7ac5555a-1321-454e-b5e9-abd7e23bb3fa",
       "confidence": "0.5711238",
       "timestamp": 2196.23,
       "content": "finman rudaux from the people inside steam read through the findings generated by strengen account",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "782dbdf4-de30-4af7-90b9-4964bff9128d"
     },
-    "2202.21": {
+    {
       "requestid": "c80521b5-7942-4dac-a383-35b615b69723",
       "confidence": "0.782888",
       "timestamp": 2202.21,
       "content": "I can one woman in particular said I don't know what you've done with with my husband but he's a change man",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "e01b95e8-b0f6-4bab-8ddc-af767377cb3f"
     },
-    "2207.52": {
+    {
       "requestid": "72ff2204-c67d-4970-8f07-e2a3f5b76c5c",
       "confidence": "0.7330584",
       "timestamp": 2207.52,
       "content": "heather spring didn't necessarily think of the domestic abuse intervention as cognitive behavioral therapy cbt but she don't see a lot of common elements in getting people to think about and understand their behavior green",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "47996059-1b75-413e-9ccb-885d21eac47b"
     },
-    "2222.32": {
+    {
       "requestid": "052cfcc2-c23c-426e-b0ba-1661e16753ac",
       "confidence": "0.7129775",
       "timestamp": 2222.32,
       "content": "people around to a greater degree of self knowledge about the weather behaving in the impact of their behavior seems to be key to this program",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "4b63a8bb-a4dd-4f56-9195-cebfec284de3"
     },
-    "2231.92": {
+    {
       "requestid": "ed4c5a86-b3f6-435c-a60a-bb2c43e325fb",
       "confidence": "0.7230127",
       "timestamp": 2231.92,
       "content": "helping people to realize what leads to the offense and the ramifications of the offense the fact tell me offender can be a far more powerful way of reducing reoffending then just the threat of punishment",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "f4a9a026-1d59-4177-bb6c-d3c813f1e3b6"
     },
-    "2245.48": {
+    {
       "requestid": "120eb04e-a4f6-46fe-9025-0348d6fda264",
       "confidence": "0.828274",
       "timestamp": 2245.48,
       "content": "the points is rude is that people can change",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a0278e9e-9122-490a-af58-47e272f66983"
     },
-    "2248.85": {
+    {
       "requestid": "a12f4b6b-8192-4581-b57c-93dbea799250",
       "confidence": "0.8288251",
       "timestamp": 2248.85,
       "content": "I'm a big believer that it's possible that the way we think about cells no matter what stage in life has a big impact on my behavior",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "48245c4b-19b4-41f9-b8c8-e1f810418d15"
     },
-    "2256.18": {
+    {
       "requestid": "2ef4abc4-826d-48b2-9ccb-80529a0de910",
       "confidence": "0.8015438",
       "timestamp": 2256.18,
       "content": "and I'm out front the bayview insights team is currently planning a new crime fighting trial in another part of england",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2c0d985b-e971-4b35-ab4c-d20bc97728cc"
     },
-    "2262.59": {
+    {
       "requestid": "78d789c4-36eb-416b-bd51-e94899c9eee1",
       "confidence": "0.7870603",
       "timestamp": 2262.59,
       "content": "someone that we work with in the place in west midlands chief superintendent alex marie he came to us we been working with him on a number line number there is and he spotted the opportunity to consider how we best making use of the time that we have with offenders are in police custody",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "b597aff7-8df8-4e28-a469-261443841cd0"
     },
-    "2280.77": {
+    {
       "requestid": "f5c6040b-e8cd-43e7-80d0-37e32680982c",
       "confidence": "0.8149521",
       "timestamp": 2280.77,
       "content": "on average rudisha's offenders spend about 15 hours in police custody",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5702a566-6bd1-4d43-be50-ae8a05d37a1b"
     },
-    "2285.45": {
+    {
       "requestid": "71bde64b-d786-4ab8-ae22-71893ac3b619",
       "confidence": "0.7671202",
       "timestamp": 2285.45,
       "content": "how using metal pacinotti I mean you have literally a captive audience so let's think about what we can do",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "898e9ea4-a2b6-4b22-94ea-df9c7d340980"
     },
-    "2291.84": {
+    {
       "requestid": "9891c63a-dda8-4d91-a547-24ad7b6a6171",
       "confidence": "0.8875892",
       "timestamp": 2291.84,
       "content": "the west midlands police superintendent in been thinking",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "cd4139bf-5ede-4a3c-9888-2d5b68c97f4a"
     },
-    "2294.69": {
+    {
       "requestid": "4b146166-6c7b-4f35-b65a-56eacde11fd1",
       "confidence": "0.6765127",
       "timestamp": 2294.69,
       "content": "heads up that actually when we hold offenders in in police custody they tend to stare at a blank walls inside a cell mobile could be right",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "cae91260-a0aa-4c85-be1f-259bf26db110"
     },
-    "2303.09": {
+    {
       "requestid": "e0a9ed11-d139-4a55-ab7a-5e03b69032e6",
       "confidence": "0.802281",
       "timestamp": 2303.09,
       "content": "a good day right there we all know that advertising and marketing if done right can profoundly affect our future behavior so what kind of message written on holding cell wall might help change in offenders future baker what if",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "54e9a43a-23b3-4100-a727-7a2140b78bf5"
     },
-    "2321.19": {
+    {
       "requestid": "e4b2697c-5a96-4ea3-9d64-8d020d0415ef",
       "confidence": "0.835884",
       "timestamp": 2321.19,
       "content": "that message seemed like something written by one of the previous occupants of the cell",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0210a285-4497-4984-9b9d-545d46b34b65"
     },
-    "2326.27": {
+    {
       "requestid": "bee9659a-3d3f-4a9a-b966-20c40a3f3f61",
       "confidence": "0.7996444",
       "timestamp": 2326.27,
       "content": "so the message might read 5 years ago on this day I was here let you all know and this is what I've done on this is me looking sad kinda moody kinda tough",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "5d5c8980-9b51-4b76-94ac-62714de72d5c"
     },
-    "2336.88": {
+    {
       "requestid": "6ff0d0a2-a465-4246-a8bf-02fd5d36e63b",
       "confidence": "0.7943377",
       "timestamp": 2336.88,
       "content": "but actually this is the impact that my actions were having on those who are close to me my children my parents etc then I discovered that actually if I try and do this thing whatever it is and I work at it",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "da4880b3-5e19-4594-a76c-d8614d54499d"
     },
-    "2350.37": {
+    {
       "requestid": "1f322c64-1bad-4349-bf90-b7908c5798fb",
       "confidence": "0.8600858",
       "timestamp": 2350.37,
       "content": "it's gonna make it better and so the story goes on and the guy does what he does and all of the sudden he can improve we can change and and life much better for him and his family",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "58494e3b-09de-4b90-bd9d-fc49a150a454"
     },
-    "2361.1": {
+    {
       "requestid": "98223abf-9577-4d9b-bcaf-d2c36396c373",
       "confidence": "0.8099837",
       "timestamp": 2361.1,
       "content": "I'm and I thought that might be quite a nice thing to see if we can pump offenders who found themselves in that situation just reflect on their actions don't reflect on whether or not",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "0e8ee13c-21f5-4411-9cba-b1dc2dc4b502"
     },
-    "2370.82": {
+    {
       "requestid": "7660e145-d978-4bc5-8a67-3423d568967e",
       "confidence": "0.7796947",
       "timestamp": 2370.82,
       "content": "they can actually do something up at tiffany maybe to try and <profanity>shit</profanity>",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "4f2e7fd1-9747-41ad-98fb-ba85b9f955c2"
     },
-    "2375.13": {
+    {
       "requestid": "34cd10e7-c496-4628-99d9-8749cbfabe8b",
       "confidence": "0.8007754",
       "timestamp": 2375.13,
       "content": "defendor maybe from the mindset of",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "93a2cec4-5d89-4d99-aa59-db6d37d8df26"
     },
-    "2377.75": {
+    {
       "requestid": "9229e368-0bac-4438-bb63-08c3f086a735",
       "confidence": "0.8595795",
       "timestamp": 2377.75,
       "content": "I've done this action because this is who I am I'm a criminal level this is what I do it with my set of this is something that I've done but it doesn't necessarily need to define my life",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "c0e1ff44-8808-4f3e-8979-26f719a94236"
     },
-    "2388.25": {
+    {
       "requestid": "1c53a901-23f9-4007-9da4-f43dc928ad8d",
       "confidence": "0.6737674",
       "timestamp": 2388.25,
       "content": "so this building on some of the work of coldblack who is done somaxon work on something cheaper festu is growth mindset and I'm the type of this is that if people really understand",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "78294532-496b-4ce7-89c5-63dc4e293a26"
     },
-    "2400.01": {
+    {
       "requestid": "a91bfad2-511c-4298-9a0b-8a7e85934e89",
       "confidence": "0.7324614",
       "timestamp": 2400.01,
       "content": "call they can work on something and imprison sells the most likely to achieve that then if I believe that they made a certain way and that way to find how they behave",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "8723addd-d6e6-49a3-b071-5bf0ecd4243f"
     },
-    "2411.52": {
+    {
       "requestid": "23573c6e-d8fb-4097-902e-80568babba7b",
       "confidence": "0.7365098",
       "timestamp": 2411.52,
       "content": "among the many potential virtusa posting messages like this is the car is very low road",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "42669d3f-c0e3-4b86-ae67-3610d113f9f0"
     },
-    "2417.4": {
+    {
       "requestid": "dc380fcd-1eeb-4a0f-9826-98357a2af49c",
       "confidence": "0.7156019",
       "timestamp": 2417.4,
       "content": "the gathering the data that or d in the cells",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "7491b5be-9f7e-4fef-8e0b-2f2b087750f3"
     },
-    "2421.51": {
+    {
       "requestid": "58560a73-0630-4275-bab7-2d09eef668ba",
       "confidence": "0.7525757",
       "timestamp": 2421.51,
       "content": "you know when you're ready investing that much to try and test the effectiveness of this but I do believe in the approach trying to show up and say actually this is in you this is the behavior if you wanna change it you can",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "b38e3744-9896-48c7-9237-04fbaf9005ec"
     },
-    "2434.25": {
+    {
       "requestid": "b7a80b74-08e6-4e82-a05d-382a0644b104",
       "confidence": "0.7444379",
       "timestamp": 2434.25,
       "content": "we looking to see if messages on cell walls lead to lower rates of rearrest if police officers are spending less time pacifying angry prisoners to that point router says that project like this one which granite is a little weirder than the typical diamono benson",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "e7e1c0bb-ec41-4431-86e2-d0ed4ac7e471"
     },
-    "2452.01": {
+    {
       "requestid": "3df140b1-f20e-4671-93f7-feca8103691b",
       "confidence": "0.8105483",
       "timestamp": 2452.01,
       "content": "I'm not always capture the imagination of senior government officials",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d3b5e0f5-d4c4-4d87-973a-f476ce66c2d1"
     },
-    "2456.54": {
+    {
       "requestid": "ae3446aa-122e-4752-bead-84a30029c5bd",
       "confidence": "0.8526694",
       "timestamp": 2456.54,
       "content": "a few years ago with have a great idea and would go to the relevant ministry and that's a that's really interesting but I'm busy but",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "141f16cd-7414-4bdf-9268-3f49acf084a1"
     },
-    "2463.34": {
+    {
       "requestid": "fa0793dc-90ba-4af9-9c83-641fd5f18e43",
       "confidence": "0.7292132",
       "timestamp": 2463.34,
       "content": "rita says the reception shenli warmer among police officers and others on the front lines of delivering public sector",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "189864c5-ac8e-43f0-9fdc-d13b4cc6ea6a"
     },
-    "2470.81": {
+    {
       "requestid": "36b48d2b-f2bc-417e-b888-1bfc5082fd8f",
       "confidence": "0.7638762",
       "timestamp": 2470.81,
       "content": "yes it's the appetite was much greater among them coz I can see this is gonna help me do the jobs I want to run a trial all of a sudden you get some good results on a see the ministers of an interesting",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "01318954-4a91-41c3-9ffd-b647ee3138fd"
     },
-    "2482.75": {
+    {
       "requestid": "c51286ac-90df-4f57-b610-dc999de6b16f",
       "confidence": "0.5655411",
       "timestamp": 2482.75,
       "content": "roodaka liesbet hedral nijinska pooping so effective that they might even worth in one of the thorniest realms of law enforcement",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a91bd492-03b1-420e-80fe-9e6b45ff39da"
     },
-    "2490.31": {
+    {
       "requestid": "0217972f-92f4-4b7e-b5a9-2dea76d7ed86",
       "confidence": "0.6191185",
       "timestamp": 2490.31,
       "content": "fighting extremus",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "9f394025-851b-4ac8-992d-0cc213d41fce"
     },
-    "2491.82": {
+    {
       "requestid": "76ef9087-432a-4949-a362-1eefd132b4b9",
       "confidence": "0.727675",
       "timestamp": 2491.82,
       "content": "does this hypothesis around psychological inoculation",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "b2abd04e-bc2b-4c66-a2e1-ff46fb0458cc"
     },
-    "2496.25": {
+    {
       "requestid": "2f7d6fa3-be5b-4952-b442-05f90d32727d",
       "confidence": "0.7409778",
       "timestamp": 2496.25,
       "content": "is what is cold and the hypothesis is that you give younger people particularly in of those whose opinions of the world and everything I've been quite fond rigidly yet I'd is a prejudice but I'd is it is so ridiculous that it's kinda easy for them to dismiss them",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "82dc3f4e-8285-439f-9717-6d87f8e772f1"
     },
-    "2513.91": {
+    {
       "requestid": "d0c9989e-b2ea-4b39-a239-fd66b1a24eb9",
       "confidence": "0.7077138",
       "timestamp": 2513.91,
       "content": "so do you know about old women a stupid 'cause they have long hair or something ridiculous like that and the hypothesis is that once are the cognitive process starts to reply to this",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "6fe677c3-baea-4393-8e86-3cd329fb6fa4"
     },
-    "2527.11": {
+    {
       "requestid": "bb256a11-b949-482d-8316-f8232d2f78d3",
       "confidence": "0.7205543",
       "timestamp": 2527.11,
       "content": "and think more logically about it it becomes more resistant to slightly more sophisticated documents of prejudice that it may have the miss pageant the headlight and I think this is an interesting angle which is is worthy of a father a seat",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "229371c8-8f76-4963-995a-a79ec96bc20b"
     },
-    "2543.59": {
+    {
       "requestid": "93c5df1b-4524-461e-92f3-a6923872afed",
       "confidence": "0.8148062",
       "timestamp": 2543.59,
       "content": "in fact chris blackman the columbia researcher who works in liberia he says he's heard from people in the us state department you wanna know whether cognitive behavioral therapy might be helpful in countering violent extremism",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b2f81cec-299d-4e23-9002-593e7c4e83aa"
     },
-    "2555.75": {
+    {
       "requestid": "130c9d9b-344c-41f1-a090-8196124904f1",
       "confidence": "0.8006605",
       "timestamp": 2555.75,
       "content": "it's a slight exaggeration but if you talk about development project x 2",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "d4ecd747-7435-4205-bac9-9ce199d99e0a"
     },
-    "2560.68": {
+    {
       "requestid": "e5275cb9-ab59-4d1b-ae61-5b15f4e771b0",
       "confidence": "0.7399833",
       "timestamp": 2560.68,
       "content": "state department of usa do you remember the us government there's a 50% chance that they say oh well that work in afghanistan or will that work against terrorism because on some level this is where raider on this is where a lot of the attendance office",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "c1664568-4164-4ea0-8674-1e78749d59f8"
     },
-    "2575.28": {
+    {
       "requestid": "f777efef-9a93-4a3a-bd1e-70064c327dd1",
       "confidence": "0.8025786",
       "timestamp": 2575.28,
       "content": "and so anything that says we can change the person we can a century socialize people who are about violence in to have a different identity",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "518f3a52-a1ac-4841-b047-a7b6dc8689b2"
     },
-    "2585.95": {
+    {
       "requestid": "647906d8-0bfa-4615-82c1-dc19512a8525",
       "confidence": "0.8087624",
       "timestamp": 2585.95,
       "content": "that sounds tempting because to move these extremist organizations are essentially offering people are a dick about yourself in with their offering them something immaterial that since you very valuable in this program",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "ca9c82b6-b9c2-4816-b0e5-1ac044b5f0af"
     },
-    "2599.09": {
+    {
       "requestid": "d985faf0-d12d-4f48-a7c2-4a04ce9d56be",
       "confidence": "0.7688981",
       "timestamp": 2599.09,
       "content": "programs like this might do that in reverse",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "16825478-807a-4949-bc93-6e3012100988"
     },
-    "2604.14": {
+    {
       "requestid": "22cd4ca9-9603-4b61-840c-b67355c6762d",
       "confidence": "0.8356997",
       "timestamp": 2604.14,
       "content": "this week and last week we've been looking at new ideas for crime prevention we all know an ounce of prevention is worth a pound of cure auto in the case of crime in may be more like a ton of curators think about the costs associated with crime for the victim for society for the criminal",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "e68f1c58-0bf8-438d-86f6-b1af67f97ba1"
     },
-    "2622.23": {
+    {
       "requestid": "8f0fed3e-702b-47f8-9b21-b9740479f195",
       "confidence": "0.611618",
       "timestamp": 2622.23,
       "content": "the cost r financial profile psychic",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "dc6f9c33-274a-4871-af62-016e573edd5c"
     },
-    "2625.84": {
+    {
       "requestid": "adfa85b5-8e9a-43a1-af54-b0b2a7ead77c",
       "confidence": "0.7864866",
       "timestamp": 2625.84,
       "content": "new huge with ink urging about the crime prevention stories we've been hearing with different about the stories is it these treatments are working on people who already started getting into trouble juvenile delinquents in chicago former child soldiers in liberia domestic abuse offenders in britain",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "29782c29-42ba-4a2b-921c-53b5b6cdebc3"
     },
-    "2642.41": {
+    {
       "requestid": "19570fb9-8aaa-4356-9017-f35912875b6e",
       "confidence": "0.706991",
       "timestamp": 2642.41,
       "content": "in the treatment helps turn them around most people who do bad things by linsangs presumably aren't doing them for pleasure come and get the fighter beats up a spouse to kill someone",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ea7301e7-74f6-42e6-a64a-398fbb3689c7"
     },
-    "2657.84": {
+    {
       "requestid": "ccfc1528-aaf7-4bec-8aeb-21af37db7c86",
       "confidence": "0.7047098",
       "timestamp": 2657.84,
       "content": "it's generally because he lost control lake mead a rash and poor decision so can the modern boom indecision science and pedro science help change the way we think about crime itself",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5f622d43-248b-4463-9018-e69f35749b54"
     },
-    "2672.99": {
+    {
       "requestid": "d6d26584-18a5-4c78-9bb2-90931a502543",
       "confidence": "0.7495502",
       "timestamp": 2672.99,
       "content": "I would argue that the evidence we put forth from chicago in liberia in britain",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ba2ee073-97ce-4b44-88ed-c29a87e0c43f"
     },
-    "2679.13": {
+    {
       "requestid": "afb61903-3477-4ab1-bb3c-68e640fba45c",
       "confidence": "0.6900874",
       "timestamp": 2679.13,
       "content": "guess the answer is yes",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a5befa7e-711b-44b0-801a-4cc161d82025"
     },
-    "2681.5": {
+    {
       "requestid": "6a577d70-29b9-4e9f-9f2c-f95b4f8c5ca2",
       "confidence": "0.7186648",
       "timestamp": 2681.5,
       "content": "in fact it's just that's the way we think about crime and punishment generally is perhaps wildly hopelessly out dated like performing a lobotomy on anybody's got a really bad case of the blues because of our inability to",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fdd68eb0-f5a9-4954-b398-f7a0e088ea04"
     },
-    "2697.99": {
+    {
       "requestid": "e15cb027-3289-4e0e-9a2f-367adde5bec3",
       "confidence": "0.6965981",
       "timestamp": 2697.99,
       "content": "prevent more crime especially among people who 30 committed some do we routinely turn small time offenders in the wife on criminal",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "163549e2-bf9e-4629-9c9c-35d0a3305dbe"
     },
-    "2707.62": {
+    {
       "requestid": "e46ae189-e161-4c69-b5b7-25b446d6d09b",
       "confidence": "0.7739097",
       "timestamp": 2707.62,
       "content": "what are in prisons in bda housing projects that we turned our police forces in 2 hours",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b8bace11-0b5d-4c8b-b281-68657f2da9f0"
     },
-    "2712.39": {
+    {
       "requestid": "f7a4c79e-bae1-4711-8bec-6e297d5d6b3c",
       "confidence": "0.5264058",
       "timestamp": 2712.39,
       "content": "defecto occupying army his primary remit",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "0135a544-bfe1-4497-b40c-e9b0c11c12a5"
     },
-    "2715.77": {
+    {
       "requestid": "0efb6398-7517-4116-99f5-7ec7dc06728e",
       "confidence": "0.7511198",
       "timestamp": 2715.77,
       "content": "is the week for bad things to happen and try to round of the offenders that's not what police were originally intended to do in a civilized society in britain in 1829 sir richard mean wrote instructions to the new police of the metropolis begins",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ba003d65-6cc5-432e-afb6-cfd2c7d1d939"
     },
-    "2733.2": {
+    {
       "requestid": "1c45c528-15c7-4e65-a412-24bbe988c239",
       "confidence": "0.7323169",
       "timestamp": 2733.2,
       "content": "the primary object of beneficient police is the prevention of crime the next that of detection and punishment of offenders if crime is committed",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "517c08aa-5611-4ad4-b33f-8f350d717cba"
     },
-    "2743.29": {
+    {
       "requestid": "f135251b-e2d2-4761-b721-188883a6490e",
       "confidence": "0.7005667",
       "timestamp": 2743.29,
       "content": "tobi's in all the effort of police must be directed as the former london copsd even cold in right in the forthcoming memoir called why did the policeman cross the road",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c5df5f00-4ca6-4c86-8937-2dbb269998cd"
     },
-    "2755.32": {
+    {
       "requestid": "d84e2e2b-83a2-4fbc-90a3-ad101742bd5b",
       "confidence": "0.8340033",
       "timestamp": 2755.32,
       "content": "so why then I wondered did my basic training not include any crime prevention not one minute of my whole 16 week and this week training program with allocated to the subject instead the syllabus focused exclusively on catching the bad guys or",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2d5cb917-5ee5-44c9-b6e1-9c6073440957"
     },
-    "2770.21": {
+    {
       "requestid": "4f3f53bf-bccb-4d8e-b978-49f1ef52c514",
       "confidence": "0.7495815",
       "timestamp": 2770.21,
       "content": "more precise catching bad guys after the prime it been committed all this is made me want to make a future episode may be several episodes actually about policing in crime working title",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7d0b6d63-f6e7-4b18-9663-4794734bb830"
     },
-    "2783.82": {
+    {
       "requestid": "be4177de-9c42-49b2-be0b-139277f8e4fc",
       "confidence": "0.7645253",
       "timestamp": 2783.82,
       "content": "what are cops 4 I'd love to hear your ideas on this topic from any angle adolor any suggestions for what kind of stories we should tell what kind of day do we should pursue rate was at radio atfreakonomics.com or go to share on twitter as always many thanks",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "8f2012e2-8a75-42ec-986d-295af3cb02d1"
     },
-    "2800.09": {
+    {
       "requestid": "d872536d-66b9-4283-9db3-5ab4ac22c58b",
       "timestamp": 2800.09,
-      "content": ""
+      "content": "",
+      "uuid": "ad3fde44-94f3-4970-ac7c-a4c9034e0ba9"
     },
-    "2805.84": {
+    {
       "requestid": "4c90c945-299b-4594-b8ec-9a2475ba3766",
       "timestamp": 2805.84,
-      "content": ""
+      "content": "",
+      "uuid": "af8e79d9-b863-4ff3-b07b-df702430c6b9"
     },
-    "2810.91": {
+    {
       "requestid": "e38241a7-70c7-42ca-8918-f04e28c454e5",
       "confidence": "0.6776913",
       "timestamp": 2810.91,
       "content": "freakonomics radio is produced by wmic in dubner production today's episode was produced by christopher wirth the rest of our staff includes erbacon djeu j cole merritt jacob greg rozalski caroline english allison hockenbery and cash in my life that will help this week for matt fiedler",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "5eed5ed9-4850-481c-9e89-2bfb7693da76"
     },
-    "2829.16": {
+    {
       "requestid": "25ab8dd9-b6c9-4e68-a30a-2a64c21d71a2",
       "confidence": "0.7865176",
       "timestamp": 2829.16,
       "content": "if you want more freakonomics radio can subscribe to a podcast on I tunes or go to freakonomics.com will find lots of radio log books and more",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7e61690e-5713-4340-88f1-d1b7211a06e5"
     },
-    "2846.97": {
+    {
       "requestid": "7292b8d7-d7f9-44b3-8293-7e544f915cac",
       "timestamp": 2846.97,
-      "content": ""
+      "content": "",
+      "uuid": "d08ea9b2-6ddc-4acb-b3be-9fd4200598a0"
     },
-    "2853.4": {
+    {
       "requestid": "043b72b9-3620-439e-b87e-5770a59e68ef",
       "confidence": "0.79691",
       "timestamp": 2853.4,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b7aa4e9d-02c3-4bef-8530-6eff677849c6"
     },
-    "2873.3": {
+    {
       "requestid": "a8d9b30f-0a50-4bb3-a142-7c20a0b0be71",
       "confidence": "0.8865936",
       "timestamp": 2873.3,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "36f9c03b-fff1-4986-ab92-58728fe45186"
     }
-  }
+  ]
 }

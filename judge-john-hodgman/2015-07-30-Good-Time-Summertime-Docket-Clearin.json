@@ -3,1267 +3,1477 @@
   "date": "2015-07-30",
   "description": "<p>Judge Hodgman is assisted by Summertime Bailiff Monte Belmonte, taking on questions of broccoli-chomping, accidental raccoonslaughter, game night disputes, and the best construction of jokes.</p><img src=\"http://feeds.feedburner.com/~r/todayinthepast/~4/jlm5k0NSXpM\" height=\"1\" width=\"1\" alt=\"\"/>",
   "episode_url": "http://traffic.libsyn.com/jjhodgman/jjho_220.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "03f04f03-08b2-43bf-bcf4-15adfacce80c",
       "confidence": "0.8111673",
       "timestamp": 0,
-      "content": "welcome to the judge john hodgman podcast on your good time summer time guest bayleef"
+      "content": "welcome to the judge john hodgman podcast on your good time summer time guest bayleef",
+      "uuid": "2146b98a-bd2c-4890-8c0c-a3d6b503ad71"
     },
-    "10": {
+    {
       "requestid": "ad436786-4588-489b-b055-d58ca0f8e146",
       "confidence": "0.6392476",
       "timestamp": 10,
-      "content": "marty belmonte in for jesse thorn this week were clearing the docket how's by you in maine john hodgman summer breeze"
+      "content": "marty belmonte in for jesse thorn this week were clearing the docket how's by you in maine john hodgman summer breeze",
+      "uuid": "96f17e72-e1aa-48a2-988b-cc1368001885"
     },
-    "20": {
+    {
       "requestid": "6f45daa1-5dc1-4c0e-9209-9d0af74efa10",
       "confidence": "0.5117694",
       "timestamp": 20,
-      "content": "if you find an attached a head cold but I'm a try to harmonize I'm sale times I'm sick I'm sick summer"
+      "content": "if you find an attached a head cold but I'm a try to harmonize I'm sale times I'm sick I'm sick summer",
+      "uuid": "f392930e-4135-48c5-ae70-e7a9cf954826"
     },
-    "30": {
+    {
       "requestid": "2bf11325-8774-44ca-a3ff-91ae8731056f",
       "confidence": "0.6082822",
       "timestamp": 30,
-      "content": "basic anatomy throat and I've had a head cold for the past several days off start learning now it's it's a it's a it's karmic justice my own boss"
+      "content": "basic anatomy throat and I've had a head cold for the past several days off start learning now it's it's a it's a it's karmic justice my own boss",
+      "uuid": "7e89c170-6a61-4342-aa24-3573c0388cea"
     },
-    "40": {
+    {
       "requestid": "ff138eb6-50b1-4c77-8373-fb47ed77c1bd",
       "confidence": "0.8190604",
       "timestamp": 40,
-      "content": "a punishing me for daring to think that I deserve pleasure and otherwise having a great time here in the great state of former massachusetts aka mean"
+      "content": "a punishing me for daring to think that I deserve pleasure and otherwise having a great time here in the great state of former massachusetts aka mean",
+      "uuid": "4e60050e-7b66-47b7-a5c0-37b3205cb0c0"
     },
-    "50": {
+    {
       "requestid": "24f0d5e2-29f7-4ee5-8c92-1a25c3ff8e6d",
       "confidence": "0.7851641",
       "timestamp": 50,
-      "content": "vacationland indeed how are in which is of course I should say the name my forthcoming fault or to many cities in the united states in 2 great cities of can"
+      "content": "vacationland indeed how are in which is of course I should say the name my forthcoming fault or to many cities in the united states in 2 great cities of can",
+      "uuid": "70580785-c8f2-4c4d-8ac3-92b2a56eafe9"
     },
-    "60": {
+    {
       "requestid": "f3f79b49-5d3e-4402-8379-834795abc31a",
       "confidence": "0.7885267",
       "timestamp": 60,
-      "content": "dakota johnhundred.com slash tour to see where I will be speaking are you and buy tickets I hope you will come because otherwise it's embarrassing when you don't show up buddy how are things in math"
+      "content": "dakota johnhundred.com slash tour to see where I will be speaking are you and buy tickets I hope you will come because otherwise it's embarrassing when you don't show up buddy how are things in math",
+      "uuid": "d5c863b1-39dd-487c-afd7-dae98b8cbdfa"
     },
-    "70": {
+    {
       "requestid": "76d4c74a-f3d4-4802-a195-907521440e7c",
       "confidence": "0.6821956",
       "timestamp": 70,
-      "content": "cheez its things are fine here in your original state my role model state banana boat loving and missing you are you truly are waiting you coming back"
+      "content": "cheez its things are fine here in your original state my role model state banana boat loving and missing you are you truly are waiting you coming back",
+      "uuid": "f8a0124a-50eb-42c5-852a-a26e49668b37"
     },
-    "80": {
+    {
       "requestid": "80a9712b-9c2f-4d3c-a257-b35d29ecbbe7",
       "confidence": "0.6736313",
       "timestamp": 80,
-      "content": "do you are western massachusetts western massachusetts myfm on my way to several hometowns meeting at brookline massachusetts brooklyn new york north hampton mass"
+      "content": "do you are western massachusetts western massachusetts myfm on my way to several hometowns meeting at brookline massachusetts brooklyn new york north hampton mass",
+      "uuid": "6d6b20e0-a557-43b3-ad3f-2e7da19fa906"
     },
-    "90": {
+    {
       "requestid": "6517e6a5-5cfe-4a91-a988-9033114ed5e4",
       "confidence": "0.6920574",
       "timestamp": 90,
-      "content": "it's in brooklyn maine these are that smart but sleep this be the scope of my empire it's not exactly alexandrian now but I did but I do them and I did amanda"
+      "content": "it's in brooklyn maine these are that smart but sleep this be the scope of my empire it's not exactly alexandrian now but I did but I do them and I did amanda",
+      "uuid": "6079eb15-9f50-4d33-b9a4-709ea376181b"
     },
-    "100": {
+    {
       "requestid": "ed266636-72c4-44ef-b4c0-06cea9f035e3",
       "confidence": "0.6381756",
       "timestamp": 100,
-      "content": "I've sent to comply with my wishes and will need it I get it from the bottom of my personal time to conquer region outside the northeast and where all your on your"
+      "content": "I've sent to comply with my wishes and will need it I get it from the bottom of my personal time to conquer region outside the northeast and where all your on your",
+      "uuid": "a79821b0-8f2d-43fe-aa10-31dc6ee280f0"
     },
-    "110": {
+    {
       "requestid": "08b3fda5-0683-4125-95d0-f18db97d0101",
       "confidence": "0.5710255",
       "timestamp": 110,
-      "content": "I let you never happen so for those of you who are out of the bottom listening the summer are in the summertime about amount is my friend request massachusetts in the morning dj"
+      "content": "I let you never happen so for those of you who are out of the bottom listening the summer are in the summertime about amount is my friend request massachusetts in the morning dj",
+      "uuid": "f53a9862-5ce1-42e3-8563-6f3ab33b5757"
     },
-    "120": {
+    {
       "requestid": "dc6f8609-eed9-4a2d-b213-66f94683a438",
       "confidence": "0.7462409",
       "timestamp": 120,
-      "content": "and you are inside the river where is I'm speaking to you from WERUSM in love with blue hill mamer jomanda sitting silently next to me the"
+      "content": "and you are inside the river where is I'm speaking to you from WERUSM in love with blue hill mamer jomanda sitting silently next to me the",
+      "uuid": "7e73802b-9001-490f-a53c-27764b47be9f"
     },
-    "130": {
+    {
       "requestid": "a409291a-6c9b-40f5-bfaf-5e4fcca602d9",
       "confidence": "0.6264894",
       "timestamp": 130,
-      "content": "birdman attorney dub him last time and this is the at one of those episodes where are we just to clear the docket be up for a bunch of the smaller cases for the pie"
+      "content": "birdman attorney dub him last time and this is the at one of those episodes where are we just to clear the docket be up for a bunch of the smaller cases for the pie",
+      "uuid": "f73f3e5b-1700-4259-bea9-070144aefaff"
     },
-    "140": {
+    {
       "requestid": "5b14c9af-fb77-40e6-9aa0-abc84f8fb041",
       "confidence": "0.7332484",
       "timestamp": 140,
-      "content": "I'll be up in the n justice a delayed is justice denied it so let's talk to 94 kids justice tell me a case monday and I will salt crystals"
+      "content": "I'll be up in the n justice a delayed is justice denied it so let's talk to 94 kids justice tell me a case monday and I will salt crystals",
+      "uuid": "8ce609ed-af7a-40cd-b995-7ea115db3a91"
     },
-    "150": {
+    {
       "requestid": "72facb7b-27de-4224-83ed-8c6f11b3531d",
       "confidence": "0.8499512",
       "timestamp": 150,
-      "content": "writes my boyfriend and I have an ongoing disagreement of 3 years he thinks that I should not take more than 30 seconds after parking to gather my"
+      "content": "writes my boyfriend and I have an ongoing disagreement of 3 years he thinks that I should not take more than 30 seconds after parking to gather my",
+      "uuid": "504dc17a-ba5c-45c6-a222-b211b27736f8"
     },
-    "160": {
+    {
       "requestid": "44dedee6-a540-4341-b362-f42c5abdfb31",
       "confidence": "0.7912672",
       "timestamp": 160,
-      "content": "longings in insure my teeth don't have any lipstick or broccoli and um he complaints that I take too long literally every time I exit the car he says I should"
+      "content": "longings in insure my teeth don't have any lipstick or broccoli and um he complaints that I take too long literally every time I exit the car he says I should",
+      "uuid": "57bc981b-4d43-4f7b-88b7-697eb2f610f4"
     },
-    "170": {
+    {
       "requestid": "69111322-8b7d-4a00-ba4c-33fa8ccbba53",
       "confidence": "0.8308859",
       "timestamp": 170,
-      "content": "prepared for my exit long before the parking process has begun I on the other hand enjoy relaxing in the car until the vehicle enters the parking process"
+      "content": "prepared for my exit long before the parking process has begun I on the other hand enjoy relaxing in the car until the vehicle enters the parking process",
+      "uuid": "35b10931-48b1-4d24-b815-14476a4177bc"
     },
-    "180": {
+    {
       "requestid": "b3277d9a-e7db-41cb-8872-b3a92a7586fd",
       "confidence": "0.7803632",
       "timestamp": 180,
-      "content": "and I am required to exit judge hodgeman what is the appropriate amount of time one may take to exit after parking the car for small stuff"
+      "content": "and I am required to exit judge hodgeman what is the appropriate amount of time one may take to exit after parking the car for small stuff",
+      "uuid": "24f834f8-9ba4-4d98-b562-0cd966f72120"
     },
-    "190": {
+    {
       "requestid": "a78085b4-3a87-4f4e-808f-49a1de88cd02",
       "confidence": "0.6600295",
       "timestamp": 190,
-      "content": "eating broccoli in the car gross hahaha parking process I'm not familiar with what goes into that other then put vehicle in park"
+      "content": "eating broccoli in the car gross hahaha parking process I'm not familiar with what goes into that other then put vehicle in park",
+      "uuid": "d841a273-f588-4b4c-8293-485d9784b7de"
     },
-    "200": {
+    {
       "requestid": "2b2c651a-7c32-4d50-8f2e-5a449c30814a",
       "confidence": "0.6619412",
       "timestamp": 200,
-      "content": "cannibal youngson open yeah yeah that's coz you live in a place where you haven't had a parallel park for 10 years I parallel parked I'm pretty good at it yeah"
+      "content": "cannibal youngson open yeah yeah that's coz you live in a place where you haven't had a parallel park for 10 years I parallel parked I'm pretty good at it yeah",
+      "uuid": "1b07a793-e224-43d3-8fc8-965284424561"
     },
-    "210": {
+    {
       "requestid": "d58834dd-8ad5-471d-87a2-f4f6838703d3",
       "confidence": "0.7436028",
       "timestamp": 210,
-      "content": "I don't know it's about the process yeah I guess but do I see your point anything is the car lands right right now"
+      "content": "I don't know it's about the process yeah I guess but do I see your point anything is the car lands right right now",
+      "uuid": "a7f6e90b-3b7b-4578-a635-afacb59d5a6e"
     },
-    "220": {
+    {
       "requestid": "9a10a132-574c-4ea1-b31e-7ac155678f67",
       "confidence": "0.7869448",
       "timestamp": 220,
-      "content": "I presume crystal that you are the passenger and that your boyfriend is not suggesting that you check your teeth for broccoli while you are driving him around noon"
+      "content": "I presume crystal that you are the passenger and that your boyfriend is not suggesting that you check your teeth for broccoli while you are driving him around noon",
+      "uuid": "9eae6180-cc0d-4821-a61c-deae456e02fc"
     },
-    "230": {
+    {
       "requestid": "5be844f5-48a3-44e6-bf9b-584a425a8f45",
       "confidence": "0.6435859",
       "timestamp": 230,
-      "content": "like a big baby videos would rather that you are the puyallup river the passenger and erin get that we eat but we are driving to the movies or or 2"
+      "content": "like a big baby videos would rather that you are the puyallup river the passenger and erin get that we eat but we are driving to the movies or or 2",
+      "uuid": "218d098a-4b9c-4ed6-b30b-20c624623f50"
     },
-    "240": {
+    {
       "requestid": "28768ded-cc05-45a8-a88a-e031c88a6c2f",
       "confidence": "0.8154014",
       "timestamp": 240,
-      "content": "up to a local bistro or what have you and he's really mad at you because you wanna make sure that you have your wallet make you look nice in the very near before you get out"
+      "content": "up to a local bistro or what have you and he's really mad at you because you wanna make sure that you have your wallet make you look nice in the very near before you get out",
+      "uuid": "4438525f-d994-4051-a5f9-5f016c8369cc"
     },
-    "250": {
+    {
       "requestid": "6c44e009-62c9-4d77-ad29-6b7472236394",
       "confidence": "0.6904656",
       "timestamp": 250,
-      "content": "have a nice date with him but I do think there is a tattoo long are 2 to sit around in the car before getting out I am"
+      "content": "have a nice date with him but I do think there is a tattoo long are 2 to sit around in the car before getting out I am",
+      "uuid": "2cc7b4f4-a691-4094-a8c5-7cdd1d6e6da4"
     },
-    "260": {
+    {
       "requestid": "6fc548c1-857c-47f2-a885-9daeef1e0287",
       "confidence": "0.7381566",
       "timestamp": 260,
-      "content": "30 seconds if that's the time that your boyfriend wants well let's see how long that is gonna start I'm at now go for it so now here we are"
+      "content": "30 seconds if that's the time that your boyfriend wants well let's see how long that is gonna start I'm at now go for it so now here we are",
+      "uuid": "8d628bdf-02cf-4c17-b6d0-21a068c7c314"
     },
-    "270": {
+    {
       "requestid": "4a945be2-2487-43b4-87a4-760e44507f25",
       "confidence": "0.5811431",
       "timestamp": 270,
-      "content": "we just parked and we are 3 minutes 30 seconds or she will yeah well that's good luck no not written on visual podcast when you got a lot"
+      "content": "we just parked and we are 3 minutes 30 seconds or she will yeah well that's good luck no not written on visual podcast when you got a lot",
+      "uuid": "e63447e2-4c7d-4851-a0e4-6fe18891c17b"
     },
-    "280": {
+    {
       "requestid": "9f2ce2c8-a73c-4074-9261-b62ce03395d9",
       "confidence": "0.7179874",
       "timestamp": 280,
-      "content": "are you get a little bit of broccoli in your teeth I hang on I'm just watching the lipstick out of my mustache and dad and I get my wallet now"
+      "content": "are you get a little bit of broccoli in your teeth I hang on I'm just watching the lipstick out of my mustache and dad and I get my wallet now",
+      "uuid": "83b81b21-dac9-4847-a9d1-aeaefcfe5501"
     },
-    "290": {
+    {
       "requestid": "ec08db4f-1ce2-4113-b3de-ff04dd1107de",
       "confidence": "0.6839899",
       "timestamp": 290,
-      "content": "and I have a little bit of a time for you re there aren you completed the parking down pencil down that's 3930"
+      "content": "and I have a little bit of a time for you re there aren you completed the parking down pencil down that's 3930",
+      "uuid": "154e1246-30d8-4533-8e7e-51b22e0f8b5f"
     },
-    "300": {
+    {
       "requestid": "27187db9-31fb-498f-9b1f-8b21cf751c8b",
       "confidence": "0.7763356",
       "timestamp": 300,
-      "content": "is reasonable I'm gonna be 45 seconds and I would say to you tell your boyfriend that amanda the internet told him are you have 45 seconds"
+      "content": "is reasonable I'm gonna be 45 seconds and I would say to you tell your boyfriend that amanda the internet told him are you have 45 seconds",
+      "uuid": "b9f4ee78-3cac-4dac-a456-b364f0f7d82b"
     },
-    "310": {
+    {
       "requestid": "867b24e8-e8cc-4492-aa26-fbdde21aa5d4",
       "confidence": "0.7360188",
       "timestamp": 310,
-      "content": "to do your thing and if he wants to time you with a stop watch able revuelta both of you just wanna be controlling monster he is nancy"
+      "content": "to do your thing and if he wants to time you with a stop watch able revuelta both of you just wanna be controlling monster he is nancy",
+      "uuid": "0111a4f1-2a9b-4c0d-8c70-eb45b5df04fc"
     },
-    "320": {
+    {
       "requestid": "2aa5d8e9-30d6-4c51-b393-bf57deb7b606",
       "confidence": "0.3960161",
       "timestamp": 320,
-      "content": "response to that"
+      "content": "response to that",
+      "uuid": "4f3c5a4b-3da0-42b8-bfe2-77195f214313"
     },
-    "330": {
+    {
       "requestid": "bcda2316-1382-4fcc-be90-2335c704389b",
       "confidence": "0.8116638",
       "timestamp": 330,
-      "content": "the entire length of the car ride to look to see if she has broccoli in her teeth or lipstick in her teeth and yeah I know I need to include this in the parking process"
+      "content": "the entire length of the car ride to look to see if she has broccoli in her teeth or lipstick in her teeth and yeah I know I need to include this in the parking process",
+      "uuid": "29f212f5-2d2b-43d4-8e5c-5d8c02979876"
     },
-    "340": {
+    {
       "requestid": "df6d3eed-22a5-48bc-bad6-8b060ce77506",
       "confidence": "0.7117705",
       "timestamp": 340,
-      "content": "shisho you're ready to go as they are approaching the destination if she is the dry bar I need to take a moment to see if she has broccoli from their dinner date"
+      "content": "shisho you're ready to go as they are approaching the destination if she is the dry bar I need to take a moment to see if she has broccoli from their dinner date",
+      "uuid": "976d5877-2ce8-4333-a3d6-398a45377558"
     },
-    "350": {
+    {
       "requestid": "6d9e99e5-6db3-497f-a09c-72d30baf0ef3",
       "confidence": "0.8334992",
       "timestamp": 350,
-      "content": "or lipstick for any reason in her teeth before they get out of the car and exit the weather going that seems reasonable doubt she would have a minimum 30 seconds to"
+      "content": "or lipstick for any reason in her teeth before they get out of the car and exit the weather going that seems reasonable doubt she would have a minimum 30 seconds to",
+      "uuid": "a49032e1-e557-46df-a8a4-a2922708fdfa"
     },
-    "360": {
+    {
       "requestid": "b4ddd182-7934-4275-8982-894cf5a2061f",
       "confidence": "0.7176417",
       "timestamp": 360,
-      "content": "do that she told the driver is the passenger you must be ready to exit the vehicle as soon as it is built I'm in my humble opinion 5 I"
+      "content": "do that she told the driver is the passenger you must be ready to exit the vehicle as soon as it is built I'm in my humble opinion 5 I",
+      "uuid": "037a0862-870e-43dd-b6f3-73389b419685"
     },
-    "370": {
+    {
       "requestid": "a71ae038-c017-49da-a299-14a5b32dead2",
       "confidence": "0.5478698",
       "timestamp": 370,
-      "content": "got weird time change time you don't want the podcast well you know I just rented the judgment I just bring it is how how dare you she's 45 seconds today"
+      "content": "got weird time change time you don't want the podcast well you know I just rented the judgment I just bring it is how how dare you she's 45 seconds today",
+      "uuid": "3387174f-b0dd-48e5-a187-a815235d4d7a"
     },
-    "380": {
+    {
       "requestid": "4be7c547-e481-4e17-97b1-3dc18240eef2",
       "confidence": "0.6943909",
       "timestamp": 380,
-      "content": "care business that sound reasonable whether you're the passenger or the driver side I have a few do I take it but I'm so incensed I'm so incensed by this insubordination"
+      "content": "care business that sound reasonable whether you're the passenger or the driver side I have a few do I take it but I'm so incensed I'm so incensed by this insubordination",
+      "uuid": "e5cdd31d-7884-4e1e-a36f-9dc95b2a8844"
     },
-    "390": {
+    {
       "requestid": "5eb7a2d2-8325-41a6-a463-df8d21a089a3",
       "confidence": "0.6819405",
       "timestamp": 390,
-      "content": "well I take it back crystal pickle time you need me pickle time you need and if your boyfriend is a prob with that find another boyfriend show me how to the next"
+      "content": "well I take it back crystal pickle time you need me pickle time you need and if your boyfriend is a prob with that find another boyfriend show me how to the next",
+      "uuid": "04d36d3a-8a6c-4f09-84ee-e94b887f3f15"
     },
-    "400": {
+    {
       "requestid": "5cde7e23-b646-4c97-a78f-544dc333cecd",
       "confidence": "0.7276406",
       "timestamp": 400,
-      "content": "the docket item I am I'm ready to move on shannon writes my friend lisa and I have a regular game night with 2 other friends we play boggle"
+      "content": "the docket item I am I'm ready to move on shannon writes my friend lisa and I have a regular game night with 2 other friends we play boggle",
+      "uuid": "af7c4ecb-530a-4019-a983-ac7778615fb2"
     },
-    "410": {
+    {
       "requestid": "bd21a9fe-a490-4f8b-b0f3-1814f48e45b0",
       "confidence": "0.5730463",
       "timestamp": 410,
-      "content": "ja rule is the second one taboo and normally opinion on that I normally respectful losers and winners be off"
+      "content": "ja rule is the second one taboo and normally opinion on that I normally respectful losers and winners be off",
+      "uuid": "c729b914-15c5-4a79-9fed-3d4fa2abb785"
     },
-    "420": {
+    {
       "requestid": "2db3222a-5d57-432e-925e-3834b44aab61",
       "confidence": "0.7323842",
       "timestamp": 420,
-      "content": "discuss the rules of the game and establish brother rules for playing for instance what dictionary we consulted the event of challenge during boggo or scrabble so there you go to the boy scout do"
+      "content": "discuss the rules of the game and establish brother rules for playing for instance what dictionary we consulted the event of challenge during boggo or scrabble so there you go to the boy scout do",
+      "uuid": "4d605589-d38d-45f5-b385-b2b20b8ea3a1"
     },
-    "430": {
+    {
       "requestid": "792a8f4b-f600-4837-b6e7-58b21d2491e5",
       "confidence": "0.8363273",
       "timestamp": 430,
-      "content": "good I like their style we recently got into a dispute during a taboo incident I will assume you know the rules of this game the specific role in question is"
+      "content": "good I like their style we recently got into a dispute during a taboo incident I will assume you know the rules of this game the specific role in question is",
+      "uuid": "317e7268-6de8-4588-9dda-6cfc14c00375"
     },
-    "440": {
+    {
       "requestid": "4cc76e8b-5070-4636-9385-49f9678b9f2f",
       "confidence": "0.700405",
       "timestamp": 440,
-      "content": "where is may not use all are part of word is it cool if IE up the word to big <profanity>ass</profanity> is neighborhood you cannot give blood at the clip art dispute arose over the word pad"
+      "content": "where is may not use all are part of word is it cool if IE up the word to big <profanity>ass</profanity> is neighborhood you cannot give blood at the clip art dispute arose over the word pad",
+      "uuid": "6e335c7e-f638-48c1-acdb-f19e42ff42e4"
     },
-    "450": {
+    {
       "requestid": "8050a7f2-a4f7-4962-8995-43a5137bfa35",
       "confidence": "0.6381879",
       "timestamp": 450,
-      "content": "and with his partner described it as like a pencil I immediately buzz demson span is in the word pencil because I don't speak well"
+      "content": "and with his partner described it as like a pencil I immediately buzz demson span is in the word pencil because I don't speak well",
+      "uuid": "38a3c011-8691-4bee-8e4b-3ad40ef1400c"
     },
-    "460": {
+    {
       "requestid": "aa343411-8075-45d2-8a34-6503251b6bb0",
       "confidence": "0.7681812",
       "timestamp": 460,
-      "content": "and I did not know that the 2 words have different etymology is lisa did know that I say the game taboo is for the everyday folk like me who thought pencil"
+      "content": "and I did not know that the 2 words have different etymology is lisa did know that I say the game taboo is for the everyday folk like me who thought pencil",
+      "uuid": "7da6cd6d-559c-43cd-934b-fa39ebcfcc2d"
     },
-    "470": {
+    {
       "requestid": "1ed203f1-8752-4d8b-92d7-2f8cb5431ff9",
       "confidence": "0.6663859",
       "timestamp": 470,
-      "content": "what latin 4 kinda like a pen she compares the situation to giving a clue word as and if the word gas was sick and"
+      "content": "what latin 4 kinda like a pen she compares the situation to giving a clue word as and if the word gas was sick and",
+      "uuid": "990bd332-8f81-464e-a4f3-222ddc9a8fca"
     },
-    "480": {
+    {
       "requestid": "dc67638f-e980-44ba-9164-78ebc3ce8db4",
       "confidence": "0.7205079",
       "timestamp": 480,
-      "content": "which she wrote an aggressive and admittedly psychotic email to hasbro to settle the dispute which I would like to submit into as evidence jelly read what"
+      "content": "which she wrote an aggressive and admittedly psychotic email to hasbro to settle the dispute which I would like to submit into as evidence jelly read what",
+      "uuid": "c74279c8-ca03-4d99-a716-3dbb1b8b992e"
     },
-    "490": {
+    {
       "requestid": "4716c3d4-40df-4a32-b711-4812efff3dd6",
       "confidence": "0.5562732",
       "timestamp": 490,
-      "content": "she wrote a hasbro navad we will post her long letter about the hasbro on our website let me with blue ribbon"
+      "content": "she wrote a hasbro navad we will post her long letter about the hasbro on our website let me with blue ribbon",
+      "uuid": "03b2ed2e-1507-4009-9cbc-f1a3f4760f33"
     },
-    "500": {
+    {
       "requestid": "99ea58a8-0828-4304-a007-4144c239bf83",
       "confidence": "0.6334169",
       "timestamp": 500,
-      "content": "sponse bazia yet so here is the reply from hasbro response by mike from hasbro hi lisa thank you for contacting has broward's r d taboo I'm please"
+      "content": "sponse bazia yet so here is the reply from hasbro response by mike from hasbro hi lisa thank you for contacting has broward's r d taboo I'm please",
+      "uuid": "bb1df6df-052f-402a-b18b-1dcf3de2a37b"
     },
-    "510": {
+    {
       "requestid": "48358dbc-9bf5-486e-9bf3-facffc70d651",
       "confidence": "0.8294016",
       "timestamp": 510,
-      "content": "reply the second team who are relying on animal logical reasoning is correct again I'd like to thank you for taking the time to reach out to us I hope you have a fun day kind regards"
+      "content": "reply the second team who are relying on animal logical reasoning is correct again I'd like to thank you for taking the time to reach out to us I hope you have a fun day kind regards",
+      "uuid": "560e020e-ab9d-411b-aa36-1850357cc89f"
     },
-    "520": {
+    {
       "requestid": "275a4ee9-2656-4579-8542-f372ec61351c",
       "confidence": "0.6662552",
       "timestamp": 520,
-      "content": "thanks mike hasbro who is correct to lisas team is correct that the etymology is"
+      "content": "thanks mike hasbro who is correct to lisas team is correct that the etymology is",
+      "uuid": "30401943-d543-44a5-86e2-80c57d39b964"
     },
-    "530": {
+    {
       "requestid": "1347ed52-2f8c-4738-9e6b-3f3b3126c52d",
       "confidence": "0.7758175",
       "timestamp": 530,
-      "content": "of pen and pencil are distinct according to her friend merriam webster employer of occasional judge john hodgman lexicographer emily brewster"
+      "content": "of pen and pencil are distinct according to her friend merriam webster employer of occasional judge john hodgman lexicographer emily brewster",
+      "uuid": "c441c9f4-50bf-49d4-8b49-30de8ff60e87"
     },
-    "540": {
+    {
       "requestid": "e2ea7923-c37e-4665-8203-bc556ea1e483",
       "confidence": "0.5263821",
       "timestamp": 540,
-      "content": "and regular guest on my show on Wi-Fi every wednesday coming back at the beaarthur.com but luckily plenty of the the the word"
+      "content": "and regular guest on my show on Wi-Fi every wednesday coming back at the beaarthur.com but luckily plenty of the the the word",
+      "uuid": "ecdf99f5-bbe9-4b95-91ac-9701630c5a55"
     },
-    "550": {
+    {
       "requestid": "49a422ea-1ade-4fcf-8ef6-56b2d70894eb",
       "confidence": "0.6383881",
       "timestamp": 550,
-      "content": "in not comes with the middle english pena from the anglo french up for a feather pen but that is the pin like a like a like a feather"
+      "content": "in not comes with the middle english pena from the anglo french up for a feather pen but that is the pin like a like a like a feather",
+      "uuid": "6055a37b-8c63-4a7c-957a-6979571c585b"
     },
-    "560": {
+    {
       "requestid": "11c7a2ea-2d27-48d5-9596-df9e89874883",
       "confidence": "0.5520028",
       "timestamp": 560,
-      "content": "I will get it and yes please don't you support infantry pentel pens in middle english pencil PENSE elphin angra french cancel"
+      "content": "I will get it and yes please don't you support infantry pentel pens in middle english pencil PENSE elphin angra french cancel",
+      "uuid": "3f76b704-f330-4c8e-ac10-166846527755"
     },
-    "570": {
+    {
       "requestid": "6a897cb2-16ec-4087-996e-861259ab3849",
       "confidence": "0.5268695",
       "timestamp": 570,
-      "content": "older latin pendas ellis alteration of latin penicillin is the meaning of a panniculus meaning brush holder get well from the definition"
+      "content": "older latin pendas ellis alteration of latin penicillin is the meaning of a panniculus meaning brush holder get well from the definition",
+      "uuid": "cb27afa8-368d-4a70-9048-9ef15aaa1707"
     },
-    "580": {
+    {
       "requestid": "4c630ac6-f6fb-4a3e-ae83-703c1e9b72f5",
       "confidence": "0.5419343",
       "timestamp": 580,
-      "content": "vendom unit of <profanity>penis</profanity> meaning tail or <profanity>penis</profanity> in in the lab so are in for sony's also 14 sentry"
+      "content": "vendom unit of <profanity>penis</profanity> meaning tail or <profanity>penis</profanity> in in the lab so are in for sony's also 14 sentry",
+      "uuid": "af617916-44af-4310-bb37-630ceb3c7379"
     },
-    "590": {
+    {
       "requestid": "f07480ec-9918-4935-b928-768477e6eb8b",
       "confidence": "0.5530748",
       "timestamp": 590,
-      "content": "2 different word one from teen pen is in faizon feather pen feather of quill pen and pencil from barbara <profanity>penis</profanity> so I"
+      "content": "2 different word one from teen pen is in faizon feather pen feather of quill pen and pencil from barbara <profanity>penis</profanity> so I",
+      "uuid": "2dd4f7bd-4c11-42ac-9646-d5e910867c91"
     },
-    "600": {
+    {
       "requestid": "e2ed3d40-1eca-4a59-8bcf-f0216fa9e1eb",
       "confidence": "0.6514459",
       "timestamp": 600,
-      "content": "it's true they are adding watch with a stink but we may reclear it on social media merriam webster in a social media post suggie"
+      "content": "it's true they are adding watch with a stink but we may reclear it on social media merriam webster in a social media post suggie",
+      "uuid": "23d8ac38-b564-493a-8928-7c0edb820a92"
     },
-    "610": {
+    {
       "requestid": "fcc84466-7874-4373-b886-c91210fa7af2",
       "confidence": "0.6080626",
       "timestamp": 610,
-      "content": "the hot dog is a sandwich so with romantic night out the window I'm so sorry so sorry emily how do I did not a sandwich"
+      "content": "the hot dog is a sandwich so with romantic night out the window I'm so sorry so sorry emily how do I did not a sandwich",
+      "uuid": "3e9c044b-eeaa-4f8d-9512-00646a310b4b"
     },
-    "620": {
+    {
       "requestid": "63ce7624-ca23-45f7-9d17-7f2857ed4e5c",
       "confidence": "0.6903173",
       "timestamp": 620,
-      "content": "you know right on everything merriam webster is done because a hot dog and a sandwich this is an aston answered piece of settle on the judge john hodgman canon hot dogs in a sandwich wyd monte"
+      "content": "you know right on everything merriam webster is done because a hot dog and a sandwich this is an aston answered piece of settle on the judge john hodgman canon hot dogs in a sandwich wyd monte",
+      "uuid": "30ddaa1f-8955-4a42-be1d-7259a0766084"
     },
-    "630": {
+    {
       "requestid": "6f61fdbf-9fa4-46f0-b259-a39abaaa6581",
       "confidence": "0.6986002",
       "timestamp": 630,
-      "content": "what is the distinctive thing that makes a hot dogs at cingular the food stuff that is not a sandwich for this I know that you said that"
+      "content": "what is the distinctive thing that makes a hot dogs at cingular the food stuff that is not a sandwich for this I know that you said that",
+      "uuid": "f4bdf9dd-61d6-46a5-9d1d-022f0d1be0f4"
     },
-    "640": {
+    {
       "requestid": "58f44799-838e-4034-bc9c-ab46d07fdb27",
       "confidence": "0.7435017",
       "timestamp": 640,
-      "content": "anytime if I could narrow down what is that is it because the bond is connected you don't cut it in half right exactly that's what I thought your name is sandwich my name another sandwich"
+      "content": "anytime if I could narrow down what is that is it because the bond is connected you don't cut it in half right exactly that's what I thought your name is sandwich my name another sandwich",
+      "uuid": "f5bea916-6601-442b-892c-5911f9c3cc4a"
     },
-    "650": {
+    {
       "requestid": "df2dc868-c6e5-4277-b2b0-8d947ba1dad0",
       "confidence": "0.6560146",
       "timestamp": 650,
-      "content": "is another sandwich and that you did would not serve card and have I miss you and are weird dress like a screaming child hot dogs out how much more is a hamburger differently"
+      "content": "is another sandwich and that you did would not serve card and have I miss you and are weird dress like a screaming child hot dogs out how much more is a hamburger differently",
+      "uuid": "0cc9eb43-fc79-48f3-84ea-325c64f8ad5c"
     },
-    "660": {
+    {
       "requestid": "9246ee28-b5c5-43eb-a87e-acb50b3ea495",
       "confidence": "0.6156771",
       "timestamp": 660,
-      "content": "it's not it's not about the bon connectedness know there's all kinds of bread combos it doesn't necessarily make it a sandwich and any would like that damn pashmina"
+      "content": "it's not it's not about the bon connectedness know there's all kinds of bread combos it doesn't necessarily make it a sandwich and any would like that damn pashmina",
+      "uuid": "c7300cdd-6d23-4f37-9cd7-2f0d6d37fe20"
     },
-    "670": {
+    {
       "requestid": "db739843-b702-40d1-beef-1afa3a66e7ef",
       "confidence": "0.7045706",
       "timestamp": 670,
-      "content": "spoke to podcast have sex to me one more time it's a sandwich coz the finger sandwiches between 2 pieces of bread like that that is the worst kind of a"
+      "content": "spoke to podcast have sex to me one more time it's a sandwich coz the finger sandwiches between 2 pieces of bread like that that is the worst kind of a",
+      "uuid": "5606b4a8-f1a5-4a57-b00f-75c097bb61c1"
     },
-    "680": {
+    {
       "requestid": "479a0e56-c60d-4505-b6f0-2879d85cc7da",
       "confidence": "0.6655211",
       "timestamp": 680,
-      "content": "atata logical fallacy like ever heard we get the additive sandwich from the sandwich that's not how you to <profanity>fuck off</profanity>"
+      "content": "atata logical fallacy like ever heard we get the additive sandwich from the sandwich that's not how you to <profanity>fuck off</profanity>",
+      "uuid": "c369128c-180e-4c07-8dfb-f4039295656f"
     },
-    "690": {
+    {
       "requestid": "373955d9-3c30-4d17-84c4-b4e5ba225864",
       "confidence": "0.5958762",
       "timestamp": 690,
-      "content": "joe man normally them to put a new job and your daddy are you normally stay silent just gets the job done and get home in time"
+      "content": "joe man normally them to put a new job and your daddy are you normally stay silent just gets the job done and get home in time",
+      "uuid": "c40c8cc4-0e5c-4f5d-9742-442673041bbb"
     },
-    "700": {
+    {
       "requestid": "452bfbb9-fae0-44fe-add9-01abcbef0fce",
       "confidence": "0.7960566",
       "timestamp": 700,
-      "content": "would you say hot dog is a sandwich know right thank you very mucho man thank you man is spoken for now I'm just going to say merriam websters judgment is"
+      "content": "would you say hot dog is a sandwich know right thank you very mucho man thank you man is spoken for now I'm just going to say merriam websters judgment is",
+      "uuid": "101bbebb-5d99-4841-b223-f4ab82ff10cc"
     },
-    "710": {
+    {
       "requestid": "4af8d2ba-8307-41c0-b565-bccc5f6d3892",
       "confidence": "0.7099409",
       "timestamp": 710,
-      "content": "and is it is questionable even though these are etymologically distinct words pen and pencil I think it is the splitting of the"
+      "content": "and is it is questionable even though these are etymologically distinct words pen and pencil I think it is the splitting of the",
+      "uuid": "50f7573f-4de4-49c2-b0d2-004431e2799b"
     },
-    "720": {
+    {
       "requestid": "8e8e57d1-ea91-49d4-8abf-cd10c15c5533",
       "confidence": "0.7265085",
       "timestamp": 720,
-      "content": "finaste her for your friend to say what is clearly a important part of the word pin an app that it will"
+      "content": "finaste her for your friend to say what is clearly a important part of the word pin an app that it will",
+      "uuid": "86a51a1b-3bb8-4ab4-9a4e-b971c60c9b07"
     },
-    "730": {
+    {
       "requestid": "593a8bae-f9e6-495d-8dd0-36ebc67262b0",
       "confidence": "0.7422269",
       "timestamp": 730,
-      "content": "which seems to be a clear violation of the common sense rules of taboo I don't care what mike hasbro says that's too close to say"
+      "content": "which seems to be a clear violation of the common sense rules of taboo I don't care what mike hasbro says that's too close to say",
+      "uuid": "447245a2-e6f6-4ed3-87c6-10ea5862ea98"
     },
-    "740": {
+    {
       "requestid": "448a28dd-eae1-4061-81c6-6c7c14689999",
       "confidence": "0.7872238",
       "timestamp": 740,
-      "content": "it's like a pencil when you're trying to skype in where does not but does not hold water for me and since we both agree that using the word put it in"
+      "content": "it's like a pencil when you're trying to skype in where does not but does not hold water for me and since we both agree that using the word put it in",
+      "uuid": "beb02012-bf14-4463-aacd-6307b2c49466"
     },
-    "750": {
+    {
       "requestid": "416dd086-0cab-4936-96c7-907f10695e7f",
       "confidence": "0.7045534",
       "timestamp": 750,
-      "content": "this whole thing is like saying and is in part of a sandwich that's just the pedantic up a dodge I'll be single and would do that with pen and pencil"
+      "content": "this whole thing is like saying and is in part of a sandwich that's just the pedantic up a dodge I'll be single and would do that with pen and pencil",
+      "uuid": "1dba13d0-42a3-463d-9f35-a94f101470ac"
     },
-    "760": {
+    {
       "requestid": "701302de-8854-4b74-92b5-e6994063bf3b",
       "confidence": "0.6981854",
       "timestamp": 760,
-      "content": "you know there from the sting of logical words I think it's very hard to make an argument about is fair play in taboo and so II go against the dictionary and I go again"
+      "content": "you know there from the sting of logical words I think it's very hard to make an argument about is fair play in taboo and so II go against the dictionary and I go again",
+      "uuid": "a203b4a3-1f09-4e08-95bd-859343949506"
     },
-    "770": {
+    {
       "requestid": "e2a8997c-f20b-411c-9ed4-1cefc389e80d",
       "confidence": "0.7238928",
       "timestamp": 770,
-      "content": "just did the company itself to say that game is forfeit rematches would like to know who wins will be back with more disputes after break"
+      "content": "just did the company itself to say that game is forfeit rematches would like to know who wins will be back with more disputes after break",
+      "uuid": "222ebd02-c17f-45b4-aecc-ac3efc7f4dfa"
     },
-    "780": {
+    {
       "requestid": "f10f97f0-5ad5-452d-b01d-310d06622bd5",
       "confidence": "0.8226588",
       "timestamp": 780,
-      "content": "in these messages"
+      "content": "in these messages",
+      "uuid": "c5438a33-7eec-4220-9a56-8ee565d53f51"
     },
-    "790": {
+    {
       "requestid": "6cb410aa-9a6a-49e5-a6b0-c98e4c6f69e3",
       "confidence": "0.317032",
       "timestamp": 790,
-      "content": "susan miller tiny graduation motor boards in love"
+      "content": "susan miller tiny graduation motor boards in love",
+      "uuid": "2b7ec664-089d-46e4-941c-4510267a1451"
     },
-    "800": {
+    {
       "requestid": "724a964c-2a18-4c9e-b01e-2963ec37ff07",
       "confidence": "0.4275641",
       "timestamp": 800,
-      "content": "the best double take it slow it down my taxes"
+      "content": "the best double take it slow it down my taxes",
+      "uuid": "f181117c-2621-491f-aa1c-548c02e09fb5"
     },
-    "810": {
+    {
       "requestid": "72455397-5d7a-4678-88b1-5df3b21c6a05",
       "confidence": "0.5613495",
       "timestamp": 810,
-      "content": "show us uk comedian battle for pop culture supremacy drive right now on I tunes for a maximumfun.org hello judge john hodgman listeners this is"
+      "content": "show us uk comedian battle for pop culture supremacy drive right now on I tunes for a maximumfun.org hello judge john hodgman listeners this is",
+      "uuid": "0361bc15-1e35-4f8f-b479-a5c805a707be"
     },
-    "820": {
+    {
       "requestid": "bbb39010-ab62-43df-9899-30a933a7ab59",
       "confidence": "0.7562281",
       "timestamp": 820,
-      "content": "judge john hodgman you know recently I use the internet myself to announce all the dates of my forthcoming vacationland tour which is my 75 today"
+      "content": "judge john hodgman you know recently I use the internet myself to announce all the dates of my forthcoming vacationland tour which is my 75 today",
+      "uuid": "f8e07ad3-52c3-4259-80c5-4dab9f85ba21"
     },
-    "830": {
+    {
       "requestid": "cb769d50-3baa-4439-a16b-10191d62f46b",
       "confidence": "0.8160889",
       "timestamp": 830,
-      "content": "80 minutes a brand new comedy stories and personal recollections that I am bringing 2 stages across the united states in 2 great cities of canada vancouver and toronto"
+      "content": "80 minutes a brand new comedy stories and personal recollections that I am bringing 2 stages across the united states in 2 great cities of canada vancouver and toronto",
+      "uuid": "884727da-51db-48c4-b721-687b7f79db0b"
     },
-    "840": {
+    {
       "requestid": "10c462ac-dae3-4683-9777-a22551243852",
       "confidence": "0.831302",
       "timestamp": 840,
-      "content": "if you would like to buy tickets I hope you will go to johnhodgman.com slash tour touw are you see all the dates and all that ticket links there I love performing live"
+      "content": "if you would like to buy tickets I hope you will go to johnhodgman.com slash tour touw are you see all the dates and all that ticket links there I love performing live",
+      "uuid": "428d4de2-3d7a-4072-a019-c9c2435a3e7e"
     },
-    "850": {
+    {
       "requestid": "91d21835-0398-4af2-9ab9-f8b6faf93c16",
       "confidence": "0.8147564",
       "timestamp": 850,
-      "content": "but it's better when you are there after every show I'll be coming out to meet and greet and sign and hang and chill and you know all the things that I do and I look for"
+      "content": "but it's better when you are there after every show I'll be coming out to meet and greet and sign and hang and chill and you know all the things that I do and I look for",
+      "uuid": "1b5a5bac-6c70-4a49-be8d-42a7d7224da6"
     },
-    "860": {
+    {
       "requestid": "28e595c7-29f7-4ae2-ad68-adcb8f09750c",
       "confidence": "0.8725299",
       "timestamp": 860,
-      "content": "seeing you and looking in the eye and say thank you for coming to the show stop taking my picture"
+      "content": "seeing you and looking in the eye and say thank you for coming to the show stop taking my picture",
+      "uuid": "bbdf5fe0-3882-4e07-b562-300e8c24aed2"
     },
-    "870": {
+    {
       "requestid": "d1008809-fb24-4861-973e-926bc4016bc1",
       "confidence": "0.8329055",
       "timestamp": 870,
-      "content": "manjan writes a few weeks ago I hit a raccoon while driving my car I pulled over and examined the animal from a distance and concluded that it was most"
+      "content": "manjan writes a few weeks ago I hit a raccoon while driving my car I pulled over and examined the animal from a distance and concluded that it was most",
+      "uuid": "55ce675b-c948-44c8-a7cd-bd800f9b0359"
     },
-    "880": {
+    {
       "requestid": "4f243670-a089-420c-b51b-77f7c4395114",
       "confidence": "0.7471392",
       "timestamp": 880,
-      "content": "likely dead even know it was not done with malicious intent I feel that I deserve punishment for accidental raccoon slotter my girlfriend katie"
+      "content": "likely dead even know it was not done with malicious intent I feel that I deserve punishment for accidental raccoon slotter my girlfriend katie",
+      "uuid": "42c0c20d-fdb5-4e09-abdf-59288a295f63"
     },
-    "890": {
+    {
       "requestid": "c75e44a5-5e48-4a08-ba67-25abcebe863d",
       "confidence": "0.727864",
       "timestamp": 890,
-      "content": "says that raccoons are past and they only spread disease I do the world a favor by murdering this one and should not feel bad however raccoons are obviously super cute little"
+      "content": "says that raccoons are past and they only spread disease I do the world a favor by murdering this one and should not feel bad however raccoons are obviously super cute little",
+      "uuid": "beb7ba1b-77a6-4fb7-a02e-ba47c0a1c370"
     },
-    "900": {
+    {
       "requestid": "d2be4f7f-19a4-419e-9dc5-8b607bcd5a57",
       "confidence": "0.7228276",
       "timestamp": 900,
-      "content": "roscoe's i feel that I should do something to repay my debt to raccoon kind after all this animal wouldn't have died if not for me I hope the judge john hodgman kinda loud"
+      "content": "roscoe's i feel that I should do something to repay my debt to raccoon kind after all this animal wouldn't have died if not for me I hope the judge john hodgman kinda loud",
+      "uuid": "44cdd0e9-58a2-4cfd-b34d-700bb7a72ee0"
     },
-    "910": {
+    {
       "requestid": "62e9f475-ec3e-4029-b757-06973c0045f6",
       "confidence": "0.7732826",
       "timestamp": 910,
-      "content": "for punishment for me please don't let this raccoons live in for nothing but smile when you say that raccoon probably would have died if you hadn't had it with"
+      "content": "for punishment for me please don't let this raccoons live in for nothing but smile when you say that raccoon probably would have died if you hadn't had it with",
+      "uuid": "221c0f7e-b1a2-429f-8fc1-1ee6b71b6f01"
     },
-    "920": {
+    {
       "requestid": "cef54faa-6c47-4d02-9da0-1a0f15a8b8bc",
       "confidence": "0.4050538",
       "timestamp": 920,
-      "content": "are eventually I'm better but at ya hoo fun little fact I recommend their mortal until they get killed"
+      "content": "are eventually I'm better but at ya hoo fun little fact I recommend their mortal until they get killed",
+      "uuid": "5cd7468f-dc11-4709-9a5f-5870af50ea00"
     },
-    "930": {
+    {
       "requestid": "5dbf6eaf-daa0-47ae-baed-698c72a92653",
       "confidence": "0.699762",
       "timestamp": 930,
-      "content": "humans in cars no that's not workable fabric unas wild animal that is living a life of danger that you'll never understand where"
+      "content": "humans in cars no that's not workable fabric unas wild animal that is living a life of danger that you'll never understand where",
+      "uuid": "f86a2dd1-2fcd-45b7-aa61-ce0adac5112c"
     },
-    "940": {
+    {
       "requestid": "8b06c607-1cd0-4254-9690-e765bedcbcdc",
       "confidence": "0.7110465",
       "timestamp": 940,
-      "content": "at thre koon is it in mortal peril every or was I should say in mortal peril every moment of its life is not dying from"
+      "content": "at thre koon is it in mortal peril every or was I should say in mortal peril every moment of its life is not dying from",
+      "uuid": "b8f436ce-05ec-4299-9b21-6505927b3da2"
     },
-    "950": {
+    {
       "requestid": "ad58f36c-3c7d-4ca8-9b39-3fc2c2180b01",
       "confidence": "0.6766219",
       "timestamp": 950,
-      "content": "accident or misadventure from disease or malnutrition and cars cars in car look but I understand its know it"
+      "content": "accident or misadventure from disease or malnutrition and cars cars in car look but I understand its know it",
+      "uuid": "9c5c3857-445e-467c-a54e-10f35eb1b83b"
     },
-    "960": {
+    {
       "requestid": "7fcc9316-8576-43fd-a506-7d538f6ff9cb",
       "confidence": "0.8181019",
       "timestamp": 960,
-      "content": "sing something with your car in killing at the <profanity>fuck</profanity> are you at I'm not something that has happened to me though I've come close a few times and I"
+      "content": "sing something with your car in killing at the <profanity>fuck</profanity> are you at I'm not something that has happened to me though I've come close a few times and I",
+      "uuid": "d3c54e56-e53c-4bef-a5d1-409455500ac2"
     },
-    "970": {
+    {
       "requestid": "1dd66397-40e7-4f8b-bce2-f6dbadc80946",
       "confidence": "0.6551419",
       "timestamp": 970,
-      "content": "probably inadvertently smashed a few chipmunks without realizing it because they don't make a big bump but is hiding something"
+      "content": "probably inadvertently smashed a few chipmunks without realizing it because they don't make a big bump but is hiding something",
+      "uuid": "9d1fb0e8-7127-4fa0-8a43-a4f906b66541"
     },
-    "980": {
+    {
       "requestid": "65b88fdf-a94b-4fef-b442-640591437ed3",
       "confidence": "0.8295509",
       "timestamp": 980,
-      "content": "car aaa is dramatic for a lot of reasons and killing an animal without intending to is awful and it speaks too"
+      "content": "car aaa is dramatic for a lot of reasons and killing an animal without intending to is awful and it speaks too",
+      "uuid": "a82c2232-a0c5-4f2c-bfbb-bcb5bca88cce"
     },
-    "990": {
+    {
       "requestid": "0b52ff77-3252-4458-93cc-b168cd58ae80",
       "confidence": "0.5773183",
       "timestamp": 990,
-      "content": "you are profound ha I would prefer the complicated relationship with animal time is difficult to discern in life which animal"
+      "content": "you are profound ha I would prefer the complicated relationship with animal time is difficult to discern in life which animal",
+      "uuid": "c82a685b-0388-4f75-bcc9-636ad991bbec"
     },
-    "1000": {
+    {
       "requestid": "8ff547ed-59ee-428b-8c17-ea7a2cff59c6",
       "confidence": "0.8094295",
       "timestamp": 1000,
-      "content": "we should keep and cuddle which are the cute little rascals that we should make a part of our lives in endeavour to the key"
+      "content": "we should keep and cuddle which are the cute little rascals that we should make a part of our lives in endeavour to the key",
+      "uuid": "1391c316-fa99-42fe-be1d-c0b6f447995d"
     },
-    "1010": {
+    {
       "requestid": "63029485-5750-403d-8ad9-6abbc8e88035",
       "confidence": "0.7274809",
       "timestamp": 1010,
-      "content": "live even at great expense at it through them of diseases and which animals we should murder with boys in lisbon time my life when I have"
+      "content": "live even at great expense at it through them of diseases and which animals we should murder with boys in lisbon time my life when I have",
+      "uuid": "5cc2bba2-a26b-4d5f-ae81-58f15faa19ab"
     },
-    "1020": {
+    {
       "requestid": "deb240df-596b-4328-a7b6-0ca9e13c6b41",
       "confidence": "0.6106189",
       "timestamp": 1020,
-      "content": "had the wharf hamsters hey in a cage that I kept because my children if you to care for them"
+      "content": "had the wharf hamsters hey in a cage that I kept because my children if you to care for them",
+      "uuid": "5b1b721f-9c94-48ef-8422-818e9b4914db"
     },
-    "1030": {
+    {
       "requestid": "b8bf9e16-f0d3-4c7c-b031-47b3ca41e603",
       "confidence": "0.714968",
       "timestamp": 1030,
-      "content": "right now I fed and watered daily and comforted as they slowly died of the many weird tumors that these things get and watch them take it last"
+      "content": "right now I fed and watered daily and comforted as they slowly died of the many weird tumors that these things get and watch them take it last",
+      "uuid": "6d94ded6-65e1-4506-8a4b-18c51793727e"
     },
-    "1040": {
+    {
       "requestid": "a2826058-2c8c-4393-bb33-b7734b44b843",
       "confidence": "0.7191789",
       "timestamp": 1040,
-      "content": "and then buried in the backyard wall in the next in the in the next room basically in the garage I was routinely slaughtering mice are"
+      "content": "and then buried in the backyard wall in the next in the in the next room basically in the garage I was routinely slaughtering mice are",
+      "uuid": "e0c3ecce-e8e6-448f-858c-23e504e04139"
     },
-    "1050": {
+    {
       "requestid": "017713d7-577f-44ad-8579-bccb072f496d",
       "confidence": "0.6352948",
       "timestamp": 1050,
-      "content": "with with traps and poison raa in the most gruesome possible ways I'm so they would not going to the walls and pooping are so bored wars"
+      "content": "with with traps and poison raa in the most gruesome possible ways I'm so they would not going to the walls and pooping are so bored wars",
+      "uuid": "3c983e71-e99c-40cd-8ae0-1a63969cb9ad"
     },
-    "1060": {
+    {
       "requestid": "0ddc5149-f2ad-4daa-b1be-d25e8210d2c4",
       "confidence": "0.6609939",
       "timestamp": 1060,
-      "content": "how hard is the weird line with nude you hear you're tending to one animal in killing another word for sport food or personal comfort panda and yet"
+      "content": "how hard is the weird line with nude you hear you're tending to one animal in killing another word for sport food or personal comfort panda and yet",
+      "uuid": "18edb210-653b-4d46-a6b6-f7ec2f7d1d44"
     },
-    "1070": {
+    {
       "requestid": "08831bf7-9219-446c-a3d9-a3f4e4502d55",
       "confidence": "0.5671418",
       "timestamp": 1070,
-      "content": "I do know this raccoons poop poison okay listening I've learned from being in the country and I want"
+      "content": "I do know this raccoons poop poison okay listening I've learned from being in the country and I want",
+      "uuid": "fe1b4896-8df6-4ade-b283-7e379d03372e"
     },
-    "1080": {
+    {
       "requestid": "453bb796-0692-4194-bd46-2401af236720",
       "confidence": "0.681314",
       "timestamp": 1080,
-      "content": "imaginame I get before I want everyone to listen to it with this on my voice to take very seriously raccoon feces is poisonous"
+      "content": "imaginame I get before I want everyone to listen to it with this on my voice to take very seriously raccoon feces is poisonous",
+      "uuid": "a77a8a9b-8390-4309-92c7-6cac80dfd64a"
     },
-    "1090": {
+    {
       "requestid": "50a78097-f667-48c0-9097-80fa9c9c32df",
       "confidence": "0.7361962",
       "timestamp": 1090,
-      "content": "it is highly toxic and if you ever see or a raccoon latrines is there called the on your property or anywhere"
+      "content": "it is highly toxic and if you ever see or a raccoon latrines is there called the on your property or anywhere",
+      "uuid": "262efff4-9760-4a65-9a06-f03b2562a537"
     },
-    "1100": {
+    {
       "requestid": "7dc83033-900b-484e-856d-02d8b3ab9cfa",
       "confidence": "0.7782835",
       "timestamp": 1100,
-      "content": "stay away from it if I may defer to these the expertise of the king county washington state website kingcounty.gov"
+      "content": "stay away from it if I may defer to these the expertise of the king county washington state website kingcounty.gov",
+      "uuid": "44334034-7443-4fe9-ab5d-bc17e8c6a51c"
     },
-    "1110": {
+    {
       "requestid": "d1be5bf3-aafe-4b40-b738-23ce6b363098",
       "confidence": "0.6448101",
       "timestamp": 1110,
-      "content": "racun feces are very likely to contain roundworm eggs that can be hazardous to human health that is infectious eggs are in a bird least"
+      "content": "racun feces are very likely to contain roundworm eggs that can be hazardous to human health that is infectious eggs are in a bird least",
+      "uuid": "c46774f6-e8e3-48c4-9cbc-7d24d6b60d76"
     },
-    "1120": {
+    {
       "requestid": "3a1a35d7-7372-4908-af59-53bc0c0b81d6",
       "confidence": "0.7254845",
       "timestamp": 1120,
-      "content": "all is by humans other mammals or birds be immature stage of the worms hatchard the eggs in moving to the organs of the body is weak and they can cause sickness"
+      "content": "all is by humans other mammals or birds be immature stage of the worms hatchard the eggs in moving to the organs of the body is weak and they can cause sickness",
+      "uuid": "2024e1b3-e75e-4b64-a077-3cbe8dded9c3"
     },
-    "1130": {
+    {
       "requestid": "fe69c73a-4026-44dc-84ed-ad2871729e34",
       "confidence": "0.7538633",
       "timestamp": 1130,
-      "content": "which includes all kinds of central nervous system diseases that you don't want to have an can be fatal a lot of fatalities do to <profanity>piss</profanity> handling the raccoon poop but some now"
+      "content": "which includes all kinds of central nervous system diseases that you don't want to have an can be fatal a lot of fatalities do to <profanity>piss</profanity> handling the raccoon poop but some now",
+      "uuid": "e7e5f478-da7f-448a-a63b-5aa3140c445f"
     },
-    "1140": {
+    {
       "requestid": "1f45b478-c586-4e25-8f92-f512c4353dfd",
       "confidence": "0.7984536",
       "timestamp": 1140,
-      "content": "how do I know this coz I have one on my property and I have to put on a special ago they tell you basically put on a hazmat suit for handling this stuff or call"
+      "content": "how do I know this coz I have one on my property and I have to put on a special ago they tell you basically put on a hazmat suit for handling this stuff or call",
+      "uuid": "6ec2d753-9785-4bf6-9372-ad32bef4b5ef"
     },
-    "1150": {
+    {
       "requestid": "2d887201-5407-4a56-bcc9-9341755b8d5e",
       "confidence": "0.612454",
       "timestamp": 1150,
-      "content": "professional and I can not pick him up dresses more plainly my favorite part of this website though which I went to today to look at the specific"
+      "content": "professional and I can not pick him up dresses more plainly my favorite part of this website though which I went to today to look at the specific",
+      "uuid": "0b7bc4fd-23a2-4887-8e8d-3e4e075c2133"
     },
-    "1160": {
+    {
       "requestid": "96b59b8c-824d-40c3-b124-a4ed4d48f181",
       "confidence": "0.6417494",
       "timestamp": 1160,
-      "content": "details about this but this infectious disease is that in the fa q about reku latrines which number 8 is should I fly"
+      "content": "details about this but this infectious disease is that in the fa q about reku latrines which number 8 is should I fly",
+      "uuid": "d6cafa0b-81c7-4e5f-9f9a-223ae75b36b1"
     },
-    "1170": {
+    {
       "requestid": "3c23f0c7-d224-4147-b430-f402d0fb89e2",
       "confidence": "0.6666564",
       "timestamp": 1170,
-      "content": "in between site with a propane torch up up up up up up up in the governator think of a garmin of king county washington state says yes"
+      "content": "in between site with a propane torch up up up up up up up in the governator think of a garmin of king county washington state says yes",
+      "uuid": "f0a621d7-a465-4446-81f1-280b342a8f81"
     },
-    "1180": {
+    {
       "requestid": "17d1d2d6-0fcc-4513-bf7a-4e748e9234da",
       "confidence": "0.6560467",
       "timestamp": 1180,
-      "content": "good for that would be there is a live electrician that would be very effective although it may fit other things on fire that you don't want to be on"
+      "content": "good for that would be there is a live electrician that would be very effective although it may fit other things on fire that you don't want to be on",
+      "uuid": "6dc10a85-022f-44fe-9b6e-40d281eb03e7"
     },
-    "1190": {
+    {
       "requestid": "1118c8bf-11d7-4a92-8c79-96967f9054bc",
       "confidence": "0.6422613",
       "timestamp": 1190,
-      "content": "why are men but so yes or raccoons or disease vectors that in many many different ways and although they r"
+      "content": "why are men but so yes or raccoons or disease vectors that in many many different ways and although they r",
+      "uuid": "fe437f1a-f952-4d26-99fa-f6ad60c7ed3f"
     },
-    "1200": {
+    {
       "requestid": "b689f6f6-5ae9-48e3-bd76-338c0f8bfb43",
       "confidence": "0.7436277",
       "timestamp": 1200,
-      "content": "at least they they are celebrated in cartoons as cute little bandits with their little faces and they have those opposable thumbs bear in mind as a possible"
+      "content": "at least they they are celebrated in cartoons as cute little bandits with their little faces and they have those opposable thumbs bear in mind as a possible",
+      "uuid": "ef093e7e-19ab-4066-bd14-2a2b16edb432"
     },
-    "1210": {
+    {
       "requestid": "56504fd8-8f45-4831-8f21-c8a467aba7db",
       "confidence": "0.5554371",
       "timestamp": 1210,
-      "content": "bumz um make raccoons the a mischievous and it makes them think they're humans in mill coming to your house and they will poop on your floor they would have"
+      "content": "bumz um make raccoons the a mischievous and it makes them think they're humans in mill coming to your house and they will poop on your floor they would have",
+      "uuid": "00b6d739-26b9-4b3d-90f5-7999b0b68b84"
     },
-    "1220": {
+    {
       "requestid": "05263819-1a2e-4267-910a-16247eafe66a",
       "confidence": "0.8152586",
       "timestamp": 1220,
-      "content": "do with the car in 2 seconds of the good and I think while I'm sorry that you feel so bad and I'm sorry that happened to you and the rec room"
+      "content": "do with the car in 2 seconds of the good and I think while I'm sorry that you feel so bad and I'm sorry that happened to you and the rec room",
+      "uuid": "57980ecc-e846-44e8-9da3-b888781136d6"
     },
-    "1230": {
+    {
       "requestid": "edf8edf1-b76e-4485-8254-793d38676bf9",
       "confidence": "0.7550352",
       "timestamp": 1230,
-      "content": "your obligation is to if possible safely make sure that the animals not not going to cause another accident but even then with a raccoon knowing that"
+      "content": "your obligation is to if possible safely make sure that the animals not not going to cause another accident but even then with a raccoon knowing that",
+      "uuid": "1d168c5b-c9da-43ad-83b4-ab394fe4216c"
     },
-    "1240": {
+    {
       "requestid": "6c608b1d-4de1-469a-9bc2-a7755782c39c",
       "confidence": "0.7880352",
       "timestamp": 1240,
-      "content": "who poisoned I wouldn't touch that thing I was a 10 foot raccoon touch and paul are you did the right thing your girlfriend is right and you are wrong"
+      "content": "who poisoned I wouldn't touch that thing I was a 10 foot raccoon touch and paul are you did the right thing your girlfriend is right and you are wrong",
+      "uuid": "110070aa-d755-469c-86d9-cf7616399e9f"
     },
-    "1250": {
+    {
       "requestid": "cb6f4069-893a-4027-a6bb-5aed74490cee",
       "confidence": "0.8890943",
       "timestamp": 1250,
-      "content": "and I'm sorry is it is I'm sorry that that happened this is entirely terrifying to me because this summer for the first time ever I had a close encounter with a raccoon"
+      "content": "and I'm sorry is it is I'm sorry that that happened this is entirely terrifying to me because this summer for the first time ever I had a close encounter with a raccoon",
+      "uuid": "7bbf2f83-cb35-458a-bc79-5936744f1b83"
     },
-    "1260": {
+    {
       "requestid": "2b441646-9810-4766-a96d-2812cb80f10e",
       "confidence": "0.8532888",
       "timestamp": 1260,
-      "content": "a baby raccoon who is mother was killed by the police department because I thought it was rabbit during the daytime fell out of a tree adopted by local family what"
+      "content": "a baby raccoon who is mother was killed by the police department because I thought it was rabbit during the daytime fell out of a tree adopted by local family what",
+      "uuid": "68b554b8-32eb-4146-b98a-c65cca39b5e0"
     },
-    "1270": {
+    {
       "requestid": "fba22a96-374f-4cb2-aa99-01ca1498a34b",
       "confidence": "0.8095364",
       "timestamp": 1270,
-      "content": "being raised for several weeks is a pat brought to a raccoon going away party before we going to go to the wildlife rehab center there is actually if you were to look at my facebook page"
+      "content": "being raised for several weeks is a pat brought to a raccoon going away party before we going to go to the wildlife rehab center there is actually if you were to look at my facebook page",
+      "uuid": "f4509bc2-4e0a-47b2-a48b-d85b155a2998"
     },
-    "1280": {
+    {
       "requestid": "35d643ed-d84a-4dbd-a4f4-f7cfd80560e5",
       "confidence": "0.8348513",
       "timestamp": 1280,
-      "content": "right now my timeline photo is me with a raccoon on my shoulder directions name is neil and he was super cute but now"
+      "content": "right now my timeline photo is me with a raccoon on my shoulder directions name is neil and he was super cute but now",
+      "uuid": "d623f067-738b-4862-b406-3f81dc13d129"
     },
-    "1290": {
+    {
       "requestid": "cbc7abec-5c96-4670-b3e8-0fe60df7fcd5",
       "confidence": "0.7460116",
       "timestamp": 1290,
-      "content": "now that I know his poop with poisonous and that I should set it on fire I'm a little bit terrified that that happened to me yeah well you know that"
+      "content": "now that I know his poop with poisonous and that I should set it on fire I'm a little bit terrified that that happened to me yeah well you know that",
+      "uuid": "9062b078-173d-493a-9c93-d4fdc17aed94"
     },
-    "1300": {
+    {
       "requestid": "e80cf588-2b0a-4d8c-9491-390225ca18a2",
       "confidence": "0.7358553",
       "timestamp": 1300,
-      "content": "it's a bit I'm sure I'm sure niall is a wonderful creature he was is in and I don't think you have anything to worry about so long as you"
+      "content": "it's a bit I'm sure I'm sure niall is a wonderful creature he was is in and I don't think you have anything to worry about so long as you",
+      "uuid": "c47810ff-d4f6-4c62-bfe1-4d80b826dc76"
     },
-    "1310": {
+    {
       "requestid": "dd9485d1-7e97-409e-a430-14f4e2eb1d37",
       "confidence": "0.7154226",
       "timestamp": 1310,
-      "content": "not handle any raccoon feces I watched him poop on someone else so that's good for may yeah well"
+      "content": "not handle any raccoon feces I watched him poop on someone else so that's good for may yeah well",
+      "uuid": "a84ee546-c264-4e53-8706-5c14eb71bb7e"
     },
-    "1320": {
+    {
       "requestid": "a96b8688-c923-4295-a7d2-49ba735bc963",
       "confidence": "0.6269196",
       "timestamp": 1320,
-      "content": "I think that fresh raccoon poop is probably less friable I'm older and less likely 2 ventev roundworm eggs"
+      "content": "I think that fresh raccoon poop is probably less friable I'm older and less likely 2 ventev roundworm eggs",
+      "uuid": "34681347-50ae-4b3d-a066-246fcd4be00a"
     },
-    "1330": {
+    {
       "requestid": "a6c393fd-f05f-4c9e-823d-cc2a29573775",
       "confidence": "0.7274705",
       "timestamp": 1330,
-      "content": "do your lungs but you guys the wild wild animals are wild animals and sometimes they wanna kill you with their poop so"
+      "content": "do your lungs but you guys the wild wild animals are wild animals and sometimes they wanna kill you with their poop so",
+      "uuid": "ff6a8a88-338c-431e-9e16-31b02ab7445d"
     },
-    "1340": {
+    {
       "requestid": "a5a1bb94-c8b6-4d79-95a0-7fa05b41a7d7",
       "confidence": "0.7955765",
       "timestamp": 1340,
-      "content": "watch out next item roland rights many times throughout the day my friend and coworker more and I will take a break from work to travel to"
+      "content": "watch out next item roland rights many times throughout the day my friend and coworker more and I will take a break from work to travel to",
+      "uuid": "33258513-8884-41ff-9443-4f57102902c0"
     },
-    "1350": {
+    {
       "requestid": "2c870b98-3b1a-40c2-bf01-76f8a9f89e6b",
       "confidence": "0.6995264",
       "timestamp": 1350,
-      "content": "national brand coffee shop in the morning which one then I'll usually take my morning snack with me and eat it along way to pick leave this is an apple you"
+      "content": "national brand coffee shop in the morning which one then I'll usually take my morning snack with me and eat it along way to pick leave this is an apple you",
+      "uuid": "49a98549-60c6-4d7a-985c-588cc475e710"
     },
-    "1360": {
+    {
       "requestid": "fb7d3042-607f-4c98-ab65-8814b945c702",
       "confidence": "0.6141435",
       "timestamp": 1360,
-      "content": "debbie bradley I would've this is the same universe kristen microm before a shot no more no more I forbid me from eating apples on our walk she says that its"
+      "content": "debbie bradley I would've this is the same universe kristen microm before a shot no more no more I forbid me from eating apples on our walk she says that its",
+      "uuid": "eb14f59f-a6f8-4176-8768-8e544f5aed87"
     },
-    "1370": {
+    {
       "requestid": "ef7f267a-5b54-44b4-a9b5-54a51809860d",
       "confidence": "0.6900999",
       "timestamp": 1370,
-      "content": "rude walking eat or it's rude to eat while walking with someone etc I think these are big rules of etiquette will you tell more that these practices are not unab"
+      "content": "rude walking eat or it's rude to eat while walking with someone etc I think these are big rules of etiquette will you tell more that these practices are not unab",
+      "uuid": "63c34151-ef50-46bc-b303-2b89054dbe69"
     },
-    "1380": {
+    {
       "requestid": "b1ddab52-7a7d-47a0-a1c3-6b4885ffd4dc",
       "confidence": "0.7329842",
       "timestamp": 1380,
-      "content": "rizzoli egg knowledge as ron PSI should mention that she might bring up a time I was eating an apple and accidentally got some apple juice under foot however I believe no doubt you'd stop another daughter doing"
+      "content": "rizzoli egg knowledge as ron PSI should mention that she might bring up a time I was eating an apple and accidentally got some apple juice under foot however I believe no doubt you'd stop another daughter doing",
+      "uuid": "a7972b2f-c513-4f6b-8637-2ce66151f807"
     },
-    "1390": {
+    {
       "requestid": "b1ec9725-6099-4648-8d5c-c4593c908f81",
       "confidence": "0.8020329",
       "timestamp": 1390,
-      "content": "bing just because they don't like it here map of telling me not to do it seems a lot more like a paragraph metrostar stop your teenager from doing something"
+      "content": "bing just because they don't like it here map of telling me not to do it seems a lot more like a paragraph metrostar stop your teenager from doing something",
+      "uuid": "5fa4c472-dcb1-4c71-8936-8129b57438bd"
     },
-    "1400": {
+    {
       "requestid": "65b026e6-d9c1-437a-ad8b-48572fcc2e64",
       "confidence": "0.6744456",
       "timestamp": 1400,
-      "content": "so maura is confusing the specific with the general"
+      "content": "so maura is confusing the specific with the general",
+      "uuid": "431688eb-1189-4fc3-b0e1-0737da5f6ca8"
     },
-    "1410": {
+    {
       "requestid": "47adb676-df4a-4ad8-b030-95980afb4a89",
       "confidence": "0.6632125",
       "timestamp": 1410,
-      "content": "I thought she is completing the idea that it is somehow universally impolite to eat"
+      "content": "I thought she is completing the idea that it is somehow universally impolite to eat",
+      "uuid": "bb6882de-73a5-4f39-8a92-d7ee213f8e2b"
     },
-    "1420": {
+    {
       "requestid": "8118788d-eb87-4b09-a58b-45c932b489ca",
       "confidence": "0.8255115",
       "timestamp": 1420,
-      "content": "apples while walking which is a proposition that is demonstrably false with a specific complaint which is she hates the same"
+      "content": "apples while walking which is a proposition that is demonstrably false with a specific complaint which is she hates the same",
+      "uuid": "de26beea-c2e0-4486-b3fe-2dea18723ca7"
     },
-    "1430": {
+    {
       "requestid": "70716561-9026-4356-aa94-206ccb07f8a2",
       "confidence": "0.6773375",
       "timestamp": 1430,
-      "content": "define mutual nap maybe she is misophonia which is the irrational and it suggested nora logical"
+      "content": "define mutual nap maybe she is misophonia which is the irrational and it suggested nora logical",
+      "uuid": "98b8838f-3120-48aa-8bcc-d3218d095cbc"
     },
-    "1440": {
+    {
       "requestid": "0d28f72d-b858-4887-b1a8-c38d79a439be",
       "confidence": "0.6976752",
       "timestamp": 1440,
-      "content": "contemp response for certain very specific sounds including the dirt comma eating sounds good you may know"
+      "content": "contemp response for certain very specific sounds including the dirt comma eating sounds good you may know",
+      "uuid": "87d126ff-e44d-434b-9d8f-8fb0dc1dc036"
     },
-    "1450": {
+    {
       "requestid": "fbf2cc1d-041a-4233-9f5c-5f0c844df52d",
       "confidence": "0.4432667",
       "timestamp": 1450,
-      "content": "kerry class and now I love you anyway ha I knew you were gonna do that I was eating some broccoli sorry he eating sounds can can I have"
+      "content": "kerry class and now I love you anyway ha I knew you were gonna do that I was eating some broccoli sorry he eating sounds can can I have",
+      "uuid": "94342200-5505-4a87-ab52-0d9f501749ed"
     },
-    "1460": {
+    {
       "requestid": "84efbdf2-eaab-4886-95e9-783b4999f7a7",
       "confidence": "0.7272105",
       "timestamp": 1460,
-      "content": "confess to being driven crazy by the sound of eating and I think that it is it is gross to make extra sound when eating but some people just"
+      "content": "confess to being driven crazy by the sound of eating and I think that it is it is gross to make extra sound when eating but some people just",
+      "uuid": "2da0f77e-be64-42f2-9983-e879e6b8fc7e"
     },
-    "1470": {
+    {
       "requestid": "ad266431-2389-4046-b546-0cb4dbe7e811",
       "confidence": "0.6723576",
       "timestamp": 1470,
-      "content": "really do have a rational contempt and even flight response to certain sounds necmi a common trigger but maybe by then"
+      "content": "really do have a rational contempt and even flight response to certain sounds necmi a common trigger but maybe by then",
+      "uuid": "96fc6944-ccb6-48d0-bc4d-da924e9cbb28"
     },
-    "1480": {
+    {
       "requestid": "d87fdcdf-ba95-4b5e-9219-6c3d36a4c375",
       "confidence": "0.6992347",
       "timestamp": 1480,
-      "content": "the girl that did maura has this weird rare perhaps neurological disease perhaps psychological condition I don't know"
+      "content": "the girl that did maura has this weird rare perhaps neurological disease perhaps psychological condition I don't know",
+      "uuid": "f5ec0ebe-f8c6-4bd7-9369-a871d7c4f533"
     },
-    "1490": {
+    {
       "requestid": "087efe98-3050-4791-8f88-14793a0a6484",
       "confidence": "0.6273623",
       "timestamp": 1490,
-      "content": "yeah but the area but maybe not maybe she's just the at a narcissist to believe the way she thinks is the way the world thinks but mother"
+      "content": "yeah but the area but maybe not maybe she's just the at a narcissist to believe the way she thinks is the way the world thinks but mother",
+      "uuid": "f2e43969-2ba5-4d85-8b4e-d2c2d5fd305f"
     },
-    "1500": {
+    {
       "requestid": "129cb9f8-79a8-46ef-ab64-e478035e7d28",
       "confidence": "0.7557104",
       "timestamp": 1500,
-      "content": "abakar a challenging friends to walk to the brand name coffee shop with all the time honestly when someone says something is gross and doesn't want"
+      "content": "abakar a challenging friends to walk to the brand name coffee shop with all the time honestly when someone says something is gross and doesn't want",
+      "uuid": "7be9678e-b70e-47fb-a757-4962236d9d95"
     },
-    "1510": {
+    {
       "requestid": "db897f6c-6be0-4a60-8aae-56b60bd70045",
       "confidence": "0.7386847",
       "timestamp": 1510,
-      "content": "clear apple spit on her foot all the time it's not that much of a sacrifice for you to oblige and say ok because I have to say that you know if not unless you're a loser"
+      "content": "clear apple spit on her foot all the time it's not that much of a sacrifice for you to oblige and say ok because I have to say that you know if not unless you're a loser",
+      "uuid": "cc32a180-5b2e-4de8-b80f-ff5c0bb4d448"
     },
-    "1520": {
+    {
       "requestid": "fda91107-491e-497e-8b66-092ddba74cec",
       "confidence": "0.7500079",
       "timestamp": 1520,
-      "content": "huckleberry finn walking through a field nananana apple that you just pulled off a tree before you go down at to the to the fishing hole"
+      "content": "huckleberry finn walking through a field nananana apple that you just pulled off a tree before you go down at to the to the fishing hole",
+      "uuid": "0ac84e0f-f5b3-4ae5-86a0-fe5ee2cfad7c"
     },
-    "1530": {
+    {
       "requestid": "f1d4378d-621e-4dc2-a2ad-0b48cc946179",
       "confidence": "0.6997141",
       "timestamp": 1530,
-      "content": "to do your fish and groom am walking down a suburban or more urban street eating a stalker broccoli in this I'm not sure I would"
+      "content": "to do your fish and groom am walking down a suburban or more urban street eating a stalker broccoli in this I'm not sure I would",
+      "uuid": "fa6dad8e-6724-4de5-a1d2-3283fe887c95"
     },
-    "1540": {
+    {
       "requestid": "7c8e0c29-42ab-40f4-94d4-78fb25bd1008",
       "confidence": "0.743541",
       "timestamp": 1540,
-      "content": "walk to the coffee shop with you did so if your friend says please don't do that even if she's a are wrong to suggest that it is universal etiquette"
+      "content": "walk to the coffee shop with you did so if your friend says please don't do that even if she's a are wrong to suggest that it is universal etiquette",
+      "uuid": "988fe17b-1b62-4048-9e2c-91fbc9c4b6c6"
     },
-    "1550": {
+    {
       "requestid": "dd9dddf9-7a55-4de5-ba61-ba8c91e50d8a",
       "confidence": "0.7817751",
       "timestamp": 1550,
-      "content": "it is personal how to get to say oh I'm sorry I'll eat my apple any other time today"
+      "content": "it is personal how to get to say oh I'm sorry I'll eat my apple any other time today",
+      "uuid": "b18a6453-eacc-4475-9ad9-ea2f34d9c99a"
     },
-    "1560": {
+    {
       "requestid": "9d959b6a-4626-498f-abfb-f376fb483262",
       "confidence": "0.6113459",
       "timestamp": 1560,
-      "content": "john hodgman there give you a <profanity>bitch</profanity> an honorary doctorate an honorary doctorate phd in enjoli admin rights my friends bryce"
+      "content": "john hodgman there give you a <profanity>bitch</profanity> an honorary doctorate an honorary doctorate phd in enjoli admin rights my friends bryce",
+      "uuid": "b93ad787-10f4-4f5f-a3ed-2152f1dc3f94"
     },
-    "1570": {
+    {
       "requestid": "934f062d-1cc9-484b-8a17-3487d3c055ad",
       "confidence": "0.7791138",
       "timestamp": 1570,
-      "content": "and mitch have been telling slightly different versions of the same what do you get when you cross a joke for years and still be madly disagree on who is bird"
+      "content": "and mitch have been telling slightly different versions of the same what do you get when you cross a joke for years and still be madly disagree on who is bird",
+      "uuid": "db505dde-51e8-4eb8-9096-152d2754027a"
     },
-    "1580": {
+    {
       "requestid": "9cb9cab9-78a9-4c5a-af2c-28387a4af722",
       "confidence": "0.7011708",
       "timestamp": 1580,
-      "content": "when is quote unquote wrecked mitch incest the right version is what do you get when you cross an elephant and a rhino answer being"
+      "content": "when is quote unquote wrecked mitch incest the right version is what do you get when you cross an elephant and a rhino answer being",
+      "uuid": "aaecb3ba-7ecb-46df-8f00-16c082bda585"
     },
-    "1590": {
+    {
       "requestid": "880f2f6c-8888-4675-b2d4-bf69e5d0faeb",
       "confidence": "0.8422198",
       "timestamp": 1590,
-      "content": "hell if I know bryce said that should be what do you get when you cross a helicopter better I know the answer me in hell if I know"
+      "content": "hell if I know bryce said that should be what do you get when you cross a helicopter better I know the answer me in hell if I know",
+      "uuid": "96ec742d-feae-48a7-a63c-dd68b42298e9"
     },
-    "1600": {
+    {
       "requestid": "a53f49d7-c00e-45c1-8731-fff5392bfebe",
       "confidence": "0.7595773",
       "timestamp": 1600,
-      "content": "according to bryce the helicopter versiones superiore because it allows the answer to read hell if I know not just tell if I know"
+      "content": "according to bryce the helicopter versiones superiore because it allows the answer to read hell if I know not just tell if I know",
+      "uuid": "b3b6d14c-9775-4072-83f7-f9a5703057be"
     },
-    "1610": {
+    {
       "requestid": "4c81c00b-1cd0-4fb3-90fa-6b60505ce08d",
       "confidence": "0.7075203",
       "timestamp": 1610,
-      "content": "mitch objects sing a crossing a helicopter with a living creature is blatantly absurd who is judge hodgeman make this dispute a thing"
+      "content": "mitch objects sing a crossing a helicopter with a living creature is blatantly absurd who is judge hodgeman make this dispute a thing",
+      "uuid": "6922713f-688f-484d-9339-f22d7da5f746"
     },
-    "1620": {
+    {
       "requestid": "05b538dc-2493-4272-9fb5-290bb1c09104",
       "confidence": "0.6133859",
       "timestamp": 1620,
-      "content": "the past who is right well then obviously the purpose of every joke is to be funny and"
+      "content": "the past who is right well then obviously the purpose of every joke is to be funny and",
+      "uuid": "6810b7ff-0f83-43b1-ac1a-46478757a6e9"
     },
-    "1630": {
+    {
       "requestid": "125668ba-ca2a-4d7b-9380-42299f3c4712",
       "confidence": "0.7929109",
       "timestamp": 1630,
-      "content": "and all I know is that the normally silent joel man here WYRU blue hill maine"
+      "content": "and all I know is that the normally silent joel man here WYRU blue hill maine",
+      "uuid": "a14ebf7d-124c-4b2f-8cf4-06afe81cc5c5"
     },
-    "1640": {
+    {
       "requestid": "6f50d27f-5c66-4507-9a09-3d4b56b26d0d",
       "confidence": "0.6331647",
       "timestamp": 1640,
-      "content": "after one of those jokes and I was it the first one it was it was the first one yo yo black riders one"
+      "content": "after one of those jokes and I was it the first one it was it was the first one yo yo black riders one",
+      "uuid": "d7510742-d938-4960-bb19-1885ce5e4663"
     },
-    "1650": {
+    {
       "requestid": "db57fba0-29aa-40af-b533-efd1653e0327",
       "confidence": "0.5878192",
       "timestamp": 1650,
-      "content": "I left very very much is the first mary got your home an amazing man man is waitin yet again and it should be obvious depor dumb bryce"
+      "content": "I left very very much is the first mary got your home an amazing man man is waitin yet again and it should be obvious depor dumb bryce",
+      "uuid": "acebbf01-ec9b-47dd-90b7-2b8709ac7167"
     },
-    "1660": {
+    {
       "requestid": "1e1c1898-8d1a-42c2-b866-eff46463468c",
       "confidence": "0.6546889",
       "timestamp": 1660,
-      "content": "why he's wrong because you can't cross a helicopter better I know right the ideas right"
+      "content": "why he's wrong because you can't cross a helicopter better I know right the ideas right",
+      "uuid": "bdbc55a5-5a3b-4007-afe8-57a827524ffb"
     },
-    "1670": {
+    {
       "requestid": "480bb0b6-4440-4359-aea7-1b457e57faf0",
       "confidence": "0.7255805",
       "timestamp": 1670,
-      "content": "where the ideas what if we went well we had a funny genetic experiment will be forced a rhino and elephant tomat very unlikely"
+      "content": "where the ideas what if we went well we had a funny genetic experiment will be forced a rhino and elephant tomat very unlikely",
+      "uuid": "b410d8f3-58a5-42eb-9d06-09853968e4c1"
     },
-    "1680": {
+    {
       "requestid": "a63f288d-fbf0-4e95-a019-851f149940fc",
       "confidence": "0.6704906",
       "timestamp": 1680,
-      "content": "chariho but one with just enough plausibility is the carry forward into a real curiosity as to what could that possibly interbake and then the answer"
+      "content": "chariho but one with just enough plausibility is the carry forward into a real curiosity as to what could that possibly interbake and then the answer",
+      "uuid": "c5820b3d-94f2-45b0-ac7e-e960ad8a012c"
     },
-    "1690": {
+    {
       "requestid": "367634d0-87cb-4fe8-8bdc-aa65c20aed69",
       "confidence": "0.6987755",
       "timestamp": 1690,
-      "content": "where is this absurd issste pun l if I know which is funnier because it sounds like it's starting to say elephant and then you realize"
+      "content": "where is this absurd issste pun l if I know which is funnier because it sounds like it's starting to say elephant and then you realize",
+      "uuid": "35e17574-e344-490a-af0c-b62e03e2f881"
     },
-    "1700": {
+    {
       "requestid": "467bf175-97ae-43b2-8bd1-97b0f51f4287",
       "confidence": "0.7881057",
       "timestamp": 1700,
-      "content": "halfway through its a joke on hell if I know you're obviously the hell if I know the helicopter I know joke is a retrofit to make it a little bit more"
+      "content": "halfway through its a joke on hell if I know you're obviously the hell if I know the helicopter I know joke is a retrofit to make it a little bit more",
+      "uuid": "f6176352-28a5-490b-8aaf-6ec8cfb3d2e7"
     },
-    "1710": {
+    {
       "requestid": "eb70f952-ecb6-453e-8813-0e89617ffbe3",
       "confidence": "0.6976919",
       "timestamp": 1710,
-      "content": "domino's for dumb people to enjoy when the fact is there is nothing plausible rayven compelling about the idea of crossing a helicopter in a rhino ea"
+      "content": "domino's for dumb people to enjoy when the fact is there is nothing plausible rayven compelling about the idea of crossing a helicopter in a rhino ea",
+      "uuid": "5e38eef8-20f6-44a5-af70-09459cdcefa3"
     },
-    "1720": {
+    {
       "requestid": "028bd811-478c-43ae-a5e5-37dc5b331f56",
       "confidence": "0.720704",
       "timestamp": 1720,
-      "content": "unless you're making some kind it is not helicopter I know cyborg's let's not discuss thousand play the same way on the imagination so obviously bryce is wrong"
+      "content": "unless you're making some kind it is not helicopter I know cyborg's let's not discuss thousand play the same way on the imagination so obviously bryce is wrong",
+      "uuid": "e9760db2-9365-4585-9ac8-99e00fd517fb"
     },
-    "1730": {
+    {
       "requestid": "2aa78ac3-2e9b-4d18-8e64-d820a96f94ad",
       "confidence": "0.758931",
       "timestamp": 1730,
-      "content": "devin is correct and dad and so is joe and so is monte I presume you are you get off on this one we are unanimous even the third man agrees on that"
+      "content": "devin is correct and dad and so is joe and so is monte I presume you are you get off on this one we are unanimous even the third man agrees on that",
+      "uuid": "a0b897d1-9709-4818-ad3e-8cee85639c3b"
     },
-    "1740": {
+    {
       "requestid": "52d74361-34e5-40bc-b57f-9c7ce743a8d2",
       "confidence": "0.7094253",
       "timestamp": 1740,
-      "content": "on that the l word and rhino joke is the is the better joke and I'm someone who aside from the titles of my judge john hodgman podcast penns to avoid all"
+      "content": "on that the l word and rhino joke is the is the better joke and I'm someone who aside from the titles of my judge john hodgman podcast penns to avoid all",
+      "uuid": "1ed5657e-7ee0-497b-bd2f-a87fc14c1e5a"
     },
-    "1750": {
+    {
       "requestid": "ecbcb4f6-8121-44d8-bd09-14f2f229795a",
       "confidence": "0.7842191",
       "timestamp": 1750,
-      "content": "and this would be bored play I would guess we can I join l if I know when my dad to make my children if they ever come home what do you think you would get if you cross a helicopter in a right now"
+      "content": "and this would be bored play I would guess we can I join l if I know when my dad to make my children if they ever come home what do you think you would get if you cross a helicopter in a right now",
+      "uuid": "0bda809e-cf94-403e-af9f-2c6cf971d257"
     },
-    "1760": {
+    {
       "requestid": "6539b40b-571a-4b78-99a1-579736bd9b49",
       "confidence": "0.4971497",
       "timestamp": 1760,
-      "content": "elvino brought deprive you prolly get out of the oven in a new movie france"
+      "content": "elvino brought deprive you prolly get out of the oven in a new movie france",
+      "uuid": "aaef2c15-da15-4f4d-aeb0-cee7bb36bc05"
     },
-    "1770": {
+    {
       "requestid": "c201e121-9a38-4391-8e12-db68166a6232",
       "confidence": "0.6369699",
       "timestamp": 1770,
-      "content": "eyes on the scifi channel yeah maybe but how to hell if I know but actually that lets the next shark nadeau hell if I know about the hell"
+      "content": "eyes on the scifi channel yeah maybe but how to hell if I know but actually that lets the next shark nadeau hell if I know about the hell",
+      "uuid": "ece944ab-1426-4baa-bc9d-feb321d45f3c"
     },
-    "1780": {
+    {
       "requestid": "9b5f9a73-f50d-4cc8-af05-d8d2b586687e",
       "confidence": "0.7088383",
       "timestamp": 1780,
-      "content": "but a helicopter I know starring judge john hodgman the terrorizes a small town in maine continuing to the docket wearing here we will see how many comments and letters would suggest"
+      "content": "but a helicopter I know starring judge john hodgman the terrorizes a small town in maine continuing to the docket wearing here we will see how many comments and letters would suggest",
+      "uuid": "6f56a5dc-b379-4d6d-8e15-659d51962a0c"
     },
-    "1790": {
+    {
       "requestid": "e7a38c19-a696-45ee-88f3-fff04f4a34c6",
       "confidence": "0.8006551",
       "timestamp": 1790,
-      "content": "red ball policies in regards 2 episode 2:15 great balls of fire brooklyn based married couple with children had issues with ball specifically one"
+      "content": "red ball policies in regards 2 episode 2:15 great balls of fire brooklyn based married couple with children had issues with ball specifically one",
+      "uuid": "eb80cbe9-0273-431c-961e-ec0930492527"
     },
-    "1800": {
+    {
       "requestid": "4eae42ff-7830-4f79-ac72-bb4be72e332b",
       "confidence": "0.6699402",
       "timestamp": 1800,
-      "content": "tip over the fence into the yard from the park next door at large locker balls or or or or basketball's in all the spray balls right sport balls"
+      "content": "tip over the fence into the yard from the park next door at large locker balls or or or or basketball's in all the spray balls right sport balls",
+      "uuid": "791eb3a3-0639-4936-8a17-d30153a24894"
     },
-    "1810": {
+    {
       "requestid": "10b70560-3839-49bc-94d9-c832e6c6e351",
       "confidence": "0.7862624",
       "timestamp": 1810,
-      "content": "we could not agree on the best way to return the balls in play kate the kids to get them over here now I'm at women tight I need to jump in for a second here please do"
+      "content": "we could not agree on the best way to return the balls in play kate the kids to get them over here now I'm at women tight I need to jump in for a second here please do",
+      "uuid": "e99c7d02-fa20-4829-b01e-f93bf372506c"
     },
-    "1820": {
+    {
       "requestid": "bd536e79-4a49-4074-87f2-f606430a55fd",
       "confidence": "0.6846374",
       "timestamp": 1820,
-      "content": "so you are you were in there for this one summer bailout money belmonte know you would not sell this look up about the house at at its backyard back"
+      "content": "so you are you were in there for this one summer bailout money belmonte know you would not sell this look up about the house at at its backyard back",
+      "uuid": "24e9f21a-4fe3-4d9e-bf8c-50fec2dbffc2"
     },
-    "1830": {
+    {
       "requestid": "e02f3c51-100b-495b-ad75-403430a0258a",
       "confidence": "0.7865349",
       "timestamp": 1830,
-      "content": "against the plate the playfield of a local ulocal elementary school soccer balls are coming into their yard all the time the kids would yell for them until they threw them back if they don't"
+      "content": "against the plate the playfield of a local ulocal elementary school soccer balls are coming into their yard all the time the kids would yell for them until they threw them back if they don't",
+      "uuid": "d59fa6d5-0641-428a-ae99-36a565f031cf"
     },
-    "1840": {
+    {
       "requestid": "ad62fd89-225f-49a0-8ecf-ec02ee52b376",
       "confidence": "0.8227103",
       "timestamp": 1840,
-      "content": "I'm back probably in upper they were out of the house the kids would break into their backyard to get them in there is a dispute between husband and wife at how to deal with this situation and other we get along"
+      "content": "I'm back probably in upper they were out of the house the kids would break into their backyard to get them in there is a dispute between husband and wife at how to deal with this situation and other we get along",
+      "uuid": "cef3d185-3598-479b-9217-6afb5fa2e889"
     },
-    "1850": {
+    {
       "requestid": "844acead-b371-45f4-86e4-4ff93ba3a7dc",
       "confidence": "0.6563475",
       "timestamp": 1850,
-      "content": "these letters monte suggesting various ways to take vengeance upon children up for for kicking the ball jackson atlanta the yard with you may read mail"
+      "content": "these letters monte suggesting various ways to take vengeance upon children up for for kicking the ball jackson atlanta the yard with you may read mail",
+      "uuid": "994e9ac8-017d-4071-ab4b-241832b8b7c7"
     },
-    "1860": {
+    {
       "requestid": "8d3eed67-6829-44fb-ac5e-fddc1b1a6362",
       "confidence": "0.7529404",
       "timestamp": 1860,
-      "content": "jeremy road in to say wraps a suitable policy could be balls will be returned when we notice them the air inside the ball will not be"
+      "content": "jeremy road in to say wraps a suitable policy could be balls will be returned when we notice them the air inside the ball will not be",
+      "uuid": "37d66586-58f6-4f08-8b82-0fd9570cdb0b"
     },
-    "1870": {
+    {
       "requestid": "b660b822-9ee4-4b70-805f-ff0096b2985d",
       "confidence": "0.7737165",
       "timestamp": 1870,
-      "content": "turned a couple could keep some ball inflation needles in a brick in the backyard with a ball comes over sticking a needle and put on the brick when it's flat and out"
+      "content": "turned a couple could keep some ball inflation needles in a brick in the backyard with a ball comes over sticking a needle and put on the brick when it's flat and out",
+      "uuid": "d1f4f4cd-b9dd-4f2e-8d5d-105a59be8fbb"
     },
-    "1880": {
+    {
       "requestid": "d2648136-4bbf-4621-902d-c0e9211a8753",
       "confidence": "0.654705",
       "timestamp": 1880,
-      "content": "road back the game is over for the day but not permanently write that seems cool yeah I gotta work lot of work but"
+      "content": "road back the game is over for the day but not permanently write that seems cool yeah I gotta work lot of work but",
+      "uuid": "1b9a728c-6b02-470d-8b0a-7114ab003837"
     },
-    "1890": {
+    {
       "requestid": "b32e1621-ac04-42d9-904c-d8d9b4406d5f",
       "confidence": "0.7843913",
       "timestamp": 1890,
-      "content": "have you taken a person who wants to flatten the ball in front of sweeping kids that seems fun whats the next one I like this one courtney suggested my wife husband came up with"
+      "content": "have you taken a person who wants to flatten the ball in front of sweeping kids that seems fun whats the next one I like this one courtney suggested my wife husband came up with",
+      "uuid": "b855dce0-a168-46ed-8df2-cbb0e0ef093b"
     },
-    "1900": {
+    {
       "requestid": "0030c728-f475-4393-bb57-8dd58df8aeb6",
       "confidence": "0.7729387",
       "timestamp": 1900,
-      "content": "brilliant solution put up a sign reading all balls mart exe will not be returned ben spray paint an x on everybody that comes over"
+      "content": "brilliant solution put up a sign reading all balls mart exe will not be returned ben spray paint an x on everybody that comes over",
+      "uuid": "a70d0789-e45e-4f91-9ae3-576b571ec5d1"
     },
-    "1910": {
+    {
       "requestid": "59f6be81-4679-474c-b0a4-9208d931b662",
       "confidence": "0.671815",
       "timestamp": 1910,
-      "content": "send it back wants and after that spike the thing is is biking spiking is a reference to my suggest my possible"
+      "content": "send it back wants and after that spike the thing is is biking spiking is a reference to my suggest my possible",
+      "uuid": "b17670d8-dea9-4e71-b159-55f3f501e15f"
     },
-    "1920": {
+    {
       "requestid": "864f0bb3-8389-4d21-af07-517bb375c5fb",
       "confidence": "0.7097979",
       "timestamp": 1920,
-      "content": "jested a solution which was everybody came over you would put it on the spike like the head of your enemy in game of thrones land right or like blaby"
+      "content": "jested a solution which was everybody came over you would put it on the spike like the head of your enemy in game of thrones land right or like blaby",
+      "uuid": "77bca837-b993-4757-b1db-b88d02ca67d1"
     },
-    "1930": {
+    {
       "requestid": "57da9eae-ae7b-4289-9851-02a8810662d1",
       "confidence": "0.6869721",
       "timestamp": 1930,
-      "content": "pellar nudes ackley name in the comment section spray paint every ball that enters your yard with pink sparkly glitter paint this way either"
+      "content": "pellar nudes ackley name in the comment section spray paint every ball that enters your yard with pink sparkly glitter paint this way either",
+      "uuid": "5b345eb2-5c39-425c-aac4-8a4d3bc77c82"
     },
-    "1940": {
+    {
       "requestid": "ea8727a9-3d67-4955-a261-fc1a6722644e",
       "confidence": "0.8175365",
       "timestamp": 1940,
-      "content": "discourage the kids from kick in the balls into your yard or shatter gender norms among the community's kids I like that one quite a bit there were a lot of very inventive ones of course you"
+      "content": "discourage the kids from kick in the balls into your yard or shatter gender norms among the community's kids I like that one quite a bit there were a lot of very inventive ones of course you",
+      "uuid": "de117c66-2b37-49d3-b20e-0ccbb665e961"
     },
-    "1950": {
+    {
       "requestid": "28d62e4d-004d-4c6d-b965-0172982a086f",
       "confidence": "0.7597277",
       "timestamp": 1950,
-      "content": "and you can read the mall on our website at maxam fundador judge john hodgman especially episode a 2:15 great balls of fire one of the great the case name"
+      "content": "and you can read the mall on our website at maxam fundador judge john hodgman especially episode a 2:15 great balls of fire one of the great the case name",
+      "uuid": "8ac9860c-fee4-49ff-84b6-13d42d391da8"
     },
-    "1960": {
+    {
       "requestid": "3f57f060-d2a9-4dc2-ace9-bfed4666bc06",
       "confidence": "0.693362",
       "timestamp": 1960,
-      "content": "of all time rn you enjoy really because it's fun to think about how to make children cry I thought about every day but I reject the mall"
+      "content": "of all time rn you enjoy really because it's fun to think about how to make children cry I thought about every day but I reject the mall",
+      "uuid": "448c890f-f75d-4fb8-b5e9-10ef9afd2652"
     },
-    "1970": {
+    {
       "requestid": "7a5f56c5-f9b7-4a45-8b48-dd576a2c9d31",
       "confidence": "0.8123587",
       "timestamp": 1970,
-      "content": "just for I stand by my ruling which was as much fun as it is to think about spiking the ball and destroying the property of a child with kick the ball"
+      "content": "just for I stand by my ruling which was as much fun as it is to think about spiking the ball and destroying the property of a child with kick the ball",
+      "uuid": "b77de78b-2ad1-44f7-bb78-cfdd29638097"
     },
-    "1980": {
+    {
       "requestid": "19784f26-5c79-4671-8cc3-b343d541d82c",
       "confidence": "0.8649641",
       "timestamp": 1980,
-      "content": "it is infuriating as I'm sure the problem is having his balls coming into your yard having children screen for them and and sneak into the yard and everything else"
+      "content": "it is infuriating as I'm sure the problem is having his balls coming into your yard having children screen for them and and sneak into the yard and everything else",
+      "uuid": "8a1231b3-3929-4340-b0b3-bd758983b055"
     },
-    "1990": {
+    {
       "requestid": "15ed8512-14d3-462c-8168-4f1e0adb69b5",
       "confidence": "0.8047785",
       "timestamp": 1990,
-      "content": "to be solutions are much more labor intensive then you would want to keep up consistently and 2 there all incitement of the"
+      "content": "to be solutions are much more labor intensive then you would want to keep up consistently and 2 there all incitement of the",
+      "uuid": "17c154e7-cc0b-4588-a336-117ef5e8b7b4"
     },
-    "2000": {
+    {
       "requestid": "8b857888-ebf7-450a-9020-40cebc94e136",
       "confidence": "0.7081624",
       "timestamp": 2000,
-      "content": "natural vengeful sociopaths with our children yahoo will we will retaliate and it is not worth it to you there"
+      "content": "natural vengeful sociopaths with our children yahoo will we will retaliate and it is not worth it to you there",
+      "uuid": "f0afe314-468c-4dae-a44c-50c79bdbe9b4"
     },
-    "2010": {
+    {
       "requestid": "d7658d48-af96-49c3-8a9b-46135d7e8e81",
       "confidence": "0.6786599",
       "timestamp": 2010,
-      "content": "children making mistakes frozen bear balls back you guys turn up after you there did dumb dumbs it is important"
+      "content": "children making mistakes frozen bear balls back you guys turn up after you there did dumb dumbs it is important",
+      "uuid": "946c2656-6722-46b3-8e35-ac909abb92c9"
     },
-    "2020": {
+    {
       "requestid": "17f4e516-2ba0-445e-944d-75d8a675bd78",
       "confidence": "0.8267798",
       "timestamp": 2020,
-      "content": "that you secure your yard so you do not have trespassing children coming in and potentially hurting themselves trying to climb into your yard I'm all for a building"
+      "content": "that you secure your yard so you do not have trespassing children coming in and potentially hurting themselves trying to climb into your yard I'm all for a building",
+      "uuid": "280dc2f7-f35d-4765-a3ab-ea5b7a91b15f"
     },
-    "2030": {
+    {
       "requestid": "0746a73e-c22d-4d27-bc51-c7bde5cf5f84",
       "confidence": "0.7044868",
       "timestamp": 2030,
-      "content": "offenses for thus are great neighbors between adults and children made but the ball vandalism as retribution 29 year olds"
+      "content": "offenses for thus are great neighbors between adults and children made but the ball vandalism as retribution 29 year olds",
+      "uuid": "c7c77b5a-c62c-4cd4-85b1-5f951ab8b5b3"
     },
-    "2040": {
+    {
       "requestid": "93956538-8c60-4327-82a5-38e7177917e7",
       "confidence": "0.829863",
       "timestamp": 2040,
-      "content": "it's more fun to read about them to do so go ahead and read about it on our website and a and you know you can keep you can keep your card with is coming coz I do I do enjoy"
+      "content": "it's more fun to read about them to do so go ahead and read about it on our website and a and you know you can keep you can keep your card with is coming coz I do I do enjoy",
+      "uuid": "4308a0f9-9668-420d-a9b2-776e238afdbb"
     },
-    "2050": {
+    {
       "requestid": "acf5ba29-b4a6-4eb7-a64f-b97f1f134b94",
       "confidence": "0.6959323",
       "timestamp": 2050,
-      "content": "king about flattening as balls for short if you have a case for the judge submit www.maximumfun.org slash jake jai ho"
+      "content": "king about flattening as balls for short if you have a case for the judge submit www.maximumfun.org slash jake jai ho",
+      "uuid": "ea72f2c8-60ca-42c2-abc5-dca0c2c866a9"
     },
-    "2060": {
+    {
       "requestid": "9e7f63c8-ee1d-4e40-842f-d6c2f9d5ae62",
       "confidence": "0.6208504",
       "timestamp": 2060,
-      "content": "iphone your summer fun time good time bayleef modibo maiga wr at sign northampton julie smith produces the show martin gondolas our editor special thanks to"
+      "content": "iphone your summer fun time good time bayleef modibo maiga wr at sign northampton julie smith produces the show martin gondolas our editor special thanks to",
+      "uuid": "f0905a7b-44b3-4ab5-a9dc-b8c1dbaac570"
     },
-    "2070": {
+    {
       "requestid": "ac5adf70-7496-4a30-946b-126d76f9d0ea",
       "confidence": "0.7890334",
       "timestamp": 2070,
-      "content": "new job and the third man assignment mana WERU for engineering in blue hill maine thanks for joining us on the judge john hodgman podcast thank you monty and 2"
+      "content": "new job and the third man assignment mana WERU for engineering in blue hill maine thanks for joining us on the judge john hodgman podcast thank you monty and 2",
+      "uuid": "58d83331-cfab-4267-ae5f-67a8a97e8557"
     },
-    "2080": {
+    {
       "requestid": "83ddc24f-a0a1-4117-8e79-1e376b5d39ea",
       "confidence": "0.6584257",
       "timestamp": 2080,
-      "content": "joann 2 potf radio stations as always it's been a pleasure"
+      "content": "joann 2 potf radio stations as always it's been a pleasure",
+      "uuid": "9c37e6b7-0e7f-4d4d-a5f2-0fb325457b17"
     },
-    "2090": {
+    {
       "requestid": "74ddcc16-4060-4832-82a0-e05953832455",
       "confidence": "0.7330566",
       "timestamp": 2090,
-      "content": "artist owned listener supported"
+      "content": "artist owned listener supported",
+      "uuid": "f5c3b7d3-ece0-4cf8-9efe-c02198e8611f"
     }
-  },
+  ],
   "slug": "Good-Time-Summertime-Docket-Clearin-"
 }

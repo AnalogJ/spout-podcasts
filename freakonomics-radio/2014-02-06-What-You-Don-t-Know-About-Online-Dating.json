@@ -4,1619 +4,1854 @@
   "description": "<p>Thick markets, thin markets, and the triumph of attributes over compatibility.</p>\n<p>This episode is included in the Freakonomics #smartbinge podcast playlist at <a href=\"http://wnyc.org/smartbinge\">wnyc.org/smartbinge</a></p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/hCIMkG6Qb5A/freakonomics_podcast020614.mp3",
   "slug": "What-You-Don-t-Know-About-Online-Dating",
-  "segments": {
-    "1.02": {
+  "segments": [
+    {
       "requestid": "5745b7c6-9d30-401c-bcfe-4768677b59d2",
       "confidence": "0.8151047",
       "timestamp": 1.02,
       "content": "I had been personally on ok cupid on and off for a few years but allie read can I just move to la in august and you know got back on his way to meet people and get another city a little bit",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "61b6b1f0-59ae-4b01-929d-95d386e05e4e"
     },
-    "13.37": {
+    {
       "requestid": "ec11b4c6-2004-4615-86a8-67a99bc5e743",
       "confidence": "0.7810741",
       "timestamp": 13.37,
       "content": "read is a comedy writer spit a lot of time under ok cupid profile ok cupid in case you don't know the dating website profile but she wrote really working",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fa32a2d6-678d-499c-9c3f-9f0494a51cde"
     },
-    "25.86": {
+    {
       "requestid": "9299f695-8f69-4adb-b75f-9391966eba34",
       "confidence": "0.752744",
       "timestamp": 25.86,
       "content": "got a lot of messages have I hate you seem nice like that I don't you know just nothing nothing to do with my profile in so I wondered if it does anyone",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "c00868fe-eb68-479e-966f-ebf1ed996f45"
     },
-    "38.25": {
+    {
       "requestid": "b66f3a24-b01e-45ed-8bdc-0369175983f7",
       "confidence": "0.6137662",
       "timestamp": 38.25,
       "content": "caradog like are they just left handed out a picture haha I'm so I wanted to see if there",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "285c8278-f948-4be9-aad5-183df162af48"
     },
-    "43.67": {
+    {
       "requestid": "dc91f201-203c-45f8-8fd4-9584d7da47ca",
       "confidence": "0.833219",
       "timestamp": 43.67,
       "content": "the lower limit to how awful a person could be before men with stop messaging her on an online dating site",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "94aa7cba-d34c-4f8b-aff7-4e962b0d63c2"
     },
-    "51.88": {
+    {
       "requestid": "77a20911-ef9f-4ec2-b5c5-8f8cfd754c06",
       "confidence": "0.4715965",
       "timestamp": 51.88,
       "content": "this is when she got crafty",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "24ddf8a3-0a74-42dc-a8c8-628eb9164898"
     },
-    "53.81": {
+    {
       "requestid": "eca60756-d0a8-4e6f-bdb6-33b41263ae47",
       "confidence": "0.6293386",
       "timestamp": 53.81,
       "content": "she wrote a fake ok cupid profile very very",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e1daaa9b-74e1-41d5-9779-3f8749b55c2d"
     },
-    "60.98": {
+    {
       "requestid": "969bb1f4-e947-4a7a-8158-5717ff555cc6",
       "confidence": "0.8071167",
       "timestamp": 60.98,
       "content": "so you set up a profile and your name is what",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "795a71a7-7b1e-42d7-bcb5-7e5ecbb1f9f3"
     },
-    "65.2": {
+    {
       "requestid": "a2419e1b-8110-47c6-9811-fc45beedb0e1",
       "confidence": "0.5668032",
       "timestamp": 65.2,
       "content": "aaron carter fancine in are you in fact near cardiff in",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "b4fa9760-e485-4d83-b74d-b9022f8f752d"
     },
-    "69.97": {
+    {
       "requestid": "7a3e5a29-04b8-4983-89ea-283cea3d7ac3",
       "confidence": "0.6603751",
       "timestamp": 69.97,
       "content": "I know but I figured the woman I'm trying to create probably constitute aaron carter's basic fanbase ambly",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "e3beca40-dc9c-45f0-a53b-feb7ed1bda85"
     },
-    "78.55": {
+    {
       "requestid": "91359ddf-9429-4820-803c-62af1837ba09",
       "confidence": "0.7062626",
       "timestamp": 78.55,
       "content": "I'm blaring carter is the younger brother of a backstreet boy who had AA brief and ill advised rathriya",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "33374401-7652-4f37-991b-b46484c053e0"
     },
-    "87.34": {
+    {
       "requestid": "56e4e980-ab36-4b9a-9034-98994a2675db",
       "timestamp": 87.34,
-      "content": ""
+      "content": "",
+      "uuid": "b69d6fe7-3e7d-449e-b4c2-a09b5316fc78"
     },
-    "90.43": {
+    {
       "requestid": "cc1e6654-6f1a-4657-879f-5c52451a204c",
       "confidence": "0.6244021",
       "timestamp": 90.43,
       "content": "and there's just no substance there in his music at all and that was what I was trying to reflect in aaron carter",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "0a0c87ab-d239-4782-95c3-248c904b4088"
     },
-    "100.16": {
+    {
       "requestid": "645aeb66-4b82-4461-8e7b-8f5da3849f26",
       "confidence": "0.8755837",
       "timestamp": 100.16,
       "content": "talk about some of your favourite highlights or low lights of your profile",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "ce750c82-dd73-4751-8c4f-9abbc0626f1a"
     },
-    "104.71": {
+    {
       "requestid": "df2644bc-073b-48b4-9ef7-c92dacdcbbf1",
       "confidence": "0.8938844",
       "timestamp": 104.71,
       "content": "well one thing I wanted to make clear is that she's not just a bad person she wants to ruin your life",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "546ff7cb-2eac-40b6-869a-12414272e75d"
     },
-    "110.42": {
+    {
       "requestid": "abda11cf-304b-4d2d-9318-a552b2227f86",
       "confidence": "0.8102621",
       "timestamp": 110.42,
       "content": "so under the section what I'm really good at the only thing she left is convincing people in pregnant",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "ee9b30da-145a-42a2-9431-0d18455e2188"
     },
-    "116.55": {
+    {
       "requestid": "82ecd5a5-615a-45b3-bf96-3806eca4372a",
       "confidence": "0.73372",
       "timestamp": 116.55,
       "content": "elo l elo l yeah oh yeah she really enjoyed that great come on a typical friday night she is knocking the cops out of homeless people hands because she thinks it's so funny to watch them try to pick it all up",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "3ae69887-5770-425a-b9fd-7d260bd0a566"
     },
-    "129.11": {
+    {
       "requestid": "163bb3a4-f88f-4fff-baca-4c17070f86d5",
       "confidence": "0.8341613",
       "timestamp": 129.11,
       "content": "take me a minute to stick things you could never do without money my car my phone keep in america american my family and my friends and aaron carter take it to 7 think that's ok what's up with keeping america american meant to signal",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "fd93ba84-0e58-4c37-98de-e67a9f5bf00a"
     },
-    "143.78": {
+    {
       "requestid": "175ca5c6-a72f-4fc8-9309-4fff62a6c2ef",
       "confidence": "0.8054257",
       "timestamp": 143.78,
       "content": "she wants to me the worst person in the world is definitely racist um and so I needed that to be a part of her I didn't want it to be so obvious thing I wanted her to beat louisville be terrible I didn't want it to be an obvious joke profile and keeping america american to me it",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "30f166fc-725b-43af-b15f-43e00bc8bf7d"
     },
-    "159.37": {
+    {
       "requestid": "e93ebda7-47cd-4ac9-b582-11bd285cc0ed",
       "confidence": "0.807349",
       "timestamp": 159.37,
       "content": "sort of code for I don't like people who don't look like me",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "b68ea451-8229-421b-b3bf-ffe99633ac8d"
     },
-    "167.41": {
+    {
       "requestid": "beff27e4-e59a-4aec-a644-79c69c44a239",
       "confidence": "0.7611732",
       "timestamp": 167.41,
       "content": "so you create a profile for a girl named aaron carter's fan who likes to party and knock over homeless people at least the cops and she's a racist gold digging fake pregnant getting 25 year old white girl I'm at to do",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "38fff10e-7bfe-4616-9e2b-d1a49c48c30e"
     },
-    "186.46": {
+    {
       "requestid": "14a1ff06-a2ec-42fe-ba6d-7b502e84875a",
       "confidence": "0.6638089",
       "timestamp": 186.46,
       "content": "hush mericourt offended very well",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "27e7ce9e-5483-4fff-af73-bfa5727b0c89"
     },
-    "191.02": {
+    {
       "requestid": "c33ba77a-52e1-48c2-aee9-002e929a7814",
       "confidence": "0.8123548",
       "timestamp": 191.02,
       "content": "in the for 24 hour she got 150 messages I had the profile app for 2 or 3 weeks and she got close with thousand men message her",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "bf994015-0bb7-4551-807b-879402ca1099"
     },
-    "199.19": {
+    {
       "requestid": "aaf255b7-50cb-4ae2-b517-942abfa79b0c",
       "confidence": "0.8484828",
       "timestamp": 199.19,
       "content": "she got probably 10 times the number of message is that my real profile god",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "131e9762-9fa9-41cb-9504-77da9ed115b7"
     },
-    "203.6": {
+    {
       "requestid": "e291caba-3f7b-4f3f-962e-325a2084e31d",
       "confidence": "0.7810912",
       "timestamp": 203.6,
       "content": "so what do you attribute that success 2",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "80bafbf9-d65a-4aa9-ac8f-6ddbf63fab85"
     },
-    "206.72": {
+    {
       "requestid": "f00be133-7c8a-4abf-a66e-d427ca87cfd9",
       "confidence": "0.7569058",
       "timestamp": 206.72,
       "content": "well aaron carter friends one redeeming quality is that she is very good looking",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "9cb594d8-8bbb-435a-b8c0-7a543ec30cef"
     },
-    "212.94": {
+    {
       "requestid": "f2c3a609-4854-45b1-b3ba-c15a7904a274",
       "confidence": "0.8024674",
       "timestamp": 212.94,
       "content": "I asked my friend ray johnson who is an australian base model and actress if I could read her facebook photos and she very kindly said yes I am and so aaron carter fan is stunningly good looking",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "ff70e06a-0f44-4f78-9da6-113e9adeb4cf"
     },
-    "224.9": {
+    {
       "requestid": "4796a43a-ef2a-4281-b094-804266fefaaa",
       "confidence": "0.7589612",
       "timestamp": 224.9,
       "content": "and so tell me about following up with some of these are fine",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "8306041c-efa3-4727-a5fd-1a8a5b87366f"
     },
-    "227.85": {
+    {
       "requestid": "3b7f0290-db43-43c7-be94-fdda586518e5",
       "confidence": "0.7424828",
       "timestamp": 227.85,
       "content": "well after so many messages started rolling in the optimist in me decided that this man had just seen the pretty photo and had not read her profile to my god that point we came to convince them that she is",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "41bf98f6-fbdb-46fc-9d5d-e23f163e9b9c"
     },
-    "240.66": {
+    {
       "requestid": "bc0b05ba-8002-4b53-b0b4-466b6d203496",
       "confidence": "0.8142635",
       "timestamp": 240.66,
       "content": "just awful that she is so worth woman on earth that's what I was doing I said I was pretending to be a 14 year old on facebook so I can bully my sisters friend",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "b991de45-4553-4901-9200-0cf8b0222bce"
     },
-    "249.35": {
+    {
       "requestid": "ca314a0a-1831-4ed6-814c-8b945d8db00c",
       "confidence": "0.6811303",
       "timestamp": 249.35,
       "content": "I'm I would threaten to pull out their teeth",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "acd7b2ec-4ce8-437d-98d7-f33319562047"
     },
-    "252.75": {
+    {
       "requestid": "c91dad76-1bf4-45e0-9cf2-bc3423d109d9",
       "confidence": "0.7251126",
       "timestamp": 252.75,
       "content": "um with a lot of guys I can just I broke gibberish just pounded on the keyboard from in it and sent it in",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "9b9ad9ff-6adf-45cd-a8b8-3d4ed6ef72cb"
     },
-    "259.75": {
+    {
       "requestid": "75027b8e-fdd4-4206-9ee5-d2c7a7c3970d",
       "confidence": "0.730276",
       "timestamp": 259.75,
       "content": "does vast majority of them responded with that sounds great what are you know know",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "afd33f77-5dfa-412c-909c-0808a9329653"
     },
-    "264.62": {
+    {
       "requestid": "0a462267-816d-43cc-99a1-aaf47389cf46",
       "confidence": "0.6694649",
       "timestamp": 264.62,
       "content": "friday at 10 AM how many states did you have been out of anne curtis and fishing",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e0215ab8-96dd-445d-a589-38096114b53e"
     },
-    "270.68": {
+    {
       "requestid": "2cfa9e79-f309-455d-bd10-51e441764eb0",
       "confidence": "0.8741267",
       "timestamp": 270.68,
       "content": "I'm I actually believe it or not did not wanna meet any",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "51479151-4ecc-49a2-8db8-6b18d47d5b36"
     },
-    "274.72": {
+    {
       "requestid": "33bf8ff1-071a-4698-bc0a-3dd058c966e4",
       "confidence": "0.2588789",
       "timestamp": 274.72,
       "content": "beesmer your life",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "c5be8958-73c1-4d3a-a812-98b64aa140bb"
     },
-    "276.68": {
+    {
       "requestid": "6484edc2-efc8-427f-91a3-b6b1d241355e",
       "confidence": "0.710223",
       "timestamp": 276.68,
       "content": "yeah I'm surprise dahlia actually I found that a deal breaker for me it was messaging aaron carter",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "2747ae39-a7f7-4298-a63e-52dfa712fc8a"
     },
-    "285.58": {
+    {
       "requestid": "4edd42a0-cce2-4747-a3f0-6b2d7675767d",
       "timestamp": 285.58,
-      "content": ""
+      "content": "",
+      "uuid": "8a6be2f4-4251-43fc-b1d4-65bfeadf6f4d"
     },
-    "295.19": {
+    {
       "requestid": "40bbeb1a-9a53-467a-8726-e5cb642f5f52",
       "confidence": "0.6376297",
       "timestamp": 295.19,
       "content": "from wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S37"
+      "speaker": "S37",
+      "uuid": "011bdd36-6bec-4e4e-bd99-87837d18f7cc"
     },
-    "303.07": {
+    {
       "requestid": "9f1d0e94-42a2-4d8d-8831-0391114ad3d3",
       "confidence": "0.3349645",
       "timestamp": 303.07,
       "content": "here's your help steven buckner",
-      "speaker": "S37"
+      "speaker": "S37",
+      "uuid": "2f10a532-ac56-42ab-9c3e-81298224575b"
     },
-    "311.49": {
+    {
       "requestid": "5e7c8af1-a14a-433a-909a-eb950ffb0f3e",
       "timestamp": 311.49,
-      "content": ""
+      "content": "",
+      "uuid": "c5ae6e88-b2a4-43c8-811f-bfa085fcf9f4"
     },
-    "319.08": {
+    {
       "requestid": "3ec56d07-39aa-4f5a-b566-fb750d19738d",
       "confidence": "0.7069219",
       "timestamp": 319.08,
       "content": "were talking today about online dating alley reed wrote speak ok cupid profile for a really good looking 25 year old woman who also happen to be a racist gold digging big pregnant getting nightmare",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "16d17563-fdb0-4397-ba06-a7cf215e5464"
     },
-    "333.85": {
+    {
       "requestid": "66864ab8-1913-4ba0-b8a2-f383a3a41951",
       "confidence": "0.4952776",
       "timestamp": 333.85,
       "content": "and she got almost a thousand one",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "bc4007cf-36d3-4c41-b907-c87a5be58c1e"
     },
-    "336.9": {
+    {
       "requestid": "5b73ddc8-db05-499a-8dea-f7f748155c29",
       "confidence": "0.8283139",
       "timestamp": 336.9,
       "content": "when men are deciding who to contact I'm dating site looks matter a great deal",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "bdbf9209-9b07-409d-bcf8-0d0e574837d7"
     },
-    "341.72": {
+    {
       "requestid": "c752a0b1-8b5b-416f-a754-5d3ec9fdc985",
       "confidence": "0.5653977",
       "timestamp": 341.72,
       "content": "paul boyer he is a liberal columnist at stanford",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a76574b3-459f-472c-8684-258161101f41"
     },
-    "346.7": {
+    {
       "requestid": "f2991000-7cdb-4740-8eeb-260c5cbd707e",
       "confidence": "0.8075783",
       "timestamp": 346.7,
       "content": "just to give you one statistic that comes from the ok cupid blogon I'm calling her a hot woman receives roughly 4 times the message is an average looking woman gets in 25 times as many as an ugly one",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "255c2816-56aa-4b7c-a5e5-169132a890df"
     },
-    "360.85": {
+    {
       "requestid": "1df62e21-92b2-44af-afdc-63d0ad111a06",
       "confidence": "0.7570665",
       "timestamp": 360.85,
       "content": "alanis is interesting superstar fact weather very hot at 5% of men get twice as many emails as men who are just below that alarm for like the 10th percentile among 10% I'm most attractive but not among the very top 5%",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "7be87c13-eb50-4823-92f6-05f708bc526c"
     },
-    "379.12": {
+    {
       "requestid": "4bbb776b-d79d-4e3d-acc2-59517b1e8429",
       "confidence": "0.8329437",
       "timestamp": 379.12,
       "content": "women or in general a little bit more attracted to lawyers doctors men in the military",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "79e8875c-f192-4f13-8382-740059c407c0"
     },
-    "385.25": {
+    {
       "requestid": "6262f13e-9256-4950-bcbf-49852e059197",
       "confidence": "0.7710593",
       "timestamp": 385.25,
       "content": "and I'm firefighters which I do is hurt me the stereotype but I barely turned out to be at least a little bit true",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "6d68a730-6a52-43c0-b66a-6c486be0702d"
     },
-    "393.69": {
+    {
       "requestid": "ff9e6c13-235c-40b6-a2af-294269bc5f28",
       "timestamp": 393.69,
-      "content": ""
+      "content": "",
+      "uuid": "0791664c-40ff-4506-973e-2afa01573625"
     },
-    "396.6": {
+    {
       "requestid": "07aa40af-5b94-40b2-840c-717b0a00f791",
       "confidence": "0.6931141",
       "timestamp": 396.6,
       "content": "poloi are usually write papers with sexy titles like",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "8a1ecf1c-7bfc-45dc-a1a1-90b8a9de7159"
     },
-    "401.1": {
+    {
       "requestid": "73d4c479-8e80-4b86-8a02-634f57a72d91",
       "confidence": "0.7407537",
       "timestamp": 401.1,
       "content": "fiscal year ends in non linear incentive contract is the effect on business seasonality",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c9330437-36fa-48ae-82d6-09bb7ecb0006"
     },
-    "406.85": {
+    {
       "requestid": "08fcd998-4d98-413b-88d0-d53e86f5825f",
       "confidence": "0.6952025",
       "timestamp": 406.85,
       "content": "and are there sectoral anomaly's 2 in illustration of the pitfalls multiple hypothesis testing biry sleepover subuk put a different angle called everything I ever needed to know about economix I learned from online dating now",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e3970c4a-3dfb-4c27-a206-e2042caa080b"
     },
-    "422.6": {
+    {
       "requestid": "77a639da-2420-4d3c-b43f-355faf418cd7",
       "confidence": "0.728962",
       "timestamp": 422.6,
       "content": "why did boyer suddenly turned his attention to online dating boat key recently re entered the dating world himself after 20 year absence in",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "47ff7633-9420-4d97-85f6-72f031ab65b4"
     },
-    "433.15": {
+    {
       "requestid": "03138e13-a827-4240-9d04-e37574849900",
       "confidence": "0.6670259",
       "timestamp": 433.15,
       "content": "we signed up for some on my dating site he founded the dating market very much resembled the labor market see if you study and more importantly realise",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3fe513c6-cf1c-448f-bd1a-70fecf72d08e"
     },
-    "441.87": {
+    {
       "requestid": "e690f77e-1642-48cd-b1d4-4359d6eae1a3",
       "confidence": "0.7501107",
       "timestamp": 441.87,
       "content": "reading could be much improved if only everybody approach it like an economist would know course you say that is in the comments but whoever you are when it comes to online dating it helps to start",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e1076d81-236a-4a73-b7e9-6d61d6e9e263"
     },
-    "453.77": {
+    {
       "requestid": "f466328e-3bd6-4e26-84fd-f0b4c6dff99b",
       "confidence": "0.8105586",
       "timestamp": 453.77,
       "content": "something so for example one study found the man who makes $250,000 per year pulling everything else it will get contacted 2 and a half times as much as a man who makes",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "29776d5f-65a4-42af-9c23-99d5095fd8bf"
     },
-    "466.95": {
+    {
       "requestid": "4a3ce29f-66bd-4678-9769-dc1c4a38ca16",
       "confidence": "0.7480798",
       "timestamp": 466.95,
       "content": "would like $50,000 or less and look the same ok ok well now more education it turns out it doesn't have much of a direct effect of a few more education",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "e207fbef-226d-46c2-b74d-717787cea675"
     },
-    "478.98": {
+    {
       "requestid": "8524d1b3-6660-4088-8611-b742eccbae8d",
       "confidence": "0.8704441",
       "timestamp": 478.98,
       "content": "on a dating site you won't get more attention on average how are you will in directly in the reason for that is",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9cf1f725-edfc-44da-bcbb-6339fbf16b0e"
     },
-    "486.35": {
+    {
       "requestid": "2adb9ec1-f2c0-4403-9c39-dc48f42d1fff",
       "confidence": "0.7840537",
       "timestamp": 486.35,
       "content": "if you have more education you like you to make more money a typical study will find a person with one more year of education home and everything else could make it to 10% more than some one fewer year of education in so that's gonna lead to more money at which would then make you more attractive on a website",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "363b33f3-24b1-4a10-bd10-0fc5bac526b1"
     },
-    "504.02": {
+    {
       "requestid": "66d42d4b-f1a1-4288-87e1-eca7c981e99f",
       "confidence": "0.7400379",
       "timestamp": 504.02,
       "content": "cute thing it looks matter what but it turns out wait doesn't matter that much independent wants to know the weight person who is otherwise medium attractive will do almost as well as a medium attractive person who is not overweight",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "6cae37db-8d2d-48ac-990b-d1d97acd1142"
     },
-    "520.34": {
+    {
       "requestid": "68dc0be7-24f2-4f9b-bbe4-de09b8313428",
       "confidence": "0.6782712",
       "timestamp": 520.34,
       "content": "alright and what about men's preferences versus women's preferences",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "0b268608-d320-4245-879e-ac185ef5229c"
     },
-    "525.14": {
+    {
       "requestid": "83d8ad2a-f57b-4ea7-bb03-5d33300a429e",
       "confidence": "0.7469765",
       "timestamp": 525.14,
       "content": "men on the other hand care a lot less about income",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "ba855da8-1189-47cd-bef7-a4ef935cf9cd"
     },
-    "528.96": {
+    {
       "requestid": "db744ca5-bba6-4606-8998-7a5d732eb50e",
       "confidence": "0.8367214",
       "timestamp": 528.96,
       "content": "women who make more don't get a lot of extra attention and by the way very interesting recent study by 2 ne versus chicago conoma set another time is from another school",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "227983ce-edd8-4f94-9531-8b4c5f41283c"
     },
-    "539.32": {
+    {
       "requestid": "558bc444-e732-41a8-b8f2-95444ce848ad",
       "confidence": "0.8546748",
       "timestamp": 539.32,
       "content": "and they find that one to get out of this world into real relationships relationships tend to be less stable and happy if the woman makes more money than them and so it makes sense that women should be more attracted to money even mad to begin with",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "93ab60a8-cb12-4c94-92e4-a0bc5cf69c55"
     },
-    "557.27": {
+    {
       "requestid": "1b704171-a35b-4378-9c62-23b0c16e186d",
       "confidence": "0.7356476",
       "timestamp": 557.27,
       "content": "ok so paul boyer know it's good but about the rules of attraction in online dating with you think about it",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "dffd495b-42fe-41bc-a7e5-e3eb0f3041ad"
     },
-    "563.46": {
+    {
       "requestid": "85591ead-7590-4669-937b-e436927088d9",
       "confidence": "0.6675697",
       "timestamp": 563.46,
       "content": "just dating with a much bigger pool in a much better filter so here's a question does paul avoiders knowledge translate into actual wisdom",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "540c6a4f-3e49-49af-970e-85fe0eb6d703"
     },
-    "575.48": {
+    {
       "requestid": "1258bdff-a171-40cf-a1b4-cd2adeb69a93",
       "confidence": "0.7130037",
       "timestamp": 575.48,
       "content": "see any good at giving actual online dating advice for instance how do you build the best profile ever is it better to choose the big fight likematch.com or niche site like gluten freesingles.com which is real",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5823b6e6-fb2b-45d9-abc8-5089fd9b3d72"
     },
-    "592.71": {
+    {
       "requestid": "408eff0c-0d80-4382-ba6e-a0a16fde2365",
       "confidence": "0.7417859",
       "timestamp": 592.71,
       "content": "should you live and if so about what time would it be nice if a lawyer could not only answer this question but answer them for a real person who wants to improve his actual",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f845ee42-0c66-4ec5-b84a-52c8fd22e47e"
     },
-    "606.1": {
+    {
       "requestid": "c0a20722-f5d9-4679-aa46-a25258144c20",
       "confidence": "0.648736",
       "timestamp": 606.1,
       "content": "online dating situation",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "bc8eec24-eaae-4b98-916c-20b6a7759e8d"
     },
-    "608.6": {
+    {
       "requestid": "6310fa64-bdaa-4986-a218-8ce5ede135e8",
       "confidence": "0.6683446",
       "timestamp": 608.6,
       "content": "hey paul hi how are you",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "76c69a36-b520-4b8d-8928-76b8e23070fb"
     },
-    "610.38": {
+    {
       "requestid": "18b017e9-f4f2-4d4d-a2c8-f7f640cbebe9",
       "confidence": "0.7380732",
       "timestamp": 610.38,
       "content": "good nice to meet you nice to meet you too PJ boat with the new york the producer on the public radio show on the media co host a podcast called TLDRAPJ",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "5e7f3181-4cd4-4887-aa54-1c2f6cb87006"
     },
-    "622.77": {
+    {
       "requestid": "9a566d60-d5c1-41b6-8939-491ae7764e54",
       "confidence": "0.7124326",
       "timestamp": 622.77,
       "content": "the brave brave soul",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "868e2084-44c4-4f22-829d-d1c243d73af8"
     },
-    "624.9": {
+    {
       "requestid": "cee28f22-be3c-47fe-9e1d-94a0822182ca",
       "confidence": "0.7898366",
       "timestamp": 624.9,
       "content": "because he let us open up his ok cupid profile pick apart on the radio even have you been told before they look like ryan from the office I",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "2a3d59c5-0f2c-41b3-8569-57537809015c"
     },
-    "635.44": {
+    {
       "requestid": "b17334ed-57d9-4f0d-8cc3-18d5e1357cb5",
       "confidence": "0.7523713",
       "timestamp": 635.44,
       "content": "no I've been told I look like andy from the office but I take as a deck",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "1f1e95a5-200f-47d6-9bc7-f79266b4676c"
     },
-    "638.97": {
+    {
       "requestid": "cdf03ae2-f8c7-4f12-8693-97a13a44d450",
       "confidence": "0.5674238",
       "timestamp": 638.97,
       "content": "boat employer set down with to the lichtenburg",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "81eac994-ca2d-4e51-95de-ecbcc045490c"
     },
-    "642.29": {
+    {
       "requestid": "4e0c1320-3651-421e-80a0-e7302b79aab6",
       "confidence": "0.6454615",
       "timestamp": 642.29,
       "content": "is an hour so yeah he did you feel like you wanna read a few of spa",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "6474b600-404e-4028-81d6-e374117c5cc2"
     },
-    "646.06": {
+    {
       "requestid": "5b88c6fa-595b-446b-b265-37c3ffd9c394",
       "confidence": "0.7894467",
       "timestamp": 646.06,
       "content": "oh boy so I really can't my ok cupid profile which I don't know why this is as embarrassing as it is on but it's got a few pictures of bank which I've tried to make like pictures that are flattering but not like too flattering",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "9bace28b-f7de-413b-87be-969e4f410280"
     },
-    "660.43": {
+    {
       "requestid": "4c4f68fe-3289-41f5-b7ec-527cb7d551d5",
       "confidence": "0.6654575",
       "timestamp": 660.43,
       "content": "and then just like it's like a series of prompts and basically when realizing alakea is in every case I tried to brag and then quickly tell a joke that doesn't work I can brag about my <profanity>fucking</profanity> <profanity>fucking</profanity> thing babe oh ok so she's like what are you doing with your life I say I'm a public radio preisser which means I edit in port stories bragg",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "55def9e2-fb7f-4fc8-bea2-11a8949da3e2"
     },
-    "679.95": {
+    {
       "requestid": "b70c059c-0079-44b7-a6a6-1ff36b57e671",
       "confidence": "0.8164897",
       "timestamp": 679.95,
       "content": "and drink too much caffeine my old self deprecating joke",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "8bcb96a9-2d7b-4c41-8d4e-aa19cd43aafc"
     },
-    "683.23": {
+    {
       "requestid": "0c0f1c9e-8939-4284-b828-7da748ee3cde",
       "confidence": "0.7579853",
       "timestamp": 683.23,
       "content": "recently I've been learning to not jam on my words together in a mosh state old people can hear me better on the radio",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "e50f59c5-b266-4115-8cb7-6caacb0056a5"
     },
-    "689.08": {
+    {
       "requestid": "53020a82-e2e5-4649-9d34-b4c37be84a7c",
       "confidence": "0.5235667",
       "timestamp": 689.08,
       "content": "tim try and get away with their feet",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "cef173ce-c69a-4604-a791-340cbefffd38"
     },
-    "691.56": {
+    {
       "requestid": "c103730a-7b27-4c49-8097-e953c41c5b1f",
       "confidence": "0.7508968",
       "timestamp": 691.56,
       "content": "a very transparent give us another example um ok so like it says the 6 things I could never do without this is true but it all end up sounding like weird bragging coffee whiskey running shoes paperbacks torrance on my geriatric best buy",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "3e07adb3-7bda-4a93-8554-c5b7ae3ae562"
     },
-    "709.37": {
+    {
       "requestid": "51c65ea7-fb8f-45c8-ad86-f208e97f4347",
       "confidence": "0.6952503",
       "timestamp": 709.37,
       "content": "like you feel like you're bragging about being a vespa guy whenever that you guys are getting",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "0cc7ef6e-c3f1-441c-9cc9-32c74294adc6"
     },
-    "713.67": {
+    {
       "requestid": "64ae4918-808c-495b-a2d5-21f0c164b4c0",
       "confidence": "0.7261158",
       "timestamp": 713.67,
       "content": "can I just left the old guy question what are torrents",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9174ba56-cc28-4ac1-8ae9-3ed6f8653558"
     },
-    "717.0": {
+    {
       "requestid": "56aa8789-d016-478e-8bc6-acf5d1031d38",
       "confidence": "0.6477271",
       "timestamp": 717.0,
       "content": "oh torrance are on their way some people download media legally on my knees layla",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "4601e502-b902-45b2-86c3-d1bd33b95190"
     },
-    "723.1": {
+    {
       "requestid": "85cef437-1f19-40d3-85c6-e3e8ca4c82e9",
       "confidence": "0.8061245",
       "timestamp": 723.1,
       "content": "I was gonna ask the same thing I was pretending to know but I had it could be there is like really into torrential rain long walks in the rain my last name and um what is been a lot of your time thinking about",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "bbb4c20c-bec9-4388-a7be-891c7f4c74fa"
     },
-    "732.32": {
+    {
       "requestid": "ced736c3-c00c-4763-a826-9c162856245c",
       "confidence": "0.7927361",
       "timestamp": 732.32,
       "content": "that one approaches I spent a lot of time thinking about it and I said I spent a lot of time",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "f2cc3edc-47c9-44fc-9ac4-8f52f2d01409"
     },
-    "736.72": {
+    {
       "requestid": "722d2876-81e0-47b7-8bbf-b3a45383496a",
       "confidence": "0.7637415",
       "timestamp": 736.72,
       "content": "wearing about people I know seeing me on here which is ironic is on the radio right now anyway yeah I feel like I'm I'm not a person feels it a shame and I feel just rivers of shame right now",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "afed155a-bcb0-4eef-af54-50719f253d22"
     },
-    "748.98": {
+    {
       "requestid": "7f608fa8-379c-4d22-9696-9ebd5e68d99d",
       "confidence": "0.5817183",
       "timestamp": 748.98,
       "content": "haha um what's your um your name on here",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "27da3983-f706-4885-aac1-650ad06c0fe7"
     },
-    "752.84": {
+    {
       "requestid": "26ba15fb-be48-485a-97e0-9875a7c86863",
       "confidence": "0.6469365",
       "timestamp": 752.84,
       "content": "how does the worst part so it off it's",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "a815951d-7d05-42aa-8691-fdab4e4b19e5"
     },
-    "758.76": {
+    {
       "requestid": "b23e12fe-6074-4590-8c4e-4981c4b5dde1",
       "confidence": "0.6725397",
       "timestamp": 758.76,
       "content": "bart simpson by the fart sound like roland barthes like that the earth is like the worse it's like really the worst the worst thing about for the whole name at birth ibwe RBARTHESSIMPS airlines",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d5909c51-56bd-4098-9910-61d2b5f60818"
     },
-    "775.22": {
+    {
       "requestid": "062ce417-5542-456a-bae7-c934d689ce74",
       "confidence": "0.3708034",
       "timestamp": 775.22,
       "content": "so mortified",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "29720e1b-779a-421f-817c-82df1ff5f03f"
     },
-    "778.85": {
+    {
       "requestid": "c83eb8cb-067b-4282-86f7-5f6094b999f3",
       "confidence": "0.7415939",
       "timestamp": 778.85,
       "content": "note the polloi orsi's the most important first step in online dating to know exactly what you were trying to get out of it",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "02b594bb-2ea3-40f3-8ec3-9e5b347d3165"
     },
-    "791.7": {
+    {
       "requestid": "301c1071-83ab-45a1-b94f-fb76a57cfe39",
       "confidence": "0.7281722",
       "timestamp": 791.7,
       "content": "tentena camest I can't help but think we start with your objective function are we looking for her marriage someone to hang out with an option value so somebody hang out with the river turns into more that's good",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "3ef92590-3f49-4565-91c4-ebeda7c6eed8"
     },
-    "805.03": {
+    {
       "requestid": "29a61859-3c81-49d2-a5a5-e8dd53fd7f66",
       "confidence": "0.750086",
       "timestamp": 805.03,
       "content": "yeah option value sounds like a good way to put it",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "55dbb4ae-f4dc-4e6f-8ced-29696a82a0a2"
     },
-    "807.72": {
+    {
       "requestid": "473bb694-7467-478f-8217-7a98fce93590",
       "confidence": "0.8004198",
       "timestamp": 807.72,
       "content": "ok so are they look at what you've got here well before we even look at it we have to stop and think about the first thing in economist is gonna do is think about supply and demand",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "6813b300-8258-4580-b258-d9ffda797bb3"
     },
-    "817.93": {
+    {
       "requestid": "79d2c44e-1066-4861-9087-67bb023272e8",
       "confidence": "0.8460614",
       "timestamp": 817.93,
       "content": "so I don't know if you realize this but you're in a great position new york city is demographically more female than male I'm not entirely sure why that's true it out here in san francisco it's the opposite",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "0e90d135-f3bc-4610-810d-402e4aa0f9f2"
     },
-    "831.45": {
+    {
       "requestid": "19cc3f26-d4ef-4efe-8a8c-0f682894deb1",
       "confidence": "0.8157002",
       "timestamp": 831.45,
       "content": "hi hun we have a oversupply of men relative to women at least compared to other cities new york city in washington dc 10 to swing much more towards not more available women so you're in a good position",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "57070f90-52f8-4a1a-b83c-9165604835e4"
     },
-    "844.5": {
+    {
       "requestid": "cb08de7c-c3a1-4187-9ca8-1cc56a9a4921",
       "confidence": "0.7567583",
       "timestamp": 844.5,
       "content": "from a competitive pov you're providing a good single straight male witch is in relatively high demand bellevue leasing to keep in mind here is time is very much on your side so you're in a good position for 2 other reasons and I did",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "56397e05-8bad-4910-ac57-cc9b1f0bc1f8"
     },
-    "861.04": {
+    {
       "requestid": "abd67c68-77a6-42f5-bf6c-7753e8e2e752",
       "confidence": "0.8359737",
       "timestamp": 861.04,
       "content": "the male female differential I just mentioned is gonna swing much more in your favor over the next 10 years has do you under no pressure to hook up for a long term relationship right now so that'S1 thing that's good the other thing is just more generally aside from your gender the fact you're 28 years old",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "d171d64e-9796-4027-98d3-dc5be24c0180"
     },
-    "879.01": {
+    {
       "requestid": "5521ebc1-8ad6-4fd8-b2fe-b1c2004b5d02",
       "confidence": "0.8009306",
       "timestamp": 879.01,
       "content": "from an economist pov means you should be very picky so you should be picky should be looking for really good match in the reason for that is",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "2fb68196-d4c7-4d70-b300-f4e6b7a6603a"
     },
-    "888.45": {
+    {
       "requestid": "310ecd0b-f05c-4e76-a96e-09e8187cd746",
       "confidence": "0.7801683",
       "timestamp": 888.45,
       "content": "suppose you do find just the right person get married and live happily ever after well you're no rush to do that because you have let's just say 50 more years in which to enjoy the relationship you find a successful one",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "80f02237-8db2-498b-a429-8775c718de75"
     },
-    "903.87": {
+    {
       "requestid": "8694ca91-fcdf-40a3-a4cb-7e6b042e8c3a",
       "confidence": "0.7934464",
       "timestamp": 903.87,
       "content": "so when I was on the on line dating market recently you know I'm much older than you are and from a rational economic perspective I should be less picky than you look hot so I should be searching a little less carefully I should be settling on settling is an important idea",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "bf1da8a4-45c3-423b-af5f-199660fab184"
     },
-    "921.58": {
+    {
       "requestid": "9b7f4907-8952-4b8d-96ff-b4521c0d4f44",
       "confidence": "0.8283395",
       "timestamp": 921.58,
       "content": "it's a very important idea to work on a mess because of what we call search theory suggests that at some point you should realize that",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "c19449be-69de-4d13-87ba-55170aa670f4"
     },
-    "929.6": {
+    {
       "requestid": "ee44c424-1e73-421b-b394-e37d91c4b05f",
       "confidence": "0.851741",
       "timestamp": 929.6,
       "content": "having what you have is better than expanding more resources to try to do better and that's more true when you're my age i'm 50 now and when you your age which is 28",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "1ad418b7-d8a5-4864-b7de-3a39114adf9f"
     },
-    "939.9": {
+    {
       "requestid": "89fb4987-732c-4a3a-81fe-9c90dc02d9c6",
       "confidence": "0.6107978",
       "timestamp": 939.9,
       "content": "so what's new year were that what you wanna do you speak with my defense can be here so it's a slow steady dick up your patience level should slowly and steadily arod ok that's happening right now you should be very patient",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "c98b9848-9668-4623-b349-7723aa4cfa93"
     },
-    "955.08": {
+    {
       "requestid": "01f8fc23-5041-4943-8268-734392e82e84",
       "timestamp": 955.08,
-      "content": ""
+      "content": "",
+      "uuid": "ca088d98-9670-4332-8e91-112f692cba34"
     },
-    "959.56": {
+    {
       "requestid": "43fde9a4-235c-44bb-8388-028bcc00f1cf",
       "confidence": "0.7787402",
       "timestamp": 959.56,
       "content": "the pool boy are telling pj boat that pj is in pretty good shape dating white one thing you got going for me is it is using a big dating website ok cupid in a big city new york",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5e556354-d05f-4cd8-bcb1-9769780a10b8"
     },
-    "973.72": {
+    {
       "requestid": "e4f40345-a1b2-47cd-a97b-6aab5ac8b35b",
       "confidence": "0.8894893",
       "timestamp": 973.72,
       "content": "I don't wanna advertise for any given website",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9bea160f-2981-4bc8-a8b6-981d5ff3395a"
     },
-    "976.59": {
+    {
       "requestid": "378526c7-1e71-45b5-bf84-63c8a3fcf031",
       "confidence": "0.8217875",
       "timestamp": 976.59,
       "content": "but especially in your demographic kind of a younger demographic ok cupid is what we call asek market that's a very big website there are lots of men and women on it so by putting yourself on this website you're going to have lots of choice in a lot of people are gonna have the opportunity to see you and consider you as an option that's a very good thing",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "8c90f6f1-75c2-4aff-9b5a-611ec2d59c2c"
     },
-    "995.86": {
+    {
       "requestid": "e0552f51-1419-4cd0-9a45-9e53e9626e5d",
       "confidence": "0.7699164",
       "timestamp": 995.86,
       "content": "can I ask you a question or I could favourite if it's like at derailing question now on august ok so my friends I talk about this all the time like my my female friends and my male friends all feel that this is true like that that men in new york in and cities are my friends lived everyone can actually feel this market forces we talk about them",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "8be979a7-6846-42f1-bfdf-7720d5b0cfe5"
     },
-    "1014.31": {
+    {
       "requestid": "db34d30f-b751-48b5-a74a-422c55197e29",
       "confidence": "0.8349244",
       "timestamp": 1014.31,
       "content": "and I hate them and I often imagine I wish they were from I would think of the suburb the time from where",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "4c624bd1-e6e6-4fe6-aa7c-21705bbf3a27"
     },
-    "1021.86": {
+    {
       "requestid": "cb60c98a-a639-4fa2-9493-c448ae06439a",
       "confidence": "0.8142172",
       "timestamp": 1021.86,
       "content": "most people aren't are not like me",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "05142acd-f4f0-49f9-829e-35283bda676f"
     },
-    "1024.54": {
+    {
       "requestid": "170de675-5db9-4ded-8541-25fe7d7d6be4",
       "confidence": "0.7889376",
       "timestamp": 1024.54,
       "content": "I'm liking sorta cultural attitudes are never anything could be so much happier being there when I had almost no choice and where I would meet one person who seems like I could be happy with them and then I wouldn't have to I'd like the hardest part is the feeling like others all these people who seem pretty good like if I were shopping for tv to be fine",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "a36316b1-02ca-40a2-896d-c80d86b3d54d"
     },
-    "1043.53": {
+    {
       "requestid": "e8e9dcd5-4fb1-43a1-b49a-3f4f608a6dc2",
       "confidence": "0.7716649",
       "timestamp": 1043.53,
       "content": "I thought he buys clamoring for my dollar but like all the time",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "fcac870c-4abd-40e7-a48f-c23d25eecdc4"
     },
-    "1047.18": {
+    {
       "requestid": "2bf96ae8-c7af-464b-800e-ac4387b6f6ba",
       "confidence": "0.5032731",
       "timestamp": 1047.18,
       "content": "parabol point I don't like it when it's like your hearts invol feel so bad",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "9c2a6900-625c-4096-b2d8-50bfe6d5f8ee"
     },
-    "1052.87": {
+    {
       "requestid": "f2086fe3-ecf1-4f75-ab15-d484179dd706",
       "confidence": "0.7479564",
       "timestamp": 1052.87,
       "content": "it's the ideas do you wanna be a big fish in a small pond how do you I'm in mission a big butt <profanity>tranny</profanity> just like the idea of",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "e04c89b5-a264-47ec-bfbe-7acc7db1722d"
     },
-    "1058.7": {
+    {
       "requestid": "6ed74af3-ea91-486f-9a56-ff4b01a072e3",
       "confidence": "0.7688826",
       "timestamp": 1058.7,
       "content": "that the search sucks I'm even if the search is like waited in your favorite game",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "e4d8edb1-0ddc-4cad-8fba-4cb99250530c"
     },
-    "1064.32": {
+    {
       "requestid": "3452dea5-6359-4e43-9261-d3ecb1ff3071",
       "confidence": "0.8109397",
       "timestamp": 1064.32,
       "content": "ok so couple things can help you out here one is if the technology is good enough on the dating site you want a huge dating site that gives you just very very small fraction of the available people on the site ha",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "787ef71a-fe3c-4a73-a654-7e3bd64bfc73"
     },
-    "1077.68": {
+    {
       "requestid": "4256b1cd-c921-4bff-ab95-58aa0dba339a",
       "confidence": "0.7999017",
       "timestamp": 1077.68,
       "content": "so think about this think about if we try to put everybody on one dimension which is of course the kind of oversimplification ekonomist get made fun of all the time for not fair but do think about a boardwalk in at one end of",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "1483194e-7182-4773-a71f-68cd1d590aca"
     },
-    "1092.64": {
+    {
       "requestid": "bbd8306d-1188-4f4f-97f7-100f7ac2b6a1",
       "confidence": "0.8889202",
       "timestamp": 1092.64,
       "content": "boardwalk is people who are completely incompatible for you for one reason at the other end of the boardwalk is people who are completely incompatible for you for another reason and you're right in the middle of this boardwalk yeah and then think of all the women who might",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "f4ab9651-9997-43b8-8c26-7aac002d9534"
     },
-    "1106.66": {
+    {
       "requestid": "5e514aa8-44d8-41e6-979d-395d7f3abb5f",
       "confidence": "0.8070142",
       "timestamp": 1106.66,
       "content": "be in your potential in your market is being evenly distributed along the boardwalk were the one to happen to be right next you are perfect fit for you were very good fit for you and want to be extremes are not well obviously the more women on the boardwalk the better you are but if you don't know exactly where they are on the boardwalk",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "c96a73aa-1c28-48bd-be11-c62bc63253c0"
     },
-    "1125.34": {
+    {
       "requestid": "726c2608-3d45-48ba-b1e5-68b9499de006",
       "confidence": "0.7626659",
       "timestamp": 1125.34,
       "content": "men the more women there are the more problematic it so is the technology is good enough to show you hear the 10 women who are really close to what you're looking for me",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9ea26959-b915-486a-9ea8-38f0caed848c"
     },
-    "1137.27": {
+    {
       "requestid": "b5260535-cd4e-47a6-8987-29e0c74165dc",
       "confidence": "0.8258193",
       "timestamp": 1137.27,
       "content": "that way better than going to a city where the whole boardwalk has only 10 people write it easy to play the whole field of the boardwalk",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "62ee8511-1933-4322-becf-a99d904f96e6"
     },
-    "1147.61": {
+    {
       "requestid": "a5c8150f-87e3-4a95-b63e-48f24762efc4",
       "confidence": "0.7910976",
       "timestamp": 1147.61,
       "content": "but the chances that any of those women would be a good fit for you are not nearly as good so this is what we call a sick market affect and it does have the opposite problem that kicker market lead to more costs of",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "5924dfa2-11ce-4081-8cb8-0ecc8f9b7b5d"
     },
-    "1161.04": {
+    {
       "requestid": "a5f1211c-cb5c-418e-95ab-a2a19f0d7b45",
       "confidence": "0.8751155",
       "timestamp": 1161.04,
       "content": "screening and all the potential candidates in of the software can do that for you would you be better off",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "60f478e7-9aa0-4391-81fc-0e85b813a9e4"
     },
-    "1167.13": {
+    {
       "requestid": "748e26c1-bf20-45e1-a7bd-0fca577ea496",
       "confidence": "0.7550523",
       "timestamp": 1167.13,
       "content": "when do you feel like this offer does a good job of that",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "bbfc9cc5-3e10-41d4-b10e-b9afc765891d"
     },
-    "1170.7": {
+    {
       "requestid": "ebdeece1-8441-45a3-980d-773043520bc7",
       "confidence": "0.510843",
       "timestamp": 1170.7,
       "content": "I'm so damn that's how I feel",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "831f20dd-f95d-4daf-a5f2-ca43004cc2e9"
     },
-    "1177.84": {
+    {
       "requestid": "b80c5416-5624-4754-b83a-294b52ea1734",
       "timestamp": 1177.84,
-      "content": ""
+      "content": "",
+      "uuid": "5ffb733c-59bf-49ce-ba1f-1df831428993"
     },
-    "1184.51": {
+    {
       "requestid": "2c9f92e6-aa33-4ec6-9213-b59ccc996f0f",
       "confidence": "0.6640031",
       "timestamp": 1184.51,
       "content": "so whether you are a straight man in your twenties apeejay boat 4 street woman michali read words can be very different kind of straight woman or if you're gay or if you're in your 50s like paul boyer",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1ad54c40-33ad-4010-b639-67c4ff02f8c3"
     },
-    "1197.51": {
+    {
       "requestid": "d13589ca-a0e3-48f5-b49f-9601b9518456",
       "confidence": "0.7062629",
       "timestamp": 1197.51,
       "content": "your hopes meeting the right person I'm very much dependant upon the series about right now",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "58ed3f14-5bbe-4083-ad09-b08d0d71cbb0"
     },
-    "1203.69": {
+    {
       "requestid": "95865100-c222-4eb2-aef9-905e99bd7b17",
       "confidence": "0.6327828",
       "timestamp": 1203.69,
       "content": "nervous if so we can help",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e08c0f62-3b5f-4e40-8e67-ad448ef9fcb1"
     },
-    "1209.74": {
+    {
       "requestid": "1f25161b-b610-4147-9aaf-78d6a5a68b20",
       "confidence": "0.8261213",
       "timestamp": 1209.74,
       "content": "coming up on freakonomics radio how to build the best online dating profile ever",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "43c9fdad-7b63-43d4-bd99-0fb611937783"
     },
-    "1215.82": {
+    {
       "requestid": "c5d020b6-c63c-4b9a-8277-83bec37dc509",
       "confidence": "0.7084904",
       "timestamp": 1215.82,
       "content": "is in a condom at that lamp at and I wanna suggest the following that you fill in more detail",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "3660ae51-64a8-49f9-9f7d-c4d3ce417291"
     },
-    "1221.91": {
+    {
       "requestid": "fef4129e-d8ad-458b-8caa-7e393e8a8df9",
       "confidence": "0.7072589",
       "timestamp": 1221.91,
       "content": "keeping in mind 2 ideas that are very important",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "08a9beb5-d665-493e-b047-b44f83b43c3c"
     },
-    "1227.97": {
+    {
       "requestid": "092a4052-01cc-4efa-bba2-1215a2a04937",
       "confidence": "0.5931351",
       "timestamp": 1227.97,
       "content": "and why online dating is it bigger",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "22c92ada-c867-463c-ad98-607303c78cf6"
     },
-    "1231.44": {
+    {
       "requestid": "3443439a-f0fc-48e3-92ff-5a0c15101a41",
       "confidence": "0.6301615",
       "timestamp": 1231.44,
       "content": "dylan using the internet is turned matching upside down it used to be that you would find compatibility test and then learn more about someone else's attributes now you see all the attributes pininyahang about compatibility later",
-      "speaker": "S174"
+      "speaker": "S174",
+      "uuid": "c74dd6d0-2682-46cb-b6a3-2e8ee3163f90"
     },
-    "1258.11": {
+    {
       "requestid": "6a1aa941-accc-48bc-8567-36322e0886a4",
       "timestamp": 1258.11,
-      "content": ""
+      "content": "",
+      "uuid": "5c0a6c2d-e1ab-4a05-9361-4d38ee09fb74"
     },
-    "1261.03": {
+    {
       "requestid": "10eb0810-5ed9-42e4-adac-93b626b8ce4a",
       "timestamp": 1261.03,
-      "content": ""
+      "content": "",
+      "uuid": "a4fb71ef-b9aa-4537-aec8-f3aae82c4b4f"
     },
-    "1263.37": {
+    {
       "requestid": "85f3ca84-bf8e-46bc-9038-3b902f8c5e2b",
       "confidence": "0.855637",
       "timestamp": 1263.37,
       "content": "freakonomics radio is supported by citrix go to meeting designed to be a fast and simple way to meet and collaborate with clients and coworkers online",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "432691e8-a1bb-43e1-ab6e-dbf932873665"
     },
-    "1272.23": {
+    {
       "requestid": "312ef6f1-1707-4c6e-9cf3-eb1b5c84bced",
       "confidence": "0.8054681",
       "timestamp": 1272.23,
       "content": "go to meeting with users share screens change presenters",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "674452cb-5b9e-4a37-8cff-214e86868af9"
     },
-    "1275.9": {
+    {
       "requestid": "93351985-2fc0-4302-97b7-3bf303a47f66",
       "confidence": "0.8656314",
       "timestamp": 1275.9,
       "content": "and turn on their webcams for high definition video conferencing go to meeting allows teams to stay connected from wherever they are at anytime using any computer mobile or tablet music go to meeting.com and click on that riot free button for a free 30 day trial",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "65aed4a7-f521-48f8-823e-4d4d2751c5cd"
     },
-    "1292.9": {
+    {
       "requestid": "67890678-5dd2-4183-a6b4-b7174fd1bf27",
       "confidence": "0.8612862",
       "timestamp": 1292.9,
       "content": "freakonomics radio is supported by brain tree for anyone searching for the rate payments api check out green trees new b dot OSTK makes it easy to support multiple mobile payment types with one simple integration in 10 minutes",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "10f0d94b-2981-4893-9a1b-45cb4b15ede7"
     },
-    "1308.71": {
+    {
       "requestid": "5f5b79f8-5295-47cd-af7e-52bbb6378e19",
       "confidence": "0.6430965",
       "timestamp": 1308.71,
       "content": "green tree allows acceptance of paypal apple pay bitcoin ben moe all major credit and debit cards 31 snippet of code",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ead24001-8a2d-4117-89f8-20fce95e3002"
     },
-    "1317.5": {
+    {
       "requestid": "20c82e81-6768-423a-90cd-1e8c0c3bdadf",
       "confidence": "0.8534381",
       "timestamp": 1317.5,
       "content": "to learn more and beer for $50,000 in transaction fee free go to brain treepayments.com slash freak",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c5acd57e-e60a-410c-9c27-c1c5cdbc1765"
     },
-    "1328.62": {
+    {
       "requestid": "30651ea3-49ce-449c-9805-533f84b739c8",
       "confidence": "0.7741668",
       "timestamp": 1328.62,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S189"
+      "speaker": "S189",
+      "uuid": "91b84bda-7a57-476a-9e19-2dc597dd78ec"
     },
-    "1336.5": {
+    {
       "requestid": "a0f6caf5-8a71-44e6-8665-36b8f2982f52",
       "confidence": "0.6887573",
       "timestamp": 1336.5,
       "content": "bing bing bing bing bing bing bing bing bing bing dating site ok cupid has section called my details where you can fill in all kinds of factors of port I should take it back it's in quotation marks since you can really break whenever you want",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "4ff70b0f-8784-48a1-931d-e69f69f641c3"
     },
-    "1352.45": {
+    {
       "requestid": "f330bc88-b6b6-4a72-8214-5f51af13f56b",
       "confidence": "0.6390299",
       "timestamp": 1352.45,
       "content": "defil in your ethnicity body type diet religion income astrological sign the pets you lover hate becometh paul boyer the author of everything I ever needed to know bout economiques I learn from online dating told pj boat in susie lechtenberg there's a scientist fill in the details",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1f9529bc-dcab-4b98-8279-e5b8d18a59b6"
     },
-    "1371.84": {
+    {
       "requestid": "1f67ba7b-efb8-48d0-b8cb-9043143e8fed",
       "confidence": "0.6083544",
       "timestamp": 1371.84,
       "content": "and sometimes just sometimes you might wanna lie",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a50a694a-50b9-4532-8cd2-35d533079ceb"
     },
-    "1377.11": {
+    {
       "requestid": "99857941-b8d8-4ea0-9576-798f6b3afe0a",
       "confidence": "0.7125847",
       "timestamp": 1377.11,
       "content": "as a discussion about people lie all the time online and I never would advocate lying but these were 2 where I thought if you want to signal to somebody",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9d6c9436-6a3e-4510-9257-04aeb1af944d"
     },
-    "1387.22": {
+    {
       "requestid": "1ea72d59-befc-47b4-89e3-2533f6b18273",
       "confidence": "0.7323458",
       "timestamp": 1387.22,
       "content": "nothing showed that you were serious and ready for a relationship longer term you might wanna eat are not answer them or shade exaggerator little are whatever time you wanna I'm so worried about what is it gonna be no no no no no big deal but you said you space out quote all the time oh yeah that's true",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "e7ce6b84-e0c8-4a11-a81e-fd790b4df5ff"
     },
-    "1406.4": {
+    {
       "requestid": "28b3c06b-5fa1-4bd4-ab5f-cba810568bf0",
       "confidence": "0.5057238",
       "timestamp": 1406.4,
       "content": "I'm ok so you might not wanna <profanity>fuck</profanity> you",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "10551452-e3ea-406c-96b8-67d3bd972ccc"
     },
-    "1411.14": {
+    {
       "requestid": "caf8e6c4-20b6-4782-8fb3-24df90348abe",
       "confidence": "0.6779635",
       "timestamp": 1411.14,
       "content": "if you're looking for someone who's thinking about who's gonna be the father of their children oh yeah that's a good point let's go to let mike and is that why you're never there",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "dce7cd78-f55e-4557-b4c7-5739ead62083"
     },
-    "1420.81": {
+    {
       "requestid": "285d2546-860c-4259-aecd-4f782fae38a9",
       "confidence": "0.7132781",
       "timestamp": 1420.81,
       "content": "I mean kind of honestly like I would here's here's the thing I would wanna date someone even if you are a casual where they were they were like I would never wanna make a human with this person",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "131e8496-4bd1-4fe8-b419-4ce01c3e7ba7"
     },
-    "1431.8": {
+    {
       "requestid": "2df78202-3437-4293-a56f-1e403b8f6957",
       "confidence": "0.7979023",
       "timestamp": 1431.8,
       "content": "yeah the other night you said you were quote attracted to dangerous situations yeah that may be true",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "3feaef51-1034-4cb3-90d9-7750d65f8adb"
     },
-    "1439.02": {
+    {
       "requestid": "27c26e90-3138-4181-91fb-da170ea98c1f",
       "confidence": "0.8082088",
       "timestamp": 1439.02,
       "content": "but you don't i'm not suggesting you back go back and give a false answer I'm just saying you don't have to answer every night they were a few questions when I filled out the ok cupid question",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "31f87798-34d7-4392-97f2-602dd6fd12b8"
     },
-    "1449.54": {
+    {
       "requestid": "500a7bd1-bd6b-4f4d-b26b-87b75e8d37e4",
       "confidence": "0.7085487",
       "timestamp": 1449.54,
       "content": "there were few I just and fill out and um I'll be honest there were fewer I check the box that I don't think it was entirely truthful when I checked that such as",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "4bd636f6-e399-4685-bcff-f094fb6591cf"
     },
-    "1462.25": {
+    {
       "requestid": "954c96e8-68d5-41c7-ae0f-4475aa0aecab",
       "timestamp": 1462.25,
-      "content": ""
+      "content": "",
+      "uuid": "9281f90b-cc54-43da-852d-60df0418cb56"
     },
-    "1466.52": {
+    {
       "requestid": "117b9d5f-74e8-498b-a46f-06c748b3635d",
       "confidence": "0.7235107",
       "timestamp": 1466.52,
       "content": "in some of the questions I ask you how in too deep conversations with your mate and cuddling and things like that you are I may have made myself seem a bit more accessible an awesome and I'm an honest person would say",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "666cad33-b754-4bb4-9970-81ecd0afc43e"
     },
-    "1486.51": {
+    {
       "requestid": "63c92cdb-b79b-4e4b-8b18-f0c8dc66ee37",
       "timestamp": 1486.51,
-      "content": ""
+      "content": "",
+      "uuid": "013ec467-5b4f-438d-8a2a-19a293d69333"
     },
-    "1491.72": {
+    {
       "requestid": "732c27ff-ffeb-4e36-b92f-56138e01526a",
       "confidence": "0.7426577",
       "timestamp": 1491.72,
       "content": "so poloi are admits he fit the little bit but that's because some of the signals on a dating profile can come across really strong if I send the wrong message it might be better to turn down a bit so what kind of signals was pj boat sending out",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "82a3b719-862c-4fe4-9aa9-a7f089c697a8"
     },
-    "1510.38": {
+    {
       "requestid": "0deb33a5-063a-422d-9918-cfa78c065ecb",
       "confidence": "0.6106408",
       "timestamp": 1510.38,
       "content": "do you wanna read what you have in your mind to tell heidi tells me and you haven't gonna be my details I height is 5 have your your body type is",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "05773ab6-b23c-47ab-ab75-fb6be3660d1b"
     },
-    "1519.04": {
+    {
       "requestid": "2a33da33-e2b0-4676-a982-65080f169c95",
       "confidence": "0.6323577",
       "timestamp": 1519.04,
       "content": "jack jack I think that that is supposed to scan a joke um I say don't smoke at a drink socially which is astra chant will back right ricky more than socially and it says that I speak english ok",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "afab85c4-1aaa-4191-8366-1e93d6e3ff47"
     },
-    "1531.59": {
+    {
       "requestid": "0dc708d4-bee6-41d2-996f-489d6dede2b5",
       "confidence": "0.8213544",
       "timestamp": 1531.59,
       "content": "I look at this and I think this guys just looking for good time love you not taking it seriously right now is everything a joke yeah",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "d8d4e297-8b34-4ac3-871c-7e27a578e5a2"
     },
-    "1539.32": {
+    {
       "requestid": "b66d2f5c-e9a0-415b-af36-6da6abb65e8a",
       "confidence": "0.694613",
       "timestamp": 1539.32,
       "content": "there you go exactly how is in a condom at that lamp at when I wanna suggest the following okhay fill in more detail keeping in mind 2 ideas that are very important in economics in the related",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "2b1abd97-bbc6-4bbe-b23a-309801e32165"
     },
-    "1554.73": {
+    {
       "requestid": "17e5ace9-802f-4454-b2b6-4f51b4590d61",
       "confidence": "0.8406703",
       "timestamp": 1554.73,
       "content": "they are statistical discrimination and adverse selection",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "640fe10b-413c-49cd-8461-c71849b07627"
     },
-    "1559.91": {
+    {
       "requestid": "6579f84c-19df-4685-8b43-9290af663083",
       "confidence": "0.7891548",
       "timestamp": 1559.91,
       "content": "so when people look at things in your site there going to make assumptions about you based on a case that is the goal sumption's ok a simple example looking at your thing is you have many sort of jokes slash statements about whiskey and other alcohol consumption",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "4b345ae5-d61f-4a4c-9666-0760d633c26d"
     },
-    "1578.38": {
+    {
       "requestid": "044d86cf-84a5-4d27-9b9c-3235acf5f624",
       "confidence": "0.7878372",
       "timestamp": 1578.38,
       "content": "and maybe it's fine if you just looking for the hangout market madimak in me is this guy marriage material market the drinking and in the fact that all your pictures are an extremely casual attire",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "c4b76fc8-e122-4170-bd5e-17f01cd2e08a"
     },
-    "1590.73": {
+    {
       "requestid": "caaa087c-5ca8-4cdb-afc0-3bd446620038",
       "confidence": "0.6740593",
       "timestamp": 1590.73,
       "content": "weetzie I do I should have dressed up pictures",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "ade0a72c-086f-444f-bb16-d364f3b2bb3b"
     },
-    "1593.82": {
+    {
       "requestid": "968fa368-52b0-4c80-894a-4e4ea670137d",
       "confidence": "0.8399348",
       "timestamp": 1593.82,
       "content": "no no I think if you wanna show that you're serious and you're ready to settle down you should consider having one or 2",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "bf0b88e7-8ebb-41da-a44c-4cf129409451"
     },
-    "1602.23": {
+    {
       "requestid": "1a84b6ec-ec69-467b-97af-9043299405bf",
       "confidence": "0.7305169",
       "timestamp": 1602.23,
       "content": "pictures that show that snout the other thing to keep in mind here is there certain things women want especially when it comes to start settling down when they're starting to look for spouse material there are certain things women",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "314b1b3b-19a6-427d-b4ed-82c7d5258a86"
     },
-    "1615.75": {
+    {
       "requestid": "27db87af-8034-43b4-9a7a-241b8b74071e",
       "confidence": "0.7829452",
       "timestamp": 1615.75,
       "content": "definitely want in a man",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "a57f8a41-5673-4eee-9c85-0060e120486e"
     },
-    "1618.79": {
+    {
       "requestid": "8a1bc47e-3135-4119-8a4e-d5247429e189",
       "confidence": "0.6918573",
       "timestamp": 1618.79,
       "content": "and you can't fix some of these and that's ok so one of them is fateley like rich man yeah and um you know I don't know your family background but your the public rest of my complaint because it's probably not worth what are looking for is far is rich goes but that's ok so so you just have to accept that",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "aa2149b5-a5b3-4c68-baad-bc069c2cbcf0"
     },
-    "1637.63": {
+    {
       "requestid": "9256238e-b8f5-4da9-9fa8-a2077b3f6503",
       "confidence": "0.7892756",
       "timestamp": 1637.63,
       "content": "yeah I mean I think I don't know do that the alcohol think it's me pause but I think for the most part I think I know",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "b6902849-91e3-4586-a9a4-d09fc8f92d80"
     },
-    "1645.79": {
+    {
       "requestid": "209b7392-95bb-47b7-afaa-6643a92bed92",
       "confidence": "0.8106259",
       "timestamp": 1645.79,
       "content": "any text you when you get here by dating is I think I know what I'm selling like I think I have a firm idea of like the kind of person who is probably gonna like me I know white on the superficial level what details again like about",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "b0ae7dfd-6cc7-4942-9853-e8067b7f82b2"
     },
-    "1658.65": {
+    {
       "requestid": "dd0c451d-8e6e-4f2d-a057-c1ef001b3768",
       "confidence": "0.7853235",
       "timestamp": 1658.65,
       "content": "you have to keep in mind the distinction between somebody who's gonna like you want to get to know you which is the most important thing you're looking for and somebody is going to be initially attracted to your profile I'm in control economics jordanite ok please do",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "ac202c44-86dc-4093-afd6-e19767c527c9"
     },
-    "1673.68": {
+    {
       "requestid": "24d97975-debe-403d-a38c-74571ee32ed7",
       "confidence": "0.8177388",
       "timestamp": 1673.68,
       "content": "what you wanna remember in your profile is that you wanna be very upfront unforthcoming in anything that is what in economista color coordination game it's where are in truth are aligned and as long as we have the right information",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "01b2ea2e-c6c3-467c-b05a-62b223068692"
     },
-    "1688.5": {
+    {
       "requestid": "428d1271-88cf-44c3-a4e9-114481297398",
       "confidence": "0.8657771",
       "timestamp": 1688.5,
       "content": "we're going to make the right decision so in my case I was very upfront inpro and forth coming on my profile about the fact that I had a large and badly behaved golden retriever",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "ed399263-bfdb-4f4c-8024-bd99fc8882f0"
     },
-    "1698.53": {
+    {
       "requestid": "919f0620-f1a9-4518-a14b-5e44bf98fe1a",
       "confidence": "0.7926141",
       "timestamp": 1698.53,
       "content": "and the fact that I had 2 teenage children because if somebody was against those things",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "662fcc47-ece6-4a43-90e5-a7c6a71ede4f"
     },
-    "1704.4": {
+    {
       "requestid": "d2d8c009-2a68-47c3-b289-dbadcdcd1500",
       "confidence": "0.8077968",
       "timestamp": 1704.4,
       "content": "then that was about those were dealbreakers and in your case you wanna be honest about the fact that your public radio producer",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "081245c6-323b-4259-92ae-7ca81e680524"
     },
-    "1713.46": {
+    {
       "requestid": "209ba90f-6306-47bb-bbc5-682141ab7886",
       "confidence": "0.8214239",
       "timestamp": 1713.46,
       "content": "because on the one hand I'm very attracted to some people",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "df7d8771-d88d-4700-8931-8bd6df143b52"
     },
-    "1716.94": {
+    {
       "requestid": "1ffc9149-fbb6-4168-ab20-d7758783a2c6",
       "confidence": "0.8865085",
       "timestamp": 1716.94,
       "content": "but it also indicates you're not going to be rich in at least in the short term you don't want anybody who wants you just for your money either because you don't like those type of people or because even if you do you're not gonna get them once they have the information anyway",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "e4922975-a315-4e08-9caf-141c8c8c52f3"
     },
-    "1733.35": {
+    {
       "requestid": "e5670094-b9a1-468a-b6b7-a58dd02a19bf",
       "confidence": "0.7960588",
       "timestamp": 1733.35,
       "content": "but the beauty that is he still have plenty of time to learn that you have time to experiment make some steaks and then",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "81467b37-cf72-4bf9-9016-ca18bb23a4df"
     },
-    "1740.64": {
+    {
       "requestid": "f482aec5-bfde-4cb2-a726-c1c77cd164ae",
       "confidence": "0.7643633",
       "timestamp": 1740.64,
       "content": "you have a time for the reasons we talked about and be at this very sick market available women where you live so if you make some mistakes early on sure your heart to get broken you'll be crossing profile",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "8678b32e-a9b8-430a-88c9-7912a56f764f"
     },
-    "1755.17": {
+    {
       "requestid": "d177fe05-d771-41cb-9abe-f9dcc19c47e2",
       "confidence": "0.756698",
       "timestamp": 1755.17,
       "content": "but then you can recover and learn from your mistakes and it'll all workout hapley",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "33fcc100-ffb5-4b90-bedb-edc81350ef8a"
     },
-    "1765.65": {
+    {
       "requestid": "bfe1a1a6-e902-4178-8d80-92114501b0c2",
       "confidence": "0.6311812",
       "timestamp": 1765.65,
       "content": "tymchyshyn wondering if I was wondering whether all of pahlawan",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "42e6f9b0-c565-4fd9-a468-cfa3a144173c"
     },
-    "1769.75": {
+    {
       "requestid": "dbe01654-c666-4eb5-a5cb-c2d751c32c59",
       "confidence": "0.7170915",
       "timestamp": 1769.75,
       "content": "dating advice is worth listening to what did you wanna ask is did it help him get the girl well it did he found his significant other on j date so naturally we want to know is where is advice worked for pj vote 2",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3a1704f8-5b30-449b-b460-efc5233e5ba4"
     },
-    "1786.1": {
+    {
       "requestid": "1b65212a-15a1-4a7b-8d73-f871dd789cc0",
       "confidence": "0.7976388",
       "timestamp": 1786.1,
       "content": "a few weeks after they talked I <profanity>ass</profanity> pj how he changed his ok cupid profile",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "217f31ff-b1c8-4758-9088-c5b067adcf5a"
     },
-    "1792.71": {
+    {
       "requestid": "4cee680a-6ca4-49cc-b5ab-0b90b0d0b3ed",
       "confidence": "0.676358",
       "timestamp": 1792.71,
       "content": "I'm so generally the sense I got from talking to him with that it came out off is like a flippin alcoholic it rain in venice that so",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "49232540-3c12-4249-857d-bc895de665f5"
     },
-    "1803.23": {
+    {
       "requestid": "a09281ee-2135-451b-96c8-e7c605dae3e3",
       "confidence": "0.7445772",
       "timestamp": 1803.23,
       "content": "I cut II think one reference to drink and k which one I think no I didn't",
-      "speaker": "S263"
+      "speaker": "S263",
+      "uuid": "199a8bd0-8ece-4132-ad14-9b6ba2d1a5a3"
     },
-    "1810.19": {
+    {
       "requestid": "843b2e0a-0251-47e6-a41c-8ca7e6074b8e",
       "confidence": "0.4581972",
       "timestamp": 1810.19,
       "content": "haha that's what happens if I am but I",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "5cda2ebb-d00c-4a74-a21c-6b355590cce5"
     },
-    "1814.25": {
+    {
       "requestid": "492ce29b-f63e-441a-906e-3b2e7e5c3c6b",
       "confidence": "0.8259771",
       "timestamp": 1814.25,
       "content": "what is it was a answered he said that I should fill out for more the questions the basic questions about me did you change our photos yes he told me to put in a picture myself like more presentable so I take a picture from the wedding can I see yeah",
-      "speaker": "S263"
+      "speaker": "S263",
+      "uuid": "04520174-4633-43d4-a91b-ff75dc48a1bc"
     },
-    "1827.87": {
+    {
       "requestid": "3ab4b721-5046-4433-acc7-e85cbb6bbd54",
       "confidence": "0.8120694",
       "timestamp": 1827.87,
       "content": "oh yeah that's really gross but also it's really cold at this picture that you in a suit looking great saturday for women",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "63bbd4b8-abbd-4eab-b942-d599cd3571a2"
     },
-    "1835.24": {
+    {
       "requestid": "2dec8d62-e578-4515-b02d-fadb84003d2a",
       "confidence": "0.4795519",
       "timestamp": 1835.24,
       "content": "braids other sort of like an implicit late with that little fat mexican <profanity>pussy</profanity>",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "aea3276d-cd64-4c95-a8b4-2de529597660"
     },
-    "1840.32": {
+    {
       "requestid": "d98b5d04-c7f1-4b65-be75-27cbfc3cf555",
       "confidence": "0.6871076",
       "timestamp": 1840.32,
       "content": "what's wrong with you the other half and I'm ok what was your run",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "a42ab575-2dfd-4408-9231-78f5c44123c3"
     },
-    "1844.3": {
+    {
       "requestid": "a712a181-1412-4865-aa6b-bbffada0daa3",
       "confidence": "0.5488186",
       "timestamp": 1844.3,
       "content": "it was a solo shot before enrolling kinda little loose lakheri",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "78a72ec4-3c8a-4e51-a9f8-8d08deb0ed45"
     },
-    "1849.31": {
+    {
       "requestid": "e2eea39a-e538-498d-a701-5dce2e23755d",
       "confidence": "0.7868764",
       "timestamp": 1849.31,
       "content": "yeah I also I don't have this is this is I put a picture of my dawg which felt like to the spirit of his advice she ran a bunch of old ladies house at",
-      "speaker": "S263"
+      "speaker": "S263",
+      "uuid": "609b5463-88ad-42e5-b831-6a00b77d8e76"
     },
-    "1858.45": {
+    {
       "requestid": "ac863e6f-4310-43c3-b034-d015f0004cfd",
       "confidence": "0.7962444",
       "timestamp": 1858.45,
       "content": "ok so here with oh my god you are canny sell this is actually a perfect I'm near in a way of the other picture of you at the wedding with for young good looking girls now here you are on a park bench you would look like brooklyner yeah brooklyn",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "9f0a250c-ad07-41e3-a956-ac0c39396878"
     },
-    "1873.83": {
+    {
       "requestid": "7c31be92-7c1e-4712-9480-8fcd15fd3971",
       "confidence": "0.8188792",
       "timestamp": 1873.83,
       "content": "I'm gonna park bench holding a dawg not just in your lap but in your arms like you say I have so much love to give I have to give it to the dogs coz you're not here I'm in the air force",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "2f5e57f9-c100-4ccc-8995-08751f00c960"
     },
-    "1886.33": {
+    {
       "requestid": "dd3fca63-6657-4ed2-bcce-f5aa20315de8",
       "confidence": "0.7119755",
       "timestamp": 1886.33,
       "content": "older women on a bench the route to go looking azdel oh if only I were 40 years younger this would be the man of my dreams or if you are 40 years older yeah exactly",
-      "speaker": "S270"
+      "speaker": "S270",
+      "uuid": "4d14f495-d3b4-4768-be4d-161a87fc014b"
     },
-    "1907.08": {
+    {
       "requestid": "ce790c92-571a-413d-bbd7-dbe72df014a9",
       "confidence": "0.5753567",
       "timestamp": 1907.08,
       "content": "pj orsat with his profile a bit as poulier suggested he tried to highlight some of his best attributes",
-      "speaker": "S282"
+      "speaker": "S282",
+      "uuid": "4b6067f3-4e33-46b3-ab68-a347ebc5c3f2"
     },
-    "1915.59": {
+    {
       "requestid": "0f9a3bf0-f7a5-4cb1-8bf7-1e806fa95a61",
       "confidence": "0.6291264",
       "timestamp": 1915.59,
       "content": "I public radio on",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "273b9ef6-d1c2-45e0-be4c-62cfa5ddea51"
     },
-    "1918.57": {
+    {
       "requestid": "77fb0e0f-ce6e-403e-ae82-b2092251435e",
       "confidence": "0.6149296",
       "timestamp": 1918.57,
       "content": "like relatively fine not depressed I did not give koteff thank you um yeah I should actually put that in there yeah well no no I think that's that's real at the picture you talking right arm but the weird thing is sweet yes sir be like it would",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "7b250ad3-46e6-4901-bdc4-f3d36b288f8c"
     },
-    "1934.62": {
+    {
       "requestid": "76d33639-930a-4c19-b710-e9b38549bf7c",
       "confidence": "0.6862001",
       "timestamp": 1934.62,
       "content": "I mean look it's hard for me to say but I would think if I were a woman and any guy who talked about like he's listing is cheaper than attribute pay it feels being a <profanity>bitch</profanity> like it that's a gym is the best review yet wait till is it gonna be very long but I'm just saying",
-      "speaker": "S282"
+      "speaker": "S282",
+      "uuid": "453a422a-0f22-4ea9-b44d-617125c34018"
     },
-    "1952.18": {
+    {
       "requestid": "8b3f90ae-d569-484c-a85f-f391c4c10a55",
       "confidence": "0.6609104",
       "timestamp": 1952.18,
       "content": "decide if you have good you know thank you yeah it be like in apartment be like we have a sync with ical working say he should have a sex",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "76956c0b-15eb-486d-bc70-d3d767fc643e"
     },
-    "1962.56": {
+    {
       "requestid": "80c5fca4-7abb-42bc-b8b4-7f2350f9b6b2",
       "confidence": "0.8748544",
       "timestamp": 1962.56,
       "content": "so how did it workout for PJ",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "684bb148-2447-4256-a5b1-f56aaf6ee276"
     },
-    "1965.14": {
+    {
       "requestid": "f7a2842e-2930-4eed-81e5-78339f9886c6",
       "confidence": "0.8902413",
       "timestamp": 1965.14,
       "content": "he did get a bunch more replies but",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "4227d49c-36a6-46aa-806a-c53b661188a4"
     },
-    "1967.87": {
+    {
       "requestid": "7512d39b-6527-4e85-a114-ecfd4b975ce1",
       "confidence": "0.7480632",
       "timestamp": 1967.87,
       "content": "he thinks that's because the new photo on your profile can trigger more track",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "069add76-4cf9-4aac-ad55-daddf3b76c9b"
     },
-    "1973.46": {
+    {
       "requestid": "a0cdea50-9941-4ee6-bdb8-17e4a6bf4cbd",
       "confidence": "0.8521188",
       "timestamp": 1973.46,
       "content": "did no good news to report",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2dba1b9d-5120-48e5-9f19-9abfd94bc310"
     },
-    "1984.48": {
+    {
       "requestid": "6fb069cf-d339-4a1b-9c48-b885512ab044",
       "timestamp": 1984.48,
-      "content": ""
+      "content": "",
+      "uuid": "3ef924a1-8c6e-4b82-93d9-a6c345244212"
     },
-    "1986.99": {
+    {
       "requestid": "8f85084c-0322-450e-91ad-d9a23d30d552",
       "confidence": "0.8402711",
       "timestamp": 1986.99,
       "content": "no it's easy to get lost in the details online dating in fail to appreciate what it represents which is a new and theoretically improved way for one person to take a look around the",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9d5acb29-bd32-43ce-833d-5d92d405f290"
     },
-    "2001.15": {
+    {
       "requestid": "f710fad4-30ac-43a7-bf83-9fb55eaa5fee",
       "confidence": "0.8913636",
       "timestamp": 2001.15,
       "content": "7,000,000,000 other people on the planet and try to pick the right one comes with its own problems that for sure but",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1d162764-39d1-4a9f-a5ba-3b4386854216"
     },
-    "2008.85": {
+    {
       "requestid": "c6e3da96-4d27-46d3-bdba-29220cf7684b",
       "confidence": "0.8460526",
       "timestamp": 2008.85,
       "content": "the strings of am I dating are very real especially if you are in a single straight man living in a",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ca31f27c-ae3e-4041-a4c8-6e8603f6151d"
     },
-    "2015.98": {
+    {
       "requestid": "147c337d-f1a1-4e5f-916f-f7c0ed5e57d4",
       "confidence": "0.7375691",
       "timestamp": 2015.98,
       "content": "big big city a pic market with an overabundance of single straight women presidents in demac taking it really nice things justin wolfers is in konopiste university michigan to a do you think it's a really big deal 4",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "df3ff770-ffab-4c51-9bca-984a61902863"
     },
-    "2031.44": {
+    {
       "requestid": "325a4bff-e8c0-425f-a503-0cddccc94452",
       "confidence": "0.6497587",
       "timestamp": 2031.44,
       "content": "young gay and lesbian men and women in other ways humified akarius are you this is a very big deal in um did jewish community and jadeite I'm here in my jewish friends to buy bing under pressure from mom to meet a good jewish boil go but it but I'm having to be everywhere",
-      "speaker": "S303"
+      "speaker": "S303",
+      "uuid": "6ee78228-9ca9-407f-9532-da4e080b27fc"
     },
-    "2046.74": {
+    {
       "requestid": "1b52317f-e834-4c93-bd4b-e869f71909d9",
       "confidence": "0.6588278",
       "timestamp": 2046.74,
       "content": "ampyra letter j died and I imagine this is true and other ethnic communities in sitlington normous easy to match on very very specific sexual preferences",
-      "speaker": "S303"
+      "speaker": "S303",
+      "uuid": "9448ea56-eed7-4aa3-912e-4c17be692b9c"
     },
-    "2057.77": {
+    {
       "requestid": "2f507be4-de66-4481-96b6-04a65ae54214",
       "confidence": "0.7609053",
       "timestamp": 2057.77,
       "content": "so whoever you are and whoever you're looking for wolfir says the internet has turned dating upside down it used to be that",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "54b9c5de-f285-4068-bcef-25f785c0f1e2"
     },
-    "2065.85": {
+    {
       "requestid": "6891bfec-a52c-4035-9fc1-844513963334",
       "confidence": "0.7089203",
       "timestamp": 2065.85,
       "content": "you would find compatibility fast and then learn more about someone else's attributes now you see all the attributes and then you wanna bet compatibility later",
-      "speaker": "S303"
+      "speaker": "S303",
+      "uuid": "d551ebe6-dfdc-4251-ae22-27e2d1b67c60"
     },
-    "2076.42": {
+    {
       "requestid": "f9f42acb-4fe9-41eb-a5e4-ed747384048e",
       "confidence": "0.564548",
       "timestamp": 2076.42,
       "content": "frank honest it's very seductive to believe that more information mixy sings black bear and I guess you haven't seen cable studies the <profanity>shit</profanity> if it is to win the client to mention marriage is there wouldn't be more stable",
-      "speaker": "S303"
+      "speaker": "S303",
+      "uuid": "51509e94-5938-40ff-967c-4bc17333ca85"
     },
-    "2090.69": {
+    {
       "requestid": "7f2b8e3a-45b1-4d5c-8ce5-034e7a997080",
       "timestamp": 2090.69,
-      "content": ""
+      "content": "",
+      "uuid": "3abd1ec6-6492-4e45-a6b8-6eb87cc4a787"
     },
-    "2094.96": {
+    {
       "requestid": "7dfb2c53-120c-47af-91db-8ba4b0a4d423",
       "timestamp": 2094.96,
-      "content": ""
+      "content": "",
+      "uuid": "137aa757-3025-4687-8472-1d303474834b"
     },
-    "2109.23": {
+    {
       "requestid": "b0acd165-b9c9-48ce-89d7-3090a3ce3213",
       "confidence": "0.7784246",
       "timestamp": 2109.23,
       "content": "well this weed is very nicely to next week's episode is called why mary you hear justin wolfers and many others talk to old miss of modern marriage and whether any of them are actually true so let's next week",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e775fefc-b78d-4051-a79c-c5312b3c5f81"
     },
-    "2121.62": {
+    {
       "requestid": "8a2d09e8-2531-48b3-9816-0bff6cd86b53",
       "confidence": "0.7172245",
       "timestamp": 2121.62,
       "content": "today I will leave you with an email from a listing in katy holczer she writes peter levitt my name is katie and I'm a 14 ulicnik from rochester minnesota",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "205f31bd-4084-4bf7-b5d3-33de0fb5620e"
     },
-    "2131.93": {
+    {
       "requestid": "539386fe-6912-415f-8ba4-15f81550d037",
       "confidence": "0.844467",
       "timestamp": 2131.93,
       "content": "one day I'd love to start my own podcast so I have some questions for you what are your top responsibilities what do you think is the best contribution your job makes 2 society also my birthday is this thursday and I would love it if you would help me out on the show",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ff075353-19de-46f1-9a09-561752dddf92"
     },
-    "2147.9": {
+    {
       "requestid": "c4034d13-c5a7-40f2-9926-125fc9a64ef2",
       "confidence": "0.7417991",
       "timestamp": 2147.9,
       "content": "thanks",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b137f6c3-9126-4621-bd6a-738ed0a1136f"
     },
-    "2150.04": {
+    {
       "requestid": "de8b503e-8392-4e34-9bf0-1557a1533b6c",
       "confidence": "0.531061",
       "timestamp": 2150.04,
       "content": "ok katie job responsibilities on this podcast",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9efecee7-bf8e-4581-bff7-8eb13b120bbe"
     },
-    "2153.35": {
+    {
       "requestid": "0ebf08e4-84a3-4e1b-9285-b1b2d07b2e7c",
       "confidence": "0.7193265",
       "timestamp": 2153.35,
       "content": "basically lebet does the numbers I do its best contribution we make this aside you are you getting it if you ever listen to this podcast we definitely don't contribute anything to society in about your birthday happy birthday katie elder and thank you",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "60342bd7-e7b6-4e05-80aa-cedf63391cc1"
     },
-    "2169.96": {
+    {
       "requestid": "8c9e26fe-02c0-4c4c-95cb-607c282a1f87",
       "timestamp": 2169.96,
-      "content": ""
+      "content": "",
+      "uuid": "d845b67d-3e4f-4f9f-acbe-b3fadbeebff1"
     },
-    "2173.75": {
+    {
       "requestid": "c57e713e-dc79-4bd8-a55e-9ec80c663d4b",
       "confidence": "0.7274833",
       "timestamp": 2173.75,
       "content": "freakonomics radio is produced by WNYC&A pair production our staff includes david herman greg rozalski credico nbra lamb susie lechtenberg and chris banning",
-      "speaker": "S326"
+      "speaker": "S326",
+      "uuid": "094af0b1-4c46-4fc7-a410-f339b012423f"
     },
-    "2185.83": {
+    {
       "requestid": "ad12cf9c-657b-4eec-9ef1-3ab7fc749a3a",
       "confidence": "0.8034515",
       "timestamp": 2185.83,
       "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots radio ablas the books and more",
-      "speaker": "S326"
+      "speaker": "S326",
+      "uuid": "07942c86-8670-4e16-a32a-a5840c5472db"
     },
-    "2195.58": {
+    {
       "requestid": "3c6a0f0f-a24d-4622-baff-f46299726041",
       "timestamp": 2195.58,
-      "content": ""
+      "content": "",
+      "uuid": "d6951d04-ef40-4ac2-9814-ace81b216fce"
     },
-    "2202.31": {
+    {
       "requestid": "6c98f571-308a-479c-aa21-282512afb77f",
       "timestamp": 2202.31,
-      "content": ""
+      "content": "",
+      "uuid": "5927f69b-3e2b-4e23-9a8f-bcd9adbb1193"
     },
-    "2213.26": {
+    {
       "requestid": "2f41aaa7-4fff-423f-8be4-e616b521edc6",
       "confidence": "0.8303849",
       "timestamp": 2213.26,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9e6a6220-1b68-432d-aa93-dc0e4865d419"
     },
-    "2232.52": {
+    {
       "requestid": "250a40ae-76a1-4049-9059-42fc3fff8821",
       "confidence": "0.8908175",
       "timestamp": 2232.52,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "4cef272f-04d2-48f2-8c0c-890003646adf"
     }
-  }
+  ]
 }

@@ -4,2587 +4,2960 @@
   "description": "<p>You know the saying: a winner never quits and a quitter never wins. To which Freakonomics Radio says ... Are you sure?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/QxLlYHzwOrk/freakonomics_podcast052914.mp3",
   "slug": "The-Upside-of-Quitting--Rebroadcast-",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "569fc4e4-8255-49d5-99e8-ed95faa51a0d",
       "confidence": "0.7053474",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu offering a variety of business cards in printed pronox muall solofra sprint nfinity the ability to print a different image on every card more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "282f37b8-4b7d-41a8-bb6a-c6669f8fe767"
     },
-    "13.53": {
+    {
       "requestid": "7f208cbe-ea11-4965-b5e7-b75da455e5b6",
       "confidence": "0.7874783",
       "timestamp": 13.53,
       "content": "hey it's steven dubner we are about to play you one of our most popular episodes of all time we heard from a lot of listeners who told is this episode inspired them",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ab6e2aaf-6255-4d9e-bfc7-b3b502df8092"
     },
-    "23.6": {
+    {
       "requestid": "5fccfe88-fb9b-4f01-9175-57465d022ae9",
       "confidence": "0.7554062",
       "timestamp": 23.6,
       "content": "quit something inspired us to write a chapter about quitting in a new book think like a freak so we know percent do you be upside quitting",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "6752884d-d631-43b1-98ce-8dbecad228bc"
     },
-    "36.35": {
+    {
       "requestid": "363f060e-db41-4b78-b992-686e5ab310d6",
       "confidence": "0.7586168",
       "timestamp": 36.35,
       "content": "I'd like you to stop whatever you doing right now",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "c03c65a9-f5f0-44cb-a29b-abacbf8073be"
     },
-    "40.8": {
+    {
       "requestid": "b64be6c3-9d9f-4c7a-ad8b-f23072f362e3",
       "confidence": "0.7948939",
       "timestamp": 40.8,
       "content": "and I don't mean like stop so you can give your full attention this radio show I mean honestly radios the perfect medium for multi tasking mass media is it rains",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "277e95f1-d822-46cc-b82f-51ec50a6e43f"
     },
-    "51.07": {
+    {
       "requestid": "f042322d-5b84-4a25-9c35-1711b49f821d",
       "confidence": "0.6166591",
       "timestamp": 51.07,
       "content": "what I mean is stop whatever",
-      "speaker": "S7"
+      "speaker": "S7",
+      "uuid": "fa4cfca8-9167-40ea-9c81-a352535b63db"
     },
-    "53.9": {
+    {
       "requestid": "99cb269a-5ca6-4761-98d1-fc7e5950acf5",
       "confidence": "0.7605841",
       "timestamp": 53.9,
       "content": "doing it and doing with your life your job",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "46338f26-65d0-4b6d-b3cf-a928e5c65e75"
     },
-    "59.76": {
+    {
       "requestid": "88563762-3c87-41ae-9481-54897e35808d",
       "confidence": "0.7669151",
       "timestamp": 59.76,
       "content": "maybe it's a relationship with curdled me some dream project you been working on so long I can't remember what that you heal up about in the 1st place I want to encourage you to just quit",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "635edd7a-71ae-4f7b-b927-aa6f47e12618"
     },
-    "74.07": {
+    {
       "requestid": "3cbd7b2e-7480-4079-8387-1a60308db3d1",
       "confidence": "0.7526273",
       "timestamp": 74.07,
       "content": "at least think about quitting why well because everybody else is always saying the opposite",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "6210553c-af7b-4a0f-8494-1f8c20df1452"
     },
-    "82.89": {
+    {
       "requestid": "d4f1e480-e892-4955-b567-dd41413a22f5",
       "timestamp": 82.89,
-      "content": ""
+      "content": "",
+      "uuid": "5d3cc286-6ca1-4a8e-9343-ae8fb0b0b9aa"
     },
-    "91.44": {
+    {
       "requestid": "954af885-9195-4212-bf32-4cfaa8b5a8d3",
       "confidence": "0.7024692",
       "timestamp": 91.44,
       "content": "it's become so ingrained do you think about it you know later never wins and a winner never quits",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "690601c4-9b31-4d81-87fc-cf005967fc6a"
     },
-    "100.86": {
+    {
       "requestid": "2b5b8260-5a33-4f77-ba37-54b191806ba0",
       "confidence": "0.8868966",
       "timestamp": 100.86,
       "content": "I think when I hear people say that",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "28086e02-2551-463c-9054-ebb8694a7f77"
     },
-    "104.6": {
+    {
       "requestid": "802d3d88-aed9-4953-80b6-f91b70f5e6e6",
       "confidence": "0.9666798",
       "timestamp": 104.6,
       "content": "are you sure",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "d09e1157-4512-4e6a-90c4-8172274f9437"
     },
-    "106.87": {
+    {
       "requestid": "be104e05-bc7a-4618-8b86-22b87a6dfb29",
       "timestamp": 106.87,
-      "content": ""
+      "content": "",
+      "uuid": "276975e7-b065-4a17-9af2-21051deb76d5"
     },
-    "115.29": {
+    {
       "requestid": "f41751ef-8a44-48a8-90b3-df9e8b49c874",
       "confidence": "0.6639448",
       "timestamp": 115.29,
       "content": "from wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "3c467223-e75b-48e0-a80b-4422c5b12de7"
     },
-    "123.18": {
+    {
       "requestid": "5a21fae1-0411-45a8-a1b9-3d1436008aad",
       "confidence": "0.3821065",
       "timestamp": 123.18,
       "content": "crazy <profanity>ass</profanity> by quitting here's your housetv.net",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "67290371-914e-4e84-8c30-6f750a4c0564"
     },
-    "131.16": {
+    {
       "requestid": "7003c772-348d-4153-8143-556ace6c8a3b",
       "confidence": "0.5136614",
       "timestamp": 131.16,
       "content": "do I hang out with laura kahneman's yeah I know you're envious but",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "692286c4-8713-4c0c-bd80-df558f51ee71"
     },
-    "135.47": {
+    {
       "requestid": "4e3129bd-72e4-4557-ac4d-a69d6511ab02",
       "confidence": "0.6876148",
       "timestamp": 135.47,
       "content": "dirt 2 think they love to talk about that will help us understand quitting one is called sunk cost any other opportunity cost is about to pass the timer money or sweat equity did you put into something that makes it hard to abandon",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "2e254ba5-6979-4a3e-a743-7972d4005420"
     },
-    "154.18": {
+    {
       "requestid": "f47653b5-7c36-416d-a6fd-514c025d62fb",
       "confidence": "0.7909905",
       "timestamp": 154.18,
       "content": "opportunity cost is about the future it means that for every hour or dollar you spend on one thing you are giving up the app",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "448fd4a5-4e3f-4eb8-9967-a73b7719843c"
     },
-    "162.75": {
+    {
       "requestid": "b6c17621-e017-4af3-97ad-6793db188e89",
       "confidence": "0.735791",
       "timestamp": 162.75,
       "content": "you need to spend that hour dollar and something else something that might make you like better",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "10fc6de8-84cd-4b9c-b96f-eeef2f73bbff"
     },
-    "168.25": {
+    {
       "requestid": "ae1b7380-9021-4e47-82d8-de546a6afa2c",
       "confidence": "0.6012008",
       "timestamp": 168.25,
       "content": "if only you weren't so worried about the song call only you could quit",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "5852cc44-37c8-43f6-8512-bbd65833e2f4"
     },
-    "174.64": {
+    {
       "requestid": "66839bcc-b9b8-4d37-bfe5-f2d800b1dc9c",
       "confidence": "0.7979676",
       "timestamp": 174.64,
       "content": "let's start with the story of a woman will call ali back in 1999 inches by 25 how is life was already with most people would consider pretty successful",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "44dbad91-62a5-4050-a6e4-97567eacd402"
     },
-    "185.78": {
+    {
       "requestid": "0d409e9e-cfed-4c51-9891-29e936fcc7a8",
       "confidence": "0.7270801",
       "timestamp": 185.78,
       "content": "I was working for a fortune 500 large",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "18a44d55-0170-4a1a-a7ca-b23adf824648"
     },
-    "190.99": {
+    {
       "requestid": "acb8a20d-0e6b-4db3-b31c-13f0eeabd33c",
       "confidence": "0.7515799",
       "timestamp": 190.99,
       "content": "company what kinda work are you doing industrial computer programming what kinda money were you making them and 6070 thousand dollars a year and um you're living where I was living am in texas",
-      "speaker": "S29"
+      "speaker": "S29",
+      "uuid": "f4ffdaaa-14b8-47af-a44e-03f0d47addde"
     },
-    "205.47": {
+    {
       "requestid": "dfcbb659-24ec-4ae1-9480-3e6ae95338ba",
       "confidence": "0.6668721",
       "timestamp": 205.47,
       "content": "ok so sector $70,000",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f79044ae-4680-4200-8fc5-4237ae12002e"
     },
-    "208.28": {
+    {
       "requestid": "c911ba68-a23a-49d4-85a0-21228951e41e",
       "confidence": "0.8202643",
       "timestamp": 208.28,
       "content": "as a 25 year old living in texas goes a pretty long way that's out for sure sound pretty good and and and how did you like to spend your money general",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f59201b3-8127-40b5-92f2-1e7729f226c7"
     },
-    "216.06": {
+    {
       "requestid": "452dd43d-f9c7-4772-9e44-443403b12a5b",
       "confidence": "0.6675786",
       "timestamp": 216.06,
       "content": "am I don't like most 25 year old women on me and now",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "ac9e08c5-23e2-4abd-a7a9-2de98e3493dc"
     },
-    "220.54": {
+    {
       "requestid": "0fabec8e-a3dc-4dc7-901d-bac9ceae98d4",
       "confidence": "0.7205948",
       "timestamp": 220.54,
       "content": "shoes and you know I had a nice place to live in a different car to drive so",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "974ccb05-72af-416a-b9ee-c3efc72a47a2"
     },
-    "226.56": {
+    {
       "requestid": "ac978b9a-1455-405b-8c02-475caef264c3",
       "confidence": "0.9345683",
       "timestamp": 226.56,
       "content": "and how did you like the job",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "bfd9ccc2-f1fd-4b6a-963f-f399d879eac4"
     },
-    "228.68": {
+    {
       "requestid": "e29c6f89-00d1-4e74-a14b-f46cd3483759",
       "confidence": "0.7691851",
       "timestamp": 228.68,
       "content": "hey I never loved it I am more of a social person and eric are long long periods of sitting at a computer desk talking to nobody",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "6d1f6b3b-1273-46e9-b481-a86e8d4f6b48"
     },
-    "239.11": {
+    {
       "requestid": "c0f6baf0-7cca-40cf-8db1-cd287320a399",
       "confidence": "0.8896881",
       "timestamp": 239.11,
       "content": "I understand that you ended up quitting this job in your new pursue did you have to take a big pay cut",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f7f7cbb2-cce8-4d58-958d-da186e3e793d"
     },
-    "245.97": {
+    {
       "requestid": "f56e9b46-0a56-4571-953a-6fd13bcdf75a",
       "confidence": "0.8379012",
       "timestamp": 245.97,
       "content": "the new job paid way better way better like",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "5fc3e2d0-a787-40ef-b581-2db394d31428"
     },
-    "249.65": {
+    {
       "requestid": "754dae7a-673c-4834-ac82-11c95895d81c",
       "confidence": "0.7224951",
       "timestamp": 249.65,
       "content": "that 50% more twice as much",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "cf77b689-77ca-42f8-a823-bd02b5561fa5"
     },
-    "252.51": {
+    {
       "requestid": "0ddbd282-c1aa-41ce-80e6-b5750d607805",
       "confidence": "0.6301267",
       "timestamp": 252.51,
       "content": "yeah I'm more",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "5ba6a714-cae8-47c6-9197-71536091e29f"
     },
-    "255.09": {
+    {
       "requestid": "aa1bfa73-b48c-45e8-be35-0180bb7c1884",
       "confidence": "0.5314395",
       "timestamp": 255.09,
       "content": "3 times as much time do you have some around there till 9 and 4 times as much money you have any family",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "5503979b-3450-466a-80b6-d3d0bbbe9604"
     },
-    "262.8": {
+    {
       "requestid": "78141d2b-af22-42f5-91b8-9b9be35f1238",
       "confidence": "0.8860896",
       "timestamp": 262.8,
       "content": "that means will you must've that means you musta had to work way more hours than you work as a computer programmer then right",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "e2e909af-84dc-4c58-b626-4ab4adf32311"
     },
-    "269.24": {
+    {
       "requestid": "50e7846a-22ac-442b-b794-2542208e006d",
       "confidence": "0.7462338",
       "timestamp": 269.24,
       "content": "men's what was so great about it I had to work a lot less",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "8ad3face-edad-41de-930b-56f4fb9ba941"
     },
-    "273.34": {
+    {
       "requestid": "b8713df8-2c48-4f72-acdd-c08697dc06b5",
       "confidence": "0.852842",
       "timestamp": 273.34,
       "content": "it musta been very very very difficult and unpleasant work then",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "bc0ad415-2365-4d0d-8e08-3797f533aa60"
     },
-    "277.7": {
+    {
       "requestid": "cd814c6a-92ad-4b24-b521-34e3cd7b69ba",
       "confidence": "0.7421448",
       "timestamp": 277.7,
       "content": "oh now I am I enjoy my work at 10 AM enjoying my free time and of course the extra money line me to do a lot of the things that I wasn't able today before um",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "ba108d37-066f-4d60-8d98-67f0060671da"
     },
-    "290.5": {
+    {
       "requestid": "30c59829-d39f-4fe0-908b-c3e3a5ab57a5",
       "confidence": "0.8878828",
       "timestamp": 290.5,
       "content": "so tell me what was this new work that you found",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "54e451f7-8842-4163-8b36-aa23b83e34e8"
     },
-    "294.06": {
+    {
       "requestid": "df5d42d9-ea97-4a02-83ea-c19a9923ea8a",
       "confidence": "0.608999",
       "timestamp": 294.06,
       "content": "the new job that II found was ian was a high end escort is it is somewhere between a 300 to $500 an hour",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "69417d6d-80df-4da0-9b7b-eec3cf073ccd"
     },
-    "305.71": {
+    {
       "requestid": "173cc437-2cc6-4b20-8a4f-f1852c97d9d7",
       "confidence": "0.8025474",
       "timestamp": 305.71,
       "content": "um it in retrospect how do you feel about that decision back then to quit that solid steady fairly good paying job for the life of a high end escort",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "93975881-b659-4459-9788-5ffdf4e70b88"
     },
-    "320.13": {
+    {
       "requestid": "0a015fc2-787b-478a-8082-8de6d8668c0a",
       "confidence": "0.7254505",
       "timestamp": 320.13,
       "content": "in elk ridge deli scary to leave behind something that I'm legit and and go with something that maybe isn't considered that you know I really enjoyed it and I know that was the right decision for me for me",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "346d06c9-007d-48f6-9569-1c3fb020438b"
     },
-    "334.16": {
+    {
       "requestid": "11bd3526-73aa-4ff3-b088-0ae72bcbe2fd",
       "confidence": "0.7408764",
       "timestamp": 334.16,
       "content": "um I don't have AI don't have a problem with having sex with strangers but it wasn't something I thought was demoralizing and um I enjoyed it I enjoyed my customers I enjoyed",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "6a9bb89c-d9be-4656-9132-d8428e0863a6"
     },
-    "349.39": {
+    {
       "requestid": "c1a4fe20-77db-4d87-a285-8773bbf310e9",
       "confidence": "0.7141212",
       "timestamp": 349.39,
       "content": "the kindness and I enjoyed every part of it",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "d1413874-0676-4d05-847e-d1e08d709def"
     },
-    "353.55": {
+    {
       "requestid": "b56ecca4-4069-435e-831d-a44536b33986",
       "confidence": "0.7605194",
       "timestamp": 353.55,
       "content": "alright I would probably starting off on the wrong foot care I encourage you to think about quitting in the first person we hear from queta perfectly good job to become a hooker but hear me out",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "6896c2d5-7bff-45df-ab66-a27d52a435fd"
     },
-    "364.94": {
+    {
       "requestid": "2fabdd56-b49c-4a5c-b5a1-39df69edb58a",
       "confidence": "0.5972777",
       "timestamp": 364.94,
       "content": "my feces is temple in our zeal to talk things out to keep our nose to the grindstone",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "68c4832b-2574-499b-bbdb-a768a6c1dab0"
     },
-    "373.2": {
+    {
       "requestid": "597762e2-d482-4b62-9724-e944c04635c2",
       "confidence": "0.6587434",
       "timestamp": 373.2,
       "content": "narsil to win we underestimate the upside of quitting now full disclosure here I am a serial quitter idk with a dream job with new york times",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "88fd4206-1662-4cba-99e0-1250536d34b8"
     },
-    "386.5": {
+    {
       "requestid": "5215907c-68a8-452f-be1e-e45d9e0f7df7",
       "confidence": "0.7917814",
       "timestamp": 386.5,
       "content": "I quit my childhood dream being a rockstar I think with a religion",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "3f42a5c4-5a05-4e9e-b94d-c6df4c2bbfe4"
     },
-    "392.1": {
+    {
       "requestid": "4f5afb3f-d5db-45c9-b8f8-4143b47d73e0",
       "confidence": "0.6741277",
       "timestamp": 392.1,
       "content": "will get to my quiz later first hear someone made headlines when he quit where I'm at",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "8222e932-0032-4c0a-bf8f-aaa202985b0b"
     },
-    "398.92": {
+    {
       "requestid": "d914ffee-a6a8-4fc8-a385-7b148f26e342",
       "confidence": "0.7936206",
       "timestamp": 398.92,
       "content": "I decided time is it was long and coming III was feeling more and more miserable about not seeing my kids it was waiting on me to greater and greater extent I made a decision that shortly after election I would leave",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "ba0cfe09-3e88-4ddc-8a04-18d85b197b00"
     },
-    "412.54": {
+    {
       "requestid": "8cad4301-2ede-45b4-99f1-9895338fbf41",
       "confidence": "0.7233293",
       "timestamp": 412.54,
       "content": "I end end one day I went into the oval office and I'll explain the president can I just I just felt that I had no choice he was very understanding about it",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "b1797fae-a667-44b5-8859-14d271baec32"
     },
-    "422.34": {
+    {
       "requestid": "7f2a5839-aa9a-408c-9968-465422a8827a",
       "confidence": "0.8255057",
       "timestamp": 422.34,
       "content": "that's robert reisz he was the us secretary of labor during president clinton's 1st term go put in place the family and medical leave act",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "85ddabe8-0866-4ff8-88c2-625c77a96f59"
     },
-    "430.72": {
+    {
       "requestid": "04e0d47e-eed3-44eb-8b90-d3dc3db6f768",
       "confidence": "0.784857",
       "timestamp": 430.72,
       "content": "you raise the minimum wage on his watch unemployment fell below 5% the lucidum in 20 years it's hard to say how effective any one person in washington really is but time magazine named race one of the 10 best cabinet members of the 20th century",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "55acfef1-a503-422f-9d36-4efe2f6ce5b6"
     },
-    "447.63": {
+    {
       "requestid": "42ec6d13-207a-438f-9362-28cca91fca36",
       "confidence": "0.745759",
       "timestamp": 447.63,
       "content": "and then race quit",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f31832f3-1da8-4e29-a629-5606697e8102"
     },
-    "450.13": {
+    {
       "requestid": "9b6e650f-fb30-4cc1-babd-0222c235dfa3",
       "confidence": "0.6612528",
       "timestamp": 450.13,
       "content": "but in the question for me was well how do I alert my employees and the segment of the public that felt that they were lying on me in some way",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "e43e5b72-b159-402d-882d-80360f9425f1"
     },
-    "460.72": {
+    {
       "requestid": "ad0ca2d6-0e15-42ec-ae14-790c854dbc14",
       "confidence": "0.7629262",
       "timestamp": 460.72,
       "content": "about how did I handle it publicly visit to delicate matter I decided that I would ride in our bed for the new york times my personal family leave act",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "36f8a77f-18d8-440b-83ec-cbad5f714a7d"
     },
-    "471.45": {
+    {
       "requestid": "ab5198c1-63ca-407e-9746-5084362193e3",
       "confidence": "0.8180873",
       "timestamp": 471.45,
       "content": "I have been not responsible for implementing the family medical leave act that actually was past years before and it seems to be important to say to men as well as women that it is ok to leave your job",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "1289114a-1136-4d7e-83b5-94f80c857912"
     },
-    "489.12": {
+    {
       "requestid": "2ca972e7-f78b-48a5-9dc2-7ec86d584de1",
       "confidence": "0.8265938",
       "timestamp": 489.12,
       "content": "here is rice road it was his dilemma quote you love your job and you love your family and you desperately want more of both his wife and 2 teenage sons are back in cambridge massachusetts and he was well you could've been anywhere",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "83b22bc8-b25b-4063-a474-1b3a0ab86018"
     },
-    "506.11": {
+    {
       "requestid": "0f04d3a4-f283-49b2-a523-d6e2c7c2505f",
       "confidence": "0.7017974",
       "timestamp": 506.11,
       "content": "no the other cabot officers go to be wonderful locations around the world paris and london in shanghai and he'll swear I seputar labor goes to toledo ohio or maybe saint louis that's really great day",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "fd69503e-5392-496b-acd0-9263131a8557"
     },
-    "518.65": {
+    {
       "requestid": "1b917778-18e3-4080-9302-9323a840b739",
       "confidence": "0.8123738",
       "timestamp": 518.65,
       "content": "the funny thing is no one believed rage quit because he actually wanted to spend more time with his family at the ceo say when their boo did the people especially male people don't quit white house job to do that",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "76824a43-1dc9-4c07-80e8-19ffbd1ece38"
     },
-    "533.38": {
+    {
       "requestid": "b2804125-72fe-4263-832e-112e8ed87a28",
       "confidence": "0.6282396",
       "timestamp": 533.38,
       "content": "race really matter if you thought it was a big up side to quitting",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "81055db8-fd50-435a-a3af-2fefa6f75600"
     },
-    "538.92": {
+    {
       "requestid": "a949e23d-c0ae-44eb-b83e-6fa021bd69e7",
       "confidence": "0.7477261",
       "timestamp": 538.92,
       "content": "it was exactly the right move I think if I had not done it I would've regretted it all my life I wouldn't spend anytime at when I'm in the boys then what is going off to college off to their careers up",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "093ee9a1-4e33-42bf-a442-4664a462d122"
     },
-    "549.77": {
+    {
       "requestid": "5ef2fd6e-171d-4e9c-858d-fb0b97104fca",
       "confidence": "0.4977276",
       "timestamp": 549.77,
       "content": "aayan I just will have those years about",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "da8c7cac-cfaa-4869-a2e3-6b0bac8d8aad"
     },
-    "552.63": {
+    {
       "requestid": "f177f709-1e98-40ae-93f2-2cacba67ed75",
       "confidence": "0.7055402",
       "timestamp": 552.63,
       "content": "at the same time I think I was fooling myself a little bit in thinking that young teenage boys would drop everything with their father came home and told dad it's great to have you left pleno day today works very happy to have me there but then they said that but I'd wait wait we're going over there friends",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "07833fec-b6ae-4c63-b4b3-401c228fd241"
     },
-    "570.58": {
+    {
       "requestid": "641a6ac1-1796-494f-b8dd-760b18a1d9cf",
       "confidence": "0.637766",
       "timestamp": 570.58,
       "content": "start time with the trail around after them a little bit with my",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "c3073b05-3c45-47f3-b69d-f8918bfb89d8"
     },
-    "575.32": {
+    {
       "requestid": "228ca2f9-0979-4590-8c0f-114eac7d637e",
       "confidence": "0.720346",
       "timestamp": 575.32,
       "content": "metaphoric cat tail between my legs and try to say well would you like to play when you have it going to baseball game",
-      "speaker": "S61"
+      "speaker": "S61",
+      "uuid": "a93af4ba-7763-474f-b0f2-83480f591d46"
     },
-    "581.89": {
+    {
       "requestid": "3513db02-45fd-4521-acf1-a7e85dea384e",
       "confidence": "0.7297944",
       "timestamp": 581.89,
       "content": "robert ratc with that was for him a dream job running the department of labor do united states to tell me the truth when you were a kid did you dream of running the department of labor",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "db63d5d9-0312-42c6-a382-65c55102a5c0"
     },
-    "595.74": {
+    {
       "requestid": "859a91d9-87f8-4fd5-841b-ce84686bf967",
       "confidence": "0.8788938",
       "timestamp": 595.74,
       "content": "or maybe you had a dream that sounded more like",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "7923e8fa-3eaf-40ae-af96-8b8c28929d73"
     },
-    "599.96": {
+    {
       "requestid": "7739337c-d597-4e5e-a80a-6e5fa5259b9c",
       "confidence": "0.1771127",
       "timestamp": 599.96,
       "content": "this",
-      "speaker": "S89"
+      "speaker": "S89",
+      "uuid": "123741d1-5e51-4304-920c-8c6bafeb9af4"
     },
-    "613.89": {
+    {
       "requestid": "1405d2ad-b3d2-4854-8e89-dc1c2fc33253",
       "confidence": "0.7090436",
       "timestamp": 613.89,
       "content": "text justin humphries not long ago he was considered one of the best young baseball player in the country of big power hitter from a suburb of houston getting drafted by the hometown astrosaurs especially sweet and if you win some money for education for later but humphries wasn't thinking about that you had one",
-      "speaker": "S7"
+      "speaker": "S7",
+      "uuid": "f1da6507-f519-4bc3-9c84-92e92631e81d"
     },
-    "636.33": {
+    {
       "requestid": "c93b5a59-4dff-4913-8976-88454542aa60",
       "confidence": "0.68959",
       "timestamp": 636.33,
       "content": "how to make me so when off the astros minor league team in martinsville virginia and then more people in kentucky louisiana florida jersey",
-      "speaker": "S7"
+      "speaker": "S7",
+      "uuid": "5bf9f596-c41b-40c9-8b1c-674933cc2a63"
     },
-    "647.59": {
+    {
       "requestid": "acb67c46-1424-42b0-8579-9fc298414d09",
       "confidence": "0.5808982",
       "timestamp": 647.59,
       "content": "did not make note is used in you",
-      "speaker": "S95"
+      "speaker": "S95",
+      "uuid": "bb3ee905-4245-418d-a567-517de5fcae7c"
     },
-    "652.46": {
+    {
       "requestid": "0eff9599-3dba-43a3-b7d8-f537f2bb8394",
       "confidence": "0.7769563",
       "timestamp": 652.46,
       "content": "pretty well but he hurt his wrist men's knee and in 2009 at the rapage of 27 humphreys quit baseball now only 11% the kids to get drafted each year make the majors are probably close to 100% them think they will",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "e4df0734-38c9-4948-a750-eb6a4296704e"
     },
-    "669.29": {
+    {
       "requestid": "20c70e5d-37f2-4b5b-a117-1018febb304b",
       "confidence": "0.9060659",
       "timestamp": 669.29,
       "content": "pumphrey's even before he quit for good started back in school",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "bda4b4ec-7df3-4a75-bb94-72d4992da376"
     },
-    "674.29": {
+    {
       "requestid": "75b858f0-24ae-45aa-b2b2-56f6eba057fd",
       "confidence": "0.8434739",
       "timestamp": 674.29,
       "content": "add a junior college in texas he wound up transferring to columbia university way to the sociology course with a professor name sudhir venkatesh you may recognize that name we wrote about his exploits in freakonomics as a grad student in chicago",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "c1aba56e-4d3b-48c5-a6b7-e7cdc14b5e8a"
     },
-    "689.55": {
+    {
       "requestid": "b87db997-a1a1-4738-9e07-080b1192b166",
       "confidence": "0.7509057",
       "timestamp": 689.55,
       "content": "venkatesh imbedded himself with a cracking and got access to their financial records",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "32403be0-04c8-403c-bf6b-2c64c153ffd4"
     },
-    "695.08": {
+    {
       "requestid": "f42e1b8d-3caa-43ba-84bb-be96d11786c5",
       "confidence": "0.766893",
       "timestamp": 695.08,
       "content": "what about in superfreakonomics too he did an extensive survey of street prostitutes guess with venkatesh studying these days",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "4201f871-2416-4215-afd5-d70fb78955a8"
     },
-    "704.02": {
+    {
       "requestid": "88aa7d2c-fa5c-4741-823d-40b24a1b9195",
       "confidence": "0.8109612",
       "timestamp": 704.02,
       "content": "I'm interested in quoting for number reasons not the least of which is that it's hard for me to the newnan but I don't think it's just really really hard the older you get some especially when you start identifying by yourself with a job alright so you",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "5e8cb241-5bd5-4272-9261-3d6cf9764972"
     },
-    "717.11": {
+    {
       "requestid": "4158239c-14a8-438a-a9c5-7db7c43cb53f",
       "confidence": "0.8072644",
       "timestamp": 717.11,
       "content": "you actually looked in a fairly systematic in puracal way at baseball players",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f8e3c290-3b3d-4114-b363-383c8aed479f"
     },
-    "723.05": {
+    {
       "requestid": "ab3e91f0-fe64-435d-b9ac-3cd0020ada11",
       "confidence": "0.8473076",
       "timestamp": 723.05,
       "content": "so I actually never thought I would be interested in looking at baseball from the standpoint of a job in with my students justin humphries I use to play baseball for the houston astros organization and he was in my class",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "853f78b9-af07-4464-8fa7-fce96c319774"
     },
-    "733.8": {
+    {
       "requestid": "64d7b729-25cf-4722-8f9e-f5ec8cb025f7",
       "confidence": "0.6777601",
       "timestamp": 733.8,
       "content": "so I'm sitting in a classroom I start thinking about all the issues of the night scene in appena baseball natalya's the baseball guys living check to check spelling with which go back to school",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "8b26784d-50e2-4c39-803f-fe9cb29c910e"
     },
-    "744.48": {
+    {
       "requestid": "6146fe47-46cb-44fb-b2ba-aab634541bcd",
       "confidence": "0.8448435",
       "timestamp": 744.48,
       "content": "family life issues at home and I thought if I could use of the things we were learning in class talk to some of these guys and find out what are the stories in 10 things I was seeing and hearing with reflective and um",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "8ae3f4e1-5c5c-48cd-afef-8d11f232d679"
     },
-    "755.96": {
+    {
       "requestid": "cf2d684a-d326-41ac-8533-5c578dc818a5",
       "confidence": "0.8018904",
       "timestamp": 755.96,
       "content": "horse we followed a sample of the draft class of 2001",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "ab13de35-f45e-42e1-ac3e-802e25bd178c"
     },
-    "760.84": {
+    {
       "requestid": "14452ba2-a351-4fbd-b8c4-f7a8bf0d875d",
       "confidence": "0.8285847",
       "timestamp": 760.84,
       "content": "and so that's about fields 10 years and so we thought that would help us understand what happens to these folks maubisse this doesn't include immigrants because they came into the country and they didn't go through the drafter to play ball this is just the people who are out of high school or who are in college and they were drafted by major league team",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "852c5dda-1c9d-4e61-bbde-cb0dee58a7f9"
     },
-    "778.26": {
+    {
       "requestid": "e9df8dd9-ee7a-4923-b7d2-d47480fc9bce",
       "confidence": "0.8239195",
       "timestamp": 778.26,
       "content": "I think one of the them the most curious things that we find is how much 10 years matter so if you take 2 people who grew up in the same circumstances let that one play baseball in london",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "afa59c91-8263-4e76-9840-8f630bccb999"
     },
-    "789.06": {
+    {
       "requestid": "7fe36d8e-15e7-46ff-8b6c-b60a2e0ac7be",
       "confidence": "0.8707675",
       "timestamp": 789.06,
       "content": "the person who plays baseball is making about 40% less an average 10 years after they enter the game in the person who decides not to play baseball and you just wanna regular korea or a song",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "7913f99a-3433-48ab-9ccc-87e964ef66d2"
     },
-    "800.88": {
+    {
       "requestid": "42328714-bab1-4c10-86b5-b45406b78af6",
       "confidence": "0.8716969",
       "timestamp": 800.88,
       "content": "what kind of background is typical for this american born players that you tracking the",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "3b6a85af-5531-4517-8534-adf10c172757"
     },
-    "805.81": {
+    {
       "requestid": "49a088cf-1444-4d80-8e5e-6d76c1f3fff8",
       "confidence": "0.7671607",
       "timestamp": 805.81,
       "content": "average player probably looks like in upper middle class kid who comes a college becomes a high school",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "99f4d225-550d-433b-8e1a-c48386df3189"
     },
-    "812.47": {
+    {
       "requestid": "bb051645-cfc7-4255-81ad-f2866e64795e",
       "confidence": "0.8237441",
       "timestamp": 812.47,
       "content": "I'm in when you fall in upper middle class kids for about 7 to 10 years they're probably gonna make higher than the median average income in probably gonna live in the neighborhood that's relatively safe there gonna have a career know when you take the counterpart among the pool that was drafted that medien kids",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "69757327-8c23-4d71-8e24-2af2088f47fa"
     },
-    "829.31": {
+    {
       "requestid": "b4707c75-c479-45d6-b8b6-41a571720679",
       "confidence": "0.9146049",
       "timestamp": 829.31,
       "content": "that kid looks like he's making about 20 to $24,000 a year which is not a lot of money",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9d22250b-f3ea-4800-88a8-faeafdba821a"
     },
-    "837.04": {
+    {
       "requestid": "bcea2718-f614-4cc4-9183-c19cc0e6ed8a",
       "confidence": "0.7970215",
       "timestamp": 837.04,
       "content": "um he's working probably 5 to 7 months playing baseball and then struggling to find part time work in the offseason might be coaching might be doing some training might be working at a construction site might be working in fast food so",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "980b818f-6bcc-40b7-9dc2-38b6614bf6ca"
     },
-    "851.06": {
+    {
       "requestid": "79792b96-1f9c-4da5-8f19-57417d1271f2",
       "confidence": "0.7209334",
       "timestamp": 851.06,
       "content": "are you went down to camden not underrated talk to tom ball play snap snap camden I believe in the atlantic league which is an independent league mean is no direct path to big league team alotta guys on the team like this we've already been through the minor leagues in either popped out in talent nor agdao right",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "9a6e8249-278d-47e8-8b70-a30fba3992fe"
     },
-    "868.63": {
+    {
       "requestid": "9be02380-3f96-4561-b6d9-dc8241ddb146",
       "confidence": "0.8542646",
       "timestamp": 868.63,
       "content": "most of the guys in the camden river sharks are probably in their late twenties until they've actually had careers in the minor league system and it didn't happen for them and so they coming to the atlantic league thinking that out there still gonna be able to make it do you sort of want to be able to tell them",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "ef3ace6f-98d8-4c31-a28c-4a870db470f2"
     },
-    "886.23": {
+    {
       "requestid": "4f228a5a-d389-4588-a8d6-f3451251fcd0",
       "confidence": "0.7579578",
       "timestamp": 886.23,
       "content": "hey do you do you know that your it's really unlikely that you're gonna make it in time visit we learned a very few people of any around them are telling that's so there not really prepared to talk about it",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "f9c62135-0d0d-4b71-9f3b-3f1114b9211a"
     },
-    "897.7": {
+    {
       "requestid": "a289be36-6fed-4269-9d4f-3b52d1843fc7",
       "confidence": "0.7747797",
       "timestamp": 897.7,
       "content": "I'm pick up some particularly biscaino ahol was a really really interesting person because he actually was thinking that this may BBM",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "7ab413a7-b716-4037-b6dc-18c2e232b1dd"
     },
-    "907.45": {
+    {
       "requestid": "56bac8e3-c80b-4344-aeb5-bc884594aefe",
       "confidence": "0.6602221",
       "timestamp": 907.45,
       "content": "it's brian I haven't tried happening but I'm still gonna get up repair in everything the same way I would regardless it out and give you never know he still never doubted me in the back way back of my mind it's still there now I know why I feel like that trust me I feel like sometimes a ride",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "63b9245d-67b1-404e-915d-c31cce913bc6"
     },
-    "925.51": {
+    {
       "requestid": "b786d24e-913e-496c-8465-da4679896e7f",
       "confidence": "0.7576987",
       "timestamp": 925.51,
       "content": "have a good start to this year whatever happens um you never know I could get picked up in the bike went off wherever I wish I could happen",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "99119096-c2bf-4373-9f38-69935999062a"
     },
-    "934.03": {
+    {
       "requestid": "216470d4-4602-4e5e-aec3-036608fe3bcf",
       "confidence": "0.7444595",
       "timestamp": 934.03,
       "content": "no it is 34 ne noah has been playing 16 season yes including this one when you look at him you probably don't think that he is a baseball player and um he looks like a running back this is the guy who really looks like it never ever going to stop playing",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "891a6b31-8cc4-470c-b907-ca964cd8c7d4"
     },
-    "951.89": {
+    {
       "requestid": "2a9f2dfd-c90c-4859-8ab8-4a4825e24795",
       "confidence": "0.715782",
       "timestamp": 951.89,
       "content": "some guys to see the writing on the wall and I just try to ignore the whole all in all it's ok I don't know I just I don't look back and say that I didn't give it everything I could in an hour and then I think I still can I could still play another 510 you should I bake",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "3555dd4b-c7e9-44cb-b445-7ad00a94501f"
     },
-    "969.11": {
+    {
       "requestid": "39b37fe7-613c-4238-89ee-f7f06c990305",
       "confidence": "0.7620364",
       "timestamp": 969.11,
       "content": "tonos from northern california and he was raised by his mom and ears and nose and his wife kelly and have a lovely son isaiah and kelly and I will follow know around toward aberte ninja playing for that season and let me tell you he's played for a lot of teams over the years",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "67fad9a4-2fbd-4ac0-9561-48d78de88e85"
     },
-    "986.45": {
+    {
       "requestid": "ccacb93b-a549-49b6-aa4f-00aa7faa7498",
       "confidence": "0.8286599",
       "timestamp": 986.45,
       "content": "after noahs practice I had a chance to go to dinner with the whole family get to know them a little bit",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "4d1606ea-59f5-4a9e-ba84-5b35d12489ce"
     },
-    "992.09": {
+    {
       "requestid": "f800e638-a610-41e3-82b7-143f8534abf4",
       "confidence": "0.60411",
       "timestamp": 992.09,
       "content": "I'm the one who is there a way you could get it or 20 in the back in my god",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "f446a174-33b8-4368-bde4-35414b0646b9"
     },
-    "1000.79": {
+    {
       "requestid": "91694220-d949-4e58-ae55-f40f3638dd20",
       "confidence": "0.8228607",
       "timestamp": 1000.79,
       "content": "so strange things we found out when we spoke a baseball players that they have their own language for quitting they actually quit they just don't call it that they don't call acquitting they don't call it giving up but they say you know what I'm just gonna shut it down for awhile",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "ae7adc02-b612-4e72-a012-312a0adfc651"
     },
-    "1016.67": {
+    {
       "requestid": "fcaee261-c54f-406c-adf3-3776c4bd3ef2",
       "confidence": "0.4515706",
       "timestamp": 1016.67,
       "content": "twitter is the boaz alabama shutter down",
-      "speaker": "S156"
+      "speaker": "S156",
+      "uuid": "e318154e-b8aa-4ffd-8408-8570d53a4ba9"
     },
-    "1027.13": {
+    {
       "requestid": "76ff405d-98ff-4d21-b2e3-554b91cdadeb",
       "confidence": "0.5771387",
       "timestamp": 1027.13,
       "content": "and I'm just like really do it ever wanted to tell you get all the stuff back",
-      "speaker": "S156"
+      "speaker": "S156",
+      "uuid": "3a48afa9-3402-4823-a8e1-755ac31acaed"
     },
-    "1033.77": {
+    {
       "requestid": "c8a13d1b-2a6c-4284-afa6-1d18bad00ba9",
       "confidence": "0.3123455",
       "timestamp": 1033.77,
       "content": "are stupid shut it down",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "ec2df0f9-b537-44a5-bfb8-ba410c9ca966"
     },
-    "1037.72": {
+    {
       "requestid": "70bc765a-8dfb-420c-91f1-924dd7c72d7f",
       "confidence": "0.2247062",
       "timestamp": 1037.72,
       "content": "oh yeah mine",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "3e2f18f3-8af0-47c9-8adb-5d497496f749"
     },
-    "1041.96": {
+    {
       "requestid": "a32a98ea-a140-4b45-bfb8-8e2029574b6e",
       "confidence": "0.4863417",
       "timestamp": 1041.96,
       "content": "couple years yeah",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "56284374-f321-42bd-8871-228a4419516a"
     },
-    "1044.57": {
+    {
       "requestid": "9a3b475e-f694-4722-965c-4ca4b4514fe3",
       "confidence": "0.5040984",
       "timestamp": 1044.57,
       "content": "couple years we've really far we've actually brought over",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "9c07370c-cabe-4f21-8716-20fddb6ef786"
     },
-    "1047.9": {
+    {
       "requestid": "54069eea-b7ce-4a66-abff-3a001787d862",
       "confidence": "0.5268973",
       "timestamp": 1047.9,
       "content": "what is it so hard for you",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "176f4c96-1fb4-46f7-b075-5e5de013feaa"
     },
-    "1050.73": {
+    {
       "requestid": "8706d740-ea4d-423f-b53c-14d60e5a4f71",
       "confidence": "0.6406057",
       "timestamp": 1050.73,
       "content": "I understand have been trying to be supportive I understand that",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "5ea35be1-c874-483a-99c4-88539b82c660"
     },
-    "1055.3": {
+    {
       "requestid": "dd5fb688-1c44-4db7-86fd-97eaef8b6ec1",
       "confidence": "0.7536549",
       "timestamp": 1055.3,
       "content": "gotta be really hard because I do you know how much she loves the game",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "1a4af70f-29b6-4fcc-9a03-c26a1253bd8d"
     },
-    "1059.3": {
+    {
       "requestid": "44dd0f66-8cd1-4a3e-b3c9-86c9ef8fec41",
       "confidence": "0.7275079",
       "timestamp": 1059.3,
       "content": "well that particular poignant in my view because you know baseball's on those rare sports that because it does not o'clock no game is ever out of reach him and you can be behind a thousand runs in the bottom lane in theoretically you can still come back and win tonight partly efica baseball is never never never",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "9a5db06e-b798-4c74-9c70-3269e3363746"
     },
-    "1077.98": {
+    {
       "requestid": "b46dc031-e4b2-4ea7-8a01-fb658caa2444",
       "confidence": "0.7181171",
       "timestamp": 1077.98,
       "content": "quit quitting is not an option yeah I could use his usual",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f799cb9d-59b0-49f4-a356-89882f2c1a5a"
     },
-    "1082.06": {
+    {
       "requestid": "0bb607ef-d49b-499b-a97d-8c4e677a20ff",
       "confidence": "0.8253355",
       "timestamp": 1082.06,
       "content": "not an option but you know just gonna try to make it easier for the players to taquin into to make the transition you been working on building an organization that that that help baseball players to get outta baseball when the time is right in the joinder that world of the rest of us live in",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "3a9affd8-9c55-46ca-903f-d0ccdabb8ed2"
     },
-    "1097.36": {
+    {
       "requestid": "8880e958-3c5f-47e1-a574-146f25fd603d",
       "confidence": "0.803494",
       "timestamp": 1097.36,
       "content": "well when you're 25 playing in appendable making less than $2000 a month",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "3d478fe5-26a7-4612-aa10-e1b79d36a044"
     },
-    "1105.04": {
+    {
       "requestid": "f3ef479a-d551-43ae-9e8d-c5d835c995bb",
       "confidence": "0.9054806",
       "timestamp": 1105.04,
       "content": "living off your parents because you can't financially sustain yourself like that",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "5b87873e-5534-4963-8e62-e8b8f7408ef9"
     },
-    "1109.82": {
+    {
       "requestid": "ffe41fe8-663b-4116-a16e-00c851b74563",
       "confidence": "0.8048733",
       "timestamp": 1109.82,
       "content": "at some point but they look I've got with no degree I had been less and associates agreed that point so it's a minute or so I can do this to myself I can do that to my parents and I can't continue when I know there's on to untap potential to do other things",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "c5ce9d6f-d4b2-40ea-9d8c-7fa2757c3626"
     },
-    "1127.23": {
+    {
       "requestid": "6591c710-f1f1-4c3f-bccc-2496bd707857",
       "confidence": "0.6503133",
       "timestamp": 1127.23,
       "content": "tell justin humphries stared right into the dark part of the song called me all these years it's been pursuing is green and then he made the big win to hear more from sudhir venkatesh later in the show in a moment",
-      "speaker": "S171"
+      "speaker": "S171",
+      "uuid": "2d4de69b-b750-4e29-b48c-a2af720a23a4"
     },
-    "1145.27": {
+    {
       "requestid": "eba76a1e-8135-4989-8db3-35a1bc5a8ad5",
       "confidence": "0.6572089",
       "timestamp": 1145.27,
       "content": "will tell you what my new number crunching freakonomics coauthor steve 11 as in common with a bunch of abbr crunching navy seals",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "012c927c-2b25-44ee-ad09-0c23cfce921e"
     },
-    "1161.03": {
+    {
       "requestid": "63a53de3-dd64-4b20-b08f-ea9ad5954df3",
       "timestamp": 1161.03,
-      "content": ""
+      "content": "",
+      "uuid": "066a1ec2-3b07-459c-bd64-ca77a482b474"
     },
-    "1167.41": {
+    {
       "requestid": "bbc73168-d148-4229-b4a8-c8a65736116a",
       "timestamp": 1167.41,
-      "content": ""
+      "content": "",
+      "uuid": "e6772135-843b-4012-bf2a-ea2cca718c54"
     },
-    "1171.4": {
+    {
       "requestid": "c3fe86d2-c20d-4497-bd4c-a69539866b16",
       "timestamp": 1171.4,
-      "content": ""
+      "content": "",
+      "uuid": "2cb37f1b-4d90-45d9-aa68-50e653bfb7e7"
     },
-    "1176.51": {
+    {
       "requestid": "d6bed6f2-6161-49ae-8888-574d043b1ce6",
       "confidence": "0.7447918",
       "timestamp": 1176.51,
       "content": "from WNYC this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S179"
+      "speaker": "S179",
+      "uuid": "1cd27910-575a-40c5-88c8-ad08473a37e0"
     },
-    "1183.61": {
+    {
       "requestid": "a6e4e9d0-ae02-4e19-872c-20aef3d731d5",
       "confidence": "0.6945915",
       "timestamp": 1183.61,
       "content": "so for ballplayers like justin humphries and noah hall quitting their athletic dream is a long painful process steve levitt is my freakonomics friend and coauthored nikodemus at the university of chicago he advocates quitting fast",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "007f4ec4-0102-4470-b74d-8e50fd11acc1"
     },
-    "1200.04": {
+    {
       "requestid": "7fce78a9-5161-4efe-b5fc-cb78b80ffa42",
       "confidence": "0.6704352",
       "timestamp": 1200.04,
       "content": "I try to talk my grandkids into quitting all that I'm quitting grad school and graduate yeah it meant a lot of people you make choices",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "d6ac3a57-ae12-48e5-a238-3a5999dc9bf3"
     },
-    "1208.33": {
+    {
       "requestid": "73b6796c-7fd4-46c0-b5a2-fc4524ae9def",
       "confidence": "0.6771364",
       "timestamp": 1208.33,
       "content": "with a lot information I need to get new information and quitting is often the right thing to do I try to talk my kids into quitting soccerbase babinec let me and I've never had any shame in quitting equity can I'm feri quick macro economics I pretty much quit everything but I'm bad",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "2970cda7-b806-42b9-85fa-f3396363357b"
     },
-    "1227.55": {
+    {
       "requestid": "242c88cc-55bf-463e-b173-603e0017816c",
       "confidence": "0.7481731",
       "timestamp": 1227.55,
       "content": "you do have this mentre fail fast and quickly yeah exactly so I am I would say one of the single most important",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "54f3d713-7872-43ea-9fce-d5a75f9dbab6"
     },
-    "1236.15": {
+    {
       "requestid": "f7df9396-abca-4108-a63f-c94b891d398a",
       "confidence": "0.7271789",
       "timestamp": 1236.15,
       "content": "explanations for how I managed to fix it against all odds in the field economic it was by being a quitter said that ever since the beginning my mom tries beenfeldt quickly if I started with 100 ideas I'm lucky if",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "d37cc882-0ad9-4675-8a34-9ed9ae693166"
     },
-    "1251.81": {
+    {
       "requestid": "4afca8bb-fa32-48e9-8212-805e43a414a5",
       "confidence": "0.7159471",
       "timestamp": 1251.81,
       "content": "2 are 3 of those ideas well everton and academic papers when is my great skills as an economist has been to recognize the need to fill quickly and the willingness to jettison a project as soon as I realize it is likely to fail",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "93e634b6-a099-476f-ba61-0236facd3983"
     },
-    "1267.64": {
+    {
       "requestid": "66ce4c85-5547-4230-bae0-af509d0ab341",
       "confidence": "0.775023",
       "timestamp": 1267.64,
       "content": "getting talked into quitting grad school buyer 155 pound professor is one thing how bout in navy seal instructor",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "1a5e1111-4c98-4c9a-8fa7-3516729c03f8"
     },
-    "1276.82": {
+    {
       "requestid": "06ede62d-2304-4a52-b58f-79017b7062db",
       "confidence": "0.8934819",
       "timestamp": 1276.82,
       "content": "so hell week is considered to be the hardest week of the hardest military training in the world",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "6452a532-a77a-4c1f-a1de-de97bf8e0add"
     },
-    "1281.98": {
+    {
       "requestid": "bd9bb0bb-e3f2-486e-8243-ca7439a198ba",
       "confidence": "0.829994",
       "timestamp": 1281.98,
       "content": "but eric greitens you got a phd in politics from oxford and then join the navy seals he fought in iraq afghanistan and elsewhere is not written a book called the heart and the fist the education of a humanitarian the making of a navy seal",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "5d806093-8d91-48fc-90a1-ceb2b728ba4c"
     },
-    "1299.67": {
+    {
       "requestid": "1c070ae9-5dc5-4f39-a675-e4c38b14a51c",
       "confidence": "0.7908847",
       "timestamp": 1299.67,
       "content": "here's how great is remembers hell week",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "4cdd13df-e69c-471f-8094-bc20523b7e10"
     },
-    "1302.29": {
+    {
       "requestid": "3225c33b-c506-4e86-b890-3d45bdae48ed",
       "confidence": "0.8975951",
       "timestamp": 1302.29,
       "content": "it is a week of continuous military training during which most class asleep for a total of 2 to 5 hours over the course of the entire week",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "bdbd7541-9fc8-4d39-81af-918d492f1f1e"
     },
-    "1311.28": {
+    {
       "requestid": "672667f0-2603-43de-8eb7-886f474d4267",
       "confidence": "0.8082052",
       "timestamp": 1311.28,
       "content": "during hell week they have you are running for miles on insoft sand on the beach you doing to my lotion swim's running the obstacle course they put you in small teens in a skittle and small rubber boats on jagged rocks in the middle of the night",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "88aec8b3-dad5-41ee-8140-8c14ac421e30"
     },
-    "1327.15": {
+    {
       "requestid": "a41c0039-9dab-4818-91b1-6ecf9305a8be",
       "confidence": "0.8142462",
       "timestamp": 1327.15,
       "content": "are all of these tasks which are designed to push people to their physical mental and emotional limit",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "29e4187a-7b10-4cb5-94c3-bebf94fcb633"
     },
-    "1334.58": {
+    {
       "requestid": "03eb8ec3-2a3c-4d08-84fb-c264855cbd10",
       "confidence": "0.7894986",
       "timestamp": 1334.58,
       "content": "hell we could be useful way for the navy to determine who is fit to be a steal the kinda person you wanna send to get osama bin lot and great and says instructors hover over you taunting you practically begging you to quit in the best new jersey would quit before was over at some point",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "2ad538b2-4fc9-4240-9c84-c8e02f9180b4"
     },
-    "1351.65": {
+    {
       "requestid": "7d0d49a9-4d95-4fd9-8596-cae85fe70523",
       "confidence": "0.7872375",
       "timestamp": 1351.65,
       "content": "you to the instructors come out on their bullhorns and I'd say",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "37696acd-7ea1-484b-be1b-2d8e6ebf064e"
     },
-    "1354.97": {
+    {
       "requestid": "0303ff2e-aa22-4c63-8d70-a96784711f0d",
       "confidence": "0.5818459",
       "timestamp": 1354.97,
       "content": "after I get this is only the beginning of the second night",
-      "speaker": "S207"
+      "speaker": "S207",
+      "uuid": "6f720a1f-b959-41be-aca1-476365dca7ec"
     },
-    "1358.59": {
+    {
       "requestid": "75bb9f41-7b8b-4f6f-a0b4-0d9a869215d9",
       "confidence": "0.7468239",
       "timestamp": 1358.59,
       "content": "in what they did then what is the instructors took us out in a line dress up on the beach and they had a swan",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "4ce4b12f-9aa9-45ba-9c41-b7d883eab511"
     },
-    "1365.23": {
+    {
       "requestid": "c90faea6-ab5d-4bf5-844f-1c7b9401047a",
       "confidence": "0.6462976",
       "timestamp": 1365.23,
       "content": "as the sun was setting in",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "388ad2df-e25c-4a96-892d-30499aa2a649"
     },
-    "1367.43": {
+    {
       "requestid": "4b284b9f-4bc1-4298-95f2-70984e9ad4e2",
       "confidence": "0.620716",
       "timestamp": 1367.43,
       "content": "as the sun was setting instructor started to get inside people's minds made say tonight gonna be the hottest in the coldest in the night tonight come over the bull horns in adsafe india just getting older and older and more senior only to be getting really starting to get inside people's minds and I can remember",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "5a144f42-96ce-4059-bc73-0eb069a27bff"
     },
-    "1387.2": {
+    {
       "requestid": "16e73803-e549-4287-930d-7dcecd40d8f1",
       "confidence": "0.6601333",
       "timestamp": 1387.2,
       "content": "instructor sang at one point I am",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "d5739f92-c218-4781-8bbc-c69680d3310d"
     },
-    "1390.35": {
+    {
       "requestid": "a9aa8579-a8a6-49a8-8f88-52d1b9120866",
       "confidence": "0.6436527",
       "timestamp": 1390.35,
       "content": "if anybody queens right now would it be hot coffee in dona",
-      "speaker": "S207"
+      "speaker": "S207",
+      "uuid": "15d8b032-9c35-41a5-917d-a8b57dfc7b95"
     },
-    "1394.27": {
+    {
       "requestid": "572d1902-a77d-44e1-a725-e46c93b8e0fb",
       "confidence": "0.6566679",
       "timestamp": 1394.27,
       "content": "strike that everybody was freezing today set up this little inside",
-      "speaker": "S215"
+      "speaker": "S215",
+      "uuid": "8176d540-e442-440a-83fb-ec1aea4ffe0f"
     },
-    "1397.51": {
+    {
       "requestid": "ac83b551-ff57-4ee0-9da3-028627244e40",
       "confidence": "0.8721289",
       "timestamp": 1397.51,
       "content": "to be over there if you if you wanna go over and ring the bell you can quit and I'll give you a hot coffee and donuts in the whole idea is it instructors really encourage they want everyone to succeed but if people are going to quit they want to encourage them to quit",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "57c173d0-d34e-405b-ba04-8770ce4a63b1"
     },
-    "1415.31": {
+    {
       "requestid": "66954b20-edb3-40f8-9d51-5ca5595307f9",
       "confidence": "0.7899727",
       "timestamp": 1415.31,
       "content": "when you quit by the bell ring at 3 times this tells everyone in your shot that you're done",
-      "speaker": "S219"
+      "speaker": "S219",
+      "uuid": "f3fad3ac-d10c-498d-8cd8-3801f054ed54"
     },
-    "1422.32": {
+    {
       "requestid": "10e4b2db-2870-4f1a-996b-5ba039c1c0d0",
       "confidence": "0.7474148",
       "timestamp": 1422.32,
       "content": "great and says there are 2 kinds of quitters went to make excuses in one tour honest with them so yeah I don't think",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "95c2b23a-468e-41b8-86ae-90038d8ced05"
     },
-    "1430.52": {
+    {
       "requestid": "912e6c86-db9b-4a49-a803-2863a634b1d1",
       "confidence": "0.884828",
       "timestamp": 1430.52,
       "content": "many people want to say to themselves that they quit at the same time out we've all failed in our lives we've all failed it different things in different ways in I think is a lot to be said for facing netfile your squarely",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "0cc3beef-a404-4d10-a2bc-ec70dde3701c"
     },
-    "1444.36": {
+    {
       "requestid": "509c2b37-34ce-469a-8592-d3dc7af4270f",
       "confidence": "0.9069526",
       "timestamp": 1444.36,
       "content": "in the people who I know who were able to admit you know it wasn't the right thing for me at that time and I went over and I decided to quit I decided to ring the bell",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "c7f7850e-e8a6-49a6-aea3-a3de3b045494"
     },
-    "1454.02": {
+    {
       "requestid": "514d3887-19a4-4855-bb2c-1f2fa16a73c7",
       "confidence": "0.8553336",
       "timestamp": 1454.02,
       "content": "are there really able to move on from their experience and I do find that you know there's only shame in it if you if you feel shame",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "9f883a61-4e2b-4342-8417-2ae436d9613d"
     },
-    "1461.95": {
+    {
       "requestid": "2d5e5920-8c68-4f91-a309-c48ce4fc3056",
       "confidence": "0.8083974",
       "timestamp": 1461.95,
       "content": "so what would you say if I told you there's evidence that quitting is good for you",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "f15ff03c-ecb4-4e7e-8f04-4fae3a1358cb"
     },
-    "1473.08": {
+    {
       "requestid": "644f6e59-32ae-46ca-8b4e-17f0944af27b",
       "confidence": "0.8148052",
       "timestamp": 1473.08,
       "content": "physiologically and psychologically good for you",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "c37802a7-d7e9-455f-91a5-971fbb89220b"
     },
-    "1478.46": {
+    {
       "requestid": "9da89319-6f4b-4c3b-b705-0b5addba8956",
       "confidence": "0.553598",
       "timestamp": 1478.46,
       "content": "people who abeta able to let go bananas expansa unattainable goal",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "cbd5fa8a-1767-4099-b302-885e8067ecb3"
     },
-    "1483.37": {
+    {
       "requestid": "5d5a1635-6bb6-45b0-a20a-793a962e7563",
       "confidence": "0.5284945",
       "timestamp": 1483.37,
       "content": "as a half past experience I like simple inste prince of symptoms last negative affect overtime they also have lower cortisol levels in tase have lower levels of the systemic inflammation which is the amount of time you functioning",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "ff295173-dcc4-4afa-93a0-489b7457e0a8"
     },
-    "1499.68": {
+    {
       "requestid": "cb915176-f87c-4669-bb23-cffb5c97ad40",
       "confidence": "0.5129474",
       "timestamp": 1499.68,
       "content": "insaat developpe your physical health problems open",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "c4bd7d1e-6a8b-4e00-8f9f-e461031891fa"
     },
-    "1504.77": {
+    {
       "requestid": "7b2b3dee-abed-4070-a513-87047ef2aa74",
       "confidence": "0.6564416",
       "timestamp": 1504.77,
       "content": "let kirsten rush neurulation robert reisz raasch is a psychology professor at can cordia university montreal in a study of 90 adolessons he and a colleague found that being able to abandon goals that are essentially unattainable is",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "2088f56f-26bf-458b-85f4-4ae56c443edb"
     },
-    "1521.5": {
+    {
       "requestid": "774de15b-6f07-4bb5-a2cd-06ef3179364b",
       "confidence": "0.7874888",
       "timestamp": 1521.5,
       "content": "good for your health now ask yourself what's unattainable and what not",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "6d977c88-ef39-49be-bfd0-44700d5441ec"
     },
-    "1526.7": {
+    {
       "requestid": "ee40225c-c2a8-4ebb-8488-70c1fd5d9303",
       "confidence": "0.8162076",
       "timestamp": 1526.7,
       "content": "when justin humphries is 18 years old the major league seemed pretty attainable",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "b314b133-9cdc-4f78-b715-c3724831b887"
     },
-    "1531.57": {
+    {
       "requestid": "e2d2230b-b66a-4930-9daa-eca291b66dc1",
       "confidence": "0.8810759",
       "timestamp": 1531.57,
       "content": "I 25 not so much if I were put through hell week",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f06122de-ffb3-4f27-9fb2-363f2a8aefbe"
     },
-    "1538.6": {
+    {
       "requestid": "2e4fb5bb-6faf-4564-91c8-abfce7b77036",
       "confidence": "0.6837954",
       "timestamp": 1538.6,
       "content": "hi tina bowl according to rush each of us encounters and unattainable goal about once a year",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "0e1be1ba-8946-4b8a-9c46-ab4f5d5d7f0a"
     },
-    "1546.49": {
+    {
       "requestid": "499f047a-95f2-4a84-aa0b-350c7ca5fcf6",
       "confidence": "0.6987568",
       "timestamp": 1546.49,
       "content": "unfortunately I was walking around with a big neon fine bruh just quit",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "18f5151b-f5c9-4c9b-ae29-5b88d07870c8"
     },
-    "1552.35": {
+    {
       "requestid": "fc413c71-81ed-4144-8d53-0edf1c95604d",
       "confidence": "0.8183575",
       "timestamp": 1552.35,
       "content": "so this is a puzzle and we need your help insomnia is persistence is a virtue generally how is a person to know when here she under which circumstances here she should quit or disengaged",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "62d97723-ca85-4522-988d-f199bb627be9"
     },
-    "1569.58": {
+    {
       "requestid": "7684a39e-9b0b-4ed8-b383-db9e903a2b39",
       "confidence": "0.7420554",
       "timestamp": 1569.58,
       "content": "yeah that's at sign it would save the $1,000,000 question I went went to struggle and when to quit",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "ce9e2f4e-e048-483b-9bdc-c9724efedffb"
     },
-    "1576.45": {
+    {
       "requestid": "ceb96443-f9de-4e04-a9ce-cbe9bd88d137",
       "confidence": "0.749374",
       "timestamp": 1576.45,
       "content": "and I don't think that there SA gentle answer to this question however people can make 2 different mistakes in the regulation of their life they can quit too early when they showed up assistant",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "5bc393c5-08f6-42e8-8ec3-bdcac797bbdf"
     },
-    "1591.03": {
+    {
       "requestid": "513190ba-29f1-4a18-9ef0-91d006d24547",
       "confidence": "0.6793398",
       "timestamp": 1591.03,
       "content": "alls I can quit too late",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "627cb679-4bfb-4771-bcb3-9724ecbdc4d3"
     },
-    "1593.64": {
+    {
       "requestid": "44d79ac5-de12-4fee-b26d-d15238561352",
       "confidence": "0.7794628",
       "timestamp": 1593.64,
       "content": "ok no offence professor asbert sabrit helpful sometimes you quit too early when should a persistent in",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "8484811f-85a5-4e25-b5ca-27bcb0eb0765"
     },
-    "1601.22": {
+    {
       "requestid": "9f49b778-b1c7-4773-862c-b3ae81354f00",
       "confidence": "0.7248917",
       "timestamp": 1601.22,
       "content": "sometimes it persist too long should quit really that's all you got really that's all you got which shows if nothing else would you deliver this is to quit or not to quit",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "e4944e98-0e83-44e4-a376-14ed4fd94885"
     },
-    "1614.82": {
+    {
       "requestid": "c8214e65-2169-46b9-8452-958501f280b5",
       "confidence": "0.7361583",
       "timestamp": 1614.82,
       "content": "let me ask you this are are you much of a quitter IIIII'm bad",
-      "speaker": "S251"
+      "speaker": "S251",
+      "uuid": "a3cbb44e-f0d5-4d2a-a8e8-ff1a874836af"
     },
-    "1620.37": {
+    {
       "requestid": "5ea12904-f31f-4c75-a1a0-99a547be9b57",
       "confidence": "0.6676543",
       "timestamp": 1620.37,
       "content": "quit knightley has a difficult time off I try octopus is the irs as much as possible maybe that's why it out this off and I'm an honest you are so interesting to me",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "c8c397af-4e64-40e9-a6b4-f91a598113e0"
     },
-    "1631.62": {
+    {
       "requestid": "396ee006-8c72-4848-86f5-5290768cede8",
       "confidence": "0.7052016",
       "timestamp": 1631.62,
       "content": "well maybe I can help",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "23dedb15-0448-4fa6-bd95-519aa02c72d8"
     },
-    "1634.02": {
+    {
       "requestid": "78a533f1-0ae9-4c33-8d57-f3fbb550ef59",
       "confidence": "0.7516145",
       "timestamp": 1634.02,
       "content": "you um when are you tell me something that you're involved in that year did you think is a gold may be unattainable I'll try to talk into quitting",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "266a9eee-064f-49fa-9559-c3fae167e275"
     },
-    "1642.13": {
+    {
       "requestid": "92fde486-886e-4ac6-9208-c3ca1144794f",
       "confidence": "0.6660556",
       "timestamp": 1642.13,
       "content": "well at this point II had a half hour all I can think about something that is unattainable I can come up at the things as a popover time out so are you smoke do you smoke by chance yeah actually I'm I'm a smoker yeah yeah I wanted",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "38bea836-2d0f-4c81-831a-8a0724265979"
     },
-    "1662.12": {
+    {
       "requestid": "fa35f217-df1a-4f91-8ca8-de645ef41a78",
       "confidence": "0.6469452",
       "timestamp": 1662.12,
       "content": "do you wanna quit smoking oh well yeah I are on some level up and on and on and on and on a different apple android very much",
-      "speaker": "S244"
+      "speaker": "S244",
+      "uuid": "c79adc0c-ebc6-4eb5-9f94-343f96e21f0c"
     },
-    "1671.27": {
+    {
       "requestid": "8d39acd5-81a4-45d2-8bb0-a9852134a737",
       "confidence": "0.7104899",
       "timestamp": 1671.27,
       "content": "this conversation went on for awhile I'll spare you the details let me just say this either I am in",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "5fdee050-79f5-4d5d-8e76-b1e032c57186"
     },
-    "1678.33": {
+    {
       "requestid": "57faf631-a189-4276-995d-0908084e2da2",
       "confidence": "0.6202587",
       "timestamp": 1678.33,
       "content": "unpersuasive for carson rush really really doesn't wanna quit maybe both he says he wants to quit but he really doesn't sound like it like a bad o henry's story the professor of quitting can't quit smoking you can empathize can't you see I can be nice",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "f188702b-8296-42a1-bf65-9a7ca6492789"
     },
-    "1703.05": {
+    {
       "requestid": "ec95944a-6257-4185-a890-5b7d8a92c96a",
       "confidence": "0.7384109",
       "timestamp": 1703.05,
       "content": "do something you really wanna quit in know you'll be healthier for it but you can try try try you just can't until one day finally you wake up and you had this vision of what your life would be like without that thing in it and it's not so terribly",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "8dec019b-219d-4b8c-92c6-b110ed3cfe97"
     },
-    "1722.36": {
+    {
       "requestid": "6a9f41e9-1a92-4af7-86f3-fa7250448037",
       "confidence": "0.624437",
       "timestamp": 1722.36,
       "content": "I tell my first quick nap",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "e66ba0e3-cfd2-42f5-8184-a0e548d5a069"
     },
-    "1725.21": {
+    {
       "requestid": "7403d3fa-0ffc-44d4-b17a-ec22a11b74ad",
       "confidence": "0.3709516",
       "timestamp": 1725.21,
       "content": "yep",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "45f05d84-bda4-4cb2-b77e-3c04ba2a18d0"
     },
-    "1732.39": {
+    {
       "requestid": "fac4f934-4525-4f7e-93f2-118e99f17998",
       "confidence": "0.6708272",
       "timestamp": 1732.39,
       "content": "that's my old band called the right profile starting college town in north carolina reformas we are pretty bad at first but we took it seriously kaptara",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "9a9f9e7d-a987-46d4-9106-a1620e2a0383"
     },
-    "1744.25": {
+    {
       "requestid": "b308cf0d-6e73-4c47-af8e-dc408c974842",
       "confidence": "0.1296715",
       "timestamp": 1744.25,
       "content": "bad",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "cf737e41-79b1-4194-b731-f2a2ebafefda"
     },
-    "1749.11": {
+    {
       "requestid": "e81de9f3-2215-496a-8573-a92130374826",
       "confidence": "0.8281219",
       "timestamp": 1749.11,
       "content": "how I sound when I sing good work hard at it because it was incredibly fun but also because it was our dream I mean come on who doesn't dream at some point the finger at",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ca2b7596-0624-458a-b6c1-31fdec0a40aa"
     },
-    "1759.29": {
+    {
       "requestid": "7470cdf2-0633-4e0c-82e6-ddd1edd3eca1",
       "confidence": "0.7993923",
       "timestamp": 1759.29,
       "content": "are you",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "e32e385f-6e13-4e7a-81b6-1df42953df2c"
     },
-    "1763.15": {
+    {
       "requestid": "f85c5e9d-22ef-4126-9e08-1b425d455a87",
       "confidence": "0.7890585",
       "timestamp": 1763.15,
       "content": "so john when you hear that song with you didn't plan this recording will you play the song I don't know how many times you think you're not playing the song in your life god probably",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "a006b22f-b883-4149-88ec-084011bc5f7c"
     },
-    "1772.12": {
+    {
       "requestid": "c52f8acf-3c75-415a-83d3-359c4b768f35",
       "confidence": "0.5797672",
       "timestamp": 1772.12,
       "content": "I have a trip and we fit 50 times at john werster recaldent chesterman's actual name is john user drummer awesome drummer",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "a4c180ea-b97e-40af-a3a8-5247cd7427fe"
     },
-    "1781.45": {
+    {
       "requestid": "0549ead3-c511-4b96-bb93-9f88e35c298c",
       "confidence": "0.8101938",
       "timestamp": 1781.45,
       "content": "you might know his name he wanted to play with superchunk for years he still plays with them in with the mountain goats 2",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "005df4fd-0d99-4c9a-ad6e-2410a1565851"
     },
-    "1788.08": {
+    {
       "requestid": "fb10179c-a5a0-4734-a77d-b06f325cfb21",
       "confidence": "0.8094593",
       "timestamp": 1788.08,
       "content": "the other guys in the band with jeff foster in temple and we played all over the place in a demo tapes we released a single and we got a management team in new york city the same guy to manage the replacements in the del fuego javans of luck in the managers brought it up to new york to play for the major record",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "abc10698-b49f-4fb0-9dd1-f55feec837a9"
     },
-    "1807.17": {
+    {
       "requestid": "dd80db52-b5c0-4e30-85da-d54021b4fdf7",
       "confidence": "0.7256662",
       "timestamp": 1807.17,
       "content": "2 months later remember playing going up to see gb's in new york to a play barish ok show for some labels one of which was arysta",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "46a91b04-998e-4c75-bab2-3ce70d298d6a"
     },
-    "1818.11": {
+    {
       "requestid": "87f1d85d-c8bf-49ca-a92c-9caac4035e7b",
       "confidence": "0.6762413",
       "timestamp": 1818.11,
       "content": "anark I remember just in the total dive cbgb's there was a table on the table was a gift card that said reserved for clive davis",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "738098a4-1994-4f26-965a-a14276413450"
     },
-    "1828.4": {
+    {
       "requestid": "3081969e-30cd-4870-ab7f-4b42288d7705",
       "confidence": "0.8165799",
       "timestamp": 1828.4,
       "content": "do you member going up to um to their office on that trip and give me when they when you put everything on the phone briefly teteles to sign with their stuff",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "47f15f42-4ea7-4fa1-9b32-4c6ff87c4ad8"
     },
-    "1836.15": {
+    {
       "requestid": "a1ac5b7c-7226-4901-afea-527b1fd6faa5",
       "confidence": "0.6236044",
       "timestamp": 1836.15,
       "content": "yes and and I remember will win up whenever kinda walked away we would go in a look for some new people throw the taxes to find a personal numbers of carly simon and somebody out number like never use them we just thought that was hilarious just alike",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "df38f843-cf5f-46f9-87bd-2cf56429b849"
     },
-    "1852.46": {
+    {
       "requestid": "370dd15b-c65b-4d3d-bdf5-89488124abb6",
       "confidence": "0.6177495",
       "timestamp": 1852.46,
       "content": "at them through this rolodex and find her her her number",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "f777326c-1dbc-4907-a893-42ab4bc88dca"
     },
-    "1856.92": {
+    {
       "requestid": "5629c9b5-539f-4cf2-b527-857fb41a0243",
       "timestamp": 1856.92,
-      "content": ""
+      "content": "",
+      "uuid": "c14a537e-e7fe-4249-ae12-e8f77d8037d7"
     },
-    "1858.53": {
+    {
       "requestid": "6e97dbe2-4567-4738-b2b5-6ff39954084b",
       "confidence": "0.7373775",
       "timestamp": 1858.53,
       "content": "so it's true clive davis the music industry giant find us air is the record it was incredibly excited",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "c3ff1da0-5e87-4c74-bcb4-aa9ca2e60be6"
     },
-    "1867.74": {
+    {
       "requestid": "a34d589a-73d7-4cfe-81f6-a89eb490655e",
       "confidence": "0.6778073",
       "timestamp": 1867.74,
       "content": "call so weird with this little indeed have punki have country band used to doing things we we did them and now moved to new york",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "71b61981-f443-46bc-ba11-4293715efc11"
     },
-    "1886.81": {
+    {
       "requestid": "4ceff0d3-3e65-4c0d-a21d-2b9752ce6a98",
       "confidence": "0.7124643",
       "timestamp": 1886.81,
       "content": "it was hard maybe we're just a bad fit with her is that they wanted pockets and we don't need to have an",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "98982676-b14a-49c8-83d3-f5d14ef49ce5"
     },
-    "1893.6": {
+    {
       "requestid": "6398b5a1-13ad-44d8-a0a2-977b93c4325c",
       "confidence": "0.6554839",
       "timestamp": 1893.6,
       "content": "the other thing is I was really sure I want to be your rock star",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "473a7486-fbd4-48b5-bb17-286c0dfe632d"
     },
-    "1897.27": {
+    {
       "requestid": "6389fc59-330c-4ab5-9fa4-8d16498ae06c",
       "confidence": "0.7798231",
       "timestamp": 1897.27,
       "content": "advance so we were pretty straight laced no drugs not much drinking but",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "ad0b68c3-9639-46d0-9a4e-32185b4ba879"
     },
-    "1902.3": {
+    {
       "requestid": "1fa70041-1af2-4f20-96ef-dc74d330541d",
       "confidence": "0.627494",
       "timestamp": 1902.3,
       "content": "lifestyle but she's we got a lil bit more successful start hang around with bigger band became less attracted to the idea of wanting to be seen seem really fun at first you feel unsafe unhealthy for 6 years this with only one",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "3fb5ce0c-710f-489d-9fc1-2202546a6ddb"
     },
-    "1920.76": {
+    {
       "requestid": "f52ff419-a10c-4bfb-a591-397f8adadca0",
       "confidence": "0.8535002",
       "timestamp": 1920.76,
       "content": "01 night at sitting in my hotel room in memphis working on some lyrics in my notebook",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "4624ca43-c693-4127-9129-d9a514b2e868"
     },
-    "1926.0": {
+    {
       "requestid": "4c9b30c3-3f23-455f-ae53-ebf84b9ed37d",
       "confidence": "0.795164",
       "timestamp": 1926.0,
       "content": "and I found myself writing the words what do I want",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "2b836ef3-ffff-498b-a5f7-ec09dd1a41ab"
     },
-    "1930.74": {
+    {
       "requestid": "79769806-110a-47d7-b72c-fa200f3cd316",
       "confidence": "0.7495883",
       "timestamp": 1930.74,
       "content": "I thought about it I don't really know anymore",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "8a2a38fe-2abe-42b3-a524-ee5b522346b6"
     },
-    "1933.99": {
+    {
       "requestid": "d34d419d-1c02-4989-9965-ae30e01347af",
       "confidence": "0.643988",
       "timestamp": 1933.99,
       "content": "and then I wrote not there",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "1404a5e6-691b-4095-b960-bebc188bc301"
     },
-    "1938.84": {
+    {
       "requestid": "f4acadb8-4a32-483d-9b5e-bb04dfe0a2b6",
       "confidence": "0.9394419",
       "timestamp": 1938.84,
       "content": "a couple weeks later I quit the band",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "936b8a0c-c14d-4ec1-88b6-88da9acd206e"
     },
-    "1941.25": {
+    {
       "requestid": "347ad1e9-de03-4eda-b60e-f102c9a30067",
       "confidence": "0.672174",
       "timestamp": 1941.25,
       "content": "we're playing some songs in me to tell you weren't meet you were gonna moody and maybe the <profanity>fuck</profanity> <profanity>fuck</profanity> is wrong we knew what was wrong we knew that this might be weird parts and I think we just need to know about that and a",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "fb2d6b83-ac41-428a-9515-15108eaeb4bd"
     },
-    "1956.92": {
+    {
       "requestid": "db25d4ed-edf2-4f7c-be4f-53f07b21b83a",
       "confidence": "0.5882876",
       "timestamp": 1956.92,
       "content": "we play something in mandarin for jeff same to you what liquits",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "946c8f45-7ee8-42bb-a231-4bed7a6689f2"
     },
-    "1961.87": {
+    {
       "requestid": "5e700927-cec8-4b0a-ac66-141c1fdeedcf",
       "confidence": "0.7121302",
       "timestamp": 1961.87,
       "content": "what's wrong what's your problem and and at at I don't know exactly what you said but I remember something to the effect of I don't wanna do this anymore",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "d4b365fd-9953-4957-9918-d18adee42fb3"
     },
-    "1971.57": {
+    {
       "requestid": "f0bb88da-401f-4bd9-8142-49497a0530a3",
       "confidence": "0.7910417",
       "timestamp": 1971.57,
       "content": "the hardest part was it being in the band was just what I did was when I was like justin humphries the other ballplayers baseball is just the thing you do if your identity I'll be out today was tough I agree but I mourned and I had to start over in the raider",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "db2b3a9f-12ed-428a-bcb1-b62983cb7802"
     },
-    "1988.24": {
+    {
       "requestid": "7094c8c9-413a-4e3b-ae69-64b3a262f64a",
       "confidence": "0.7852515",
       "timestamp": 1988.24,
       "content": "at that point I don't know much about economix I never heard of the sunk cost fallacy by quitting something I put years working too that's what I was fighting against",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "c985e280-c13b-4a2a-880c-475fe4e43b3a"
     },
-    "1999.12": {
+    {
       "requestid": "8867d6e4-146a-414e-9104-f5916706ce93",
       "confidence": "0.6940019",
       "timestamp": 1999.12,
       "content": "one of the most common examples is the vietnam war because it was off instead of leaving is that too much to quit well it's not a good idea to continue to and asked if you feel it's too late in court in action",
-      "speaker": "S215"
+      "speaker": "S215",
+      "uuid": "510e3980-7fa1-4a49-8406-6071c8202756"
     },
-    "2010.31": {
+    {
       "requestid": "987e9c48-8488-430c-a5f7-88a835fb52d1",
       "confidence": "0.780821",
       "timestamp": 2010.31,
       "content": "but how are casisa psychology professor at ohio state university istunka cost is just what it sounds like time or money that you've already spent the sunk cost fallacy is when you tell yourself that you can't quit something because of all that time and money to charlie spent",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "6d01c583-e3b6-40cc-855f-cdf72279dd24"
     },
-    "2028.51": {
+    {
       "requestid": "826d4341-01f6-4fc3-afc9-60845509265c",
       "confidence": "0.7868893",
       "timestamp": 2028.51,
       "content": "we shouldn't fall for this fallacy but we do it all the time or kiss and a colleague learn something that makes falling for the sunk cost fallacy even more embarrassing turns out the children don't fall for it or even animals",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "5c83af86-e1f3-44c8-b0d9-9b7ec490a0f0"
     },
-    "2046.4": {
+    {
       "requestid": "c85d8428-228f-4aa4-a1d1-af1d1635d9d8",
       "confidence": "0.7261093",
       "timestamp": 2046.4,
       "content": "your dog not gonna have any rules like no I know lot of time at that location waiting for me to feed me in when I wanna waste all that time so I'll go back there and let you know I'm very successful in humans have these other things to get in the way",
-      "speaker": "S215"
+      "speaker": "S215",
+      "uuid": "12988688-5cbb-4362-aa57-1bc2335a4892"
     },
-    "2062.31": {
+    {
       "requestid": "05cd86fd-acfe-4d53-85e9-fc6d0fc57bca",
       "confidence": "0.8042254",
       "timestamp": 2062.31,
       "content": "what gets in the way apparently we take it easy we learn growing up to not be wasteful and we overn appliance",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ace2554a-d9f8-47b5-bfcc-3ee3c70381fb"
     },
-    "2070.77": {
+    {
       "requestid": "2d8995b6-95a2-4295-ba5f-d911ba4a6233",
       "confidence": "0.7943094",
       "timestamp": 2070.77,
       "content": "well there's that chance that what we're working on actually can BR us kid can be resuscitated making a distinction and trying to decide whether this is a truly lost cause you're not I recognize is difficult decision sometimes 'cause its not one of these things are it's clearly one or the other",
-      "speaker": "S215"
+      "speaker": "S215",
+      "uuid": "1dea25de-31d0-49d5-aed4-c85226e13ce2"
     },
-    "2087.79": {
+    {
       "requestid": "fb0dfee1-dcec-4bf5-8fc7-2cb6eb6d6066",
       "confidence": "0.6333311",
       "timestamp": 2087.79,
       "content": "but after enough negative feedback I should be more clear then",
-      "speaker": "S215"
+      "speaker": "S215",
+      "uuid": "e8697d3f-7433-4e6f-b3c0-ce0f676e469c"
     },
-    "2091.92": {
+    {
       "requestid": "82d9b8ca-735f-4b71-858e-8c9636355e8e",
       "confidence": "0.6997069",
       "timestamp": 2091.92,
       "content": "I guess with my band I finally had enough and negative feedback to quit I'll tell you the truth some of the feedback",
-      "speaker": "S323"
+      "speaker": "S323",
+      "uuid": "0c30d250-ce96-4381-b522-2ea2aac1d344"
     },
-    "2103.15": {
+    {
       "requestid": "ada59c95-1b17-4df4-94b2-d523b478be92",
       "confidence": "0.1510026",
       "timestamp": 2103.15,
       "content": "stillman",
-      "speaker": "S323"
+      "speaker": "S323",
+      "uuid": "1d2f6217-08ca-47cf-becf-092febb28ea2"
     },
-    "2108.41": {
+    {
       "requestid": "a7c5a9cb-9b7d-4c2c-9d69-fe1fa36aeee4",
       "confidence": "0.5345281",
       "timestamp": 2108.41,
       "content": "part of me still wishes I stuck it out at least finish that project with harrison",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "0d0c7857-e8ed-4ccc-b03d-101fab9dec16"
     },
-    "2112.3": {
+    {
       "requestid": "618856e2-fb22-40b0-8cc7-e52f0f5d446d",
       "confidence": "0.8814428",
       "timestamp": 2112.3,
       "content": "but the bottom line I'm so glad I quit for me it was the right move much is I miss music sometimes the upside of quitting for me mad that I got to lead a life more like the one that I",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "cdee26fa-c7b6-4095-af14-87fc854cb309"
     },
-    "2126.32": {
+    {
       "requestid": "c0b259e4-137f-4a61-8bb2-1db3f6ee5361",
       "confidence": "0.5375994",
       "timestamp": 2126.32,
       "content": "visioned coming up",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "02fc38f9-5878-4c73-8d5b-f5f5a6059e81"
     },
-    "2129.8": {
+    {
       "requestid": "03a468cc-821b-4085-8f45-3cdc0a9e6f11",
       "confidence": "0.6069237",
       "timestamp": 2129.8,
       "content": "ali high end escort from the start of the show",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "a9e7ae7b-9474-47bf-bab7-e6b5d96041a9"
     },
-    "2133.72": {
+    {
       "requestid": "68381995-9220-48d0-a4f4-46b0d6d63ad6",
       "confidence": "0.5685583",
       "timestamp": 2133.72,
       "content": "well she's back in quitting again",
-      "speaker": "S171"
+      "speaker": "S171",
+      "uuid": "cf76c520-098f-4735-9d10-b9e6d359e44c"
     },
-    "2142.44": {
+    {
       "requestid": "7ea25939-f43a-4b5c-9e22-771c1e8954a5",
       "timestamp": 2142.44,
-      "content": ""
+      "content": "",
+      "uuid": "12f3fb40-c295-425e-a3cd-e906c968c866"
     },
-    "2149.27": {
+    {
       "requestid": "19d98f91-997d-41a3-aa82-2413007269e6",
       "confidence": "0.8129783",
       "timestamp": 2149.27,
       "content": "freakonomics radio is supported by legal zoom if you were looking for job options sometimes it's better to start your own business but starting the right way is important natalie galsim can help me learn about the benefits of llcs incorporation at legalzoom.com plus",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "e448c72d-e113-4967-8d6d-309b321c4bf5"
     },
-    "2164.63": {
+    {
       "requestid": "1aba9972-49ff-487f-868a-41f4ae572778",
       "confidence": "0.8427794",
       "timestamp": 2164.63,
       "content": "find out how their network of independent attorneys can provide guidance and legal zoom is not a law firm and for special discount enter freak in the referral box at checkout",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "7f8be580-747a-43ea-8cda-07a67ffbea39"
     },
-    "2175.32": {
+    {
       "requestid": "c9412294-ea58-4ca0-a77b-65f8c67dfd0b",
       "confidence": "0.8622983",
       "timestamp": 2175.32,
       "content": "freakonomics radio is supported by brain tree for anyone searching for the rate payments api check out green trees new b dot OSTK makes it easy to support multiple mobile payment types with one simple integration in 10 minutes",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "364b5e64-ae62-4a8b-bb74-06795c20198f"
     },
-    "2191.1": {
+    {
       "requestid": "5b277f96-b491-4ca4-ba1a-fdecc6af3cc7",
       "confidence": "0.6462247",
       "timestamp": 2191.1,
       "content": "green tree allows acceptance of paypal apple pay bitcoin ben moe all major credit and debit cards 31 snippet of code",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "01d17340-060d-4581-8f28-701351b8e2fd"
     },
-    "2199.88": {
+    {
       "requestid": "8b75568e-f59b-4c8f-91a5-63b4a5494a22",
       "confidence": "0.8463066",
       "timestamp": 2199.88,
       "content": "to learn more and beer for $50,000 in transaction fee free go to brain treepayments.com slash freak",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "908a82e5-b9e1-4ef1-98e2-2a23b4a05d20"
     },
-    "2210.98": {
+    {
       "requestid": "e240478e-87db-4e77-b2fd-6af0a68a3c5d",
       "timestamp": 2210.98,
-      "content": ""
+      "content": "",
+      "uuid": "4a7ace4c-e817-41fc-b0a0-2dd4951217ab"
     },
-    "2215.37": {
+    {
       "requestid": "cce8ee10-2404-47bf-bf25-94bd000a4e85",
       "confidence": "0.7496983",
       "timestamp": 2215.37,
       "content": "from WNYC this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S179"
+      "speaker": "S179",
+      "uuid": "91711353-bc8c-4240-83a6-eaf4b0751120"
     },
-    "2222.65": {
+    {
       "requestid": "4fa04f00-89ef-4e97-8c6a-b7a9a0972436",
       "confidence": "0.7159929",
       "timestamp": 2222.65,
       "content": "umer ali the texas woman who quit computer programming to become a high end escort",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "a55e9bce-b2d4-4324-8f4a-948c3dd79f4e"
     },
-    "2228.63": {
+    {
       "requestid": "ae33e46b-98a4-4ba7-9d5a-bf38c57ac911",
       "confidence": "0.6558692",
       "timestamp": 2228.63,
       "content": "sure you do at her peak jews are in about $300,000 a year",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "d863219f-a180-47d4-95f0-06bf243fd56f"
     },
-    "2234.41": {
+    {
       "requestid": "67b5b9f4-0805-48aa-985a-9aa6e07dbf2f",
       "confidence": "0.7823735",
       "timestamp": 2234.41,
       "content": "no allie are you still working as an escort",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "656b0d06-2f0f-4da4-bfe9-eab86984462a"
     },
-    "2238.27": {
+    {
       "requestid": "a8815e4d-115d-4ed3-b343-775620ea105f",
       "confidence": "0.7033219",
       "timestamp": 2238.27,
       "content": "no I am I decided to get out of the <profanity>ass</profanity> court definis you know it was wonderful to me and I enjoyed it I'm in line money but I don't regret quitting in their hen",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "a6fe346d-997c-4a46-8147-5f541571031e"
     },
-    "2252.69": {
+    {
       "requestid": "021210ff-43b7-45fd-8769-a695b3b5d763",
       "confidence": "0.6693375",
       "timestamp": 2252.69,
       "content": "and anytime the opportunity cost and um when I win in today at corbin if I wasn't dating anybody I just really wanna enjoy life and be free and out with a dead but I met somebody and um and we decided together um",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "700f1b87-7568-4f91-8670-e2cc6734221b"
     },
-    "2272.05": {
+    {
       "requestid": "ae10afd1-5015-4ddb-8e47-0e7c9ee71fe5",
       "confidence": "0.5907335",
       "timestamp": 2272.05,
       "content": "that you know that we want the lifestyle that didn't include prostitution so I'd let it go",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "f256bebe-4c7a-4ac6-8a93-9b08c7a0505d"
     },
-    "2280.29": {
+    {
       "requestid": "46c0c802-d817-40a4-a15d-6bdf4efdabd2",
       "confidence": "0.8240793",
       "timestamp": 2280.29,
       "content": "and besides enjoying life I am traveling and spending time with your companion I'm what else have you been doing",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "c4c9af5a-da2a-44cd-a955-b052bd0dd60b"
     },
-    "2288.56": {
+    {
       "requestid": "5511d7bf-8714-4d31-92cd-034309acec05",
       "confidence": "0.6514758",
       "timestamp": 2288.56,
       "content": "I went to school to study economics um bed um do you know mostly I'm enjoying enjoying life you know",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "574237b2-79dd-467a-817d-28fb6ef647f6"
     },
-    "2298.0": {
+    {
       "requestid": "59462f0d-9d58-460a-bf8f-568a2c6f8b34",
       "confidence": "0.5428222",
       "timestamp": 2298.0,
       "content": "alright so how is your typical prostitute in fordsville she made a lot of money on top of that",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "f6f7604d-df7b-4f23-9825-ac39428d922c"
     },
-    "2305.3": {
+    {
       "requestid": "8441002a-1bab-4aec-b8f5-9cd26c1686a1",
       "confidence": "0.6725171",
       "timestamp": 2305.3,
       "content": "she went back to school to study economics did she really get opportunity cost so much so when time is right",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "30d0744e-ce03-44fd-a349-eb9bc285fa2e"
     },
-    "2313.06": {
+    {
       "requestid": "1483acca-a02e-45be-af87-d84fff8c208f",
       "confidence": "0.8447656",
       "timestamp": 2313.06,
       "content": "she quit being a prostitute",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "a90f7a8e-ce4b-469b-a656-98f11325e1ae"
     },
-    "2315.76": {
+    {
       "requestid": "cfde445a-ec0a-47e7-a986-0d349228e165",
       "confidence": "0.6894185",
       "timestamp": 2315.76,
       "content": "sudhir venkatesh associ ologist to talk to be eating baseball players for if he's also been asking prostitute about quitting but first I asked him about something that he recently quit",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "38bfc2be-ba91-44a6-aeef-eee0694874af"
     },
-    "2328.67": {
+    {
       "requestid": "12e4355f-2fc4-4991-9438-327f2dd98a47",
       "confidence": "0.7812204",
       "timestamp": 2328.67,
       "content": "I quit alr and administrative job that I had at my university for a couple of years and I'm a shot probably should've quit after couple days why'd you quit finally",
-      "speaker": "S360"
+      "speaker": "S360",
+      "uuid": "83b5dd3e-53b4-4c7f-9392-9eedff268504"
     },
-    "2341.59": {
+    {
       "requestid": "d7f24097-a145-4a31-aa6a-b7f7c3282a35",
       "confidence": "0.7756247",
       "timestamp": 2341.59,
       "content": "haha well III think I quit because I realize that down I was negative the job you know luckily I have AA job as a professor in so I'm not in the ranks of the unemployed like so many people who sometimes good job that they don't like um so I'm I'm back to doing research which I love",
-      "speaker": "S360"
+      "speaker": "S360",
+      "uuid": "4d239edc-2201-4a6c-baae-96b5550117fc"
     },
-    "2358.73": {
+    {
       "requestid": "9a07792a-a1d3-4422-862f-1c5ee1d3f314",
       "confidence": "0.7534501",
       "timestamp": 2358.73,
       "content": "you heard me talking to allie who",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "b6697311-f18c-47f1-894a-6a9c8ad0cfcf"
     },
-    "2361.35": {
+    {
       "requestid": "f586d79f-4d02-4501-9152-7e1e81077b8e",
       "confidence": "0.7431372",
       "timestamp": 2361.35,
       "content": "kinda falls into that we're category someone who did very very well and decided to admit catienus orlistat to stop by andersen you talk to some people um sex workers when they maxine I believe who doesn't see that as the way to go to talk me about maxine and her attitude or quitting",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "3bc4df12-d6f2-4f06-b56c-6a3431e74c97"
     },
-    "2380.18": {
+    {
       "requestid": "9eb7c656-587d-4b02-95da-c6c15d55ad18",
       "confidence": "0.7980948",
       "timestamp": 2380.18,
       "content": "I just said we're not using the real names of the other women that we are in a interview dear but I'm maxine is for calling her I'm is a really curious person because she really go she goes against a lot of the stereo types that we have about that woman in sex work um she's been working as a sex worker for 22 years",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "71d0f3d9-92a8-4e1c-828f-505bd2ada08d"
     },
-    "2397.58": {
+    {
       "requestid": "de0f841b-ae3c-409d-9e34-3d7c0d74f712",
       "confidence": "0.7865817",
       "timestamp": 2397.58,
       "content": "she laughs she says you know I don't know if I'm ever gonna quit",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "be4932fd-452f-4066-8213-c33567f56423"
     },
-    "2401.19": {
+    {
       "requestid": "71334668-e36f-4e3b-9e53-f927122f496f",
       "confidence": "0.7079751",
       "timestamp": 2401.19,
       "content": "you know I never think about retiring am",
-      "speaker": "S369"
+      "speaker": "S369",
+      "uuid": "e26fcdd0-1ac7-45bd-9274-37693e2d164d"
     },
-    "2405.03": {
+    {
       "requestid": "33d49e29-3b6c-4b39-b137-88ac18d0c2f9",
       "confidence": "0.7551967",
       "timestamp": 2405.03,
       "content": "I know many workers who are in there a 50s 60s I'm at one in her early 72 still working and in our current society with the um the tearing down of our infrastructure center social security net",
-      "speaker": "S369"
+      "speaker": "S369",
+      "uuid": "44093d5d-4b92-4193-832f-66eb976a41fc"
     },
-    "2423.37": {
+    {
       "requestid": "29121e4b-df0f-4d4a-88fe-b7728998b3e8",
       "confidence": "0.8511776",
       "timestamp": 2423.37,
       "content": "all of us are gonna be working for a long time",
-      "speaker": "S369"
+      "speaker": "S369",
+      "uuid": "011187ac-354e-46a6-a3e2-4819d93c9715"
     },
-    "2427.35": {
+    {
       "requestid": "9dd27b77-fef5-41e2-a463-ff3e9dce3350",
       "confidence": "0.7611079",
       "timestamp": 2427.35,
       "content": "orisue there so there are those prostitutes um could you quit and I just wanna do you know how does that happen how do you eat",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "b9956e4a-b245-414b-bb25-ecb7c9d4bc0c"
     },
-    "2434.2": {
+    {
       "requestid": "271c4187-0f37-440a-bd6c-23ff75b732a3",
       "confidence": "0.8336221",
       "timestamp": 2434.2,
       "content": "do you wanna go from sex work into the legitimate labor market how do you go about france to put together resume right imagine you being a sex worker for year 2 years 3 years 5 years and you have to account for that time you up account for what you've done",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "6a45e8e9-54ea-414c-ba09-35c657ac023c"
     },
-    "2448.07": {
+    {
       "requestid": "f162d6ad-9cb0-4650-8369-1fc9003e6540",
       "confidence": "0.8181803",
       "timestamp": 2448.07,
       "content": "crystal duboise is the cold record the sex workers project at the urban justice center in new york city and actually one of the service is the center provides a crystal help sex workers with is getting the resumes ready",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "178a85a2-f16e-4a39-bbeb-c0ab118f1ede"
     },
-    "2460.95": {
+    {
       "requestid": "29506e3c-f68c-4ebb-a23c-b38a4cb29127",
       "confidence": "0.5344167",
       "timestamp": 2460.95,
       "content": "so it becomes phaeacantha craven ever do we dig deep and I see what have you done somebody might say well I need to wash cars of my yumbo",
-      "speaker": "S378"
+      "speaker": "S378",
+      "uuid": "89d774b0-b3b8-46e1-8e42-b52a1a8410ad"
     },
-    "2470.92": {
+    {
       "requestid": "761fe030-b3fe-460d-8cd9-8c5d48de7233",
       "confidence": "0.5917228",
       "timestamp": 2470.92,
       "content": "we can you sing oh no that was a new job that was the thing that I didn't know they know we know we need to sound like you are you know that it's a job it was a joke you are can you shut up you doing a good job and um 9 times outta 10 the person that I don't lie and I can't do that and have to wait and then look at everybody is even up the resume",
-      "speaker": "S380"
+      "speaker": "S380",
+      "uuid": "e98f135a-7532-466e-a8cc-13bb6f3e5534"
     },
-    "2490.43": {
+    {
       "requestid": "4708e008-df44-4bf0-b9f3-e37023489448",
       "confidence": "0.8014296",
       "timestamp": 2490.43,
       "content": "so dealing with the resume is one thing",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "75a75e91-6e11-42ba-b1e4-e02c2c574f9d"
     },
-    "2494.11": {
+    {
       "requestid": "7160df3f-2227-46ec-af5e-7f6b19c14a67",
       "confidence": "0.7601946",
       "timestamp": 2494.11,
       "content": "but when you leave zaxwerks you also face this issue about taking a huge pay cut they will probably I never make that kind of money again",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "fedafac9-aa49-4c7b-bf2a-564e07a46880"
     },
-    "2504.24": {
+    {
       "requestid": "160478bf-5187-4964-bcd7-4b930efd09f8",
       "confidence": "0.8420886",
       "timestamp": 2504.24,
       "content": "we spoke to someone my own who is a former prostitutes my way now works as a book are dumb as a manager she schedules and screens appointments for other sex workers in tucson arizona",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "0e38d1b8-369e-4b6a-ba99-6a3528254631"
     },
-    "2515.4": {
+    {
       "requestid": "f3b334c0-4bf9-4b65-a009-2ef68c495afe",
       "confidence": "0.7446826",
       "timestamp": 2515.4,
       "content": "why do women find themselves going back to saxer can I don't really want to hear myself included in our even <profanity>fucking</profanity> I don't really wanna talk anymore bye",
-      "speaker": "S386"
+      "speaker": "S386",
+      "uuid": "01bb6a9f-f44f-47e1-bd50-a8be41b0ec13"
     },
-    "2524.89": {
+    {
       "requestid": "77ae31de-4989-4484-895e-2e67a92c24fb",
       "confidence": "0.841335",
       "timestamp": 2524.89,
       "content": "it's very very hard to go from making $300 an hour to making $25 an hour which would be decent paying the real world",
-      "speaker": "S386"
+      "speaker": "S386",
+      "uuid": "80c45543-397b-4c07-a026-c9040c32388c"
     },
-    "2536.98": {
+    {
       "requestid": "20da00ba-7a83-4c50-a680-7deedccb6e3d",
       "confidence": "0.8946602",
       "timestamp": 2536.98,
       "content": "sioux city are you talk to baseball players who were reluctant to quit even though there not gonna",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ace9e9b2-5a5d-4743-9d45-d2d299a60283"
     },
-    "2543.02": {
+    {
       "requestid": "69b7cea3-d19c-4077-972b-88ed71a40060",
       "confidence": "0.8353878",
       "timestamp": 2543.02,
       "content": "make the major leagues you talk to sex workers some of whom are reluctant to quit but some of whom do a really really good job of it um for those who do a good job I talk to me about how they prepare for it",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "fabc7380-79c7-47d4-895f-cc2e242f2531"
     },
-    "2557.63": {
+    {
       "requestid": "ad191345-f390-4bde-b3e9-686cd534ea9b",
       "confidence": "0.8949757",
       "timestamp": 2557.63,
       "content": "and maybe how what day do we could all learn from a live",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "49329c24-6335-401a-a275-0258b76483cf"
     },
-    "2560.82": {
+    {
       "requestid": "8d22cb58-b305-4c6b-ab29-32ddc88520f0",
       "confidence": "0.8354152",
       "timestamp": 2560.82,
       "content": "but the first is that you know you gotta put a band aid off and do it quickly and the ones that are really successful in leaving a trade in which they thought that they were gonna be doing for a long time or that they had not prepared for a poor lot of hours and you know when I make a decision quickly they do they do pretty well",
-      "speaker": "S392"
+      "speaker": "S392",
+      "uuid": "929bb320-bce2-4d11-80da-253cc0d9ed94"
     },
-    "2579.6": {
+    {
       "requestid": "79503649-f016-4c76-ad09-da4bca27c89b",
       "confidence": "0.7884806",
       "timestamp": 2579.6,
       "content": "I think this idea of not looking back I know it is it physically shaddah expression but that's how many the people that are able to move on I'm just go forward in the next time II take a job I'm gonna I'm gonna see if at the second day ha I shouldn't be figuring out how to get the heck out of there",
-      "speaker": "S392"
+      "speaker": "S392",
+      "uuid": "e9232952-3ecc-4e78-961c-fa4a3049ad93"
     },
-    "2598.55": {
+    {
       "requestid": "c1502545-16c0-415e-b64e-552980e26774",
       "confidence": "0.7355998",
       "timestamp": 2598.55,
       "content": "I'm sure some of you if you listen to people talk about quitting prostitution your mind jumps the timeline and you go back",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "640417d5-160b-40e5-a611-59650bc11b9e"
     },
-    "2608.2": {
+    {
       "requestid": "f439f097-7712-4519-b340-842dc1038ec2",
       "confidence": "0.6277549",
       "timestamp": 2608.2,
       "content": "and stop these women from becoming prostitutes in the 1st place like watching horror movie lucy and then open the door please women did open that door there are however some places",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "9d02fb48-8760-4f56-809b-4696e30be56d"
     },
-    "2622.3": {
+    {
       "requestid": "00d654f1-013a-4e91-a15d-eda9e8006c6b",
       "confidence": "0.7946292",
       "timestamp": 2622.3,
       "content": "did try to get people to quit before they've even started",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "d80b1808-c34c-48ac-be9a-9bca4ffa6fd0"
     },
-    "2626.04": {
+    {
       "requestid": "05fb0c20-f02d-4d08-af75-712e761918f2",
       "confidence": "0.755699",
       "timestamp": 2626.04,
       "content": "we sent stacy bannick smith reporter for marketplace to get details",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "c4d27c18-2526-4dce-8985-61daa825a6e8"
     },
-    "2630.08": {
+    {
       "requestid": "4b8c03c2-82a8-4f25-bece-90a9310ae65c",
       "confidence": "0.9109113",
       "timestamp": 2630.08,
       "content": "how much do you like your job if somebody offered you money to quit how much would it take for you to do it",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "39d89de5-0660-4cb4-8853-6bc29964c88f"
     },
-    "2636.98": {
+    {
       "requestid": "0016def2-1f95-4027-8fe6-4e32b888a7c9",
       "confidence": "0.5590785",
       "timestamp": 2636.98,
       "content": "this job is worth more than a million definitely should I love you are very hard to get in bed when shanes just come with the wizard of oz on my machine",
-      "speaker": "S404"
+      "speaker": "S404",
+      "uuid": "d88c32da-58fc-4c78-982b-73b2e150f0b1"
     },
-    "2651.47": {
+    {
       "requestid": "bd4740c2-3552-4b6e-a036-dcd9e069e38d",
       "confidence": "0.7402604",
       "timestamp": 2651.47,
       "content": "no that's pretty <profanity>dumb ass</profanity> and would you believe she's talking about a job that pays just a few bucks above minimum wage",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "491b2905-2de0-4c3e-a2e4-e283f9334c33"
     },
-    "2659.62": {
+    {
       "requestid": "db1a5004-c151-40e4-9845-1b5400315cd4",
       "confidence": "0.7798532",
       "timestamp": 2659.62,
       "content": "the job is zappos in online shoe store the amazon paid almost a billion dollar store in 2009",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "cf2648d7-6de8-40eb-b356-77fb0425085d"
     },
-    "2665.98": {
+    {
       "requestid": "43ee5c53-42a3-459d-94ee-a87346248be7",
       "confidence": "0.8122182",
       "timestamp": 2665.98,
       "content": "employee training session in las vegas everybody talks like that most of the 35 people in my session were headed to the company's call center where they learn about $11 an hour dealing with customer questions and complaints",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "38067c7c-5b27-4219-bcc3-9e970ae34a8e"
     },
-    "2679.9": {
+    {
       "requestid": "5f0b4438-22ed-483b-b4b8-c332a3736d62",
       "confidence": "0.5853656",
       "timestamp": 2679.9,
       "content": "but as it rains these new hires zappos also throw some curveballs here's marcela gutierrez betweener with the office memes",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "d20cee0f-5c92-4ce4-951e-3f7122e6c3f1"
     },
-    "2688.72": {
+    {
       "requestid": "6cefc57a-6ad1-4a51-9e2c-29685e7a2d3f",
       "confidence": "0.7322231",
       "timestamp": 2688.72,
       "content": "that we want this to be more than a job for you bye",
-      "speaker": "S412"
+      "speaker": "S412",
+      "uuid": "bef99217-69a6-412b-9fd9-ecf47523b703"
     },
-    "2692.37": {
+    {
       "requestid": "495c39ec-c83c-4723-a879-23a5ed15d3bb",
       "confidence": "0.6973831",
       "timestamp": 2692.37,
       "content": "who be a career we wanted to be a calling for everybody I'm here to offer you $3000 if you decide that this is not the right place for you",
-      "speaker": "S412"
+      "speaker": "S412",
+      "uuid": "6ffb7565-6a3b-4260-b7a2-203247b87bf8"
     },
-    "2703.38": {
+    {
       "requestid": "f106c1ad-8cbf-4fed-b6e4-ff5812a330ef",
       "confidence": "0.7590636",
       "timestamp": 2703.38,
       "content": "it's not around apples as the offer during training when is new employees are already been paid zappos offers $3000 to any new hire who wants to walk away from the job it's been going on for a few years and it's not impressed but think we don't know what is the company thinking",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "88cb4ba2-c6ce-4a2c-829f-0caa2416e99e"
     },
-    "2722.52": {
+    {
       "requestid": "edf5fe34-5f13-43be-9f40-44f267a5586e",
       "confidence": "0.7556843",
       "timestamp": 2722.52,
       "content": "I put back question to co ceo tony hsieh who masterminded the offer",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "dd4985b1-8e72-46a2-a3fe-b62f6071594d"
     },
-    "2726.98": {
+    {
       "requestid": "feec36f4-10fd-44db-bd66-1e720dee37c0",
       "confidence": "0.7630047",
       "timestamp": 2726.98,
       "content": "it's really pudding that I'm playing in the position of us to chat more about money or do you care more about this culture in the company and see if they care more about the easy money then we probably aren't the right fit for them",
-      "speaker": "S418"
+      "speaker": "S418",
+      "uuid": "41759806-7c0b-438a-a413-288fbaa30535"
     },
-    "2743.28": {
+    {
       "requestid": "bd537ef2-0aba-4074-8cb2-770529a1da1a",
       "confidence": "0.7068665",
       "timestamp": 2743.28,
       "content": "zappos talks about its culture a lot and she says back culture is enough to keep people from taking an offer anywhere out or zapas offer to leave and when I say culture I am not just talking about freezer in the break room and casual fridays asopus covered on the company tour with dappa supervisor lauren",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "a539bc9a-e9c6-4148-a826-6405511fb8e0"
     },
-    "2763.13": {
+    {
       "requestid": "a8bd42b2-2ddb-42b3-88a1-bf0fe41a4e6e",
       "confidence": "0.6737202",
       "timestamp": 2763.13,
       "content": "so we finish the main building we can I officially kick off are real to work",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "fc8b3459-9d09-41b1-8eba-27ba1e282988"
     },
-    "2770.49": {
+    {
       "requestid": "7e2f2525-7fa1-47b2-b151-a22bca368f1a",
       "confidence": "0.6580392",
       "timestamp": 2770.49,
       "content": "everybody's wearing sneakers and t shirts bears sign up sheets for picnics in poker group conference rooms are decorated in outer space and under the sea theme",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "13954f8b-a345-4f79-9595-8346deb15e73"
     },
-    "2781.97": {
+    {
       "requestid": "4cd70f31-92a3-4c89-b909-615c15b7477b",
       "confidence": "0.744192",
       "timestamp": 2781.97,
       "content": "it looks like like to convergence is like 7 different holiday is it definitely does",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "4ffe1bee-44de-4946-9bca-52e1de26b28c"
     },
-    "2788.4": {
+    {
       "requestid": "153160ca-5b06-4920-8507-be5bd2a0e912",
       "confidence": "0.6312615",
       "timestamp": 2788.4,
       "content": "you'll see you at everybody's desk is definitely different ethnic naxxar apataki streymur since it's pretty crazy",
-      "speaker": "S428"
+      "speaker": "S428",
+      "uuid": "e462835c-f867-4162-807b-b59c9a413a1a"
     },
-    "2796.3": {
+    {
       "requestid": "a8f1cccf-7d2b-4127-9bf8-d57e8947d064",
       "confidence": "0.8306475",
       "timestamp": 2796.3,
       "content": "people are so excited to join the crazy they turn down the free money out of nearly 2000 people zappos the strain the company said only about 30 have ever taken the offer christina gomez is one of those people remember her",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "c42da170-449e-4fac-91f2-517454d8439e"
     },
-    "2810.85": {
+    {
       "requestid": "9e2293d7-1a87-46ac-8167-3cbfac04eb22",
       "confidence": "0.5660873",
       "timestamp": 2810.85,
       "content": "come with the wizard of odds on them know siri that's why I feel like",
-      "speaker": "S404"
+      "speaker": "S404",
+      "uuid": "124826b1-08fd-4bfd-91c4-f5385726c55d"
     },
-    "2814.44": {
+    {
       "requestid": "f4b2e94c-438f-4f24-a0e2-59bbd4f249cc",
       "confidence": "0.7469933",
       "timestamp": 2814.44,
       "content": "turns out a week after I talk with her gomez to be off work",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "765468d8-f8e5-4fab-9bb6-51047dfe117c"
     },
-    "2818.83": {
+    {
       "requestid": "cb7693d9-ee24-46fd-8cdc-a5932365b817",
       "confidence": "0.544208",
       "timestamp": 2818.83,
       "content": "cold rats <profanity>ass</profanity> what put the card it was very cool like",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "e85ab356-9a79-4221-9d81-4350fed2e80e"
     },
-    "2822.95": {
+    {
       "requestid": "3852df39-d7d3-4b2f-a886-de4a23c0095a",
       "confidence": "0.354357",
       "timestamp": 2822.95,
       "content": "you know it wasn't even period and now I should get a couple samples and then I say",
-      "speaker": "S433"
+      "speaker": "S433",
+      "uuid": "71285e4e-d0d6-4999-9712-75b1785646f1"
     },
-    "2829.86": {
+    {
       "requestid": "5dcde264-e66c-4709-a09e-e3613118f8a0",
       "confidence": "0.6769609",
       "timestamp": 2829.86,
       "content": "hey baby I think that I don't like about it",
-      "speaker": "S434"
+      "speaker": "S434",
+      "uuid": "4358875c-554c-44b7-99cd-d5c3f008d34a"
     },
-    "2834.02": {
+    {
       "requestid": "f08dfdeb-6d62-4263-89f5-7218179d98e9",
       "confidence": "0.7463909",
       "timestamp": 2834.02,
       "content": "we broke up gomez does the offer wasn't the main reason she quit she does the schedule zapalski per didn't work with her child care and another job she has apple",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "344a24e4-385c-41f9-91d0-550023dd4152"
     },
-    "2843.85": {
+    {
       "requestid": "03146967-df6e-4c7a-a79c-2f9a194676c6",
       "confidence": "0.8088542",
       "timestamp": 2843.85,
       "content": "but how big can send it is the offer $3000 equals 2 months of busting your hump and a call center in fact almost no one takes it just doesn't make sense",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "6bd9eb28-0300-4e4f-ab5c-89373c31b367"
     },
-    "2854.85": {
+    {
       "requestid": "453409de-5085-49e3-a50d-442e3e5ab01d",
       "confidence": "0.731447",
       "timestamp": 2854.85,
       "content": "it does however make sense to dan arielli behavioral economist aduku studies decision making he says that easy money is actually not so easy",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "3f25724e-fb05-4ac8-a26a-7fac39f915ca"
     },
-    "2864.82": {
+    {
       "requestid": "f26ed801-1144-41e7-82d8-4ce5bc24ce31",
       "confidence": "0.7694617",
       "timestamp": 2864.82,
       "content": "the reason that is a trick works is the people spend 10 days to become a part of the family that",
-      "speaker": "S440"
+      "speaker": "S440",
+      "uuid": "528cd5c7-e14c-4b81-992f-e9c729673f6e"
     },
-    "2871.26": {
+    {
       "requestid": "329a10ff-ceaf-400d-aa04-d851fe580c26",
       "confidence": "0.791898",
       "timestamp": 2871.26,
       "content": "who sings all about making train you feel like family there happy hours in scavenger hunts in team project and after all that and before you actually started working you get the offer it a limited time thing and when it expires that's when it's real power kicks in so sorry allie",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "93e8de68-5ae7-439b-b1b6-6a5af20985e0"
     },
-    "2887.94": {
+    {
       "requestid": "214a84d9-0c4e-48be-aacd-37944b211e15",
       "confidence": "0.7555614",
       "timestamp": 2887.94,
       "content": "this time ago call me if this is this is it if you act in a certain way over time you going to be overly justify your behavior to the next morning after you rejected the $3000 you going to wake up at 60 my goodness I really must love this company if I get to decimo",
-      "speaker": "S440"
+      "speaker": "S440",
+      "uuid": "9005ff9a-4c02-4e2a-859a-92c72eb81ae9"
     },
-    "2903.8": {
+    {
       "requestid": "fdea1ff2-81a3-4f04-a06a-9d1a532fd7cd",
       "confidence": "0.8393295",
       "timestamp": 2903.8,
       "content": "translation we like suffering for things we love we like it so much that if we suffer for something we will actually decide we must love it",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "b8e61c3f-5512-40a4-a838-e423354cef38"
     },
-    "2913.64": {
+    {
       "requestid": "8c8cc6b8-0100-4e76-b7d3-63deb07755bf",
       "confidence": "0.6480591",
       "timestamp": 2913.64,
       "content": "releases fraternities and sororities work like this when they make rushers in the rain around make it across campus",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "410bcdba-c6f9-46b4-b91d-04bf628ea62c"
     },
-    "2920.0": {
+    {
       "requestid": "0fcb3127-ce6a-4651-a377-814095cade41",
       "confidence": "0.7697955",
       "timestamp": 2920.0,
       "content": "turning in dignity into allegiance military sports teams religious cults old is this tactic to combining our intense desire to belong with our intense desire to justify your actions the result a group of employees he won't even quit if you pay them",
-      "speaker": "S403"
+      "speaker": "S403",
+      "uuid": "a0727836-088b-41ff-938f-647fadafca63"
     },
-    "2939.44": {
+    {
       "requestid": "f42782ea-b8a6-4d09-8001-dba8754c2564",
       "confidence": "0.8611887",
       "timestamp": 2939.44,
       "content": "marketplace reporter stacy bannick smith",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "42ad6faf-beee-4d9c-b263-35f75a8c7c7c"
     },
-    "2942.75": {
+    {
       "requestid": "8b2d374f-39ca-4175-8722-4968e787efa1",
       "confidence": "0.7752026",
       "timestamp": 2942.75,
       "content": "zappos does sound a bit like a religion in quitting religion never simple my parents were a pair of brooklyn born juzu before they met each other both converted to roman catholicism it was in the mid 1940s my parents are in their twenties do you can imagine",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "74bc9f12-c41f-4be8-bfcd-5cf9bc57fcbf"
     },
-    "2962.13": {
+    {
       "requestid": "34eed668-495f-4145-a36b-2b2379f38b74",
       "confidence": "0.7868136",
       "timestamp": 2962.13,
       "content": "this conversion didn't go over so well with their families my dad's father declared him dead said she would never say",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "1118144b-bfad-4ade-90c9-ed70d939b802"
     },
-    "2969.77": {
+    {
       "requestid": "be70ae1c-af02-4fb6-9870-32c1d726b8b2",
       "confidence": "0.6937582",
       "timestamp": 2969.77,
       "content": "my father can do I grew up in a very devout catholic family be safe and youngest kid and then when I was in my twenties I quit kafala system went back to judy's",
-      "speaker": "S456"
+      "speaker": "S456",
+      "uuid": "1a3df1a8-f55c-4cf2-909b-61f861432dd7"
     },
-    "2984.21": {
+    {
       "requestid": "ba321a7c-3406-4274-b9cb-f507ca471732",
       "confidence": "0.8027276",
       "timestamp": 2984.21,
       "content": "my mother took it hard but not nearly as hard as my dad's father took it when he converted anyway I've always been pretty interested in religious quits",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "0b069454-f9dc-4bf0-9ee2-abfbb2dcf252"
     },
-    "2996.18": {
+    {
       "requestid": "6b74f19f-44bb-45e1-a886-fa0e011c0903",
       "confidence": "0.6819496",
       "timestamp": 2996.18,
       "content": "my name is salama miller for long I am the author of a new memoir called why I left the amish",
-      "speaker": "S461"
+      "speaker": "S461",
+      "uuid": "e5fe4e0a-75d9-40f4-82c1-6a51d734aa0b"
     },
-    "3003.51": {
+    {
       "requestid": "2a041233-d108-41fc-818f-3f60c5781fba",
       "confidence": "0.7199294",
       "timestamp": 3003.51,
       "content": "I'm emmagan ritgen I go to college and towns state university in stephenville texas in right now I'm also working on finishing up my book getting it published in what is your book called him a runaway amish girl",
-      "speaker": "S462"
+      "speaker": "S462",
+      "uuid": "8d71bdf9-5374-4422-90e5-ad13ecf82ff3"
     },
-    "3019.08": {
+    {
       "requestid": "1a17029f-6f2f-46a1-8d01-4893ac70b703",
       "confidence": "0.7565677",
       "timestamp": 3019.08,
       "content": "I wanted to speak to emma gingrich in soloma for long because I'm quitting religion like the amish seems especially traumatic with the religion family and community all mixed up",
-      "speaker": "S456"
+      "speaker": "S456",
+      "uuid": "0054c7f9-d773-441b-a439-66994469facb"
     },
-    "3032.42": {
+    {
       "requestid": "fb427caf-ab94-47ee-a3c2-efa944b6706c",
       "confidence": "0.7464687",
       "timestamp": 3032.42,
       "content": "when you look back at the decision you made which is the big want to quit your lou religious lifestyle and religious community on did talk to me about odd the price that you feel you paid for the benefit that you gain",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "d9939cc6-b784-436a-a2b3-47c8dd0f681c"
     },
-    "3050.17": {
+    {
       "requestid": "bdabf657-beb8-41bd-87fd-8b4c700caf30",
       "confidence": "0.7816871",
       "timestamp": 3050.17,
       "content": "when I pick up cos I think of the things I miss and definitely the community atmosphere of knowing your place",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "87370be8-c54c-413a-a254-6d3d6e95ee87"
     },
-    "3058.52": {
+    {
       "requestid": "ab4806bc-88b0-4558-a70d-178ac8841a42",
       "confidence": "0.6755545",
       "timestamp": 3058.52,
       "content": "in the community is part of the cost you know the church gatherings wear spacings up with a dm thomas chance and feeling like there's a",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "b6cd5e7b-cf54-4618-a2d9-9bac96eccd11"
     },
-    "3071.52": {
+    {
       "requestid": "9ae54566-2981-420f-8590-d7acc3cf6e33",
       "confidence": "0.5079248",
       "timestamp": 3071.52,
       "content": "send of legacy almost in that",
-      "speaker": "S473"
+      "speaker": "S473",
+      "uuid": "28904912-f031-412c-8048-78e601bfc365"
     },
-    "3074.64": {
+    {
       "requestid": "c8f8a5ee-404f-4229-bfdd-9d49b22ede83",
       "timestamp": 3074.64,
-      "content": ""
+      "content": "",
+      "uuid": "b4ce998e-6d8f-41a6-8547-df6a1c494cab"
     },
-    "3078.31": {
+    {
       "requestid": "c88247c5-fe46-4dc7-a760-d4e205c977ec",
       "timestamp": 3078.31,
-      "content": ""
+      "content": "",
+      "uuid": "a68ddb13-cb50-4a7f-be5b-f5dadfe51127"
     },
-    "3089.32": {
+    {
       "requestid": "5e2713ff-cba9-4b78-a547-ad1942c3c803",
       "confidence": "0.6513847",
       "timestamp": 3089.32,
       "content": "but the upside of video serious been so many times so many moments in my life when I knew that pudding the amish with the right thing to do",
-      "speaker": "S473"
+      "speaker": "S473",
+      "uuid": "4e7f68dd-f524-432d-bffb-10aa598eb798"
     },
-    "3105.45": {
+    {
       "requestid": "9c6f45f5-b189-4f02-b08d-6c2c18330f6b",
       "confidence": "0.7988508",
       "timestamp": 3105.45,
       "content": "I'm one example was on May 29th of 1982 when I walked into the church sanctuary at church of christ church presbyterian on the redstone campus",
-      "speaker": "S461"
+      "speaker": "S461",
+      "uuid": "24540b1d-71e9-49e2-bb64-eeb76f5b62e1"
     },
-    "3120.24": {
+    {
       "requestid": "f6d35b52-8c85-4a50-a480-51fc7b4eebd2",
       "confidence": "0.7680516",
       "timestamp": 3120.24,
       "content": "my husband to be standing there in a banana blue tuxedo",
-      "speaker": "S461"
+      "speaker": "S461",
+      "uuid": "a435372d-5a41-4d84-9bb6-fa015ad48af9"
     },
-    "3126.23": {
+    {
       "requestid": "ec171bcf-1dea-4942-9315-0a5050c5f761",
       "confidence": "0.8631542",
       "timestamp": 3126.23,
       "content": "for me to come up to the alter",
-      "speaker": "S461"
+      "speaker": "S461",
+      "uuid": "fd1eccc9-96e2-4411-85a2-d9613b4e1b9b"
     },
-    "3129.16": {
+    {
       "requestid": "a45d643b-c6b6-418b-aec4-2c830e27678a",
       "confidence": "0.7408857",
       "timestamp": 3129.16,
       "content": "that moment encapsulated does how",
-      "speaker": "S461"
+      "speaker": "S461",
+      "uuid": "f16901a3-5718-49d8-9acc-ec56a65a7076"
     },
-    "3132.94": {
+    {
       "requestid": "d4c23fc2-a5c1-48bf-9d5a-52d40c56ee68",
       "confidence": "0.944866",
       "timestamp": 3132.94,
       "content": "I was doing the right thing that was literally the happiest day of my life",
-      "speaker": "S461"
+      "speaker": "S461",
+      "uuid": "581caafa-361e-468c-a6c7-e2d8fa2324e0"
     },
-    "3138.24": {
+    {
       "requestid": "1495c78d-ad11-4bf2-9098-ef8e7dd1221e",
       "confidence": "0.8250227",
       "timestamp": 3138.24,
       "content": "and so am I if you could just described as briefly as as you want some kind of your childhood will you know your family growing up and then getting to the point where you decided to leave and y and how that happened",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f912df44-bfdb-4637-b559-3f46791ef1d1"
     },
-    "3151.04": {
+    {
       "requestid": "a94cc9f0-d461-415d-8653-0ecb41a5781c",
       "confidence": "0.8266386",
       "timestamp": 3151.04,
       "content": "my family used to make baskets and we would take them every friday and then sell them at a little town close to the busy highway and sometimes it would be me and my sister",
-      "speaker": "S462"
+      "speaker": "S462",
+      "uuid": "af6c2d75-6dcf-420f-94a3-566659692ccc"
     },
-    "3164.31": {
+    {
       "requestid": "da10c50a-5e18-4897-9493-d5a1415587ca",
       "confidence": "0.777631",
       "timestamp": 3164.31,
       "content": "we did a lot of things that we weren't supposed to do but all that was around 15 with the time when I started thinking about how it would be a valid lease on mission now I'm sitting there telling baskets you see a lot of people",
-      "speaker": "S462"
+      "speaker": "S462",
+      "uuid": "c55a8c48-b2ee-414f-8e7b-78bf51cd7e64"
     },
-    "3179.45": {
+    {
       "requestid": "b75bc7dd-9480-4df1-ac39-aac0d80a4bb7",
       "confidence": "0.7394387",
       "timestamp": 3179.45,
       "content": "coming in will use to look at cars and look at all the different colors in a try and pick which one we want everyone I'm leaving home is",
-      "speaker": "S462"
+      "speaker": "S462",
+      "uuid": "9e6b6f8d-9f35-465e-b85a-caeb24b55c2c"
     },
-    "3190.21": {
+    {
       "requestid": "917a6061-3854-4917-ad58-bd7811e1f1b3",
       "confidence": "0.821376",
       "timestamp": 3190.21,
       "content": "did it feel like you became a different person are you the same person who just needed a change of scenery and I guess what I really wanna know is why what was the cost to u of quitting the amish what are the downsides in water the up side",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "8867d96f-e682-4645-86b0-9f132c442323"
     },
-    "3207.29": {
+    {
       "requestid": "62fa3116-cebf-4077-b384-2f559a7a5f74",
       "confidence": "0.7632471",
       "timestamp": 3207.29,
       "content": "well and downsides would be leaving the family in",
-      "speaker": "S462"
+      "speaker": "S462",
+      "uuid": "19b8f3f2-8229-46de-8e11-807673dea384"
     },
-    "3210.85": {
+    {
       "requestid": "ee59f088-5d22-4ee5-a8b2-bce09e4d7d61",
       "confidence": "0.3709019",
       "timestamp": 3210.85,
       "content": "knowing that mean",
-      "speaker": "S499"
+      "speaker": "S499",
+      "uuid": "3a120c28-2b4b-4d90-931e-0103a8bd6983"
     },
-    "3213.79": {
+    {
       "requestid": "144b6303-f061-4073-b2e1-ddaefd1e46a7",
       "confidence": "0.7329042",
       "timestamp": 3213.79,
       "content": "nothing's gonna be the same again when you go back home to visit in the upside is yes you are a different person you become to me abby king somebody else which was good for me",
-      "speaker": "S462"
+      "speaker": "S462",
+      "uuid": "047ea4a9-d153-43d6-8ab2-5f3593249f4f"
     },
-    "3227.36": {
+    {
       "requestid": "e03a6feb-cf62-4f54-8531-813e2b4492f5",
       "confidence": "0.851783",
       "timestamp": 3227.36,
       "content": "how old are you now 23 and I do you have regrets about leaving now o not at all",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "60737b69-042e-45f7-ada6-e644014645d3"
     },
-    "3234.87": {
+    {
       "requestid": "09a8c7d3-b4ef-4395-849d-a4315127d2de",
       "confidence": "0.7743889",
       "timestamp": 3234.87,
       "content": "saloma furlong is in the 50s channel is in massachusetts",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "419d986a-f0a2-4570-a75d-8096d47478db"
     },
-    "3239.37": {
+    {
       "requestid": "d686c89d-b88a-4db0-a1d7-47fe41f8215c",
       "confidence": "0.7983543",
       "timestamp": 3239.37,
       "content": "not long ago she did an informal survey of the amish community where she grew up in geauga county ohio I'm about 2500 households she estimated sum 170 individuals left the community so quitting is in common but it's not like it never happened either",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "19bc1dcf-4ce3-4b8f-9023-2e5a6ad3caec"
     },
-    "3257.84": {
+    {
       "requestid": "8319afe8-dedf-453d-bdcc-c35e102f6853",
       "confidence": "0.7934412",
       "timestamp": 3257.84,
       "content": "fremont says that her father with mentally ill in violence in that ultimately it would let her to leave",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "3232346e-53aa-4fa8-8050-a45ea35b9a1a"
     },
-    "3265.13": {
+    {
       "requestid": "5e1aca8f-68fa-4874-ab46-fd90bcb439c7",
       "confidence": "0.8072763",
       "timestamp": 3265.13,
       "content": "my life was so unbearable that the fear of the unknown with greater than my fear of the unknown so for me it's it's it's a matter of are you happy the way you are and if not then quit what you doing it's that simple for me",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "acc427ab-f30d-4329-b4c2-c438105063ce"
     },
-    "3284.43": {
+    {
       "requestid": "f9547209-335e-4ada-92d4-d56352242786",
       "confidence": "0.8167374",
       "timestamp": 3284.43,
       "content": "you make it sound so easy I'm wondering if you quit other things in life besides yamas",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "45829c26-d9d6-4f9a-a344-b0a9c218347a"
     },
-    "3288.27": {
+    {
       "requestid": "e0fd03b1-4723-4180-80fc-2a2ef44f868b",
       "confidence": "0.838114",
       "timestamp": 3288.27,
       "content": "oh yes do you want me to get started yes please I'm at quick jobs that were not satisfactory I quit on my bakery business when I realized after 10 years of",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "a44dc046-1c1b-414c-8dc0-4e25c3820f6c"
     },
-    "3300.81": {
+    {
       "requestid": "a3092cdc-bf84-4008-a356-8aac886e82ad",
       "confidence": "0.7612022",
       "timestamp": 3300.81,
       "content": "punching bread dough that it was never gonna talk back to me and it was not in it was in a lecture alia desert um let's see what else have I quit I'm a quitter church community one time so yes I'm a serial quitter and",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "145aa3db-8dbd-4ddc-ab51-d9c78cb19e4e"
     },
-    "3316.44": {
+    {
       "requestid": "f2c5c903-1721-41f6-b79a-fcff990c23af",
       "confidence": "0.8241181",
       "timestamp": 3316.44,
       "content": "its work for me what can I say",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "97fa8052-67d4-4bf6-8c6b-11c88a8764ee"
     },
-    "3318.96": {
+    {
       "requestid": "f58442e5-e158-40fb-ab48-7ef9753c3ccd",
       "confidence": "0.6485545",
       "timestamp": 3318.96,
       "content": "you're a gold medal quitar una to the stereo clare champion subil me up in retrospect were all of these quits good",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "8c536cfd-e219-44ea-b4a9-483dfbfba777"
     },
-    "3326.85": {
+    {
       "requestid": "4c183b44-df24-4ea7-b1d2-9886aa0e6d1e",
       "confidence": "0.8116345",
       "timestamp": 3326.85,
       "content": "yes they were I said so you really need to be like winning coach dot you need you need",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "f055805b-73a5-4a2a-9097-c4d777bf840e"
     },
-    "3332.45": {
+    {
       "requestid": "68499fd2-0cee-4264-a509-a55772c9bd48",
       "confidence": "0.732311",
       "timestamp": 3332.45,
       "content": "travel around the world and tell people look at the situation why are you still in this why you stuck in this do you think that some the future calling years wraps",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "faec85e7-031b-4bee-bd75-46917ae1086e"
     },
-    "3341.24": {
+    {
       "requestid": "a154669a-54ee-4d84-a049-80dffbc379c9",
       "confidence": "0.7768829",
       "timestamp": 3341.24,
       "content": "I'm somebody just asked me that the other day about you know being a counselor and I said no it's not something I wanna do it and then he just quit anyway",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "f881b16b-7f10-444f-b26c-24f3ba70deac"
     },
-    "3350.36": {
+    {
       "requestid": "86adc90a-3140-47db-aad5-43b0bc83485d",
       "confidence": "0.7093906",
       "timestamp": 3350.36,
       "content": "I think you might be right",
-      "speaker": "S523"
+      "speaker": "S523",
+      "uuid": "f273b0cc-907c-41c6-950f-4b7161f1af93"
     },
-    "3358.86": {
+    {
       "requestid": "a788c7c4-fa4b-43d5-af6f-595406e1ac34",
       "confidence": "0.9045104",
       "timestamp": 3358.86,
       "content": "a quitter never wins in a winner never quits in 1930",
-      "speaker": "S15"
+      "speaker": "S15",
+      "uuid": "00fb7638-0085-464d-9280-e2c1030898cb"
     },
-    "3363.27": {
+    {
       "requestid": "64d581de-c869-423e-afa1-b6dfb02f8828",
       "confidence": "0.7408119",
       "timestamp": 3363.27,
       "content": "7 a self help and name napoleon hill included that phrase is very popular book think and grow rich hill with inspired in part by the rags to riches industrialist andrew carnegie do you say is the phrase is often attributed to vince lombardi the legendarily top football coach",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "3896e97e-fa2c-4f16-bdbd-15343230c46f"
     },
-    "3383.09": {
+    {
       "requestid": "be1bfe15-9d44-4405-bad0-fde6eaf8c642",
       "confidence": "0.6983377",
       "timestamp": 3383.09,
       "content": "why do we need anything make sense tell me of course it takes tremendous amount of time and effort in black of a more scientific word stick to it of ness to make any real progress in the world but",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "0a648f7c-1570-4bde-890d-d8a2925cd7ff"
     },
-    "3398.33": {
+    {
       "requestid": "bbff6567-2752-414f-adfb-f2b039ade281",
       "confidence": "0.7265345",
       "timestamp": 3398.33,
       "content": "time and effort in even stick to it ness are not an infinite supply",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "d2c2e29a-68d3-41f5-b636-ec7215d3121e"
     },
-    "3405.31": {
+    {
       "requestid": "c75c2e7f-7c3d-4993-913f-1aaaecfe0acc",
       "confidence": "0.8437675",
       "timestamp": 3405.31,
       "content": "remember the opportunity cost every hour",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "c8384166-ae09-446b-8617-f608a7d235a6"
     },
-    "3408.48": {
+    {
       "requestid": "3b85c0a9-bc1a-43b5-a102-8d974c96dbe5",
       "confidence": "0.6049743",
       "timestamp": 3408.48,
       "content": "every ounce of effort you spend here cannot be sent there so let me counter napoleon hill's phrase with another one certainly not as well known something at stella adler the great",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "9a161ed3-30a8-4681-9167-806b86b4f65c"
     },
-    "3422.01": {
+    {
       "requestid": "835eea97-2b5c-4681-a7dd-19c0d0b1b5e1",
       "confidence": "0.5575498",
       "timestamp": 3422.01,
       "content": "acting coaches say your choice is your talent for choosing the right path and write project the great job or",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "67188c86-d74c-4b2e-98aa-0d54565e977d"
     },
-    "3431.85": {
+    {
       "requestid": "f6abe2b1-22c6-4e55-af2c-e4b289d6a009",
       "confidence": "0.6257311",
       "timestamp": 3431.85,
       "content": "passion or religion that's where is the treasure lies between the value lies so if you realize you made a wrong choice even if you've already sent way too much cost into it when I just one word to say do you my friend",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "7378d685-7996-4be6-979f-a00740fa00da"
     },
-    "3447.01": {
+    {
       "requestid": "1705b9c2-0efd-4a7e-8417-d104b1fb1dff",
       "timestamp": 3447.01,
-      "content": ""
+      "content": "",
+      "uuid": "c135aa2e-d7ad-4f5d-a81f-929668bfee94"
     },
-    "3449.29": {
+    {
       "requestid": "ad63d0ac-e76e-447c-938c-33589634f04d",
       "confidence": "0.8070101",
       "timestamp": 3449.29,
       "content": "quit",
-      "speaker": "S541"
+      "speaker": "S541",
+      "uuid": "836930af-e519-41ee-ab7d-30bf61c4344f"
     },
-    "3451.49": {
+    {
       "requestid": "4adb2d66-a975-47ff-b86c-8277dcdbd7ba",
       "confidence": "0.2280179",
       "timestamp": 3451.49,
       "content": "uc lamjana",
-      "speaker": "S542"
+      "speaker": "S542",
+      "uuid": "4bce284f-ea3c-484d-aed7-c91d50b72955"
     },
-    "3456.01": {
+    {
       "requestid": "df44e2a2-cf53-4bae-a485-efcebb146b85",
       "confidence": "0.3923219",
       "timestamp": 3456.01,
       "content": "you should I am",
-      "speaker": "S542"
+      "speaker": "S542",
+      "uuid": "6e2caa4f-e8f4-4cdd-b782-c888aaefd1b7"
     },
-    "3464.12": {
+    {
       "requestid": "8a9709fa-d8bb-4d54-aa6c-f1231964d408",
       "confidence": "0.5944816",
       "timestamp": 3464.12,
       "content": "bing",
-      "speaker": "S542"
+      "speaker": "S542",
+      "uuid": "4dca2861-94eb-4962-a3e5-191ef02f3075"
     },
-    "3465.7": {
+    {
       "requestid": "fb01e362-12d1-4401-8e82-4e232a30815f",
       "confidence": "0.6494929",
       "timestamp": 3465.7,
       "content": "if I guess is there's probably easier to talk about the side of quitting that actually quit why well for one is quitting seems like an admission of failure anonymous like to feel so in next week's episode",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "c9c23872-23bc-4c99-bcac-efc1567ff8ca"
     },
-    "3481.04": {
+    {
       "requestid": "11de5ba9-a1e8-4e2c-9292-3aa17d305d41",
       "confidence": "0.5562157",
       "timestamp": 3481.04,
       "content": "we talk about ways to fail well",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "e7d41355-0a38-4d40-a971-62dd088bd548"
     },
-    "3484.42": {
+    {
       "requestid": "392b5f02-88ba-41be-a66e-19125dd8d7f3",
       "confidence": "0.6747283",
       "timestamp": 3484.42,
       "content": "I fell for the first 5 are 7 years now I look back and I said why do I keep going that long because of the shame I died in one with michelia",
-      "speaker": "S546"
+      "speaker": "S546",
+      "uuid": "be10113a-8701-4869-87d6-4cc78c612394"
     },
-    "3493.65": {
+    {
       "requestid": "9f19d948-2621-4202-b011-b053d2cd7e52",
       "confidence": "0.7074213",
       "timestamp": 3493.65,
       "content": "are we thinking all wrong about failure it's next time I think I'm saying",
-      "speaker": "S532"
+      "speaker": "S532",
+      "uuid": "701988bc-2b3f-4ed5-95b7-d6e2083abdbe"
     },
-    "3501.15": {
+    {
       "requestid": "59823b25-e003-4b6f-a0ed-498af89f59f4",
       "confidence": "0.5471383",
       "timestamp": 3501.15,
       "content": "do you like ronaldo and I like",
-      "speaker": "S542"
+      "speaker": "S542",
+      "uuid": "9db3526c-4507-4ac9-b4a2-602bb6cde180"
     },
-    "3504.79": {
+    {
       "requestid": "c8bde694-72ec-4287-ba17-16a22700db6b",
       "confidence": "0.2771491",
       "timestamp": 3504.79,
       "content": "you guys",
-      "speaker": "S542"
+      "speaker": "S542",
+      "uuid": "f87bcb0d-aa5f-409e-9fb1-20bb645614fc"
     },
-    "3509.86": {
+    {
       "requestid": "8313d941-1ea1-49d6-bcbe-b4040a275435",
       "timestamp": 3509.86,
-      "content": ""
+      "content": "",
+      "uuid": "41c77cba-2e09-41ee-a20e-60f2ed75e864"
     },
-    "3515.54": {
+    {
       "requestid": "c1d69380-74d7-4051-8547-f5a3ee4a1732",
       "confidence": "0.7694597",
       "timestamp": 3515.54,
       "content": "freakonomics radio is produced byWNYCN.net production this episode is produced by chris mary",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "72ed0704-f5d1-4710-a066-7a9e38b8aaf7"
     },
-    "3522.89": {
+    {
       "requestid": "d30912cc-6988-46cf-a900-b821d4d3f69f",
       "confidence": "0.7187504",
       "timestamp": 3522.89,
       "content": "our staff includes david herman breiland susie lechtenberg in crispins in with engineering help from dylan keith michael rayfiel amarite jacob if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com real find lost the radio ablanca books in morn",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "5a10fd14-2b73-458c-9bce-e3657a012c2f"
     },
-    "3543.23": {
+    {
       "requestid": "b9bb9ba3-ae6a-42c7-93a7-6eae77b3a19f",
       "timestamp": 3543.23,
-      "content": ""
+      "content": "",
+      "uuid": "083081c6-7651-4e57-bdef-cf218988e45a"
     },
-    "3546.28": {
+    {
       "requestid": "8e0268de-4ec5-4c63-a424-2535a598510d",
       "timestamp": 3546.28,
-      "content": ""
+      "content": "",
+      "uuid": "174369f3-1ebe-4474-bcba-facb3912d9d7"
     },
-    "3551.95": {
+    {
       "requestid": "c20d46db-0905-42a3-9da7-fe8d2c8761c9",
       "timestamp": 3551.95,
-      "content": ""
+      "content": "",
+      "uuid": "c6daa703-9031-4f5b-940f-58667355a748"
     },
-    "3554.37": {
+    {
       "requestid": "7326cd98-1bdf-4e14-8cb9-360ee1baf5f6",
       "confidence": "0.8280732",
       "timestamp": 3554.37,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "e0200ae1-73d0-4a50-acda-a887be7c18fe"
     },
-    "3573.6": {
+    {
       "requestid": "5611f02a-cfce-4ea7-8b61-85affa9eb9b5",
       "confidence": "0.894097",
       "timestamp": 3573.6,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "78c6bdef-45c5-4795-b903-e602fd66d3ee"
     }
-  }
+  ]
 }

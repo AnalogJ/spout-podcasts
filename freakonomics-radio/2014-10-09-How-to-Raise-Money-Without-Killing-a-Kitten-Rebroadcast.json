@@ -4,1433 +4,1640 @@
   "description": "<p>The science of what works -- and doesn't work -- in fund-raising</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/wFbv_PnwZFc/freakonomics_podcast100914.mp3",
   "slug": "How-to-Raise-Money-Without-Killing-a-Kitten--Rebroadcast-",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "bbf6c902-1d10-486c-bb84-db9d26d756cd",
       "confidence": "0.8649231",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by brain tree green trees new b dot OSDK makes it easy to support multiple mobile payment types with one simple integration to learn more and try another sandbox go to brain treepayments.com slash freak",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "077c183d-3756-4e9c-8cb6-6bf32e607aaa"
     },
-    "17.81": {
+    {
       "requestid": "c5d67976-b712-4a61-955e-98b1c6018e8b",
       "confidence": "0.7778609",
       "timestamp": 17.81,
       "content": "freakonomics radio is supported by mu working to help bring business stories and brands to life to arrange a printed pronox like business cards flyers stickers and postcards also offering design templates and the option to upload a personal design more atmu.com",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "348eb636-c80a-459d-961a-34567be0e4f2"
     },
-    "39.42": {
+    {
       "requestid": "4f3682e3-46b2-4422-96e2-d43f8343e3ee",
       "confidence": "0.7345994",
       "timestamp": 39.42,
       "content": "if I can switch news last year we ask you to go to freakonomics.com to give some money to help support this public radio show verists can you prove something to you prove that you really like to show smart guy how wrong you can be",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c9198319-ab77-44cf-97da-58235979d1c1"
     },
-    "55.33": {
+    {
       "requestid": "44efd798-c04c-462b-9378-c380a79edb2c",
       "confidence": "0.4736397",
       "timestamp": 55.33,
       "content": "we can I mix frankovic you have a conversation with them ask you",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "cb25804a-095a-4a0c-8992-f4e832961757"
     },
-    "59.86": {
+    {
       "requestid": "80a83d68-138a-46ec-b691-8338c1955f6d",
       "confidence": "0.7485412",
       "timestamp": 59.86,
       "content": "8:11 organ do something today but never done before and this program with his bag",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "a3aba28b-5d81-4bd0-9340-28ca75172023"
     },
-    "65.35": {
+    {
       "requestid": "ef1df483-ee0c-4e42-afcc-7521b3416127",
       "confidence": "0.766835",
       "timestamp": 65.35,
       "content": "I we've been putting out this podcast for like almost 4 years all free and now we're gonna ask people for some support will you think about me is that not good luck",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d66a383e-0538-48bb-a9bc-ac17d093a62c"
     },
-    "77.55": {
+    {
       "requestid": "f2f3747c-79a8-461a-b6b4-5d5c57d29680",
       "confidence": "0.656311",
       "timestamp": 77.55,
       "content": "hard to get things away for free and then ask for money later",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "c9eeab26-653a-475c-8a43-644c716a9380"
     },
-    "82.11": {
+    {
       "requestid": "09f2b908-01aa-4f27-a712-06d66693a79c",
       "confidence": "0.7363178",
       "timestamp": 82.11,
       "content": "celebrity you forked come with some non profits trying to raise money what's considered a good response rate would say send out thousand mailers trying to raise money to help poor children around the world with a good response rate",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "3c0af453-702a-4b10-830b-58ca6e83cba8"
     },
-    "95.8": {
+    {
       "requestid": "905d5f00-ec4f-430f-9779-61e91f78e202",
       "confidence": "0.7174428",
       "timestamp": 95.8,
       "content": "if you're sending those out cold people who never you giving you money before",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "a7af6c55-be21-432a-9bcb-3be0dbb52b12"
     },
-    "100.05": {
+    {
       "requestid": "f2126857-d9e8-48b6-87c6-f5bd425267da",
       "confidence": "0.7676268",
       "timestamp": 100.05,
       "content": "I think something like 1% out of a thousand would be a really good number",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "b5d67c62-7a2f-4f9a-83a7-1845631c342c"
     },
-    "105.24": {
+    {
       "requestid": "d02d6b2c-e271-450f-95b2-e1720f19cb0d",
       "confidence": "0.7447196",
       "timestamp": 105.24,
       "content": "but our audience is a bit different writing anybody is listening to this is not it cold cold so if we would ask people to send money to make freakonomics radio keep it free I'm kinda sucks right you think we get here",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d25ee08d-f383-4f42-82b5-2efa374f3eb9"
     },
-    "117.8": {
+    {
       "requestid": "c462fdc3-cb70-4557-8804-fc0dd351748f",
       "confidence": "0.7743537",
       "timestamp": 117.8,
       "content": "you know it's hard here is that the mechanism for getting people to send it more difficult I would say",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "dc0a1bda-0a27-45fd-8a7b-ffd70aaa988d"
     },
-    "124.51": {
+    {
       "requestid": "165cee21-04e7-40b6-8f84-e272f75a7c65",
       "confidence": "0.6680003",
       "timestamp": 124.51,
       "content": "once a day someone comes up to me and says hey I love the freakonomics podcast to listen to it laija go I work at the gym",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "93628c2c-d64b-466a-a442-a6c5813ff167"
     },
-    "131.58": {
+    {
       "requestid": "1c746ed9-95d9-47fd-a618-8d58ea9ed131",
       "confidence": "0.6981804",
       "timestamp": 131.58,
       "content": "I need you actually get someone in mid job core on the bike at the gym day to be at the press a button and send money directly do I think you did she do ok but check the time is gonna get done with are there and go back and take a shower and then log on to computer and give you money",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "0ec3e831-e677-4a19-9bd9-68b8687dd267"
     },
-    "150.3": {
+    {
       "requestid": "50b57945-a9c7-4680-99a5-abb978d08f98",
       "confidence": "0.6037862",
       "timestamp": 150.3,
       "content": "I think that's pretty close to here",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "bd07fd40-78f1-4d8e-88be-ce9bb46723db"
     },
-    "152.33": {
+    {
       "requestid": "febf2a69-7366-40df-8f42-3776a12c3184",
       "confidence": "0.8728454",
       "timestamp": 152.33,
       "content": "so you think will raise close to $0",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "87520903-1ea6-4224-87f2-01cbaa7e03ba"
     },
-    "155.86": {
+    {
       "requestid": "21cca423-cda4-40bb-a6a0-8f7eaa751c9c",
       "confidence": "0.6047125",
       "timestamp": 155.86,
       "content": "how do you actually right so can I just tell you the snare not steve limit this is a fantastic opportunity to prove are going to be smart person totally wrong prove me wrong I love richard ryan",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d9979a5c-379e-474d-954c-38227c842e66"
     },
-    "173.24": {
+    {
       "requestid": "2b96efb0-418c-4fb9-8c94-044096f0bd04",
       "timestamp": 173.24,
-      "content": ""
+      "content": "",
+      "uuid": "c1d09d7b-7d29-436e-b145-4c5e1f7719a4"
     },
-    "181.74": {
+    {
       "requestid": "25f50154-5b04-4bb8-aa8e-5c61a2d52b60",
       "confidence": "0.6275573",
       "timestamp": 181.74,
       "content": "I'm wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "52f35b55-2d51-4b73-b340-76f0527d6439"
     },
-    "189.33": {
+    {
       "requestid": "b1e33031-7257-4ce7-a7be-b9bbc5690ddc",
       "confidence": "0.3900292",
       "timestamp": 189.33,
       "content": "here's your help steven dubner",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "11ba9295-2331-4e35-8d15-e21109e4f561"
     },
-    "200.47": {
+    {
       "requestid": "623f761e-7144-42b3-9ac8-e818c2963c29",
       "confidence": "0.7086222",
       "timestamp": 200.47,
       "content": "I'm doing well as I said you did prove libere it wrong so much so that here we are a year later still putting out this free weekly podcast so number one thank you number to do it again",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "f0cf8652-efbb-4685-81ef-b6ea81e24d1b"
     },
-    "215.17": {
+    {
       "requestid": "0cee70f0-ddb3-4f6f-affc-f55f3fdb9a65",
       "confidence": "0.778137",
       "timestamp": 215.17,
       "content": "that's right it's that time of year we ask you to go to freakonomics.com and hit the donate button so that our home station wmic can keep the show going nowhere I do something for you 2 as you here later in the program including a chance to win a trip to new york hang out with me and we can I mix radio crew",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "9c0052c0-d88b-49e2-9f4b-e6479d5b49a5"
     },
-    "233.7": {
+    {
       "requestid": "ed057548-c671-4e54-9f0b-02a620d5a4e3",
       "confidence": "0.8007315",
       "timestamp": 233.7,
       "content": "mount your something I'd like you to try during the course of the next day or week or month whatever keep track of how many different people and institutions come at you in one way or another",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "79a3694a-ff93-4fd6-b86f-a9a3703fd5c3"
     },
-    "244.54": {
+    {
       "requestid": "7c3b950e-048a-494c-9606-6309de4780f2",
       "confidence": "0.6736925",
       "timestamp": 244.54,
       "content": "their hand out asking for donations might be raising money to fight pediatric cancer work to protect the forest can you get to maverick politician elected even make a podcast notes why do so many people come out of twitter handle",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "006f2ac1-aef5-48b9-ad9a-3591fdb482a0"
     },
-    "258.74": {
+    {
       "requestid": "87599c05-2820-42e9-8d2e-6367c6c7b4d9",
       "confidence": "0.5300481",
       "timestamp": 258.74,
       "content": "when does it works",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "861c51cd-6331-4c18-9481-32b3999fe74f"
     },
-    "262.17": {
+    {
       "requestid": "586cd065-83fc-4708-9df1-23b4eba8a187",
       "confidence": "0.7364774",
       "timestamp": 262.17,
       "content": "americans are an extraordinarily charitable beep",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "826c21bf-7c2f-4c7f-8213-4ed12e766842"
     },
-    "266.0": {
+    {
       "requestid": "80e9a373-27b6-4551-80d4-ea2e469d1ebc",
       "confidence": "0.8475763",
       "timestamp": 266.0,
       "content": "when you look at the dad at what we find is that all the way back to 1971 people are giving about 2 to 2 and a half percent of their wallets",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "95df54c5-3819-4fc5-8f15-e79637324d05"
     },
-    "276.05": {
+    {
       "requestid": "8c010d49-c4c1-414d-beed-a6c297fddc82",
       "confidence": "0.7950243",
       "timestamp": 276.05,
       "content": "to what I mean by that is about 2.2 percent of personal income is given to cherla causes so with when you look at the data you have this",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "dafc657d-a7bf-4b75-8a81-aafe18d79209"
     },
-    "288.51": {
+    {
       "requestid": "517ed22a-f2e8-47f6-8ffd-0f68ef7e8dd0",
       "confidence": "0.8042113",
       "timestamp": 288.51,
       "content": "feeling that wow americans tend to give a ton of money and when you look for 1971 to 2011",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "79304720-ab74-478e-b37c-55d2f7efda50"
     },
-    "296.85": {
+    {
       "requestid": "143a377e-8d60-4bde-98b8-60d3e0659320",
       "confidence": "0.715724",
       "timestamp": 296.85,
       "content": "are giving rates have gone up by about 12 fold",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "8a5c4b0d-0c10-436f-b4c9-5abc147fae7d"
     },
-    "304.6": {
+    {
       "requestid": "65d97ad8-935c-45b7-b885-05d385c32588",
       "confidence": "0.6996154",
       "timestamp": 304.6,
       "content": "it's john list he like steve levitt is an economist at the university of chicago street in a lot of research and water experiment on fonderies he's trying to figure out empirically what really works now",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "fcf42cb0-9dd5-46b9-9f97-2688bce25c4e"
     },
-    "319.77": {
+    {
       "requestid": "01df33f9-2795-4cfd-936b-1abc85cebcc6",
       "confidence": "0.8002222",
       "timestamp": 319.77,
       "content": "fun raising is one of those things like education or dating",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "32356075-9ff2-4116-b37b-dad50712b1d4"
     },
-    "324.64": {
+    {
       "requestid": "0073c5ba-7e69-4e46-a3a9-44cd47274b04",
       "confidence": "0.7806594",
       "timestamp": 324.64,
       "content": "what is a massive amount of conventional wisdom a lot of habits and tradition not much science what you have",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "6a433c90-5a4b-4d55-91fb-fd8af848f328"
     },
-    "333.16": {
+    {
       "requestid": "4db24b47-9b6c-4610-a61b-32790b454350",
       "confidence": "0.7490689",
       "timestamp": 333.16,
       "content": "is a lack of strong statistical support that backs up exactly what does people are doing so you say well why in the world do they do it they do it because that's with their boss told him to do any fact they do it till then if things go wrong they won't get in trouble",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "42521ec4-68e1-444f-8fb5-ded55cd35300"
     },
-    "352.4": {
+    {
       "requestid": "2f8ecca1-7372-4ef2-a158-44c2b63e2832",
       "confidence": "0.7131463",
       "timestamp": 352.4,
       "content": "john list is trying to change that kind of conventional defensive thinking he and another economist oregon easy",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0a6cfa2a-65e2-4a47-957d-47a55ce1bb62"
     },
-    "361.21": {
+    {
       "requestid": "7e8120cb-11f9-46f1-a9f1-4d276367930c",
       "confidence": "0.8084631",
       "timestamp": 361.21,
       "content": "that is published a book called the y axis that's why isn't w HY as in why do people do the things they do you like giving away money what could possibly make of give away more than 2% of everything lyrics",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4a082c99-fae8-489c-93b8-97375402936d"
     },
-    "379.21": {
+    {
       "requestid": "eae0c0d0-d4a0-4f98-bf47-d6c0e093a731",
       "confidence": "0.7841663",
       "timestamp": 379.21,
       "content": "so when you think about y all of this money is given the",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "5ab0d9b3-a484-4a9d-aa88-591aa01176de"
     },
-    "383.92": {
+    {
       "requestid": "baf19106-7ca3-4121-a860-92dfd1dcc244",
       "confidence": "0.7972287",
       "timestamp": 383.92,
       "content": "call missed it mean actually sejwal what are the incentives for why people might give in I think the traditional feeling is that people tend to give because of altruism people just wanna help another person who is not as well off as they are",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "3bec0bee-5232-43bc-8e88-ea46d1de6fd9"
     },
-    "403.72": {
+    {
       "requestid": "3e11ad1e-2e8c-41d4-a542-35b033730387",
       "confidence": "0.7121961",
       "timestamp": 403.72,
       "content": "I have a feeling your gonna tell us back some stuff not much of a drive is it would like to think",
-      "speaker": "S178"
+      "speaker": "S178",
+      "uuid": "ea97ccb0-b51d-4779-9724-d773edc66b68"
     },
-    "408.89": {
+    {
       "requestid": "8d594c94-819b-4dd4-96bb-e2946eefeabe",
       "confidence": "0.7032348",
       "timestamp": 408.89,
       "content": "yeah know as the data would suggest not we've done is experiment all the way back to 1998 north still very actively doing experimental several charities now what you 10 defined",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "a0476757-1cc4-4365-8ee1-b446f0b69006"
     },
-    "421.56": {
+    {
       "requestid": "2ff3d108-6a48-4b55-a649-e2f9b4e2a499",
       "confidence": "0.8181301",
       "timestamp": 421.56,
       "content": "is that people are more driven out of purely self interest in what I mean by that",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "727a8879-6cf5-41de-a810-f41e18a81fec"
     },
-    "429.25": {
+    {
       "requestid": "f94bc964-cdff-4fd0-b09d-c21824570b0b",
       "confidence": "0.7362034",
       "timestamp": 429.25,
       "content": "is that people give because it gives them a warm feeling a eunuch is econom assayer is the gym andrione would say people drive a warm glow from gavin",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "9c414137-b670-47cb-97d1-af05f7d9d21e"
     },
-    "442.89": {
+    {
       "requestid": "b726a206-88b3-4aba-8ac5-d98bdbe01a42",
       "confidence": "0.9176837",
       "timestamp": 442.89,
       "content": "so now what you have is this idea that if you want to",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "16957c54-6280-4474-9e98-69b7c7896526"
     },
-    "448.58": {
+    {
       "requestid": "3cd3b2d4-18a7-42e7-bb6e-a359031935b9",
       "confidence": "0.7712126",
       "timestamp": 448.58,
       "content": "expand your daughter basaure if you want to induce people to give more money you should really now be appealing to",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "8cd7b553-ac6c-46a2-b4cd-50885df735ff"
     },
-    "458.5": {
+    {
       "requestid": "47bfae2b-19c9-4521-856a-b335c5f9a5ea",
       "confidence": "0.7817629",
       "timestamp": 458.5,
       "content": "hey here's woodfest can do for you or if you don't give today this it will actually be taken away and you will no longer be able to use it",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "765eca2e-fed0-413c-baac-c74c953eb8c9"
     },
-    "470.11": {
+    {
       "requestid": "8e48fe44-1f7d-4802-85f9-2e5b1ff7dd31",
       "confidence": "0.7902072",
       "timestamp": 470.11,
       "content": "rather then appealed to say you know what you can help this poor person over there I think fundraisers for years have gotten it wrong that they need to appeal more to the actual donor rather than the recipient of those",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "16c41ec9-42dd-4cdf-9d3e-4242c71d4726"
     },
-    "487.09": {
+    {
       "requestid": "f5d3edda-7236-4e8b-8e5d-cc9076daf11f",
       "confidence": "0.7067885",
       "timestamp": 487.09,
       "content": "dollars so first of all the first to incentives you named one would be woke up your altruism reynen number 2 would be impure will call it warm glow altrose my notes that you can't miss off and call it",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "3eb7c3bc-b3ac-4e0f-ad53-a67999887463"
     },
-    "500.62": {
+    {
       "requestid": "d7edad0c-6d9e-44e1-9297-ff22c048c007",
       "confidence": "0.7154648",
       "timestamp": 500.62,
       "content": "at and you're saying that that wall people think that pure altruism is the primary driver that warm glow altruism is much stronger driver",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e143d14a-f36e-4562-b420-3e3f15ae06b5"
     },
-    "509.8": {
+    {
       "requestid": "8ad58f8b-1160-4163-88c4-606eb8d5114c",
       "confidence": "0.8055543",
       "timestamp": 509.8,
       "content": "let me just ask you this did nothing wrong with that is there no absolutely not",
-      "speaker": "S178"
+      "speaker": "S178",
+      "uuid": "f492e402-89e9-46d7-82a8-da7adc57b3b9"
     },
-    "514.82": {
+    {
       "requestid": "e4236abf-cdc1-4dbe-a407-2629ecdf8716",
       "confidence": "0.8998416",
       "timestamp": 514.82,
       "content": "that is it is economist I really don't care why people",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "7282dd25-a221-4a3d-9ec3-1e5aca83ffcd"
     },
-    "517.87": {
+    {
       "requestid": "5930aa69-90a9-4cfd-a60d-d827841ed570",
       "confidence": "0.8237521",
       "timestamp": 517.87,
       "content": "yeah yeah you care that you know the real reason so that you can appeal today",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4711183f-4e75-4b07-83f7-273686fb43a5"
     },
-    "521.19": {
+    {
       "requestid": "b3444c6a-be83-4680-94c0-12f286f40409",
       "confidence": "0.8187272",
       "timestamp": 521.19,
       "content": "right absolutely when I care about is people giving because it's very important to have private organizations provide a great public goods that we have all over the world so it's important know exactly what drives a daughter to give in what keeps the donor committed to the cause",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "9869a464-8037-4773-8791-b0eaf669d74b"
     },
-    "540.66": {
+    {
       "requestid": "6070fa02-571d-4797-a581-5de5fae610d2",
       "confidence": "0.8030262",
       "timestamp": 540.66,
       "content": "it once we know that we can be more successful in our fundraising drives in then we can provide more public a joke but it is good that the government or private markets fail to provide what about",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "a388bffa-e3b1-446c-909f-7199209e2935"
     },
-    "553.19": {
+    {
       "requestid": "af06dd95-fa00-421c-9954-dfeca262021b",
       "confidence": "0.8227538",
       "timestamp": 553.19,
       "content": "a couple other incentives to give I'm thinking let's call it guilt are social pressure maybe",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "7a27ec01-d380-44c4-b6e8-0d450d2a9869"
     },
-    "559.37": {
+    {
       "requestid": "fcacbe33-9687-46b6-ab7e-aa7701a8ddbf",
       "confidence": "0.7412248",
       "timestamp": 559.37,
       "content": "right yes if these other reasons why we might give such is some social pressures or guilt these are very powerful as well",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "a43cdaba-ac52-4c2a-962a-339b7ff9955d"
     },
-    "570.42": {
+    {
       "requestid": "0c70c78b-286c-4c17-bd95-d5199a4da1e3",
       "confidence": "0.8191373",
       "timestamp": 570.42,
       "content": "things like a brownie scout knocking on your door once you open up that door you feel a lot of social",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "bc434bb9-f6f7-496a-8201-1a3f2e87a2e0"
     },
-    "579.76": {
+    {
       "requestid": "0d941981-dbbf-40eb-badb-51cda7327386",
       "confidence": "0.7005212",
       "timestamp": 579.76,
       "content": "frashure he can actually buy a few boxes of cookies now if you could do it all over again if you could do it instant replay you an answer the door with you would stay and watch the jets play against steelers well although both those teams are terrible and I'm sorry bout that stevenot you are you would rather sit on",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "948ed7a7-059c-4d51-852f-ea5f8b98149a"
     },
-    "597.37": {
+    {
       "requestid": "de4211ba-3dc6-4462-a51b-e3c6a025d2ad",
       "confidence": "0.744836",
       "timestamp": 597.37,
       "content": "college but once you're at the door",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "4c626a3a-33cc-45ce-828c-0e8b53b3bb94"
     },
-    "600.33": {
+    {
       "requestid": "dc93d804-09af-4d0d-b7b3-c8002d50b49e",
       "confidence": "0.7869403",
       "timestamp": 600.33,
       "content": "then you feel obliged to help out the brownie scouts that is very very import know that you're in port not only for the small gevers but that's the very important influence is well if it is there is a large gevers these people who write checks for a million to $10,000,000",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "9e40eae1-c503-407a-a351-f2399ca69be2"
     },
-    "619.05": {
+    {
       "requestid": "ba03cade-f658-4252-9347-e7148692cd5d",
       "confidence": "0.7797645",
       "timestamp": 619.05,
       "content": "what society tells them they should be doing is important ribeyre of their behaviors as well",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "6198ddef-2bae-4bbc-905d-049f5a149cf5"
     },
-    "626.21": {
+    {
       "requestid": "fae4b5fc-e89e-4417-83f9-e1c376986581",
       "confidence": "0.7561551",
       "timestamp": 626.21,
       "content": "what about the herd mentality just that the idea that if people here that others are getting too 'cause worth the cause itself announces it is a big you know pile of seed money than that will spur others to get",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "20a0bfeb-388e-485d-92b3-aeb8e4dd3897"
     },
-    "639.08": {
+    {
       "requestid": "7b6cf7a0-db64-4d92-9057-32f6773340f4",
       "confidence": "0.7666191",
       "timestamp": 639.08,
       "content": "I think you hit on something that's very important you do you pinpointed",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "d50d6d86-148e-48f7-b74f-ae40ee6d75d1"
     },
-    "642.95": {
+    {
       "requestid": "c55a7aff-45e4-499d-a7dd-57e9b6249974",
       "confidence": "0.8090692",
       "timestamp": 642.95,
       "content": "what economus would call her dinner information cascades and you're exactly right when others see a person of influence or a person who they think as",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "0084cc97-d268-49d9-aead-ad5ed31c5655"
     },
-    "654.09": {
+    {
       "requestid": "a32b85d5-9af7-4a05-b05c-d23f13ec61af",
       "confidence": "0.7491737",
       "timestamp": 654.09,
       "content": "good knowledge of the charitable cause if they see them giving they are much more likely to give themselves likewise if you see a friend giving too 'cause",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "e9108de9-ed70-420a-978d-dc53a7eae95f"
     },
-    "665.13": {
+    {
       "requestid": "cc61e6a3-e44f-4175-b85e-cfe7975fa146",
       "confidence": "0.8367944",
       "timestamp": 665.13,
       "content": "you're much more likely to get to the cause is well",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "9d63acb0-16d0-40b0-a0d1-feaf2d113bda"
     },
-    "670.42": {
+    {
       "requestid": "61d21b3c-eb34-46d6-8c33-936d0cdd367f",
       "timestamp": 670.42,
-      "content": ""
+      "content": "",
+      "uuid": "bb792b83-e2e6-4cbe-bb4f-a1f72a85930a"
     },
-    "673.44": {
+    {
       "requestid": "19901aa4-4fb8-432d-b92c-f65e515388fa",
       "confidence": "0.7699564",
       "timestamp": 673.44,
       "content": "some years back john listed some interesting research at east carolina university he was sending people door to door raising money for a hurricane relief fund wanted to know what methodology work best is it a good idea to entice donors with the lottery things like that",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0571b05a-8d37-43fd-90a6-80cd4b12875f"
     },
-    "692.85": {
+    {
       "requestid": "ffb2a178-a3f3-47a7-9872-beed6cb330da",
       "confidence": "0.8198089",
       "timestamp": 692.85,
       "content": "but he also want to know if it mattered what the person who knocked on your door look like I did an attractive person raise more money than average looking person now",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "675d2f1c-3239-42ad-8232-bc75a2b17fd8"
     },
-    "702.77": {
+    {
       "requestid": "d617c8c4-c884-4153-9a80-ef1e9cc10a7f",
       "confidence": "0.8309159",
       "timestamp": 702.77,
       "content": "how do you go about doing that how do you measure",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4df0cb04-0615-4dd9-b303-043f0b8cdf9d"
     },
-    "706.23": {
+    {
       "requestid": "96bb6f2d-3406-42dc-9c01-57551aa4fc48",
       "confidence": "0.7519166",
       "timestamp": 706.23,
       "content": "first the researchers hired a bunch of college students who would go door to door and then they took a photo of each of these students with sitters and send the pictures to student at a different college inveneo rated every solicitor's looks on a scale of one to 10",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1b6da249-77a1-4a1f-8def-0e1ff99419ee"
     },
-    "724.15": {
+    {
       "requestid": "40b87631-e599-401e-aa83-1958d0d7f2f4",
       "confidence": "0.7658611",
       "timestamp": 724.15,
       "content": "then the solicitor's were sent out to knock on doors",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "3388d6df-2776-46cd-a619-4895d1a5e980"
     },
-    "729.66": {
+    {
       "requestid": "428af61f-d22c-410f-bcc7-7d95381ac7fd",
       "timestamp": 729.66,
-      "content": ""
+      "content": "",
+      "uuid": "dd5722df-52f6-4fd4-981d-c3acb8f69bbf"
     },
-    "732.5": {
+    {
       "requestid": "b280f6f6-5bbd-4562-836d-a192c1e0d32c",
       "confidence": "0.8756281",
       "timestamp": 732.5,
       "content": "what we find",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "f5a0286d-3228-41e8-82c0-abc31c38d438"
     },
-    "734.25": {
+    {
       "requestid": "bba8936f-fc33-40db-a37f-47641a3b0e73",
       "confidence": "0.7471526",
       "timestamp": 734.25,
       "content": "is that one obvious result is that the beautiful women",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "a2971360-cddc-44a1-b80d-9561a1084237"
     },
-    "740.9": {
+    {
       "requestid": "380b6bf2-0867-4c55-85a6-ae26d6fd4850",
       "confidence": "0.8898972",
       "timestamp": 740.9,
       "content": "ended up raising the most money of all this lyster's that we had",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "80a2e275-0c44-47c2-bf35-eb681daa1e1e"
     },
-    "746.07": {
+    {
       "requestid": "a5af5047-7163-4b47-9d16-b99195dd28d5",
       "confidence": "0.7130431",
       "timestamp": 746.07,
       "content": "I'm shocked no interest in lee that result was entirely driven by men answering the door",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "5ae3b7f5-d5da-422d-bb07-a8e43f044e44"
     },
-    "754.14": {
+    {
       "requestid": "7c69db65-5293-4ccf-8907-f704172ef6b6",
       "confidence": "0.6173365",
       "timestamp": 754.14,
       "content": "now I am so so so hot you know I did it",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "376b2741-42a0-4a31-a3b7-153c5df5bb2d"
     },
-    "760.08": {
+    {
       "requestid": "c4b6bd34-7a12-45a2-8608-2b54ded57380",
       "confidence": "0.8508555",
       "timestamp": 760.08,
       "content": "don't know the women didn't get more good looking women you're saying no is the women don't give more too good luck in women women don't give more to good looking men",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "d8116584-ddd9-4069-b6e9-f285fe3ebc82"
     },
-    "768.65": {
+    {
       "requestid": "50051c79-be9b-435b-9701-25085ad294a6",
       "confidence": "0.7836437",
       "timestamp": 768.65,
       "content": "this entire physical attractiveness result is driven by men answering the door in dc this beautiful woman they say oh tell me more about this really fun tell me how I can help oh I'd love to help they get off the wall it they give more money",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "28549992-2de0-4588-b751-874b9c6576b4"
     },
-    "787.02": {
+    {
       "requestid": "cc13d83c-28ec-47ae-a5bd-96c6ef377b63",
       "confidence": "0.8294945",
       "timestamp": 787.02,
       "content": "no again that's more money going to the really fun I can guess why they gave they probably did not give because they really care that much about the really fun",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "30d120f7-3632-4530-b381-b4d5e30eb545"
     },
-    "797.55": {
+    {
       "requestid": "20d2551f-fe56-45b7-bf4f-2867d30ed885",
       "confidence": "0.8168166",
       "timestamp": 797.55,
       "content": "but in the end of the day the term organization did care because they had more money coming in now scientifically this turns out to be really interesting because it tells you",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "47383c0e-cf74-4ecb-a581-bc1b46d72f5c"
     },
-    "807.48": {
+    {
       "requestid": "6f32aeb3-0d7f-462a-9c63-f7c328928a78",
       "confidence": "0.4715026",
       "timestamp": 807.48,
       "content": "that if altruism what is the soul",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "13092b80-2901-4821-8731-796561ec8521"
     },
-    "811.25": {
+    {
       "requestid": "3185e246-fe6f-412b-8da8-5813099ca138",
       "confidence": "0.7657884",
       "timestamp": 811.25,
       "content": "explanatory variable for why people give beauty shop matter but this is changing an incentive for the selesa tease and yes indeed the malesela cities end up responding I wanna give more money to beautiful women",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "792fbb76-3e69-46e0-8ba0-1be2d7bb7fd8"
     },
-    "828.94": {
+    {
       "requestid": "e1d470e8-f13b-41b1-aec1-f939db80c8e9",
       "confidence": "0.7555469",
       "timestamp": 828.94,
       "content": "give me a sense of how big does beauty affected silets 81 solicitor's rent a 9 out of 10 by unbiased are disinterested parties in one is ranked 6 how much more does the 9 rays in the city",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e0077616-e5d9-4821-bbcb-62c17d4183f6"
     },
-    "841.76": {
+    {
       "requestid": "3f74f9f0-85e3-41be-803a-2074759b4ee6",
       "confidence": "0.7116535",
       "timestamp": 841.76,
       "content": "are you looking at roughly 100% increase my god I go in for my 60 my goodness what about hair color is your hair color in sybian importanne is well and it turns out that blonde shortly have more fun raising more money",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "4fbe31d3-a589-479c-bee5-6d7e09fd9664"
     },
-    "857.29": {
+    {
       "requestid": "2d8fcad3-f1df-49b4-ad8b-c8b14519c001",
       "confidence": "0.7974604",
       "timestamp": 857.29,
       "content": "I love you just can't beat a beautiful blonde who is going door to door to raise money for your cars",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "3b2b937b-01d9-4e19-a711-1c7bc2bb163d"
     },
-    "864.15": {
+    {
       "requestid": "a2a3441f-0e7b-4678-b058-a6ab027c5b8c",
       "timestamp": 864.15,
-      "content": ""
+      "content": "",
+      "uuid": "8f2e5b9b-f5ff-48c9-86d7-a84f9b00f339"
     },
-    "873.77": {
+    {
       "requestid": "d26ccd06-3818-4583-bac7-272514effaaf",
       "confidence": "0.3236771",
       "timestamp": 873.77,
       "content": "meaning of life",
-      "speaker": "S132"
+      "speaker": "S132",
+      "uuid": "ae86f6e1-7b98-456a-9dae-7dc684a2ab0d"
     },
-    "877.7": {
+    {
       "requestid": "0dfdd5af-d14e-4c18-af4b-f7c8215408a5",
       "confidence": "0.7121301",
       "timestamp": 877.7,
       "content": "coming up on picking up radio john list says that one the best things you can do to raise money is offer a lottery prize",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4e816489-668f-4d5c-a97e-b39c7ed8b696"
     },
-    "884.95": {
+    {
       "requestid": "ac2b0c73-b70d-4262-9753-d10e2cc65c9a",
       "confidence": "0.8413705",
       "timestamp": 884.95,
       "content": "but my guess is that there are millions of people that would love to have dinner in new york city with stephen dubner in stevens 11",
-      "speaker": "S134"
+      "speaker": "S134",
+      "uuid": "5e74ebae-4231-4a44-921d-fdda59a6f972"
     },
-    "896.76": {
+    {
       "requestid": "f24fd675-4c33-41c6-8c9d-3ebfaed20d73",
       "confidence": "0.773244",
       "timestamp": 896.76,
       "content": "neil young's i seriously doubt that but we can give it a try and if it doesn't work I wonder if the beauty affect would work on the radio",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "314dfe5f-4325-41a8-aa7a-577976c267b7"
     },
-    "907.46": {
+    {
       "requestid": "d50eb219-cdad-4806-9f04-d2a775364a7a",
       "confidence": "0.5683615",
       "timestamp": 907.46,
       "content": "I personally would donate money tree jonathan I think you should too",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "2a1ed9fb-dc8f-4fb4-8acc-2f243e10f58f"
     },
-    "922.88": {
+    {
       "requestid": "22f63aec-272f-4302-b30c-60a6e807b9e1",
       "timestamp": 922.88,
-      "content": ""
+      "content": "",
+      "uuid": "26ba35df-5e64-4ebe-a24c-7c7939b6a07e"
     },
-    "928.07": {
+    {
       "requestid": "807d61e2-6a8a-472d-9b8d-12f7fc9787ac",
       "confidence": "0.8021586",
       "timestamp": 928.07,
       "content": "from WNYC this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "6462c188-9ce5-4625-bc73-22ec46f4b32a"
     },
-    "935.75": {
+    {
       "requestid": "a2947ba5-d773-4bed-b900-2c05ddc10445",
       "timestamp": 935.75,
-      "content": ""
+      "content": "",
+      "uuid": "56529dfd-4152-410e-855c-efe80e67d822"
     },
-    "938.48": {
+    {
       "requestid": "af52df48-bb7c-414b-a345-3d0159307b1e",
       "timestamp": 938.48,
-      "content": ""
+      "content": "",
+      "uuid": "e52dae35-a347-4711-9114-581b5ae9a2f9"
     },
-    "940.38": {
+    {
       "requestid": "61e11e46-373b-4693-9fe7-d685f35d25c3",
       "confidence": "0.7812467",
       "timestamp": 940.38,
       "content": "so if you're trying to raise money for some kind of charity your project what's the best way to get people together nude",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "63c23d3a-3748-4f1f-9b4f-2b4fbd304a88"
     },
-    "949.81": {
+    {
       "requestid": "bc12a1f6-2af2-457a-99e2-6bd4dbd47508",
       "confidence": "0.6791764",
       "timestamp": 949.81,
       "content": "bukana miss john list has been studying this very question for years he learned a good bit",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "ee4cd970-80a8-4601-a79b-cdf9aa53ccaa"
     },
-    "956.19": {
+    {
       "requestid": "8c6a62ce-7c1f-4571-a2d9-41fff9dd5a6d",
       "confidence": "0.8092382",
       "timestamp": 956.19,
       "content": "donors love lotteries for instance a chance to win the big prize for donating a little bit of money matching grants are also a great idea but",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "06895c6d-1929-4583-9e5b-8367401d416c"
     },
-    "966.81": {
+    {
       "requestid": "9e49d034-2664-4bd1-b3e8-8b2d764d5cef",
       "confidence": "0.81757",
       "timestamp": 966.81,
       "content": "3 to one match is no better at raising funds in a one to one match so instead of throwing that extra money out there you could maybe",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "ff8c85ae-a9a6-4f2b-80a1-31947377f6f0"
     },
-    "975.37": {
+    {
       "requestid": "bb906f55-2151-468e-974f-7396ba143275",
       "confidence": "0.860437",
       "timestamp": 975.37,
       "content": "use it to buy a bunch of blonde hair dye",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1dc98d18-e8ac-4b7d-bd66-a74a95a136dd"
     },
-    "978.03": {
+    {
       "requestid": "073f4f7f-1b2d-48ce-8b47-aad5bbb5e1c0",
       "confidence": "0.7164891",
       "timestamp": 978.03,
       "content": "do something else with john the says that incredibly useful in raising money",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "bdfef7c3-9781-487c-95ad-1b8f0b846d82"
     },
-    "982.94": {
+    {
       "requestid": "ca88959b-81bd-4b50-935d-a4b59cf081dd",
       "confidence": "0.8203858",
       "timestamp": 982.94,
       "content": "how are in the hands of the donor",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "9bbf7992-fcf9-43c0-aab9-bac552629924"
     },
-    "986.84": {
+    {
       "requestid": "4f43ecb2-c93b-4e75-9f84-2916645d7b0d",
       "confidence": "0.8865127",
       "timestamp": 986.84,
       "content": "I think that the power of control what I mean is to control",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "c10151a2-ed61-44ad-80ec-59fdd0330d73"
     },
-    "990.47": {
+    {
       "requestid": "5d2db72b-b48a-41e0-b2cd-c60b16fc718b",
       "confidence": "0.7844042",
       "timestamp": 990.47,
       "content": "the communications so I control how often you contact me it seems like every day when I get home I have 5 mailer's that I just throw away and it irritates me because I think that's better than is ation must not be very efficient because then we still a lot of money",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "51cc7029-ff7b-41df-b604-3b7138374e60"
     },
-    "1008.03": {
+    {
       "requestid": "b697d11a-f07c-4050-9804-d006faacd91e",
       "confidence": "0.7554943",
       "timestamp": 1008.03,
       "content": "continuously sending me this junk can I also think the power of providing",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "538017ce-60c4-4861-aeac-3f54055c6c16"
     },
-    "1013.76": {
+    {
       "requestid": "b8a0244a-070f-41d5-9747-d1eb2b3f502b",
       "confidence": "0.8706102",
       "timestamp": 1013.76,
       "content": "the good that I want to consume so I think about freakonomics podcast what one way you could think about raising more money is to say look we really want you to help our cause we need you to give money to help us",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "dc3d68a2-5248-4e9d-b6d5-f3d3c69441b0"
     },
-    "1029.28": {
+    {
       "requestid": "49ee2b83-bf3a-4659-b384-ac1811a6baa9",
       "confidence": "0.8461231",
       "timestamp": 1029.28,
       "content": "can you could say like we're gonna change our relationship we want you the listener to help dictate what we talk about where is the fraction of the things that we talk about will be determined by our donors you could think about linkin the gift itself to a probability of winning a prize",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "c24cf8ad-dbff-4127-9d74-72ecf93a1ac2"
     },
-    "1048.29": {
+    {
       "requestid": "ec5cb98e-c13e-4904-a7ef-2492bb309c9b",
       "confidence": "0.8839379",
       "timestamp": 1048.29,
       "content": "so my guess is that there are millions of people that would love to have dinner in new york city with stephen dubner and steven levitt",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "82525cf4-d63b-470f-8eba-ebb48fb19756"
     },
-    "1057.56": {
+    {
       "requestid": "75d0381b-c7ed-43e0-9e67-7a18e37b8c9f",
       "confidence": "0.8140628",
       "timestamp": 1057.56,
       "content": "so wanna link that kind of prize say something like every dollar you give will give you one chance to win this lottery prize which is a night on the town with dobner nevett",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "39e93ebe-2152-4b9b-8853-39fb64726fb5"
     },
-    "1070.16": {
+    {
       "requestid": "7eb73f44-5a78-46e8-9acc-bef983d487a2",
       "confidence": "0.8016645",
       "timestamp": 1070.16,
       "content": "you know because ok so I'm actually going to exploit you um because you are the master fund raising so we been pretty soon as free podcast for",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "a060dc7a-ab4b-4a24-b889-f6406a96a001"
     },
-    "1080.21": {
+    {
       "requestid": "c5ceec7a-998e-46d4-a713-ed341fa188f1",
       "confidence": "0.7858501",
       "timestamp": 1080.21,
       "content": "almost for years at and we finally are beginning to ask our listeners the pichenda subsidize the cost an arm",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c5980600-9dc8-4564-9431-cd4cd89ebab5"
     },
-    "1087.8": {
+    {
       "requestid": "d28b5137-d237-43b4-b48c-a4b212064a57",
       "confidence": "0.8162079",
       "timestamp": 1087.8,
       "content": "so in some ways you know were a victim of the success the podcast in that one of the biggest expense is bandwidth literally did ristra bution so the more people download the more it costs it gets expensive and we have",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f2b3a901-50cd-458f-9358-a4e444db6f09"
     },
-    "1099.42": {
+    {
       "requestid": "5c7ed91b-aec1-4c5f-aa4b-5c860eec534d",
       "confidence": "0.8551399",
       "timestamp": 1099.42,
       "content": "producer salaries and equipment in music licensing all that kinda stuff so if we wanted the right here on the spot with huge on this the master of some fund raising",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "234f98ef-fc5d-4692-8a11-ee6f127ffefc"
     },
-    "1108.91": {
+    {
       "requestid": "ecb3d217-a23b-4d98-b4d1-6c96e94a1c65",
       "confidence": "0.7674055",
       "timestamp": 1108.91,
       "content": "craft a little fun raising appeal that would really work you know we don't wanna be just wanna see black bear eggs for money and put it on the altar",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "177f7225-4529-4946-8a49-2e60ef30ba10"
     },
-    "1119.12": {
+    {
       "requestid": "cf285c2c-a21c-4ad1-bc1d-da498afb6ecd",
       "confidence": "0.7114486",
       "timestamp": 1119.12,
       "content": "public radio voice support as I think we did we want it we're having that may workout and now but we wanted to work so can you would you mind giving it to him walking through some specifics we can um try to do to raise money",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c29a9ba7-bd2d-46ab-817e-8fde5b91b01f"
     },
-    "1136.26": {
+    {
       "requestid": "07ce1670-2a08-4fe0-9f0f-e713c5981481",
       "confidence": "0.6903842",
       "timestamp": 1136.26,
       "content": "sure absolutely so out of first general theme should be that you appeal to exactly what the donors want to consume you have to tell the donors here's what we provide in here is what you will lose importantly lose",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "034280d3-a2cf-48bc-9ff9-01cf3324212f"
     },
-    "1154.88": {
+    {
       "requestid": "ac6634e7-7e00-4611-90c8-bf035fe905ff",
       "confidence": "0.5859768",
       "timestamp": 1154.88,
       "content": "salmon campbell saying that that feels like a giver on your will kill your kitten",
-      "speaker": "S178"
+      "speaker": "S178",
+      "uuid": "aaa2838a-911a-4f4b-813c-830f10e5048a"
     },
-    "1159.75": {
+    {
       "requestid": "daa58e20-ddc8-4888-ba2b-d9feb33f690b",
       "confidence": "0.7770539",
       "timestamp": 1159.75,
       "content": "is it true I mean is if you will really killed a kitten if you don't receive money no it's not true I'm not gonna let that same is not true that you don't wanna do it right people don't give us any money were off the air yeah you know it I igas in a matter of time we would be but I",
-      "speaker": "S178"
+      "speaker": "S178",
+      "uuid": "33658f56-095a-4f15-b9d2-ab60654eaba0"
     },
-    "1177.5": {
+    {
       "requestid": "b096454d-5bdd-4032-8ff2-ef56a703371f",
       "confidence": "0.6570681",
       "timestamp": 1177.5,
       "content": "I'm not home abelcet appeal because of you know why can I tell you why john absolutely it feels it feels desperate yeah and I are in the way I",
-      "speaker": "S178"
+      "speaker": "S178",
+      "uuid": "34301adf-b8ac-4d73-8708-0193f12b5766"
     },
-    "1187.45": {
+    {
       "requestid": "a79a1dbe-0c69-4742-a69f-5ea5faf9dfee",
       "confidence": "0.7115626",
       "timestamp": 1187.45,
       "content": "bulas we neither are desperate new or maybe even more so I don't want to appear desperate because that's all I don't like to be around people who are desperate even if they are I'm dominika yeah",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c39682c4-b3d3-40a8-8067-b7ab818c6783"
     },
-    "1198.54": {
+    {
       "requestid": "186ee7e4-211b-46c6-b245-32dd7305614d",
       "confidence": "0.8501177",
       "timestamp": 1198.54,
       "content": "not with you but also if you came in and told me if you would just get $50 weekend for another year put out these podcasts you know what I turn from",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "4c2b4fb4-0698-4fe2-8e19-46c30a6ad885"
     },
-    "1210.92": {
+    {
       "requestid": "118193f9-c76d-48ac-97b0-b7dc8a1c55de",
       "confidence": "0.8194231",
       "timestamp": 1210.92,
       "content": "free rider 2 I'll giver because I value the podcast app more than $50 now I can get that you don't wanna be desperate",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "8ec4e0f9-dc01-4331-b920-c9d50abbec8f"
     },
-    "1220.08": {
+    {
       "requestid": "0aa56db1-a694-43ff-9d34-8d5a997271e5",
       "confidence": "0.7476184",
       "timestamp": 1220.08,
       "content": "so that she said general females you wanna focus your call on the services that you provide your listeners not not that there gonna help somebody else become a better person and as a general theme is",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "bab2954c-f2ba-4055-83cd-c9edc090052f"
     },
-    "1235.91": {
+    {
       "requestid": "76fa6e47-31af-4436-9327-1c7d0aa41c44",
       "confidence": "0.7674078",
       "timestamp": 1235.91,
       "content": "what you can do for your gever spell second li I think it is important to link the podcast dollars to come in with a private good that these people like",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "f9aaf81e-c6b2-4494-ba00-1255b9fc3b3c"
     },
-    "1250.0": {
+    {
       "requestid": "9b321efa-9ff9-4f86-988a-54571db9a039",
       "confidence": "0.846468",
       "timestamp": 1250.0,
       "content": "wait we had with so we actually have just ran up some prizes are not that shocking but there kinda fun so like",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "6e862e46-29db-45b9-9d69-47c1c97174b1"
     },
-    "1257.04": {
+    {
       "requestid": "354e6dfd-1e11-4a75-ada8-1f7e0b560bfc",
       "confidence": "0.7589768",
       "timestamp": 1257.04,
       "content": "for 60 bucks a year so we get the freakonomics mogre making a great muddy up freakonomics radio market actually got content on it from the radio 75 bucks year freakonomics radio t shirt",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "631ef20e-6208-498f-b05a-be1dcda35878"
     },
-    "1268.73": {
+    {
       "requestid": "e79d0212-d9d8-44d9-a485-c6e12ee2b684",
       "confidence": "0.7721524",
       "timestamp": 1268.73,
       "content": "and for 360 bucks your cities are in a monthly sustaining membership sister in about a month 360 up a year around 30 bucks a month",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "659df47b-506f-4e7c-a9c9-57a627b04e73"
     },
-    "1277.52": {
+    {
       "requestid": "33afad96-981d-44ea-9032-3334669c3ec2",
       "confidence": "0.8663927",
       "timestamp": 1277.52,
       "content": "they get the signed book but what you're saying is as good as those may be that the lottery component is really good so we say everybody that contribute anything at all or even just pretend they wanna contribute could be entered into a lottery and we bring up to new york in",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "8b0b6c3b-d9fd-4565-b0be-c31de5f11139"
     },
-    "1295.3": {
+    {
       "requestid": "8b7e4ddb-7049-400e-96ae-d095fd7facf8",
       "confidence": "0.8239572",
       "timestamp": 1295.3,
       "content": "take me out to dinner maybe adam spend the day here at wmic at the radio stadion see how we make the sausage you're saying that look like a no brainer wish def we do that I think so",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "739e6160-e5ac-4166-99b6-87b90aad8eba"
     },
-    "1305.6": {
+    {
       "requestid": "2783a07d-f36c-42c8-bcb6-b68b50a8a5d3",
       "confidence": "0.7597256",
       "timestamp": 1305.6,
       "content": "how big is long as you can do that",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "f640cc16-e19b-4d51-b61f-4d218a71baaf"
     },
-    "1307.24": {
+    {
       "requestid": "b7485703-901e-4b59-8ab7-d786e3396422",
       "confidence": "0.803938",
       "timestamp": 1307.24,
       "content": "are the laws have a gambling which course you need to check out I think that is a no brainer know what about time you mentioned it may be the most prominent driver filantropica bing is with cold warm glow altruism that people feel you know that they get something good that makes them feel that makes them glow for giving the money",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f249d441-28ac-4b80-857a-2c5118dbf3a9"
     },
-    "1325.86": {
+    {
       "requestid": "58e014bb-408d-40f1-9bf1-eccd46a3409c",
       "confidence": "0.6989129",
       "timestamp": 1325.86,
       "content": "is there anyway that we could pitch freakonomics radio you think is in that direction I can't think of any I mean II find this you know not very glowy yeah I think",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0063ef08-aac3-489f-980e-3d63c693f260"
     },
-    "1337.38": {
+    {
       "requestid": "802de426-3c17-4e2c-81d2-cecce4c1405f",
       "confidence": "0.8027047",
       "timestamp": 1337.38,
       "content": "so when I think about warm glow I think about it is if you give money to the cause you can actually sit around thanksgiving table in preg to your mom about how good of a person you are because you just gave money to that specific cause",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "08c0b82f-26b5-47a7-a981-9e556e6f352b"
     },
-    "1352.82": {
+    {
       "requestid": "e2a1fe71-de8b-47da-a420-4c2584b54e80",
       "confidence": "0.6373812",
       "timestamp": 1352.82,
       "content": "seattle see that working for us alone",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "d6ad1900-02db-4b24-973f-8c093a254916"
     },
-    "1354.77": {
+    {
       "requestid": "152fea1f-ca18-4e50-82ce-edffe04c01ad",
       "confidence": "0.6247907",
       "timestamp": 1354.77,
       "content": "that would freakonomics radio if I said around thanksgiving",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "427283b1-1a93-4512-ab40-3b8dabf59e91"
     },
-    "1357.93": {
+    {
       "requestid": "269400c4-5f9d-421a-aa26-53b6a85fd9ec",
       "confidence": "0.6593732",
       "timestamp": 1357.93,
       "content": "tell mom and dad you don't get in my dad at christmas driver yeah my moms a secretary and I said I just you know what I get to give you for christmas",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "0928d1df-5baf-4570-8860-af5ed0948754"
     },
-    "1368.28": {
+    {
       "requestid": "41bba841-7b01-4cdb-ac37-4799ea33ff94",
       "confidence": "0.718775",
       "timestamp": 1368.28,
       "content": "the $100 check my contribution to the freakonomics podcast",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "88185c90-d9c9-4829-9657-c30c8f9bd74a"
     },
-    "1372.81": {
+    {
       "requestid": "e4ef11a8-fd2e-4d11-ae3b-abb75c34cbd0",
       "confidence": "0.7624835",
       "timestamp": 1372.81,
       "content": "look up I might be out in the snow bank",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "53c1539c-3a57-4316-b56d-a9a7b73a3cc5"
     },
-    "1377.48": {
+    {
       "requestid": "c61bf6c5-3b62-4188-9606-24e15d23a165",
       "confidence": "0.7407287",
       "timestamp": 1377.48,
       "content": "soizic I have to think about it further but I don't see I don't see warm glow I see if you eat the freakonomics podcast is more private good at and now I don't even know it I did I get that it's a public garden I get that when she provided people can free ride with the consumption of it and say",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "57f923a0-abaa-40bb-8282-b922840f8962"
     },
-    "1395.22": {
+    {
       "requestid": "6b7e3343-8bf7-4df3-a50e-d84e7ff67fa6",
       "confidence": "0.8421186",
       "timestamp": 1395.22,
       "content": "BM one that look I wanna consumer because it's gonna help me right right right if I don't have his podcast for some reason I might not be as good of a person",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "eb81b7c9-ac63-4441-9b24-bd530e10686a"
     },
-    "1405.49": {
+    {
       "requestid": "e19d7945-5515-46b0-be79-860db30741d4",
       "timestamp": 1405.49,
-      "content": ""
+      "content": "",
+      "uuid": "2d6548b4-374d-4eb7-86ca-f2447c2913c5"
     },
-    "1410.54": {
+    {
       "requestid": "8b986258-c820-42c5-905c-401111708bdf",
       "confidence": "0.7142317",
       "timestamp": 1410.54,
       "content": "so should that be your message which is that if you don't help support us you will become you know an idiot is it leotis is the nuclear but no you said you don't wanna push moon or the other than you clear by tonight in what ways if you don't support as we won't make it",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "74754892-bb6c-4b73-a714-c0928f6b36ee"
     },
-    "1428.81": {
+    {
       "requestid": "5630e103-f1ba-410c-a163-658c5c6b0c8c",
       "confidence": "0.6324825",
       "timestamp": 1428.81,
       "content": "damn im what do you gotta do then make a note north quality",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "1d299a22-4a3b-4512-9e23-b3e2c9d0a5f3"
     },
-    "1431.95": {
+    {
       "requestid": "06399099-019f-404e-8d75-63c13f9b40e5",
       "confidence": "0.735509",
       "timestamp": 1431.95,
       "content": "exactly yeah it's like if you know if we don't have that we're just gonna make this stuff to make your ears bleed after while",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "62fb91d8-e3a2-4637-a7ef-98d9f0e887c1"
     },
-    "1438.4": {
+    {
       "requestid": "ab92159d-1252-454c-9073-a56f907e98a2",
       "timestamp": 1438.4,
-      "content": ""
+      "content": "",
+      "uuid": "cc165723-ab16-4236-aac7-b682b6c83510"
     },
-    "1443.05": {
+    {
       "requestid": "72ab939c-d194-4185-b50a-3013d32f66d8",
       "confidence": "0.8274115",
       "timestamp": 1443.05,
       "content": "you won't get out of it what you think you'll want out of it",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "0349402e-57cb-48e3-ad4e-08ede1e5daae"
     },
-    "1446.48": {
+    {
       "requestid": "2463ace3-2084-4f2f-8d4a-69cd93a2599e",
       "confidence": "0.5129634",
       "timestamp": 1446.48,
       "content": "ESA call that the quasi nuclear bombs were gonna give you something but could be crap",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "deec9c61-2722-42c8-8e70-5371e210df79"
     },
-    "1453.28": {
+    {
       "requestid": "2ecf9929-4fb4-45ec-97b3-bd400ba96862",
       "confidence": "0.7443295",
       "timestamp": 1453.28,
       "content": "but I do like the angle of",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "c71a1d75-20e4-4c95-ab12-d607653c0c9f"
     },
-    "1456.3": {
+    {
       "requestid": "ea91931c-43ff-4962-a225-51ad2fe14d6f",
       "confidence": "0.7236996",
       "timestamp": 1456.3,
       "content": "you know appealing to what they're getting individually out of this I think that has to be at is there any kind of positive message you could imagine like you know keep your brain cells alive better or keep your neurons firing there you go I like that",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "7560aa65-c2dd-465a-8be1-a7d6e014885d"
     },
-    "1472.07": {
+    {
       "requestid": "6414a823-202e-41ad-b8eb-3b7acb7a508e",
       "confidence": "0.6460298",
       "timestamp": 1472.07,
       "content": "pires would be really cool steven if we put one guy in an f mri listening to some ordinary radio show I like we're gonna put it another guy in the fmri listening to 104 series",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "c6b6f0c0-fd35-4408-acbd-919119f3855f"
     },
-    "1487.53": {
+    {
       "requestid": "b9c211fb-ffd3-4b2c-badc-8d939020fa31",
       "confidence": "0.8203223",
       "timestamp": 1487.53,
       "content": "your podcast and we found that part of the brain",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "4f68a0bd-f9b7-4d59-a18f-eff87170bc0d"
     },
-    "1492.24": {
+    {
       "requestid": "c9a56b88-91d9-4ab2-92bc-355f37655056",
       "confidence": "0.5977244",
       "timestamp": 1492.24,
       "content": "denton portley let the good things in society in oneida deeper sankaraiah am more analytical and you can say look we can keep providing this look at this cat here's a braynon fat and I'm not here to brecknock that is awesome chat so let me ask you this are",
-      "speaker": "S178"
+      "speaker": "S178",
+      "uuid": "1258ed7c-0bc4-4a5b-82da-a5ec212484ab"
     },
-    "1509.41": {
+    {
       "requestid": "0332fe87-fe07-46c9-a514-19bcaef083f1",
       "confidence": "0.8334932",
       "timestamp": 1509.41,
       "content": "when you sent solicitor's door to door to raise money found a good looking people do better they raise more money now this is radio podcast slash radio and um I think I have a great face for radio",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4199a4fd-d868-45d9-8054-6dbe51bf0d23"
     },
-    "1525.02": {
+    {
       "requestid": "417b6fda-f961-4585-8925-4cc79b3f6bc4",
       "confidence": "0.6325872",
       "timestamp": 1525.02,
       "content": "no and no and see in what we look like but since some p",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "2fe1a42c-c513-4000-bade-136f52728cf3"
     },
-    "1530.91": {
+    {
       "requestid": "ed1529a5-876a-417b-a3eb-bb5ca38bd26c",
       "confidence": "0.8395264",
       "timestamp": 1530.91,
       "content": "call do you know what we look like versus other people should we just get some really good looking well known people one are 2 to ask for us out a bath",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "edc80c6b-01b4-41fa-baca-8fe08e293d4b"
     },
-    "1545.41": {
+    {
       "requestid": "b5b9f20b-8a2a-42f6-81ef-799ad6e098cd",
       "confidence": "0.8328331",
       "timestamp": 1545.41,
       "content": "I think some people want to see you and steph I think other people want to see others who they want to emulate tell them that it's a good product and they should consume at 2",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "8959dce1-481e-4b8b-9002-7c7b3c2ece77"
     },
-    "1567.42": {
+    {
       "requestid": "d1eccbbe-eccd-40ce-88cf-05655af47be4",
       "confidence": "0.6268471",
       "timestamp": 1567.42,
       "content": "ok podcast listeners that was john list the mad scientist to fund raising would be fools not follow his advice so as john suggested I am steve let the pigeon on our fundraising appeal",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1651b77f-c940-4e39-9c26-61b687f944a3"
     },
-    "1581.23": {
+    {
       "requestid": "9b19321f-535f-4ed0-ace1-b22818096d42",
       "confidence": "0.4462849",
       "timestamp": 1581.23,
       "content": "it's 11 sad",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "682697b5-1d61-4676-b5ca-99e20117ea88"
     },
-    "1582.77": {
+    {
       "requestid": "8897572f-c70e-4ef6-9fc5-fed869dfc823",
       "confidence": "0.6616906",
       "timestamp": 1582.77,
       "content": "noonu I don't think your objective is really bad today must not here yet checked it it to make that list me as happy as possible by giving them the option to be happy by giving her some money all that such a nice way of putting up we're trying to feser listings by giving them the option for dissipating",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "eaed015b-9743-4b0f-86c9-f1557a57c910"
     },
-    "1602.78": {
+    {
       "requestid": "bdb6746e-4605-4fc8-a260-6f86b7aa3fb6",
       "confidence": "0.7899411",
       "timestamp": 1602.78,
       "content": "so if that is not guilty and let me remind you that we are offering freakonomics radio swag if you come tofreakonomics.com and make a donation there's a",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1586a512-4473-4d4d-8320-3ddde122e819"
     },
-    "1612.23": {
+    {
       "requestid": "9c2ab1f8-fce2-405e-af88-31ab8a91af54",
       "confidence": "0.6502053",
       "timestamp": 1612.23,
       "content": "freakonomics radio t shirt freakonomics radio muggah brand new and I don't mean randy with and not use my other people which they are not but brand new designs for this week number for your fundraiser you can also get a signed copy of our book that would make you happy",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "54b9920c-706f-4bff-a43a-f705f972341a"
     },
-    "1632.98": {
+    {
       "requestid": "d7861300-f4a9-451e-b9b6-876ad3012220",
       "confidence": "0.8022736",
       "timestamp": 1632.98,
       "content": "note john list also told us but it's a good idea to mention the other people",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "86f92ed9-8bc9-4d03-b169-4f380661e84b"
     },
-    "1638.48": {
+    {
       "requestid": "e0bad5bf-84fc-4853-9a9b-7677e2508f5f",
       "confidence": "0.8231977",
       "timestamp": 1638.48,
       "content": "are already donating to let me say this we've only just turned on the fund raising button andfreakonomics.com and already we got donations pouring in from ruperto in brazil from chris in new zealand christian in malta mark from new jersey and daniel from washington state",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "11cf0ee1-6104-477e-be48-8b4205f662f5"
     },
-    "1657.13": {
+    {
       "requestid": "f15a02a5-a8a4-48b2-9814-38af12ff368d",
       "confidence": "0.774712",
       "timestamp": 1657.13,
       "content": "I know what your thinking you're thinking",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "6ca3da89-33ce-4fa1-86f2-aedf72cfc631"
     },
-    "1659.9": {
+    {
       "requestid": "15867130-9453-4b31-b9d0-a253cf5b0b91",
       "confidence": "0.8338497",
       "timestamp": 1659.9,
       "content": "I don't know any of those people and moreover I don't know if the good looking",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "9597f21d-cea1-4554-a440-15f538f42414"
     },
-    "1666.05": {
+    {
       "requestid": "23427520-2e1a-45b9-86ee-257e351d4c7c",
       "confidence": "0.5111302",
       "timestamp": 1666.05,
       "content": "I'm with john bassett about the beautiful",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "ea575272-23a4-4940-9e5e-f786385f8a06"
     },
-    "1668.57": {
+    {
       "requestid": "bba78a17-bd58-4954-b704-c22af271817e",
       "confidence": "0.8467041",
       "timestamp": 1668.57,
       "content": "what we find is that one obvious result is that beautiful women ended up raising the most money of all this lyster's that we had",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "4dbc3c87-f124-4a3f-83fc-b36f5b468600"
     },
-    "1683.14": {
+    {
       "requestid": "a67f2bf0-ddf1-43c1-94d8-5f8f4e48f83a",
       "confidence": "0.5909771",
       "timestamp": 1683.14,
       "content": "in the name of science",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "be72d16f-5e03-4ef1-b7d9-1fa4e62e6fab"
     },
-    "1685.93": {
+    {
       "requestid": "cae9807d-7007-434f-b940-bad6fc15b221",
       "confidence": "0.6131226",
       "timestamp": 1685.93,
       "content": "I'm finna sanders I'm still at work my college I'm awesome I know and I think you should I need the freakonomics",
-      "speaker": "S265"
+      "speaker": "S265",
+      "uuid": "2a59fcc1-001a-4f07-a4fb-7b08be83ba03"
     },
-    "1693.23": {
+    {
       "requestid": "780fca84-cc55-4b6c-8e22-7b63495e291c",
       "confidence": "0.8500075",
       "timestamp": 1693.23,
       "content": "she's with the wilhelmina agency in miami",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "95575c64-c8fd-46e6-81ae-a9cd2cc4d070"
     },
-    "1695.93": {
+    {
       "requestid": "8d9377ce-bce8-4dbf-9def-1dd9eeb60bb7",
       "confidence": "0.5418116",
       "timestamp": 1695.93,
       "content": "I advocate for freakonomics your family honey it's my very favourite",
-      "speaker": "S265"
+      "speaker": "S265",
+      "uuid": "a73f77e4-d130-4c30-9e24-4d3dcd198c2e"
     },
-    "1702.49": {
+    {
       "requestid": "ac5b061c-cb22-432e-9828-135783003112",
       "confidence": "0.8769882",
       "timestamp": 1702.49,
       "content": "are we are are we taking off in the wilhelmina modeling community",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "76c39a98-2de0-4016-aa17-72d3ca456b09"
     },
-    "1707.31": {
+    {
       "requestid": "4bee949b-6a5c-4e84-98cf-55ed21a4ec76",
       "confidence": "0.6033806",
       "timestamp": 1707.31,
       "content": "I haven't yet seen that he got there but I'm sure where I will be bringing the word metcalf",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "9c62afb2-da68-4ea4-b60d-4486468e61ea"
     },
-    "1713.58": {
+    {
       "requestid": "c185fc7a-2d85-4357-935c-dac1b29cb143",
       "confidence": "0.7018776",
       "timestamp": 1713.58,
       "content": "alright savannah and as you spread this word out what were you actually tell people",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "3dcf182a-1109-434f-bb2e-9d87c116b9f7"
     },
-    "1718.81": {
+    {
       "requestid": "001e273d-cab1-4512-9a5e-214a463c2374",
       "confidence": "0.6265795",
       "timestamp": 1718.81,
       "content": "well screw can I mix radio on that is great because it opens people's minds go ahead inside of everything which is just a really special and no wonder he can't do it like steve and underneath in love it",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "eb8c1ee8-e141-42cd-bc7b-8d9cb3b02022"
     },
-    "1735.55": {
+    {
       "requestid": "1ad83368-3a73-44e4-b153-0948d3499223",
       "confidence": "0.6479907",
       "timestamp": 1735.55,
       "content": "I personally would donate money to freakonomics and I think you should too",
-      "speaker": "S138"
+      "speaker": "S138",
+      "uuid": "c6a6585e-5a05-4119-81f6-061670a29d78"
     },
-    "1741.81": {
+    {
       "requestid": "0f40c711-a6aa-48b0-a06e-49fe5b1bb964",
       "confidence": "0.7747877",
       "timestamp": 1741.81,
       "content": "no we ought to ask john list of good looking men raise more money",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "7315f91e-6c26-40f6-bf21-075d34f66dae"
     },
-    "1747.29": {
+    {
       "requestid": "4b7bec34-8af9-4c8d-b9b0-bfff9f582f39",
       "confidence": "0.6586677",
       "timestamp": 1747.29,
       "content": "yeah we did have all we did see a lot of that in a data set alarm the beauty effect was really not driven by better looking men that that's that's not anywhere today does",
-      "speaker": "S115"
+      "speaker": "S115",
+      "uuid": "ba41e5b6-1b7f-428f-993b-0210c46a9163"
     },
-    "1759.3": {
+    {
       "requestid": "ffb39045-73cd-47b7-b3ee-03d922f11a92",
       "confidence": "0.8777835",
       "timestamp": 1759.3,
       "content": "john list is probably right but you know want this is important to us so just to be sure I wanna cover all",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "430f4086-cae3-4ac4-9964-a09624cdd653"
     },
-    "1767.4": {
+    {
       "requestid": "6b34de8c-f798-4331-8b39-6b748138511b",
       "confidence": "0.7127452",
       "timestamp": 1767.4,
       "content": "basys ok hadran hey what's up how's it going fantastic and yourself great thank you sound what do you working on oh quite a number of things",
-      "speaker": "S278"
+      "speaker": "S278",
+      "uuid": "6cb32f4c-2245-48df-901d-30a619468a58"
     },
-    "1778.59": {
+    {
       "requestid": "9949484d-f7bd-4fc9-ab79-db5dcc7fb306",
       "confidence": "0.83608",
       "timestamp": 1778.59,
       "content": "so I'm a junior actor and director and musician you've also made some really good documentary films year old and environmental activist which may be a lot of people may not know about you but at this stage you may still be best known for playing vincent chase in entourage think that's the case",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "cd5547b9-7d0d-4335-844e-68beff56dd88"
     },
-    "1796.06": {
+    {
       "requestid": "917fce90-2be5-433a-9823-ce7cefa39fbb",
       "confidence": "0.6799119",
       "timestamp": 1796.06,
       "content": "I say that would be accurate yes thanks",
-      "speaker": "S278"
+      "speaker": "S278",
+      "uuid": "add45dba-ed3b-4de8-87b1-e3496bb48ebd"
     },
-    "1799.08": {
+    {
       "requestid": "630d4969-4c5c-4bf5-8f93-53d65367d943",
       "confidence": "0.7947568",
       "timestamp": 1799.08,
       "content": "and I'm good with your faith actor it that you are well I guess is matter of opinion but it strikes me let me put it this way strikes me that you are",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "98898eb7-ad4d-4e70-a134-093cbc2b4ab0"
     },
-    "1808.67": {
+    {
       "requestid": "bd0d1909-7c64-4d8d-af35-8ac3fb083456",
       "confidence": "0.8945919",
       "timestamp": 1808.67,
       "content": "the best looking human male I've ever met",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4843f95b-5adb-4365-961f-6e6e8f01c695"
     },
-    "1812.14": {
+    {
       "requestid": "8e8f2b33-2ed4-4f4f-93ac-a8356dde86f1",
       "confidence": "0.6429891",
       "timestamp": 1812.14,
       "content": "ramelle it ever existed",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "aa3a1b44-ad46-4875-881d-ac5c2f685c05"
     },
-    "1814.42": {
+    {
       "requestid": "feb58be6-7956-4f7a-97a2-84fabd75b9c8",
       "confidence": "0.7318551",
       "timestamp": 1814.42,
       "content": "why you always were such a big flirt",
-      "speaker": "S278"
+      "speaker": "S278",
+      "uuid": "1e0b66ad-8b53-4350-908d-aab0fccfd227"
     },
-    "1817.17": {
+    {
       "requestid": "523f3b8f-a718-49f3-8360-4385d93c8441",
       "confidence": "0.3120888",
       "timestamp": 1817.17,
       "content": "orange county area but",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "e6de3fef-cfea-4d48-b14f-87c8f6ee5f79"
     },
-    "1820.76": {
+    {
       "requestid": "2155b2e2-c0f1-45ca-9fd2-1deb8569d1a4",
       "confidence": "0.7710136",
       "timestamp": 1820.76,
       "content": "I mean you're good looking fella that we can agree on that I will thank you",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4497e470-7adc-41cf-ab43-a061ca1890ba"
     },
-    "1825.67": {
+    {
       "requestid": "2f52ea05-c81a-4fc0-9bdb-15c658cc7d87",
       "confidence": "0.7118792",
       "timestamp": 1825.67,
       "content": "night for 6 years and I'm getting too so even though this is radio people can't see you need to know what you adrian grenier look like so I'm wondering if you would just turn on your good looking this over the radio and help us out at 123",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "ab5b5479-2f28-42c2-b3e3-b25aefef91fe"
     },
-    "1843.18": {
+    {
       "requestid": "d8aa2f47-6dda-40d3-bb43-41d69696e8c0",
       "confidence": "0.7568368",
       "timestamp": 1843.18,
       "content": "how is that that's good I'm here and I'm feeling it",
-      "speaker": "S287"
+      "speaker": "S287",
+      "uuid": "88fc22c9-e69c-45c3-bc9b-190e35ce7c59"
     },
-    "1849.71": {
+    {
       "requestid": "3b520d78-cc4a-422e-9db4-2fd8e62c5e9a",
       "confidence": "0.6577973",
       "timestamp": 1849.71,
       "content": "um so um what do you what do you willing to say for isean are you on this a bit hamidun granian I'm a certified attractive person and yeah I mean its up to you want my own I don't know",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f299fe79-aa74-4548-a079-53dd511c9c18"
     },
-    "1862.31": {
+    {
       "requestid": "9e9fb442-ab9a-43d4-bcaa-62209c4615da",
       "confidence": "0.8522412",
       "timestamp": 1862.31,
       "content": "beauty is in the eye of the beholder I really do believe that um but if it'll help you out I would just say maybe a yeah you could go to my instagram at a drink and a and if you like what you see then support freakonomics radio",
-      "speaker": "S278"
+      "speaker": "S278",
+      "uuid": "71f5f2e3-60cc-4b34-a563-f8dacba4629b"
     },
-    "1891.45": {
+    {
       "requestid": "ef80db04-e9b9-4cf7-b6c0-2b4fa96e8488",
       "confidence": "0.5059387",
       "timestamp": 1891.45,
       "content": "alright we almost in feet are bag of tricks what is done with thomas people love the lottery which do",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "02020b6a-df0c-43d4-a7d2-3b32ce31eca8"
     },
-    "1899.88": {
+    {
       "requestid": "89e7a3d9-1c74-4d11-9577-55d2893bc435",
       "confidence": "0.6955181",
       "timestamp": 1899.88,
       "content": "if you go to freakonomics.com and click on the donate button you automatically be entered into a lottery to come to new york have some lunch with me in the freakonomics radio team even spend the day with us if you want watching this me the podcast that I have to tell you is extremely clayton block",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "556346a9-1dd6-4b39-80eb-b845818b5caf"
     },
-    "1917.07": {
+    {
       "requestid": "bf2f565d-89e9-4e73-8f39-dd4b2315094f",
       "confidence": "0.7655894",
       "timestamp": 1917.07,
       "content": "we will fly you to new york from anywhere in the us to pick you up in a hotel and give you more freakonomics swag than you can possibly carry home screen email to buy an extra bag and pay a bad check fee and you know I will pay back to you don't even have to make a donation to enter the lottery percorsi hope you will",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "4be36d9d-eb58-4208-b42a-7b62e9a3709f"
     },
-    "1934.68": {
+    {
       "requestid": "711957bd-97d1-4453-b248-64a2b6763d2b",
       "confidence": "0.781982",
       "timestamp": 1934.68,
       "content": "thanks to all of you for listening as always and special thanks any money does go to freakonomics.com to make a donation and I look forward to meeting one of you very soon",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "99e7c771-7d3f-4ed9-80c0-1cd576a5c399"
     },
-    "1949.87": {
+    {
       "requestid": "9f8e5840-79a3-4613-a773-d599c1f484c3",
       "timestamp": 1949.87,
-      "content": ""
+      "content": "",
+      "uuid": "0bbf7a01-898b-4e53-bd8c-43442f5c048a"
     },
-    "1957.9": {
+    {
       "requestid": "fb9baf60-d43f-400b-a502-837ff63c765a",
       "confidence": "0.6342393",
       "timestamp": 1957.9,
       "content": "free pocket passers on the next week number don't we visit norway maybe when the green places on earth are electric cars everywhere you look",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "d6745564-d20c-4885-84f7-664655a13d57"
     },
-    "1966.76": {
+    {
       "requestid": "49cdcd7e-7f29-4147-81f4-769a4385e2f5",
       "confidence": "0.5856791",
       "timestamp": 1966.76,
       "content": "cast of apa crissy because we are one of the largest distributors of oil and gas in the world that you're not retarded at the left hand side of the picture for sure it's a really thick dicks",
-      "speaker": "S311"
+      "speaker": "S311",
+      "uuid": "1cf2c466-5b11-432f-8e89-119536ef3f63"
     },
-    "1978.34": {
+    {
       "requestid": "0f6d851b-1316-42b3-8724-61119000dddb",
       "confidence": "0.6575748",
       "timestamp": 1978.34,
       "content": "are the norwegians carbon laundering but next time I'm free I'm free",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "43a1494d-3a7a-4439-bddb-4eb2f357b5f7"
     },
-    "1995.17": {
+    {
       "requestid": "7c78e0b8-bbc3-4420-8f65-430a18dbe159",
       "confidence": "0.6826525",
       "timestamp": 1995.17,
       "content": "freakonomics radio is produced byWNYCN.net production arsac include david herman pregra sowski cradduck own caroline english susie lechtenberg in crispins in",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "04db1318-acee-44e2-b190-d06a8b40f089"
     },
-    "2006.97": {
+    {
       "requestid": "5ee8fbe3-2659-4af6-a9c7-61dc6127c2db",
       "confidence": "0.6957795",
       "timestamp": 2006.97,
       "content": "if you want more freakonomics radio you can subscribe to podcasts on itunes or go to freakonomics.com will find lots of radio o'clock in morning",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "9a4d54c4-6803-4689-9e5a-6d942fbbd578"
     },
-    "2025.77": {
+    {
       "requestid": "4e767c66-ae1b-4980-9768-0060212fb653",
       "timestamp": 2025.77,
-      "content": ""
+      "content": "",
+      "uuid": "e99807ac-b008-49d9-800d-466a3c0d0319"
     },
-    "2029.2": {
+    {
       "requestid": "05caef75-8b75-4b00-aee2-76bceba71c4f",
       "confidence": "0.8730009",
       "timestamp": 2029.2,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "7656313d-7919-415e-94a1-d9b1ef944f78"
     },
-    "2040.79": {
+    {
       "requestid": "04ced7d1-b95e-4847-9b83-e94c2e0f1314",
       "confidence": "0.7627587",
       "timestamp": 2040.79,
       "content": "will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat low cost that were previously impossible",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "7cb4988a-4720-45a5-8c29-c41353934dc0"
     },
-    "2049.85": {
+    {
       "requestid": "8f1937fb-f08a-4c2f-940a-635c9639d905",
       "confidence": "0.8919298",
       "timestamp": 2049.85,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f7141b82-3dd0-4927-b382-f8f96ab41444"
     }
-  }
+  ]
 }

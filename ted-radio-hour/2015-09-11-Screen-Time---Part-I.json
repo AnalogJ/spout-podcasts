@@ -3,2238 +3,2610 @@
   "date": "2015-09-11",
   "description": "It's normal for us to be constantly glued to our screens. So how are they changing us, and how will they shape our future? This hour, TED speakers explore our ambivalent relationships with our screens.",
   "episode_url": "http://podcastdownload.npr.org/anon.npr-mp3/npr/ted/2015/09/20150910_ted_tedpodb.mp3?orgId=1&d=3713&p=510298&story=439233253&t=podcast&e=439233253&ft=pod&f=510298",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "39fda678-1045-47da-b930-bfde2a84f1da",
       "confidence": "0.8638591",
       "timestamp": 0,
-      "content": "support for this podcast comes from 20th century fox presenting the martian starring matt damon is an astronaut left behind on a mission to mars based on the best selling novel"
+      "content": "support for this podcast comes from 20th century fox presenting the martian starring matt damon is an astronaut left behind on a mission to mars based on the best selling novel",
+      "uuid": "8fa1566e-2dc3-4f28-a07e-e1fa7ab050d6"
     },
-    "10": {
+    {
       "requestid": "cb36d4c5-8b45-442e-961f-7fa5e5ccc2ae",
       "confidence": "0.7979181",
       "timestamp": 10,
-      "content": "by andy we are in theatres October 2nd this"
+      "content": "by andy we are in theatres October 2nd this",
+      "uuid": "ea6220cc-66be-4bb9-94a6-c18ed89bc4dd"
     },
-    "20": {
+    {
       "requestid": "9fa157c5-eb27-4460-aa51-1dac28b8e3eb",
       "confidence": "0.4133777",
       "timestamp": 20,
-      "content": "sweet brown breaking ted talk text and it kept technology interchange design design is everything at the temperature ever known that delivered and its head cut off"
+      "content": "sweet brown breaking ted talk text and it kept technology interchange design design is everything at the temperature ever known that delivered and its head cut off",
+      "uuid": "390d439c-376d-4d57-aca1-6c72db832795"
     },
-    "30": {
+    {
       "requestid": "ba886bcf-1a01-4d60-8c58-f81fec8543ba",
       "confidence": "0.5257665",
       "timestamp": 30,
-      "content": "is around the world gift of the human imagination we had to believe in the impossible true nature of reality second just beyond those 2"
+      "content": "is around the world gift of the human imagination we had to believe in the impossible true nature of reality second just beyond those 2",
+      "uuid": "bd268e39-7681-4b06-98a7-b0d95ad42e27"
     },
-    "40": {
+    {
       "requestid": "18482478-c87c-449c-85f4-8fbb36302d33",
       "confidence": "0.1909967",
       "timestamp": 40,
-      "content": "what's the capital radio"
+      "content": "what's the capital radio",
+      "uuid": "75cbcd67-2c15-498e-8001-0d2aa8eef322"
     },
-    "50": {
+    {
       "requestid": "d1ece31b-9555-4520-9ac2-b9795b266b42",
       "confidence": "0.6199408",
       "timestamp": 50,
-      "content": "I've got rageh the past 2 years corporations one and 2 stage manage an announcement thank you good afternoon and welcome to the club have turned to the"
+      "content": "I've got rageh the past 2 years corporations one and 2 stage manage an announcement thank you good afternoon and welcome to the club have turned to the",
+      "uuid": "c5644c52-573b-409a-a489-d18a38e949d0"
     },
-    "60": {
+    {
       "requestid": "2af41e30-65d6-4eb6-9b29-c872b9404bf1",
       "confidence": "0.6127367",
       "timestamp": 60,
-      "content": "brick conference call this is where reporters kendyll and grab some quotes by story normally the orbs pretty boring but any"
+      "content": "brick conference call this is where reporters kendyll and grab some quotes by story normally the orbs pretty boring but any",
+      "uuid": "1217c63c-e08d-4be9-a648-c40b233fb1ca"
     },
-    "70": {
+    {
       "requestid": "c9142de8-74d6-4e76-84f0-7a1aa2e03316",
       "confidence": "0.740937",
       "timestamp": 70,
-      "content": "listen to this cole this is called can be my facebook in 2014"
+      "content": "listen to this cole this is called can be my facebook in 2014",
+      "uuid": "cf87756b-00cb-48df-bb2c-3715e2b906c0"
     },
-    "80": {
+    {
       "requestid": "8698e2f3-a23b-4204-8c77-a75fbc3fff5b",
       "confidence": "0.5944805",
       "timestamp": 80,
-      "content": "amazing prediction thanks deborah thanks for joining us today prediction about the future of screams I'm excited to announce that facebook shares reach an agreement required"
+      "content": "amazing prediction thanks deborah thanks for joining us today prediction about the future of screams I'm excited to announce that facebook shares reach an agreement required",
+      "uuid": "c950fb3d-764a-40ec-8bf0-7ec011e25001"
     },
-    "90": {
+    {
       "requestid": "bf86dc81-72df-49fd-a144-ad0c48210958",
       "confidence": "0.5430431",
       "timestamp": 90,
-      "content": "oculus vr leader in virtual reality so this is mark zuckerberg on this conference call with reporters announcing that facebook about"
+      "content": "oculus vr leader in virtual reality so this is mark zuckerberg on this conference call with reporters announcing that facebook about",
+      "uuid": "a27c55ca-2999-4db0-997b-0953ea3fa2c7"
     },
-    "100": {
+    {
       "requestid": "61eee4e1-0c70-4b7e-960e-cbe38ea88fad",
       "confidence": "0.6921032",
       "timestamp": 100,
-      "content": "for $2 Billion a company that makes virtual reality headset know at this point alotta facebook investors are questioning that acquisition"
+      "content": "for $2 Billion a company that makes virtual reality headset know at this point alotta facebook investors are questioning that acquisition",
+      "uuid": "abdf3752-f6bf-4481-8214-6dc4f3e45d82"
     },
-    "110": {
+    {
       "requestid": "11ccc549-7660-4d08-be39-c2a0d75f1db0",
       "confidence": "0.5938078",
       "timestamp": 110,
-      "content": "asking questions like a reality that thing that was supposed to happen back in the 80s that never took off and so zach a bird on the school was fine"
+      "content": "asking questions like a reality that thing that was supposed to happen back in the 80s that never took off and so zach a bird on the school was fine",
+      "uuid": "bfdbf3bd-36fc-45e6-828c-995f184db341"
     },
-    "120": {
+    {
       "requestid": "7958c9b4-b67d-4cfd-89ba-fe41380bb8e7",
       "confidence": "0.6847723",
       "timestamp": 120,
-      "content": "justified 2000 busters why his company to spend $2 Billion on technology most people have never seen in this is what he said"
+      "content": "justified 2000 busters why his company to spend $2 Billion on technology most people have never seen in this is what he said",
+      "uuid": "ea31a5d7-dc9c-4d2e-bd88-1356e015a22a"
     },
-    "130": {
+    {
       "requestid": "a3e2873a-435a-4bea-a3d0-9fc629d56868",
       "confidence": "0.4936673",
       "timestamp": 130,
-      "content": "christmas tree barn street is that every 10 or 15 years there's a new major computing platforms what are the bcs the weather now mobile history suggests that"
+      "content": "christmas tree barn street is that every 10 or 15 years there's a new major computing platforms what are the bcs the weather now mobile history suggests that",
+      "uuid": "fd033986-1277-4101-a561-90b0e41c281d"
     },
-    "140": {
+    {
       "requestid": "e8babb95-24ed-4446-9b97-f459c13a8e0a",
       "confidence": "0.4096604",
       "timestamp": 140,
-      "content": "orange to come in the building define be used when we should all be experiencing center street dental little to benefit financially and strategically"
+      "content": "orange to come in the building define be used when we should all be experiencing center street dental little to benefit financially and strategically",
+      "uuid": "d898bd17-6f9a-40d6-b5b4-4cadbf058868"
     },
-    "150": {
+    {
       "requestid": "e0342fde-b12e-4fe5-842b-ba2f1ee8f727",
       "confidence": "0.5431134",
       "timestamp": 150,
-      "content": "aesop pazin translate that into patty think anyone able to get in on the ground floor of new technology platforms like pc"
+      "content": "aesop pazin translate that into patty think anyone able to get in on the ground floor of new technology platforms like pc",
+      "uuid": "fffd5e70-38d1-4db2-8df3-56a853cc82ce"
     },
-    "160": {
+    {
       "requestid": "db198823-cef1-46ed-8a5d-165e8aad9983",
       "confidence": "0.6885533",
       "timestamp": 160,
-      "content": "or the internet or mobile device is gay changed the way we live in be there busters a boatload of money I get with keep listening"
+      "content": "or the internet or mobile device is gay changed the way we live in be there busters a boatload of money I get with keep listening",
+      "uuid": "7ce34a5b-76ae-4b38-b6cd-846cc365d70c"
     },
-    "170": {
+    {
       "requestid": "62dee95f-ba85-444d-80de-c50db684c150",
       "confidence": "0.4405147",
       "timestamp": 170,
-      "content": "apply for today and I will start in tulsa transfer to talk to tomorrow to say but for the most exciting future plan for northern michigan hermana fine with it"
+      "content": "apply for today and I will start in tulsa transfer to talk to tomorrow to say but for the most exciting future plan for northern michigan hermana fine with it",
+      "uuid": "c2a37b60-3566-4caa-8d65-263d389532ad"
     },
-    "180": {
+    {
       "requestid": "ed2ebcab-472d-403d-95dd-35a06cc1f898",
       "confidence": "0.597987",
       "timestamp": 180,
-      "content": "augmented university of scranton unlock your skin pack one apply so basically this is mark zuckerberg in march 2014"
+      "content": "augmented university of scranton unlock your skin pack one apply so basically this is mark zuckerberg in march 2014",
+      "uuid": "348ab6ad-354e-4911-8a70-5b9eb13bb5a1"
     },
-    "190": {
+    {
       "requestid": "961ce3d4-0c1b-4e48-bf22-aa78b4946d71",
       "confidence": "0.6967084",
       "timestamp": 190,
-      "content": "predicting that virtual reality goggles for the next smart phone the next unit the next thing that's going to transform our lives in cwe"
+      "content": "predicting that virtual reality goggles for the next smart phone the next unit the next thing that's going to transform our lives in cwe",
+      "uuid": "47d001cb-270c-4a3f-af4a-e7dbc394667b"
     },
-    "200": {
+    {
       "requestid": "c1f67889-78e1-49fc-98b3-aab233c7c4ec",
       "confidence": "0.7859658",
       "timestamp": 200,
-      "content": "at least over the past few years a lot of other tech companies microsoft google sony they've also been putting a lot of money on that same idea"
+      "content": "at least over the past few years a lot of other tech companies microsoft google sony they've also been putting a lot of money on that same idea",
+      "uuid": "240da6d8-cb4b-498d-b5af-efb9fdae1bd7"
     },
-    "210": {
+    {
       "requestid": "17cd7cd9-fb12-48f5-8295-71dc703e4770",
       "confidence": "0.7279788",
       "timestamp": 210,
-      "content": "are looking up at technology I think as some people think it's a novelty some people think it's a video game people are beginning to see it as a possible next up"
+      "content": "are looking up at technology I think as some people think it's a novelty some people think it's a video game people are beginning to see it as a possible next up",
+      "uuid": "78d5fc24-b211-4315-9ce7-ba3d2b27fb6b"
     },
-    "220": {
+    {
       "requestid": "d03cf5ef-acde-4f2b-94e0-5fe4822fcea1",
       "confidence": "0.6219226",
       "timestamp": 220,
-      "content": "to cinema I think were all talking about is an alternate version of human consciousness"
+      "content": "to cinema I think were all talking about is an alternate version of human consciousness",
+      "uuid": "896c01a6-74aa-4fa4-af51-632363360f31"
     },
-    "240": {
+    {
       "requestid": "da4c0b7c-789e-41ad-92ec-a03cf4fe48c6",
       "confidence": "0.6434731",
       "timestamp": 240,
-      "content": "chris is only put out a few early versions of those times which you can watch turn turn west on a simple smart phone app"
+      "content": "chris is only put out a few early versions of those times which you can watch turn turn west on a simple smart phone app",
+      "uuid": "1f38971c-f73f-43ba-ae78-d2d0fcae0370"
     },
-    "250": {
+    {
       "requestid": "d5d112eb-b3dc-4f47-8ae1-6b7a6dfcb31c",
       "confidence": "0.5109109",
       "timestamp": 250,
-      "content": "look at that we showed some of that sounds pretty cool 2 people around the npr office look up at school"
+      "content": "look at that we showed some of that sounds pretty cool 2 people around the npr office look up at school",
+      "uuid": "2c24aae0-1061-44ee-83c4-ec80603124a2"
     },
-    "260": {
+    {
       "requestid": "fd6dfb6e-5827-45f0-9a20-84858b93e0b1",
       "confidence": "0.5314873",
       "timestamp": 260,
-      "content": "naked wow wow where did you guys get this its not what your looking at apartments how how old are saying it is because the image"
+      "content": "naked wow wow where did you guys get this its not what your looking at apartments how how old are saying it is because the image",
+      "uuid": "84c707ab-56d3-4507-9f73-734b83f6a737"
     },
-    "270": {
+    {
       "requestid": "73aa9e94-79fe-4731-b023-91ee388d2850",
       "confidence": "0.6336485",
       "timestamp": 270,
-      "content": "see changes so cool opening in the direction to point the phone is totally convincing and it starts to feel as if you're not just watching the screen wow your actual"
+      "content": "see changes so cool opening in the direction to point the phone is totally convincing and it starts to feel as if you're not just watching the screen wow your actual",
+      "uuid": "a72f24f1-7900-438f-bc31-3e84c11a4954"
     },
-    "280": {
+    {
       "requestid": "e862cd7b-afc2-407b-8f1c-8fb4d99a048a",
       "confidence": "0.4974785",
       "timestamp": 280,
-      "content": "inside the technology filter actually present in another place with other people it's different from anything I've ever experienced in my life"
+      "content": "inside the technology filter actually present in another place with other people it's different from anything I've ever experienced in my life",
+      "uuid": "22aa3c30-2238-420f-9bce-fe038e467ba0"
     },
-    "290": {
+    {
       "requestid": "dc0ecbab-1a8f-4aaf-8481-545ba392a51b",
       "confidence": "0.5513011",
       "timestamp": 290,
-      "content": "people trying to say the same thing as we're done here on this episode nology behind our screens is moving really fast so fast back"
+      "content": "people trying to say the same thing as we're done here on this episode nology behind our screens is moving really fast so fast back",
+      "uuid": "1b5204c6-850f-44c9-9e17-b363bdbbcaac"
     },
-    "300": {
+    {
       "requestid": "879acb56-37e1-46c8-9207-03dcb727ec91",
       "confidence": "0.7515479",
       "timestamp": 300,
-      "content": "I'm spent more time imagining how are screens will change in the future been really understanding how our screens are changing us right now ur"
+      "content": "I'm spent more time imagining how are screens will change in the future been really understanding how our screens are changing us right now ur",
+      "uuid": "5bbd7b2f-d240-4e05-a748-dd04eaa54f3b"
     },
-    "310": {
+    {
       "requestid": "473bd38a-8953-483e-8f1e-554ae992f36f",
       "confidence": "0.7576078",
       "timestamp": 310,
-      "content": "always there any keeps is there even if you're not actually there coz it's so good at distracting and you can click a button and get a dopamine head and get something for me"
+      "content": "always there any keeps is there even if you're not actually there coz it's so good at distracting and you can click a button and get a dopamine head and get something for me",
+      "uuid": "853ccaee-a45c-48e2-b644-67865a937381"
     },
-    "320": {
+    {
       "requestid": "dfb1c12e-dbc8-4df7-ae6b-bbc2dd2df367",
       "confidence": "0.7644559",
       "timestamp": 320,
-      "content": "something is blinking pay attention but it's not satisfying information most of the time yeah I try to be healthy but I don't want it to dictate my life but I think if things continue"
+      "content": "something is blinking pay attention but it's not satisfying information most of the time yeah I try to be healthy but I don't want it to dictate my life but I think if things continue",
+      "uuid": "2c57b13d-31f9-4f35-b337-4b87eaf0ae03"
     },
-    "330": {
+    {
       "requestid": "0c915f77-af89-4440-a4c1-3b852f171dba",
       "confidence": "0.7129248",
       "timestamp": 330,
-      "content": "to go to way to pick up megan its just gonna get too much for people you know it's been a lot of time in airport I look around and everybody but only to a person is going to there"
+      "content": "to go to way to pick up megan its just gonna get too much for people you know it's been a lot of time in airport I look around and everybody but only to a person is going to there",
+      "uuid": "ba288947-165d-4984-9e07-d9d9111c1ffd"
     },
-    "340": {
+    {
       "requestid": "34fd396e-39f7-41d7-859f-2b8ef9c8108b",
       "confidence": "0.6363584",
       "timestamp": 340,
-      "content": "did your phone right now that's right now you can hear it on"
+      "content": "did your phone right now that's right now you can hear it on",
+      "uuid": "80997eb4-3cd5-4aeb-838d-1da766b925c7"
     },
-    "350": {
+    {
       "requestid": "7f8fd20c-0538-447d-b74c-1327f9d08c3f",
       "confidence": "0.8151488",
       "timestamp": 350,
-      "content": "one of a 2 part ted radio hour looking at this moment in history when we're starting to interact with their screens almost as much or sometimes even more than we"
+      "content": "one of a 2 part ted radio hour looking at this moment in history when we're starting to interact with their screens almost as much or sometimes even more than we",
+      "uuid": "2cd5178c-56be-4f88-95c5-d7e360d86bcc"
     },
-    "360": {
+    {
       "requestid": "a356623f-f67d-4133-8e4b-c13dd2d5e2e7",
       "confidence": "0.665894",
       "timestamp": 360,
-      "content": "do with other humans next week we're gonna go inside the screen a place for a whole other version of u lipstick and digital doppelganger which may"
+      "content": "do with other humans next week we're gonna go inside the screen a place for a whole other version of u lipstick and digital doppelganger which may",
+      "uuid": "e542746d-bd2d-4f2d-83b2-8d2ceccd3fee"
     },
-    "370": {
+    {
       "requestid": "8fa578c8-fc4d-4e20-9653-406cee273a02",
       "confidence": "0.6187003",
       "timestamp": 370,
-      "content": "maybe more real than the real you this week we're staying mainly outside the screen and projector to ask with all the screener action is doing to us in"
+      "content": "maybe more real than the real you this week we're staying mainly outside the screen and projector to ask with all the screener action is doing to us in",
+      "uuid": "f2fcd8de-8078-42d2-bd74-1df89bd23cd6"
     },
-    "380": {
+    {
       "requestid": "8f8a08e9-80a0-4510-9f93-6892e7be9b63",
       "confidence": "0.5850248",
       "timestamp": 380,
-      "content": "how are living more and more of our lives through the courts I see it again starting in a classroom of students and teachers also the world"
+      "content": "how are living more and more of our lives through the courts I see it again starting in a classroom of students and teachers also the world",
+      "uuid": "f015e5e9-a529-4534-ba88-4b1084dc08db"
     },
-    "390": {
+    {
       "requestid": "1b466481-58bd-4545-81fa-4f09181b4a78",
       "confidence": "0.4975559",
       "timestamp": 390,
-      "content": "the doctor face to face are gun shop universal stores in touch niks for the product are interested in putting on goggles know this is really in your search"
+      "content": "the doctor face to face are gun shop universal stores in touch niks for the product are interested in putting on goggles know this is really in your search",
+      "uuid": "7736d8cf-d192-44e0-a5f1-1d1315ad676c"
     },
-    "400": {
+    {
       "requestid": "1f85cd73-75ea-49c2-b4c9-8c2a97bbd93f",
       "confidence": "0.5430549",
       "timestamp": 400,
-      "content": "often we talk about are we creating our eventual dystopian future and if that is the case and you're listening to this message are"
+      "content": "often we talk about are we creating our eventual dystopian future and if that is the case and you're listening to this message are",
+      "uuid": "eb96f50c-3429-4901-b1ef-f2b5d0775b18"
     },
-    "410": {
+    {
       "requestid": "ee0e5746-dd72-4570-adfb-6c2b4d294456",
       "confidence": "0.6204587",
       "timestamp": 410,
-      "content": "sorry I've really sorry about that few more from chris milk later on about how for to reality technology could change weeks"
+      "content": "sorry I've really sorry about that few more from chris milk later on about how for to reality technology could change weeks",
+      "uuid": "6420ea79-97aa-4831-8395-22e5259ecf3c"
     },
-    "420": {
+    {
       "requestid": "a170d3cb-f0b2-4dd3-bc38-f46da14b9f32",
       "confidence": "0.6928067",
       "timestamp": 420,
-      "content": "orange the world around us but first what every day screen technology is changing about us right now"
+      "content": "orange the world around us but first what every day screen technology is changing about us right now",
+      "uuid": "cec03183-88ad-4f0e-b56f-f567a957a877"
     },
-    "430": {
+    {
       "requestid": "523594b7-6f15-4b44-ab1e-5c6162131748",
       "confidence": "0.6724488",
       "timestamp": 430,
-      "content": "I just before starting make sure your phone is off off off not so good and so then you can pick up all the bells and I can't get distracted by my own scream o'clock"
+      "content": "I just before starting make sure your phone is off off off not so good and so then you can pick up all the bells and I can't get distracted by my own scream o'clock",
+      "uuid": "608cab10-ed45-4dce-8fda-44204dcb90c5"
     },
-    "440": {
+    {
       "requestid": "667feac7-be4c-4ff4-aad2-df8331931ae6",
       "confidence": "0.5364345",
       "timestamp": 440,
-      "content": "netscreen yeah exactly this is amber case she's an apology sexy to be precise and sounds a little weird is there with me and bre is 8 so"
+      "content": "netscreen yeah exactly this is amber case she's an apology sexy to be precise and sounds a little weird is there with me and bre is 8 so",
+      "uuid": "646e3dbe-6f1c-44a2-aada-e2c78542ac20"
     },
-    "450": {
+    {
       "requestid": "f9c6ab28-f2df-4df8-b096-f01e077aa500",
       "confidence": "0.6350867",
       "timestamp": 450,
-      "content": "keyboard input all just that's correct there is a sub field of anthropology of science which is the etymology of cyborgs and it looks"
+      "content": "keyboard input all just that's correct there is a sub field of anthropology of science which is the etymology of cyborgs and it looks",
+      "uuid": "f515ec6e-3285-4baf-8d91-2da549bb4969"
     },
-    "460": {
+    {
       "requestid": "4e483589-62a7-468f-8cd2-e20d82a60795",
       "confidence": "0.8335626",
       "timestamp": 460,
-      "content": "relation between humans and technology how technology affects culture and how things change overtime and how technology is such a big part of our lives"
+      "content": "relation between humans and technology how technology affects culture and how things change overtime and how technology is such a big part of our lives",
+      "uuid": "0affb2e0-c40e-4199-8f9f-5b2745c5bfd7"
     },
-    "470": {
+    {
       "requestid": "24c4242c-51b0-4964-83a9-373aa4d73a3f",
       "confidence": "0.6126871",
       "timestamp": 470,
-      "content": "because amber says to a certain extent but we are all becoming cyborg's explain that idea from the pet stage you're not robocop"
+      "content": "because amber says to a certain extent but we are all becoming cyborg's explain that idea from the pet stage you're not robocop",
+      "uuid": "72cf0343-7d01-4282-9d84-7951b870f5fc"
     },
-    "480": {
+    {
       "requestid": "e59b3257-b545-47c8-b320-b23129c064fb",
       "confidence": "0.6687288",
       "timestamp": 480,
-      "content": "open your not terminator but your cyborg's every time you look at a computer screen or use one of your cell phone devices so what's a good definition for side work well at richmond up"
+      "content": "open your not terminator but your cyborg's every time you look at a computer screen or use one of your cell phone devices so what's a good definition for side work well at richmond up",
+      "uuid": "bee5da84-fb87-4f75-9ef9-4f86260b1542"
     },
-    "490": {
+    {
       "requestid": "a2085605-4be7-4a0f-8e6a-81aee4306c41",
       "confidence": "0.6683837",
       "timestamp": 490,
-      "content": "ocean is an organism to which endogenous component up and adam for the purpose of adapting to new environments looking for my 1950 paper on space trouble because of you think about it face is pretty"
+      "content": "ocean is an organism to which endogenous component up and adam for the purpose of adapting to new environments looking for my 1950 paper on space trouble because of you think about it face is pretty",
+      "uuid": "a9101456-c971-4af4-ab7c-4e5fb4843e5d"
     },
-    "500": {
+    {
       "requestid": "8364a753-f463-41d7-8c43-2c2af87cd964",
       "confidence": "0.6543533",
       "timestamp": 500,
-      "content": "people are supposed to be there for humans are curious and I like to add things to my body so that they can still be out one day and then become a fish in the see the next who look like it"
+      "content": "people are supposed to be there for humans are curious and I like to add things to my body so that they can still be out one day and then become a fish in the see the next who look like it",
+      "uuid": "9896ec05-a411-422c-b919-4b160704e6c1"
     },
-    "510": {
+    {
       "requestid": "42d5c2ad-c354-4a44-9c4e-c95f07ce4d40",
       "confidence": "0.6339133",
       "timestamp": 510,
-      "content": "the concept of traditional and apology so we go to another country <profanity>sluts</profanity> how fast are any of these people are so interesting that was our culture is the culture is in and they write a paper in"
+      "content": "the concept of traditional and apology so we go to another country <profanity>sluts</profanity> how fast are any of these people are so interesting that was our culture is the culture is in and they write a paper in",
+      "uuid": "d6b00fce-7045-43bf-b5c5-3896be8cc750"
     },
-    "520": {
+    {
       "requestid": "1c9ee907-5655-43eb-93c5-2ffe71b801bf",
       "confidence": "0.6269188",
       "timestamp": 520,
-      "content": "and maybe a few other anthropologist read it and we think it's for exotic what was happening is that would suddenly found a new species are the side"
+      "content": "and maybe a few other anthropologist read it and we think it's for exotic what was happening is that would suddenly found a new species are the side",
+      "uuid": "537c1df9-5569-4b76-94d9-0a62cfc2e872"
     },
-    "530": {
+    {
       "requestid": "c28aa29c-7b0a-4d9f-bc2a-1a22f9987283",
       "confidence": "0.5339234",
       "timestamp": 530,
-      "content": "apologised have fun with said oh wow mounts and we were new form of <profanity>homo</profanity> sapiens in and look at these past winning cultures and look at these curious rituals but everybody's doing around around stuck in"
+      "content": "apologised have fun with said oh wow mounts and we were new form of <profanity>homo</profanity> sapiens in and look at these past winning cultures and look at these curious rituals but everybody's doing around around stuck in",
+      "uuid": "6566267a-3846-4b4b-bbbc-68c0507c37ce"
     },
-    "540": {
+    {
       "requestid": "d52c4ee0-52bc-4a65-b9e3-59582e5d931c",
       "confidence": "0.6563451",
       "timestamp": 540,
-      "content": "the clicking on things and staring at screens in other words our screens or just another tool in the long line of human invention"
+      "content": "the clicking on things and staring at screens in other words our screens or just another tool in the long line of human invention",
+      "uuid": "614797e7-4c39-4431-b5be-fa5c24f975f5"
     },
-    "550": {
+    {
       "requestid": "a07a7e66-f174-4274-9468-5d4a1ff31329",
       "confidence": "0.5472845",
       "timestamp": 550,
-      "content": "change the way we left to think of stone tools are bronzy rose with a knife those tools became so useful that will affect expansion"
+      "content": "change the way we left to think of stone tools are bronzy rose with a knife those tools became so useful that will affect expansion",
+      "uuid": "3efa6c57-a8e9-4764-acb2-8af4415b513b"
     },
-    "560": {
+    {
       "requestid": "b2b2b679-401d-4dcb-8083-b3b0303e87ff",
       "confidence": "0.64163",
       "timestamp": 560,
-      "content": "my physical self is like another limb I'm not hammers million extension of your fist in knife is really expensive your tooth and you can actually make that"
+      "content": "my physical self is like another limb I'm not hammers million extension of your fist in knife is really expensive your tooth and you can actually make that",
+      "uuid": "289024d3-347e-4781-985a-b09bab28fa49"
     },
-    "570": {
+    {
       "requestid": "ab75dc1b-a2ed-4bfc-b5cb-5ea70ee434a2",
       "confidence": "0.7310139",
       "timestamp": 570,
-      "content": "divisiveness peek outside of yourself and if it breaks you can just make a new one where a savior saber tooth tiger in your tooth breaks you might not be able to eat something again"
+      "content": "divisiveness peek outside of yourself and if it breaks you can just make a new one where a savior saber tooth tiger in your tooth breaks you might not be able to eat something again",
+      "uuid": "6073e280-0dd8-456b-a74f-c92149843a86"
     },
-    "580": {
+    {
       "requestid": "2e9c9897-f5e6-4b06-8330-20e88a80b810",
       "confidence": "0.782318",
       "timestamp": 580,
-      "content": "right so having our devices outside of ourselves and being able to kind of switch them out depending on what we needed to do you mix is incredibly versatile"
+      "content": "right so having our devices outside of ourselves and being able to kind of switch them out depending on what we needed to do you mix is incredibly versatile",
+      "uuid": "f1f0b875-b0fd-45be-a078-b5faa6f1f8bc"
     },
-    "590": {
+    {
       "requestid": "13102ae3-4852-4abe-9b22-7b81e5f80bc3",
       "confidence": "0.7208227",
       "timestamp": 590,
-      "content": "creatures in the long after we invented physical tools to extend with our bodies to do humans came up with mental tools to extend with brains"
+      "content": "creatures in the long after we invented physical tools to extend with our bodies to do humans came up with mental tools to extend with brains",
+      "uuid": "43813f66-b4ef-4fde-a1fd-a3a77285feb6"
     },
-    "600": {
+    {
       "requestid": "82e648a0-d7b3-4b09-89c9-440f5a51eef6",
       "confidence": "0.775856",
       "timestamp": 600,
-      "content": "do so were able to paint on the side of the cave wall and end at stores mental information outside of ourselves and that allows somebody else in the future"
+      "content": "do so were able to paint on the side of the cave wall and end at stores mental information outside of ourselves and that allows somebody else in the future",
+      "uuid": "d841968b-5573-4fbb-98e1-78e130b6ced9"
     },
-    "610": {
+    {
       "requestid": "a5444527-db4d-4e03-acc8-d1b0973714bd",
       "confidence": "0.6664569",
       "timestamp": 610,
-      "content": "look at that and reabsorbed information back into their brain yeah then we had papyrus be at scrolls paper the printing press and loud for us"
+      "content": "look at that and reabsorbed information back into their brain yeah then we had papyrus be at scrolls paper the printing press and loud for us",
+      "uuid": "967043ab-2c63-4cbb-9538-ea11b13ab28e"
     },
-    "620": {
+    {
       "requestid": "b966113b-e06c-444f-af3c-93c19a9289ac",
       "confidence": "0.7523241",
       "timestamp": 620,
-      "content": "I have an increase in the ability to take information outside of marshalls or somebody to download back is the brain but now you have facebook and twitter and all these different social net"
+      "content": "I have an increase in the ability to take information outside of marshalls or somebody to download back is the brain but now you have facebook and twitter and all these different social net",
+      "uuid": "c450f780-9ba9-404e-a216-7d2904635a1b"
     },
-    "630": {
+    {
       "requestid": "c83f122a-0ee2-40b2-8546-9ec39a04a5d8",
       "confidence": "0.7915153",
       "timestamp": 630,
-      "content": "works at so we're just information information information but I think that the phones in a lot of use social new faces are becoming so personal because not to"
+      "content": "works at so we're just information information information but I think that the phones in a lot of use social new faces are becoming so personal because not to",
+      "uuid": "de6dbcb5-3fa4-40e8-8075-1b1463ebaf37"
     },
-    "640": {
+    {
       "requestid": "d6bc86dc-7e1b-4804-bba6-8535890426ea",
       "confidence": "0.6755505",
       "timestamp": 640,
-      "content": "the phone it's kind of a mental exo skeleton is an external part of your brain I'm practicing writing it it isn't just the phone and through"
+      "content": "the phone it's kind of a mental exo skeleton is an external part of your brain I'm practicing writing it it isn't just the phone and through",
+      "uuid": "78359638-ccef-4939-9d07-3fb4fb7cd072"
     },
-    "650": {
+    {
       "requestid": "e970d774-6b38-45ea-b92b-68f1b6eba1d1",
       "confidence": "0.7106031",
       "timestamp": 650,
-      "content": "you have access to an infinite set of ideas yeah it's really a magic portal it allows you to go into another dimension of station"
+      "content": "you have access to an infinite set of ideas yeah it's really a magic portal it allows you to go into another dimension of station",
+      "uuid": "ae04efa2-3d9d-499f-b60a-3d8c19ec2f62"
     },
-    "660": {
+    {
       "requestid": "eb72565a-884d-4585-afdd-d467ee2c65a1",
       "confidence": "0.7459711",
       "timestamp": 660,
-      "content": "I'm allergic your fedex package was delivered saturday 2 PM I mean literally you're going into different time zones reminder to click of a button"
+      "content": "I'm allergic your fedex package was delivered saturday 2 PM I mean literally you're going into different time zones reminder to click of a button",
+      "uuid": "627b66ed-5187-4a82-9ac5-863ff91683e7"
     },
-    "670": {
+    {
       "requestid": "06ae6d70-f016-40f7-9cf3-9e238ddb9422",
       "confidence": "0.5937765",
       "timestamp": 670,
-      "content": "10 PM gmt its are you getting these messages from these different places all set timer set timer kind of chopping up your spring"
+      "content": "10 PM gmt its are you getting these messages from these different places all set timer set timer kind of chopping up your spring",
+      "uuid": "23771608-6884-4c12-80ce-e1d6cbf8d273"
     },
-    "680": {
+    {
       "requestid": "6098cdf4-9634-4e94-ac1c-3c73d1ee79c8",
       "confidence": "0.5248278",
       "timestamp": 680,
-      "content": "of los angeles reality"
+      "content": "of los angeles reality",
+      "uuid": "6ba1dab2-f7fd-4853-8fb5-a18ea4e718f6"
     },
-    "690": {
+    {
       "requestid": "41a0bbde-8df9-4cbc-9c73-367bdbc8e1a6",
       "confidence": "0.6754921",
       "timestamp": 690,
-      "content": "the apps on your phone that people texting you"
+      "content": "the apps on your phone that people texting you",
+      "uuid": "0099fb33-01be-4adc-bc04-997c7d672f5f"
     },
-    "700": {
+    {
       "requestid": "7a137fe2-84da-4651-a3cc-387f59d39ffa",
       "confidence": "0.6951463",
       "timestamp": 700,
-      "content": "left you voicemail this is grandma I just wanna talk to you about something but you can't listen to because its too noisy out after him for it on the side"
+      "content": "left you voicemail this is grandma I just wanna talk to you about something but you can't listen to because its too noisy out after him for it on the side",
+      "uuid": "7801edb2-c033-403c-b203-267f6d0d26fc"
     },
-    "710": {
+    {
       "requestid": "b2d559fb-f2cf-4260-b0d1-395ae034fd72",
       "confidence": "0.6653326",
       "timestamp": 710,
-      "content": "street in the truck driving by hope I get to see you then"
+      "content": "street in the truck driving by hope I get to see you then",
+      "uuid": "f5274c97-df7c-4155-ac99-d7348a102459"
     },
-    "720": {
+    {
       "requestid": "fb62825d-2ab2-40c3-9744-2ee8bfaa9e70",
       "confidence": "0.7465767",
       "timestamp": 720,
-      "content": "all of your attention instead of like to be human like your primary task as human should be being human but win this device demands on your time"
+      "content": "all of your attention instead of like to be human like your primary task as human should be being human but win this device demands on your time",
+      "uuid": "cf7fb01b-3dce-4dec-a352-94fd51eb43a0"
     },
-    "730": {
+    {
       "requestid": "3dab31cb-a392-49fa-90d8-9261b4de9d53",
       "confidence": "0.7732898",
       "timestamp": 730,
-      "content": "and if you can interrupt other primary task for instance driving or just walking down the street I mean we saw the video of the guy who was walking on the street texting and ran into a bear"
+      "content": "and if you can interrupt other primary task for instance driving or just walking down the street I mean we saw the video of the guy who was walking on the street texting and ran into a bear",
+      "uuid": "cb773ef0-cf1a-4d81-a63a-2c86d811d0e9"
     },
-    "740": {
+    {
       "requestid": "a0b2a7fc-93cb-4c29-b503-e09605aa03c0",
       "confidence": "0.786841",
       "timestamp": 740,
-      "content": "that is like right there the clash of of of the human do all reality t imagine reality in the objective reality right there why is my phone in car"
+      "content": "that is like right there the clash of of of the human do all reality t imagine reality in the objective reality right there why is my phone in car",
+      "uuid": "f12f329a-5a85-4b20-8f3d-a0a236fc5273"
     },
-    "750": {
+    {
       "requestid": "e9d8ee9e-a552-4869-96a7-c11db80d3cd0",
       "confidence": "0.7984648",
       "timestamp": 750,
-      "content": "rushing into the bear right because walking on the street is often kind of a boring place in so you can escape from it by going into a different type of plays with her till reality that we have"
+      "content": "rushing into the bear right because walking on the street is often kind of a boring place in so you can escape from it by going into a different type of plays with her till reality that we have",
+      "uuid": "c66dc895-9f52-493b-b15b-16d82cc7d4c2"
     },
-    "760": {
+    {
       "requestid": "74e31c11-6760-4edb-9ea6-5e0653350f72",
       "confidence": "0.7379959",
       "timestamp": 760,
-      "content": "in our pockets do you come often more real ort least attracting attention more so even though it makes you temporarily superhuman it actually gets rid of alotta"
+      "content": "in our pockets do you come often more real ort least attracting attention more so even though it makes you temporarily superhuman it actually gets rid of alotta",
+      "uuid": "ead52973-db1e-4441-9092-ba65f8a8fc13"
     },
-    "770": {
+    {
       "requestid": "a324f23c-37bf-40fd-a5af-26fa7116e281",
       "confidence": "0.7523069",
       "timestamp": 770,
-      "content": "other sensory perception that you might need to rely on as an individual in society"
+      "content": "other sensory perception that you might need to rely on as an individual in society",
+      "uuid": "033bbecf-c6c1-439a-a7d1-f00961187147"
     },
-    "780": {
+    {
       "requestid": "98ec2838-afb4-4093-aba7-a7e2f0a26aa4",
       "confidence": "0.6320199",
       "timestamp": 780,
-      "content": "our brains to the device in our pocket now I can't work at the pool just in case returns in just a minute stay with us and iran"
+      "content": "our brains to the device in our pocket now I can't work at the pool just in case returns in just a minute stay with us and iran",
+      "uuid": "d82a188c-cb0e-4e09-9218-ac7593af8bd5"
     },
-    "790": {
+    {
       "requestid": "79fde49f-8d71-4b6b-81c2-b836e83ccea5",
       "confidence": "0.6387414",
       "timestamp": 790,
-      "content": "this episode screentime and listening to the ted radio hour from npr"
+      "content": "this episode screentime and listening to the ted radio hour from npr",
+      "uuid": "1c5672b0-bce0-4b62-b7d5-f854213f0f26"
     },
-    "800": {
+    {
       "requestid": "13de4f6f-c623-4448-b636-8c117226119e",
       "confidence": "0.6899918",
       "timestamp": 800,
-      "content": "hey just a quick thanks to naturebox.com there with my sponsor to help keep this podcast going nature box is adam"
+      "content": "hey just a quick thanks to naturebox.com there with my sponsor to help keep this podcast going nature box is adam",
+      "uuid": "75bdb145-ad3b-45c2-8ec7-4ec579aa5574"
     },
-    "810": {
+    {
       "requestid": "ea713214-8999-4934-babd-57f5df584a28",
       "confidence": "0.5414968",
       "timestamp": 810,
-      "content": "kitchen to make smart delicious snacking easy from aussie jago in cheddar cheese crisps to make the belgian waffles xbox delivers over one"
+      "content": "kitchen to make smart delicious snacking easy from aussie jago in cheddar cheese crisps to make the belgian waffles xbox delivers over one",
+      "uuid": "b0438032-1010-4aa1-9a41-6051d158dff0"
     },
-    "820": {
+    {
       "requestid": "d8f2bf1e-2e02-4eb6-82fe-323ac42f28c4",
       "confidence": "0.5960104",
       "timestamp": 820,
-      "content": "100 different types of snacks right to your door and all nature box snacks I made with high quality ingredients no artificial just as anxbox.com"
+      "content": "100 different types of snacks right to your door and all nature box snacks I made with high quality ingredients no artificial just as anxbox.com",
+      "uuid": "da295a81-8ef9-48fb-b21a-b985eab4f859"
     },
-    "830": {
+    {
       "requestid": "97afe3ae-16cc-44da-95c1-95ebd8be3f5b",
       "confidence": "0.5340725",
       "timestamp": 830,
-      "content": "and get there first box now"
+      "content": "and get there first box now",
+      "uuid": "c0e4a471-55c9-490d-b653-a0abc4749207"
     },
-    "840": {
+    {
       "requestid": "80c0f490-2cd3-4486-9a72-37763fa0962a",
       "confidence": "0.7928044",
       "timestamp": 840,
-      "content": "sorry with us we're doing something special for this 2 part series and were hoping that you might wanna tells a story about a time when your digital life like that you live inside the screen"
+      "content": "sorry with us we're doing something special for this 2 part series and were hoping that you might wanna tells a story about a time when your digital life like that you live inside the screen",
+      "uuid": "1f871841-a6ca-407e-b44b-18b33ed07644"
     },
-    "850": {
+    {
       "requestid": "a4a3400e-c0aa-4e20-b88c-2512272dfae9",
       "confidence": "0.7212299",
       "timestamp": 850,
-      "content": "might have spilled over into your real and so like maybe but the person you love online are maybe you get active maybe you did something horribly embarrassing a youtube video"
+      "content": "might have spilled over into your real and so like maybe but the person you love online are maybe you get active maybe you did something horribly embarrassing a youtube video",
+      "uuid": "550be289-16c8-4302-b1cb-34970c6f3114"
     },
-    "860": {
+    {
       "requestid": "eade1f04-3658-47a4-8eca-6e7ee5e0e0d9",
       "confidence": "0.7528484",
       "timestamp": 860,
-      "content": "open viral lindinger listen to some a remote fishing village inn lake northwest territories of canada because you lost your job and your friends and everybody want to do it from you"
+      "content": "open viral lindinger listen to some a remote fishing village inn lake northwest territories of canada because you lost your job and your friends and everybody want to do it from you",
+      "uuid": "260e9d91-6f5a-4010-b3f6-a98d1e4694a3"
     },
-    "870": {
+    {
       "requestid": "616ffc01-e0a2-4505-a38a-fada94b42b4b",
       "confidence": "0.7839425",
       "timestamp": 870,
-      "content": "maybe not about please do let us know and we hope to include some of them in next week's episode part 2 of screen time you can record a voice memo and send it to ted"
+      "content": "maybe not about please do let us know and we hope to include some of them in next week's episode part 2 of screen time you can record a voice memo and send it to ted",
+      "uuid": "ccbe5461-d6e4-4eab-ba5c-738aafd2fce4"
     },
-    "880": {
+    {
       "requestid": "6dd22dc1-c093-42a6-adc2-dd5759548179",
       "confidence": "0.8336306",
       "timestamp": 880,
-      "content": "radio hour at npr dot or g or you can call us and leave a message my number is 20221695"
+      "content": "radio hour at npr dot or g or you can call us and leave a message my number is 20221695",
+      "uuid": "757cac20-4e88-4b2c-b0da-0d93aacc14ff"
     },
-    "890": {
+    {
       "requestid": "6aa3038c-3b9f-4587-a0e4-592f04b4ffcd",
       "confidence": "0.5220454",
       "timestamp": 890,
-      "content": "if 2 night thanks"
+      "content": "if 2 night thanks",
+      "uuid": "915ee929-6e7b-48bd-bdc6-b9aac8614ebd"
     },
-    "900": {
+    {
       "requestid": "0e3bd609-40cc-4ff8-944c-7949a39a9da6",
       "confidence": "0.6793784",
       "timestamp": 900,
-      "content": "it's the ted radio hour from npr I'm giriraj show today screen time part one we're looking at how"
+      "content": "it's the ted radio hour from npr I'm giriraj show today screen time part one we're looking at how",
+      "uuid": "adcbd013-e84c-4e4e-b3c6-ccce23ac7a70"
     },
-    "910": {
+    {
       "requestid": "4d86fda8-51d0-4b3a-9ce3-c19898d7b01a",
       "confidence": "0.6331982",
       "timestamp": 910,
-      "content": "our interaction with screens is changing us and we're just going from an apologist amber case studies how are screens increasingly are extension"
+      "content": "our interaction with screens is changing us and we're just going from an apologist amber case studies how are screens increasingly are extension",
+      "uuid": "f16cd988-96ae-4861-81d9-37fa165e1860"
     },
-    "920": {
+    {
       "requestid": "744dbbc6-5924-4f5f-bd63-e4b188e30f06",
       "confidence": "0.6204709",
       "timestamp": 920,
-      "content": "ourselves and because of that you have a second so here's more from heart attack what do you like it or not he started to shop online and people are interacting with your son"
+      "content": "ourselves and because of that you have a second so here's more from heart attack what do you like it or not he started to shop online and people are interacting with your son",
+      "uuid": "46a0b180-7180-450e-8291-096ef5d45331"
     },
-    "930": {
+    {
       "requestid": "85c7771c-739d-4857-9b93-e0ff3ce506c6",
       "confidence": "0.5754352",
       "timestamp": 930,
-      "content": "so when you're not there an insanely we have tempstar to maintain or second so you have to present yourself in digital life in a similar way that you would in your analog"
+      "content": "so when you're not there an insanely we have tempstar to maintain or second so you have to present yourself in digital life in a similar way that you would in your analog",
+      "uuid": "73ad5902-83e6-4891-9f02-c5d4a1cc04c6"
     },
-    "940": {
+    {
       "requestid": "5c8429b6-2026-4b19-829f-e2bed9af7ed3",
       "confidence": "0.6487551",
       "timestamp": 940,
-      "content": "so the same way that you wake up take a shower and get dressed you have to learn to do that for your digital self the problem is but a lot of people now especially idolises have to go through"
+      "content": "so the same way that you wake up take a shower and get dressed you have to learn to do that for your digital self the problem is but a lot of people now especially idolises have to go through",
+      "uuid": "87e932f6-14dd-44ec-90b3-d0a705a270fa"
     },
-    "950": {
+    {
       "requestid": "39499af8-4ef6-4f1d-9966-3ca8c255066a",
       "confidence": "0.6595827",
       "timestamp": 950,
-      "content": "do adolescents you have to go through their primary one that's already awkward and then I have to go through this <profanity>fucking</profanity> self adolescence and sucks even more awkward because there's of an actual time"
+      "content": "do adolescents you have to go through their primary one that's already awkward and then I have to go through this <profanity>fucking</profanity> self adolescence and sucks even more awkward because there's of an actual time",
+      "uuid": "38435f25-d30e-46b4-81a7-d3b918907e1f"
     },
-    "960": {
+    {
       "requestid": "23d75812-4836-4cac-8035-f06f82e95903",
       "confidence": "0.5990202",
       "timestamp": 960,
-      "content": "history of what they've gone through online is what happens if we bring it back into the social spaceman of checking your phone bill but I'm free of the sort of thing called and it is"
+      "content": "history of what they've gone through online is what happens if we bring it back into the social spaceman of checking your phone bill but I'm free of the sort of thing called and it is",
+      "uuid": "f3c57967-6178-42ee-8faf-535d418a5ecc"
     },
-    "970": {
+    {
       "requestid": "dd9b2a82-b07d-49ab-a219-3b2b436079f7",
       "confidence": "0.7379265",
       "timestamp": 970,
-      "content": "it's not that were always connected everybody but anytime we can connect to any one we want it so they are some psychological facts that happen with this what I'm really worried about it"
+      "content": "it's not that were always connected everybody but anytime we can connect to any one we want it so they are some psychological facts that happen with this what I'm really worried about it",
+      "uuid": "a0397928-8649-4801-afa3-159a1846adb8"
     },
-    "980": {
+    {
       "requestid": "6b1c58fd-2c99-476e-bbd5-34f5c09c3642",
       "confidence": "0.6522703",
       "timestamp": 980,
-      "content": "people are taking time for mental reflection anymore and that they aren't slowing down and stopping been around all those people in the room but I'm gonna try to compete for attention or not"
+      "content": "people are taking time for mental reflection anymore and that they aren't slowing down and stopping been around all those people in the room but I'm gonna try to compete for attention or not",
+      "uuid": "0335f2c7-fba6-490e-9971-b3ba64cff18d"
     },
-    "990": {
+    {
       "requestid": "7e907282-0048-4c28-acaf-13e96e673cdf",
       "confidence": "0.695094",
       "timestamp": 990,
-      "content": "just sitting there"
+      "content": "just sitting there",
+      "uuid": "e6555ca1-7a9d-4b3c-bb0e-1ef09f0b93d7"
     },
-    "1000": {
+    {
       "requestid": "d7daa2c8-55da-4f2d-bcd6-086d58ebba42",
       "confidence": "0.7257832",
       "timestamp": 1000,
-      "content": "when you can try and figure out who you really are and I would you do that you can figure out a presenter suck itself in a legitimate work"
+      "content": "when you can try and figure out who you really are and I would you do that you can figure out a presenter suck itself in a legitimate work",
+      "uuid": "876208ec-dc98-4e5d-b9fc-6bf3257be1b9"
     },
-    "1010": {
+    {
       "requestid": "6c5dacba-fa7b-43bc-9a70-335ec70adeb8",
       "confidence": "0.7857448",
       "timestamp": 1010,
-      "content": "if I'm just dealing with everything as it comes in a know I have to do this I have to do this we have to do this"
+      "content": "if I'm just dealing with everything as it comes in a know I have to do this I have to do this we have to do this",
+      "uuid": "1bdd3e5c-f5cb-4437-adc5-9963063a7498"
     },
-    "1020": {
+    {
       "requestid": "18980a97-e590-4064-b579-020f56c46d07",
       "confidence": "0.7513275",
       "timestamp": 1020,
-      "content": "acting like I lose my mind if I'm in a line and for some reason I don't have my smart phone with me you know any do you love you x princess"
+      "content": "acting like I lose my mind if I'm in a line and for some reason I don't have my smart phone with me you know any do you love you x princess",
+      "uuid": "637627d1-9fd2-494d-8ae3-cf62b3af76a7"
     },
-    "1030": {
+    {
       "requestid": "303967cf-e7c9-413e-a635-8eca8c7d1412",
       "confidence": "0.7397333",
       "timestamp": 1030,
-      "content": "it's been sad all the time now dishes at a lot of people are using the phone in a supermarket checkout line because as a human in an industrial society bear put on pause"
+      "content": "it's been sad all the time now dishes at a lot of people are using the phone in a supermarket checkout line because as a human in an industrial society bear put on pause",
+      "uuid": "3465bd35-7d09-4c23-9eb7-1420cdb9d40d"
     },
-    "1040": {
+    {
       "requestid": "8241484e-4a79-47b3-b800-1fdeef7b57c3",
       "confidence": "0.7313263",
       "timestamp": 1040,
-      "content": "and the thing rica next time to some sort of humanity it take out the phone you see people using our phones allowed in non place is something that you don't have it"
+      "content": "and the thing rica next time to some sort of humanity it take out the phone you see people using our phones allowed in non place is something that you don't have it",
+      "uuid": "69cc7aa0-a2a2-45c0-824f-98516480dd3b"
     },
-    "1050": {
+    {
       "requestid": "ca0067b8-bc02-4c32-a24a-d12b5b19833c",
       "confidence": "0.7325625",
       "timestamp": 1050,
-      "content": "relation or history or identity and and the phone itself has more relation history and identity to you then airport for instance or highway"
+      "content": "relation or history or identity and and the phone itself has more relation history and identity to you then airport for instance or highway",
+      "uuid": "b663ab86-7d42-46f1-88b4-0236bc5935dd"
     },
-    "1060": {
+    {
       "requestid": "3a7dfc58-c3d1-4441-a39a-b9de8817c16e",
       "confidence": "0.7487639",
       "timestamp": 1060,
-      "content": "do you up in 5 people using their phones in these kind of inhuman places in order to get back some of that humanity that's been put on pause so what do you do tonight"
+      "content": "do you up in 5 people using their phones in these kind of inhuman places in order to get back some of that humanity that's been put on pause so what do you do tonight",
+      "uuid": "2e3a969c-8002-40bf-a77b-bafcbda85713"
     },
-    "1070": {
+    {
       "requestid": "187eb12e-871d-4cb3-a422-abdf9e40b6b8",
       "confidence": "0.8436667",
       "timestamp": 1070,
-      "content": "you get away from all that I got I like to go on road trips because it's i like to go on road trips and bring paper maps and turn off my phone because"
+      "content": "you get away from all that I got I like to go on road trips because it's i like to go on road trips and bring paper maps and turn off my phone because",
+      "uuid": "73dbe7f3-8277-4d95-ad63-3fa49cc989d1"
     },
-    "1080": {
+    {
       "requestid": "82fddb2b-9e2c-4a16-b9d9-4d845eac11e2",
       "confidence": "0.7742152",
       "timestamp": 1080,
-      "content": "I'm forced to be with myself for sitok the person next to me and look outside it feels really nice afterwards"
+      "content": "I'm forced to be with myself for sitok the person next to me and look outside it feels really nice afterwards",
+      "uuid": "1f656a62-0cec-4f77-8244-d455517f4c87"
     },
-    "1090": {
+    {
       "requestid": "be7c78cf-550d-4c59-845d-2567e9ac9667",
       "confidence": "0.7946548",
       "timestamp": 1090,
-      "content": "mike when you're a kid and you have to experience real time like you feel like your little bit more real again"
+      "content": "mike when you're a kid and you have to experience real time like you feel like your little bit more real again",
+      "uuid": "01cac6d2-3e59-46ca-910c-60e975b853e5"
     },
-    "1100": {
+    {
       "requestid": "d3e16a56-b012-49eb-b73a-cbb5ff571dfe",
       "confidence": "0.6624511",
       "timestamp": 1100,
-      "content": "amber case she's a cyborg anthropologist you can check out her full talkinto.com"
+      "content": "amber case she's a cyborg anthropologist you can check out her full talkinto.com",
+      "uuid": "d3fd040d-34b6-4bd4-9f06-fc2527de399c"
     },
-    "1110": {
+    {
       "requestid": "7a33aee5-bdf6-4ac7-8de8-7b8b654dd86b",
       "confidence": "0.816629",
       "timestamp": 1110,
-      "content": "so your screen or your device is like an extension of your mind it's also way to convey"
+      "content": "so your screen or your device is like an extension of your mind it's also way to convey",
+      "uuid": "c960bd71-cad4-44d4-9b20-04cf8b2629fe"
     },
-    "1120": {
+    {
       "requestid": "9f524722-c29a-4bef-a21f-3a16cf6726da",
       "confidence": "0.743545",
       "timestamp": 1120,
-      "content": "your emotions you can write a facebook post about a bad day aurecon pratic instagram photo of a great day smiling but the thing is your screen can't"
+      "content": "your emotions you can write a facebook post about a bad day aurecon pratic instagram photo of a great day smiling but the thing is your screen can't",
+      "uuid": "4696be3e-412a-445e-af82-095e5ccbfa23"
     },
-    "1130": {
+    {
       "requestid": "c8247391-3e09-40eb-827a-c3bee8d42a2d",
       "confidence": "0.776043",
       "timestamp": 1130,
-      "content": "we understand how you feel at least not yet I think building machines in devices that can sense your emotions I think with that"
+      "content": "we understand how you feel at least not yet I think building machines in devices that can sense your emotions I think with that",
+      "uuid": "b2fcf0f9-1f05-4c99-a5f9-8e23a5c6bc51"
     },
-    "1140": {
+    {
       "requestid": "63761705-aa92-493c-b48d-8a0858715fa0",
       "confidence": "0.743808",
       "timestamp": 1140,
-      "content": "type of technology instead of people like emoting the social signals and then they disappear in cyberspace we have an opportunity to capture them"
+      "content": "type of technology instead of people like emoting the social signals and then they disappear in cyberspace we have an opportunity to capture them",
+      "uuid": "cd0a47bc-979d-4956-9ef6-56ec2c890c3b"
     },
-    "1150": {
+    {
       "requestid": "bc8db6be-5526-44d4-82bf-6ef111925d4d",
       "confidence": "0.5537834",
       "timestamp": 1150,
-      "content": "this is ron elkouby she's a computer scientist but the past few years mit's medialab the idea that are devices can be built the detector motion"
+      "content": "this is ron elkouby she's a computer scientist but the past few years mit's medialab the idea that are devices can be built the detector motion",
+      "uuid": "45c13809-6ec3-4a76-a2b0-5c0917bb58e6"
     },
-    "1160": {
+    {
       "requestid": "e1e791b6-f5c1-4a6e-a864-a9a6f818bb95",
       "confidence": "0.8144379",
       "timestamp": 1160,
-      "content": "it came to run out when she moved from cairo to cambridge in uk back in the late 1990s to work under phd that was the first time I"
+      "content": "it came to run out when she moved from cairo to cambridge in uk back in the late 1990s to work under phd that was the first time I",
+      "uuid": "98801cda-ab67-4f73-9571-cf94fe990db9"
     },
-    "1170": {
+    {
       "requestid": "28eb4593-bf80-4bac-8ff7-5c8bc1adf711",
       "confidence": "0.751697",
       "timestamp": 1170,
-      "content": "I'm basically away from home run it was in england by are self housings of miles away from anyone she knew and I was pretty lonely at the world"
+      "content": "I'm basically away from home run it was in england by are self housings of miles away from anyone she knew and I was pretty lonely at the world",
+      "uuid": "c0e6bce9-d03c-4397-aea1-85a50d350fc2"
     },
-    "1180": {
+    {
       "requestid": "8018786a-c595-4bce-b9ec-d0219eab53ee",
       "confidence": "0.7873479",
       "timestamp": 1180,
-      "content": "he stays in because she was in the new place where she didn't know any one run it was actually spending most of her time with her laptop"
+      "content": "he stays in because she was in the new place where she didn't know any one run it was actually spending most of her time with her laptop",
+      "uuid": "c063137f-a220-4a7a-ad61-c850637ef3f3"
     },
-    "1190": {
+    {
       "requestid": "52d6c593-7cbb-430f-bdc6-3b2de9f2ce3a",
       "confidence": "0.80899",
       "timestamp": 1190,
-      "content": "which wasn't much of a friend at all I had absolutely no idea what my emotional state wise and I could be happy or I could be stressed and frustrated and it would be"
+      "content": "which wasn't much of a friend at all I had absolutely no idea what my emotional state wise and I could be happy or I could be stressed and frustrated and it would be",
+      "uuid": "479851a3-f9e5-48d0-95e5-2c726ea9d62d"
     },
-    "1200": {
+    {
       "requestid": "cfd4fff8-ce19-4d0e-835a-7e4791a9822b",
       "confidence": "0.7765525",
       "timestamp": 1200,
-      "content": "completely oblivious to run is sitting there in england just wondering how can I fix this what is my device this got sent out we felt"
+      "content": "completely oblivious to run is sitting there in england just wondering how can I fix this what is my device this got sent out we felt",
+      "uuid": "709880b5-ab65-49b2-a062-23f80af392d1"
     },
-    "1210": {
+    {
       "requestid": "bca644a0-3307-47e8-a7a4-a7c9013c22f3",
       "confidence": "0.6780358",
       "timestamp": 1210,
-      "content": "and reacted accordingly just the way and emotionally intelligent friend would today more than 15 years after she first asked this question"
+      "content": "and reacted accordingly just the way and emotionally intelligent friend would today more than 15 years after she first asked this question",
+      "uuid": "15ea8834-ed63-4512-8c4c-155313b8156e"
     },
-    "1220": {
+    {
       "requestid": "ef41178b-813b-4cfd-b1f5-72e0cb04df88",
       "confidence": "0.6348157",
       "timestamp": 1220,
-      "content": "wanna explain how she's getting closer to the answer your she is on the 10th stage those questions but me and my team to create"
+      "content": "wanna explain how she's getting closer to the answer your she is on the 10th stage those questions but me and my team to create",
+      "uuid": "0cfd03c0-4e71-41a1-a251-4062114235ee"
     },
-    "1230": {
+    {
       "requestid": "b63783f7-2765-45ba-92c4-8bbff1a8b909",
       "confidence": "0.7006708",
       "timestamp": 1230,
-      "content": "allergies but can read and respond to our emotions and are starting point with human face for human face happens to be one of the most powerful chan"
+      "content": "allergies but can read and respond to our emotions and are starting point with human face for human face happens to be one of the most powerful chan",
+      "uuid": "5ca761b4-d66e-421d-9582-bc542d0b98ca"
     },
-    "1240": {
+    {
       "requestid": "efadd8c4-85f7-44e5-8d03-15598d132618",
       "confidence": "0.7028384",
       "timestamp": 1240,
-      "content": "yes we all used to communicate social and emotional state everything from enjoyments surprise in <profanity>pussy</profanity> and curiosity"
+      "content": "yes we all used to communicate social and emotional state everything from enjoyments surprise in <profanity>pussy</profanity> and curiosity",
+      "uuid": "e734a9ca-17ce-4ca3-8477-164a61319270"
     },
-    "1250": {
+    {
       "requestid": "e852b86c-b1ba-41af-8efa-fb26e345a75b",
       "confidence": "0.6001514",
       "timestamp": 1250,
-      "content": "emotion science week old eats facial muscle movement and action you met for example action unit 12 it is at the corner pub"
+      "content": "emotion science week old eats facial muscle movement and action you met for example action unit 12 it is at the corner pub",
+      "uuid": "025568c1-685e-48f4-9c3d-9a92777e22c9"
     },
-    "1260": {
+    {
       "requestid": "af5ae259-5cbe-4fe7-9ebd-0453833d7dc3",
       "confidence": "0.6781778",
       "timestamp": 1260,
-      "content": "it is the main component of a smile another example of action unit for it's the brow furrow it sunny dry your eyes brows together in the cradle beach textures and wrinkles we don't like them"
+      "content": "it is the main component of a smile another example of action unit for it's the brow furrow it sunny dry your eyes brows together in the cradle beach textures and wrinkles we don't like them",
+      "uuid": "1b6dee0b-f22c-446e-a751-50926ded034a"
     },
-    "1270": {
+    {
       "requestid": "75a70b68-d621-48f5-b0a5-136cac9af597",
       "confidence": "0.6982054",
       "timestamp": 1270,
-      "content": "oh that's a strong indicator of a negative emotion do we have about 4050 ds action units and they come by and text back hundreds of emotion teaching"
+      "content": "oh that's a strong indicator of a negative emotion do we have about 4050 ds action units and they come by and text back hundreds of emotion teaching",
+      "uuid": "1c112916-1af0-4a3c-95e3-8f451c1315d2"
     },
-    "1280": {
+    {
       "requestid": "c6e7efd6-6a96-449b-901e-3c9272fe274e",
       "confidence": "0.6572446",
       "timestamp": 1280,
-      "content": "computer to receive facial emotions is hard because he's action units they can be faster subtle and the combined in many different ways"
+      "content": "computer to receive facial emotions is hard because he's action units they can be faster subtle and the combined in many different ways",
+      "uuid": "fe5491b0-bead-4e26-a9f3-a37d1ff048d7"
     },
-    "1290": {
+    {
       "requestid": "9ed49d9e-a2b2-4e45-bbc5-a6d485b772c0",
       "confidence": "0.7348415",
       "timestamp": 1290,
-      "content": "so initially rana our team said tens of thousands of photos of people smiling or frowning into a computer program so he could learn all these"
+      "content": "so initially rana our team said tens of thousands of photos of people smiling or frowning into a computer program so he could learn all these",
+      "uuid": "4092f4af-8c02-454b-9c6b-f453b060c912"
     },
-    "1300": {
+    {
       "requestid": "267bcf93-e8de-46d9-a1fb-933dcd6066d8",
       "confidence": "0.7527823",
       "timestamp": 1300,
-      "content": "a little microexpressions today I have 12,000,000,000 examples of those expressions which makes a technology even better at detecting all this"
+      "content": "a little microexpressions today I have 12,000,000,000 examples of those expressions which makes a technology even better at detecting all this",
+      "uuid": "84f76e5a-54b5-4721-8a6d-ef8c8dadeddc"
     },
-    "1310": {
+    {
       "requestid": "75756e08-4754-416e-98df-b2b1707009c2",
       "confidence": "0.6096752",
       "timestamp": 1310,
-      "content": "feltes interfaces and so they don is combined a program with a tiny camera can like the one already built into your smart phone during heart attack ronneberg"
+      "content": "feltes interfaces and so they don is combined a program with a tiny camera can like the one already built into your smart phone during heart attack ronneberg",
+      "uuid": "e7841d85-4fea-489c-8c44-02a118c772cf"
     },
-    "1320": {
+    {
       "requestid": "12bf37cf-a73e-479d-8f87-a2ca7831b196",
       "confidence": "0.7422172",
       "timestamp": 1320,
-      "content": "volunteer for name is chloe and run I gave chloe an ipad to hold up in forever face as you can see the algorithm has essentially found"
+      "content": "volunteer for name is chloe and run I gave chloe an ipad to hold up in forever face as you can see the algorithm has essentially found",
+      "uuid": "cb299a40-618c-44cc-9bb4-8a27165cec97"
     },
-    "1330": {
+    {
       "requestid": "6a209849-55c6-413b-90ad-4917ff479583",
       "confidence": "0.6735401",
       "timestamp": 1330,
-      "content": "east bay so what's this white bounding box and then identifies the main feature points on your face your eyebrows her eyes her mouth and her nose and it starts attacking how do"
+      "content": "east bay so what's this white bounding box and then identifies the main feature points on your face your eyebrows her eyes her mouth and her nose and it starts attacking how do",
+      "uuid": "392b4c53-695d-489e-9d07-160b86ff0cf7"
     },
-    "1340": {
+    {
       "requestid": "980de177-36f4-4f8d-b975-81c7a040668e",
       "confidence": "0.6543635",
       "timestamp": 1340,
-      "content": "facial muscles move over time for for example when you smile and a nasty files this is a genuine smile that's great for you can see the green fargo opposite corners move"
+      "content": "facial muscles move over time for for example when you smile and a nasty files this is a genuine smile that's great for you can see the green fargo opposite corners move",
+      "uuid": "c5ea8794-f8df-4da4-80cd-a0d2f3316f33"
     },
-    "1350": {
+    {
       "requestid": "4b12b329-1792-47dd-b205-831f632bbd93",
       "confidence": "0.5488355",
       "timestamp": 1350,
-      "content": "sports and outdoors in the creepies wrinkles around your eyes and your cheeks while he tried like a subtle want to see if a computer can I keep it sounds like myself miles is well with work sweetheart"
+      "content": "sports and outdoors in the creepies wrinkles around your eyes and your cheeks while he tried like a subtle want to see if a computer can I keep it sounds like myself miles is well with work sweetheart",
+      "uuid": "96e5cad7-39d5-41bf-836c-9dadbc08b3a4"
     },
-    "1360": {
+    {
       "requestid": "aceb7ff0-a119-4fe0-a810-da4efc1498c3",
       "confidence": "0.7308907",
       "timestamp": 1360,
-      "content": "make that happen in it identifies the things it says ok you're smiling here in maps it to an emotional state once ran a"
+      "content": "make that happen in it identifies the things it says ok you're smiling here in maps it to an emotional state once ran a",
+      "uuid": "771704eb-bf66-4c1c-9bd8-e1ae96c1d57c"
     },
-    "1370": {
+    {
       "requestid": "64b2e984-5463-4840-b930-2eb8afbeef79",
       "confidence": "0.754341",
       "timestamp": 1370,
-      "content": "teen perfect this technology she mentions all kinds of ways other scientists and engineers can build it into our lives for example you could send an e"
+      "content": "teen perfect this technology she mentions all kinds of ways other scientists and engineers can build it into our lives for example you could send an e",
+      "uuid": "cc4fd408-1cb3-4e0e-935a-77f6cf38ffd5"
     },
-    "1380": {
+    {
       "requestid": "7e6fec83-89c3-4712-b073-c3076c75bd99",
       "confidence": "0.6939372",
       "timestamp": 1380,
-      "content": "L1 day in bed with data about how you were feeling as you load or what is your phone your laptop and maybe even the mere in the bathroom read your face"
+      "content": "L1 day in bed with data about how you were feeling as you load or what is your phone your laptop and maybe even the mere in the bathroom read your face",
+      "uuid": "946aafa9-f39b-45d3-8244-6fdcf52f620a"
     },
-    "1390": {
+    {
       "requestid": "7530c8f6-688c-47e1-8902-3396da84fca9",
       "confidence": "0.8526603",
       "timestamp": 1390,
-      "content": "everyday and imagine if all these devices talk to each other and they can capture various aspects of your day and your emotions of the day and"
+      "content": "everyday and imagine if all these devices talk to each other and they can capture various aspects of your day and your emotions of the day and",
+      "uuid": "e568d537-dfee-4c43-b7b6-8c3c767edae9"
     },
-    "1400": {
+    {
       "requestid": "22598be7-ee6c-4068-92c6-c4d86555eb72",
       "confidence": "0.7504852",
       "timestamp": 1400,
-      "content": "we have a baseline for you so we know what's your norm and then we also know when you deviate from that north your phone can say hey you know I've notice"
+      "content": "we have a baseline for you so we know what's your norm and then we also know when you deviate from that north your phone can say hey you know I've notice",
+      "uuid": "2583571d-5f53-43a1-833d-416ba9aa260a"
     },
-    "1410": {
+    {
       "requestid": "69719ee6-061a-450d-9fc5-8a83bd3d6b55",
       "confidence": "0.8388652",
       "timestamp": 1410,
-      "content": "if you haven't left for the past 4 days what's going on is there something I can do to help you know if it knows your humor profile for example"
+      "content": "if you haven't left for the past 4 days what's going on is there something I can do to help you know if it knows your humor profile for example",
+      "uuid": "c7a4cff1-6cbb-4743-b27a-a73eeedd583b"
     },
-    "1420": {
+    {
       "requestid": "b3b7af99-9bf2-49a9-9199-b4733cb31aa2",
       "confidence": "0.7179216",
       "timestamp": 1420,
-      "content": "oh my <profanity>god damn</profanity> can find content that is really funny to stay hungry stay foolish for inspiring as you graduate"
+      "content": "oh my <profanity>god damn</profanity> can find content that is really funny to stay hungry stay foolish for inspiring as you graduate",
+      "uuid": "09ac97ac-7d2c-49a0-a3b0-f385f315af94"
     },
-    "1430": {
+    {
       "requestid": "4a0d7feb-72a4-47fc-b1d9-3ab4dcb4d3a5",
       "confidence": "0.6506008",
       "timestamp": 1430,
-      "content": "to be continued I wish that for you and it can suggest 5 minutes of meditation or dance music"
+      "content": "to be continued I wish that for you and it can suggest 5 minutes of meditation or dance music",
+      "uuid": "7199870e-41e4-476f-b5a8-aa089e5f77e6"
     },
-    "1440": {
+    {
       "requestid": "ef077a8e-a8a7-4298-9899-05877ab7738c",
       "confidence": "0.2651606",
       "timestamp": 1440,
-      "content": "our dance music by that"
+      "content": "our dance music by that",
+      "uuid": "434fcbb7-ac25-4b4f-948e-a84cb054cda1"
     },
-    "1450": {
+    {
       "requestid": "e09385df-b030-4f66-a2d4-9e2572889f9b",
       "confidence": "0.4627727",
       "timestamp": 1450,
-      "content": "your emotions are overtime"
+      "content": "your emotions are overtime",
+      "uuid": "58654a1e-2023-48e4-a91f-3be9b46fa6a3"
     },
-    "1460": {
+    {
       "requestid": "bcc71b76-3e27-4a32-bbe8-4bc3f7bac820",
       "confidence": "0.7483334",
       "timestamp": 1460,
-      "content": "and we won't remember what it was like when we couldn't just found out our device center device would say it like that did you imagine if you're learning apps in"
+      "content": "and we won't remember what it was like when we couldn't just found out our device center device would say it like that did you imagine if you're learning apps in",
+      "uuid": "acabd8c6-3511-41f3-9020-cf0b7aac750a"
     },
-    "1470": {
+    {
       "requestid": "f5fb3cc5-39c4-4458-a3c7-71af1153c970",
       "confidence": "0.7420461",
       "timestamp": 1470,
-      "content": "but you're confused and slow down for that you're bored foot set up just like a great teacher would in the classroom emotion enabled wearable glasses can help individuals"
+      "content": "but you're confused and slow down for that you're bored foot set up just like a great teacher would in the classroom emotion enabled wearable glasses can help individuals",
+      "uuid": "8d16696d-2759-4893-9a0a-8c0f99ac33ee"
     },
-    "1480": {
+    {
       "requestid": "b9dfe249-494a-486c-b275-7c9ce7a51c7d",
       "confidence": "0.6802365",
       "timestamp": 1480,
-      "content": "visually impaired with the faces of others and you can help individuals on the autism spectrum interpret emotion something that they really struggle west what is here"
+      "content": "visually impaired with the faces of others and you can help individuals on the autism spectrum interpret emotion something that they really struggle west what is here",
+      "uuid": "93c90ae7-e6b9-40b6-af13-d7f6dd49344c"
     },
-    "1490": {
+    {
       "requestid": "be28b505-f219-4246-a239-5fa9b90689ab",
       "confidence": "0.6022919",
       "timestamp": 1490,
-      "content": "wristwatch tracteur mood or your car sense that you're tired or perhaps your fridge knows that you're stressed so with all the locks to prevent"
+      "content": "wristwatch tracteur mood or your car sense that you're tired or perhaps your fridge knows that you're stressed so with all the locks to prevent",
+      "uuid": "1c0cd9c6-6f4a-452d-ade1-9f61262eec6a"
     },
-    "1500": {
+    {
       "requestid": "7a44f609-5491-4849-bc74-0d55037de440",
       "confidence": "0.5118245",
       "timestamp": 1500,
-      "content": "I'm busy day I do I would like that yeah"
+      "content": "I'm busy day I do I would like that yeah",
+      "uuid": "9136b617-515e-4935-8b81-4678786dc348"
     },
-    "1510": {
+    {
       "requestid": "81235f70-70cc-48af-82eb-82c7ac1df5a2",
       "confidence": "0.7618761",
       "timestamp": 1510,
-      "content": "share that with my family back home in a very natural way I'm just like I would've if we were all in the same room together"
+      "content": "share that with my family back home in a very natural way I'm just like I would've if we were all in the same room together",
+      "uuid": "b0460f63-0adc-4d5f-8641-dc39dbe7b7e6"
     },
-    "1520": {
+    {
       "requestid": "8f343c5a-185e-45da-9616-dea9863df0d2",
       "confidence": "0.7407511",
       "timestamp": 1520,
-      "content": "imagine all this collect change as right because I'm at a party this makes me a little uncomfortable so we're very social animals in social be"
+      "content": "imagine all this collect change as right because I'm at a party this makes me a little uncomfortable so we're very social animals in social be",
+      "uuid": "c208964d-656d-434a-bb4f-2f68dbd7f875"
     },
-    "1530": {
+    {
       "requestid": "092b245e-00aa-4f84-be47-c62d4fefdef8",
       "confidence": "0.7570601",
       "timestamp": 1530,
-      "content": "kings and the only thing we're changing is this paradigm in which we interact with technology right we are becoming more and more digital work"
+      "content": "kings and the only thing we're changing is this paradigm in which we interact with technology right we are becoming more and more digital work",
+      "uuid": "9fa36642-003b-4bd3-ba86-c2b13cbb5983"
     },
-    "1540": {
+    {
       "requestid": "8a759425-9b6e-403f-8501-26fd522be9b1",
       "confidence": "0.7998679",
       "timestamp": 1540,
-      "content": "founded by a lot more highly connected intelligent devices and I don't think that's going to change anytime soon like I don't see my daughter suddenly stopping"
+      "content": "founded by a lot more highly connected intelligent devices and I don't think that's going to change anytime soon like I don't see my daughter suddenly stopping",
+      "uuid": "34c9833a-e528-4292-b137-2557d29a807c"
     },
-    "1550": {
+    {
       "requestid": "aa8e5102-b63d-49b8-b54d-897be2f80f3a",
       "confidence": "0.7634044",
       "timestamp": 1550,
-      "content": "texting like that's gonna be very hard I'm so I think the solution is not occur bar use of technology but instead embrace it and build empathy into that"
+      "content": "texting like that's gonna be very hard I'm so I think the solution is not occur bar use of technology but instead embrace it and build empathy into that",
+      "uuid": "a55c7b8b-e02b-4498-8df0-e2cee72f3b18"
     },
-    "1560": {
+    {
       "requestid": "125c0b5b-171d-417d-9c0d-c9f3708534d8",
       "confidence": "0.7298468",
       "timestamp": 1560,
-      "content": "do you like I think it's important that we learned that humans that are emotions continue to matter even in a digital world"
+      "content": "do you like I think it's important that we learned that humans that are emotions continue to matter even in a digital world",
+      "uuid": "7483677a-4485-4de8-a502-909dc747660b"
     },
-    "1570": {
+    {
       "requestid": "4360d177-46e4-4f0a-8f0c-213382984ef0",
       "confidence": "0.71314",
       "timestamp": 1570,
-      "content": "it's running I'll tell you the company is called traffic either you can check out her entire talkto.com"
+      "content": "it's running I'll tell you the company is called traffic either you can check out her entire talkto.com",
+      "uuid": "00739c6a-8278-4eba-9c84-f55000a529fc"
     },
-    "1580": {
+    {
       "requestid": "c76c1473-d3d8-49a6-8b00-566b3c55ed02",
       "confidence": "0.5993741",
       "timestamp": 1580,
-      "content": "I'm sure today part one of a 2 part of calling screentime this episode"
+      "content": "I'm sure today part one of a 2 part of calling screentime this episode",
+      "uuid": "2301b6f6-43a1-4096-b2bf-db674c43c68c"
     },
-    "1590": {
+    {
       "requestid": "04b61f6f-ed59-4171-b7ba-9740d154d810",
       "confidence": "0.7716584",
       "timestamp": 1590,
-      "content": "looking at the way we interact with our screens in how those are actions might be changing us to think about the human brain from of"
+      "content": "looking at the way we interact with our screens in how those are actions might be changing us to think about the human brain from of",
+      "uuid": "f2ea0ec0-d566-4e48-8b35-5b0635e15cfb"
     },
-    "1600": {
+    {
       "requestid": "106b84ab-52e6-467c-825d-2ed2aebe00e9",
       "confidence": "0.6756132",
       "timestamp": 1600,
-      "content": "very early age are brain responds to and is shaped by what we CM but we here"
+      "content": "very early age are brain responds to and is shaped by what we CM but we here",
+      "uuid": "fd5ccf98-8a37-41bb-bb9c-412854d04080"
     },
-    "1610": {
+    {
       "requestid": "db38f6f7-1b8d-445f-8e75-459069800c87",
       "confidence": "0.7213845",
       "timestamp": 1610,
-      "content": "this idea has been studied by a lot of sciences including this one my name is dimitri christakis I'm at pediatrician"
+      "content": "this idea has been studied by a lot of sciences including this one my name is dimitri christakis I'm at pediatrician",
+      "uuid": "a3f813c7-e53b-4114-84a8-7537b209484b"
     },
-    "1620": {
+    {
       "requestid": "63e96dc0-d558-4df2-96e8-6ff4e0732a31",
       "confidence": "0.7202394",
       "timestamp": 1620,
-      "content": "epidemiologist in the parent of 2 teenagers in a few years ago dimitri is the study on newborn babies just a day old a play the music"
+      "content": "epidemiologist in the parent of 2 teenagers in a few years ago dimitri is the study on newborn babies just a day old a play the music",
+      "uuid": "7d588990-7555-4a20-a91c-61b10fa8d754"
     },
-    "1630": {
+    {
       "requestid": "0944be20-6e4f-4b8b-aaed-b728d0ae266d",
       "confidence": "0.6286145",
       "timestamp": 1630,
-      "content": "like this mozart and then he would analyze everything but we've learned is that babies even one day of age will have to see"
+      "content": "like this mozart and then he would analyze everything but we've learned is that babies even one day of age will have to see",
+      "uuid": "68a5baf3-d993-436b-b918-5c7ba548fa48"
     },
-    "1640": {
+    {
       "requestid": "ce32160c-e624-4493-bd05-da76f34a2c93",
       "confidence": "0.6727373",
       "timestamp": 1640,
-      "content": "learnable changes in the respiratory rate in the breathing depending on what they're hearing so it may be listening to this action will see"
+      "content": "learnable changes in the respiratory rate in the breathing depending on what they're hearing so it may be listening to this action will see",
+      "uuid": "aea4bd59-244b-409a-9331-23317e11221d"
     },
-    "1650": {
+    {
       "requestid": "d9817f53-37db-4252-a566-35c2cd525f62",
       "confidence": "0.5854954",
       "timestamp": 1650,
-      "content": "that the reading pattern is slow and steady so so like if you listen to mozart it's like"
+      "content": "that the reading pattern is slow and steady so so like if you listen to mozart it's like",
+      "uuid": "394f56d0-032f-4926-84ba-d1eb3cb85dd2"
     },
-    "1660": {
+    {
       "requestid": "32527662-9fd2-461e-8bb8-76498c989f54",
       "confidence": "0.6941208",
       "timestamp": 1660,
-      "content": "but in contrast he says he put on something that has a different us save stravinsky with more minor chord"
+      "content": "but in contrast he says he put on something that has a different us save stravinsky with more minor chord",
+      "uuid": "bab962ed-a19f-4b84-8419-2468a27b2fd6"
     },
-    "1670": {
+    {
       "requestid": "6b9f9b51-347c-4e9a-acdc-79d0efbbe5d7",
       "confidence": "0.6118406",
       "timestamp": 1670,
-      "content": "the breathing pattern seems more irregular I am slightly faster than in the very interesting thing was at the end of the cycle of stravinsky"
+      "content": "the breathing pattern seems more irregular I am slightly faster than in the very interesting thing was at the end of the cycle of stravinsky",
+      "uuid": "9bc0e5a6-f77a-4036-8b0c-7960aff6830c"
     },
-    "1680": {
+    {
       "requestid": "bad017e9-aaf3-45c0-8b55-fa63bfd89e1e",
       "confidence": "0.5583104",
       "timestamp": 1680,
-      "content": "we put mozart back on the new ceo return to the original breathing pattern doing that's more like it"
+      "content": "we put mozart back on the new ceo return to the original breathing pattern doing that's more like it",
+      "uuid": "0b1900a3-7f45-4d4a-b6a9-d2adbbfed92b"
     },
-    "1690": {
+    {
       "requestid": "47d364f4-ae8d-4e28-80c9-40c070ec42df",
       "confidence": "0.734736",
       "timestamp": 1690,
-      "content": "out that isn't to say that one source of of music and other is preferable to the baby today but will be"
+      "content": "out that isn't to say that one source of of music and other is preferable to the baby today but will be",
+      "uuid": "cec3946d-6e26-48d3-82ec-cedf6023f235"
     },
-    "1700": {
+    {
       "requestid": "144ad586-92aa-42a8-8828-eeda76aa46a1",
       "confidence": "0.7339715",
       "timestamp": 1700,
-      "content": "can say is that they are so what you into their environment early on that they make such subtle distinction even on their very first day of life know the idea here"
+      "content": "can say is that they are so what you into their environment early on that they make such subtle distinction even on their very first day of life know the idea here",
+      "uuid": "d07f3ce6-e30d-41fa-8b09-cf255f8d9c52"
     },
-    "1710": {
+    {
       "requestid": "8e0c93b9-81ee-4d68-9eb1-e9ca9ac2ed1c",
       "confidence": "0.6717963",
       "timestamp": 1710,
-      "content": "is the way our brains are stimulated matters especially when were young in our brains are being shaped by that stimulation but from"
+      "content": "is the way our brains are stimulated matters especially when were young in our brains are being shaped by that stimulation but from",
+      "uuid": "5e63d14a-8209-4bc2-b1cf-93fb8b252262"
     },
-    "1720": {
+    {
       "requestid": "2b9b9dd6-a6df-4b19-8dfb-0c54c1e1dbd0",
       "confidence": "0.6050451",
       "timestamp": 1720,
-      "content": "most kids beds skin lesion is not mozart not stravinsky it screentime lots and lots of screen time here in the us for example"
+      "content": "most kids beds skin lesion is not mozart not stravinsky it screentime lots and lots of screen time here in the us for example",
+      "uuid": "c13d9276-8c04-47d0-8a8d-35110c693909"
     },
-    "1730": {
+    {
       "requestid": "3075ab65-371a-4d9e-ac1f-bb434b82090e",
       "confidence": "0.8293397",
       "timestamp": 1730,
-      "content": "the typical preschool child spends about 4 and a half hours a day in from the screen and be tree is been researching what that means for those"
+      "content": "the typical preschool child spends about 4 and a half hours a day in from the screen and be tree is been researching what that means for those",
+      "uuid": "a6735ecd-74cb-477c-91fb-49c7ff32fff3"
     },
-    "1740": {
+    {
       "requestid": "7ba3555f-aa92-4a25-864d-288ef8e2f761",
       "confidence": "0.7442206",
       "timestamp": 1740,
-      "content": "kids and for their future here's his to talk now we know for decades of research the 2 little stimulation early on is bad for brain development"
+      "content": "kids and for their future here's his to talk now we know for decades of research the 2 little stimulation early on is bad for brain development",
+      "uuid": "19394e4f-b72b-4097-acdd-4ed0d062efab"
     },
-    "1750": {
+    {
       "requestid": "340a9a27-b6cc-4757-84bc-09ce7f7c0f48",
       "confidence": "0.7857483",
       "timestamp": 1750,
-      "content": "the question we had our lab for some time is what about too much is it actually possible to over stimulate the developing brain or"
+      "content": "the question we had our lab for some time is what about too much is it actually possible to over stimulate the developing brain or",
+      "uuid": "0aaef3ae-1a15-4e4a-8245-8f0421fa8f31"
     },
-    "1760": {
+    {
       "requestid": "e1cd1cf5-4163-493c-85a2-dd63566db1fd",
       "confidence": "0.6180895",
       "timestamp": 1760,
-      "content": "morato perlita inappropriately stimulate the developing brain in ways are actually not beneficial or harmful this is important because were to"
+      "content": "morato perlita inappropriately stimulate the developing brain in ways are actually not beneficial or harmful this is important because were to",
+      "uuid": "208fa1c4-d634-456b-b5d5-40877e9a97a4"
     },
-    "1770": {
+    {
       "requestid": "b40d5485-4df3-4b82-b321-1a1ea18c8275",
       "confidence": "0.7015697",
       "timestamp": 1770,
-      "content": "call georgia child today in a way that's unprecedented in 1970 the average age with children began to watch television regli was 4 years in today facebook"
+      "content": "call georgia child today in a way that's unprecedented in 1970 the average age with children began to watch television regli was 4 years in today facebook",
+      "uuid": "2f1fc6d1-9eba-42d6-8141-8152abcd495f"
     },
-    "1780": {
+    {
       "requestid": "0fc8042d-e325-4e89-8afb-01243200883e",
       "confidence": "0.6587515",
       "timestamp": 1780,
-      "content": "search that we've done it for months it's not just how old is a watch but how much they watch the typical child for the age of 5 is watching by 4 and a half hours of"
+      "content": "search that we've done it for months it's not just how old is a watch but how much they watch the typical child for the age of 5 is watching by 4 and a half hours of",
+      "uuid": "3c246367-8624-42f5-a1e4-8c72d9abcfe4"
     },
-    "1790": {
+    {
       "requestid": "71eb23be-eb7b-41a2-8d62-a8fb7c3d4597",
       "confidence": "0.5865765",
       "timestamp": 1790,
-      "content": "today that represents as much is 40% of the waking hours"
+      "content": "today that represents as much is 40% of the waking hours",
+      "uuid": "4333faea-f4c6-43b2-8f96-26d5e295e29d"
     },
-    "1800": {
+    {
       "requestid": "86f1981b-0feb-4664-b890-fe3fa79bd23f",
       "confidence": "0.695137",
       "timestamp": 1800,
-      "content": "and how often kids are erecting nylen in the real world the simple truth is that where all what they call a digital immigrants in meeting"
+      "content": "and how often kids are erecting nylen in the real world the simple truth is that where all what they call a digital immigrants in meeting",
+      "uuid": "4f72ab31-04ab-4772-9e9b-fff59d38557d"
     },
-    "1810": {
+    {
       "requestid": "5f690e3b-a7a5-45e2-8b31-33d0b5b0a5fc",
       "confidence": "0.7815145",
       "timestamp": 1810,
-      "content": "nothing to me is our children who if they were born 5 years ago did in the world when I found an existence and they are digital natives they don't know the world"
+      "content": "nothing to me is our children who if they were born 5 years ago did in the world when I found an existence and they are digital natives they don't know the world",
+      "uuid": "d4350b7c-62a9-4c1c-a42e-81b832e4f2dd"
     },
-    "1820": {
+    {
       "requestid": "e06b5157-8741-4171-949e-a9a533ba05a7",
       "confidence": "0.719308",
       "timestamp": 1820,
-      "content": "things didn't exist in in their incredibly tether to them in there that the catholic guinea pigs because most of the way they communicate in and see the world will happen"
+      "content": "things didn't exist in in their incredibly tether to them in there that the catholic guinea pigs because most of the way they communicate in and see the world will happen",
+      "uuid": "afc87ed7-2ebf-4863-9c88-91114d010a2b"
     },
-    "1830": {
+    {
       "requestid": "c00dc1d1-3f81-41f9-a125-6cefbbf11b70",
       "confidence": "0.7098463",
       "timestamp": 1830,
-      "content": "whiskery yes liridon in fact because I'm at the lodge by parents about the effects of all these new technologies when I have to share with time is is the fact that"
+      "content": "whiskery yes liridon in fact because I'm at the lodge by parents about the effects of all these new technologies when I have to share with time is is the fact that",
+      "uuid": "6f50a7e1-9ad6-4fc9-9610-94566cf32783"
     },
-    "1840": {
+    {
       "requestid": "cd6d58bb-7ca4-44d3-9a53-abd172c2c657",
       "confidence": "0.8063348",
       "timestamp": 1840,
-      "content": "science quite literally cannot keep up with the pace of technological advances so we started studying the ipad I touch screen media"
+      "content": "science quite literally cannot keep up with the pace of technological advances so we started studying the ipad I touch screen media",
+      "uuid": "183fb8f7-89e2-41c1-aecf-3ef278eff272"
     },
-    "1850": {
+    {
       "requestid": "a51d553b-fbe0-487f-bf26-b6ac5e0760d5",
       "confidence": "0.7270383",
       "timestamp": 1850,
-      "content": "about 3 years ago hope I'm the first in the country do it and it takes along time to get funding for certain that increasingly difficult to get to conduct experiments them so"
+      "content": "about 3 years ago hope I'm the first in the country do it and it takes along time to get funding for certain that increasingly difficult to get to conduct experiments them so",
+      "uuid": "4e5eaae8-4a90-4d7b-84ea-51de6f6366a8"
     },
-    "1860": {
+    {
       "requestid": "00ee9ccf-9152-41b9-9e54-a64161fbc5b7",
       "confidence": "0.7491457",
       "timestamp": 1860,
-      "content": "house and that takes time and get to analyze the data in I'm really sick leave we don't know we know something's me I don't wanna be entirely nihilistic are we do know some things"
+      "content": "house and that takes time and get to analyze the data in I'm really sick leave we don't know we know something's me I don't wanna be entirely nihilistic are we do know some things",
+      "uuid": "5275cdc3-6415-4f05-983c-f4c7ddc9f011"
     },
-    "1870": {
+    {
       "requestid": "29945945-124a-4704-a611-a203cba07759",
       "confidence": "0.7909378",
       "timestamp": 1870,
-      "content": "right in many other ways were in the midst of a large on controlled experiment on the next generation of children who sings I just do now is it not"
+      "content": "right in many other ways were in the midst of a large on controlled experiment on the next generation of children who sings I just do now is it not",
+      "uuid": "e1361fb0-33e7-45d4-83ec-2a2c837bb9d8"
     },
-    "1880": {
+    {
       "requestid": "f3efe9f4-6452-4114-bb01-3e2a366dd15b",
       "confidence": "0.62726",
       "timestamp": 1880,
-      "content": "all screens are created equal in not all content is either"
+      "content": "all screens are created equal in not all content is either",
+      "uuid": "aaa1db91-ea63-4c97-b9c5-c8a01edacd78"
     },
-    "1890": {
+    {
       "requestid": "3821100f-4302-47a6-aa40-70200bfc4668",
       "confidence": "0.5462672",
       "timestamp": 1890,
-      "content": "I'm fine how are you good thing I brought my television neighbor to see where the restaurant was like I'm so glad I'm off"
+      "content": "I'm fine how are you good thing I brought my television neighbor to see where the restaurant was like I'm so glad I'm off",
+      "uuid": "3111fe83-360c-4248-a4cc-122958ca63c3"
     },
-    "1900": {
+    {
       "requestid": "90dd5d61-5784-4ccf-b65b-68b84ed58ec6",
       "confidence": "0.5537918",
       "timestamp": 1900,
-      "content": "did they wanna wait till I say so I'm doing double duty fred rogers invented reality tv"
+      "content": "did they wanna wait till I say so I'm doing double duty fred rogers invented reality tv",
+      "uuid": "e2beaaed-5dc5-4f36-b1ef-2cd37286cc92"
     },
-    "1910": {
+    {
       "requestid": "ad5cc0a7-96b3-4daf-9405-2835abb10e2b",
       "confidence": "0.6185747",
       "timestamp": 1910,
-      "content": "actually it's it's not reality right it even slower pace than reality it sucks that the waitress says I'm awfully busy which is the least bit worried"
+      "content": "actually it's it's not reality right it even slower pace than reality it sucks that the waitress says I'm awfully busy which is the least bit worried",
+      "uuid": "621179e4-0e30-40fb-8883-4e5dd84e6f8d"
     },
-    "1920": {
+    {
       "requestid": "6ea1d949-bb72-4f90-9871-35d9e0fd27a3",
       "confidence": "0.7302276",
       "timestamp": 1920,
-      "content": "so I wanna can't trust that was the power puff girls movie the right mix of sugar and spice for satisfying rush I don't know how many of"
+      "content": "so I wanna can't trust that was the power puff girls movie the right mix of sugar and spice for satisfying rush I don't know how many of",
+      "uuid": "db4f0b7b-fc93-4c53-af2f-3c9acee8cbef"
     },
-    "1930": {
+    {
       "requestid": "fd6e7db0-7d37-487c-a6d7-e3f4f79689d5",
       "confidence": "0.5143138",
       "timestamp": 1930,
-      "content": "cnet but here's the thing from that"
+      "content": "cnet but here's the thing from that",
+      "uuid": "82d073ac-aa99-42cb-af30-95a241c027d1"
     },
-    "1940": {
+    {
       "requestid": "5987f293-bb18-479b-88e9-83b74d14afcf",
       "confidence": "0.4556888",
       "timestamp": 1940,
-      "content": "jeep for non stop frenetic animated action"
+      "content": "jeep for non stop frenetic animated action",
+      "uuid": "63451b9e-44e4-45f0-bc25-dbe232a52c5f"
     },
-    "1950": {
+    {
       "requestid": "ebe0faca-7fc3-4efa-8fdb-d9d2e7e50de7",
       "confidence": "0.6066197",
       "timestamp": 1950,
-      "content": "does and pacing dimitri says we're just starting to understand him pacing in tv shows could affect the human brain but not"
+      "content": "does and pacing dimitri says we're just starting to understand him pacing in tv shows could affect the human brain but not",
+      "uuid": "fdd82a55-8a8a-4f49-901e-65e0cf83f8ce"
     },
-    "1960": {
+    {
       "requestid": "5bb7826f-7ced-45ac-b4ff-5270008d9fc2",
       "confidence": "0.7199179",
       "timestamp": 1960,
-      "content": "just by starting humans their limits are the kinds of experiments that we can even do ethically which is one of the reasons we started working with mice in the lab out if you can"
+      "content": "just by starting humans their limits are the kinds of experiments that we can even do ethically which is one of the reasons we started working with mice in the lab out if you can",
+      "uuid": "b7142847-fc67-4336-ab19-60f5da750939"
     },
-    "1970": {
+    {
       "requestid": "79f19a43-cdf7-4751-bf7a-5fc77a6d3f9a",
       "confidence": "0.5563831",
       "timestamp": 1970,
-      "content": "even tried it up develop models of media usage that that that can be studied marvelously are you basically you to turn"
+      "content": "even tried it up develop models of media usage that that that can be studied marvelously are you basically you to turn",
+      "uuid": "674001c6-ee08-4035-a9b9-1376d2a649c4"
     },
-    "1980": {
+    {
       "requestid": "bf6eb734-9d62-4c75-9faf-49278ca2e0b2",
       "confidence": "0.6569595",
       "timestamp": 1980,
-      "content": "mice cages into it to tv launches tv lounges yeah that's right it's a very nice way of putting it is what it looks like in"
+      "content": "mice cages into it to tv launches tv lounges yeah that's right it's a very nice way of putting it is what it looks like in",
+      "uuid": "01409a7a-e2aa-4fdb-9726-2c2a45f85d29"
     },
-    "1990": {
+    {
       "requestid": "6bc465d6-bf64-4dcb-8883-f6110eaaf209",
       "confidence": "0.4810266",
       "timestamp": 1990,
-      "content": "sounds like to spend your entire melsi childhood watching a big screen tv and went to me"
+      "content": "sounds like to spend your entire melsi childhood watching a big screen tv and went to me",
+      "uuid": "c8c2c4fb-850c-4c13-9bb1-8728df5e17c5"
     },
-    "2000": {
+    {
       "requestid": "cab54bbc-05fe-401c-8a6a-15eb6d2e222f",
       "confidence": "0.5907665",
       "timestamp": 2000,
-      "content": "for us it's coming up in just a minute skyrise stay with us for listening to the ted radio hour from npr"
+      "content": "for us it's coming up in just a minute skyrise stay with us for listening to the ted radio hour from npr",
+      "uuid": "509f9294-3e16-47b9-91be-a723b8fc477a"
     },
-    "2010": {
+    {
       "requestid": "6abd1f39-36ef-4ac1-8fc6-713d209a03bd",
       "confidence": "0.8305355",
       "timestamp": 2010,
-      "content": "ted radio hour is supported by trunk club a clothing service that matches guys with personal stylist to do all the way"
+      "content": "ted radio hour is supported by trunk club a clothing service that matches guys with personal stylist to do all the way",
+      "uuid": "4be45238-7ab0-4421-80e8-581c835a8e5c"
     },
-    "2020": {
+    {
       "requestid": "d908f0ce-9482-4ab5-b49f-fb397be422ac",
       "confidence": "0.8238266",
       "timestamp": 2020,
-      "content": "to find the clothes they need his trunk club VP of merchandise jason smith talking about their approach I get excited about helping guys discover clothes that fit and feel better than"
+      "content": "to find the clothes they need his trunk club VP of merchandise jason smith talking about their approach I get excited about helping guys discover clothes that fit and feel better than",
+      "uuid": "9b956a77-688b-4dd7-9862-8b95c02786ad"
     },
-    "2030": {
+    {
       "requestid": "95e537ed-7f25-441e-8c86-35e7981554ca",
       "confidence": "0.7996274",
       "timestamp": 2030,
-      "content": "anything else in our wardrobes my team and I are always searching for new brands that deliver on quality style in value across a variety of price points in trunk club is not a subscription service and you"
+      "content": "anything else in our wardrobes my team and I are always searching for new brands that deliver on quality style in value across a variety of price points in trunk club is not a subscription service and you",
+      "uuid": "d7f5c440-882d-4390-98c5-8fbc3014a45b"
     },
-    "2040": {
+    {
       "requestid": "1eb0df59-4a84-47f7-adb4-aa4d123ebe27",
       "confidence": "0.7411631",
       "timestamp": 2040,
-      "content": "we pay for the clothes you keep visit trunkclub.com slash npr to get started and support for ted radio hour also comes from panitch in 2000"
+      "content": "we pay for the clothes you keep visit trunkclub.com slash npr to get started and support for ted radio hour also comes from panitch in 2000",
+      "uuid": "8a5bfec4-eebb-4629-b100-00a18efedeac"
     },
-    "2050": {
+    {
       "requestid": "18369057-7afe-45d2-985a-7ed68a7ad945",
       "confidence": "0.7705747",
       "timestamp": 2050,
-      "content": "one pontage revolutionise home phone service they made it better with voice over internet now vantage is back to work transforming communications for businesses with club"
+      "content": "one pontage revolutionise home phone service they made it better with voice over internet now vantage is back to work transforming communications for businesses with club",
+      "uuid": "b346f841-98ac-4788-868f-6a2b7852848d"
     },
-    "2060": {
+    {
       "requestid": "686fb410-4ab4-4267-bb98-4ed8fba7d419",
       "confidence": "0.7804945",
       "timestamp": 2060,
-      "content": "waste solutions but basically let you manage your entire phone system from your desktop and see with mobily between all your devices so you never miss that important call no matter where you"
+      "content": "waste solutions but basically let you manage your entire phone system from your desktop and see with mobily between all your devices so you never miss that important call no matter where you",
+      "uuid": "636d089c-0aa6-4044-acf8-a99f2153da80"
     },
-    "2070": {
+    {
       "requestid": "86d63e99-fe0b-4233-b8f3-b528c2a4aaa6",
       "confidence": "0.7978984",
       "timestamp": 2070,
-      "content": "our data charges may apply you can see how your business can get the better it deserves by calling 1805 anich or going tovantage.com"
+      "content": "our data charges may apply you can see how your business can get the better it deserves by calling 1805 anich or going tovantage.com",
+      "uuid": "ae36c65f-daa7-44b6-bfe0-75fd8273f4d7"
     },
-    "2080": {
+    {
       "requestid": "615c75bb-9a06-4f40-865e-856be4ad4494",
       "confidence": "0.6740994",
       "timestamp": 2080,
-      "content": "it's the ted radio hour from npr I'm garage on the show today screen time I look at"
+      "content": "it's the ted radio hour from npr I'm garage on the show today screen time I look at",
+      "uuid": "5a2e59b9-0cb0-43f3-81d4-456d0bed607f"
     },
-    "2090": {
+    {
       "requestid": "67dbb476-b1e6-4589-953c-96354500e33f",
       "confidence": "0.7741842",
       "timestamp": 2090,
-      "content": "how old is screens at our lives are changing as just a minute ago pediatrician rechercher dimitri christakis who studies screentime in kids"
+      "content": "how old is screens at our lives are changing as just a minute ago pediatrician rechercher dimitri christakis who studies screentime in kids",
+      "uuid": "8b9e479e-b824-43d2-b0d5-e4e267ed7d49"
     },
-    "2100": {
+    {
       "requestid": "5a37735b-13e6-4ada-bec9-fbb3ef36a98d",
       "confidence": "0.6847646",
       "timestamp": 2100,
-      "content": "was about to describe an experiment you did with my sneeze were young I spent 10 days old and for a month what penza bing their entire trial"
+      "content": "was about to describe an experiment you did with my sneeze were young I spent 10 days old and for a month what penza bing their entire trial",
+      "uuid": "6ee59298-98c0-40c1-9540-a3fdf9ddd964"
     },
-    "2110": {
+    {
       "requestid": "e5f51d59-8601-413e-9b8b-2eff8bed572c",
       "confidence": "0.669007",
       "timestamp": 2110,
-      "content": "good to me tree gives them free unlimited tv by having them a listen to the cartoon channel"
+      "content": "good to me tree gives them free unlimited tv by having them a listen to the cartoon channel",
+      "uuid": "6f5a77cf-f5b0-455c-aa80-973595e769dd"
     },
-    "2120": {
+    {
       "requestid": "1943c40c-4fea-45ed-a2bf-8b8acb592e98",
       "confidence": "0.5780648",
       "timestamp": 2120,
-      "content": "you have a photo with makli activated light of provide visual stimulation to go along with it right multicoloured flashing lights"
+      "content": "you have a photo with makli activated light of provide visual stimulation to go along with it right multicoloured flashing lights",
+      "uuid": "d60a2c4f-36a7-4ff5-ad0a-5903fc0ea77f"
     },
-    "2130": {
+    {
       "requestid": "eb859380-c67b-4cfc-96c0-f7f858a92551",
       "confidence": "0.7645186",
       "timestamp": 2130,
-      "content": "6 hours a day"
+      "content": "6 hours a day",
+      "uuid": "7b7f77f7-206a-4342-a15c-d56fa0023fe1"
     },
-    "2140": {
+    {
       "requestid": "e6684923-59f8-4459-82c4-935278a38369",
       "confidence": "0.7523363",
       "timestamp": 2140,
-      "content": "cortisol levels there's no physiological signed this is actually stressful to them out but it is over stimulating your senses in much the same way television"
+      "content": "cortisol levels there's no physiological signed this is actually stressful to them out but it is over stimulating your senses in much the same way television",
+      "uuid": "8adfd1dd-64d0-48af-81fa-51d36699e1de"
     },
-    "2150": {
+    {
       "requestid": "fdad9261-e478-4898-862d-1e4702faee4c",
       "confidence": "0.7046468",
       "timestamp": 2150,
-      "content": "other screen media do for young children springs what do trees mouse studies revealed is it the more the mice watch tv the harder it"
+      "content": "other screen media do for young children springs what do trees mouse studies revealed is it the more the mice watch tv the harder it",
+      "uuid": "983072ca-a12d-47f4-9a04-a7634eecdabe"
     },
-    "2160": {
+    {
       "requestid": "f3153d3f-f9dc-45ff-89a3-c14338d2bec1",
       "confidence": "0.6605561",
       "timestamp": 2160,
-      "content": "he came for those nice to learn interstate and if so for example would be confused by objects they actually seen before objects they should've learned a wreck"
+      "content": "he came for those nice to learn interstate and if so for example would be confused by objects they actually seen before objects they should've learned a wreck",
+      "uuid": "d1f4ae1b-89e7-4c4d-8624-d72b1c557685"
     },
-    "2170": {
+    {
       "requestid": "f5acc882-1a09-4a90-856a-8a3df5d999f6",
       "confidence": "0.7110977",
       "timestamp": 2170,
-      "content": "nys already so when researchers followed up please mouse studies with similar studies in children comparing kids to say watch a lot"
+      "content": "nys already so when researchers followed up please mouse studies with similar studies in children comparing kids to say watch a lot",
+      "uuid": "73cbb0e5-6528-48f2-ac66-84b5762fc40d"
     },
-    "2180": {
+    {
       "requestid": "c4bbaf90-39b9-4529-98c6-f7db8da82d74",
       "confidence": "0.8161038",
       "timestamp": 2180,
-      "content": "Mr. rogers with kids to watch a lot of power puff girls you can probably guess where this is going to be found pretty similar patterns what you see is the educational"
+      "content": "Mr. rogers with kids to watch a lot of power puff girls you can probably guess where this is going to be found pretty similar patterns what you see is the educational",
+      "uuid": "967d9d91-5948-451b-97ea-a86f790d5388"
     },
-    "2190": {
+    {
       "requestid": "520280f8-ebb1-4d7c-b318-64a75eef2f68",
       "confidence": "0.7268305",
       "timestamp": 2190,
-      "content": "programs like Mr. rogers pose no increase risk of attention problems entertainment programs like the power puff girls increase the chances by about 60% and violet pro"
+      "content": "programs like Mr. rogers pose no increase risk of attention problems entertainment programs like the power puff girls increase the chances by about 60% and violet pro",
+      "uuid": "23336888-20bb-46d3-bed8-ecef7e2a432d"
     },
-    "2200": {
+    {
       "requestid": "8fd91ac7-7692-4f82-8108-e6af025b2816",
       "confidence": "0.5777659",
       "timestamp": 2200,
-      "content": "which I can show you pay increases it even but by more than 100% in bala <profanity>fucking</profanity> talk to people even more rapid sequence"
+      "content": "which I can show you pay increases it even but by more than 100% in bala <profanity>fucking</profanity> talk to people even more rapid sequence",
+      "uuid": "8cbae40b-05c8-4fab-8893-c9c17a6e8cd9"
     },
-    "2210": {
+    {
       "requestid": "3a9a06bc-6fe4-4ec1-9678-87a27048fee0",
       "confidence": "0.611724",
       "timestamp": 2210,
-      "content": "did you find that your attention span is infected since you've been a screen user I do think that my attention capacities become somewhat diminished"
+      "content": "did you find that your attention span is infected since you've been a screen user I do think that my attention capacities become somewhat diminished",
+      "uuid": "887c15a6-e464-4a57-a742-66229aac1f58"
     },
-    "2220": {
+    {
       "requestid": "a135f9bf-8a0a-4a7f-8b20-8186776fc10e",
       "confidence": "0.8232163",
       "timestamp": 2220,
-      "content": "or maybe that as much do with aging is anything else I work much more about my children that they are able to stay focused on the task many people believe that"
+      "content": "or maybe that as much do with aging is anything else I work much more about my children that they are able to stay focused on the task many people believe that",
+      "uuid": "66282b17-4d7e-4aa6-92c5-80be31795579"
     },
-    "2230": {
+    {
       "requestid": "d03f48a9-f450-4619-99de-3edb8dc86981",
       "confidence": "0.7828177",
       "timestamp": 2230,
-      "content": "that the multi tasking in fast paced world as well be living in children might as well learn to adopt too early on I don't think that's true II certainly"
+      "content": "that the multi tasking in fast paced world as well be living in children might as well learn to adopt too early on I don't think that's true II certainly",
+      "uuid": "cd26c249-fd10-4b52-baeb-3b90745227b4"
     },
-    "2240": {
+    {
       "requestid": "89b2182c-3026-4f1e-9b43-6d57b8e6ccff",
       "confidence": "0.8169575",
       "timestamp": 2240,
-      "content": "I don't want people with their ceos of companies in the future president of industry or even artista riders to not be able to stay focused"
+      "content": "I don't want people with their ceos of companies in the future president of industry or even artista riders to not be able to stay focused",
+      "uuid": "2e6713af-a135-4663-9731-a725bb026ec5"
     },
-    "2250": {
+    {
       "requestid": "5567c4ad-cab8-4197-b98e-f0a4b7afc53a",
       "confidence": "0.7159922",
       "timestamp": 2250,
-      "content": "on something yeah I'm up for it when my my younger son was with 2 and we're pbs program on TV accessory street and walk up to the tv"
+      "content": "on something yeah I'm up for it when my my younger son was with 2 and we're pbs program on TV accessory street and walk up to the tv",
+      "uuid": "2bb383da-dd26-40fe-b502-947d11c88759"
     },
-    "2260": {
+    {
       "requestid": "de027f31-482c-46ce-b208-cdce96a8994d",
       "confidence": "0.6598642",
       "timestamp": 2260,
-      "content": "swiping right he just likes like 6 finger acasa tv and he it was just couldn't understand why it wasn't reacting to run because to him like a screen"
+      "content": "swiping right he just likes like 6 finger acasa tv and he it was just couldn't understand why it wasn't reacting to run because to him like a screen",
+      "uuid": "fd5d4a61-ab79-4d8d-89cd-a20afeae2aaa"
     },
-    "2270": {
+    {
       "requestid": "7ae0c265-4ef6-4353-9258-71e00d3914eb",
       "confidence": "0.7743097",
       "timestamp": 2270,
-      "content": "thing that you can just touch and make it do what you want to do it really has been a game changer are in the last 5 years eve interactives"
+      "content": "thing that you can just touch and make it do what you want to do it really has been a game changer are in the last 5 years eve interactives",
+      "uuid": "88a7653f-e05d-4ba4-a10e-6a8658302cde"
     },
-    "2280": {
+    {
       "requestid": "87aade06-e5fa-4e81-927b-91d52937ed83",
       "confidence": "0.7553818",
       "timestamp": 2280,
-      "content": "and it has given those of us of research children and screens are real pause but you know the one thing that a child never said"
+      "content": "and it has given those of us of research children and screens are real pause but you know the one thing that a child never said",
+      "uuid": "0228965e-236b-4bdc-8178-bf2a5077e7af"
     },
-    "2290": {
+    {
       "requestid": "527f5250-da2a-4caa-ad95-6b8bfa7b92e8",
       "confidence": "0.7145923",
       "timestamp": 2290,
-      "content": "or never think that the pre verbal when they interact with the typical passes media is I didn't even the best quality children"
+      "content": "or never think that the pre verbal when they interact with the typical passes media is I didn't even the best quality children",
+      "uuid": "6dfcd88a-b72c-4378-9554-aaa5c1f577a7"
     },
-    "2300": {
+    {
       "requestid": "6b3942d3-0154-4fc6-92bd-c61b1bc6f49e",
       "confidence": "0.6144807",
       "timestamp": 2300,
-      "content": "shows that ride to engage children recognizing homeport not wise to the condom and social development would ask rhetorical question it is a beautiful day in the"
+      "content": "shows that ride to engage children recognizing homeport not wise to the condom and social development would ask rhetorical question it is a beautiful day in the",
+      "uuid": "2efe646e-d3b2-491b-b1d7-a4150c1f9507"
     },
-    "2310": {
+    {
       "requestid": "c17068a0-e8fc-4a97-b347-7b2adbed199b",
       "confidence": "0.798068",
       "timestamp": 2310,
-      "content": "neighborhood is it in yours have you ever been to a circus you like to swing do you have any idea what might be in this bag"
+      "content": "neighborhood is it in yours have you ever been to a circus you like to swing do you have any idea what might be in this bag",
+      "uuid": "82b82e5d-06bc-461c-8ad4-1eb00f003474"
     },
-    "2320": {
+    {
       "requestid": "b355273f-127e-4e75-98a7-4b2df1c323bc",
       "confidence": "0.6448025",
       "timestamp": 2320,
-      "content": "melt as a kid who couldn't answer Mr. rogers talk back to him but you could never affect what happened on the screen and"
+      "content": "melt as a kid who couldn't answer Mr. rogers talk back to him but you could never affect what happened on the screen and",
+      "uuid": "b9c0a5da-b40b-40c4-b054-82e71aa4b553"
     },
-    "2330": {
+    {
       "requestid": "013abed0-8a87-4e46-92f8-911d5a9c86e4",
       "confidence": "0.7949108",
       "timestamp": 2330,
-      "content": "reese is this is an area where modern screen technology like touch screens or kids apps could actually do something with Mr. rogers couldn't be"
+      "content": "reese is this is an area where modern screen technology like touch screens or kids apps could actually do something with Mr. rogers couldn't be",
+      "uuid": "0e49f79d-26fa-482c-9fe6-f4dba03297c1"
     },
-    "2340": {
+    {
       "requestid": "5e066c6a-7ceb-4e1d-84af-e19f6f174e72",
       "confidence": "0.7710686",
       "timestamp": 2340,
-      "content": "is but your acting with the screens kids can say I did it I made that happen any parents have any child who said experience of pudding"
+      "content": "is but your acting with the screens kids can say I did it I made that happen any parents have any child who said experience of pudding",
+      "uuid": "55f229f7-4647-4e45-8650-382d0e2e5386"
     },
-    "2350": {
+    {
       "requestid": "c6160c67-c28f-4bd6-961b-fda1bb2ca909",
       "confidence": "0.7361545",
       "timestamp": 2350,
-      "content": "I'm in a high chair and let's say giving them something either a toy or a piece of fruit or whatever nose with a child gonna do there gonna take it and drop it much there"
+      "content": "I'm in a high chair and let's say giving them something either a toy or a piece of fruit or whatever nose with a child gonna do there gonna take it and drop it much there",
+      "uuid": "7e4993d1-1c4b-43fb-ad97-eed620bb053e"
     },
-    "2360": {
+    {
       "requestid": "dbfa5567-ba94-4db2-99e7-e16dafad8a2d",
       "confidence": "0.6543702",
       "timestamp": 2360,
-      "content": "light and will be even more delighted when the parent comes and picks it up and put it back last meeting kind of an infinite feedback loop yeah our children love love"
+      "content": "light and will be even more delighted when the parent comes and picks it up and put it back last meeting kind of an infinite feedback loop yeah our children love love",
+      "uuid": "c1482824-9650-4709-8a02-e9df98c83620"
     },
-    "2370": {
+    {
       "requestid": "a99e8838-3907-4c79-bb32-75c8552aecf8",
       "confidence": "0.868336",
       "timestamp": 2370,
-      "content": "the fact that they make something happen in the real world"
+      "content": "the fact that they make something happen in the real world",
+      "uuid": "fd5af17b-e288-46fc-8f7c-cae072fa2f4f"
     },
-    "2380": {
+    {
       "requestid": "c4aa3afd-bc93-4db3-b0b0-267c13538b78",
       "confidence": "0.6970942",
       "timestamp": 2380,
-      "content": "apps are very very different than passive media with the challenges it's not just not all screens on the same metal content on screens is the same"
+      "content": "apps are very very different than passive media with the challenges it's not just not all screens on the same metal content on screens is the same",
+      "uuid": "8693830a-ee05-453d-9b8a-e1a2d97c8475"
     },
-    "2390": {
+    {
       "requestid": "8ab6cfb1-2fe0-41b2-9369-38e0446f257b",
       "confidence": "0.6531971",
       "timestamp": 2390,
-      "content": "metrika stockists he's a pediatrician and researcher seattle children's hospital you can check out his talk at ted dot npr"
+      "content": "metrika stockists he's a pediatrician and researcher seattle children's hospital you can check out his talk at ted dot npr",
+      "uuid": "14ade8b5-68e1-4da4-a7a1-2604be03f898"
     },
-    "2400": {
+    {
       "requestid": "0fddf1f7-6920-47d7-966c-a7693a01c649",
       "confidence": "0.5223967",
       "timestamp": 2400,
-      "content": "how to work"
+      "content": "how to work",
+      "uuid": "04305c8b-53d1-4fa5-a821-9b315204ccf9"
     },
-    "2410": {
+    {
       "requestid": "c518fa1a-c85c-4626-885c-612ade0b4b22",
       "confidence": "0.6591491",
       "timestamp": 2410,
-      "content": "put screens are also changing the way we think about really big consequential things when you think about war"
+      "content": "put screens are also changing the way we think about really big consequential things when you think about war",
+      "uuid": "a96e2060-c2bf-4036-9a85-56310a1827a0"
     },
-    "2420": {
+    {
       "requestid": "0637f190-f1ae-4772-aead-4513ce7d835f",
       "confidence": "0.7813406",
       "timestamp": 2420,
-      "content": "count how much is is movie describes the experience for a large number of the players so to speak in war is happening"
+      "content": "count how much is is movie describes the experience for a large number of the players so to speak in war is happening",
+      "uuid": "dfb8dc74-d9bc-495c-b18d-60176f90a1e2"
     },
-    "2430": {
+    {
       "requestid": "dabd7bf9-847c-4dbb-9284-aa9c7214ca5a",
       "confidence": "0.6416541",
       "timestamp": 2430,
-      "content": "onscreen level actually this is peter warren singer to go to best selling book about this called wired for war when you're talking"
+      "content": "onscreen level actually this is peter warren singer to go to best selling book about this called wired for war when you're talking",
+      "uuid": "edd5f5ac-9c92-4b27-a763-a5fd398913c2"
     },
-    "2440": {
+    {
       "requestid": "bf7dace0-8b08-42e2-9df8-a2c2fe217893",
       "confidence": "0.6559656",
       "timestamp": 2440,
-      "content": "about an air strike in a place like tacos sound like a guy running away but it involves multiple people in multiple"
+      "content": "about an air strike in a place like tacos sound like a guy running away but it involves multiple people in multiple",
+      "uuid": "4585adb3-5910-4100-891a-d40e26e4f31d"
     },
-    "2450": {
+    {
       "requestid": "f066f5c1-f5f4-44b8-8135-866a01fd4229",
       "confidence": "0.5548012",
       "timestamp": 2450,
-      "content": "locations north humanidades typically say never seen it through some kind of surveillance device vehicle rogers dot camera"
+      "content": "locations north humanidades typically say never seen it through some kind of surveillance device vehicle rogers dot camera",
+      "uuid": "7f1d8587-422c-4e85-bfb2-7c331d3dea86"
     },
-    "2460": {
+    {
       "requestid": "52507036-abd9-4ffd-9fc7-d03533b6e769",
       "confidence": "0.5878222",
       "timestamp": 2460,
-      "content": "might be be mean back to folks in a command and control center to my daughter and johnny yes 2 commanders origin who might be back in the er"
+      "content": "might be be mean back to folks in a command and control center to my daughter and johnny yes 2 commanders origin who might be back in the er",
+      "uuid": "5a1aebaa-3280-427e-a4b9-6876a9e1ba95"
     },
-    "2470": {
+    {
       "requestid": "12db97d7-529a-44e8-8e94-b99770293557",
       "confidence": "0.2703642",
       "timestamp": 2470,
-      "content": "state of duty death today show"
+      "content": "state of duty death today show",
+      "uuid": "39d26acd-7fba-4fa4-879b-72185542658e"
     },
-    "2480": {
+    {
       "requestid": "9d3b5fa8-5a20-426b-bd3e-0d9fcb1f3796",
       "confidence": "0.7045173",
       "timestamp": 2480,
-      "content": "used to be able to watch the battle live now you can do that just does the iconic image of like the president and his back"
+      "content": "used to be able to watch the battle live now you can do that just does the iconic image of like the president and his back",
+      "uuid": "8fd24b64-22db-4ba7-8323-5a117e886230"
     },
-    "2490": {
+    {
       "requestid": "eb8f3cad-b353-424b-a5ed-3a717b29f125",
       "confidence": "0.6999161",
       "timestamp": 2490,
-      "content": "sekeri cabinets in the situation room watching that operation take with them to kill bin laden like to walk there watching in real time bruh screen"
+      "content": "sekeri cabinets in the situation room watching that operation take with them to kill bin laden like to walk there watching in real time bruh screen",
+      "uuid": "5b1ce0b7-a43f-4dbf-bb39-eb9e72e1e51f"
     },
-    "2500": {
+    {
       "requestid": "392a9b75-49ca-4801-b68d-e0dd7a8a4877",
       "confidence": "0.7213654",
       "timestamp": 2500,
-      "content": "the things that we want some ajen only in science fiction weather it's the internet itself cyberspace to drones cyber"
+      "content": "the things that we want some ajen only in science fiction weather it's the internet itself cyberspace to drones cyber",
+      "uuid": "adee6e07-0431-4963-8be8-65f5395c9075"
     },
-    "2510": {
+    {
       "requestid": "fab67664-76e3-45f0-8aa5-1b929a05625f",
       "confidence": "0.7677222",
       "timestamp": 2510,
-      "content": "warfare 2 universal surveillance an observation inability to keep secrets all of these things were imagined and science"
+      "content": "warfare 2 universal surveillance an observation inability to keep secrets all of these things were imagined and science",
+      "uuid": "923711e8-7b4e-4d7a-a155-f7600af43a91"
     },
-    "2520": {
+    {
       "requestid": "7a67e5e6-26d7-49e7-ae0a-b064322d94b8",
       "confidence": "0.7127457",
       "timestamp": 2520,
-      "content": "action and have become real but things don't play out exactly the way that we planned"
+      "content": "action and have become real but things don't play out exactly the way that we planned",
+      "uuid": "f6fa4140-8a8d-4dc9-afd7-38857de50588"
     },
-    "2530": {
+    {
       "requestid": "3d4c92a7-3cb5-4bfb-9ecc-04ede8183806",
       "confidence": "0.6622149",
       "timestamp": 2530,
-      "content": "I just heard people mention tron's long before most of us even knew what they were before we heard about the us military using that bomb targets in pakistan"
+      "content": "I just heard people mention tron's long before most of us even knew what they were before we heard about the us military using that bomb targets in pakistan",
+      "uuid": "85bcf04d-e3d2-4910-9c6c-2b17cbe71512"
     },
-    "2540": {
+    {
       "requestid": "9cefb6bb-933b-4c0b-a84f-c6c82ac8e0bf",
       "confidence": "0.6406969",
       "timestamp": 2540,
-      "content": "eryaman peter was reading questions about how to change in war wick in 2009 in this to talk something big is"
+      "content": "eryaman peter was reading questions about how to change in war wick in 2009 in this to talk something big is",
+      "uuid": "fb75d768-e7e8-4c29-a3b3-8cca6d8a08af"
     },
-    "2550": {
+    {
       "requestid": "6710209e-0716-41be-9ce8-f4ad78596c81",
       "confidence": "0.7453799",
       "timestamp": 2550,
-      "content": "lawn more today and maybe even history few minutes LUS military went into a rock with a handful of drones in the air we now"
+      "content": "lawn more today and maybe even history few minutes LUS military went into a rock with a handful of drones in the air we now",
+      "uuid": "765f6d01-22d7-41f2-845c-33e4ac38ca76"
     },
-    "2560": {
+    {
       "requestid": "e63b235d-0ecd-4ec2-a730-dbd897839993",
       "confidence": "0.761355",
       "timestamp": 2560,
-      "content": "5301 of the people I recently met with alisa near 43 star general any said basically where we're headed very soon is tens of thousands"
+      "content": "5301 of the people I recently met with alisa near 43 star general any said basically where we're headed very soon is tens of thousands",
+      "uuid": "fab87dbb-4c8f-4c38-84f6-2e7fbcda496c"
     },
-    "2570": {
+    {
       "requestid": "6c30d01e-078c-47f0-9679-5f1076b9d97e",
       "confidence": "0.6358216",
       "timestamp": 2570,
-      "content": "the robot operating in north conflix robots revolution is upon us another way putinas is it mankind's 5000 year old monopoly"
+      "content": "the robot operating in north conflix robots revolution is upon us another way putinas is it mankind's 5000 year old monopoly",
+      "uuid": "f19cc504-de84-4fab-9451-5280183faafd"
     },
-    "2580": {
+    {
       "requestid": "5151ca56-2452-4502-8c15-fe44f2abc68e",
       "confidence": "0.5704684",
       "timestamp": 2580,
-      "content": "fighting of war is breaking down and are very lifetime"
+      "content": "fighting of war is breaking down and are very lifetime",
+      "uuid": "d4f269a7-e53e-4c7a-902e-2e85d1d4a4a6"
     },
-    "2590": {
+    {
       "requestid": "6d423880-7d32-4f5d-af8d-f32a95f7dee5",
       "confidence": "0.6124687",
       "timestamp": 2590,
-      "content": "6 years ago on a pc lot of things ever change who and who else is fighting words like this now I'm so 82"
+      "content": "6 years ago on a pc lot of things ever change who and who else is fighting words like this now I'm so 82",
+      "uuid": "06163fdd-2f43-40e9-8e41-aa8054071e13"
     },
-    "2600": {
+    {
       "requestid": "18c1530b-073a-4038-91fe-9d66c38e940d",
       "confidence": "0.8321913",
       "timestamp": 2600,
-      "content": "different countries have drawn programs today have some way shape or form but one of the interesting challenges that maybe loans in the future is if we were in"
+      "content": "different countries have drawn programs today have some way shape or form but one of the interesting challenges that maybe loans in the future is if we were in",
+      "uuid": "24634c42-5f13-4725-9d80-cd2b78abb52a"
     },
-    "2610": {
+    {
       "requestid": "496212c5-1794-439a-8ee0-d2473e1aaa8c",
       "confidence": "0.8208188",
       "timestamp": 2610,
-      "content": "conflict with a major state power each of those tajwid look at the dependants at the other house on these technologies from communications tech"
+      "content": "conflict with a major state power each of those tajwid look at the dependants at the other house on these technologies from communications tech",
+      "uuid": "eaf4d2bb-ab9e-47cf-a602-71ed2aad9d62"
     },
-    "2620": {
+    {
       "requestid": "a644b954-c2f7-460d-b28b-878e8a0f9c3a",
       "confidence": "0.8078784",
       "timestamp": 2620,
-      "content": "and controlled intelligent you name it and they would try and take that away they would in essence notice are dependent on the screen and try and jam"
+      "content": "and controlled intelligent you name it and they would try and take that away they would in essence notice are dependent on the screen and try and jam",
+      "uuid": "06bb5b26-d64e-4c52-8a7b-56d76c31b5e5"
     },
-    "2630": {
+    {
       "requestid": "169cf377-ad7a-47e4-bdcd-352ea44df652",
       "confidence": "0.6904128",
       "timestamp": 2630,
-      "content": "or block or warp everything from traffic lights to the engine runs of navy ships I wonder if its like clippy"
+      "content": "or block or warp everything from traffic lights to the engine runs of navy ships I wonder if its like clippy",
+      "uuid": "53b0f0a9-1270-4288-9e85-d4dccf9cce76"
     },
-    "2640": {
+    {
       "requestid": "461688e2-7a38-49dd-834d-21e56c33339d",
       "confidence": "0.6069123",
       "timestamp": 2640,
-      "content": "who are you doing with killing unifem far away like a drunk pilots and you would think of that war would be cleaner for them somehow but I would are"
+      "content": "who are you doing with killing unifem far away like a drunk pilots and you would think of that war would be cleaner for them somehow but I would are",
+      "uuid": "721acdf3-f46f-4e6d-8a63-fb16b1b2767a"
     },
-    "2650": {
+    {
       "requestid": "3bcb16c1-fee1-432e-a3af-80cf45e38441",
       "confidence": "0.8316373",
       "timestamp": 2650,
-      "content": "united its not clean and easy on the operators even if their operating from afar drone operators are analysts were watching this video even though there now"
+      "content": "united its not clean and easy on the operators even if their operating from afar drone operators are analysts were watching this video even though there now",
+      "uuid": "2ac822c1-776b-4ac9-9b15-43a216d692c3"
     },
-    "2660": {
+    {
       "requestid": "1e8d02ee-6542-412b-a0f1-94c199ff7b2a",
       "confidence": "0.752104",
       "timestamp": 2660,
-      "content": "physically there were still seeing them suffer from ptsd or burn out of the like it when you take life that is a cycle of"
+      "content": "physically there were still seeing them suffer from ptsd or burn out of the like it when you take life that is a cycle of",
+      "uuid": "971a113a-4e06-4c84-bc6d-219c69266469"
     },
-    "2670": {
+    {
       "requestid": "1890a08a-90f6-4ad8-9087-8a013689d098",
       "confidence": "0.8025832",
       "timestamp": 2670,
-      "content": "will talk when UC horrible things whether you see them up close her from afar it can take a toll another part of the explanation may"
+      "content": "will talk when UC horrible things whether you see them up close her from afar it can take a toll another part of the explanation may",
+      "uuid": "6f2c8fe5-368f-4d87-b5b7-68939bdbfd29"
     },
-    "2680": {
+    {
       "requestid": "24260603-5a35-40c5-ae75-17c772a0f7ad",
       "confidence": "0.8138098",
       "timestamp": 2680,
-      "content": "b the disconnect of making these kind of decisions seen these sorts of things and then an hour later standing in line at the burger king are getting in an argument with"
+      "content": "b the disconnect of making these kind of decisions seen these sorts of things and then an hour later standing in line at the burger king are getting in an argument with",
+      "uuid": "c552a1c2-e67c-4f05-ae0b-ad2c217c3eb1"
     },
-    "2690": {
+    {
       "requestid": "f4c2106e-ac90-45fd-8736-75feee67dc2c",
       "confidence": "0.8372027",
       "timestamp": 2690,
-      "content": "your wife about to know for getting to pick up milk"
+      "content": "your wife about to know for getting to pick up milk",
+      "uuid": "5e1b2879-24f4-49ce-9466-ff35fafbf6f1"
     },
-    "2700": {
+    {
       "requestid": "795056e7-0ffa-4836-b9e7-ea49b1dc51b9",
       "confidence": "0.7477334",
       "timestamp": 2700,
-      "content": "there several thousand video clips of combat footage from iraq on youtube right now not this could be a good thing"
+      "content": "there several thousand video clips of combat footage from iraq on youtube right now not this could be a good thing",
+      "uuid": "37e4047b-6ab7-4e60-af5f-3aece5dea6bb"
     },
-    "2710": {
+    {
       "requestid": "8b268651-3ac4-457b-a8b0-a19876542f09",
       "confidence": "0.7906252",
       "timestamp": 2710,
-      "content": "it could be building connections between the home front in the war front is never before small arms but"
+      "content": "it could be building connections between the home front in the war front is never before small arms but",
+      "uuid": "87da8717-74c4-49b9-802e-e0ed384eaca1"
     },
-    "2720": {
+    {
       "requestid": "f6cb1db0-ba6f-4853-a703-abf30624dea3",
       "confidence": "0.7281122",
       "timestamp": 2720,
-      "content": "inevitably the ability to download this video clips gives you the ability to turn it into in attainment"
+      "content": "inevitably the ability to download this video clips gives you the ability to turn it into in attainment",
+      "uuid": "3d7adeee-b0b3-4c90-ae25-1cceb4dfa986"
     },
-    "2730": {
+    {
       "requestid": "0b2b04f1-77e7-4ef7-afb4-5dc931e7cf7e",
       "confidence": "0.7117625",
       "timestamp": 2730,
-      "content": "disability to watch more but experience las create a wrinkle in"
+      "content": "disability to watch more but experience las create a wrinkle in",
+      "uuid": "be36ad46-42f2-47e3-b297-e63b3c92da5b"
     },
-    "2740": {
+    {
       "requestid": "53a50179-0466-494e-9b51-45d07d253f1a",
       "confidence": "0.7384815",
       "timestamp": 2740,
-      "content": "publix relationship with more I think about this with a sport perilo it's like the difference between watching a nba game"
+      "content": "publix relationship with more I think about this with a sport perilo it's like the difference between watching a nba game",
+      "uuid": "a8208dd6-b2ba-40a9-95ee-3753c0cf00b9"
     },
-    "2750": {
+    {
       "requestid": "62d2de81-54ae-4602-98f8-ef9799374cee",
       "confidence": "0.794793",
       "timestamp": 2750,
-      "content": "national basketball game on tv where the athletes are tiny fingers on the screen and being <profanity>ass</profanity> at basketball game in person and realizing what's up 17 feet"
+      "content": "national basketball game on tv where the athletes are tiny fingers on the screen and being <profanity>ass</profanity> at basketball game in person and realizing what's up 17 feet",
+      "uuid": "abc66293-d0a9-47cd-ac6f-242a7f901908"
     },
-    "2760": {
+    {
       "requestid": "1f8ec325-a82e-486f-80ec-0810a37fee75",
       "confidence": "0.6933692",
       "timestamp": 2760,
-      "content": "really does look like we have to remember these are just the clips they lose the context they lose their humanity were just becomes"
+      "content": "really does look like we have to remember these are just the clips they lose the context they lose their humanity were just becomes",
+      "uuid": "94361d79-930b-4caa-b9eb-697a85d90e09"
     },
-    "2770": {
+    {
       "requestid": "dbb6fe31-1bb0-4f14-b3a7-7ed8784d0043",
       "confidence": "0.3285541",
       "timestamp": 2770,
-      "content": "dancs smart bombs"
+      "content": "dancs smart bombs",
+      "uuid": "ed10f64b-be5b-4b5d-b3b2-efa7dd1d53dd"
     },
-    "2780": {
+    {
       "requestid": "a0f4b8e0-81eb-4696-a5a3-7e8871123415",
       "confidence": "0.7707686",
       "timestamp": 2780,
-      "content": "ocean that that you use it for them out but it is to be a big question which is what country has the capacity to send an unmanned aircraft somewhere"
+      "content": "ocean that that you use it for them out but it is to be a big question which is what country has the capacity to send an unmanned aircraft somewhere",
+      "uuid": "5650b225-0536-4fe6-bf03-998b70ab4a43"
     },
-    "2790": {
+    {
       "requestid": "8bdc80d8-b543-4d19-b0c4-64b064bc95e4",
       "confidence": "0.6585423",
       "timestamp": 2790,
-      "content": "to attack something or personal control doctor screen it means that making that choice to do that is arguably so much easier"
+      "content": "to attack something or personal control doctor screen it means that making that choice to do that is arguably so much easier",
+      "uuid": "122138ca-8af3-44d7-94fc-b54e1e659cb9"
     },
-    "2800": {
+    {
       "requestid": "c8a48a44-907f-4fa3-a2e5-657abcb4b35d",
       "confidence": "0.6599814",
       "timestamp": 2800,
-      "content": "'cause you're not risking your own people having their lives it used to be that the barriers to war were high"
+      "content": "'cause you're not risking your own people having their lives it used to be that the barriers to war were high",
+      "uuid": "aa31ab2c-3d9b-4fa1-b3cc-821523a6ef11"
     },
-    "2810": {
+    {
       "requestid": "038e196e-5668-4920-bbc2-24eb55a503d3",
       "confidence": "0.8045362",
       "timestamp": 2810,
-      "content": "add to build castles or aircraft carriers not anyone could do it and they're also high in terms of the political decisions that it"
+      "content": "add to build castles or aircraft carriers not anyone could do it and they're also high in terms of the political decisions that it",
+      "uuid": "650ea89d-5e53-47f8-a581-23fd650fcfb7"
     },
-    "2820": {
+    {
       "requestid": "04ecae14-48ce-4e52-93ec-2bd5590f1a77",
       "confidence": "0.6792356",
       "timestamp": 2820,
-      "content": "who is required to take your nation and wario congress itself out it over see now is a lorayne of the barriers yeah we can see this for example in the"
+      "content": "who is required to take your nation and wario congress itself out it over see now is a lorayne of the barriers yeah we can see this for example in the",
+      "uuid": "5b1bf181-d645-476e-8c7e-d27c86adeab9"
     },
-    "2830": {
+    {
       "requestid": "28915335-56b5-4cb9-87e6-4f9728ef869b",
       "confidence": "0.7333903",
       "timestamp": 2830,
-      "content": "I drone war so to speak it we been fighting in pakistan and yemen wings carried out more than 500 air"
+      "content": "I drone war so to speak it we been fighting in pakistan and yemen wings carried out more than 500 air",
+      "uuid": "dd329f04-0693-454a-a27c-d27d0b58ad19"
     },
-    "2840": {
+    {
       "requestid": "a3da389c-69ba-483e-a149-f24ce6c6759a",
       "confidence": "0.765961",
       "timestamp": 2840,
-      "content": "strikes these are operations it if we were talking about man systems would be treating very different ladies are operations that have never been for"
+      "content": "strikes these are operations it if we were talking about man systems would be treating very different ladies are operations that have never been for",
+      "uuid": "2e911563-acee-4755-9d14-cdea039b6b7a"
     },
-    "2850": {
+    {
       "requestid": "c098d248-8f4d-46f8-96bd-201591edb5f7",
       "confidence": "0.7178197",
       "timestamp": 2850,
-      "content": "only voted on by congress so the barriers to war had been lowered both through the broader availability of the technology"
+      "content": "only voted on by congress so the barriers to war had been lowered both through the broader availability of the technology",
+      "uuid": "7adeeff4-4c1d-42e8-a2dc-07da85481ba8"
     },
-    "2860": {
+    {
       "requestid": "a31fba22-87d7-4384-8b27-a75d24c5057d",
       "confidence": "0.6880127",
       "timestamp": 2860,
-      "content": "geez of war but also the way that we few more are even more so things that are wore that were not willing to call"
+      "content": "geez of war but also the way that we few more are even more so things that are wore that were not willing to call",
+      "uuid": "8fe383d3-0cda-457e-ac38-c0738848a547"
     },
-    "2870": {
+    {
       "requestid": "49571649-acc4-40cf-8045-1f1b0a5fac32",
       "confidence": "0.144901",
       "timestamp": 2870,
-      "content": "war"
+      "content": "war",
+      "uuid": "15c1826a-43f3-4268-a459-ae1b0d84ddc4"
     },
-    "2880": {
+    {
       "requestid": "8a8cc3f6-b3b5-49f1-b233-a042c5397058",
       "confidence": "0.7673802",
       "timestamp": 2880,
-      "content": "next world war you can see his entire talka.com"
+      "content": "next world war you can see his entire talka.com",
+      "uuid": "6c899a5a-bbfa-4a18-86ee-389bcb7fcba5"
     },
-    "2890": {
+    {
       "requestid": "1d39c2b6-f282-4043-b500-69d930680a00",
       "confidence": "0.7048815",
       "timestamp": 2890,
-      "content": "what's happening to us on the real world side of our screens like bowie and rec with them from the outside but this is a 2 parter and next week"
+      "content": "what's happening to us on the real world side of our screens like bowie and rec with them from the outside but this is a 2 parter and next week",
+      "uuid": "7b211cd3-295d-42bb-92bd-81b63761e4ac"
     },
-    "2900": {
+    {
       "requestid": "a9fc439c-b272-4929-b8ac-70432f4f29bc",
       "confidence": "0.7893525",
       "timestamp": 2900,
-      "content": "second episode ice cream time we step inside the screen and where can I ask a lot more questions about what it means for our lives more and more"
+      "content": "second episode ice cream time we step inside the screen and where can I ask a lot more questions about what it means for our lives more and more",
+      "uuid": "a2883324-3202-4614-83ed-bd61d0fa903d"
     },
-    "2910": {
+    {
       "requestid": "2ea4dc3a-0ee1-43a4-949b-a1f9d133af52",
       "confidence": "0.6510313",
       "timestamp": 2910,
-      "content": "to be live there so do in the first episode someone to leave this in do you think it's conceivable that we're heading to the future where"
+      "content": "to be live there so do in the first episode someone to leave this in do you think it's conceivable that we're heading to the future where",
+      "uuid": "9b3ca3e3-4c55-4a6f-bd2c-e6c7bc2150b5"
     },
-    "2920": {
+    {
       "requestid": "e0366778-a6a6-40c1-98ee-c284a08eb94c",
       "confidence": "0.5612273",
       "timestamp": 2920,
-      "content": "most for life will be left digitally it certainly not my goal of a mad look like that sometimes chris milk he's the guy"
+      "content": "most for life will be left digitally it certainly not my goal of a mad look like that sometimes chris milk he's the guy",
+      "uuid": "17bab77c-6a60-4e80-83e4-0ee48661506a"
     },
-    "2930": {
+    {
       "requestid": "7cbe3059-a822-4ae9-8104-f88d2f372d21",
       "confidence": "0.6161833",
       "timestamp": 2930,
-      "content": "those virtual reality comes we should run the office at the beginning of <profanity>shit</profanity> wow wow wow that's pretty cool your member that right so chris started"
+      "content": "those virtual reality comes we should run the office at the beginning of <profanity>shit</profanity> wow wow wow that's pretty cool your member that right so chris started",
+      "uuid": "4251290a-0ca8-4847-8f27-0e957a748096"
     },
-    "2940": {
+    {
       "requestid": "d1cf6f46-e0fb-49ad-a7d1-8a41370775eb",
       "confidence": "0.7892534",
       "timestamp": 2940,
-      "content": "his career making music videos for people like arcade fire and kanye west tied to the video for this track"
+      "content": "his career making music videos for people like arcade fire and kanye west tied to the video for this track",
+      "uuid": "65085eb8-0f95-4b9c-a278-5fb473bc83c3"
     },
-    "2950": {
+    {
       "requestid": "88a5c32f-1f51-4abc-a0cc-79f7d7fb8bd2",
       "confidence": "0.6254647",
       "timestamp": 2950,
-      "content": "rewild he was looking to try something different something more meaningful so chris started to the chinese inneractive video installation these films"
+      "content": "rewild he was looking to try something different something more meaningful so chris started to the chinese inneractive video installation these films",
+      "uuid": "65a5db3b-9872-4612-92bb-e9d62c2829c1"
     },
-    "2960": {
+    {
       "requestid": "32e3d0ca-30a1-4fec-b208-983dda049c3f",
       "confidence": "0.769019",
       "timestamp": 2960,
-      "content": "he would amount in art museums and he started to notice something I would sit there all day just by watching it from the dark corner but yet he"
+      "content": "he would amount in art museums and he started to notice something I would sit there all day just by watching it from the dark corner but yet he",
+      "uuid": "327c64c0-a6b2-48ef-bb64-6f6ce0f7dda4"
     },
-    "2970": {
+    {
       "requestid": "72d20efc-8b0e-4074-b71f-54d1ba51ba28",
       "confidence": "0.5710167",
       "timestamp": 2970,
-      "content": "means this film he designed in the way to work was that a camera wood projects your shadow on the bright white ball but if you move your arm"
+      "content": "means this film he designed in the way to work was that a camera wood projects your shadow on the bright white ball but if you move your arm",
+      "uuid": "a3339615-f59e-43b7-b6e6-299f8f336371"
     },
-    "2980": {
+    {
       "requestid": "1c3a82b4-05c9-4557-a27e-3a639c83c78b",
       "confidence": "0.596383",
       "timestamp": 2980,
-      "content": "is your shadow your actual shadow wood grill wings and if you have time yes they start flying up there and off the screen"
+      "content": "is your shadow your actual shadow wood grill wings and if you have time yes they start flying up there and off the screen",
+      "uuid": "44017ea1-3afb-4629-a53c-a7dc0a837245"
     },
-    "2990": {
+    {
       "requestid": "50e13fb4-2a4a-419e-94bd-40f62aac6ffa",
       "confidence": "0.7195178",
       "timestamp": 2990,
-      "content": "increase would notice that people change when the screen was more than just a frame on the wall when I saw was this does very visceral"
+      "content": "increase would notice that people change when the screen was more than just a frame on the wall when I saw was this does very visceral",
+      "uuid": "2e7b6052-acb7-43a3-b4c2-6e41b752a64e"
     },
-    "3000": {
+    {
       "requestid": "cd040e20-c8b5-4b5f-a6d2-e512ce12e697",
       "confidence": "0.6630656",
       "timestamp": 3000,
-      "content": "human reaction people would just lose themselves inside of it so this sparked an idea for but also a problem the problem was"
+      "content": "human reaction people would just lose themselves inside of it so this sparked an idea for but also a problem the problem was",
+      "uuid": "bdf13bf6-97c6-4b6d-b22b-fe3d87c8b6c0"
     },
-    "3010": {
+    {
       "requestid": "215bc61d-0eae-48f0-a6d0-af5196db7c83",
       "confidence": "0.8033063",
       "timestamp": 3010,
-      "content": "there's just no way to scale something like that yeah I can fit 6 people in a better time I can build it in another museum simultaneously in the night at 12 people in it"
+      "content": "there's just no way to scale something like that yeah I can fit 6 people in a better time I can build it in another museum simultaneously in the night at 12 people in it",
+      "uuid": "04ba2ad0-043b-4d26-bfcb-103d64289d4e"
     },
-    "3020": {
+    {
       "requestid": "3e980537-e6b9-4225-a7f7-971eae36cc3d",
       "confidence": "0.7963049",
       "timestamp": 3020,
-      "content": "out of time I wanna million people at at at a time chris start to sing more and more about the limits of the screen"
+      "content": "out of time I wanna million people at at at a time chris start to sing more and more about the limits of the screen",
+      "uuid": "797cce07-dcc3-4ef5-8e69-d2310ec1a6f6"
     },
-    "3030": {
+    {
       "requestid": "115e214b-aabd-424b-84c5-54e86948c15c",
       "confidence": "0.7054421",
       "timestamp": 3030,
-      "content": "in hell film hasn't really changed all that much since he was a kid growing up in the 80s here is chris's to talk refill"
+      "content": "in hell film hasn't really changed all that much since he was a kid growing up in the 80s here is chris's to talk refill",
+      "uuid": "5625da51-d077-45ce-8b9d-b3b6ee3c597b"
     },
-    "3040": {
+    {
       "requestid": "e2ce78f5-1a10-42c4-907a-1de922ad247b",
       "confidence": "0.6135589",
       "timestamp": 3040,
-      "content": "it's it's incredible medium it professionally is the same now as it was then it's a group or rectangle that are played in a sequence ends with don and cuddle"
+      "content": "it's it's incredible medium it professionally is the same now as it was then it's a group or rectangle that are played in a sequence ends with don and cuddle",
+      "uuid": "8e0d1f55-6406-489a-847d-3b56172a6f9a"
     },
-    "3050": {
+    {
       "requestid": "323318ea-e4ba-4785-baab-4152e6b4709c",
       "confidence": "0.6937627",
       "timestamp": 3050,
-      "content": "things with those rectangles but I started thinking about their way that I can use modern and developing technologies that also"
+      "content": "things with those rectangles but I started thinking about their way that I can use modern and developing technologies that also",
+      "uuid": "831921a5-06c9-4e77-bfb0-2561af120f5c"
     },
-    "3060": {
+    {
       "requestid": "09f00ef4-477b-418f-9e93-ff5c7a965ac6",
       "confidence": "0.7904815",
       "timestamp": 3060,
-      "content": "different ways I'm at whole different kind of store is a baby I couldn't tell using the traditional tools of filmmaking fat women using for 100 years"
+      "content": "different ways I'm at whole different kind of store is a baby I couldn't tell using the traditional tools of filmmaking fat women using for 100 years",
+      "uuid": "8b68a5fc-221d-469b-a514-516a02752b62"
     },
-    "3070": {
+    {
       "requestid": "d6213e2a-c36a-4a19-8f6d-15883b766aa2",
       "confidence": "0.7004863",
       "timestamp": 3070,
-      "content": "then I started thinking about frames and what do they represent an a frame is just the window I mean all the meat italy watch television"
+      "content": "then I started thinking about frames and what do they represent an a frame is just the window I mean all the meat italy watch television",
+      "uuid": "87060bd7-0987-433f-9423-af2efacb23a1"
     },
-    "3080": {
+    {
       "requestid": "8fbf82e5-75f2-4ec5-922e-9ca9ae88b870",
       "confidence": "0.708534",
       "timestamp": 3080,
-      "content": "mother vs windows into these other worlds and I thought oh great are you gonna frame but I don't want you in the frame I don't want you in the window I want you through the window I want you on the others"
+      "content": "mother vs windows into these other worlds and I thought oh great are you gonna frame but I don't want you in the frame I don't want you in the window I want you through the window I want you on the others",
+      "uuid": "e00a55c7-c39c-4de0-a034-4a348fb5c73d"
     },
-    "3090": {
+    {
       "requestid": "877b8f7f-afa8-4658-9cf2-de8602661f2a",
       "confidence": "0.7526324",
       "timestamp": 3090,
-      "content": "5 in the world and have it in the world so that means me back to virtual reality"
+      "content": "5 in the world and have it in the world so that means me back to virtual reality",
+      "uuid": "a56c74c3-2147-4b0e-9589-7477669e3f0c"
     },
-    "3100": {
+    {
       "requestid": "db546393-bf5a-4368-a21c-25ab8b35302f",
       "confidence": "0.7755949",
       "timestamp": 3100,
-      "content": "what is it before we talk about chris's specific role in virtual reality he was going on in the world generally this holiday season in early in the next year"
+      "content": "what is it before we talk about chris's specific role in virtual reality he was going on in the world generally this holiday season in early in the next year",
+      "uuid": "d7f02140-ec89-4a00-96c5-1bf38269b688"
     },
-    "3110": {
+    {
       "requestid": "f863126d-8560-448f-9585-093d0a36aac6",
       "confidence": "0.7640403",
       "timestamp": 3110,
-      "content": "a bunch of companies like sony and microsoft google htc and oculis it's the company known by facebook they were all released virtual reality"
+      "content": "a bunch of companies like sony and microsoft google htc and oculis it's the company known by facebook they were all released virtual reality",
+      "uuid": "c7bc9f45-0a3c-4cdf-8059-52ee4d42f38c"
     },
-    "3120": {
+    {
       "requestid": "c83c2e35-db95-4736-bcbc-3ebef9873940",
       "confidence": "0.7280427",
       "timestamp": 3120,
-      "content": "it's it's basically to the curb goggles with a 3D screen inside in along with some ham controllers will be able to play all kinds of video games in a compl"
+      "content": "it's it's basically to the curb goggles with a 3D screen inside in along with some ham controllers will be able to play all kinds of video games in a compl",
+      "uuid": "64e9a78a-3c73-405b-927b-7f6f1a131a21"
     },
-    "3130": {
+    {
       "requestid": "059ac0ce-2628-4b19-b564-bf5a27287349",
       "confidence": "0.6470927",
       "timestamp": 3130,
-      "content": "lee nude way that's where most of the focus is video games with chris milk isn't interested in video games he makes movies"
+      "content": "lee nude way that's where most of the focus is video games with chris milk isn't interested in video games he makes movies",
+      "uuid": "300447ef-6809-4c64-bddc-3ad805857311"
     },
-    "3140": {
+    {
       "requestid": "87ed643f-d539-4e0a-97eb-c168547920ae",
       "confidence": "0.8310336",
       "timestamp": 3140,
-      "content": "and he wants to make movies designed to be watched using this new headset and that means changing everything about the way movies are made starting with"
+      "content": "and he wants to make movies designed to be watched using this new headset and that means changing everything about the way movies are made starting with",
+      "uuid": "2acad22e-bec8-4f24-91f5-317a9c2961dc"
     },
-    "3150": {
+    {
       "requestid": "74ab4678-a256-44f3-af0c-0bd0fffeaa72",
       "confidence": "0.6630613",
       "timestamp": 3150,
-      "content": "the cameras the current technology that were working with and most people are working with is sort of a ball of cameras with a lot of lenses the looking a lot of that"
+      "content": "the cameras the current technology that were working with and most people are working with is sort of a ball of cameras with a lot of lenses the looking a lot of that",
+      "uuid": "643e63a1-a946-4323-8d81-07acd0e2c394"
     },
-    "3160": {
+    {
       "requestid": "ce8f3804-3a25-4a1a-ba64-e913b623f7b9",
       "confidence": "0.7133676",
       "timestamp": 3160,
-      "content": "directions simultaneously then we got into a post production process in which stage all those different directions to get up so that we have one single"
+      "content": "directions simultaneously then we got into a post production process in which stage all those different directions to get up so that we have one single",
+      "uuid": "2f787ec1-f418-4074-8558-f24004d10b28"
     },
-    "3170": {
+    {
       "requestid": "d9527f45-75df-4aa1-8c8e-44689fada4b6",
       "confidence": "0.7481667",
       "timestamp": 3170,
-      "content": "car spear we can look in every direction which means if she rolling stones put one of those cameras on stage with them you could put on a vr headset"
+      "content": "car spear we can look in every direction which means if she rolling stones put one of those cameras on stage with them you could put on a vr headset",
+      "uuid": "f6d83239-6289-4de8-8eff-8ff0b47319d5"
     },
-    "3180": {
+    {
       "requestid": "eb4d3860-8829-4cc2-ad2e-31ee3027fdd9",
       "confidence": "0.7864224",
       "timestamp": 3180,
-      "content": "be there within 2 and from your vantage point on stage you could turn your head in any direction and you would see a different part of it and when that happens"
+      "content": "be there within 2 and from your vantage point on stage you could turn your head in any direction and you would see a different part of it and when that happens",
+      "uuid": "50beb351-eb49-44b8-946d-f8fd6526ceb7"
     },
-    "3190": {
+    {
       "requestid": "17a65046-c7f4-40aa-91b2-e05b2a8789c0",
       "confidence": "0.6982124",
       "timestamp": 3190,
-      "content": "you get this feeling about com presents yeah the way the world news around you as your physical body moves through it is different than the weather you see a movie"
+      "content": "you get this feeling about com presents yeah the way the world news around you as your physical body moves through it is different than the weather you see a movie",
+      "uuid": "7355a86c-b4bd-4698-98f1-afdee2e8109b"
     },
-    "3200": {
+    {
       "requestid": "0bf37e7b-25f2-46a3-989d-81e54707df8c",
       "confidence": "0.6903169",
       "timestamp": 3200,
-      "content": "or you see a television show which is this thing that's a rectangle it's on the wall but virtual reality actually mirrors"
+      "content": "or you see a television show which is this thing that's a rectangle it's on the wall but virtual reality actually mirrors",
+      "uuid": "a739b0eb-ebb0-4eb1-85fd-6be9a2b33792"
     },
-    "3210": {
+    {
       "requestid": "23845044-1c20-46a5-8173-1f870bc2a2d3",
       "confidence": "0.6865197",
       "timestamp": 3210,
-      "content": "way did you see the world in real life so in chris noakes ted talk he describes how the better this technology get said making you feel like you're"
+      "content": "way did you see the world in real life so in chris noakes ted talk he describes how the better this technology get said making you feel like you're",
+      "uuid": "d7cc6ba2-7186-4fbe-9752-02865db58eba"
     },
-    "3220": {
+    {
       "requestid": "b4020ef4-b681-4e3f-834e-1a95e7ac740c",
       "confidence": "0.6830588",
       "timestamp": 3220,
-      "content": "really there the more powerful emotional lee's films will be calm and what is films is already pretty powerful it's an 8 min a movie chris disc"
+      "content": "really there the more powerful emotional lee's films will be calm and what is films is already pretty powerful it's an 8 min a movie chris disc",
+      "uuid": "db1f93d5-b41f-4cba-97c1-4926b9f9ddf6"
     },
-    "3230": {
+    {
       "requestid": "23d71797-7f07-4776-bc74-d41f0e17868c",
       "confidence": "0.5804164",
       "timestamp": 3230,
-      "content": "abscon the ted stage for this film is called clouds over sedri and it was made in conjunction with our virtual reality company called verse"
+      "content": "abscon the ted stage for this film is called clouds over sedri and it was made in conjunction with our virtual reality company called verse",
+      "uuid": "6bc43083-04c7-492d-9955-948751c75405"
     },
-    "3240": {
+    {
       "requestid": "adab813e-bceb-4a29-a6b6-3e109779b593",
       "confidence": "0.6962035",
       "timestamp": 3240,
-      "content": "of the united nations and I cook labrador named obaro and we went to a syrian refugee camp in jordan and shop astoria"
+      "content": "of the united nations and I cook labrador named obaro and we went to a syrian refugee camp in jordan and shop astoria",
+      "uuid": "39a6d666-3666-4811-91b2-eceaef8ed936"
     },
-    "3250": {
+    {
       "requestid": "5cd077fd-e2d7-454b-81c4-766e0dc83582",
       "confidence": "0.680885",
       "timestamp": 3250,
-      "content": "girl girl their name cedra at her and her family fled syria through the desert into jordan and she's been living in this aakam for the last year and a half"
+      "content": "girl girl their name cedra at her and her family fled syria through the desert into jordan and she's been living in this aakam for the last year and a half",
+      "uuid": "bb46ff27-6daf-4402-a414-9f771ccba1f2"
     },
-    "3260": {
+    {
       "requestid": "9e3652a3-9e65-410b-8929-40b7c3979014",
       "confidence": "0.3515497",
       "timestamp": 3260,
-      "content": "my name is amber lynn spears I am in the area"
+      "content": "my name is amber lynn spears I am in the area",
+      "uuid": "7872aa8c-5025-4d74-be6d-94970fcbdb71"
     },
-    "3270": {
+    {
       "requestid": "e951df17-49a9-449f-8ccb-b82d588a330e",
       "confidence": "0.6846725",
       "timestamp": 3270,
-      "content": "chris I'm in in this clip wish I guess we should explain it if you could you watch this in a vr headset you basically at seeing this girl she's right in front of you"
+      "content": "chris I'm in in this clip wish I guess we should explain it if you could you watch this in a vr headset you basically at seeing this girl she's right in front of you",
+      "uuid": "1c9974b0-150e-44c5-9572-93694287a8e7"
     },
-    "3280": {
+    {
       "requestid": "f882b9e0-f1e4-4008-8a68-5d5f4b318ded",
       "confidence": "0.5738212",
       "timestamp": 3280,
-      "content": "she's talking to you she's like sitting in a runner rug on the floor of is it in this dusty hart building in this refugee camp yeah and the thing"
+      "content": "she's talking to you she's like sitting in a runner rug on the floor of is it in this dusty hart building in this refugee camp yeah and the thing",
+      "uuid": "645b3e10-11a3-4b5f-ac87-7f024430a7ea"
     },
-    "3290": {
+    {
       "requestid": "a4801abb-3199-4a73-9e35-b76bff319e6b",
       "confidence": "0.7515586",
       "timestamp": 3290,
-      "content": "denver's real that does not happen in a rectangle on your wall is you find yourself in the same room as this girl when you look down your sitting"
+      "content": "denver's real that does not happen in a rectangle on your wall is you find yourself in the same room as this girl when you look down your sitting",
+      "uuid": "843db70d-e318-4cbd-8f7b-bb25162deaf5"
     },
-    "3300": {
+    {
       "requestid": "3835a9ec-3136-4440-acac-2e3a58c7a816",
       "confidence": "0.53333",
       "timestamp": 3300,
-      "content": "on the same earth that she's sitting on I had to fix anything about this one is it that you need life alert"
+      "content": "on the same earth that she's sitting on I had to fix anything about this one is it that you need life alert",
+      "uuid": "609a0527-9717-48ab-94ac-f32eb26cde64"
     },
-    "3310": {
+    {
       "requestid": "0fa466e5-2bd7-4693-bada-56215f3e2299",
       "confidence": "0.5986034",
       "timestamp": 3310,
-      "content": "and something changes when that happens I'm at like I can tell you from a biological level of my brother are a cock in the bladder"
+      "content": "and something changes when that happens I'm at like I can tell you from a biological level of my brother are a cock in the bladder",
+      "uuid": "1f1313b9-decb-466a-bc8b-898609e1e667"
     },
-    "3320": {
+    {
       "requestid": "625bdb9c-dee8-4eeb-87e5-ca4bb0a9d358",
       "confidence": "0.5783987",
       "timestamp": 3320,
-      "content": "evolet that's exactly it is but something definitely changes I like you feel like I am under in this film"
+      "content": "evolet that's exactly it is but something definitely changes I like you feel like I am under in this film",
+      "uuid": "44a95a46-f75f-4796-939c-888cddc6b821"
     },
-    "3330": {
+    {
       "requestid": "6c5e706a-6451-4f1a-9927-4374dc8a2a7c",
       "confidence": "0.6812471",
       "timestamp": 3330,
-      "content": "you can watch the dress friends walking right passed you on the way to work but embrace cool when you look at them they look back at you and smile"
+      "content": "you can watch the dress friends walking right passed you on the way to work but embrace cool when you look at them they look back at you and smile",
+      "uuid": "6cab51f5-e374-402d-8627-8e8ab467dd8d"
     },
-    "3340": {
+    {
       "requestid": "58b838fc-7090-4aea-9215-b6fa9f364f52",
       "confidence": "0.7277578",
       "timestamp": 3340,
-      "content": "in which team is film in a virtual reality headset is so powerful because it's as if you are there in chris knows"
+      "content": "in which team is film in a virtual reality headset is so powerful because it's as if you are there in chris knows",
+      "uuid": "759972bb-d7c4-4970-b0f9-2dc552ec1755"
     },
-    "3350": {
+    {
       "requestid": "6670639a-c5ee-42f9-92d8-80829538f8ac",
       "confidence": "0.6498306",
       "timestamp": 3350,
-      "content": "he's already shown some advice is like the world economic forum in davos to some of the world's most powerful people and let me watch it he seen"
+      "content": "he's already shown some advice is like the world economic forum in davos to some of the world's most powerful people and let me watch it he seen",
+      "uuid": "d21742e3-9f83-4811-823c-a4c98fb801f3"
     },
-    "3360": {
+    {
       "requestid": "4b05d0cc-13f5-4ac1-9ad4-ca51e4bbe1e4",
       "confidence": "0.7040086",
       "timestamp": 3360,
-      "content": "tears literally stream down her face is is the experience at refugee camp in working with the united nations right now"
+      "content": "tears literally stream down her face is is the experience at refugee camp in working with the united nations right now",
+      "uuid": "08a6cbc0-f34f-44d1-8761-8820ce370ac0"
     },
-    "3370": {
+    {
       "requestid": "2e21205a-893d-4198-a856-3f4bd033d3e4",
       "confidence": "0.700303",
       "timestamp": 3370,
-      "content": "she's a whole series of these films we just finished shooting a story in liberia an hour going to shoot a story in india are taking these films"
+      "content": "she's a whole series of these films we just finished shooting a story in liberia an hour going to shoot a story in india are taking these films",
+      "uuid": "d5957929-e0f8-4562-9382-5e8eb207d260"
     },
-    "3380": {
+    {
       "requestid": "410ea527-d6aa-4214-b520-32ed631251f4",
       "confidence": "0.744623",
       "timestamp": 3380,
-      "content": "showing them at the united nations the people that work there are people that are visiting there and were showing them to the people I can actually change the lives of the people in"
+      "content": "showing them at the united nations the people that work there are people that are visiting there and were showing them to the people I can actually change the lives of the people in",
+      "uuid": "e9a58e29-aff0-4503-aeaf-6228593105ee"
     },
-    "3390": {
+    {
       "requestid": "f068a7b1-ec2f-49a3-9406-998d78846b6b",
       "confidence": "0.7805187",
       "timestamp": 3390,
-      "content": "the sales and that's why I think we just start to scratch the surface of the true power of virtual reality it's not a video"
+      "content": "the sales and that's why I think we just start to scratch the surface of the true power of virtual reality it's not a video",
+      "uuid": "95768980-83b4-4182-b323-539a497964af"
     },
-    "3400": {
+    {
       "requestid": "ad67d7e7-c54d-468e-9546-650674b17a66",
       "confidence": "0.7224557",
       "timestamp": 3400,
-      "content": "empresarial it connects humans to other humans and a profound way but I'm never seen before in any other form of media and I can change"
+      "content": "empresarial it connects humans to other humans and a profound way but I'm never seen before in any other form of media and I can change",
+      "uuid": "3f67eea8-6321-4935-adac-b959bed0c288"
     },
-    "3410": {
+    {
       "requestid": "3c52ea2b-0253-4e6f-acf7-46c8dea46b3b",
       "confidence": "0.7284606",
       "timestamp": 3410,
-      "content": "peoples perception of each other"
+      "content": "peoples perception of each other",
+      "uuid": "1f6e6531-67b5-48e3-904c-66d7d1125fb5"
     },
-    "3420": {
+    {
       "requestid": "95cf3845-cf80-4f0f-bad0-fd052c66dd26",
       "confidence": "0.7379531",
       "timestamp": 3420,
-      "content": "is it so exciting and it is also so terrified because we can imagine that it can change the truth any any other people's perceptions can be so"
+      "content": "is it so exciting and it is also so terrified because we can imagine that it can change the truth any any other people's perceptions can be so",
+      "uuid": "e4ca7360-8a61-4778-bfab-e83364ec61c9"
     },
-    "3430": {
+    {
       "requestid": "8e787dcb-d713-4b1d-9b10-53f269cdcce2",
       "confidence": "0.6553389",
       "timestamp": 3430,
-      "content": "oh effective moved by an experience in this world it seems so real that it becomes real right like you can imagine AAP notes somebody"
+      "content": "oh effective moved by an experience in this world it seems so real that it becomes real right like you can imagine AAP notes somebody",
+      "uuid": "166e4a00-b334-4d63-af46-0bb004c296d2"
     },
-    "3440": {
+    {
       "requestid": "1e518edd-fc2e-436c-b3d3-d288dd95009a",
       "confidence": "0.6825642",
       "timestamp": 3440,
-      "content": "could take this technology in create with seems real real version an idea and convince my change my xinan actually cream"
+      "content": "could take this technology in create with seems real real version an idea and convince my change my xinan actually cream",
+      "uuid": "fc59d012-6128-434b-b96a-20c01afdb035"
     },
-    "3450": {
+    {
       "requestid": "ceae1d5f-aeff-4cb5-858c-8c6f2a77328d",
       "confidence": "0.5973594",
       "timestamp": 3450,
-      "content": "real hatred yeah you can use film and you can use radio you can use literature to change mines for a purpose"
+      "content": "real hatred yeah you can use film and you can use radio you can use literature to change mines for a purpose",
+      "uuid": "92193290-9633-49e9-baa0-c0f797394444"
     },
-    "3460": {
+    {
       "requestid": "2662ed89-1bcf-458c-91ed-55eec82df6a8",
       "confidence": "0.5668699",
       "timestamp": 3460,
-      "content": "vivo and you'll be able to do it in virtual reality as well I mean you you can would you still be at she might turn it back on"
+      "content": "vivo and you'll be able to do it in virtual reality as well I mean you you can would you still be at she might turn it back on",
+      "uuid": "acbf4f84-9a63-4c16-aa34-d7769e75d426"
     },
-    "3470": {
+    {
       "requestid": "7c3cf786-d83b-402d-9d93-ab0ae0855648",
       "confidence": "0.6507043",
       "timestamp": 3470,
-      "content": "you would you say that we shouldn't have let that are we should have cinema because it can be use for the sole purpose of no of course not right of course of the thing that"
+      "content": "you would you say that we shouldn't have let that are we should have cinema because it can be use for the sole purpose of no of course not right of course of the thing that",
+      "uuid": "2933bbcb-cdf0-4a1a-a040-779023768947"
     },
-    "3480": {
+    {
       "requestid": "bf00a0d6-a821-43b1-ae95-7ba5c62fdea8",
       "confidence": "0.7279703",
       "timestamp": 3480,
-      "content": "you can't really put put the stuff you can't make it impossible for evil people to use she's not here right now can't ya"
+      "content": "you can't really put put the stuff you can't make it impossible for evil people to use she's not here right now can't ya",
+      "uuid": "678325bb-86bb-4311-b7a7-212a2910bec2"
     },
-    "3490": {
+    {
       "requestid": "c49cac12-fa13-46c9-86b8-43a7d4010b17",
       "confidence": "0.6774215",
       "timestamp": 3490,
-      "content": "tell but I'd say though I hope would be that allowing people to have experience is that all"
+      "content": "tell but I'd say though I hope would be that allowing people to have experience is that all",
+      "uuid": "fa27b4eb-3ca6-44ad-a41c-764597f41139"
     },
-    "3500": {
+    {
       "requestid": "242cf656-9d34-4c5e-8b36-fbb22712c9d6",
       "confidence": "0.7014578",
       "timestamp": 3500,
-      "content": "possible and physical world can be an enlightening by changing transformative experience so I wasn't"
+      "content": "possible and physical world can be an enlightening by changing transformative experience so I wasn't",
+      "uuid": "9d667fcb-744f-4b6e-95bd-718fc34d12d4"
     },
-    "3510": {
+    {
       "requestid": "b714c995-ce24-4691-8a57-63bf16810981",
       "confidence": "0.6538801",
       "timestamp": 3510,
-      "content": "in sicily last week and we're in this little village in this town square there is the elderly italian"
+      "content": "in sicily last week and we're in this little village in this town square there is the elderly italian",
+      "uuid": "42923fdc-9ef4-4071-93fb-39db000e4911"
     },
-    "3520": {
+    {
       "requestid": "04b38dcf-ed32-4a02-9453-42538afeb081",
       "confidence": "0.6897705",
       "timestamp": 3520,
-      "content": "apple there and I had the heads up in my backpack and we ask them if they are they wanted to try that their friend and smiling and talking to"
+      "content": "apple there and I had the heads up in my backpack and we ask them if they are they wanted to try that their friend and smiling and talking to",
+      "uuid": "7e66c06c-f907-4121-bd5c-66b61c09c951"
     },
-    "3530": {
+    {
       "requestid": "2b7ffb91-c30f-4969-b333-a8a636a527d9",
       "confidence": "0.7389366",
       "timestamp": 3530,
-      "content": "that's what they wanna try it and the man tried it on and came out on the other side with his eyes wide open and then in his"
+      "content": "that's what they wanna try it and the man tried it on and came out on the other side with his eyes wide open and then in his",
+      "uuid": "68aa82e5-f8e5-44f5-8158-223caf5b7fe4"
     },
-    "3540": {
+    {
       "requestid": "b6cb27f6-553a-4793-857f-149b80d0d377",
       "confidence": "0.8084159",
       "timestamp": 3540,
-      "content": "is broken english she said that there is lots of very bad things in the world but this was a good day and I"
+      "content": "is broken english she said that there is lots of very bad things in the world but this was a good day and I",
+      "uuid": "fe68d626-4e01-4d8c-a7ef-5026a30464e7"
     },
-    "3550": {
+    {
       "requestid": "048dc6df-5955-4936-a811-3c3aad20889c",
       "confidence": "0.5414186",
       "timestamp": 3550,
-      "content": "I hope you drive"
+      "content": "I hope you drive",
+      "uuid": "ae94bffb-5bd1-40ac-8b0c-5fe7bf5e0896"
     },
-    "3560": {
+    {
       "requestid": "ce60485d-4079-4ea9-93a0-aadfdbdd1e3f",
       "confidence": "0.7842011",
       "timestamp": 3560,
-      "content": "we talk about with or without the virtual reality headset know we stepped inside the screen door this next week as we ask what it means for our lives"
+      "content": "we talk about with or without the virtual reality headset know we stepped inside the screen door this next week as we ask what it means for our lives",
+      "uuid": "39970938-a357-4a0d-bc24-60ea798b2886"
     },
-    "3570": {
+    {
       "requestid": "dd86cd32-6b37-4161-b297-56908d67d8e9",
       "confidence": "0.6569459",
       "timestamp": 3570,
-      "content": "increasingly to be living there I predicted years from now will regard taking away your access to virtual world as completely up"
+      "content": "increasingly to be living there I predicted years from now will regard taking away your access to virtual world as completely up",
+      "uuid": "9dcbe4f3-67aa-4c2c-b7a0-36a7f54cbf06"
     },
-    "3580": {
+    {
       "requestid": "93c83021-e73e-4ffd-b23e-eb7920834053",
       "confidence": "0.7852072",
       "timestamp": 3580,
-      "content": "what is this really mean are we going to be creatures that are going to live differently read differently love differently credit hundreds of thousands of hott millions of pieces of content"
+      "content": "what is this really mean are we going to be creatures that are going to live differently read differently love differently credit hundreds of thousands of hott millions of pieces of content",
+      "uuid": "fa27c854-fde9-4f4d-bad8-5f45600ce951"
     },
-    "3590": {
+    {
       "requestid": "9a73b5ed-d9b1-4670-9cd8-bb165117f33f",
       "confidence": "0.6474519",
       "timestamp": 3590,
-      "content": "live online long after gondwe be at to find on the internet on google has become more important than who we actually are these people"
+      "content": "live online long after gondwe be at to find on the internet on google has become more important than who we actually are these people",
+      "uuid": "51cdd4ff-a370-49ca-a802-6764bea7358e"
     },
-    "3600": {
+    {
       "requestid": "c41f8b8a-15d3-46d1-8757-87fd3360004e",
       "confidence": "0.5157887",
       "timestamp": 3600,
-      "content": "I think we can show time is it"
+      "content": "I think we can show time is it",
+      "uuid": "5eb5c2e6-ac61-4ca2-8291-37d090fad0c9"
     },
-    "3610": {
+    {
       "requestid": "62fe8082-dd2e-4069-bd5f-041ebb331e1b",
       "timestamp": 3610,
-      "content": ""
+      "content": "",
+      "uuid": "fa8041a1-8888-4d9c-86d7-c1533ff3ebfe"
     },
-    "3620": {
+    {
       "requestid": "96e7618f-1410-450e-8f0f-1af207b172c6",
       "confidence": "0.1629731",
       "timestamp": 3620,
-      "content": "university app"
+      "content": "university app",
+      "uuid": "177a8ac3-2821-4bc5-80a7-5d00aeac6f39"
     },
-    "3630": {
+    {
       "requestid": "c4c3e9c5-f54e-4ff7-a7b9-1684cb76fb56",
       "confidence": "0.4689105",
       "timestamp": 3630,
-      "content": "if you can't so please don't ever try that crap the future my defeat the internet really taste like chicken when I buy tennessee trash"
+      "content": "if you can't so please don't ever try that crap the future my defeat the internet really taste like chicken when I buy tennessee trash",
+      "uuid": "5aa8bfe6-5296-4662-8713-cf5569c5a98b"
     },
-    "3640": {
+    {
       "requestid": "fa158765-bcfd-4464-a108-81504c1fc8e7",
       "confidence": "0.4181224",
       "timestamp": 3640,
-      "content": "john we got every kagina don't care magic and art"
+      "content": "john we got every kagina don't care magic and art",
+      "uuid": "79954704-a9eb-479b-a75b-0d31e0708043"
     },
-    "3650": {
+    {
       "requestid": "e2bc92b2-df82-4fe1-ac57-05362a6c7773",
       "confidence": "0.5807201",
       "timestamp": 3650,
-      "content": "it's listening to part one of screentime a production staff at and t are included jeff rogers band bachmann may contain bieber grants in shames michigan floor with help"
+      "content": "it's listening to part one of screentime a production staff at and t are included jeff rogers band bachmann may contain bieber grants in shames michigan floor with help",
+      "uuid": "6c50e62f-e341-42c9-a46f-93afcc8bd27f"
     },
-    "3660": {
+    {
       "requestid": "ec87baa9-86e0-4377-945c-c5a5e7b6f31d",
       "confidence": "0.4731157",
       "timestamp": 3660,
-      "content": "from daniel chicken and show reviews of a partners at ted chris andersen should call and get tristan gently you can write a spy going to ted"
+      "content": "from daniel chicken and show reviews of a partners at ted chris andersen should call and get tristan gently you can write a spy going to ted",
+      "uuid": "8dce43fa-c1bf-4d91-abcc-f21d4f7396b5"
     },
-    "3670": {
+    {
       "requestid": "10c78ca0-fe04-4221-b021-085ebb926317",
       "confidence": "0.597723",
       "timestamp": 3670,
-      "content": "pr.org and scroll down to the button that says contact us with snow you think you can also follow esta tyler at kyra's at 10"
+      "content": "pr.org and scroll down to the button that says contact us with snow you think you can also follow esta tyler at kyra's at 10",
+      "uuid": "53c127e4-cbbf-47ab-84b9-a4feeeb59b43"
     },
-    "3680": {
+    {
       "requestid": "8328a6da-27ea-4ee1-ae3e-9308436c1350",
       "confidence": "0.4914447",
       "timestamp": 3680,
-      "content": "radio hour I'm guy rageh and you can listen to ideas worth spreading hear that ted radio hour from npr"
+      "content": "radio hour I'm guy rageh and you can listen to ideas worth spreading hear that ted radio hour from npr",
+      "uuid": "8ece7dd1-49f1-47a4-b6e7-413ed20a88dc"
     },
-    "3690": {
+    {
       "requestid": "14c363d4-1f5d-4b80-bb0e-767260530e02",
       "confidence": "0.456153",
       "timestamp": 3690,
-      "content": "hey crystal"
+      "content": "hey crystal",
+      "uuid": "bba8d02c-d3bd-4afc-86bd-b8bc9041fb97"
     },
-    "3700": {
+    {
       "requestid": "b0e38e78-f485-4074-a587-21ba9f5353be",
       "confidence": "0.7005859",
       "timestamp": 3700,
-      "content": "sing a lucky blessed me what podcast I listen to and I listen to alot in one of my favorites is npr's planet money it's full of soup"
+      "content": "sing a lucky blessed me what podcast I listen to and I listen to alot in one of my favorites is npr's planet money it's full of soup",
+      "uuid": "803fbdee-5f80-418b-8c21-dd153d1105b2"
     },
-    "3710": {
+    {
       "requestid": "92b9b4d8-fa2a-4e55-942f-337c37b77e23",
       "confidence": "0.7815535",
       "timestamp": 3710,
-      "content": "define insightful stories that explain all kinds of things about the world you don't even have to care about finance and economics to love it it's a great show and you can find"
+      "content": "define insightful stories that explain all kinds of things about the world you don't even have to care about finance and economics to love it it's a great show and you can find",
+      "uuid": "305751c1-b7ac-44ac-a42a-e939a354c676"
     },
-    "3720": {
+    {
       "requestid": "96dd999d-aebb-48c6-bba1-e992f0da4d27",
       "confidence": "0.800763",
       "timestamp": 3720,
-      "content": "right now at npr dot ORG slash podcast or on the npr one app"
+      "content": "right now at npr dot ORG slash podcast or on the npr one app",
+      "uuid": "e0db058d-5843-4e5c-b0f7-4daba50d1d3b"
     }
-  },
+  ],
   "slug": "Screen-Time---Part-I"
 }

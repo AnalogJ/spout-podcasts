@@ -3,455 +3,530 @@
   "date": "2015-06-10",
   "description": null,
   "episode_url": "http://link.theplatform.com/s/kYEXFC/377HE2qfsJET/file.mp3?metafile=false&feed=The%20Late%20Show%20Podcast",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "3d280821-ad59-45e7-9c6b-f2c1657c237d",
       "confidence": "0.8328756",
       "timestamp": 0,
-      "content": "hi this is stefan cole bear I'm down in new orleans with jon batiste yes indeed and john I hope you do a podcast or in the near future yeah we're gonna get it together"
+      "content": "hi this is stefan cole bear I'm down in new orleans with jon batiste yes indeed and john I hope you do a podcast or in the near future yeah we're gonna get it together",
+      "uuid": "a0bb0f7b-1508-4a91-ae84-d70ccc0aac29"
     },
-    "10": {
+    {
       "requestid": "f85695c2-2269-416d-a08d-db83cd922532",
       "confidence": "0.7545248",
       "timestamp": 10,
-      "content": "in the mean time what your butt here is me and and 2 guys that I work with on sexos of over dash over 2 decade"
+      "content": "in the mean time what your butt here is me and and 2 guys that I work with on sexos of over dash over 2 decade",
+      "uuid": "d322d538-85d1-46f8-b8e3-2e2b7c56eefc"
     },
-    "20": {
+    {
       "requestid": "bdb65886-ce41-4699-bcdd-1ec6f326323b",
       "confidence": "0.8408167",
       "timestamp": 20,
-      "content": "talk about what our process was like on those earlier comedy shows that we did together and we were young we didn't know we're doing lot it was chaos"
+      "content": "talk about what our process was like on those earlier comedy shows that we did together and we were young we didn't know we're doing lot it was chaos",
+      "uuid": "f6d46b90-2c42-43e8-bc48-db473b5fcbc4"
     },
-    "30": {
+    {
       "requestid": "087dea31-cd36-4337-b14c-2ea2237888a5",
       "confidence": "0.8043813",
       "timestamp": 30,
-      "content": "there's a lot of great energy a lot of inefficient oh and attractive behavior but it was a ton of fun and we thought we might talk about that"
+      "content": "there's a lot of great energy a lot of inefficient oh and attractive behavior but it was a ton of fun and we thought we might talk about that",
+      "uuid": "fa74f6f2-68d2-4ef7-aef8-b67824452ee8"
     },
-    "40": {
+    {
       "requestid": "fff47012-e4f5-4b89-941d-2725ce9ed83d",
       "confidence": "0.8087549",
       "timestamp": 40,
-      "content": "be an idea of some of the dna that led to the kind of show ended up doing last time in the shower about to do and I hope you enjoy bop bop bop bop"
+      "content": "be an idea of some of the dna that led to the kind of show ended up doing last time in the shower about to do and I hope you enjoy bop bop bop bop",
+      "uuid": "0f206ee7-10a9-48d7-af33-9b9ce7f1f2b8"
     },
-    "50": {
+    {
       "requestid": "4bd969ac-d125-43b6-a261-e7144a046c51",
       "confidence": "0.7814853",
       "timestamp": 50,
-      "content": "bapat it up bop bop bop bop bop bop bop bop bop bop podcast welcome to the second the lake show podcast this week's episode"
+      "content": "bapat it up bop bop bop bop bop bop bop bop bop bop podcast welcome to the second the lake show podcast this week's episode",
+      "uuid": "21ca6648-0a97-433a-b3d0-5952516f04fe"
     },
-    "60": {
+    {
       "requestid": "a965eab4-1573-4327-8d47-55d0098f7cfe",
       "confidence": "0.7171296",
       "timestamp": 60,
-      "content": "a 2 inch layer of broken cd's balach a podcast is brought to you by click desk job won't let you telecommute quick test makes it feel like you"
+      "content": "a 2 inch layer of broken cd's balach a podcast is brought to you by click desk job won't let you telecommute quick test makes it feel like you",
+      "uuid": "1600002f-9b7a-4895-ad55-1ec3fe928998"
     },
-    "70": {
+    {
       "requestid": "1b2a0588-7cb6-497a-a63a-b02c352769a1",
       "confidence": "0.812431",
       "timestamp": 70,
-      "content": "from home by putting a 2 second delay on everything clicked ask just like you aren't there hi welcome to z"
+      "content": "from home by putting a 2 second delay on everything clicked ask just like you aren't there hi welcome to z",
+      "uuid": "f8bb2e13-d961-4470-8c20-ced65aa987bf"
     },
-    "80": {
+    {
       "requestid": "7584d56b-28da-4597-b19d-6c361ca10f1a",
       "confidence": "0.7328684",
       "timestamp": 80,
-      "content": "second podcast of for the late show with starring stemco bear I'm still in demand side cabinet"
+      "content": "second podcast of for the late show with starring stemco bear I'm still in demand side cabinet",
+      "uuid": "1964f24a-3679-4282-b472-75871e31b164"
     },
-    "90": {
+    {
       "requestid": "0ce74cb0-66cf-4666-b924-2c33d06cd8be",
       "confidence": "0.5794718",
       "timestamp": 90,
-      "content": "atlas it was up with this is week I got my dress yourself I'm at lap and I'm not supervising producer in rye"
+      "content": "atlas it was up with this is week I got my dress yourself I'm at lap and I'm not supervising producer in rye",
+      "uuid": "7da1550b-90fe-44e3-8786-cf623876ba54"
     },
-    "100": {
+    {
       "requestid": "867d862e-85c3-45cc-b0cb-dea67b9c64fb",
       "confidence": "0.6236104",
       "timestamp": 100,
-      "content": "you're here on the ledge OS size then go back and let me add palden ello I'm I'm supervising producer as well anna rider"
+      "content": "you're here on the ledge OS size then go back and let me add palden ello I'm I'm supervising producer as well anna rider",
+      "uuid": "b68110bc-e158-4886-90d0-c97227d33d98"
     },
-    "110": {
+    {
       "requestid": "8139f605-b27f-482d-971d-9c5f08f9da94",
       "confidence": "0.6872936",
       "timestamp": 110,
-      "content": "I'm not contact some point matn I will have to fight is it can only be one at least that's what I was told like the highlander so watch your back laughing at that"
+      "content": "I'm not contact some point matn I will have to fight is it can only be one at least that's what I was told like the highlander so watch your back laughing at that",
+      "uuid": "2491cd32-e37e-4a68-9374-43f7afe5c619"
     },
-    "120": {
+    {
       "requestid": "4d0d1c5d-3f24-4f6b-a43d-b9d0fcce4263",
       "confidence": "0.5680764",
       "timestamp": 120,
-      "content": "is younger than you are about your bath and his younger bodies is the is bloated unfiltered oh my god I feel"
+      "content": "is younger than you are about your bath and his younger bodies is the is bloated unfiltered oh my god I feel",
+      "uuid": "f7f731bf-bdf9-4f7b-b476-bb588a584dd1"
     },
-    "130": {
+    {
       "requestid": "14bd6ba6-f68e-49aa-860e-22c04ac3c1c7",
       "confidence": "0.5921995",
       "timestamp": 130,
-      "content": "that woulda never thought to myself right by dire let you know that there in california is in crisis right now for microsoft and out like that in there somewhere tonight"
+      "content": "that woulda never thought to myself right by dire let you know that there in california is in crisis right now for microsoft and out like that in there somewhere tonight",
+      "uuid": "b92f9d99-62aa-4cf5-b494-31d3a1574493"
     },
-    "140": {
+    {
       "requestid": "a2818e83-497a-480c-8fdf-58ca9b423290",
       "confidence": "0.5945852",
       "timestamp": 140,
-      "content": "carbon dioxide for it but I need gone but I desperately where will they got it might play I have this brown liquid burns"
+      "content": "carbon dioxide for it but I need gone but I desperately where will they got it might play I have this brown liquid burns",
+      "uuid": "930e1da5-48a4-4197-8166-498f4638171a"
     },
-    "150": {
+    {
       "requestid": "49ca7369-58e1-4576-828f-a67ba82e7570",
       "confidence": "0.6826628",
       "timestamp": 150,
-      "content": "that was absolutely the level of urgency in the preamble daughters podcast that I'm trying to achieve that really feel right on a dry run hit the"
+      "content": "that was absolutely the level of urgency in the preamble daughters podcast that I'm trying to achieve that really feel right on a dry run hit the",
+      "uuid": "d261d19f-d277-4f42-b8e9-4b166f6c65fb"
     },
-    "160": {
+    {
       "requestid": "3ec3fbed-bd10-4b1b-94cc-013970d05cd2",
       "confidence": "0.5201821",
       "timestamp": 160,
-      "content": "absolute tone is calling me you know I don't enjoy texting me all with the front of my car while leroy and so I know"
+      "content": "absolute tone is calling me you know I don't enjoy texting me all with the front of my car while leroy and so I know",
+      "uuid": "51bbd7a0-72ba-4642-97ce-745388ff8e66"
     },
-    "170": {
+    {
       "requestid": "91f6651c-fac8-488c-8393-f631766f98de",
       "confidence": "0.6539422",
       "timestamp": 170,
-      "content": "I want you to call waller I just texted me but you see what he texted me about um let's see I am a text me wicca pedia"
+      "content": "I want you to call waller I just texted me but you see what he texted me about um let's see I am a text me wicca pedia",
+      "uuid": "9352ac72-3f16-4708-8c71-6b8296908274"
     },
-    "180": {
+    {
       "requestid": "f61243e4-d2d8-4d3e-b4a3-871bfa2f546b",
       "confidence": "0.7459361",
       "timestamp": 180,
-      "content": "page and it's about a ragtime musician I'm gonna turn my phone off"
+      "content": "page and it's about a ragtime musician I'm gonna turn my phone off",
+      "uuid": "cd997099-8119-4d8c-8765-f1337655359e"
     },
-    "190": {
+    {
       "requestid": "ff35ba5a-8f7c-4ac5-9775-00effb13125b",
       "confidence": "0.691783",
       "timestamp": 190,
-      "content": "so I've known you guys forever how long have I known you goofy ad 8 the summer ave"
+      "content": "so I've known you guys forever how long have I known you goofy ad 8 the summer ave",
+      "uuid": "3ff72512-b6d8-40f4-8784-6f0c8cba5558"
     },
-    "200": {
+    {
       "requestid": "40b70b73-8eee-427f-9d89-d838543c883d",
       "confidence": "0.7456332",
       "timestamp": 200,
-      "content": "that's right that's when I met you you when I auditioned for the national touring company second city and that day great and powerful audition day"
+      "content": "that's right that's when I met you you when I auditioned for the national touring company second city and that day great and powerful audition day",
+      "uuid": "738b9143-0574-497d-89df-ecb5ad82bfda"
     },
-    "210": {
+    {
       "requestid": "359b65f2-6d00-4176-b7d1-3643fccd9f58",
       "confidence": "0.5757263",
       "timestamp": 210,
-      "content": "amy sedarah chris farley model magazine gomez 8 people not there from cougar town among other things a minute"
+      "content": "amy sedarah chris farley model magazine gomez 8 people not there from cougar town among other things a minute",
+      "uuid": "954ddf52-3568-4ec8-94d5-c1b6ebaa53c6"
     },
-    "220": {
+    {
       "requestid": "39c12e98-245a-4d01-b333-57d951a09132",
       "confidence": "0.6054556",
       "timestamp": 220,
-      "content": "rose rosette do who you reckon IRI get a job with 4 people should know that we were together a lot of time in a bag"
+      "content": "rose rosette do who you reckon IRI get a job with 4 people should know that we were together a lot of time in a bag",
+      "uuid": "7b121965-9284-4fe4-b39b-026016dd2c28"
     },
-    "230": {
+    {
       "requestid": "dc405de4-4d80-4bbc-ab13-dbd317a1d637",
       "confidence": "0.5968487",
       "timestamp": 230,
-      "content": "in 16 passenger van eating terrible food and I remember that nmn it smell dogs smell coming from batman oh"
+      "content": "in 16 passenger van eating terrible food and I remember that nmn it smell dogs smell coming from batman oh",
+      "uuid": "0d621f9d-4285-481d-97da-726a3595c1dc"
     },
-    "240": {
+    {
       "requestid": "27a9d366-2fd4-4aa2-af1f-ebe10711b3f6",
       "confidence": "0.7370971",
       "timestamp": 240,
-      "content": "dry drowning at states don't comma need people like little theaters in iowa nebraska lincoln nebraska scott's bluff"
+      "content": "dry drowning at states don't comma need people like little theaters in iowa nebraska lincoln nebraska scott's bluff",
+      "uuid": "34cbd206-920c-4cb1-94c5-9dfeb6615a5b"
     },
-    "250": {
+    {
       "requestid": "79529dd7-1f28-4165-b36e-18001ecf621d",
       "confidence": "0.6998581",
       "timestamp": 250,
-      "content": "nebraska we're laundry with stone because of you I told you that was a small town and will steal your laundry in your laundry store"
+      "content": "nebraska we're laundry with stone because of you I told you that was a small town and will steal your laundry in your laundry store",
+      "uuid": "217e4662-cdfe-42b8-b385-ba801fe7b98a"
     },
-    "260": {
+    {
       "requestid": "104e0193-a46c-459f-8bfc-d37dcdf4671a",
       "confidence": "0.7385713",
       "timestamp": 260,
-      "content": "prize parents when they still be where you are today most likely now I haven't we met in 1997 I was high"
+      "content": "prize parents when they still be where you are today most likely now I haven't we met in 1997 I was high",
+      "uuid": "42fc6543-1f2e-4aff-ad87-ec74c052f97a"
     },
-    "270": {
+    {
       "requestid": "a764c9f1-495a-46cd-8b6b-57814cb74b5c",
       "confidence": "0.6640362",
       "timestamp": 270,
-      "content": "as a writer's assistant on a strange with candy the pilot pilot time and why wait a second you were on the I member"
+      "content": "as a writer's assistant on a strange with candy the pilot pilot time and why wait a second you were on the I member",
+      "uuid": "b52a60e8-7af8-4c98-974d-f53406692e3b"
     },
-    "280": {
+    {
       "requestid": "535a69ec-71e8-4452-9301-22d55213b5b5",
       "confidence": "0.5843301",
       "timestamp": 280,
-      "content": "why read this that's great for the first time just thinking my god of 5 found my people because they are clearly emotionally disturbed yeah I said"
+      "content": "why read this that's great for the first time just thinking my god of 5 found my people because they are clearly emotionally disturbed yeah I said",
+      "uuid": "921ec6e5-e411-4aaa-a924-6de62bb427fd"
     },
-    "300": {
+    {
       "requestid": "3c879052-caaf-432d-89fd-f168b68d0c4d",
       "confidence": "0.6689954",
       "timestamp": 300,
-      "content": "rushing to ask and I never really written comma tape of ashley and I was in that so to be around you guys in providing and I'm at the south at all and that madness"
+      "content": "rushing to ask and I never really written comma tape of ashley and I was in that so to be around you guys in providing and I'm at the south at all and that madness",
+      "uuid": "b6f15482-9a6a-4bd3-a397-e5393bd7ee9a"
     },
-    "430": {
+    {
       "requestid": "6b9709d3-a139-4379-b222-53055453d536",
       "confidence": "0.5729024",
       "timestamp": 430,
-      "content": "and gather some things I wish that because I really ugly but we left at the second thing was make every move wrong way"
+      "content": "and gather some things I wish that because I really ugly but we left at the second thing was make every move wrong way",
+      "uuid": "45bfe344-7589-4a98-9ed6-46926101b383"
     },
-    "440": {
+    {
       "requestid": "0afb463b-3c54-44c6-9d31-f20ebd431f52",
       "confidence": "0.7398381",
       "timestamp": 440,
-      "content": "keep on pushing people in ethical dilemmas and then make the worst choice and call it the best choice because we didn't write the show"
+      "content": "keep on pushing people in ethical dilemmas and then make the worst choice and call it the best choice because we didn't write the show",
+      "uuid": "dcaf8adf-fce6-4916-8066-c75eade8603f"
     },
-    "450": {
+    {
       "requestid": "2a076743-e3d6-4b6c-b4c9-b273146dcaec",
       "confidence": "0.599406",
       "timestamp": 450,
-      "content": "it was written by with a woman's name at hershey in there yet hersee guest djaja password is you guessed that you actually wrote facebook and I thought our role"
+      "content": "it was written by with a woman's name at hershey in there yet hersee guest djaja password is you guessed that you actually wrote facebook and I thought our role",
+      "uuid": "d9c6355b-b3ec-40c3-b025-d01a930ef8d6"
     },
-    "460": {
+    {
       "requestid": "00ba7728-90c2-4480-b727-4a149930b3bf",
       "confidence": "0.745957",
       "timestamp": 460,
-      "content": "I deal with that she was writing a tough and her world all these choices were the right"
+      "content": "I deal with that she was writing a tough and her world all these choices were the right",
+      "uuid": "20c9ce83-c332-4059-aaf7-b95a2e0d2c6b"
     },
-    "510": {
+    {
       "requestid": "9a4c1c97-3f0a-4881-bf58-64f851514507",
       "confidence": "0.5296472",
       "timestamp": 510,
-      "content": "I don't think it was wrong it's up to you I'll talk about it to the first episode my mom called I was in home"
+      "content": "I don't think it was wrong it's up to you I'll talk about it to the first episode my mom called I was in home",
+      "uuid": "46315482-bda3-4050-a08e-c137492d2bfe"
     },
-    "520": {
+    {
       "requestid": "7f047980-f2a7-42cd-aec6-23d4e0066793",
       "confidence": "0.779382",
       "timestamp": 520,
-      "content": "I'm not done with your answering machines that you left a message on my answer machine set up all I wanted to know that we watch the show"
+      "content": "I'm not done with your answering machines that you left a message on my answer machine set up all I wanted to know that we watch the show",
+      "uuid": "3a064408-0005-4738-a746-291888bd38cd"
     },
-    "530": {
+    {
       "requestid": "52f3d9ee-32c3-4c7d-b5eb-8db19a9b8b1e",
       "confidence": "0.6664509",
       "timestamp": 530,
-      "content": "and that's all I wanna say right now cracked com or is it a lot more than my dad"
+      "content": "and that's all I wanna say right now cracked com or is it a lot more than my dad",
+      "uuid": "9ddac903-aba2-4a17-b18b-503bc6fb7c28"
     },
-    "560": {
+    {
       "requestid": "0b36c1a2-c623-4df0-83e8-a7dfc0a97529",
       "confidence": "0.6120027",
       "timestamp": 560,
-      "content": "that was that I could be said we had a mini back we had a mini bat and they would throw and I would bro but it would've videotaped beatas like big bay that case each other"
+      "content": "that was that I could be said we had a mini back we had a mini bat and they would throw and I would bro but it would've videotaped beatas like big bay that case each other",
+      "uuid": "919b621f-a377-4943-9428-300c3f8b2c92"
     },
-    "570": {
+    {
       "requestid": "fe73f43b-b0c6-4ee5-b5a9-54fe03f28ffd",
       "confidence": "0.6235633",
       "timestamp": 570,
-      "content": "I will play paintball and would be how old and how much they already showered how do you know I know how far the rolling tomato not go in the room that's how he would adore you mean by queen"
+      "content": "I will play paintball and would be how old and how much they already showered how do you know I know how far the rolling tomato not go in the room that's how he would adore you mean by queen",
+      "uuid": "bf922135-6527-453f-94fc-1a2a39aee206"
     },
-    "580": {
+    {
       "requestid": "8bb3343e-dfbb-4c13-84a4-704509c03cf0",
       "confidence": "0.4820734",
       "timestamp": 580,
-      "content": "they pass crazy and I remember like forestall"
+      "content": "they pass crazy and I remember like forestall",
+      "uuid": "b7aff36c-a28b-4d71-9bb9-da4ab8d71b9d"
     },
-    "610": {
+    {
       "requestid": "a538f27b-68d7-496f-82ee-c5d802627879",
       "confidence": "0.6023513",
       "timestamp": 610,
-      "content": "one because they would you know big it delivered stacks and stacks and stacks of the 810 exit music players doing on my for some reason I think you"
+      "content": "one because they would you know big it delivered stacks and stacks and stacks of the 810 exit music players doing on my for some reason I think you",
+      "uuid": "e6ea054c-1b5c-443a-820f-918b2fbdda06"
     },
-    "630": {
+    {
       "requestid": "103b0cdb-17d3-4b1e-be4f-2277a504a774",
       "confidence": "0.5137497",
       "timestamp": 630,
-      "content": "basemap good safe drive back down from the next hour drive got the block at this point we doing when I gotta come and go like that's going on right now"
+      "content": "basemap good safe drive back down from the next hour drive got the block at this point we doing when I gotta come and go like that's going on right now",
+      "uuid": "ca81defd-83b6-4279-add0-e11485d06600"
     },
-    "640": {
+    {
       "requestid": "1b6a9f07-34b3-4ec0-bfa5-c764d5d36102",
       "confidence": "0.5390347",
       "timestamp": 640,
-      "content": "are they would walk in the office and they be a good day if you hear it's ok well why we would pitch then we would bring stacks of the wrong"
+      "content": "are they would walk in the office and they be a good day if you hear it's ok well why we would pitch then we would bring stacks of the wrong",
+      "uuid": "089a7a07-ee98-4d88-a770-53ab8da4765e"
     },
-    "670": {
+    {
       "requestid": "56be8537-2692-4e3a-83ae-265af257f5e0",
       "confidence": "0.7119049",
       "timestamp": 670,
-      "content": "ken's like that start arts I would turn around there we go haha I would rather meet other and use water out of the air with a sword and because there so"
+      "content": "ken's like that start arts I would turn around there we go haha I would rather meet other and use water out of the air with a sword and because there so",
+      "uuid": "23a8ee45-9579-45e1-9aea-9593845fe62d"
     },
-    "710": {
+    {
       "requestid": "38c6dd7d-2be9-4183-9f02-b765ade46b04",
       "confidence": "0.5346314",
       "timestamp": 710,
-      "content": "yeah that offered by my big events do we throw knives at at at strangers matt lot of yeah we did write knives pencils ever will"
+      "content": "yeah that offered by my big events do we throw knives at at at strangers matt lot of yeah we did write knives pencils ever will",
+      "uuid": "46b5d6da-57e6-4862-acb0-4e65a72ed50e"
     },
-    "800": {
+    {
       "requestid": "036f0d6d-a231-4547-af7e-125941865f73",
       "confidence": "0.7414889",
       "timestamp": 800,
-      "content": "that was locally grown got a favourite crazy thing in that show strangers I still I still think I like the racism at the said the best method to my"
+      "content": "that was locally grown got a favourite crazy thing in that show strangers I still I still think I like the racism at the said the best method to my",
+      "uuid": "f3c49f1d-0309-4773-99f3-333dc5ff7457"
     },
-    "840": {
+    {
       "requestid": "e03b8b10-cc6c-44a7-9257-d53ae33a79af",
       "confidence": "0.4957769",
       "timestamp": 840,
-      "content": "funny we put it like getting that out the better team over to straight with him over did that we ask them up they see why"
+      "content": "funny we put it like getting that out the better team over to straight with him over did that we ask them up they see why",
+      "uuid": "d9f7af3b-2d24-4998-86b3-308a77f953a7"
     },
-    "850": {
+    {
       "requestid": "044579b0-8189-45ae-adfb-78ce0c9ad40e",
       "confidence": "0.6224306",
       "timestamp": 850,
-      "content": "jc what am I askin american republican on the old show the co bear por we went with his name and I want love it is it was persecuted"
+      "content": "jc what am I askin american republican on the old show the co bear por we went with his name and I want love it is it was persecuted",
+      "uuid": "40ed2271-a043-43fb-ab19-1794bba38e4a"
     },
-    "860": {
+    {
       "requestid": "6d9fff58-021d-4258-8741-413f2198a202",
       "confidence": "0.6335967",
       "timestamp": 860,
-      "content": "doing another thing that is such an opportunist going name is it is name is pk winsum school's name is percy kittens when I think eric is the lake of the continuum"
+      "content": "doing another thing that is such an opportunist going name is it is name is pk winsum school's name is percy kittens when I think eric is the lake of the continuum",
+      "uuid": "9da84f76-9204-4153-8006-d4e596e10738"
     },
-    "870": {
+    {
       "requestid": "f32e9fc4-b827-4faf-b68f-3ab27c06f343",
       "confidence": "0.8325109",
       "timestamp": 870,
-      "content": "continuum strangers to the co bear report like there several references from one to the other night so they'll in my war in my mind they live in the same world ok"
+      "content": "continuum strangers to the co bear report like there several references from one to the other night so they'll in my war in my mind they live in the same world ok",
+      "uuid": "b675dc53-411f-43ee-9e91-baa8da58e41e"
     },
-    "930": {
+    {
       "requestid": "cbc0989f-7e25-443c-836c-537d72cbc98e",
       "confidence": "0.6216753",
       "timestamp": 930,
-      "content": "I'll be like is this something that would fit and wanna tell people at home with the idea is there was matts idea but I'm glad orif is the store is in california there"
+      "content": "I'll be like is this something that would fit and wanna tell people at home with the idea is there was matts idea but I'm glad orif is the store is in california there",
+      "uuid": "63bbc6e8-b202-492b-8d2a-3ff498e20e00"
     },
-    "940": {
+    {
       "requestid": "111298a8-0f90-4e8b-836e-a4b2d90b1197",
       "confidence": "0.7104422",
       "timestamp": 940,
-      "content": "there in about the new regulations for safety reasons in in pornography in they start out of condoms and out there there also I think that they get"
+      "content": "there in about the new regulations for safety reasons in in pornography in they start out of condoms and out there there also I think that they get",
+      "uuid": "9c2926e4-de5b-48b0-9cba-00defec97eea"
     },
-    "950": {
+    {
       "requestid": "a235a327-effb-4ee1-bd1d-f797bda88b97",
       "confidence": "0.5617023",
       "timestamp": 950,
-      "content": "where goggles for reasons that we don't wanna go on a road bike at that god has a plan but she was too hot for pocket I would've been up in a soda bottle water"
+      "content": "where goggles for reasons that we don't wanna go on a road bike at that god has a plan but she was too hot for pocket I would've been up in a soda bottle water",
+      "uuid": "2d4f0ceb-3d33-43d5-a768-ccd4a70ec11f"
     },
-    "960": {
+    {
       "requestid": "5c7a1ed7-78a1-465c-9f12-48abd06a8f5c",
       "confidence": "0.5861753",
       "timestamp": 960,
-      "content": "wanted fourth all the actors to wear goggles during the sexy so in an idea is that that we can do it"
+      "content": "wanted fourth all the actors to wear goggles during the sexy so in an idea is that that we can do it",
+      "uuid": "7502b6da-4ad4-4b85-af6e-7349915d2e95"
     },
-    "970": {
+    {
       "requestid": "86c909c7-4658-4d15-8856-eb7c740c35d6",
       "confidence": "0.209459",
       "timestamp": 970,
-      "content": "I sleep"
+      "content": "I sleep",
+      "uuid": "86eeb522-7b89-40b6-9eb1-b16620f9b2f5"
     },
-    "980": {
+    {
       "requestid": "d6dae9e5-9cf7-401a-9fab-3aed1cd88174",
       "timestamp": 980,
-      "content": ""
+      "content": "",
+      "uuid": "e4749651-8546-423f-9294-8cfe363f21f3"
     },
-    "990": {
+    {
       "requestid": "775f5156-019f-4d7a-bac1-f5c91952527d",
       "confidence": "0.4691645",
       "timestamp": 990,
-      "content": "up the dog will posibil with the plants in case you know it's bad things that we had some of my way I can you book display driver"
+      "content": "up the dog will posibil with the plants in case you know it's bad things that we had some of my way I can you book display driver",
+      "uuid": "6d114d44-da4f-4094-b6ec-82abd8bd12d0"
     },
-    "1000": {
+    {
       "requestid": "89670834-de5e-48e1-a1a6-72e20aad3366",
       "confidence": "0.4998323",
       "timestamp": 1000,
-      "content": "holik diving bell yeah I like to come and get you in a full wet suit and then I'll gagauz like you did he die then you have a spear"
+      "content": "holik diving bell yeah I like to come and get you in a full wet suit and then I'll gagauz like you did he die then you have a spear",
+      "uuid": "b66781b7-db02-42d9-a07d-db493aa8723f"
     },
-    "1010": {
+    {
       "requestid": "2fd1305d-3551-4080-9b83-586990d25889",
       "confidence": "0.644244",
       "timestamp": 1010,
-      "content": "angler fish on it using it someone order deep sea anglerfish should yes but how will I pay you I don't have any cash on me like oh I picked to find away"
+      "content": "angler fish on it using it someone order deep sea anglerfish should yes but how will I pay you I don't have any cash on me like oh I picked to find away",
+      "uuid": "86449714-d7dc-4719-bca5-3f003104456b"
     },
-    "1020": {
+    {
       "requestid": "24ed8c54-e0ba-439c-a252-5858a67b0391",
       "confidence": "0.4240577",
       "timestamp": 1020,
-      "content": "this is 45"
+      "content": "this is 45",
+      "uuid": "9f9fef03-f04b-408c-bda3-fde13e0751f9"
     },
-    "1030": {
+    {
       "requestid": "f6db6d21-8638-45a3-ad50-4bf204644ae7",
       "confidence": "0.5094302",
       "timestamp": 1030,
-      "content": "we were gonna go into their plots which phenomenal hey buddy but it is at the hobo I'm sorry is why is there were about"
+      "content": "we were gonna go into their plots which phenomenal hey buddy but it is at the hobo I'm sorry is why is there were about",
+      "uuid": "de6624fb-19a7-492a-bb4c-6f4281f1cb95"
     },
-    "1040": {
+    {
       "requestid": "36073b5d-05b6-430d-928a-8bc9e9ea83b4",
       "confidence": "0.6726809",
       "timestamp": 1040,
-      "content": "I say it like you have to I get to the part of the update bbm the portion of the bill that a shot that leads to the cash out with"
+      "content": "I say it like you have to I get to the part of the update bbm the portion of the bill that a shot that leads to the cash out with",
+      "uuid": "2817a947-9458-4ad2-ae6b-01013c32c9f4"
     },
-    "1050": {
+    {
       "requestid": "e4711f70-559d-4d31-a32e-1aa58bb6b106",
       "confidence": "0.7108956",
       "timestamp": 1050,
-      "content": "yeah that was the idea but it's also nice to just all we know we know what the show is this might live on it over so it might actually have to come"
+      "content": "yeah that was the idea but it's also nice to just all we know we know what the show is this might live on it over so it might actually have to come",
+      "uuid": "7f544d98-7bc9-4b9b-a9c7-229e7ab10846"
     },
-    "1060": {
+    {
       "requestid": "250af0f4-221e-4701-b48e-bde9acc97e2a",
       "confidence": "0.6638458",
       "timestamp": 1060,
-      "content": "news again go to me right in my life but I'm going there but it comes to about right now but it's north I would man up it'll be better if it ends up the proper california king bed like prob 40"
+      "content": "news again go to me right in my life but I'm going there but it comes to about right now but it's north I would man up it'll be better if it ends up the proper california king bed like prob 40",
+      "uuid": "fbd465d6-b187-4026-9554-4a3c33aededf"
     },
-    "1070": {
+    {
       "requestid": "d73d634b-da23-45bd-87bc-add0a413628f",
       "confidence": "0.4961126",
       "timestamp": 1070,
-      "content": "7 porn gogola statewide everybody has the way you did that"
+      "content": "7 porn gogola statewide everybody has the way you did that",
+      "uuid": "b2c5547e-fc2e-4a52-8ae6-bbdf5f300f12"
     },
-    "1080": {
+    {
       "requestid": "eafa1ced-c27e-449c-93bf-a491e61646a5",
       "confidence": "0.7297971",
       "timestamp": 1080,
-      "content": "madden times crazier things by the way there for business room right now once again should mention that it's not just"
+      "content": "madden times crazier things by the way there for business room right now once again should mention that it's not just",
+      "uuid": "4cd88509-2884-4146-8daf-db50f3b2f959"
     },
-    "1090": {
+    {
       "requestid": "cbf05a99-d728-4035-8265-a211b07f0630",
       "confidence": "0.5037947",
       "timestamp": 1090,
-      "content": "map on here also rob governor producer in the corner dating rob don't say any bash ruin the intimacy"
+      "content": "map on here also rob governor producer in the corner dating rob don't say any bash ruin the intimacy",
+      "uuid": "41987b3e-250c-4c72-a105-e12d22a02078"
     },
-    "1100": {
+    {
       "requestid": "2e508126-b435-4cb7-900e-07f7590c2a25",
       "confidence": "0.6368279",
       "timestamp": 1100,
-      "content": "weather to be more than 3 people"
+      "content": "weather to be more than 3 people",
+      "uuid": "c93c252a-cfe5-4bc2-8e04-0cc8d04c9795"
     },
-    "1110": {
+    {
       "requestid": "1b67b170-6fe7-40ec-8f88-da64b4f05f28",
       "confidence": "0.7247559",
       "timestamp": 1110,
-      "content": "does the last week's podcast were back in the bedroom at it is really about the size of a rikers island cell"
+      "content": "does the last week's podcast were back in the bedroom at it is really about the size of a rikers island cell",
+      "uuid": "00dd4c56-676a-4c29-9d08-47fe9db68e43"
     },
-    "1120": {
+    {
       "requestid": "063e5b9a-efe1-48c5-bbe9-791736318ae2",
       "confidence": "0.6233612",
       "timestamp": 1120,
-      "content": "I bet it is nice <profanity>tits</profanity> big to manor for the 2 guys in area 2 guys for guys and he would be trouble"
+      "content": "I bet it is nice <profanity>tits</profanity> big to manor for the 2 guys in area 2 guys for guys and he would be trouble",
+      "uuid": "63624afe-1508-47e7-8e83-87e03e90ff28"
     },
-    "1130": {
+    {
       "requestid": "06e84071-3374-42b4-a976-8c74dd6cc437",
       "confidence": "0.7243094",
       "timestamp": 1130,
-      "content": "but I like that will get a list on the cork board up here it says late show to do list one suit still fits question mark 2"
+      "content": "but I like that will get a list on the cork board up here it says late show to do list one suit still fits question mark 2",
+      "uuid": "f1b93f93-7b47-49a5-9a01-ff061f4637d8"
     },
-    "1140": {
+    {
       "requestid": "cf72a8dc-905b-4566-9e24-2487eec37b65",
       "confidence": "0.7427484",
       "timestamp": 1140,
-      "content": "write all that you feel 3 have more meeting so I gotta blow I gotta blow I gotta go to new orleans with john baptiste"
+      "content": "write all that you feel 3 have more meeting so I gotta blow I gotta blow I gotta go to new orleans with john baptiste",
+      "uuid": "0650838a-1993-4707-b71f-e6cfe6ec2b3d"
     },
-    "1150": {
+    {
       "requestid": "bdbd4534-d6a4-465b-adae-0f351e44b94c",
       "confidence": "0.5709736",
       "timestamp": 1150,
-      "content": "ok then else but he's the band leader is already happened I think I'm just gonna go should I wait till this will be a very weak lunch"
+      "content": "ok then else but he's the band leader is already happened I think I'm just gonna go should I wait till this will be a very weak lunch",
+      "uuid": "10fdac07-23bd-40b3-9adf-94b5e61433c3"
     },
-    "1160": {
+    {
       "requestid": "9ed18676-4938-41e0-a01d-8e5d8d601a8f",
       "confidence": "0.6289003",
       "timestamp": 1160,
-      "content": "oh yeah damn right back in the cabinet by and pick you guys up with you"
+      "content": "oh yeah damn right back in the cabinet by and pick you guys up with you",
+      "uuid": "3d470e98-2622-4fe0-af46-21f5453e1ec4"
     },
-    "1170": {
+    {
       "requestid": "816814c6-8255-4cbc-b293-6ba544d18620",
       "confidence": "0.8874471",
       "timestamp": 1170,
-      "content": "next time"
+      "content": "next time",
+      "uuid": "0b00a5d9-3be8-4879-b6c3-ac68a341f62f"
     }
-  }
+  ]
 }

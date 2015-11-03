@@ -3,1371 +3,1599 @@
   "date": "2015-06-18",
   "description": "<p>Sure, markets generally work well. But for some transactions -- like school admissions and organ transplants -- money alone can't solve the problem. That's when you need a market-design wizard like Al Roth.</p><img src=\"http://feeds.feedburner.com/~r/freakonomicsradio/~4/3BJSlMFyowM\" height=\"1\" width=\"1\" alt=\"\"/>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/5QLu-DQznho/freakonomics_podcast061715.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "3710dbec-b861-4799-8ae4-3e1628aa7b06",
       "confidence": "0.4378815",
       "timestamp": 0,
-      "content": "hey I'm al off and I'm"
+      "content": "hey I'm al off and I'm",
+      "uuid": "b298f6dc-98ce-4226-a800-8f9fc5b0860f"
     },
-    "10": {
+    {
       "requestid": "917af56d-687f-44db-8739-e2d9ad5f65ba",
       "confidence": "0.5836665",
       "timestamp": 10,
-      "content": "so we can I mix of stamford for many years rosta taught economics apartment but he and his wife who is a human factors engineer adriel ok"
+      "content": "so we can I mix of stamford for many years rosta taught economics apartment but he and his wife who is a human factors engineer adriel ok",
+      "uuid": "cbc95cb5-a8c5-4279-9c8e-0ea1baa76c86"
     },
-    "20": {
+    {
       "requestid": "1ef6fb71-400a-4410-b159-a6518f66949d",
       "confidence": "0.6405331",
       "timestamp": 20,
-      "content": "did we had just moved into a new apartment we could move the stamford in september 2012 shortly thereafter and October 15th something memory"
+      "content": "did we had just moved into a new apartment we could move the stamford in september 2012 shortly thereafter and October 15th something memory",
+      "uuid": "3965a5de-a8cd-4706-9f6b-cd3b687c1c84"
     },
-    "30": {
+    {
       "requestid": "8283a91a-8999-4deb-9b66-786345edcd08",
       "confidence": "0.6176302",
       "timestamp": 30,
-      "content": "happened and I'm my wife woke up around 3 in the morning and said the phones ringing and I woke up and it wasn't raining anymore will meet one phone"
+      "content": "happened and I'm my wife woke up around 3 in the morning and said the phones ringing and I woke up and it wasn't raining anymore will meet one phone",
+      "uuid": "f1f0ed43-ca5b-419d-bd31-76a3c03f3d90"
     },
-    "40": {
+    {
       "requestid": "a3d55435-71b6-4c7a-a2b1-1ae1c3a3be6f",
       "confidence": "0.5819305",
       "timestamp": 40,
-      "content": "pointers in your office with downstairs on saturn's not ringing back to sleep and she went down and got the phone then it started raining again attendant a good thing bae bae call you back"
+      "content": "pointers in your office with downstairs on saturn's not ringing back to sleep and she went down and got the phone then it started raining again attendant a good thing bae bae call you back",
+      "uuid": "cdb8da8d-6c8c-4124-b511-def2f8efdb33"
     },
-    "50": {
+    {
       "requestid": "3c80d662-b104-4e0b-b405-235f546836fc",
       "confidence": "0.5631249",
       "timestamp": 50,
-      "content": "go down there last night and it was that the nobel committee ross have to sleep with informed that he wrong with boyd shop"
+      "content": "go down there last night and it was that the nobel committee ross have to sleep with informed that he wrong with boyd shop",
+      "uuid": "0630a05d-c68c-4d60-a7ee-313e14fb6cf6"
     },
-    "60": {
+    {
       "requestid": "f0cda916-62eb-4275-be74-438065a77fe7",
       "confidence": "0.7472224",
       "timestamp": 60,
-      "content": "we have won the bank of sweden prize in economic sciences in memory of alfred nobel also known as the nobel prize in economics"
+      "content": "we have won the bank of sweden prize in economic sciences in memory of alfred nobel also known as the nobel prize in economics",
+      "uuid": "d884da0f-adc0-4869-82fb-55896ea94635"
     },
-    "70": {
+    {
       "requestid": "721efe6d-72fd-4971-99a2-7750784a2a23",
       "confidence": "0.6289021",
       "timestamp": 70,
-      "content": "did you think you had a chance um but not hard to answer that humbly soak I knew that I was on the big blue"
+      "content": "did you think you had a chance um but not hard to answer that humbly soak I knew that I was on the big blue",
+      "uuid": "95bf3e7a-6c2a-44f1-86ea-41e473dabb60"
     },
-    "80": {
+    {
       "requestid": "184a6f2e-d298-4be6-a2fd-683bbd51242b",
       "confidence": "0.6807728",
       "timestamp": 80,
-      "content": "the people who if I won a nobel prize it wouldn't cause the nobel committee to be embarrassing to the newspaper the next day would not say craziness in stock"
+      "content": "the people who if I won a nobel prize it wouldn't cause the nobel committee to be embarrassing to the newspaper the next day would not say craziness in stock",
+      "uuid": "7038c240-e5cb-4657-8486-0b9cd819e0e5"
     },
-    "90": {
+    {
       "requestid": "dee80d37-6fb3-4fd6-83d0-cce020b7c17c",
       "confidence": "0.721639",
       "timestamp": 90,
-      "content": "but but there are many many people in that category so indeed we had we were asleep we were not waiting for a call and get an acre"
+      "content": "but but there are many many people in that category so indeed we had we were asleep we were not waiting for a call and get an acre",
+      "uuid": "0bf2c1f8-b6e9-4224-8afd-bb5be725201f"
     },
-    "100": {
+    {
       "requestid": "fe269096-df46-4dda-bb60-6b45e266d9d2",
       "confidence": "0.6712962",
       "timestamp": 100,
-      "content": "all because one of the things they're concerned about the have a lot of experience with this is convincing you that it's not a prank so the person for spoke to me said"
+      "content": "all because one of the things they're concerned about the have a lot of experience with this is convincing you that it's not a prank so the person for spoke to me said",
+      "uuid": "b26ce99c-97ed-47a4-9c78-8a507e027c73"
     },
-    "110": {
+    {
       "requestid": "fb23793a-44b9-4bf9-ac25-7da483315a40",
       "confidence": "0.6489871",
       "timestamp": 110,
-      "content": "can you congratulations you won the nobel prize um many said and I'm here with 6 of my colleagues in 2 of them know you and they're gonna talk to now to persuade you that after this is for"
+      "content": "can you congratulations you won the nobel prize um many said and I'm here with 6 of my colleagues in 2 of them know you and they're gonna talk to now to persuade you that after this is for",
+      "uuid": "50dfb3a5-8618-4068-af4f-e2619947d678"
     },
-    "120": {
+    {
       "requestid": "e514644b-cb34-4637-a93b-ed0e58aec066",
       "confidence": "0.6131262",
       "timestamp": 120,
-      "content": "real friend you letter in very elaborate prank exactly but but they call you off my 61 half an hour this can happen um get ready"
+      "content": "real friend you letter in very elaborate prank exactly but but they call you off my 61 half an hour this can happen um get ready",
+      "uuid": "aa9abd17-c0b1-4fac-9f29-190e292c0afc"
     },
-    "130": {
+    {
       "requestid": "9905fc0f-1551-433d-8be5-495f68f15033",
       "confidence": "0.5817881",
       "timestamp": 130,
-      "content": "I'm going to shower and get dressed because we think we could sit with them tonight that will do that again all day about the rest of day like fun well so at at 5 minutes 2 phone"
+      "content": "I'm going to shower and get dressed because we think we could sit with them tonight that will do that again all day about the rest of day like fun well so at at 5 minutes 2 phone",
+      "uuid": "103c56cd-0d98-4c65-aa8c-f29f90d7dea9"
     },
-    "140": {
+    {
       "requestid": "ebdba73d-15c9-4712-884a-97fafd04ccd7",
       "confidence": "0.565146",
       "timestamp": 140,
-      "content": "how's your back and again after I guess contended you shouldn't appear confused on the phone so what what she said that point your browser today to the note"
+      "content": "how's your back and again after I guess contended you shouldn't appear confused on the phone so what what she said that point your browser today to the note",
+      "uuid": "f40fdf31-decb-4c0b-a8ce-582c9a324c87"
     },
-    "150": {
+    {
       "requestid": "d2903cf5-5452-4c1f-9767-da08c20902cb",
       "confidence": "0.6396115",
       "timestamp": 150,
-      "content": "also I can you will see your name being announced and then we will come online in have a pass code for telephone so by the time that happened I remember stanford press office"
+      "content": "also I can you will see your name being announced and then we will come online in have a pass code for telephone so by the time that happened I remember stanford press office",
+      "uuid": "d3715533-fbbd-4b89-8fcb-c2f2b9799efa"
     },
-    "160": {
+    {
       "requestid": "1f523fc5-b84b-46e8-ac76-34daa0965468",
       "confidence": "0.7103597",
       "timestamp": 160,
-      "content": "fortunately the sender on our house at 4 AM and started fielding calls from journalist will it take pressure off is ready now are you ready and I get phone and I get back question"
+      "content": "fortunately the sender on our house at 4 AM and started fielding calls from journalist will it take pressure off is ready now are you ready and I get phone and I get back question",
+      "uuid": "3a25b545-bfb3-4e6a-9693-993c5b6feff6"
     },
-    "170": {
+    {
       "requestid": "c0cca86b-c774-4f84-b3cd-b62ac0221cbc",
       "confidence": "0.6570311",
       "timestamp": 170,
-      "content": "from someone and I'll speak to many many people apparently I'm mostly out of them very seriously but I pulled a joke or 2 that I had intended to tell that people would say to me who I heard you on npr"
+      "content": "from someone and I'll speak to many many people apparently I'm mostly out of them very seriously but I pulled a joke or 2 that I had intended to tell that people would say to me who I heard you on npr",
+      "uuid": "9f42928c-105a-4635-aee2-bfce1e8b4d71"
     },
-    "180": {
+    {
       "requestid": "256d5928-6dd8-4cf4-b88f-ba940b4f229d",
       "confidence": "0.5674843",
       "timestamp": 180,
-      "content": "are you said something was <profanity>bad ass</profanity> butt and then it was a press conference and then at 11 I have a class so people single surprise but no but we end of the best conference now"
+      "content": "are you said something was <profanity>bad ass</profanity> butt and then it was a press conference and then at 11 I have a class so people single surprise but no but we end of the best conference now",
+      "uuid": "38e3f627-092f-4874-a4cc-93c7e4303aab"
     },
-    "190": {
+    {
       "requestid": "54530fe4-a57e-4562-a47a-7432d7a07d09",
       "confidence": "0.571435",
       "timestamp": 190,
-      "content": "if this was a surprise and it was a monday in a great run my password hint travel distance by then I simply have it was champagne in a very nice room here yet"
+      "content": "if this was a surprise and it was a monday in a great run my password hint travel distance by then I simply have it was champagne in a very nice room here yet",
+      "uuid": "1980c38c-2007-45c2-a9d5-1204b096954d"
     },
-    "200": {
+    {
       "requestid": "e6b58f6c-0582-4b28-b9f4-594243321ce7",
       "confidence": "0.5357188",
       "timestamp": 200,
-      "content": "what kinda work did elros dutil and a nobel prize in economics mount not the kind of work that typically with a belt"
+      "content": "what kinda work did elros dutil and a nobel prize in economics mount not the kind of work that typically with a belt",
+      "uuid": "ee86ea65-30cc-40bd-838d-3d544e79f60d"
     },
-    "210": {
+    {
       "requestid": "e0e247cf-8a3e-4597-8ba1-44aac0fde350",
       "confidence": "0.7165359",
       "timestamp": 210,
-      "content": "kehoes help people who need a kidney transplant find a doner sup new doctors find the first got it helps high school students in new york city find"
+      "content": "kehoes help people who need a kidney transplant find a doner sup new doctors find the first got it helps high school students in new york city find",
+      "uuid": "41e20232-877e-4ca1-8448-02499794d2b0"
     },
-    "220": {
+    {
       "requestid": "457f6e39-b8df-4fe4-bf18-62e840285af6",
       "confidence": "0.5307888",
       "timestamp": 220,
-      "content": "the right high school even though ross himself grew up in new york city dropped out I was the you know who are ungrateful soon"
+      "content": "the right high school even though ross himself grew up in new york city dropped out I was the you know who are ungrateful soon",
+      "uuid": "5df9a23b-40d4-4037-bfd6-a9c21e43374d"
     },
-    "230": {
+    {
       "requestid": "4505d885-b0a0-4328-849c-66206d1f8968",
       "confidence": "0.5489163",
       "timestamp": 230,
-      "content": "if you didn't appreciate my teachers were trying to do but you should tell your listeners they should complete"
+      "content": "if you didn't appreciate my teachers were trying to do but you should tell your listeners they should complete",
+      "uuid": "fb5b341f-5645-440c-bcf6-c9ba97e15da4"
     },
-    "240": {
+    {
       "requestid": "714282b0-ec80-44f8-a5bb-878e03b45860",
       "timestamp": 240,
-      "content": ""
+      "content": "",
+      "uuid": "b39373e4-c3d7-4b78-bf93-8c722fff7109"
     },
-    "250": {
+    {
       "requestid": "688211a2-f3dd-4989-a4c0-c33b4bb32399",
       "confidence": "0.5036793",
       "timestamp": 250,
-      "content": "from wmic biscuits freakonomics radio podcast explores inside of everything here"
+      "content": "from wmic biscuits freakonomics radio podcast explores inside of everything here",
+      "uuid": "f8794c77-571f-4740-9a97-9b493f9151bd"
     },
-    "260": {
+    {
       "requestid": "a7860cab-5f6e-4933-b2b5-d63caf4effd3",
       "timestamp": 260,
-      "content": ""
+      "content": "",
+      "uuid": "6b7c6c8b-07a9-48d5-8a70-be7ce4d03788"
     },
-    "270": {
+    {
       "requestid": "1ee946af-3129-4b5b-beeb-5ef13f0ffbb9",
       "confidence": "0.7479971",
       "timestamp": 270,
-      "content": "I recently visited palo alto california home to stanford university in a few other things to talk with audra he"
+      "content": "I recently visited palo alto california home to stanford university in a few other things to talk with audra he",
+      "uuid": "78b6631a-ac86-4765-805e-72da69590bc8"
     },
-    "280": {
+    {
       "requestid": "cbefccfb-7814-458d-9659-551ea88f1e05",
       "confidence": "0.7617828",
       "timestamp": 280,
-      "content": "is as you heard high school dropout don't worry did going to college many many years of college not finishing high school is not the only odd thing about out"
+      "content": "is as you heard high school dropout don't worry did going to college many many years of college not finishing high school is not the only odd thing about out",
+      "uuid": "42b7e15a-4132-459e-9141-ad1514ba285e"
     },
-    "290": {
+    {
       "requestid": "d17de6e5-0fe8-43e9-82f4-4699346adf28",
       "confidence": "0.8004195",
       "timestamp": 290,
-      "content": "rock as a nobel laureate consider this even though he won the prize in economics and even though he's a professor of economics he is not technically"
+      "content": "rock as a nobel laureate consider this even though he won the prize in economics and even though he's a professor of economics he is not technically",
+      "uuid": "56443e2e-1238-4ec2-b3d0-b14a7b8631cb"
     },
-    "300": {
+    {
       "requestid": "47afd421-5736-4a4d-8933-960de6247311",
       "confidence": "0.5131899",
       "timestamp": 300,
-      "content": "I'm gonna miss me my degrees in engineering and I would pay points the map fest with mark and sign caldia comma cta's engineer haha yeah so I think of myself"
+      "content": "I'm gonna miss me my degrees in engineering and I would pay points the map fest with mark and sign caldia comma cta's engineer haha yeah so I think of myself",
+      "uuid": "e0222d4e-1145-404a-a4c0-2f745eaecd0f"
     },
-    "310": {
+    {
       "requestid": "d1e7e804-ffca-4bab-a385-349451d47ae8",
       "confidence": "0.6104032",
       "timestamp": 310,
-      "content": "is something like an engineer I'd like to be an engineer a manifesto of market design rock called the nobel committee citation noted him here"
+      "content": "is something like an engineer I'd like to be an engineer a manifesto of market design rock called the nobel committee citation noted him here",
+      "uuid": "0281dca0-721d-4ad5-bd75-e7cfc95838a8"
     },
-    "320": {
+    {
       "requestid": "12caac2a-fc72-4700-a002-f2e387a7f879",
       "confidence": "0.7090949",
       "timestamp": 320,
-      "content": "its people allocations and the practice of marketside so what is mark cynan why can it when you a nobel prize market designers and"
+      "content": "its people allocations and the practice of marketside so what is mark cynan why can it when you a nobel prize market designers and",
+      "uuid": "b9b3afdc-f325-4ba8-b373-3fda3948bc04"
     },
-    "330": {
+    {
       "requestid": "270b1abf-5bc3-4171-81f1-ac3b230eee38",
       "confidence": "0.8138061",
       "timestamp": 330,
-      "content": "ancient human activity in win win when you look at the distribution of stone tools around the middle eastern europe you find that long before the"
+      "content": "ancient human activity in win win when you look at the distribution of stone tools around the middle eastern europe you find that long before the",
+      "uuid": "2e6f3728-36b5-4a40-9131-6e8d7869060d"
     },
-    "340": {
+    {
       "requestid": "aa866f9e-45b6-4a4a-a913-827768f91887",
       "confidence": "0.7564149",
       "timestamp": 340,
-      "content": "vention of agriculture stone tools were moving thousands of miles from where they were quarried and made and that's a sign that they will markets for stone tools that were wasted"
+      "content": "vention of agriculture stone tools were moving thousands of miles from where they were quarried and made and that's a sign that they will markets for stone tools that were wasted",
+      "uuid": "9251ce90-5de3-47a0-a7d1-9f7be2dc1bde"
     },
-    "350": {
+    {
       "requestid": "a9bcbcbe-5376-4174-9699-2cb37281df2a",
       "confidence": "0.6540406",
       "timestamp": 350,
-      "content": "meet and trade things and we don't really know much about this market but the stone tools which are very durable are evidence that our kids are older than agriculture bye"
+      "content": "meet and trade things and we don't really know much about this market but the stone tools which are very durable are evidence that our kids are older than agriculture bye",
+      "uuid": "7fb60b3e-2202-4093-8ef5-404eeabe8c79"
     },
-    "360": {
+    {
       "requestid": "46285b52-1762-48cd-aff3-1d0132ca1e3f",
       "confidence": "0.7262999",
       "timestamp": 360,
-      "content": "the the stone age man who traded those stone tools and weapons had to make market on how they had to make him safe they had to"
+      "content": "the the stone age man who traded those stone tools and weapons had to make market on how they had to make him safe they had to",
+      "uuid": "75b1604f-dd10-42aa-b91a-621703b02345"
     },
-    "370": {
+    {
       "requestid": "d9362a9e-8c63-4aee-b9c1-c2766b4c711b",
       "confidence": "0.6954654",
       "timestamp": 370,
-      "content": "feel confident that they could bring the things they would trade for the stone tools in AP rob bye bye guys with stone accents who would take their stuff and backed been"
+      "content": "feel confident that they could bring the things they would trade for the stone tools in AP rob bye bye guys with stone accents who would take their stuff and backed been",
+      "uuid": "798d5f2c-3d70-4314-95fd-485ac468cc68"
     },
-    "380": {
+    {
       "requestid": "0cf5ddcf-9359-4b14-8928-cf89ae1944ab",
       "confidence": "0.7065068",
       "timestamp": 380,
-      "content": "a big part of pocket designed for long time is is making market safe today we we think about fraud and identity theft and securing your credit card but it was a time when kings daughter"
+      "content": "a big part of pocket designed for long time is is making market safe today we we think about fraud and identity theft and securing your credit card but it was a time when kings daughter",
+      "uuid": "bb4be5ef-8aba-4625-b622-21b8e722b27e"
     },
-    "390": {
+    {
       "requestid": "245ffafe-eb02-4261-9170-30cfd133448b",
       "confidence": "0.7079873",
       "timestamp": 390,
-      "content": "out securing the words against highwaymen she wouldn't be way late on your way to and from the market so if if I were the king of england I wanted that market today"
+      "content": "out securing the words against highwaymen she wouldn't be way late on your way to and from the market so if if I were the king of england I wanted that market today",
+      "uuid": "1bde1455-2630-4701-a52e-197fddf4d36a"
     },
-    "400": {
+    {
       "requestid": "490dfc4b-0e89-443c-ae7a-dbf27e2aa1cb",
       "confidence": "0.7737682",
       "timestamp": 400,
-      "content": "I have to make sure that that the roads are safe to get to the market l ron said the written a book really wonderful book I should say it cold who gets what and why"
+      "content": "I have to make sure that that the roads are safe to get to the market l ron said the written a book really wonderful book I should say it cold who gets what and why",
+      "uuid": "6b5f67e2-d3d2-414a-bd28-a49884d56843"
     },
-    "410": {
+    {
       "requestid": "0e253c8a-9c36-4e18-8dab-6553b1ee9e22",
       "confidence": "0.6327012",
       "timestamp": 410,
-      "content": "u economix matchmaking in market design youth market design is is ross says in ancient human activity weather like in need to get involved after all were too"
+      "content": "u economix matchmaking in market design youth market design is is ross says in ancient human activity weather like in need to get involved after all were too",
+      "uuid": "87573d2d-a768-4827-a402-f61a517578dc"
     },
-    "420": {
+    {
       "requestid": "cdc15945-6fc4-4d63-a595-c2ad7d87fc33",
       "confidence": "0.7222589",
       "timestamp": 420,
-      "content": "old debt markets generally organize themselves right there sellers and buyers supply meeting demand with price bing the glue that holds off"
+      "content": "old debt markets generally organize themselves right there sellers and buyers supply meeting demand with price bing the glue that holds off",
+      "uuid": "aaa4a70d-f1dc-43a1-93d5-4afcce40afb1"
     },
-    "430": {
+    {
       "requestid": "d28c36a6-1332-4ff4-8cd9-257a537334b6",
       "confidence": "0.7559478",
       "timestamp": 430,
-      "content": "get in this regard the invention of money was a big breakthrough order is very hard because you need a double consonant apart"
+      "content": "get in this regard the invention of money was a big breakthrough order is very hard because you need a double consonant apart",
+      "uuid": "b20e98cd-baa0-439d-9660-9fd639525284"
     },
-    "440": {
+    {
       "requestid": "134c7083-98a0-47bc-9f11-eb12bcb47c42",
       "confidence": "0.8026736",
       "timestamp": 440,
-      "content": "do you need to find someone who has with you want and who wants what you have right you happen to have salli happen have well and we each want with the other want or we find a third party right"
+      "content": "do you need to find someone who has with you want and who wants what you have right you happen to have salli happen have well and we each want with the other want or we find a third party right",
+      "uuid": "9b227aae-a590-496c-a636-d729a43da998"
     },
-    "450": {
+    {
       "requestid": "bd86adf0-a006-4dcf-8662-2fc82f2eeb60",
       "confidence": "0.7687788",
       "timestamp": 450,
-      "content": "also finding the third party starts getting you involved in other things in court money is a great market do an invention for helping you find third parties because you can sell what you have for money"
+      "content": "also finding the third party starts getting you involved in other things in court money is a great market do an invention for helping you find third parties because you can sell what you have for money",
+      "uuid": "2d9b883b-f553-4d80-8c9c-a559a3971524"
     },
-    "460": {
+    {
       "requestid": "ee2346cf-f868-4a3b-91d7-938a237daa19",
       "confidence": "0.7599021",
       "timestamp": 460,
-      "content": "and go look for what you want but there are some transactions entire realms of transactions really where money cannot do what does in a typical market works for whatever reason"
+      "content": "and go look for what you want but there are some transactions entire realms of transactions really where money cannot do what does in a typical market works for whatever reason",
+      "uuid": "6a97d5ef-a5fc-4cb4-a5b2-d4f114f8f17e"
     },
-    "470": {
+    {
       "requestid": "0e8f46c5-87ff-4e45-b106-2f4ae1498aa4",
       "confidence": "0.7664555",
       "timestamp": 470,
-      "content": "supply is not allowed to naturally meet demand with price as the arbiter and that is were so when I call rob comes in handy the economist as engineer"
+      "content": "supply is not allowed to naturally meet demand with price as the arbiter and that is were so when I call rob comes in handy the economist as engineer",
+      "uuid": "9f189463-b04a-4694-9cba-99bf90401519"
     },
-    "480": {
+    {
       "requestid": "901b3c04-ca44-4926-8e7b-0b4fc87e1ae4",
       "confidence": "0.7801238",
       "timestamp": 480,
-      "content": "because it is a typical markets have to be set up differently that to be helped along this is sometimes called a matching market matching market to market square"
+      "content": "because it is a typical markets have to be set up differently that to be helped along this is sometimes called a matching market matching market to market square",
+      "uuid": "6563d86e-49b3-46bd-9eaf-3017b266ee4d"
     },
-    "490": {
+    {
       "requestid": "6e8fb17b-54da-4fc3-8962-22dbed5ba93a",
       "confidence": "0.8295479",
       "timestamp": 490,
-      "content": "money prices don't do all the work and some of the market I've studied we don't like prices do any of the work and I like to think"
+      "content": "money prices don't do all the work and some of the market I've studied we don't like prices do any of the work and I like to think",
+      "uuid": "d8e3eb5f-78b8-4fc7-900a-613f35cdc616"
     },
-    "500": {
+    {
       "requestid": "bd473610-4bc8-49cb-a857-13680cabb94a",
       "confidence": "0.6748973",
       "timestamp": 500,
-      "content": "matching market is market where you can't just choose what you want even if you can afford it you also have to be chosen sugga pocket so I kept getting into"
+      "content": "matching market is market where you can't just choose what you want even if you can afford it you also have to be chosen sugga pocket so I kept getting into",
+      "uuid": "705836f0-1c8f-4897-b7b4-a48c7c3d7330"
     },
-    "510": {
+    {
       "requestid": "d4df5cff-2cd3-47d9-8fa1-d1db12e0ff63",
       "confidence": "0.7238612",
       "timestamp": 510,
-      "content": "college is like that those things cost money but money doesn't decide to get into stanford stanford doesn't raise the tuition until supply equals demand interest"
+      "content": "college is like that those things cost money but money doesn't decide to get into stanford stanford doesn't raise the tuition until supply equals demand interest",
+      "uuid": "c976865b-6c9b-43d4-9bc0-16056077bde5"
     },
-    "520": {
+    {
       "requestid": "9bab747f-42ab-402b-ad5c-97f65e76eb14",
       "confidence": "0.7236401",
       "timestamp": 520,
-      "content": "freshman wanna come to to fill the seats stanford is expensive but it it's cheap enough that a lot of people would like to come to stamford and so stamp"
+      "content": "freshman wanna come to to fill the seats stanford is expensive but it it's cheap enough that a lot of people would like to come to stamford and so stamp",
+      "uuid": "6f044ba1-a672-49d9-bfbc-c1669264f045"
     },
-    "530": {
+    {
       "requestid": "48fadbe0-a226-469a-ae41-87a5dfae54ca",
       "confidence": "0.6645709",
       "timestamp": 530,
-      "content": "is this whole other set of mark and executions applications in admissions and hub and then you can just come to stanford get to be admitted with about this prob"
+      "content": "is this whole other set of mark and executions applications in admissions and hub and then you can just come to stanford get to be admitted with about this prob",
+      "uuid": "dc367f25-60cd-4bcd-8549-c359ab702f30"
     },
-    "540": {
+    {
       "requestid": "34bfcc70-04b8-48e6-9878-b9cd35986307",
       "confidence": "0.8203925",
       "timestamp": 540,
-      "content": "which hour of has work done directly what is the best way for hospitals to hire newly minted doctors in those doctors define the most appropriate hospital for them"
+      "content": "which hour of has work done directly what is the best way for hospitals to hire newly minted doctors in those doctors define the most appropriate hospital for them",
+      "uuid": "7d3be1d5-c2bf-4a9b-9e45-9ce3899308fe"
     },
-    "550": {
+    {
       "requestid": "182a97e6-8321-48d0-8713-dc4ef0bdd45d",
       "confidence": "0.7730575",
       "timestamp": 550,
-      "content": "work in the current system is called the national resident matching program to I got involved in helping etrangere crisis in the 1990s but"
+      "content": "work in the current system is called the national resident matching program to I got involved in helping etrangere crisis in the 1990s but",
+      "uuid": "f18a9285-ddda-4d39-879f-f0e9e1c6712a"
     },
-    "560": {
+    {
       "requestid": "aeeff7c4-07b8-4f24-affb-bd5780f640f7",
       "confidence": "0.7921841",
       "timestamp": 560,
-      "content": "have to go back to 19 hundreds to understand how doctors get jobs in the 19 hundreds is around the time when the medical degrees as we know them BMD degree"
+      "content": "have to go back to 19 hundreds to understand how doctors get jobs in the 19 hundreds is around the time when the medical degrees as we know them BMD degree",
+      "uuid": "ee22eb01-428e-4377-8f8d-03cf9bd2e57a"
     },
-    "570": {
+    {
       "requestid": "67e15f3d-40a3-4b71-982f-c13e1ad0944a",
       "confidence": "0.7023779",
       "timestamp": 570,
-      "content": "became the dominant medical degree in about 1900 club between internship again so instead of graduating from medical school in a meeting to be getting to"
+      "content": "became the dominant medical degree in about 1900 club between internship again so instead of graduating from medical school in a meeting to be getting to",
+      "uuid": "30650a31-0744-4e47-b8c4-7ad5332aca14"
     },
-    "580": {
+    {
       "requestid": "b0862f72-f122-4163-87b1-4459c5c370d6",
       "confidence": "0.6417921",
       "timestamp": 580,
-      "content": "practice medicine as we think I know where that always bothered me that you should be good at it by now I'm at the first job that the stand"
+      "content": "practice medicine as we think I know where that always bothered me that you should be good at it by now I'm at the first job that the stand",
+      "uuid": "947090a8-54e9-46b9-b9b4-8dba4ce7c11f"
     },
-    "590": {
+    {
       "requestid": "6d711964-2f2a-4b76-8736-de0a86a9faad",
       "confidence": "0.7074043",
       "timestamp": 590,
-      "content": "first job for medical badge it became a list called internship in is today called a residency I am at a job where you work at hospital and take care patient and"
+      "content": "first job for medical badge it became a list called internship in is today called a residency I am at a job where you work at hospital and take care patient and",
+      "uuid": "37def4db-0808-43c8-8586-19de59b0000c"
     },
-    "600": {
+    {
       "requestid": "2a5b0c69-8a85-466f-9300-0c3134052799",
       "confidence": "0.7183092",
       "timestamp": 600,
-      "content": "the supervision of a more experienced attending physician and it's a giant part of that professional education of doctors soda very important doctors"
+      "content": "the supervision of a more experienced attending physician and it's a giant part of that professional education of doctors soda very important doctors",
+      "uuid": "be7ce717-846b-4714-9972-a810913a57a1"
     },
-    "610": {
+    {
       "requestid": "18b84e6b-e494-474e-ab69-d7ef0daca26c",
       "confidence": "0.7528044",
       "timestamp": 610,
-      "content": "where they get their internship and residency and it's very important hospital because the interns and residents are I'm very important part of labor"
+      "content": "where they get their internship and residency and it's very important hospital because the interns and residents are I'm very important part of labor",
+      "uuid": "4b4d0484-e35a-4b89-bd29-0e04ee7204b8"
     },
-    "620": {
+    {
       "requestid": "0efce83f-6a1e-4db1-88e9-3ae9f19d0f5d",
       "confidence": "0.7614508",
       "timestamp": 620,
-      "content": "forced of hospital is ross tells it there was an arms race between hospitals for the best future doctors they began grabbing medical students earlier and earlier sometimes"
+      "content": "forced of hospital is ross tells it there was an arms race between hospitals for the best future doctors they began grabbing medical students earlier and earlier sometimes",
+      "uuid": "b38483b1-aac5-4f61-b28e-89e46d57f979"
     },
-    "630": {
+    {
       "requestid": "3c66cf77-4503-4cd3-b266-937591e6def7",
       "confidence": "0.8207877",
       "timestamp": 630,
-      "content": "years before graduation and when you try hiring people 2 years in advance it's hard to tell who the good doctors will be its also hard for the doctors to tell what kind of jobs they want"
+      "content": "years before graduation and when you try hiring people 2 years in advance it's hard to tell who the good doctors will be its also hard for the doctors to tell what kind of jobs they want",
+      "uuid": "3e8baee2-28bb-448a-a81b-4b3ecfda7afd"
     },
-    "640": {
+    {
       "requestid": "5c9ecd53-b4c8-4fa6-9e80-8f4039c5787d",
       "confidence": "0.8107648",
       "timestamp": 640,
-      "content": "medical schools intervened in 1952 bay created the national resident matching program they developed admarketplace bad as before"
+      "content": "medical schools intervened in 1952 bay created the national resident matching program they developed admarketplace bad as before",
+      "uuid": "4603ebf3-a818-4fbf-b8e4-341c6e4a6ee4"
     },
-    "650": {
+    {
       "requestid": "e820f3e9-a5d6-4ecc-9b78-f4c046040b41",
       "confidence": "0.6385623",
       "timestamp": 650,
-      "content": "it has a 5 till today although my colleagues and I have helped my fights at 7 AM with that form was you go I need to be using you find out of"
+      "content": "it has a 5 till today although my colleagues and I have helped my fights at 7 AM with that form was you go I need to be using you find out of",
+      "uuid": "00d9566b-5629-45f0-a64a-434420b05e8c"
     },
-    "660": {
+    {
       "requestid": "d2f90f3d-2465-406c-afbf-da0dc30482d2",
       "confidence": "0.78884",
       "timestamp": 660,
-      "content": "salary in the working conditions and go to various jobs that but you might be offered a man instead of working the phones in may be getting an offer that is have to take it"
+      "content": "salary in the working conditions and go to various jobs that but you might be offered a man instead of working the phones in may be getting an offer that is have to take it",
+      "uuid": "26f9e8e5-88e5-42e2-a20d-bc31efd8cd71"
     },
-    "670": {
+    {
       "requestid": "5bc482a9-454e-43f3-8a1f-fa37d4accf87",
       "confidence": "0.705474",
       "timestamp": 670,
-      "content": "yes or no right now on the phone would you do with you you consider in advance which job she would like and you smell rank order preference this would be my first choice of the dropped a country that"
+      "content": "yes or no right now on the phone would you do with you you consider in advance which job she would like and you smell rank order preference this would be my first choice of the dropped a country that",
+      "uuid": "2576fb3d-71bd-44f0-ac2d-22a6196731a7"
     },
-    "680": {
+    {
       "requestid": "5c15226d-72f0-4440-be0b-0562dfbaa9ab",
       "confidence": "0.6173511",
       "timestamp": 680,
-      "content": "my second richest actor in the jobs do the same thing the hospital visiting programs the same thing I'm in a match is made in a centralized clearing house by the 1990s"
+      "content": "my second richest actor in the jobs do the same thing the hospital visiting programs the same thing I'm in a match is made in a centralized clearing house by the 1990s",
+      "uuid": "4bb8cc27-d2a9-46f8-a00d-05296c5ee1fa"
     },
-    "690": {
+    {
       "requestid": "d2cab1bf-d204-4816-a48c-c60fd477aa0d",
       "confidence": "0.7735988",
       "timestamp": 690,
-      "content": "the system was showing strain some people thought hospitals had too much leverage over the residents also by now there a lot more female medical students some of whom had a"
+      "content": "the system was showing strain some people thought hospitals had too much leverage over the residents also by now there a lot more female medical students some of whom had a",
+      "uuid": "11e6f514-c82a-4916-bcab-5c34d5037172"
     },
-    "700": {
+    {
       "requestid": "bbabf8d6-2946-44f0-8bc8-50029c5afc90",
       "confidence": "0.8204649",
       "timestamp": 700,
-      "content": "if another who is also a medical student in such a couple typically wanted to get a residency in the same hospital where is in the same region of the matching program"
+      "content": "if another who is also a medical student in such a couple typically wanted to get a residency in the same hospital where is in the same region of the matching program",
+      "uuid": "191dac7c-614d-4687-ba5c-9e607893365e"
     },
-    "710": {
+    {
       "requestid": "7963f448-ac9e-4a7e-88e2-09f2e76d4f53",
       "confidence": "0.7318729",
       "timestamp": 710,
-      "content": "can handle that kind of request for those candidates might opt out in 1995 elros was asked to help write an algorithm I could fix these problems"
+      "content": "can handle that kind of request for those candidates might opt out in 1995 elros was asked to help write an algorithm I could fix these problems",
+      "uuid": "cb57e8ec-c52f-4bae-9a6c-f84cc745c816"
     },
-    "720": {
+    {
       "requestid": "5bbf41ef-0b94-45d3-a5f9-ffd215f9f274",
       "confidence": "0.765487",
       "timestamp": 720,
-      "content": "yogurt and work well and it now matches more than 20,000 applicants each year it sounds as though um this works pretty well according to"
+      "content": "yogurt and work well and it now matches more than 20,000 applicants each year it sounds as though um this works pretty well according to",
+      "uuid": "283a7557-a097-40f0-8442-c71df2571a70"
     },
-    "730": {
+    {
       "requestid": "7143cd5d-1335-40dd-8ea9-a0f6b4ff03b7",
       "confidence": "0.7294924",
       "timestamp": 730,
-      "content": "speak with bob yes most people involved in this scenario are pretty happy with how it works great wealth labor market a stressful for everyone so I think you're overstating how happy"
+      "content": "speak with bob yes most people involved in this scenario are pretty happy with how it works great wealth labor market a stressful for everyone so I think you're overstating how happy",
+      "uuid": "bf8c97a6-fb66-471d-969d-c67bcae35152"
     },
-    "740": {
+    {
       "requestid": "1aaa602f-da41-4f62-9e79-000fbca5c687",
       "confidence": "0.7052558",
       "timestamp": 740,
-      "content": "people are with the labor market well I think it works but I mean in the medical residency matching particularly set an improvement over what what was before did the vast improvement ok"
+      "content": "people are with the labor market well I think it works but I mean in the medical residency matching particularly set an improvement over what what was before did the vast improvement ok",
+      "uuid": "6af5c9c6-dccc-46ee-b5d8-de9145519ac5"
     },
-    "750": {
+    {
       "requestid": "a43b5373-fbe6-476b-821d-a43a775c50be",
       "confidence": "0.772859",
       "timestamp": 750,
-      "content": "where is my question really for use this is broader labor markets if if we considered medical residency matching program relatively successful do a procedure at least twice"
+      "content": "where is my question really for use this is broader labor markets if if we considered medical residency matching program relatively successful do a procedure at least twice",
+      "uuid": "738fb154-d20d-472a-8831-b251f8f2b10d"
     },
-    "760": {
+    {
       "requestid": "d47a136d-ceb2-4174-a19b-76943d751df6",
       "confidence": "0.7757965",
       "timestamp": 760,
-      "content": "did not use more widely in labor markets well but the medical market is an easier one to coordinate them anymore kids because just about everyone becomes"
+      "content": "did not use more widely in labor markets well but the medical market is an easier one to coordinate them anymore kids because just about everyone becomes",
+      "uuid": "e96e67a4-5a7b-4539-a6fc-8fdcf1dda48f"
     },
-    "770": {
+    {
       "requestid": "03051171-37e7-4d04-85f7-bd6db79144fd",
       "confidence": "0.8136185",
       "timestamp": 770,
-      "content": "bailable at the same time when I graduate from medical school and they all start that job there for about the same time in july so it's a market that can easily move people all at the same"
+      "content": "bailable at the same time when I graduate from medical school and they all start that job there for about the same time in july so it's a market that can easily move people all at the same",
+      "uuid": "5f636100-1e9a-44f4-9e5e-b4fa09660352"
     },
-    "780": {
+    {
       "requestid": "56a963a9-a7c3-4e72-b49f-fc80a3fc274e",
       "confidence": "0.6935393",
       "timestamp": 780,
-      "content": "time where is many markets think about the market for journalists they might be hired at different moments and jobs might be"
+      "content": "time where is many markets think about the market for journalists they might be hired at different moments and jobs might be",
+      "uuid": "36726b03-989b-40c4-a4a8-fad4b99860aa"
     },
-    "790": {
+    {
       "requestid": "58581667-b7e5-43c2-bc47-a4ebc517d679",
       "confidence": "0.753939",
       "timestamp": 790,
-      "content": "available need to be filled and then not be able to wait for you to consider marrying you and your colleagues are pretty brilliant me a mathematical back on that we think you could go with roll"
+      "content": "available need to be filled and then not be able to wait for you to consider marrying you and your colleagues are pretty brilliant me a mathematical back on that we think you could go with roll",
+      "uuid": "680a229d-37f5-46be-9e54-9d1129422264"
     },
-    "800": {
+    {
       "requestid": "72ac1447-1804-4118-8da8-70e8a1baaa73",
       "confidence": "0.8323773",
       "timestamp": 800,
-      "content": "ng admissions is it right I mean for all the talk about how modern labor markets have so many mismatches in them so many people doing john today don't really wanna be doing so many corporation"
+      "content": "ng admissions is it right I mean for all the talk about how modern labor markets have so many mismatches in them so many people doing john today don't really wanna be doing so many corporation",
+      "uuid": "07a4212e-4cc6-4218-a12a-35fd01bbb954"
     },
-    "810": {
+    {
       "requestid": "73b4cbcb-54d4-44ad-b593-afc4beb8d70f",
       "confidence": "0.7351047",
       "timestamp": 810,
-      "content": "all these directly qualified people out there not be able to find people to me to fill them without going through a lot of fun I'm going to a lot of trouble mean hiring"
+      "content": "all these directly qualified people out there not be able to find people to me to fill them without going through a lot of fun I'm going to a lot of trouble mean hiring",
+      "uuid": "f70b06a7-36e2-410d-8e01-8f8a712d5ce6"
     },
-    "820": {
+    {
       "requestid": "e6d1e889-b815-4ee2-9ef2-4339c7fc8524",
       "confidence": "0.8784476",
       "timestamp": 820,
-      "content": "this is becoming more and more complicated it seems is one way to address the matching problem but it seemed as though you are complicated math medical foundation might provide"
+      "content": "this is becoming more and more complicated it seems is one way to address the matching problem but it seemed as though you are complicated math medical foundation might provide",
+      "uuid": "8b549af8-f239-42ae-97d0-20fda7350190"
     },
-    "830": {
+    {
       "requestid": "be5b0026-49f6-4adf-9ada-cc0216de5df1",
       "confidence": "0.6502014",
       "timestamp": 830,
-      "content": "am I ran a <profanity>clit</profanity> a simpler way to address a problem so I'm not sure that's true thing in the one with special things about whether to positions is also there"
+      "content": "am I ran a <profanity>clit</profanity> a simpler way to address a problem so I'm not sure that's true thing in the one with special things about whether to positions is also there",
+      "uuid": "996fc03e-7236-457f-99da-124bdc6c15aa"
     },
-    "840": {
+    {
       "requestid": "2b720710-00cc-4c2f-ba72-314db09ec7ee",
       "confidence": "0.6705227",
       "timestamp": 840,
-      "content": "a different a different place is there sort of similar to each other and if you're thinking about should you be a journalist or an airplane pilot or chef you're dealing with the"
+      "content": "a different a different place is there sort of similar to each other and if you're thinking about should you be a journalist or an airplane pilot or chef you're dealing with the",
+      "uuid": "0ac4ddb9-b920-4b32-9039-4c309c36c018"
     },
-    "850": {
+    {
       "requestid": "cf342965-fa64-40b3-b299-ed746d54ea39",
       "confidence": "0.7965026",
       "timestamp": 850,
-      "content": "are different jobs with very different employers and it I am one of the things that we do in the medical matches we make all the jobs available"
+      "content": "are different jobs with very different employers and it I am one of the things that we do in the medical matches we make all the jobs available",
+      "uuid": "58f041dd-5103-4a7b-bafa-3d968736cbc2"
     },
-    "860": {
+    {
       "requestid": "d7ccbedf-0f64-407a-8be2-eb21bcaa774c",
       "confidence": "0.5985609",
       "timestamp": 860,
-      "content": "the same time that allows you to consider them temperament is over them that hard to do if you're thinking about being a chef for nadama capture the wool I'm curious to know what's a"
+      "content": "the same time that allows you to consider them temperament is over them that hard to do if you're thinking about being a chef for nadama capture the wool I'm curious to know what's a",
+      "uuid": "f8145e2c-d4f2-47ec-b13e-96973bfe3068"
     },
-    "870": {
+    {
       "requestid": "4286a436-0c31-4faf-a93d-ab30a995871a",
       "confidence": "0.838111",
       "timestamp": 870,
-      "content": "market or scenario that you looked at before that if a boy I would love to help fix that one but either haven't had a shot or maybe tried and failed way home"
+      "content": "market or scenario that you looked at before that if a boy I would love to help fix that one but either haven't had a shot or maybe tried and failed way home",
+      "uuid": "c64a5c58-5ce6-46bb-b870-dedfd253e6b1"
     },
-    "880": {
+    {
       "requestid": "70b57944-f22b-4145-afe9-fbb211782194",
       "confidence": "0.5499704",
       "timestamp": 880,
-      "content": "bug the market for new lawyers might fall into that category and send me the the most fanciest job that bad"
+      "content": "bug the market for new lawyers might fall into that category and send me the the most fanciest job that bad",
+      "uuid": "ff3b7ff0-b868-4b39-81c4-58a9b64848d2"
     },
-    "890": {
+    {
       "requestid": "b0aacf99-98de-44fe-8dd7-cdfd8fa0a9a6",
       "confidence": "0.6958791",
       "timestamp": 890,
-      "content": "top graduate to leave law schools get is a lot like a medical weather theater clerkship an appellate judge that market is presently in that kind of situation"
+      "content": "top graduate to leave law schools get is a lot like a medical weather theater clerkship an appellate judge that market is presently in that kind of situation",
+      "uuid": "a9050f05-2ac6-4034-bf4a-5f7c221775f1"
     },
-    "900": {
+    {
       "requestid": "de79fb1e-c2f2-47c8-be29-5ab5b733015f",
       "confidence": "0.7430127",
       "timestamp": 900,
-      "content": "the doctor mark it was around 1940 where jobs are are being contracted far before law school graduation"
+      "content": "the doctor mark it was around 1940 where jobs are are being contracted far before law school graduation",
+      "uuid": "f9daef3d-6b82-44c6-a23f-bf14e8c85676"
     },
-    "910": {
+    {
       "requestid": "efaa6435-3d6c-4db0-91c2-aa7d38593cf1",
       "confidence": "0.7637022",
       "timestamp": 910,
-      "content": "and probably a dozen times in the last 30 years the lawyers have tried to fix this with things like I"
+      "content": "and probably a dozen times in the last 30 years the lawyers have tried to fix this with things like I",
+      "uuid": "6cf9cf26-88a9-472f-b0c3-a9110b13e716"
     },
-    "920": {
+    {
       "requestid": "47af3df2-ba4d-48f4-9c1b-bcc53850698f",
       "confidence": "0.6247637",
       "timestamp": 920,
-      "content": "setting date for which you shouldn't iron things like that but it turns out it's hard to make rules the judges have to follow naj is facing charges oral on to them self and I"
+      "content": "setting date for which you shouldn't iron things like that but it turns out it's hard to make rules the judges have to follow naj is facing charges oral on to them self and I",
+      "uuid": "a3159d5a-c345-4e74-8ebb-74b35dee3142"
     },
-    "930": {
+    {
       "requestid": "59490367-68b6-4276-80a2-33446a5d1eb8",
       "confidence": "0.6699987",
       "timestamp": 930,
-      "content": "can I break the rules they treat if you know someone is in law school now who want to clerkship probably gonna get an offer sometime in their secondary to the middle of this I can you even"
+      "content": "can I break the rules they treat if you know someone is in law school now who want to clerkship probably gonna get an offer sometime in their secondary to the middle of this I can you even",
+      "uuid": "7fb16310-c741-45d7-a56c-8c1b8792fc00"
     },
-    "940": {
+    {
       "requestid": "05ba52f2-0148-42b1-9d32-5402c9dca51a",
       "confidence": "0.6884996",
       "timestamp": 940,
-      "content": "efmb or they they are ready to go and emma would it take for you to have the authority to get in there in and redo that market well does the question is"
+      "content": "efmb or they they are ready to go and emma would it take for you to have the authority to get in there in and redo that market well does the question is",
+      "uuid": "87098bb7-2057-45c2-964b-b564f785dfa3"
     },
-    "950": {
+    {
       "requestid": "9934ec2b-308f-4414-8b4b-e08d5446fe71",
       "confidence": "0.7705026",
       "timestamp": 950,
-      "content": "it does is there a desire for judges to coordinate in a way that would control the market so far there hasn't been so you can win on the nobel prizes you want there's a limit"
+      "content": "it does is there a desire for judges to coordinate in a way that would control the market so far there hasn't been so you can win on the nobel prizes you want there's a limit",
+      "uuid": "ba1023bb-8f2c-4ed1-b9bc-cecaf75b2e78"
     },
-    "960": {
+    {
       "requestid": "abf4dbf3-8b5b-43bd-b073-3e2d6309e7b7",
       "confidence": "0.6805372",
       "timestamp": 960,
-      "content": "air powered on the left there is"
+      "content": "air powered on the left there is",
+      "uuid": "15e5667a-6c09-4848-8f59-ed4f4e899db8"
     },
-    "970": {
+    {
       "requestid": "efd71e08-0b11-43e6-8ef9-5fe0a72b8c28",
       "confidence": "0.7796773",
       "timestamp": 970,
-      "content": "is complicated as it may seem to match future lawyers or doctors with their players consider it even more complicated match the person who will die"
+      "content": "is complicated as it may seem to match future lawyers or doctors with their players consider it even more complicated match the person who will die",
+      "uuid": "11580771-a618-40d1-ada7-ce42c550fdba"
     },
-    "980": {
+    {
       "requestid": "0e2ea9fe-1e14-4c73-8b66-7d1a6b9646ae",
       "confidence": "0.689686",
       "timestamp": 980,
-      "content": "yes they can get a kidney transplant you can't buy a kidney you can't pay for some is college education to get a kidney can't find my car detailing only right"
+      "content": "yes they can get a kidney transplant you can't buy a kidney you can't pay for some is college education to get a kidney can't find my car detailing only right",
+      "uuid": "16689711-3a6d-48e1-952b-52f402e6802e"
     },
-    "990": {
+    {
       "requestid": "ff2b2f13-b15d-406f-8d63-a64bdb931c15",
       "confidence": "0.727078",
       "timestamp": 990,
-      "content": "states to pain in kidney there any kind of valuable consideration that is ruth anne weisman I'm the program manager for the kidney perdes"
+      "content": "states to pain in kidney there any kind of valuable consideration that is ruth anne weisman I'm the program manager for the kidney perdes",
+      "uuid": "66955655-5446-4fff-a8b1-e415a7c5f8c2"
     },
-    "1000": {
+    {
       "requestid": "5838911b-e05e-45ce-9651-add6bf036ac9",
       "confidence": "0.7505802",
       "timestamp": 1000,
-      "content": "nation program at united network for organ sharing united network for organ sharing your yunos maintains registry all the people in the us we need in court entrance"
+      "content": "nation program at united network for organ sharing united network for organ sharing your yunos maintains registry all the people in the us we need in court entrance",
+      "uuid": "94f5e6c0-35b7-4a89-826e-1195ba7c0a2d"
     },
-    "1010": {
+    {
       "requestid": "7c8757bd-e2fb-4fe0-b261-ce0c29edf0e1",
       "confidence": "0.833847",
       "timestamp": 1010,
-      "content": "according to the national kidney foundation out of the roughly 123,000 people waiting in organ transplant more than 100 thousand that roughly 80%"
+      "content": "according to the national kidney foundation out of the roughly 123,000 people waiting in organ transplant more than 100 thousand that roughly 80%",
+      "uuid": "0b410760-167c-418b-bdb3-ccfa9f585293"
     },
-    "1020": {
+    {
       "requestid": "1a3af1f9-2e57-4a1e-9c18-c7e0aac14f63",
       "confidence": "0.793168",
       "timestamp": 1020,
-      "content": "need a kidney we don't have enough supply of kidneys available and so the list is ever growing but the number of keys available for transp"
+      "content": "need a kidney we don't have enough supply of kidneys available and so the list is ever growing but the number of keys available for transp",
+      "uuid": "635bf92d-6b85-4106-9c8b-667ac0ff3381"
     },
-    "1030": {
+    {
       "requestid": "52e40bfe-2bb1-4d32-8280-4780711f23a1",
       "confidence": "0.7553791",
       "timestamp": 1030,
-      "content": "it is pretty stagnant it's estimated 12 people die each day in the us but waiting for life saving kidney transplant and it's because of leesman says the"
+      "content": "it is pretty stagnant it's estimated 12 people die each day in the us but waiting for life saving kidney transplant and it's because of leesman says the",
+      "uuid": "62499bfc-9f34-43e9-88c9-bd7847dfd9ee"
     },
-    "1040": {
+    {
       "requestid": "40bc28a1-caa3-458d-a8c1-57967a2589b1",
       "confidence": "0.7714937",
       "timestamp": 1040,
-      "content": "banned for kidneys keeps rising but the supply hasn't been to meet at the why is that considered were most donated organs come from the primarily come from"
+      "content": "banned for kidneys keeps rising but the supply hasn't been to meet at the why is that considered were most donated organs come from the primarily come from",
+      "uuid": "966922bc-410e-4baf-ba0e-5de343f3f2b1"
     },
-    "1050": {
+    {
       "requestid": "644e2a74-242c-4c39-a0b5-7ebd9cbbfd2e",
       "confidence": "0.7228518",
       "timestamp": 1050,
-      "content": "abers some people have died but who died and adjust the right circumstances for my brain trauma for instance dual out there still functioning organs to be harvested for"
+      "content": "abers some people have died but who died and adjust the right circumstances for my brain trauma for instance dual out there still functioning organs to be harvested for",
+      "uuid": "629380fa-babd-44c0-bab9-40693d428dee"
     },
-    "1740": {
+    {
       "requestid": "d099bde5-491e-4a02-8d6a-fc675ffa0ecc",
       "confidence": "0.743183",
       "timestamp": 1740,
-      "content": "hit or and I can sense the desperation in your guys voices because need you have no clear solution to this problem"
+      "content": "hit or and I can sense the desperation in your guys voices because need you have no clear solution to this problem",
+      "uuid": "b238e39c-674a-422b-a1fe-1d9fc53fd18d"
     },
-    "1750": {
+    {
       "requestid": "3a5b2647-c3a0-488c-895a-f7c8fc14b4f3",
       "confidence": "0.6808841",
       "timestamp": 1750,
-      "content": "not even sure at this point what your dispute is other than with yourselves for buying a house next with school yard yet would like buying a house next door"
+      "content": "not even sure at this point what your dispute is other than with yourselves for buying a house next with school yard yet would like buying a house next door",
+      "uuid": "a4ea1fff-5331-4fc8-baed-befda718adb8"
     },
-    "1760": {
+    {
       "requestid": "0290c3b6-ef81-4256-a80d-2860c8fb9c7f",
       "confidence": "0.5486142",
       "timestamp": 1760,
-      "content": "airport and wanting to put up an airplane fence peoria point netting the house or is laughing in your no airplanes area yeah man 2 point"
+      "content": "airport and wanting to put up an airplane fence peoria point netting the house or is laughing in your no airplanes area yeah man 2 point",
+      "uuid": "7f12da99-505e-4495-beb8-359ca3b354dd"
     },
-    "1770": {
+    {
       "requestid": "e75b4131-c73d-4d56-831e-08c6cd5bcc06",
       "confidence": "0.6356993",
       "timestamp": 1770,
-      "content": "laser pointers of these kids"
+      "content": "laser pointers of these kids",
+      "uuid": "4c16a511-ce74-4f27-a747-416297a5f5ac"
     },
-    "1780": {
+    {
       "requestid": "2aaee9bf-b285-4631-af02-1748d0e5a599",
       "confidence": "0.7165667",
       "timestamp": 1780,
-      "content": "I'm gonna make because of now I'm not clear where your dispute even lies erin tell me tell me what decision you would like me to make"
+      "content": "I'm gonna make because of now I'm not clear where your dispute even lies erin tell me tell me what decision you would like me to make",
+      "uuid": "a04f381c-36f0-419f-8a89-94110d17805e"
     },
-    "1790": {
+    {
       "requestid": "cdc5c994-b175-48f4-9ae0-43f1a0c59d10",
       "confidence": "0.6944822",
       "timestamp": 1790,
-      "content": "it's i would like the ability to throw the ball back as they come over if I'm home I don't mind doing it on molly's is asking that we adhere to this pool"
+      "content": "it's i would like the ability to throw the ball back as they come over if I'm home I don't mind doing it on molly's is asking that we adhere to this pool",
+      "uuid": "f198206c-ccaa-44b4-81d3-574d400dfe3d"
     },
-    "1800": {
+    {
       "requestid": "665241aa-34a0-4727-884a-28d84620cf3a",
       "confidence": "0.6341009",
       "timestamp": 1800,
-      "content": "see together so you know if I'm in the backyard resmi holdall balls but I'm in the bed in the next day and that is our policy through the ball over on benson"
+      "content": "see together so you know if I'm in the backyard resmi holdall balls but I'm in the bed in the next day and that is our policy through the ball over on benson",
+      "uuid": "478f5590-bdd5-45b6-87cc-6ca515ad2e73"
     },
-    "1810": {
+    {
       "requestid": "b97d9ef3-4a87-4127-a0d1-5067799ca3ac",
       "confidence": "0.7584801",
       "timestamp": 1810,
-      "content": "president of the kids that they think they can just get it so she's trying to get us to conform to this policy but my suggestion and mike mike years that he do that"
+      "content": "president of the kids that they think they can just get it so she's trying to get us to conform to this policy but my suggestion and mike mike years that he do that",
+      "uuid": "9ceec758-7ad4-49c2-9090-378f46dd2c27"
     },
-    "1820": {
+    {
       "requestid": "23ef0126-53a6-4ae5-93ae-023cd31ecf11",
       "confidence": "0.5547364",
       "timestamp": 1820,
-      "content": "neon the kids are gonna just are gonna water bowls and was gonna keep coming out of 40100 rehome cup of soda at our front door so you know the united states"
+      "content": "neon the kids are gonna just are gonna water bowls and was gonna keep coming out of 40100 rehome cup of soda at our front door so you know the united states",
+      "uuid": "9e8f3d25-3aac-45ef-87c6-5b7d4d6a3189"
     },
-    "1830": {
+    {
       "requestid": "f9b23745-470a-4dc1-a317-e733be0f2efe",
       "confidence": "0.6250618",
       "timestamp": 1830,
-      "content": "yes baby I will wait to hear from me yelling in the balls back at you sure do they love you when you give them the balls back"
+      "content": "yes baby I will wait to hear from me yelling in the balls back at you sure do they love you when you give them the balls back",
+      "uuid": "fab3eecf-0a35-4f17-b95c-def51b1da2b8"
     },
-    "1840": {
+    {
       "requestid": "013c12e7-7cf9-4a01-bd99-6f5cfd78772e",
       "confidence": "0.4702775",
       "timestamp": 1840,
-      "content": "has no hitter in different need to get over again so right then it was your love and ears are the differences but it didn't write in mali what do you want me to"
+      "content": "has no hitter in different need to get over again so right then it was your love and ears are the differences but it didn't write in mali what do you want me to",
+      "uuid": "5c38f9ea-bd07-4f7c-b3a1-e607fc8ec448"
     },
-    "1850": {
+    {
       "requestid": "a04ea4d1-0959-4b67-8024-d75e0dd40e13",
       "confidence": "0.6539407",
       "timestamp": 1850,
-      "content": "side um well aaron will only submit to the authority of an outside figure so I want you to tell him that the ball"
+      "content": "side um well aaron will only submit to the authority of an outside figure so I want you to tell him that the ball",
+      "uuid": "5aefcc2d-793c-4ca0-b3a5-6df34a412999"
     },
-    "1860": {
+    {
       "requestid": "81838d18-0e55-4f34-a530-869ed91c857c",
       "confidence": "0.6791889",
       "timestamp": 1860,
-      "content": "when is the way to go so I don't have to do that I'm not forget to do the same thing that he's going to do"
+      "content": "when is the way to go so I don't have to do that I'm not forget to do the same thing that he's going to do",
+      "uuid": "dd9d838d-b67b-473a-ac00-133d76eeb946"
     },
-    "1870": {
+    {
       "requestid": "6f54c668-eea8-494a-b711-0b59cc1377bc",
       "confidence": "0.7914293",
       "timestamp": 1870,
-      "content": "do you want to set a policy specifically your policy of the ball been plus sign yes and then you"
+      "content": "do you want to set a policy specifically your policy of the ball been plus sign yes and then you",
+      "uuid": "c219cd40-c713-4a32-ab02-e71880d5ebdd"
     },
-    "1880": {
+    {
       "requestid": "7e483888-c04e-40ed-a890-3b30f4f53570",
       "confidence": "0.7392498",
       "timestamp": 1880,
-      "content": "want him to abide by it and not not go against policy yes until such time as we both realize that policy doesn't work either you gotta come up with a new"
+      "content": "want him to abide by it and not not go against policy yes until such time as we both realize that policy doesn't work either you gotta come up with a new",
+      "uuid": "cdb567f5-8de2-4fbd-8fbb-a3f6f76eab46"
     },
-    "1890": {
+    {
       "requestid": "02d882f6-7c8c-4e12-8cce-926749d9dbb6",
       "confidence": "0.5967995",
       "timestamp": 1890,
-      "content": "I'm sure brea you any pets know I heard everything I need to here in mind going to my"
+      "content": "I'm sure brea you any pets know I heard everything I need to here in mind going to my",
+      "uuid": "dfa7fd59-ca34-4b1e-b5ec-2e2895ca867b"
     },
-    "1900": {
+    {
       "requestid": "f3f19a8b-b434-4610-9662-ab6540539f96",
       "confidence": "0.7010441",
       "timestamp": 1900,
-      "content": "chambers and sit down against the wall anthro pinkie balkans the wall for 100 hours like steve mcqueen great escape not until I come to a decision please"
+      "content": "chambers and sit down against the wall anthro pinkie balkans the wall for 100 hours like steve mcqueen great escape not until I come to a decision please",
+      "uuid": "8b39dce5-7633-49d9-8fca-b1caf93ea74f"
     },
-    "1910": {
+    {
       "requestid": "af3e8337-9e02-44d6-9f89-f2f599834618",
       "confidence": "0.7493342",
       "timestamp": 1910,
-      "content": "prices judge john hodgman exits the courtroom aaron I wonder if this was a problem not with chilled"
+      "content": "prices judge john hodgman exits the courtroom aaron I wonder if this was a problem not with chilled",
+      "uuid": "9db75c91-8de4-430b-8fd4-0dbbc36a34ab"
     },
-    "1920": {
+    {
       "requestid": "18decafd-4cc3-4c1a-85b1-095c53873299",
       "confidence": "0.8675736",
       "timestamp": 1920,
-      "content": "and but with drunk people and your neighbors to a bar and not a playground how do you think"
+      "content": "and but with drunk people and your neighbors to a bar and not a playground how do you think",
+      "uuid": "ab2fefd3-a77c-4f68-99c6-3d4dd299be33"
     },
-    "1930": {
+    {
       "requestid": "187713fa-ef20-4399-9dd6-eeae540c6a01",
       "confidence": "0.7480422",
       "timestamp": 1930,
-      "content": "might solve a situation like this"
+      "content": "might solve a situation like this",
+      "uuid": "5d69e2be-379f-4946-b1e7-d2b6191071b8"
     },
-    "1940": {
+    {
       "requestid": "a79e261c-5d41-4bf6-b4c7-cb20f130773d",
       "confidence": "0.4293619",
       "timestamp": 1940,
-      "content": "how do I handle it maybe stynes postimees yeah I will I get my best guess is the steinour a pint glass or dare"
+      "content": "how do I handle it maybe stynes postimees yeah I will I get my best guess is the steinour a pint glass or dare",
+      "uuid": "a4997f44-0f86-46fb-947a-d698875beb1f"
     },
-    "1950": {
+    {
       "requestid": "a0978a77-d3fc-4ef8-bdb6-0a2c5311720b",
       "confidence": "0.4814268",
       "timestamp": 1950,
-      "content": "that would be that would be the food list of all you are in a brooklyn bar a buckyball yes sorry yeah I think that are signed"
+      "content": "that would be that would be the food list of all you are in a brooklyn bar a buckyball yes sorry yeah I think that are signed",
+      "uuid": "6e0ebafe-ca34-4fbf-9dd8-1527b30a18c6"
     },
-    "1960": {
+    {
       "requestid": "82a2accf-0b05-44a9-b8b6-a08a36d01a24",
       "confidence": "0.4560312",
       "timestamp": 1960,
-      "content": "bocci ball there anything up with dennis was coming over I will be at much more girl difficult brabant horse balls in berino when you compare a movie"
+      "content": "bocci ball there anything up with dennis was coming over I will be at much more girl difficult brabant horse balls in berino when you compare a movie",
+      "uuid": "df80d464-4241-4ff7-8800-7d64530a21e5"
     },
-    "1970": {
+    {
       "requestid": "3503897c-8033-47ca-83d9-867c9c26c059",
       "confidence": "0.6343666",
       "timestamp": 1970,
-      "content": "not so bad but I guess I didn't hear anything at home for dinner do we have to move molly have you ever thought about that you mention not having any"
+      "content": "not so bad but I guess I didn't hear anything at home for dinner do we have to move molly have you ever thought about that you mention not having any",
+      "uuid": "c09d43a7-802f-45ae-92d5-b168f1f89de1"
     },
-    "1980": {
+    {
       "requestid": "97ea81c9-8180-446b-89eb-456b217c45b3",
       "confidence": "0.56113",
       "timestamp": 1980,
-      "content": "atabey ever thought about getting some kind of deadly terrifying pat you know when you have like a junkyard dog around are something like having a"
+      "content": "atabey ever thought about getting some kind of deadly terrifying pat you know when you have like a junkyard dog around are something like having a",
+      "uuid": "a403bac1-9533-4204-86bb-d1a7a753ebb8"
     },
-    "1990": {
+    {
       "requestid": "3923ca09-ee4b-4d0a-a538-41d0c904a5be",
       "confidence": "0.449687",
       "timestamp": 1990,
-      "content": "chenda pathirana an the dahlia yeah I've been having having to listen to and only have like to know"
+      "content": "chenda pathirana an the dahlia yeah I've been having having to listen to and only have like to know",
+      "uuid": "0bb48915-f59b-4ed9-aeb7-1c1610a90661"
     },
-    "2000": {
+    {
       "requestid": "9760d4a1-6677-461e-85d9-ca408dc5c331",
       "confidence": "0.6899502",
       "timestamp": 2000,
-      "content": "nano pets 2 kids no pets how do you feel about your chances like a :)"
+      "content": "nano pets 2 kids no pets how do you feel about your chances like a :)",
+      "uuid": "17f99018-c570-404e-8d81-656b6770f5bd"
     },
-    "2010": {
+    {
       "requestid": "66ad51d8-981a-40b4-81a3-6e36427474fa",
       "confidence": "0.5326326",
       "timestamp": 2010,
-      "content": "you"
+      "content": "you",
+      "uuid": "4f9dd075-14d1-4a53-a876-2c7337ce1662"
     },
-    "2020": {
+    {
       "requestid": "0263798f-55ae-4075-940b-d601e772a9c5",
       "confidence": "0.6843398",
       "timestamp": 2020,
-      "content": "oh I know I don't know I'll see how I feel good too extremely bad about it"
+      "content": "oh I know I don't know I'll see how I feel good too extremely bad about it",
+      "uuid": "47959929-bb0f-4e07-8a72-6f2d682a7b37"
     },
-    "2030": {
+    {
       "requestid": "780883b6-3ff8-49a3-92d5-8f5018b3c77e",
       "confidence": "0.6030514",
       "timestamp": 2030,
-      "content": "so your saying that your chances are know by mary there a spectrum yeah I think about is good about my chances I did about to get in the cultural reference"
+      "content": "so your saying that your chances are know by mary there a spectrum yeah I think about is good about my chances I did about to get in the cultural reference",
+      "uuid": "4267f352-4007-48cc-a9f9-172ac3b30c1a"
     },
-    "2040": {
+    {
       "requestid": "4d1cbefe-8f3f-41f1-9518-d2cc5a5c45d0",
       "confidence": "0.6771723",
       "timestamp": 2040,
-      "content": "right well will see what did john hodgman have to say about all this when we come back in just a minute"
+      "content": "right well will see what did john hodgman have to say about all this when we come back in just a minute",
+      "uuid": "677a4c69-6449-460c-b67d-5c203aca23eb"
     },
-    "2050": {
+    {
       "requestid": "aa2661f8-710e-4911-a894-5191585fd10b",
       "confidence": "0.5149992",
       "timestamp": 2050,
-      "content": "by the way my brother my brother every monday we put out the first ever advice comedy podcast ever case on our podcast"
+      "content": "by the way my brother my brother every monday we put out the first ever advice comedy podcast ever case on our podcast",
+      "uuid": "fc366ded-7332-4f5e-90b4-8b8293bf4f49"
     },
-    "2060": {
+    {
       "requestid": "45aecd8e-29f3-493a-810e-844249344851",
       "confidence": "0.4721759",
       "timestamp": 2060,
-      "content": "sea scrolls where the hammurabi's code of farkash emmerie it a joke that we invented the first job vaginas every monday I'm at somefun.org"
+      "content": "sea scrolls where the hammurabi's code of farkash emmerie it a joke that we invented the first job vaginas every monday I'm at somefun.org",
+      "uuid": "447aa718-6df5-4ec5-95fa-5cb77495ac0f"
     },
-    "2070": {
+    {
       "requestid": "183ff4d1-300e-494b-b93a-8f2d8d17f0df",
       "confidence": "0.4143766",
       "timestamp": 2070,
-      "content": "crack arcade game brown just try me history in the making an insight into it all yours for the taking"
+      "content": "crack arcade game brown just try me history in the making an insight into it all yours for the taking",
+      "uuid": "2672b26c-5700-4902-8db6-ade4de2304f4"
     },
-    "2080": {
+    {
       "requestid": "4fb754ca-adc0-44ac-9863-aa022e4cf40f",
       "confidence": "0.6496672",
       "timestamp": 2080,
-      "content": "please rise as judge john hodgman free"
+      "content": "please rise as judge john hodgman free",
+      "uuid": "02bcc0fd-1e7f-4d37-8944-ac9fd3fe1991"
     },
-    "2090": {
+    {
       "requestid": "71a28d44-9ef0-4964-bd3e-a456939b6f99",
       "confidence": "0.7610846",
       "timestamp": 2090,
-      "content": "I can't help it if over heard your conversation about pets with jesse thorn and A&M so I had to adjust my decision"
+      "content": "I can't help it if over heard your conversation about pets with jesse thorn and A&M so I had to adjust my decision",
+      "uuid": "40ee47c2-208d-426e-9766-d3b4b05e64a9"
     },
-    "2100": {
+    {
       "requestid": "2afde734-b38b-43b4-b960-c5884f2e9e47",
       "confidence": "0.7810717",
       "timestamp": 2100,
-      "content": "because obviously the perfect solution is simply to fill your yard up with deadly asps"
+      "content": "because obviously the perfect solution is simply to fill your yard up with deadly asps",
+      "uuid": "d2a3cada-bc2c-4392-845c-467fdeb82c77"
     },
-    "2110": {
+    {
       "requestid": "eb11cf52-63b0-4ff8-ab70-b28107de7a42",
       "confidence": "0.7527029",
       "timestamp": 2110,
-      "content": "hurtig it only affected by any of the kids are anthony and cleopatra yeah exactly so given that you're not willing to do fill up your yard with something terrifying to children"
+      "content": "hurtig it only affected by any of the kids are anthony and cleopatra yeah exactly so given that you're not willing to do fill up your yard with something terrifying to children",
+      "uuid": "cc2ced9f-e956-4387-8aed-3ec79a26b91d"
     },
-    "2120": {
+    {
       "requestid": "5c73050d-f00a-44ae-8b51-c9dfcf4365ab",
       "confidence": "0.50166",
       "timestamp": 2120,
-      "content": "I like when it is filling up with public television jackson creek drive tampa florida with episode the front line"
+      "content": "I like when it is filling up with public television jackson creek drive tampa florida with episode the front line",
+      "uuid": "f9ad9a11-1a34-4de0-a7b1-8a314ff4ecd7"
     },
-    "2130": {
+    {
       "requestid": "78623e5e-e638-457b-aacc-876927b284d6",
       "confidence": "0.7793319",
       "timestamp": 2130,
-      "content": "exactly at that be another way to dissuade them from coming into your yard or we have to find more new one solution I mean I feel you guys because this is a"
+      "content": "exactly at that be another way to dissuade them from coming into your yard or we have to find more new one solution I mean I feel you guys because this is a",
+      "uuid": "7c52f5f8-17b2-4b45-b5bb-3914d06cd42a"
     },
-    "2140": {
+    {
       "requestid": "33ab8ddb-2ece-4354-b6de-622ccc0e5c8f",
       "confidence": "0.8188804",
       "timestamp": 2140,
-      "content": "perhaps something you should have been able to foresee such as the moving next to an airport women airport airplane noise for you or moving in"
+      "content": "perhaps something you should have been able to foresee such as the moving next to an airport women airport airplane noise for you or moving in",
+      "uuid": "3e6e40f5-3bba-42fd-ad27-cbfdb86d0b2e"
     },
-    "2150": {
+    {
       "requestid": "ed09d09c-a415-49e4-bdb3-33215a2eaf54",
       "confidence": "0.7718856",
       "timestamp": 2150,
-      "content": "into a brand new apartment above a brooklyn theme bar you might get angry at the at the kind of conversations would have to over here both kids were outside"
+      "content": "into a brand new apartment above a brooklyn theme bar you might get angry at the at the kind of conversations would have to over here both kids were outside",
+      "uuid": "5f7df986-d228-4538-a3cc-b97c98b56674"
     },
-    "2160": {
+    {
       "requestid": "27f3881e-09d5-4951-8d8a-652244c4f271",
       "confidence": "0.7022865",
       "timestamp": 2160,
-      "content": "I getting at is smoking their healthy american spirit cigarettes after putting down water park slips in the brooklyn finbarr is this was the foreseeable pro"
+      "content": "I getting at is smoking their healthy american spirit cigarettes after putting down water park slips in the brooklyn finbarr is this was the foreseeable pro",
+      "uuid": "73b9afea-faef-4011-aa4b-0933ab8bfdcd"
     },
-    "2170": {
+    {
       "requestid": "093bed1b-b41c-454f-ba37-ef6ac390916c",
       "confidence": "0.7226151",
       "timestamp": 2170,
-      "content": "blim but you failed for cn so I can appreciate how are your contempt and hatred for these children is essentially projection of your head"
+      "content": "blim but you failed for cn so I can appreciate how are your contempt and hatred for these children is essentially projection of your head",
+      "uuid": "f2fcafff-c9b6-45d5-8c2c-c40d05684812"
     },
-    "2180": {
+    {
       "requestid": "b9a37bc6-1c69-4d50-86b1-b343ef745195",
       "confidence": "0.6465749",
       "timestamp": 2180,
-      "content": "for your selfs ha and you are also added an interesting time in your life because e eu are you are in your meds"
+      "content": "for your selfs ha and you are also added an interesting time in your life because e eu are you are in your meds",
+      "uuid": "79097fd0-84dc-4013-94b6-87caaaa94807"
     },
-    "2190": {
+    {
       "requestid": "b7aaec6b-8a0d-4f7b-a78b-01e5173c335a",
       "confidence": "0.7269762",
       "timestamp": 2190,
-      "content": "mid thirties ok see you are you no longer have the cure sociopathy of childhood which is what these kids are enjoying you"
+      "content": "mid thirties ok see you are you no longer have the cure sociopathy of childhood which is what these kids are enjoying you",
+      "uuid": "be00dad3-2ab0-400a-8945-72b2181e1bee"
     },
-    "2200": {
+    {
       "requestid": "677180ad-7637-4004-8575-7273ba6f48f5",
       "confidence": "0.7616708",
       "timestamp": 2200,
-      "content": "are not humans to them do you are you are faced with talking mannequin's to take their things until I get back in or are you prepared to enter"
+      "content": "are not humans to them do you are you are faced with talking mannequin's to take their things until I get back in or are you prepared to enter",
+      "uuid": "0f431b9f-0496-45b1-b457-ea32455b33ea"
     },
-    "2210": {
+    {
       "requestid": "b883013f-2cdf-4962-bdfb-df1b4bd38fc0",
       "confidence": "0.6862103",
       "timestamp": 2210,
-      "content": "the endless pool of rage and which swim your neighbors your elderly neighbors have been putting up with this stuff you ty lee for 30 years day at"
+      "content": "the endless pool of rage and which swim your neighbors your elderly neighbors have been putting up with this stuff you ty lee for 30 years day at",
+      "uuid": "3ce33719-f605-46ba-9e82-3f70712fbe54"
     },
-    "2220": {
+    {
       "requestid": "d3cea736-5efd-4e9d-a6ac-5c0ec2ce45e1",
       "confidence": "0.7529607",
       "timestamp": 2220,
-      "content": "you're in this in the empty threats of calling the cops it obviously if the if the cops river called nothing is ever done that the vet would really"
+      "content": "you're in this in the empty threats of calling the cops it obviously if the if the cops river called nothing is ever done that the vet would really",
+      "uuid": "0d5b37a2-09e8-43a3-9514-007630f26710"
     },
-    "2230": {
+    {
       "requestid": "18adca0b-fefc-4632-9562-5c9aa2654183",
       "confidence": "0.8845833",
       "timestamp": 2230,
-      "content": "you would really need to feel you would really need to become a little bit older and a little less concerned about what other people think of you in order to truly combat boots"
+      "content": "you would really need to feel you would really need to become a little bit older and a little less concerned about what other people think of you in order to truly combat boots",
+      "uuid": "18690757-7ca7-47ed-9b1a-1a26d71391cf"
     },
-    "2240": {
+    {
       "requestid": "d9ab1d54-037a-48bb-a1a4-e8ace61109e8",
       "confidence": "0.6864543",
       "timestamp": 2240,
-      "content": "problem by becoming a steve buscemi like monster and simply those balls get over to go over the fence you stabbed with a knife and you throw me a pile"
+      "content": "problem by becoming a steve buscemi like monster and simply those balls get over to go over the fence you stabbed with a knife and you throw me a pile",
+      "uuid": "6aafc80d-24c2-4d22-a16c-6b6ab072643d"
     },
-    "2250": {
+    {
       "requestid": "24f67d60-84c5-4e11-9e61-a2c8ae4190f0",
       "confidence": "0.6828351",
       "timestamp": 2250,
-      "content": "ustick you know you do this is what you do this is what you do you guys lose both come over the fence do you use with you do you ask your friend you don't hear damn right you"
+      "content": "ustick you know you do this is what you do this is what you do you guys lose both come over the fence do you use with you do you ask your friend you don't hear damn right you",
+      "uuid": "1ed09b58-f9ed-4391-9c90-bd4ffbc1016c"
     },
-    "2260": {
+    {
       "requestid": "879374fb-f1f3-4473-aa49-601ac22d8703",
       "confidence": "0.6565423",
       "timestamp": 2260,
-      "content": "how to fence a series of spikes in every time a ball comes over that fence one of you guys take that ball"
+      "content": "how to fence a series of spikes in every time a ball comes over that fence one of you guys take that ball",
+      "uuid": "519d421a-3b71-4f24-8f38-8de8b967e6f3"
     },
-    "2270": {
+    {
       "requestid": "7c98d434-d982-4aec-9cf1-f81196c278f7",
       "confidence": "0.7479457",
       "timestamp": 2270,
-      "content": "put it on this bike and they see the decapitated heads of their dad every time I play soccer nasa game"
+      "content": "put it on this bike and they see the decapitated heads of their dad every time I play soccer nasa game",
+      "uuid": "76224d6f-ddad-49a9-adb3-fe95cc7cb2b3"
     },
-    "2280": {
+    {
       "requestid": "473e1a4c-7d3b-4837-ae7b-c1de189df098",
       "confidence": "0.7126729",
       "timestamp": 2280,
-      "content": "on stuff that's what I'm talking about that would be that would be something that would be a monstrous policy"
+      "content": "on stuff that's what I'm talking about that would be that would be something that would be a monstrous policy",
+      "uuid": "6f17f38b-4476-4f2c-b136-2d9d57ce057d"
     },
-    "2290": {
+    {
       "requestid": "ea47b2ef-772d-4886-be99-240fab830a08",
       "confidence": "0.7432106",
       "timestamp": 2290,
-      "content": "that would establish you guys as a legend in the neighborhood and on a deep dna level"
+      "content": "that would establish you guys as a legend in the neighborhood and on a deep dna level",
+      "uuid": "c122c52c-5969-4780-8433-337a8e1f4f31"
     },
-    "2300": {
+    {
       "requestid": "70b5c02b-6605-4b36-bdd6-85112e9c6404",
       "confidence": "0.7951569",
       "timestamp": 2300,
-      "content": "would cause generations of children to learn overtime to even unconsciously hold hold their kicks down"
+      "content": "would cause generations of children to learn overtime to even unconsciously hold hold their kicks down",
+      "uuid": "03fbda5d-91e3-4505-a90e-ac6f215194d2"
     },
-    "2310": {
+    {
       "requestid": "149c0c24-2ef2-4855-ac29-e61d5ca6ddb4",
       "confidence": "0.6240127",
       "timestamp": 2310,
-      "content": "left their ball be spiked in your backyard ok that is cold"
+      "content": "left their ball be spiked in your backyard ok that is cold",
+      "uuid": "783bcadd-e337-4c48-8256-0baefc9120be"
     },
-    "2320": {
+    {
       "requestid": "0f62fcfc-297b-421f-b21d-5eb3b9890baa",
       "confidence": "0.8169823",
       "timestamp": 2320,
-      "content": "stuff and you guys making your skin care products in your not AT bars in your thirties with young kids you're not you're not"
+      "content": "stuff and you guys making your skin care products in your not AT bars in your thirties with young kids you're not you're not",
+      "uuid": "89242341-939c-4afa-82a7-890899e2d28c"
     },
-    "2330": {
+    {
       "requestid": "82708b49-37b8-4c40-9121-36751a63300e",
       "confidence": "0.6737451",
       "timestamp": 2330,
-      "content": "ready to become human monsters yet that's why you not able to to settle on a consistent policy with these balls you know"
+      "content": "ready to become human monsters yet that's why you not able to to settle on a consistent policy with these balls you know",
+      "uuid": "572104d9-0ee4-4e97-8ca7-4abfcf64e332"
     },
-    "2340": {
+    {
       "requestid": "b7b00d07-4e02-4a06-a426-b263116c2bad",
       "confidence": "0.8618981",
       "timestamp": 2340,
-      "content": "ready to become monsters and you know what's good for you because the truth is in the city we are all living together densely packed and we all"
+      "content": "ready to become monsters and you know what's good for you because the truth is in the city we are all living together densely packed and we all",
+      "uuid": "6faafefc-6d55-4458-b136-2befda8c0932"
     },
-    "2350": {
+    {
       "requestid": "ab274476-9928-45bd-bb19-895b59c53a4c",
       "confidence": "0.7843439",
       "timestamp": 2350,
-      "content": "need to try to recognize each others humanity as much as possible or else to become taraba monsters in an intense living"
+      "content": "need to try to recognize each others humanity as much as possible or else to become taraba monsters in an intense living",
+      "uuid": "d0e09f10-f757-4439-b405-3e6fe56bbb4a"
     },
-    "2360": {
+    {
       "requestid": "43b620b9-e8ed-4f65-8543-839c0f976394",
       "confidence": "0.8067613",
       "timestamp": 2360,
-      "content": "chew ation like this particular one where there's a lot of neighborhood change going on whether you wanna call it gentrification but if that is appropriate to this specific case or not"
+      "content": "chew ation like this particular one where there's a lot of neighborhood change going on whether you wanna call it gentrification but if that is appropriate to this specific case or not",
+      "uuid": "efce8879-407a-47d6-979b-aaa053c432d8"
     },
-    "2370": {
+    {
       "requestid": "fd1420c7-8e7e-48bf-be19-cbf8202ac70c",
       "confidence": "0.7158869",
       "timestamp": 2370,
-      "content": "there's clearly tallys lot of churn in brooklyn right now lot of things are changing a lot of unspoken the anxieties our intentions"
+      "content": "there's clearly tallys lot of churn in brooklyn right now lot of things are changing a lot of unspoken the anxieties our intentions",
+      "uuid": "b99866f5-cd00-4e37-bbfe-60420f811277"
     },
-    "2380": {
+    {
       "requestid": "a920502c-6164-4df8-8433-366b16671293",
       "confidence": "0.8233133",
       "timestamp": 2380,
-      "content": "I'm not sure that's biking the heads of your enemies is the kind of escalation that is going to do you well in the long run because your yard is unsecure"
+      "content": "I'm not sure that's biking the heads of your enemies is the kind of escalation that is going to do you well in the long run because your yard is unsecure",
+      "uuid": "8a4c01a3-afc1-410a-8f47-2a64a1b2a237"
     },
-    "2390": {
+    {
       "requestid": "72cef919-1e01-4db6-a787-6da686761b27",
       "confidence": "0.7664502",
       "timestamp": 2390,
-      "content": "where kids can park or their way into at anytime they want clearly and if there an app but you call the worst case scenario work it is trapped in your backyard like"
+      "content": "where kids can park or their way into at anytime they want clearly and if there an app but you call the worst case scenario work it is trapped in your backyard like",
+      "uuid": "2c780b7b-11b7-439c-a290-7a18572f494b"
     },
-    "2400": {
+    {
       "requestid": "373f8d94-cc49-4924-8e29-5c38112e0329",
       "confidence": "0.6662685",
       "timestamp": 2400,
-      "content": "moose in a in a department store in vermont one winter like that not the worst case scenario at all vengeful children live acts"
+      "content": "moose in a in a department store in vermont one winter like that not the worst case scenario at all vengeful children live acts",
+      "uuid": "8dec95c4-c9ab-46ec-b2a4-47e01581af70"
     },
-    "2410": {
+    {
       "requestid": "43dc578f-2662-4333-95b7-109c71ac352e",
       "confidence": "0.7962986",
       "timestamp": 2410,
-      "content": "do your backyard met a horror movie so so even though I even though I think of that would be the baddest of the <profanity>bad ass</profanity> responses"
+      "content": "do your backyard met a horror movie so so even though I even though I think of that would be the baddest of the <profanity>bad ass</profanity> responses",
+      "uuid": "fe781808-7fa6-48ae-b64a-ad363a2cf151"
     },
-    "2420": {
+    {
       "requestid": "80dce6a7-0818-42e3-bcd2-978aa852b3a7",
       "confidence": "0.7601088",
       "timestamp": 2420,
-      "content": "I think that you need to find more nuanced response to that knowledge is that these kids are human being just like you are human beings know what is that was what is the approach"
+      "content": "I think that you need to find more nuanced response to that knowledge is that these kids are human being just like you are human beings know what is that was what is the approach",
+      "uuid": "0f226005-16d2-4aec-aeb0-4bb766b4efee"
     },
-    "2430": {
+    {
       "requestid": "e856d2e8-91b7-4aa4-8c30-5d6ca65c81d9",
       "confidence": "0.73847",
       "timestamp": 2430,
-      "content": "response I do not agree with you there and that these kids will never learn I think overtime if you spiked his balls are they"
+      "content": "response I do not agree with you there and that these kids will never learn I think overtime if you spiked his balls are they",
+      "uuid": "1b71fb60-72c0-4765-b1ba-92541124e70e"
     },
-    "2440": {
+    {
       "requestid": "971d20a7-bf25-4167-bb6c-496a60dc0975",
       "confidence": "0.7399216",
       "timestamp": 2440,
-      "content": "would learn new note kids learn all the time that's why there are you going to that school and issues of behavior like this"
+      "content": "would learn new note kids learn all the time that's why there are you going to that school and issues of behavior like this",
+      "uuid": "0d84a3bb-f072-4f92-bf3a-b785b3ed6079"
     },
-    "2450": {
+    {
       "requestid": "c0b917f4-6f55-459e-8bdb-c4620ca88b30",
       "confidence": "0.8224363",
       "timestamp": 2450,
-      "content": "I can tell you that would kids learn the most from is consistent policies that make sense and so you're saying sometimes"
+      "content": "I can tell you that would kids learn the most from is consistent policies that make sense and so you're saying sometimes",
+      "uuid": "b4a5fe12-3769-4afb-908a-e0647a388b6a"
     },
-    "2460": {
+    {
       "requestid": "d19a253e-cf09-4a0b-9a2e-974024d8818a",
       "confidence": "0.7823804",
       "timestamp": 2460,
-      "content": "throw them back sometimes I wanna keep them out of spite that's not a consistent policy that's going to help you in the long run"
+      "content": "throw them back sometimes I wanna keep them out of spite that's not a consistent policy that's going to help you in the long run",
+      "uuid": "83928617-bd16-458e-a712-2c6c7d947e62"
     },
-    "2470": {
+    {
       "requestid": "5f8d4fce-72c5-4079-a450-78cd93bb12ba",
       "confidence": "0.6817263",
       "timestamp": 2470,
-      "content": "your policy of hiding from children when they kick the ball and holding their stuff and then putting down the street for others dicks"
+      "content": "your policy of hiding from children when they kick the ball and holding their stuff and then putting down the street for others dicks",
+      "uuid": "ebe4affa-1e10-4afc-a7a8-13f507327dfa"
     },
-    "2480": {
+    {
       "requestid": "fff2b549-a29c-47bf-a102-204785e673e8",
       "confidence": "0.7084254",
       "timestamp": 2480,
-      "content": "go from at unify policy were were affected consistently why I'm not sure it would get the results that you want"
+      "content": "go from at unify policy were were affected consistently why I'm not sure it would get the results that you want",
+      "uuid": "72abe0da-1bd1-445b-aeaf-e587bc7cce8f"
     },
-    "2490": {
+    {
       "requestid": "0a3223f1-6552-4648-a36a-44632dc7832c",
       "confidence": "0.800115",
       "timestamp": 2490,
-      "content": "but between these 2 approaches I believe that there is a consistent policy that can be reached and I would also say that now"
+      "content": "but between these 2 approaches I believe that there is a consistent policy that can be reached and I would also say that now",
+      "uuid": "6d9b16c2-b77b-4914-b4c5-16131a367008"
     },
-    "2500": {
+    {
       "requestid": "837e8e5f-130f-4e1b-a7b6-b48623dc7ac5",
       "confidence": "0.6583639",
       "timestamp": 2500,
-      "content": "case in the sense I am going to side with molly that you guys cannot have different policies"
+      "content": "case in the sense I am going to side with molly that you guys cannot have different policies",
+      "uuid": "e0f4bd84-a49f-4c8c-ad91-527dbac789c0"
     },
-    "2510": {
+    {
       "requestid": "1e672291-8bdd-45ef-83f5-f73345e00719",
       "confidence": "0.8142927",
       "timestamp": 2510,
-      "content": "between you in the house you have to sit down and figure out what that policy years and have to figure out the policy such that you can explain it to a child"
+      "content": "between you in the house you have to sit down and figure out what that policy years and have to figure out the policy such that you can explain it to a child",
+      "uuid": "5fb22399-ddd8-46b5-b308-4de46daaed9a"
     },
-    "2520": {
+    {
       "requestid": "a25bd255-baee-459f-8fa8-60f3b74f895e",
       "confidence": "0.6501102",
       "timestamp": 2520,
-      "content": "right because this problem is not just you know and orients nor is it just miger danger to you"
+      "content": "right because this problem is not just you know and orients nor is it just miger danger to you",
+      "uuid": "30f9e739-4576-469c-b75a-9ab0923bf692"
     },
-    "2530": {
+    {
       "requestid": "25909acc-8fc4-43e4-98c0-0a353a4f420d",
       "confidence": "0.8064045",
       "timestamp": 2530,
-      "content": "young children but a potentially legal nightmare as you point out my way should a child into your backyard and become injured in some way"
+      "content": "young children but a potentially legal nightmare as you point out my way should a child into your backyard and become injured in some way",
+      "uuid": "5fee8d40-bbc9-4b14-91b6-5113b8a41789"
     },
-    "2540": {
+    {
       "requestid": "c55f1be7-b178-41bd-be9f-f0467f3f1a8d",
       "confidence": "0.8156918",
       "timestamp": 2540,
-      "content": "you know that's the real real real problem so I think that you need to investigate first of all secure in your backyard fermentor"
+      "content": "you know that's the real real real problem so I think that you need to investigate first of all secure in your backyard fermentor",
+      "uuid": "337bcd23-250a-4b5c-8099-1b3d4aeb3d96"
     },
-    "2550": {
+    {
       "requestid": "425a4d74-9a83-4bee-8256-9f4d2c56a44d",
       "confidence": "0.7986969",
       "timestamp": 2550,
-      "content": "asian because it is an ongoing problem I'm at and I think that you need to investigate the idea of putting up signs"
+      "content": "asian because it is an ongoing problem I'm at and I think that you need to investigate the idea of putting up signs",
+      "uuid": "79658cf9-0ff8-437c-84dd-bf0e591bd4dc"
     },
-    "2560": {
+    {
       "requestid": "fe504120-f53f-4090-a1e9-83d68afa6b62",
       "confidence": "0.7520873",
       "timestamp": 2560,
-      "content": "exterior fence saying for your own safety do not enter this backyard and I think that way"
+      "content": "exterior fence saying for your own safety do not enter this backyard and I think that way",
+      "uuid": "25fceb26-8754-40d1-86c7-0182e9f14313"
     },
-    "2570": {
+    {
       "requestid": "f3672f81-495d-4a1c-bdad-0cd92163142e",
       "confidence": "0.8631071",
       "timestamp": 2570,
-      "content": "the balls come over you guys need to have a policy in place as to when to return them because I think we all know the keeping children's balls and bring them into the fire"
+      "content": "the balls come over you guys need to have a policy in place as to when to return them because I think we all know the keeping children's balls and bring them into the fire",
+      "uuid": "a361ab41-ba59-479c-a144-2fd435ed7f58"
     },
-    "2580": {
+    {
       "requestid": "637dac44-865f-444d-a5df-849b28537dac",
       "confidence": "0.7757381",
       "timestamp": 2580,
-      "content": "is not who you are or who you want to be at the game of thrones you're right we all wanna be game of thrones when do you think about how many"
+      "content": "is not who you are or who you want to be at the game of thrones you're right we all wanna be game of thrones when do you think about how many",
+      "uuid": "262cfc1e-5d1c-4616-bd51-cab09bdc7454"
     },
-    "2590": {
+    {
       "requestid": "579b24cd-7592-48b6-9f32-9cf2ae5d1f7b",
       "confidence": "0.7323467",
       "timestamp": 2590,
-      "content": "ribal it was to live in medieval times at every piece of property that you on there or even rent comes with unexpected headaches"
+      "content": "ribal it was to live in medieval times at every piece of property that you on there or even rent comes with unexpected headaches",
+      "uuid": "b1d6f384-047e-45bf-a2b8-621341392869"
     },
-    "2600": {
+    {
       "requestid": "d42e9428-6e03-4088-b455-55c6bb5b65e4",
       "confidence": "0.7037655",
       "timestamp": 2600,
-      "content": "and with the headaches when they are cockroaches you smash and the win their humans WUI did learn to ignore it or you have to engage"
+      "content": "and with the headaches when they are cockroaches you smash and the win their humans WUI did learn to ignore it or you have to engage",
+      "uuid": "580d933e-d8e8-4b26-a8bc-5694a3161447"
     },
-    "2610": {
+    {
       "requestid": "e9fa4084-5033-4fd8-88ef-78ed0d63e371",
       "confidence": "0.8057522",
       "timestamp": 2610,
-      "content": "and II think that what you need to do is return the balls to the kids"
+      "content": "and II think that what you need to do is return the balls to the kids",
+      "uuid": "6e199dd6-116f-49a6-8d78-02340de3ee33"
     },
-    "2620": {
+    {
       "requestid": "fe9f9f25-aad6-4e01-ae42-c1831afff7f5",
       "confidence": "0.7549147",
       "timestamp": 2620,
-      "content": "hytham don't lecture them just send them back over and I think you need to do what it takes"
+      "content": "hytham don't lecture them just send them back over and I think you need to do what it takes",
+      "uuid": "fe599968-7b9b-43d1-ae33-e1ce4990b43c"
     },
-    "2630": {
+    {
       "requestid": "1e2a32d2-f820-4dab-b5fd-8cabe4230227",
       "confidence": "0.7179245",
       "timestamp": 2630,
-      "content": "to secure your enemy I don't wanna say this but you might wanna add some sort of how I mean I don't know bill in burglary proofs"
+      "content": "to secure your enemy I don't wanna say this but you might wanna add some sort of how I mean I don't know bill in burglary proofs",
+      "uuid": "723c8d16-396a-4aba-8a6b-d5754d617dce"
     },
-    "2640": {
+    {
       "requestid": "cb45521b-d684-44cd-9bce-204c124f658b",
       "confidence": "0.8419291",
       "timestamp": 2640,
-      "content": "your backyard so that it's a deterrent for the kids to come in and I think that when you engage with the kids to say over and over again"
+      "content": "your backyard so that it's a deterrent for the kids to come in and I think that when you engage with the kids to say over and over again",
+      "uuid": "a7117128-4b88-4ddc-99b8-663fac973ec1"
     },
-    "2650": {
+    {
       "requestid": "e328e031-ba1f-4082-b9ae-545337f80fe9",
       "confidence": "0.8199042",
       "timestamp": 2650,
-      "content": "assistant lee please keep the ball down don't come in and get them will get them back to you as soon as we can but that's all we can do and you can put a sign up that says the same thing"
+      "content": "assistant lee please keep the ball down don't come in and get them will get them back to you as soon as we can but that's all we can do and you can put a sign up that says the same thing",
+      "uuid": "37cddf7c-293b-4afa-915d-86fa7fafcf2f"
     },
-    "2660": {
+    {
       "requestid": "6bc47d89-6e7d-4954-876d-7209f5314448",
       "confidence": "0.8448261",
       "timestamp": 2660,
-      "content": "and I like to think that overtime but will mili right your problem but IA but I do feel very strongly that way"
+      "content": "and I like to think that overtime but will mili right your problem but IA but I do feel very strongly that way",
+      "uuid": "054fd7cb-68d0-41a9-b642-e646e5e0023a"
     },
-    "2670": {
+    {
       "requestid": "f4662eff-a222-49e1-8241-c499b4575aa5",
       "confidence": "0.8008046",
       "timestamp": 2670,
-      "content": "never systems you put in place that you mutually agreed upon it gonna be consistent and that you both do it consistently over and over and over again"
+      "content": "never systems you put in place that you mutually agreed upon it gonna be consistent and that you both do it consistently over and over and over again",
+      "uuid": "eb241566-9416-41da-b6bc-9379a36dcd1d"
     },
-    "2680": {
+    {
       "requestid": "cde066a4-2231-40ac-8df9-c96b16f5fbf8",
       "confidence": "0.8220947",
       "timestamp": 2680,
-      "content": "come because I think that's that's the only way to enforce rules especially with kids who don't understand what those are and that's the only way that you guys are gonna get it"
+      "content": "come because I think that's that's the only way to enforce rules especially with kids who don't understand what those are and that's the only way that you guys are gonna get it",
+      "uuid": "ef1026d3-d948-417f-b8ad-006f17685538"
     },
-    "2690": {
+    {
       "requestid": "5eb71b6f-a483-4093-9e50-553a7c2b26b4",
       "confidence": "0.7367196",
       "timestamp": 2690,
-      "content": "so even though I don't think the soccer ball ben is a is a particularly practical or or just solution given away"
+      "content": "so even though I don't think the soccer ball ben is a is a particularly practical or or just solution given away",
+      "uuid": "c2f2c8b7-ccbc-4d1f-8dc0-249bcb32632b"
     },
-    "2700": {
+    {
       "requestid": "189b3593-300e-423d-b653-07f87a46c18f",
       "confidence": "0.6725307",
       "timestamp": 2700,
-      "content": "was bald is gonna get stolen by weirdos in street chocobo collectors brooklynite crazy IIII do have to come down to catch him off at technically on the side of mall"
+      "content": "was bald is gonna get stolen by weirdos in street chocobo collectors brooklynite crazy IIII do have to come down to catch him off at technically on the side of mall",
+      "uuid": "d5e240d5-b4b8-4f9f-8c8f-fe60dda68912"
     },
-    "2710": {
+    {
       "requestid": "7b7e503f-4cdf-4008-9d63-180cb38e1d19",
       "confidence": "0.5813841",
       "timestamp": 2710,
-      "content": "we are and say ah is it in policy going forward molly wins this is the sound of a gavel judge john hodgman letter"
+      "content": "we are and say ah is it in policy going forward molly wins this is the sound of a gavel judge john hodgman letter",
+      "uuid": "a1a5db99-471c-44bd-8a2a-caf3147e77c4"
     },
-    "2720": {
+    {
       "requestid": "014824b6-2fda-4dbd-b565-c274f5803f20",
       "confidence": "0.7052865",
       "timestamp": 2720,
-      "content": "erin you just lost the case at how do you feel right now why I guess like a pic of the last couple seconds ago to go back to the house is in your nose"
+      "content": "erin you just lost the case at how do you feel right now why I guess like a pic of the last couple seconds ago to go back to the house is in your nose",
+      "uuid": "13c95521-89a2-4f31-9edf-21f72040ead0"
     },
-    "2730": {
+    {
       "requestid": "22245190-e875-467f-9320-d2be4abf0292",
       "confidence": "0.6883419",
       "timestamp": 2730,
-      "content": "nail biter there today and I know I'm in this is why haven't we can I can live with it molly about you I've just so happy to have"
+      "content": "nail biter there today and I know I'm in this is why haven't we can I can live with it molly about you I've just so happy to have",
+      "uuid": "c3a05599-0b95-42f9-8607-9ae68e7c20fc"
     },
-    "2740": {
+    {
       "requestid": "cbfc21b1-aca4-4777-853d-e168246a68ea",
       "confidence": "0.6490393",
       "timestamp": 2740,
-      "content": "solution do we know you don't have a solution there may be no solution but you're gonna create a policy that is consistent ampersand"
+      "content": "solution do we know you don't have a solution there may be no solution but you're gonna create a policy that is consistent ampersand",
+      "uuid": "7d210fcf-6718-4451-baca-29a4b4d7df57"
     },
-    "2750": {
+    {
       "requestid": "faebd2b6-f641-41c2-aef8-c33a9977d52b",
       "confidence": "0.6712216",
       "timestamp": 2750,
-      "content": "do you have to safeguard your yard from people getting into it 'cause that's no good situation right so I cleared yet about the aspect of sole"
+      "content": "do you have to safeguard your yard from people getting into it 'cause that's no good situation right so I cleared yet about the aspect of sole",
+      "uuid": "557a45be-2510-412a-9bff-67d3d0cff895"
     },
-    "2760": {
+    {
       "requestid": "86cc4ca4-004e-47d1-afd5-cd774066067d",
       "confidence": "0.6590053",
       "timestamp": 2760,
-      "content": "yeah just make sure he asked sir conspicuous comma the weather's gonna be a real liability issue there taking responsibility of a jump into a conspicuously ask for"
+      "content": "yeah just make sure he asked sir conspicuous comma the weather's gonna be a real liability issue there taking responsibility of a jump into a conspicuously ask for",
+      "uuid": "696e2242-9db8-49fc-b77c-03bde5d8d166"
     },
-    "2770": {
+    {
       "requestid": "35f9c53d-4453-46ca-988b-31faa74e8842",
       "confidence": "0.6166322",
       "timestamp": 2770,
-      "content": "hold your backyard shachi how do you take it with him and ask them the liability is yours is it here's a new teacher judge john hodgman judge john hodgman brand"
+      "content": "hold your backyard shachi how do you take it with him and ask them the liability is yours is it here's a new teacher judge john hodgman judge john hodgman brand",
+      "uuid": "0cd5eafa-6b20-4959-ad8d-36b2a5ddb4e3"
     },
-    "2780": {
+    {
       "requestid": "06fdbadb-2194-4ab0-8b0f-dee895880e82",
       "confidence": "0.2845965",
       "timestamp": 2780,
-      "content": "sick"
+      "content": "sick",
+      "uuid": "d5b88c6c-f3bb-453b-abf1-9016c92b0232"
     },
-    "2790": {
+    {
       "requestid": "3332fd76-dbf6-4d33-89ca-1619c3477226",
       "confidence": "0.6341062",
       "timestamp": 2790,
-      "content": "hey becks phone was messed up they won't have you been missing my show international waters you been missing"
+      "content": "hey becks phone was messed up they won't have you been missing my show international waters you been missing",
+      "uuid": "05653a34-58a7-4800-bddc-c378f9660403"
     },
-    "2800": {
+    {
       "requestid": "500a2baf-9cd7-4757-8dac-25535a353af1",
       "confidence": "0.4408017",
       "timestamp": 2800,
-      "content": "this I am around by having a really really really really really big bridge bewdley georgia child"
+      "content": "this I am around by having a really really really really really big bridge bewdley georgia child",
+      "uuid": "8255de6c-beeb-4542-8f10-e65570fe7771"
     },
-    "2810": {
+    {
       "requestid": "d6c3d945-71fa-4cff-8e3c-4adc8653fe80",
       "confidence": "0.5536634",
       "timestamp": 2810,
-      "content": "I'm afraid I can't right now is not really it's no fun you must know you're british do you like"
+      "content": "I'm afraid I can't right now is not really it's no fun you must know you're british do you like",
+      "uuid": "d5713675-2be5-4922-be66-20af756537fc"
     },
-    "2820": {
+    {
       "requestid": "12fa0b7f-a4f1-4683-882e-c85b6be19281",
       "timestamp": 2820,
-      "content": ""
+      "content": "",
+      "uuid": "70db4c70-5cd0-4173-96e0-6583d0929891"
     },
-    "2830": {
+    {
       "requestid": "e7316d32-106b-4a3b-93a4-16203859f319",
       "confidence": "0.4456851",
       "timestamp": 2830,
-      "content": "be at church at 10 100 could give you my ball z why are you throwing your meatballs"
+      "content": "be at church at 10 100 could give you my ball z why are you throwing your meatballs",
+      "uuid": "9a90df74-3b59-4720-8f7f-ca97008f46b1"
     },
-    "2840": {
+    {
       "requestid": "7c17dbb7-be65-4e7d-816d-e02b1404fad8",
       "confidence": "0.673359",
       "timestamp": 2840,
-      "content": "round disappear in your spaghetti like a normal"
+      "content": "round disappear in your spaghetti like a normal",
+      "uuid": "606b3ead-6ea1-48ec-95d2-ee944507a629"
     },
-    "2850": {
+    {
       "requestid": "54e15da9-b38e-4df0-afc1-ecb01331582f",
       "confidence": "0.6003227",
       "timestamp": 2850,
-      "content": "all of charleston west virginia knotfest of some nope not since the one note comfest of one come festivall to see me in charleston"
+      "content": "all of charleston west virginia knotfest of some nope not since the one note comfest of one come festivall to see me in charleston",
+      "uuid": "18415652-d30f-42c7-ab7a-214914d53d72"
     },
-    "2860": {
+    {
       "requestid": "5e2a04a0-38a4-40f2-b06f-798ca5483edb",
       "confidence": "0.7729506",
       "timestamp": 2860,
-      "content": "capital of west virginia my west virginia debut on June 22nd you can get all the details at festivallcharleston.com that SESTI"
+      "content": "capital of west virginia my west virginia debut on June 22nd you can get all the details at festivallcharleston.com that SESTI",
+      "uuid": "f02a3576-da76-44bb-9320-505dfade4f0c"
     },
-    "2870": {
+    {
       "requestid": "99a0b56e-6833-4641-8131-97e62de118df",
       "confidence": "0.771951",
       "timestamp": 2870,
-      "content": "CALL charleston spelt like you think itsounds.com or go to johnhodgman.com and click on that or button will you also find details for bye"
+      "content": "CALL charleston spelt like you think itsounds.com or go to johnhodgman.com and click on that or button will you also find details for bye",
+      "uuid": "fb2b2940-6288-4a54-a288-1257582e1d3b"
     },
-    "2880": {
+    {
       "requestid": "71d19f48-3716-499f-8653-94b598891470",
       "confidence": "0.7947934",
       "timestamp": 2880,
-      "content": "it for me in the boston massachusetts on September 12th and later in september just announced I'm appearing for the first time at"
+      "content": "it for me in the boston massachusetts on September 12th and later in september just announced I'm appearing for the first time at",
+      "uuid": "6a6c2e91-fce5-4ebb-b593-42293d0edbe4"
     },
-    "2890": {
+    {
       "requestid": "5b656466-84de-40b7-b9dc-3a95ccaced76",
       "confidence": "0.6490351",
       "timestamp": 2890,
-      "content": "toronto just for laughs comedy festival just do you know and I'll be AI'll be playing in shuku so do you like I know it's of all of those canadians"
+      "content": "toronto just for laughs comedy festival just do you know and I'll be AI'll be playing in shuku so do you like I know it's of all of those canadians",
+      "uuid": "40a414fd-9d35-457f-a4f1-2fe4885dfa0a"
     },
-    "2900": {
+    {
       "requestid": "ab9bbe2f-2d47-42b1-a389-df1ac067a061",
       "confidence": "0.6935027",
       "timestamp": 2900,
-      "content": "news were constantly saying when you coming to canada now is the answer is get all the details in my door johnhodgman.com slash tour j hijama t dot"
+      "content": "news were constantly saying when you coming to canada now is the answer is get all the details in my door johnhodgman.com slash tour j hijama t dot",
+      "uuid": "eed1bc80-cba9-4f5b-a566-47e6c683ef2b"
     },
-    "2910": {
+    {
       "requestid": "16791412-92a4-42d0-a251-6ca17e6bf23a",
       "confidence": "0.6830351",
       "timestamp": 2910,
-      "content": "that's what they say sometimes thanks this week to harish krishnamoorthy sorry 35 messinia vahdat for naming this week's episode you can even episode of judge john hodgman"
+      "content": "that's what they say sometimes thanks this week to harish krishnamoorthy sorry 35 messinia vahdat for naming this week's episode you can even episode of judge john hodgman",
+      "uuid": "5e9ebc0a-1027-4fab-b63a-5dba2d5a9031"
     },
-    "2920": {
+    {
       "requestid": "689ca2e8-ae87-4df8-96f2-d74cf299ad79",
       "confidence": "0.7406138",
       "timestamp": 2920,
-      "content": "lake judge john hodgman in facebook join the maximumfun.org facebook group and get up on twitter I john is at hodgman I am"
+      "content": "lake judge john hodgman in facebook join the maximumfun.org facebook group and get up on twitter I john is at hodgman I am",
+      "uuid": "68ea9bf1-52ed-4f1c-a194-0cd9e7207e9b"
     },
-    "2930": {
+    {
       "requestid": "8deca622-3958-4183-af40-358bd5dd0587",
       "confidence": "0.7212567",
       "timestamp": 2930,
-      "content": "at jesse thorn a producer is julia smith art editor is mark mcconville our show is paid for by your donations you can support the shelf maximum fun dot"
+      "content": "at jesse thorn a producer is julia smith art editor is mark mcconville our show is paid for by your donations you can support the shelf maximum fun dot",
+      "uuid": "353ecb4d-82e1-4b05-ace4-fca8a38f2752"
     },
-    "2940": {
+    {
       "requestid": "25648e9c-f171-4439-9e71-1059040a5892",
       "confidence": "0.7769092",
       "timestamp": 2940,
-      "content": "org slash donate will talk to you next time on the judge john hodgman podcast"
+      "content": "org slash donate will talk to you next time on the judge john hodgman podcast",
+      "uuid": "aa2bc5b2-b68d-4dee-a682-7e39b5f090f3"
     },
-    "2950": {
+    {
       "requestid": "0784abaa-7e60-4eb2-aeae-c16c08af164f",
       "confidence": "0.7400391",
       "timestamp": 2950,
-      "content": "how many and culture artist owned listener supported"
+      "content": "how many and culture artist owned listener supported",
+      "uuid": "65dd75f0-3c70-4bee-aca3-16c3e8f164dd"
     }
-  }
+  ]
 }

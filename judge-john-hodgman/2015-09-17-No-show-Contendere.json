@@ -3,2231 +3,2602 @@
   "date": "2015-09-17",
   "description": "<p><span id=\"docs-internal-guid-a8dc07a6-d987-f95a-0871-5a3fca0364dc\"><span style=\"font-size: 16px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">Ted brings the case against his good friend Chris. They will </span><span style=\"font-size: 16px; font-family: Arial; color: #141823; vertical-align: baseline; white-space: pre-wrap;\">make plans, but Chris will suddenly become unreachable when it comes time to meet up. Ted's calls and texts go unanswered. Ted says Chris needs to step up and let him know when his plans have changed. Chris says the plans weren't firm, so he's not entirely in the wrong. </span><span style=\"font-size: 16px; font-family: Arial; vertical-align: baseline; white-space: pre-wrap; background-color: transparent;\">Who's right? Who's wrong? Only one man can decide.</span></span></p><img src=\"http://feeds.feedburner.com/~r/todayinthepast/~4/p4huXc-qylg\" height=\"1\" width=\"1\" alt=\"\"/>",
   "episode_url": "http://traffic.libsyn.com/jjhodgman/jjho_227.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "fdba625a-5ec9-47ab-aa3b-6c5e23bcbc4d",
       "confidence": "0.6842044",
       "timestamp": 0,
-      "content": "welcome to the judge john hodgman podcast on you guessed bayliff jean grey this week no"
+      "content": "welcome to the judge john hodgman podcast on you guessed bayliff jean grey this week no",
+      "uuid": "6ccd98f7-4eaa-4cb1-a57f-bebaf4011fe4"
     },
-    "10": {
+    {
       "requestid": "81c5e277-6bba-47fb-b74c-ae918752dff2",
       "confidence": "0.7554839",
       "timestamp": 10,
-      "content": "show called and said bring the case against is good friend chris will make plans but chris will suddenly become unreachable when it comes time to meet up"
+      "content": "show called and said bring the case against is good friend chris will make plans but chris will suddenly become unreachable when it comes time to meet up",
+      "uuid": "0d5a54a4-7dc1-4e51-ad71-1c586815cbab"
     },
-    "20": {
+    {
       "requestid": "d294a65d-c576-4ff4-9094-a48addaac7cf",
       "confidence": "0.6895778",
       "timestamp": 20,
-      "content": "ted calls and texts go unanswered texas chris needs to step up and let him know when is plan to change chris's the plans with friends who is not entirely"
+      "content": "ted calls and texts go unanswered texas chris needs to step up and let him know when is plan to change chris's the plans with friends who is not entirely",
+      "uuid": "97ae5c2b-1a0d-4fc8-9212-46bfbad111e3"
     },
-    "30": {
+    {
       "requestid": "b3307bdc-bd1e-47d7-8d28-540b1df53e24",
       "confidence": "0.5643031",
       "timestamp": 30,
-      "content": "the wrong who's right who's wrong only one man can decide we tried as judge john hodgman answers the courtroom"
+      "content": "the wrong who's right who's wrong only one man can decide we tried as judge john hodgman answers the courtroom",
+      "uuid": "338b1be5-1268-4551-9862-af42bf3a50c4"
     },
-    "40": {
+    {
       "requestid": "c7e240dc-976a-466d-8217-a63638171c34",
       "confidence": "0.7236972",
       "timestamp": 40,
-      "content": "which is the apscu or cultural reference explain have you been contracted to ghost write an autobiography for a famous wrestler but the deal fell through"
+      "content": "which is the apscu or cultural reference explain have you been contracted to ghost write an autobiography for a famous wrestler but the deal fell through",
+      "uuid": "7653443c-eee8-4a98-b845-60249229f054"
     },
-    "50": {
+    {
       "requestid": "5c7355e8-d2b0-4648-800b-073e30d868f7",
       "confidence": "0.7665257",
       "timestamp": 50,
-      "content": "is agent arrange for him to keep the advance money however tonight is a little richer and wanted to change of pace she was more interested in why the wrestler him and attractive"
+      "content": "is agent arrange for him to keep the advance money however tonight is a little richer and wanted to change of pace she was more interested in why the wrestler him and attractive",
+      "uuid": "8737a29d-cbc7-4e43-a9b6-d70fe85b1415"
     },
-    "60": {
+    {
       "requestid": "be3e1fb9-6460-4198-b537-f048ce3c094d",
       "confidence": "0.7092124",
       "timestamp": 60,
-      "content": "right for was called mighty pipes cabrera he wasn't just a wrestler and said he was also a tener in the louisville city opera that spanned"
+      "content": "right for was called mighty pipes cabrera he wasn't just a wrestler and said he was also a tener in the louisville city opera that spanned",
+      "uuid": "b1508759-e32c-4fdd-bd43-fee8042c9910"
     },
-    "70": {
+    {
       "requestid": "cdbf91e6-50df-452f-b5dd-0a8240b76d15",
       "confidence": "0.7609807",
       "timestamp": 70,
-      "content": "why did the book fell through he was killed suddenly and explained in the ring"
+      "content": "why did the book fell through he was killed suddenly and explained in the ring",
+      "uuid": "46b0c1c6-e92a-49b5-9f14-eb743e53fd26"
     },
-    "80": {
+    {
       "requestid": "3182ac78-e046-4688-b994-13772809a147",
       "confidence": "0.7232948",
       "timestamp": 80,
-      "content": "yes milking great place for them and ted and chris please rise in raise your right hand do you swear to tell the truth the whole truth and"
+      "content": "yes milking great place for them and ted and chris please rise in raise your right hand do you swear to tell the truth the whole truth and",
+      "uuid": "db3e74ee-7166-4fb2-a1be-8b0fd72e8758"
     },
-    "90": {
+    {
       "requestid": "25af3f55-c247-4948-8ecb-12f6496e8d80",
       "confidence": "0.7080266",
       "timestamp": 90,
-      "content": "nothing but the truth so help you god or whatever I do I do do you swear to abide by judge john hodgman seruling eve"
+      "content": "nothing but the truth so help you god or whatever I do I do do you swear to abide by judge john hodgman seruling eve",
+      "uuid": "351e1fd9-5759-4968-9947-c9a2322f99bb"
     },
-    "100": {
+    {
       "requestid": "d127e909-c44d-4ce7-95cd-b8b28e9ecefe",
       "confidence": "0.6207542",
       "timestamp": 100,
-      "content": "no he's been known to employ smoke bombs at the way I'm leaving the venue or restaurant unannounced I yeah I do I do ok"
+      "content": "no he's been known to employ smoke bombs at the way I'm leaving the venue or restaurant unannounced I yeah I do I do ok",
+      "uuid": "5b4b8721-3e67-42c2-b7a9-4e9dd98aeed4"
     },
-    "110": {
+    {
       "requestid": "29fa4fae-80bd-484d-afb4-972dd635fbfc",
       "confidence": "0.7142704",
       "timestamp": 110,
-      "content": "thank you judge hodgeman you may pro ceed hi chris and tell him to get to you in a second I have to say welcome to my friend jean grey goose at 7 in for"
+      "content": "thank you judge hodgeman you may pro ceed hi chris and tell him to get to you in a second I have to say welcome to my friend jean grey goose at 7 in for",
+      "uuid": "84ec1805-8fb8-42d4-9039-3aa2b1b5f06d"
     },
-    "120": {
+    {
       "requestid": "097bf715-5562-4fd4-89e4-99442bf4503d",
       "confidence": "0.6298878",
       "timestamp": 120,
-      "content": "rick reg bayleef jessie porn who it is is indisposed with the other business at the moment you've been well I spent all summer with"
+      "content": "rick reg bayleef jessie porn who it is is indisposed with the other business at the moment you've been well I spent all summer with",
+      "uuid": "537c72de-08c8-41ff-aad4-33b21128f5f0"
     },
-    "130": {
+    {
       "requestid": "e2475340-2617-463d-a15c-43e62eb295f8",
       "confidence": "0.555751",
       "timestamp": 130,
-      "content": "guess they left side summer time fun time gas bill of monte belmonte now I'm at but I don't know how your summer without ago I am I if you want"
+      "content": "guess they left side summer time fun time gas bill of monte belmonte now I'm at but I don't know how your summer without ago I am I if you want",
+      "uuid": "b38ff043-60a6-46bc-8b48-75d47416170f"
     },
-    "140": {
+    {
       "requestid": "b16930d1-d026-476a-a2b2-c3d6804a92de",
       "confidence": "0.6334197",
       "timestamp": 140,
-      "content": "I'm going on I gotta move a dead in the backyard I'm so yeah I'm pretty excited I don't know the back at him but it also just dealing with that"
+      "content": "I'm going on I gotta move a dead in the backyard I'm so yeah I'm pretty excited I don't know the back at him but it also just dealing with that",
+      "uuid": "986a96fe-6801-49a5-9f86-99737164f20e"
     },
-    "150": {
+    {
       "requestid": "1179db1c-e861-4fa1-9c89-f248c35fb61f",
       "confidence": "0.5523461",
       "timestamp": 150,
-      "content": "and um I guess summer is not over to <profanity>fuck</profanity> me over the backyard gang I had a pit bull of people in it yes is it owned by a human or is"
+      "content": "and um I guess summer is not over to <profanity>fuck</profanity> me over the backyard gang I had a pit bull of people in it yes is it owned by a human or is",
+      "uuid": "ba9a68e3-cf47-40dc-8d63-285e26e12b9f"
     },
-    "160": {
+    {
       "requestid": "651b7af9-96c5-46af-a749-d6368b0d6f47",
       "confidence": "0.5718088",
       "timestamp": 160,
-      "content": "farrah it is kinda its its own if they don't really add lights display any and actually case of ownership so that's kind of"
+      "content": "farrah it is kinda its its own if they don't really add lights display any and actually case of ownership so that's kind of",
+      "uuid": "a095d821-942e-4816-b13c-7822e1521578"
     },
-    "170": {
+    {
       "requestid": "e66b1072-0520-44d8-9b19-27ede7a1a5e1",
       "confidence": "0.6462181",
       "timestamp": 170,
-      "content": "is it is a <profanity>shit</profanity> is a shared backyard yes it will I say ugh I got here so technically the shared pitbull I guess you know in a bit paranoid I did not"
+      "content": "is it is a <profanity>shit</profanity> is a shared backyard yes it will I say ugh I got here so technically the shared pitbull I guess you know in a bit paranoid I did not",
+      "uuid": "fd331212-15d4-4378-aac7-2c2c0a96269d"
     },
-    "180": {
+    {
       "requestid": "4aba846d-02f7-4bed-89a1-f8a38583d359",
       "confidence": "0.7124787",
       "timestamp": 180,
-      "content": "how do you release any recordings or books I mean your always coming up with project and I'd like the world to know about them so what do we say about that before I move on to tell chris"
+      "content": "how do you release any recordings or books I mean your always coming up with project and I'd like the world to know about them so what do we say about that before I move on to tell chris",
+      "uuid": "776083ee-009c-437d-87e1-9100eb040d40"
     },
-    "190": {
+    {
       "requestid": "601b1be1-a243-4299-b2a8-735f7e68ace2",
       "confidence": "0.5966952",
       "timestamp": 190,
-      "content": "still got up I add to project that will really set timer balls I swear to god I'm sorry and all 7 of my sweater"
+      "content": "still got up I add to project that will really set timer balls I swear to god I'm sorry and all 7 of my sweater",
+      "uuid": "26b6d3c2-f76f-45b2-9174-bd0c8dcd0e96"
     },
-    "200": {
+    {
       "requestid": "1e33d79b-130a-4e6e-8247-32820977baf9",
       "confidence": "0.5652681",
       "timestamp": 200,
-      "content": "yes it is are the letter I meant not swear to sweater like like a cardigan or or jumper yes send"
+      "content": "yes it is are the letter I meant not swear to sweater like like a cardigan or or jumper yes send",
+      "uuid": "35d53881-cebb-45aa-90d7-b4cdf38d0438"
     },
-    "210": {
+    {
       "requestid": "20ca9402-84ce-45dd-b969-d1ab90b93edc",
       "confidence": "0.5296972",
       "timestamp": 210,
-      "content": "and and god like other mythical man in the sky yes add many different amalgam ronta stories and outfits birdied in"
+      "content": "and and god like other mythical man in the sky yes add many different amalgam ronta stories and outfits birdied in",
+      "uuid": "093ab159-0eaa-4c91-abcc-d6e53fd3a491"
     },
-    "220": {
+    {
       "requestid": "fb82f4db-ba0b-4422-b681-583df7b8330c",
       "confidence": "0.6237568",
       "timestamp": 220,
-      "content": "send out that sykes is the other recorded project not spelled s aix norman black repertory and all these recordings can be"
+      "content": "send out that sykes is the other recorded project not spelled s aix norman black repertory and all these recordings can be",
+      "uuid": "4cdfeb52-9f89-43e2-b309-609038185379"
     },
-    "230": {
+    {
       "requestid": "dec0ff28-330b-4bcd-93b4-d651d8a3ddfc",
       "confidence": "0.6235855",
       "timestamp": 230,
-      "content": "I purchased at a reasonable fee considering it down behind am at the jean grey dot band camp dot something tom ever get it is"
+      "content": "I purchased at a reasonable fee considering it down behind am at the jean grey dot band camp dot something tom ever get it is",
+      "uuid": "d3c345ed-b4d2-475e-9356-789814d89da1"
     },
-    "240": {
+    {
       "requestid": "ddfb72c6-26d3-49b0-8d2d-06604e9090aa",
       "confidence": "0.5501704",
       "timestamp": 240,
-      "content": "I'm a brokenfinger.com org I pretty pretty pretty well now that that's what do you that's the most common app"
+      "content": "I'm a brokenfinger.com org I pretty pretty pretty well now that that's what do you that's the most common app",
+      "uuid": "8493759b-cf0d-480c-85d5-75649b2fec95"
     },
-    "250": {
+    {
       "requestid": "0855d22d-59ec-4186-8783-0a527fdebdc9",
       "confidence": "0.4936531",
       "timestamp": 250,
-      "content": "that's a fair share robles look up whats the eggs at sa it is up to you know me I love the obscurer in today"
+      "content": "that's a fair share robles look up whats the eggs at sa it is up to you know me I love the obscurer in today",
+      "uuid": "a77e2b63-c0f0-474b-b6cd-e6a2517606ba"
     },
-    "260": {
+    {
       "requestid": "e3e3674f-d6f5-4b7b-a01b-36ac4d6c804d",
       "confidence": "0.7037864",
       "timestamp": 260,
-      "content": "suffixes my forget the regular normal wants know why I'm so glad that you're able to be here coz always do I have you and dad now ted and chris yes"
+      "content": "suffixes my forget the regular normal wants know why I'm so glad that you're able to be here coz always do I have you and dad now ted and chris yes",
+      "uuid": "2c468850-7381-450a-af9f-38ab439a6196"
     },
-    "270": {
+    {
       "requestid": "77814601-c5ba-4ae8-ae6d-91ea0deddd67",
       "confidence": "0.5428075",
       "timestamp": 270,
-      "content": "yeah how hour your summers are pretty good so far enough to poop at who speaking about this is this is chris right now we barely know each other you guys are you"
+      "content": "yeah how hour your summers are pretty good so far enough to poop at who speaking about this is this is chris right now we barely know each other you guys are you",
+      "uuid": "6180055c-5b8a-4e60-844f-7d9615407b31"
     },
-    "290": {
+    {
       "requestid": "9f20b5c1-9387-4fb7-b1f5-9ff69d253e4a",
       "confidence": "0.4948937",
       "timestamp": 290,
-      "content": "rite aid that was creepy but I will look them up on my summer is ben is it is going very"
+      "content": "rite aid that was creepy but I will look them up on my summer is ben is it is going very",
+      "uuid": "92331842-913a-4076-b3b3-f9f7004f33fe"
     },
-    "300": {
+    {
       "requestid": "49467e2a-f01d-4ebb-9eb7-49503c2937f4",
       "confidence": "0.7000929",
       "timestamp": 300,
-      "content": "well I'm very warm up here in a portland oregon then we can do a lot of swimming and things like that so no complaints no they are very"
+      "content": "well I'm very warm up here in a portland oregon then we can do a lot of swimming and things like that so no complaints no they are very",
+      "uuid": "2c7d8b6f-fd2d-4d71-862e-64b21627d050"
     },
-    "310": {
+    {
       "requestid": "49ec2ed1-939f-4ca2-8c21-be308fdebfcd",
       "confidence": "0.6298421",
       "timestamp": 310,
-      "content": "usually no complaints from portland oregon from Mr. it's rather uncouth to be seen complaining about portland oregon seattle complacency is really where is that is that"
+      "content": "usually no complaints from portland oregon from Mr. it's rather uncouth to be seen complaining about portland oregon seattle complacency is really where is that is that",
+      "uuid": "bdba3ed1-6b7c-4eaf-a1d8-35e1ee9c3a8d"
     },
-    "320": {
+    {
       "requestid": "06273484-c8fe-407b-bfea-db9ef05b6bee",
       "confidence": "0.6423669",
       "timestamp": 320,
-      "content": "the kicker complacency is where it's at that the portland oregon ship chamber of bomb commerce"
+      "content": "the kicker complacency is where it's at that the portland oregon ship chamber of bomb commerce",
+      "uuid": "0f63f022-6978-4817-b9b9-90425e6a1790"
     },
-    "330": {
+    {
       "requestid": "37b3319a-3a37-4e0c-9d4a-93355349122c",
       "confidence": "0.6337333",
       "timestamp": 330,
-      "content": "are you a better teacher right there so teton crispr in a meeting summary judgment in one of yours favors do you happen to remember and can you name the piece of pop"
+      "content": "are you a better teacher right there so teton crispr in a meeting summary judgment in one of yours favors do you happen to remember and can you name the piece of pop",
+      "uuid": "4587f98f-eb3e-494b-aac3-4b80b16b6fb5"
     },
-    "340": {
+    {
       "requestid": "2d44a679-cb80-4b26-9e72-22a5a4b873a0",
       "confidence": "0.5810814",
       "timestamp": 340,
-      "content": "what culture but I would say obscure culture that I quoted from as I entered this myrtle court oleksy butt head you bring this"
+      "content": "what culture but I would say obscure culture that I quoted from as I entered this myrtle court oleksy butt head you bring this",
+      "uuid": "20234d84-97f8-43ad-9b34-ba639b73bd74"
     },
-    "350": {
+    {
       "requestid": "cb0dfaba-3d44-4da6-8b32-fb14a424f796",
       "confidence": "0.7080031",
       "timestamp": 350,
-      "content": "facebook for me for justice you go first gas"
+      "content": "facebook for me for justice you go first gas",
+      "uuid": "d83b2f17-38e9-4ece-ba6d-eec30dc16c27"
     },
-    "360": {
+    {
       "requestid": "85c68c25-4e5d-45f6-8bd9-8470957c0494",
       "timestamp": 360,
-      "content": ""
+      "content": "",
+      "uuid": "38ae2562-4840-48d3-8103-2e335f724be4"
     },
-    "370": {
+    {
       "requestid": "8b82241c-d48a-4f0e-b4b4-1fd4f1223b06",
       "confidence": "0.6035393",
       "timestamp": 370,
-      "content": "yes or no on kurt vonnegut can you would you guess the same or different I would not have guessed different bachna"
+      "content": "yes or no on kurt vonnegut can you would you guess the same or different I would not have guessed different bachna",
+      "uuid": "6355a979-dd32-45cc-9385-dcba5a867db3"
     },
-    "380": {
+    {
       "requestid": "0f41ee8f-9b72-4f2b-82f2-13f1154bfe50",
       "confidence": "0.3539132",
       "timestamp": 380,
-      "content": "sure wanna the city different horrible"
+      "content": "sure wanna the city different horrible",
+      "uuid": "b8611ad0-d974-42aa-83da-db5010b8e90c"
     },
-    "390": {
+    {
       "requestid": "7515579b-b23d-4bbd-a2ed-2237995c4cc7",
       "confidence": "0.3849064",
       "timestamp": 390,
-      "content": "exactly and I was really good"
+      "content": "exactly and I was really good",
+      "uuid": "62747b8c-c66a-4090-9d1e-cf399ff1d2eb"
     },
-    "400": {
+    {
       "requestid": "bf7d8aab-6c50-430c-8140-ef79cca48174",
       "confidence": "0.6630438",
       "timestamp": 400,
-      "content": "what are indeed but all gases are wrong there is no way to new world that was william faulkner because"
+      "content": "what are indeed but all gases are wrong there is no way to new world that was william faulkner because",
+      "uuid": "808fc4ef-7e2b-4099-ab67-9fd51b814052"
     },
-    "410": {
+    {
       "requestid": "52fb73ce-9ab2-4998-9844-f6141fb1db82",
       "confidence": "0.5125124",
       "timestamp": 410,
-      "content": "it was no but you run on sentences for the point of view of a mentally challenged person now and I will try to cut a check some very"
+      "content": "it was no but you run on sentences for the point of view of a mentally challenged person now and I will try to cut a check some very",
+      "uuid": "66de756a-d1a2-400a-9a8e-3a4e71465049"
     },
-    "420": {
+    {
       "requestid": "247620b1-884d-44e9-8771-e60e1dcbe0cf",
       "confidence": "0.4820099",
       "timestamp": 420,
-      "content": "controversial positions here on the judge john hodgman yeah <profanity>fuck</profanity> it not that great no no"
+      "content": "controversial positions here on the judge john hodgman yeah <profanity>fuck</profanity> it not that great no no",
+      "uuid": "e6b00b46-8d55-4484-a1d7-11cffe2db896"
     },
-    "430": {
+    {
       "requestid": "b521e518-9a9c-4f0f-860b-9df253e5aaec",
       "confidence": "0.4735392",
       "timestamp": 430,
-      "content": "knock knock this out but not this time does it look at a book on my bookshelf"
+      "content": "knock knock this out but not this time does it look at a book on my bookshelf",
+      "uuid": "2510b8de-3313-48be-a469-6f51aaa224f2"
     },
-    "440": {
+    {
       "requestid": "d6548a6c-370a-4772-a656-e300bfd02333",
       "confidence": "0.6184111",
       "timestamp": 440,
-      "content": "are you up flattering comparison because the author of those paragraphs it was a young john hodgman moon frye"
+      "content": "are you up flattering comparison because the author of those paragraphs it was a young john hodgman moon frye",
+      "uuid": "205ff34e-b4ae-48a2-881f-5e66e1044e39"
     },
-    "450": {
+    {
       "requestid": "959034cd-075d-4f9a-98c2-c88dd0df4f1b",
       "confidence": "0.6896668",
       "timestamp": 450,
-      "content": "um my very first at published short story in the paris review you guys can call him"
+      "content": "um my very first at published short story in the paris review you guys can call him",
+      "uuid": "13ab63e5-df51-4ea3-9097-9e571a205333"
     },
-    "460": {
+    {
       "requestid": "0af98a70-718d-47a2-b871-64020d92bbd0",
       "confidence": "0.7314188",
       "timestamp": 460,
-      "content": "in the invitation number 141 from winter 1996 short story was called ghosting"
+      "content": "in the invitation number 141 from winter 1996 short story was called ghosting",
+      "uuid": "8b70e569-5207-4eda-8fd5-4dc6343d9f96"
     },
-    "470": {
+    {
       "requestid": "56010c94-1cdc-48a3-a316-ce44b94a022a",
       "confidence": "0.8056486",
       "timestamp": 470,
-      "content": "I was the first thing I thought of when I read over the at the the brief on this case which involves a different kind of goes"
+      "content": "I was the first thing I thought of when I read over the at the the brief on this case which involves a different kind of goes",
+      "uuid": "6172a299-a3f4-4e70-88b5-07161ea11203"
     },
-    "480": {
+    {
       "requestid": "44dc3d2c-36e9-48e9-853b-7bc93b9b2a62",
       "confidence": "0.5653864",
       "timestamp": 480,
-      "content": "this with payment ghostwriting and dad and that's about it drives about apartment in new york inherits the maintenance stocker but yeah but your story is about"
+      "content": "this with payment ghostwriting and dad and that's about it drives about apartment in new york inherits the maintenance stocker but yeah but your story is about",
+      "uuid": "21610849-c03d-4cff-9e82-b373b9779b97"
     },
-    "490": {
+    {
       "requestid": "9f6ffb2d-6559-48be-abfe-07b4b1d8ca80",
       "confidence": "0.5647249",
       "timestamp": 490,
-      "content": "I'll even parties I'm not saying anything 4 or before they even begin without saying anything which is also called ghosting"
+      "content": "I'll even parties I'm not saying anything 4 or before they even begin without saying anything which is also called ghosting",
+      "uuid": "5d2b6121-00cd-4e49-8ec1-8c257d830533"
     },
-    "500": {
+    {
       "requestid": "a3749545-de58-4129-8ba2-39ae55ebb899",
       "confidence": "0.6109211",
       "timestamp": 500,
-      "content": "are in so that's what I thought it was the first thing I thought of you guys because I am a narcissist usually only myself but the"
+      "content": "are in so that's what I thought it was the first thing I thought of you guys because I am a narcissist usually only myself but the",
+      "uuid": "bf34da28-802e-43fc-b8be-c402f8165a28"
     },
-    "510": {
+    {
       "requestid": "612fb299-df81-4398-af12-ddcca28399e6",
       "confidence": "0.5999467",
       "timestamp": 510,
-      "content": "having reread the story now im family surprised if they published a very merry throwing up a time in the morning possible now that I look"
+      "content": "having reread the story now im family surprised if they published a very merry throwing up a time in the morning possible now that I look",
+      "uuid": "60d94574-1ff9-42e3-99d8-0cd4e108ae39"
     },
-    "520": {
+    {
       "requestid": "06f5c700-32f0-4908-8dcf-618ba0065dbb",
       "confidence": "0.5733081",
       "timestamp": 520,
-      "content": "open it up but I thought it sounded very professional fashion well you know it was a ride I spell the words correctly and I was professional"
+      "content": "open it up but I thought it sounded very professional fashion well you know it was a ride I spell the words correctly and I was professional",
+      "uuid": "9a3625a6-bf8d-4f46-afb2-bc0214f2c1a9"
     },
-    "530": {
+    {
       "requestid": "f8cb0614-886b-4ce3-8aa5-ab6af741e995",
       "confidence": "0.588741",
       "timestamp": 530,
-      "content": "out of the bottom by my garage with something so that was a big thrill for me and allows me to say something else to destroy my life and I like which is alive I'm prob"
+      "content": "out of the bottom by my garage with something so that was a big thrill for me and allows me to say something else to destroy my life and I like which is alive I'm prob",
+      "uuid": "15ece8d9-e819-4fc6-a4f0-72158d279b9f"
     },
-    "540": {
+    {
       "requestid": "51add5b9-c7d7-4f08-b338-031b0a89585e",
       "confidence": "0.5761874",
       "timestamp": 540,
-      "content": "we won american people in public pozna paris review and mad magazine number happy set up writing for me coz it's not really a very good story but I will say that there"
+      "content": "we won american people in public pozna paris review and mad magazine number happy set up writing for me coz it's not really a very good story but I will say that there",
+      "uuid": "5ae367d3-23ad-4094-97d0-d0f248313153"
     },
-    "550": {
+    {
       "requestid": "1902b987-34a1-4148-b0e7-b58f0428ae62",
       "confidence": "0.7205067",
       "timestamp": 550,
-      "content": "great great great story in that particular issue number 141 if you wanna dig up the issue or just buy her book collection of short stories of the event sleep I appeared in"
+      "content": "great great great story in that particular issue number 141 if you wanna dig up the issue or just buy her book collection of short stories of the event sleep I appeared in",
+      "uuid": "977aa98a-78bc-4820-bcf0-ad94ebaa11f0"
     },
-    "560": {
+    {
       "requestid": "218fc2b5-171a-4a66-8c4f-3c67952afbcf",
       "confidence": "0.772171",
       "timestamp": 560,
-      "content": "our friend of the show elizabeth gilbert is how I got to know her she published in the same issue a short story called the famous porn and restored lit cigarette trick with"
+      "content": "our friend of the show elizabeth gilbert is how I got to know her she published in the same issue a short story called the famous porn and restored lit cigarette trick with",
+      "uuid": "c13acb2c-e19d-4d4a-92b8-e4e187d4833a"
     },
-    "570": {
+    {
       "requestid": "6c72e425-34cc-4d62-a443-34fca42e165b",
       "confidence": "0.7111269",
       "timestamp": 570,
-      "content": "greatest short story of most times I think that lady from the paris review issue number 141 from 1996 am"
+      "content": "greatest short story of most times I think that lady from the paris review issue number 141 from 1996 am",
+      "uuid": "11148d77-66ec-497b-a772-36356a3718b5"
     },
-    "580": {
+    {
       "requestid": "41c2f333-890d-44d5-ada3-52757431f72a",
       "confidence": "0.6932191",
       "timestamp": 580,
-      "content": "there you have it alone ancient history lesson for you 2 guys and a chance for me to plug something that I can't even sell anymore"
+      "content": "there you have it alone ancient history lesson for you 2 guys and a chance for me to plug something that I can't even sell anymore",
+      "uuid": "1c1607b2-f955-4215-82e9-2d03680f0ed1"
     },
-    "590": {
+    {
       "requestid": "fb47487d-fe57-4a80-8936-65460e6a2b14",
       "confidence": "0.5975063",
       "timestamp": 590,
-      "content": "any case of let's talk about those thinkpad in law you could have that you have filed a complaint against chris you do you say that chris"
+      "content": "any case of let's talk about those thinkpad in law you could have that you have filed a complaint against chris you do you say that chris",
+      "uuid": "440f377f-a455-4b0b-ab02-c5e8a248072c"
     },
-    "600": {
+    {
       "requestid": "cd245015-d7cd-4494-8267-88312d3f02e2",
       "confidence": "0.6073254",
       "timestamp": 600,
-      "content": "is it poster what does that mean do you know what's going on I phone file the case because chris is how to tennessee in the long amount on the mountain high"
+      "content": "is it poster what does that mean do you know what's going on I phone file the case because chris is how to tennessee in the long amount on the mountain high",
+      "uuid": "1d3075e1-7327-4f99-ae60-993469227fc1"
     },
-    "610": {
+    {
       "requestid": "8cd736d8-c3bd-4683-9bc8-7e2ab6f785b1",
       "confidence": "0.686627",
       "timestamp": 610,
-      "content": "in 21 sweet made plans the following day or maybe 2 days out you not really long term when it comes time to you in"
+      "content": "in 21 sweet made plans the following day or maybe 2 days out you not really long term when it comes time to you in",
+      "uuid": "34244c4b-2504-498d-bfaa-05e66b4630b5"
     },
-    "620": {
+    {
       "requestid": "194e1511-2f1f-4df1-8776-89c324fe4c48",
       "confidence": "0.6432954",
       "timestamp": 620,
-      "content": "jason said plans I'm all maybe try and contact them from calling or on text message or another popular social media"
+      "content": "jason said plans I'm all maybe try and contact them from calling or on text message or another popular social media",
+      "uuid": "6ee6a0e1-8ee8-4c81-84fc-9352029e8449"
     },
-    "630": {
+    {
       "requestid": "cb8ce648-8660-4e10-9c9f-bd1567bf466c",
       "confidence": "0.5789187",
       "timestamp": 630,
-      "content": "inside of an ant hill just disappear he goes off the radar and he will be rediscovered I'd be like in philadelphia"
+      "content": "inside of an ant hill just disappear he goes off the radar and he will be rediscovered I'd be like in philadelphia",
+      "uuid": "aac04523-b3bc-4dcd-8b4a-3138ee2ce020"
     },
-    "640": {
+    {
       "requestid": "f951d647-257e-477f-b666-c997c63dd9b1",
       "confidence": "0.6379308",
       "timestamp": 640,
-      "content": "time pass that will both forget about it and we won't address it in will just move on words with are on our friendship and then any other then he might"
+      "content": "time pass that will both forget about it and we won't address it in will just move on words with are on our friendship and then any other then he might",
+      "uuid": "1f9990c6-710f-4d53-b911-5a990b5367c2"
     },
-    "650": {
+    {
       "requestid": "3332cc09-894e-403e-ac9e-7169d101cb01",
       "confidence": "0.758884",
       "timestamp": 650,
-      "content": "young asian together so it is not sound like a particularly sound foundation for a friendship where one person is discourteous to the other and the other purse"
+      "content": "young asian together so it is not sound like a particularly sound foundation for a friendship where one person is discourteous to the other and the other purse",
+      "uuid": "6da97f3a-783a-41fa-a406-1116a5b33472"
     },
-    "660": {
+    {
       "requestid": "db63d0b5-a2ea-4086-a881-bb935ca53a01",
       "confidence": "0.7478226",
       "timestamp": 660,
-      "content": "simply eat it and put it down inside and then no nevermind is it again you pretend it never happened it's a great foundation for marriage but you guys are married here for"
+      "content": "simply eat it and put it down inside and then no nevermind is it again you pretend it never happened it's a great foundation for marriage but you guys are married here for",
+      "uuid": "aae0f81d-a2ee-4e47-bb5f-cff21f5baa4c"
     },
-    "670": {
+    {
       "requestid": "cf2afe32-1987-47eb-8bb5-67bffeb47dbc",
       "confidence": "0.7098473",
       "timestamp": 670,
-      "content": "so are what would you have me order specifically it sounds like ted your complain is the christian crystal make some plans and then you'll tempt follow up"
+      "content": "so are what would you have me order specifically it sounds like ted your complain is the christian crystal make some plans and then you'll tempt follow up",
+      "uuid": "af9420fb-ec29-4f98-903b-2d72af000126"
     },
-    "680": {
+    {
       "requestid": "646be6f4-4037-44ac-a15c-21175fe743b6",
       "confidence": "0.6850746",
       "timestamp": 680,
-      "content": "chris just doesn't respond and then the thing either happens without a more doesn't happen at all is that right that's correct in the issue is poses"
+      "content": "chris just doesn't respond and then the thing either happens without a more doesn't happen at all is that right that's correct in the issue is poses",
+      "uuid": "af7a13c8-a495-4bc0-9e6b-a84ff11b16f4"
     },
-    "690": {
+    {
       "requestid": "9bbf9d35-1419-492b-89eb-568ebe7db6e1",
       "confidence": "0.6393397",
       "timestamp": 690,
-      "content": "is that if I depend on those plans I don't make other plans to work in a regular job that is pretty much 95 every weekday alarm"
+      "content": "is that if I depend on those plans I don't make other plans to work in a regular job that is pretty much 95 every weekday alarm",
+      "uuid": "a1eb9fe8-4a8b-4dec-9410-abc19ff077a8"
     },
-    "700": {
+    {
       "requestid": "906c42e8-652e-495b-968c-c935ded82452",
       "confidence": "0.661043",
       "timestamp": 700,
-      "content": "do we can get belly full time and if I'm depending on at 2 o'clock on monday june the sixth of ukraine 2 o'clock rolled around or maybe even like noon rolls around"
+      "content": "do we can get belly full time and if I'm depending on at 2 o'clock on monday june the sixth of ukraine 2 o'clock rolled around or maybe even like noon rolls around",
+      "uuid": "a9319ffc-035f-48af-8f41-ded3530d16ca"
     },
-    "710": {
+    {
       "requestid": "7806fa6c-d832-4ec7-bfc4-77665020bbdc",
       "confidence": "0.6955823",
       "timestamp": 710,
-      "content": "he disappears I forfeited that day for other plans with people me a specific example of how you been inconvenienced so your at your regular job rendering duck"
+      "content": "he disappears I forfeited that day for other plans with people me a specific example of how you been inconvenienced so your at your regular job rendering duck",
+      "uuid": "c080f7a0-5d81-45cc-b425-5f0131a59958"
     },
-    "720": {
+    {
       "requestid": "d9b0e1d6-b3d1-4823-8285-2a105a2839dc",
       "confidence": "0.5922075",
       "timestamp": 720,
-      "content": "at to put into french not right now what is your regular job I'm an adult and family services"
+      "content": "at to put into french not right now what is your regular job I'm an adult and family services",
+      "uuid": "88cecd5f-f4f3-47e2-81a2-acec8a2a61ee"
     },
-    "730": {
+    {
       "requestid": "c70adee0-3bcd-4648-8d49-b68a65ec4df4",
       "confidence": "0.4585243",
       "timestamp": 730,
-      "content": "oh well not as delicious"
+      "content": "oh well not as delicious",
+      "uuid": "ce45fc77-9d51-40c2-a061-22e7a7c19505"
     },
-    "740": {
+    {
       "requestid": "cf511dcb-0838-4c8a-aab5-0fa09c74f9c0",
       "confidence": "0.6713817",
       "timestamp": 740,
-      "content": "oh your life is been inconvenienced specific example which is of course the soul of meredith we ride motorcycles really nice <profanity>boobs</profanity> on bikes"
+      "content": "oh your life is been inconvenienced specific example which is of course the soul of meredith we ride motorcycles really nice <profanity>boobs</profanity> on bikes",
+      "uuid": "8679310c-2eb9-425c-ae6c-bd1677b946c6"
     },
-    "750": {
+    {
       "requestid": "673acf61-9941-408d-a5b7-cfe31c4f710e",
       "confidence": "0.6023125",
       "timestamp": 750,
-      "content": "enjoy that an hour back in portland oregon for sale in their use and it's a respectable who is it back in or is that too"
+      "content": "enjoy that an hour back in portland oregon for sale in their use and it's a respectable who is it back in or is that too",
+      "uuid": "4a5f0f31-e061-42ac-84b9-f908cff34dce"
     },
-    "760": {
+    {
       "requestid": "9c5470f5-d21a-4a3c-ad6e-d68393870abf",
       "confidence": "0.6437607",
       "timestamp": 760,
-      "content": "when you are the new car work so will really work on bikes together and I'm not too long ago is slated for bed I think 2 o'clock in the afternoon"
+      "content": "when you are the new car work so will really work on bikes together and I'm not too long ago is slated for bed I think 2 o'clock in the afternoon",
+      "uuid": "7d6cde77-d770-415b-a219-6702485603b2"
     },
-    "770": {
+    {
       "requestid": "741cd643-a481-4f51-bd59-401694337f90",
       "confidence": "0.6439333",
       "timestamp": 770,
-      "content": "me to chris's apartment to do some work on his bike and some work on monday 12 and so on my my girlfriend well soon as many times I'm"
+      "content": "me to chris's apartment to do some work on his bike and some work on monday 12 and so on my my girlfriend well soon as many times I'm",
+      "uuid": "871409c8-a390-4a50-8a65-570e817005bc"
     },
-    "780": {
+    {
       "requestid": "3a8f6814-5337-4f10-bef7-bf2b89b76e52",
       "confidence": "0.5620279",
       "timestamp": 780,
-      "content": "go to chris I had wanted to know what is it today and if maybe I could go with her and her daughters to the museum or did you know park"
+      "content": "go to chris I had wanted to know what is it today and if maybe I could go with her and her daughters to the museum or did you know park",
+      "uuid": "b08b8e8a-121c-4cf5-89a7-3585759f6e54"
     },
-    "790": {
+    {
       "requestid": "62b395cd-ae51-4e42-a3a7-bd2bcf8207f0",
       "confidence": "0.6311905",
       "timestamp": 790,
-      "content": "samsung galaxy s is no I can't do that um I have to go do this is 2 o'clock with christopher so I'm waiting for something later in the day"
+      "content": "samsung galaxy s is no I can't do that um I have to go do this is 2 o'clock with christopher so I'm waiting for something later in the day",
+      "uuid": "5074cb69-35e3-4e56-a637-31d70293aa0c"
     },
-    "800": {
+    {
       "requestid": "8922ff1c-76ed-402b-9730-31ac6f2b340c",
       "confidence": "0.6611148",
       "timestamp": 800,
-      "content": "missing out on plans it might take up much of the day gotcha and then krister didn't show up for the motorcycle hand"
+      "content": "missing out on plans it might take up much of the day gotcha and then krister didn't show up for the motorcycle hand",
+      "uuid": "04af6a80-faf8-4cec-81c8-dc99267f061c"
     },
-    "810": {
+    {
       "requestid": "b79cbfe1-a7db-4dc9-9cab-37aca7491a7e",
       "confidence": "0.6496324",
       "timestamp": 810,
-      "content": "why he never responded and I feel I feel bad about showing of assemblies home I don't wanna be like an angry mother that teenagers bedroom door"
+      "content": "why he never responded and I feel I feel bad about showing of assemblies home I don't wanna be like an angry mother that teenagers bedroom door",
+      "uuid": "a1fe2862-599b-43f4-8881-333a7e5e920d"
     },
-    "820": {
+    {
       "requestid": "39c02737-47a1-4f4e-b3cb-94bb88994220",
       "confidence": "0.5822229",
       "timestamp": 820,
-      "content": "motorcycle with my phone so I just sent a few messages and call you once and he was just awesome"
+      "content": "motorcycle with my phone so I just sent a few messages and call you once and he was just awesome",
+      "uuid": "6d8a7012-6295-478c-abef-261b485bbc92"
     },
-    "830": {
+    {
       "requestid": "90716355-e582-4fa3-9abb-5dddc8e63862",
       "confidence": "0.6584492",
       "timestamp": 830,
-      "content": "search for about 2 days until you <profanity>fucked up</profanity> again for 2 days you heard nothing back he could be too it could be a month you never know"
+      "content": "search for about 2 days until you <profanity>fucked up</profanity> again for 2 days you heard nothing back he could be too it could be a month you never know",
+      "uuid": "cf48360d-bbb3-4811-9bb2-e7d2a6380552"
     },
-    "840": {
+    {
       "requestid": "38cb407c-c012-45c5-8c6f-02dd0ccb416c",
       "confidence": "0.3677678",
       "timestamp": 840,
-      "content": "among overruled ok thought I was coming in and I don't think I've ever overruled nabj action"
+      "content": "among overruled ok thought I was coming in and I don't think I've ever overruled nabj action",
+      "uuid": "d7b99b5e-f983-423d-8925-7be596f32f07"
     },
-    "850": {
+    {
       "requestid": "426b5aa6-309b-46da-8b96-34db110201d6",
       "confidence": "0.5759114",
       "timestamp": 850,
-      "content": "yeah I feel great about that now I feel I feel really powerful 07 boston"
+      "content": "yeah I feel great about that now I feel I feel really powerful 07 boston",
+      "uuid": "429803d8-bf09-4dc2-b862-7f2baf906d52"
     },
-    "860": {
+    {
       "requestid": "bd20e2f9-45bd-4148-af44-6956cb7f7db8",
       "confidence": "0.5082938",
       "timestamp": 860,
-      "content": "heart rate so that would be one example yes vote on this is the time frame son is different opinion about with the event is there"
+      "content": "heart rate so that would be one example yes vote on this is the time frame son is different opinion about with the event is there",
+      "uuid": "3097ba13-f7f1-438f-874f-58343c4089e9"
     },
-    "870": {
+    {
       "requestid": "abb6921b-dee6-4d78-b4e7-9f695ea12c9b",
       "confidence": "0.7345799",
       "timestamp": 870,
-      "content": "what we have going on in our respective life so you would like me to do order specifically but whatever way way way to play"
+      "content": "what we have going on in our respective life so you would like me to do order specifically but whatever way way way to play",
+      "uuid": "784e9a39-36a5-4057-a2bb-34e0d97b2560"
     },
-    "880": {
+    {
       "requestid": "843f893e-ed53-4f5e-a9c1-04971f1c8b75",
       "confidence": "0.672506",
       "timestamp": 880,
-      "content": "ennes if you do you text or call chris to confirm it but he reply in are in a reason"
+      "content": "ennes if you do you text or call chris to confirm it but he reply in are in a reason",
+      "uuid": "3909c6ea-a719-4308-ad79-a3737b2765f7"
     },
-    "890": {
+    {
       "requestid": "95249014-bf69-4241-a81a-c3aac48147da",
       "confidence": "0.7301981",
       "timestamp": 890,
-      "content": "full amount of time is that is that we could I'm talking about what do you order is not gonna happen if he changes his mind he doesn't wanna do it just let me know just let me know"
+      "content": "full amount of time is that is that we could I'm talking about what do you order is not gonna happen if he changes his mind he doesn't wanna do it just let me know just let me know",
+      "uuid": "da7b4da7-afd5-410d-816e-01f77b17d81e"
     },
-    "900": {
+    {
       "requestid": "ec2fcae1-bf32-44da-9214-330cac8d27ba",
       "confidence": "0.4351289",
       "timestamp": 900,
-      "content": "next that's all I'm sorry I don't have to go see him but probably done then yeah but if you like it"
+      "content": "next that's all I'm sorry I don't have to go see him but probably done then yeah but if you like it",
+      "uuid": "d2052851-2bff-46da-9c04-6814ad6bb8be"
     },
-    "910": {
+    {
       "requestid": "7d468c23-398e-4c37-a56b-120d858e69d9",
       "confidence": "0.6599982",
       "timestamp": 910,
-      "content": "great now I can know I can make other plans we both can have a fun portland weekend alright thank you now"
+      "content": "great now I can know I can make other plans we both can have a fun portland weekend alright thank you now",
+      "uuid": "90703702-7769-4c7b-9a18-1bd0f67fa0f9"
     },
-    "920": {
+    {
       "requestid": "7042c0f6-4ad7-4e2c-b0fa-fd14581af2bd",
       "confidence": "0.6344866",
       "timestamp": 920,
-      "content": "it's really get to hear your side of the story house ok love ya but not a lot but I'm just feeling so excited about over ruling you laughed at you why"
+      "content": "it's really get to hear your side of the story house ok love ya but not a lot but I'm just feeling so excited about over ruling you laughed at you why",
+      "uuid": "efe07a91-4ed0-4823-9e5f-0b7fe7bd5610"
     },
-    "930": {
+    {
       "requestid": "c9041ef1-a736-4672-ad70-4098a305dc9a",
       "confidence": "0.685709",
       "timestamp": 930,
-      "content": "please let ted requests unreasonable you know if it's not unreasonable come in"
+      "content": "please let ted requests unreasonable you know if it's not unreasonable come in",
+      "uuid": "80f88d1a-5686-49e5-9a34-abd5741b7efe"
     },
-    "940": {
+    {
       "requestid": "65c62c91-43ca-45e6-ab59-d857daf26b2e",
       "confidence": "0.5213255",
       "timestamp": 940,
-      "content": "I suppose like in the fairness of friendship and overruled sorry I'll try again I say I'm out of order ipod"
+      "content": "I suppose like in the fairness of friendship and overruled sorry I'll try again I say I'm out of order ipod",
+      "uuid": "83456fd7-22bb-4011-b698-52d01afea8dd"
     },
-    "950": {
+    {
       "requestid": "f9ae38bd-af1a-4395-bf78-8f9afdb9e0c9",
       "confidence": "0.5419698",
       "timestamp": 950,
-      "content": "I just so excited about it um so yeah like I was saying I don't think that his recommendation irvingia"
+      "content": "I just so excited about it um so yeah like I was saying I don't think that his recommendation irvingia",
+      "uuid": "b05b426f-815a-47a2-9a73-c0f4db6165a6"
     },
-    "960": {
+    {
       "requestid": "1a91cf67-eac2-43d6-9c05-c681a0c8d663",
       "confidence": "0.498255",
       "timestamp": 960,
-      "content": "he wants when it is unfair am now have I done this season of town yeah I had the most things come by"
+      "content": "he wants when it is unfair am now have I done this season of town yeah I had the most things come by",
+      "uuid": "1e528d24-231c-45db-b27d-39da37137e28"
     },
-    "970": {
+    {
       "requestid": "b567a0a5-8100-49fe-8029-bc07d10e7198",
       "confidence": "0.5747253",
       "timestamp": 970,
-      "content": "goodnight moon why are you doing he said I don't know it's a so I can have like a little bit about life social anxiety can I buy"
+      "content": "goodnight moon why are you doing he said I don't know it's a so I can have like a little bit about life social anxiety can I buy",
+      "uuid": "421115e1-200c-4299-a07a-34ba32396964"
     },
-    "980": {
+    {
       "requestid": "7fe5de03-229f-4ce1-937a-2bb72d380a09",
       "confidence": "0.5150798",
       "timestamp": 980,
-      "content": "quit I will call them issues or anything like apple do you do you think I may do you think it is basically a part of it is late too"
+      "content": "quit I will call them issues or anything like apple do you do you think I may do you think it is basically a part of it is late too",
+      "uuid": "af933eaf-8179-4cff-8605-ba7fa3de0de2"
     },
-    "990": {
+    {
       "requestid": "16a7eefe-8190-49a7-b962-070b00171028",
       "confidence": "0.7469358",
       "timestamp": 990,
-      "content": "make plans to do something and then for whatever reason say I'm out trying to get the number for hand and it's not done before hand and I can get back in time for AF"
+      "content": "make plans to do something and then for whatever reason say I'm out trying to get the number for hand and it's not done before hand and I can get back in time for AF",
+      "uuid": "0a2dd094-c7f1-415a-8de1-83a820384771"
     },
-    "1000": {
+    {
       "requestid": "9fb255bf-ef0e-4e56-bda3-36ebe054c44f",
       "confidence": "0.6855713",
       "timestamp": 1000,
-      "content": "last night I really had it on me like I won't respond and in my head it easier to just now responding to go to the process of"
+      "content": "last night I really had it on me like I won't respond and in my head it easier to just now responding to go to the process of",
+      "uuid": "c9a60774-1773-4f40-a8d6-e1bc58c5958d"
     },
-    "1010": {
+    {
       "requestid": "f8e3727c-59af-4f35-8775-55df82b84381",
       "confidence": "0.5608689",
       "timestamp": 1010,
-      "content": "verbally or text julie wedding somebody down in birmingham out so I tried it I avoid those things and I know this is silly response but I do"
+      "content": "verbally or text julie wedding somebody down in birmingham out so I tried it I avoid those things and I know this is silly response but I do",
+      "uuid": "0763eb23-07dc-4bee-9e3e-ae163c01efdc"
     },
-    "1020": {
+    {
       "requestid": "5bc75851-37f5-4528-b6a1-61df5ce89502",
       "confidence": "0.6801421",
       "timestamp": 1020,
-      "content": "it's not silly I mean I certainly can't argue that not doing something is easier than doing something by yes of"
+      "content": "it's not silly I mean I certainly can't argue that not doing something is easier than doing something by yes of",
+      "uuid": "6638f965-0367-4326-b4df-018b2f7e968c"
     },
-    "1030": {
+    {
       "requestid": "ac5827ba-26b5-4eef-9c59-48979f1bc328",
       "confidence": "0.7473965",
       "timestamp": 1030,
-      "content": "but II have some follow up questions first of all why what is what is your age and what is the age of ted so I am 31 and 10 will be 30 in"
+      "content": "but II have some follow up questions first of all why what is what is your age and what is the age of ted so I am 31 and 10 will be 30 in",
+      "uuid": "3796f22e-6920-47df-9093-379137029bc7"
     },
-    "1040": {
+    {
       "requestid": "1a9fa2ba-769b-46a1-a016-bffa93caf22e",
       "confidence": "0.5847893",
       "timestamp": 1040,
-      "content": "december and you guys and 29 right now you guys are long time pals yes it tonight first met in college to college together in colorado"
+      "content": "december and you guys and 29 right now you guys are long time pals yes it tonight first met in college to college together in colorado",
+      "uuid": "5c974c48-c411-4ec4-88c7-a060feac3484"
     },
-    "1050": {
+    {
       "requestid": "53de3775-0cf3-41db-98c2-e0acfa73184f",
       "confidence": "0.6941184",
       "timestamp": 1050,
-      "content": "oh I have 2003 board 2004 is one make sense and we first met and you're not here not from portland oregon"
+      "content": "oh I have 2003 board 2004 is one make sense and we first met and you're not here not from portland oregon",
+      "uuid": "647c6758-d0f9-4f58-a01e-2186d6aaf4a7"
     },
-    "1060": {
+    {
       "requestid": "42dcfdc1-0701-4a14-b0b8-15f47f74fc29",
       "confidence": "0.5528392",
       "timestamp": 1060,
-      "content": "taxi from alaska intense from wisconsin school together in the same school and I'm here"
+      "content": "taxi from alaska intense from wisconsin school together in the same school and I'm here",
+      "uuid": "395748e7-49b7-4484-8eda-b6c47a813c5d"
     },
-    "1070": {
+    {
       "requestid": "a7118e71-f6b6-4d67-bb21-92e07611a563",
       "confidence": "0.6528658",
       "timestamp": 1070,
-      "content": "where in alaska are you from chris I'm from eagle river alaska which is just so you know little bit north of anchorage about 30 miles"
+      "content": "where in alaska are you from chris I'm from eagle river alaska which is just so you know little bit north of anchorage about 30 miles",
+      "uuid": "e71d0118-ef73-41dd-90ce-f7c94cca1a25"
     },
-    "1080": {
+    {
       "requestid": "f0e70abf-7903-4460-b245-0800ee7aaf6a",
       "confidence": "0.7306057",
       "timestamp": 1080,
-      "content": "so you guys moved to port portland oregon together I'm sorry if I moved out here I with another friend of the time in and ted was kind of"
+      "content": "so you guys moved to port portland oregon together I'm sorry if I moved out here I with another friend of the time in and ted was kind of",
+      "uuid": "794debb4-32bc-43ca-ad6d-4fbf74536d96"
     },
-    "1090": {
+    {
       "requestid": "acf9be33-de5a-49a3-8bb6-2839980055bf",
       "confidence": "0.5870602",
       "timestamp": 1090,
-      "content": "I just wrapping around like do you know where he was gonna be here when is gonna do you to find a sitter in school if I talk better do this for any kind of yes I will"
+      "content": "I just wrapping around like do you know where he was gonna be here when is gonna do you to find a sitter in school if I talk better do this for any kind of yes I will",
+      "uuid": "66d920bf-2611-42d9-90d5-2c0dd7914e4e"
     },
-    "1100": {
+    {
       "requestid": "e33af95f-2042-4083-9375-5941fcb9ac53",
       "confidence": "0.4073677",
       "timestamp": 1100,
-      "content": "you're a <profanity>homo</profanity> sapien yeah that's right I put it in bent wrestling and good natured you so much right around"
+      "content": "you're a <profanity>homo</profanity> sapien yeah that's right I put it in bent wrestling and good natured you so much right around",
+      "uuid": "beff1ecd-003f-4397-9126-5e26463c8d1e"
     },
-    "1110": {
+    {
       "requestid": "8b3dcbca-8957-42e7-b7be-2be677fff46d",
       "confidence": "0.487449",
       "timestamp": 1110,
-      "content": "howard lee hooker"
+      "content": "howard lee hooker",
+      "uuid": "d61a3570-c5e3-48ef-ba33-5c563c7e410a"
     },
-    "1120": {
+    {
       "requestid": "c2fd69ad-ce39-4cef-8d16-f73cd8392a97",
       "confidence": "0.6366198",
       "timestamp": 1120,
-      "content": "the end up in portland and probably like 5 months after I didn't know how do you know do you have an occupation chris I do you have"
+      "content": "the end up in portland and probably like 5 months after I didn't know how do you know do you have an occupation chris I do you have",
+      "uuid": "a7766c1f-d940-4628-a56b-9e596acf6593"
     },
-    "1130": {
+    {
       "requestid": "00fa6f41-62ae-42a0-b25d-aadedd0d2cf0",
       "confidence": "0.6202555",
       "timestamp": 1130,
-      "content": "I love you and I make any sales and marketing account management for a local outerwear company officials portland oregon ok"
+      "content": "I love you and I make any sales and marketing account management for a local outerwear company officials portland oregon ok",
+      "uuid": "b277aaef-c2b6-45af-9337-bf0179f0a15d"
     },
-    "1140": {
+    {
       "requestid": "fa4f7ad9-a104-41a2-9ec1-8e27d2778883",
       "confidence": "0.6456113",
       "timestamp": 1140,
-      "content": "ah ok I won't say the name of the is the pendleton it is not is not smart up"
+      "content": "ah ok I won't say the name of the is the pendleton it is not is not smart up",
+      "uuid": "28713b1a-e9e0-48ae-a3bd-b9245a9348ab"
     },
-    "1150": {
+    {
       "requestid": "36498eda-ecbb-4e65-9aca-3efe019e549a",
       "confidence": "0.4670977",
       "timestamp": 1150,
-      "content": "where is it handle"
+      "content": "where is it handle",
+      "uuid": "c502626a-2797-4332-a5a3-aaf93de22de9"
     },
-    "1160": {
+    {
       "requestid": "b67c2c1f-af6b-482f-8a14-02a9647df08d",
       "confidence": "0.4697907",
       "timestamp": 1160,
-      "content": "are you the file their brand not anymore it's just handle it handle it up bros"
+      "content": "are you the file their brand not anymore it's just handle it handle it up bros",
+      "uuid": "fa909ea1-aba7-4961-a41a-5bc0ef1e5b6e"
     },
-    "1170": {
+    {
       "requestid": "c3c60e47-1bf2-421a-be04-9c707583491c",
       "confidence": "0.6641541",
       "timestamp": 1170,
-      "content": "and I are at well believe it to our listeners imagination is what it is you do all day because not only badem you do"
+      "content": "and I are at well believe it to our listeners imagination is what it is you do all day because not only badem you do",
+      "uuid": "7695df65-c954-4c3f-8728-1377e10dd82f"
     },
-    "1180": {
+    {
       "requestid": "99c426c1-b13e-4d5a-a215-1abd99f8a457",
       "confidence": "0.6759579",
       "timestamp": 1180,
-      "content": "honor this podcast by not mentioning the brand but also know that you are in sales and marketing in bag you might as well be a sorceress far is I'm yeah I have the same reason"
+      "content": "honor this podcast by not mentioning the brand but also know that you are in sales and marketing in bag you might as well be a sorceress far is I'm yeah I have the same reason",
+      "uuid": "1d60fc55-9270-467e-81d9-8b3c45820ef6"
     },
-    "1190": {
+    {
       "requestid": "f0ffbf21-ca54-4e6a-afe4-0c78f4bf67c2",
       "confidence": "0.760692",
       "timestamp": 1190,
-      "content": "I don't know what that's all about what you say your couple young dudes like to ride motorcycles oak yes literally easier not to respond but let me ask you had accused you of"
+      "content": "I don't know what that's all about what you say your couple young dudes like to ride motorcycles oak yes literally easier not to respond but let me ask you had accused you of",
+      "uuid": "37fb489c-8feb-404c-992d-1bab7a4d430c"
     },
-    "1200": {
+    {
       "requestid": "6ca7227b-a0de-4b30-8146-64c4b06d6900",
       "confidence": "0.6724209",
       "timestamp": 1200,
-      "content": "not responding within days away is that is that true I yeah I would too that's correct with any accuse you of not responding with"
+      "content": "not responding within days away is that is that true I yeah I would too that's correct with any accuse you of not responding with",
+      "uuid": "b099e887-a665-490f-a1ba-74500218f6a3"
     },
-    "1210": {
+    {
       "requestid": "a16d17e0-dd3c-4d4d-8631-8b7e536ad644",
       "confidence": "0.6550242",
       "timestamp": 1210,
-      "content": "in months and that's a long time and you objected and you may recall overrule did I do now I wanna hear what it outlet strip the mall"
+      "content": "in months and that's a long time and you objected and you may recall overrule did I do now I wanna hear what it outlet strip the mall",
+      "uuid": "8aa6ee46-2656-4383-8b68-9bc9416fbe51"
     },
-    "1220": {
+    {
       "requestid": "e95d8ad7-3332-4939-aaad-b91ca3001445",
       "confidence": "0.6869672",
       "timestamp": 1220,
-      "content": "no I don't think there's ever been a whole 4 week span is gone by then I have not replied to 10 what's the weather I would say that the most"
+      "content": "no I don't think there's ever been a whole 4 week span is gone by then I have not replied to 10 what's the weather I would say that the most",
+      "uuid": "08d2ef84-8411-456b-9acc-7f5519523d89"
     },
-    "1230": {
+    {
       "requestid": "93190659-df1c-4de0-90e5-103970216b8f",
       "confidence": "0.5925165",
       "timestamp": 1230,
-      "content": "lego viveme db 4 days inn and that's only because it's a plan made it to do it on the weekend of the work week"
+      "content": "lego viveme db 4 days inn and that's only because it's a plan made it to do it on the weekend of the work week",
+      "uuid": "6d1a0f12-4b5f-4b9c-ad56-788180bd4561"
     },
-    "1240": {
+    {
       "requestid": "7b4008c3-b0b2-42f4-8528-ab465499c1ab",
       "confidence": "0.5661139",
       "timestamp": 1240,
-      "content": "it's crazy you know I'm gonna make it when I arrived at an empty apartment and you were gone when I love you"
+      "content": "it's crazy you know I'm gonna make it when I arrived at an empty apartment and you were gone when I love you",
+      "uuid": "f4f6ad61-4092-46f5-80e0-901f49d74681"
     },
-    "1250": {
+    {
       "requestid": "63ab944f-d61c-4778-84e8-11c240632ccb",
       "confidence": "0.5490716",
       "timestamp": 1250,
-      "content": "my way to wait a minute what what happened to fuse me chris ted I don't wanna get up"
+      "content": "my way to wait a minute what what happened to fuse me chris ted I don't wanna get up",
+      "uuid": "154e4ddb-8574-4a5c-8a1b-c1a7c103668d"
     },
-    "1260": {
+    {
       "requestid": "c2eac709-c735-49ec-b292-8c01cfb9f92f",
       "confidence": "0.4934911",
       "timestamp": 1260,
-      "content": "personal life he was even dating a person and they lived together in from win win chris is english"
+      "content": "personal life he was even dating a person and they lived together in from win win chris is english",
+      "uuid": "3837eb91-7f9f-45a5-96d8-785896677f71"
     },
-    "1270": {
+    {
       "requestid": "6256cb40-5809-492a-a5c3-fd3af5b500ac",
       "confidence": "0.6182277",
       "timestamp": 1270,
-      "content": "wish I admire and other people may fall to the wayside bus so he is not been responsive for sometime in so I"
+      "content": "wish I admire and other people may fall to the wayside bus so he is not been responsive for sometime in so I",
+      "uuid": "7f9baded-402f-428f-9934-27198ac2f871"
     },
-    "1280": {
+    {
       "requestid": "c9ed51f7-0f1e-4253-bdfe-83e53c58cfa2",
       "confidence": "0.6461577",
       "timestamp": 1280,
-      "content": "I win against my better judgement I became teenage teenagers mother I did want to be in a cup and I was gonna stop by is it"
+      "content": "I win against my better judgement I became teenage teenagers mother I did want to be in a cup and I was gonna stop by is it",
+      "uuid": "123ca37e-36d8-45ad-b1c2-07cf7dc8a666"
     },
-    "1290": {
+    {
       "requestid": "4a9d11aa-26b6-4c9a-bb21-b925039bd865",
       "confidence": "0.6111667",
       "timestamp": 1290,
-      "content": "hey chris how you been its been a little while and there is nobody in his apartment because he had moved to different apartment not far"
+      "content": "hey chris how you been its been a little while and there is nobody in his apartment because he had moved to different apartment not far",
+      "uuid": "f298d1d4-3a23-4eee-9dfd-1bfc310e2d75"
     },
-    "1300": {
+    {
       "requestid": "3177b514-0b30-4c96-96c0-d27c7d2ff520",
       "confidence": "0.5696832",
       "timestamp": 1300,
-      "content": "adam it in his room at new apartments there instead of living together which I had no idea until I would leave"
+      "content": "adam it in his room at new apartments there instead of living together which I had no idea until I would leave",
+      "uuid": "cfa50922-3c6b-4d6f-a467-6e385015eac8"
     },
-    "1310": {
+    {
       "requestid": "545bee86-85f4-44b6-9281-c5da6e5196d9",
       "confidence": "0.739162",
       "timestamp": 1310,
-      "content": "and saw his truck is the new apartment building in called him and said what's up are you hanging out with a friend over here says no man I live here now"
+      "content": "and saw his truck is the new apartment building in called him and said what's up are you hanging out with a friend over here says no man I live here now",
+      "uuid": "89006ba3-8781-41b3-8fda-ad0b3c111292"
     },
-    "1320": {
+    {
       "requestid": "fae73edc-af58-4378-ae77-b6d79536719f",
       "confidence": "0.6224189",
       "timestamp": 1320,
-      "content": "find much to my surprise me a mare did you did you move without telling your friend ted I think there some discrepancies mastery in app"
+      "content": "find much to my surprise me a mare did you did you move without telling your friend ted I think there some discrepancies mastery in app",
+      "uuid": "fb27dece-1424-44bb-9b7f-a5c3c7b73441"
     },
-    "1330": {
+    {
       "requestid": "ad688321-b8e3-4663-9731-8b363978bf32",
       "confidence": "0.5722817",
       "timestamp": 1330,
-      "content": "I did move very sunny but they were outside factors in why did that happen so quickly that it just had to happen like it was wrong"
+      "content": "I did move very sunny but they were outside factors in why did that happen so quickly that it just had to happen like it was wrong",
+      "uuid": "5416bf27-7113-4fce-89f0-69fad104d927"
     },
-    "1340": {
+    {
       "requestid": "67b1aca3-83dc-4dd1-aab7-885ad837fe76",
       "confidence": "0.5090143",
       "timestamp": 1340,
-      "content": "it was a room yet gone wrong right so wrong yeah romance gone wrong and I don't want it was great time to seek support from your closest"
+      "content": "it was a room yet gone wrong right so wrong yeah romance gone wrong and I don't want it was great time to seek support from your closest",
+      "uuid": "07a87b16-de0a-49ef-acab-cd87f84b3303"
     },
-    "1350": {
+    {
       "requestid": "7df4c8a9-c8a5-409e-9a7e-7e8abef04996",
       "confidence": "0.4791764",
       "timestamp": 1350,
-      "content": "fryin pan head chris doesn't need for he's from alaska 90 yeah is culture"
+      "content": "fryin pan head chris doesn't need for he's from alaska 90 yeah is culture",
+      "uuid": "9fbe3565-9541-4ac2-bc6a-18fb90c8b6ea"
     },
-    "1360": {
+    {
       "requestid": "e4a88501-5830-4bf2-8aad-a2427f2973b9",
       "confidence": "0.5013455",
       "timestamp": 1360,
-      "content": "leon used to see relying upon or even hang out again yeah I definitely need help with him down as long as that is"
+      "content": "leon used to see relying upon or even hang out again yeah I definitely need help with him down as long as that is",
+      "uuid": "63989bc9-dc5d-454c-9159-9fdf5c683b6f"
     },
-    "1370": {
+    {
       "requestid": "042a7340-0280-42a7-96ea-7aa6af84687c",
       "confidence": "0.6331505",
       "timestamp": 1370,
-      "content": "shooting for breakfast and he'll never know also you are you are you young man you are not a lot 45"
+      "content": "shooting for breakfast and he'll never know also you are you are you young man you are not a lot 45",
+      "uuid": "92a19356-4f11-4fb2-8c6e-2eac21dd647e"
     },
-    "1380": {
+    {
       "requestid": "fe2d360a-b279-4f16-8ef5-0a80f49106b8",
       "confidence": "0.6410288",
       "timestamp": 1380,
-      "content": "have you rolled up bub family best bet family adults court were sending out or moving"
+      "content": "have you rolled up bub family best bet family adults court were sending out or moving",
+      "uuid": "71857583-a733-4d25-ac4f-03a7bad3e1b4"
     },
-    "1390": {
+    {
       "requestid": "24befca0-eb59-43e4-a1c5-ec1a0d75981a",
       "confidence": "0.5532907",
       "timestamp": 1390,
-      "content": "cards bring chris I know that you are culturally I'm used to having him and being"
+      "content": "cards bring chris I know that you are culturally I'm used to having him and being",
+      "uuid": "9afcd51f-c9c6-468e-ac13-e8a36bdf7ca1"
     },
-    "1400": {
+    {
       "requestid": "e268e0a8-ec6d-4e84-bfbd-516586ebeb84",
       "confidence": "0.5746233",
       "timestamp": 1400,
-      "content": "how does it feel to get to the grocery and use twitter tenaha better to not have it is a little off pudding"
+      "content": "how does it feel to get to the grocery and use twitter tenaha better to not have it is a little off pudding",
+      "uuid": "5d4add1e-639f-454e-9104-fcc6aacf25f8"
     },
-    "1410": {
+    {
       "requestid": "448fc909-f69c-475c-9cae-0de82906c58a",
       "confidence": "0.6122277",
       "timestamp": 1410,
-      "content": "times but I bet I don't know if you don't know thing is it's much appreciated I know is reluctant to buy"
+      "content": "times but I bet I don't know if you don't know thing is it's much appreciated I know is reluctant to buy",
+      "uuid": "1ae047f6-a3af-43c2-9e96-2a51b782d4f3"
     },
-    "1420": {
+    {
       "requestid": "a1c07372-61d6-4d00-97d1-afed88075d6d",
       "confidence": "0.6259423",
       "timestamp": 1420,
-      "content": "ask for it but when it when it happens if it doesn't even a rule in your favor I'm just saying bye daddy that you would"
+      "content": "ask for it but when it when it happens if it doesn't even a rule in your favor I'm just saying bye daddy that you would",
+      "uuid": "b1cf64fe-367c-48b3-a069-3b919eb19ff0"
     },
-    "1430": {
+    {
       "requestid": "580aeda0-36ab-4075-88f5-c491ba859214",
       "confidence": "0.5302346",
       "timestamp": 1430,
-      "content": "how mad I am adding I'm trying to tease out what's the know um um um crookston right now I'm at leading questions"
+      "content": "how mad I am adding I'm trying to tease out what's the know um um um crookston right now I'm at leading questions",
+      "uuid": "f9f23ff9-3a0d-45bd-b392-b237c105ec95"
     },
-    "1440": {
+    {
       "requestid": "aadf3944-2f0a-48d5-b9c1-e4973c250140",
       "confidence": "0.4848328",
       "timestamp": 1440,
-      "content": "I'm hot I'm hot black rocks I'm always up next time I'm at night so yeah chris"
+      "content": "I'm hot I'm hot black rocks I'm always up next time I'm at night so yeah chris",
+      "uuid": "ade68640-d828-466e-bddb-2eb953111c63"
     },
-    "1450": {
+    {
       "requestid": "29ee513b-c390-4cad-9dad-1d3789bb8498",
       "confidence": "0.3254737",
       "timestamp": 1450,
-      "content": "yeah ha"
+      "content": "yeah ha",
+      "uuid": "8bf64fa2-02bb-4642-834f-6838cab4df13"
     },
-    "1460": {
+    {
       "requestid": "1941d04e-d18e-4eb1-a209-af972416afd2",
       "confidence": "0.6307687",
       "timestamp": 1460,
-      "content": "well sometimes its plans are made in reality I foggy foggy state of mind late into the evening"
+      "content": "well sometimes its plans are made in reality I foggy foggy state of mind late into the evening",
+      "uuid": "faff1f5f-a534-40ba-9049-ca6774981fe1"
     },
-    "1470": {
+    {
       "requestid": "cb28a5f4-b182-45f0-bb2c-6bbc8ca53e95",
       "confidence": "0.6524408",
       "timestamp": 1470,
-      "content": "morning think we should do this tomorrow imma go sleep to do it and then the time comes and you know like I said I need it still recouping"
+      "content": "morning think we should do this tomorrow imma go sleep to do it and then the time comes and you know like I said I need it still recouping",
+      "uuid": "bf5a2db8-c111-4676-9bca-fa33a00b90ab"
     },
-    "1480": {
+    {
       "requestid": "d0bb71a8-7cb1-49aa-b62c-0aaee8774c60",
       "confidence": "0.6770455",
       "timestamp": 1480,
-      "content": "on another 4 or I try did do other things and then my time management is in the reason there sometimes if I will make the plans will be made"
+      "content": "on another 4 or I try did do other things and then my time management is in the reason there sometimes if I will make the plans will be made",
+      "uuid": "3817b68d-9694-42b6-9189-d3d3c1da5e4e"
     },
-    "1490": {
+    {
       "requestid": "3f49ab8d-b9b7-4841-a28d-e234ce0df19e",
       "confidence": "0.4815513",
       "timestamp": 1490,
-      "content": "imma say for example tech want to meet in the 11 is there been cases arrived in the ok with most were so mean and I will be there soon I will be there"
+      "content": "imma say for example tech want to meet in the 11 is there been cases arrived in the ok with most were so mean and I will be there soon I will be there",
+      "uuid": "d84525e4-7902-432b-8a9b-f5413de893e5"
     },
-    "1500": {
+    {
       "requestid": "320af64f-559d-4a53-8e30-495af5057137",
       "confidence": "0.6457802",
       "timestamp": 1500,
-      "content": "that was the plan I don't hear this planet anymore define is null and void and then I'm at a plant in but you don't even bought do you do you say that a note"
+      "content": "that was the plan I don't hear this planet anymore define is null and void and then I'm at a plant in but you don't even bought do you do you say that a note",
+      "uuid": "df3af637-93c2-49da-b184-42e4f7db706f"
     },
-    "1510": {
+    {
       "requestid": "304a680b-6419-4e3e-8f54-4ab38b954a47",
       "confidence": "0.7646836",
       "timestamp": 1510,
-      "content": "in the conversation or text you just you like wood 1:30 for get it all off all the social contract"
+      "content": "in the conversation or text you just you like wood 1:30 for get it all off all the social contract",
+      "uuid": "d9d7be1f-220d-40a7-a968-6b1ef3a2f07c"
     },
-    "1520": {
+    {
       "requestid": "b2f34397-2eaf-4a23-8db8-8445a90a65c6",
       "confidence": "0.6500385",
       "timestamp": 1520,
-      "content": "broken in and you're dead to me and I will not respond even if it feels wrong I don't want that to be the case that is the top of my head"
+      "content": "broken in and you're dead to me and I will not respond even if it feels wrong I don't want that to be the case that is the top of my head",
+      "uuid": "eae815c6-0328-466d-aabb-677cf04c4f3e"
     },
-    "1530": {
+    {
       "requestid": "329a6204-f0a2-4c67-a3d3-0f77150b67dd",
       "confidence": "0.5897302",
       "timestamp": 1530,
-      "content": "ur son is me to change the plan therefore I don't have to you in here to any of the contractual obligation communicative brother lives in"
+      "content": "ur son is me to change the plan therefore I don't have to you in here to any of the contractual obligation communicative brother lives in",
+      "uuid": "7f900df1-cd97-4aaf-b2b7-22b23becd0a8"
     },
-    "1540": {
+    {
       "requestid": "f5e99244-43d8-46aa-b7aa-366346be13e8",
       "confidence": "0.5841479",
       "timestamp": 1540,
-      "content": "that's my email is it is it true I submit it in in ted's by affidavit that you jumped out of a movie"
+      "content": "that's my email is it is it true I submit it in in ted's by affidavit that you jumped out of a movie",
+      "uuid": "be6c5950-377e-4629-8792-2ad83e2105b9"
     },
-    "1550": {
+    {
       "requestid": "df6ef23d-e69f-4867-8f7f-4b03fabb267b",
       "confidence": "0.7954541",
       "timestamp": 1550,
-      "content": "vehicle to get out of"
+      "content": "vehicle to get out of",
+      "uuid": "0c7dfb7b-ff65-4da6-bd5e-d47447ffabb2"
     },
-    "1560": {
+    {
       "requestid": "e51261de-dc92-4a71-9621-a54076531c9d",
       "confidence": "0.6159096",
       "timestamp": 1560,
-      "content": "it is true on those what happen there so I didn't jump in the truck to remove myself from a social situation I jumped out of a moving truck tonight"
+      "content": "it is true on those what happen there so I didn't jump in the truck to remove myself from a social situation I jumped out of a moving truck tonight",
+      "uuid": "fbcb0684-1937-4a95-9394-d1c91921702e"
     },
-    "1570": {
+    {
       "requestid": "9a221b32-e12f-4963-86d3-c0068b137218",
       "confidence": "0.5799817",
       "timestamp": 1570,
-      "content": "I think I'm not anything bad was it another romance conroe it was headed that way and I was not ready to be a victim but I"
+      "content": "I think I'm not anything bad was it another romance conroe it was headed that way and I was not ready to be a victim but I",
+      "uuid": "68a886c6-a851-47a1-bdb3-53368a1c7372"
     },
-    "1580": {
+    {
       "requestid": "3784966b-1380-4ff2-abc0-cd28a31d708e",
       "confidence": "0.7180403",
       "timestamp": 1580,
-      "content": "did end up in that situation because I go sit at a party without telling you my friend I was leaving now so probably in the state of mind ware"
+      "content": "did end up in that situation because I go sit at a party without telling you my friend I was leaving now so probably in the state of mind ware",
+      "uuid": "dc28371f-c4f5-49d6-b411-5667555a36a2"
     },
-    "1590": {
+    {
       "requestid": "59d7297b-fb82-4eca-9534-9b43f405eb82",
       "confidence": "0.5761885",
       "timestamp": 1590,
-      "content": "somebody should've been with me while I try to make my way home button so I don't have a computer issue did you hitchhike and get picked up"
+      "content": "somebody should've been with me while I try to make my way home button so I don't have a computer issue did you hitchhike and get picked up",
+      "uuid": "78409f7d-9820-47fa-a2e7-d710552c38fc"
     },
-    "1600": {
+    {
       "requestid": "1ff38884-d804-4f31-8454-c0e1ea98fbaf",
       "confidence": "0.5857237",
       "timestamp": 1600,
-      "content": "trucker yeah basically what happened is I am in a really small town colorado up in the mountains like it's going to let you go there because you wanted"
+      "content": "trucker yeah basically what happened is I am in a really small town colorado up in the mountains like it's going to let you go there because you wanted",
+      "uuid": "3270af88-3c45-4cce-aa12-2bb7e8237a77"
     },
-    "1610": {
+    {
       "requestid": "a3e405bb-9f2f-4cb9-a37d-eb0285417c41",
       "confidence": "0.650588",
       "timestamp": 1610,
-      "content": "band of the outdoors were also getting a great education in the valley I am so small town middle of winter is a house party that we're going to before I don't"
+      "content": "band of the outdoors were also getting a great education in the valley I am so small town middle of winter is a house party that we're going to before I don't",
+      "uuid": "22b571db-61fb-46e4-ab57-d27bb97249ef"
     },
-    "1620": {
+    {
       "requestid": "55da7bd2-b476-463e-9d06-a197220e5d5e",
       "confidence": "0.7286014",
       "timestamp": 1620,
-      "content": "logos home for christmas break at this time of the year they put this big giant christmas tree ray in the intersection of the 2 main Rd one going east west north south"
+      "content": "logos home for christmas break at this time of the year they put this big giant christmas tree ray in the intersection of the 2 main Rd one going east west north south",
+      "uuid": "2c84101d-e8d8-4ff3-8a75-433b3b32cba6"
     },
-    "1630": {
+    {
       "requestid": "2123f33f-c7d3-4e4e-9b91-908b559243b6",
       "confidence": "0.5486559",
       "timestamp": 1630,
-      "content": "nihad is the tree lighting ceremony and then we're off to this party and I had a problem with this cozy in my entire life remember 10 foot mouth"
+      "content": "nihad is the tree lighting ceremony and then we're off to this party and I had a problem with this cozy in my entire life remember 10 foot mouth",
+      "uuid": "3901e304-d659-45c2-8e1d-c22808b17671"
     },
-    "1640": {
+    {
       "requestid": "64a5114d-fd99-420d-b630-272bba75bc88",
       "confidence": "0.5753084",
       "timestamp": 1640,
-      "content": "that I'm late already chris likes me and I'm like almost like hell my shoulder seems like if you need to leave this party just tell me why"
+      "content": "that I'm late already chris likes me and I'm like almost like hell my shoulder seems like if you need to leave this party just tell me why",
+      "uuid": "e36df675-bd8a-43d8-b217-faec93aaf79a"
     },
-    "1650": {
+    {
       "requestid": "c7b51fc4-c0b3-474e-a45c-fe454362e888",
       "confidence": "0.634524",
       "timestamp": 1650,
-      "content": "and one of us will be with you another name is kelly find find it up for the party were hanging out um I got out I get the weight of social anxiety"
+      "content": "and one of us will be with you another name is kelly find find it up for the party were hanging out um I got out I get the weight of social anxiety",
+      "uuid": "cce56c7b-b218-47a9-a8c3-20f9cf2a2bee"
     },
-    "1660": {
+    {
       "requestid": "a03ed0a9-c6f0-430d-9707-dbb64cba154e",
       "confidence": "0.7104316",
       "timestamp": 1660,
-      "content": "my first thought was not ok but here's the plan make sure that I tell him and it was like you need to be away from this whole situation right now so I left"
+      "content": "my first thought was not ok but here's the plan make sure that I tell him and it was like you need to be away from this whole situation right now so I left",
+      "uuid": "1b3deb8c-6e70-4a78-9c1f-321bf2daa5e2"
     },
-    "1670": {
+    {
       "requestid": "d738e2b9-0888-4547-96f7-6dd7581845c9",
       "confidence": "0.5472113",
       "timestamp": 1670,
-      "content": "unfortunately I was very inebriated as they would be at college party I'm so I got really turned around"
+      "content": "unfortunately I was very inebriated as they would be at college party I'm so I got really turned around",
+      "uuid": "1aeb6163-1614-45da-9299-e9aea663fcba"
     },
-    "1680": {
+    {
       "requestid": "79beb79e-b548-456b-b1e6-5a98deb061cd",
       "confidence": "0.6827074",
       "timestamp": 1680,
-      "content": "found in town and I ended up walking down 02 miles the opposite direction of my house for me at the edge of town um"
+      "content": "found in town and I ended up walking down 02 miles the opposite direction of my house for me at the edge of town um",
+      "uuid": "84fe5094-22d4-443c-a5c2-348e22f460c4"
     },
-    "1690": {
+    {
       "requestid": "e4a845d8-651a-438f-afea-a5af56e078c7",
       "confidence": "0.6794788",
       "timestamp": 1690,
-      "content": "all the while I didn't have a jacket is here at like an ugly sweater party in the party with course we were walking on this letter and then you got hurt you got turned around the christmas tree"
+      "content": "all the while I didn't have a jacket is here at like an ugly sweater party in the party with course we were walking on this letter and then you got hurt you got turned around the christmas tree",
+      "uuid": "a21c41ab-97c1-43a3-b53c-c00af201959c"
     },
-    "1700": {
+    {
       "requestid": "81bcfcbf-744a-45f2-a9f7-058ad87bfc0d",
       "confidence": "0.6391468",
       "timestamp": 1700,
-      "content": "running a turn around the christmas tree thing I'll just take this moment to pause and speak directly to the children to listen to this podcast ruli hello gorgeous"
+      "content": "running a turn around the christmas tree thing I'll just take this moment to pause and speak directly to the children to listen to this podcast ruli hello gorgeous",
+      "uuid": "e0f9d2ce-18d8-4b9d-a0aa-76f37934b876"
     },
-    "1710": {
+    {
       "requestid": "2c06e0f4-a3b3-464a-b240-5a73f7c46481",
       "confidence": "0.7095595",
       "timestamp": 1710,
-      "content": "I hope you're driving safely some of your hobbies is the family for the podcast but we talk about openly what"
+      "content": "I hope you're driving safely some of your hobbies is the family for the podcast but we talk about openly what",
+      "uuid": "14a73348-0843-43f9-8d9d-d3822829398b"
     },
-    "1720": {
+    {
       "requestid": "4ec50143-c49e-4cfa-8d98-1d043d7c319b",
       "confidence": "0.7469922",
       "timestamp": 1720,
-      "content": "adult to do all the time and I'm in adults occasionally get intoxicated have yeah I think than the moral of the story is"
+      "content": "adult to do all the time and I'm in adults occasionally get intoxicated have yeah I think than the moral of the story is",
+      "uuid": "a924f076-3a0c-4753-b522-4aa0cbdb33c4"
     },
-    "1730": {
+    {
       "requestid": "57729fce-9071-4e80-8508-1d9168cd9b7b",
       "confidence": "0.5722389",
       "timestamp": 1730,
-      "content": "I don't go to college in colorado super wear jacket he said it got too far I would not since no"
+      "content": "I don't go to college in colorado super wear jacket he said it got too far I would not since no",
+      "uuid": "480f707c-b4cc-4977-bb92-589f00565a4c"
     },
-    "1740": {
+    {
       "requestid": "32035861-b6ab-4a6f-8cfe-6eea81269881",
       "confidence": "0.6144602",
       "timestamp": 1740,
-      "content": "since the find universities of colorado with bahasa but a lot of charting goes on there and it in and is in an environment where if you make"
+      "content": "since the find universities of colorado with bahasa but a lot of charting goes on there and it in and is in an environment where if you make",
+      "uuid": "3d79070a-e743-4cdb-ab69-7ff457c5cd14"
     },
-    "1750": {
+    {
       "requestid": "e11a739d-7532-424d-9f39-2f62dbd66c02",
       "confidence": "0.5956088",
       "timestamp": 1750,
-      "content": "drunk step you will die by falling off a cliff or freezing to death on being a taxi 9 anything I say yes exactly like you"
+      "content": "drunk step you will die by falling off a cliff or freezing to death on being a taxi 9 anything I say yes exactly like you",
+      "uuid": "5ec3a0c8-0e8a-423a-b352-f95b79e02ec1"
     },
-    "1760": {
+    {
       "requestid": "43ace211-bce8-4704-a3f5-5ab29ed4bd69",
       "confidence": "0.6935701",
       "timestamp": 1760,
-      "content": "I hope that's a very fairpoint actually I know but that I look for to the letters from university of colorado at boulder it I'm sure that there"
+      "content": "I hope that's a very fairpoint actually I know but that I look for to the letters from university of colorado at boulder it I'm sure that there",
+      "uuid": "ea368f1a-ff3e-4ead-9189-6e1dd6dded67"
     },
-    "1770": {
+    {
       "requestid": "8fb037ea-5447-446c-acdc-c9f6ab17ea8d",
       "confidence": "0.620109",
       "timestamp": 1770,
-      "content": "printed on hemp paper now are so what happens next is to get picked up by trucker only get the truck I'm I'm glad I filled in"
+      "content": "printed on hemp paper now are so what happens next is to get picked up by trucker only get the truck I'm I'm glad I filled in",
+      "uuid": "bd0ab372-84df-43f8-bb7e-f0742d4be88e"
     },
-    "1780": {
+    {
       "requestid": "f994b3db-80b1-4fcd-8a8e-e03daa43eacb",
       "confidence": "0.706308",
       "timestamp": 1780,
-      "content": "the details that so what happen is all so far from where I live at that time it was like I'm just gonna get on this mean drive to go to town and pick me up"
+      "content": "the details that so what happen is all so far from where I live at that time it was like I'm just gonna get on this mean drive to go to town and pick me up",
+      "uuid": "e4d09a86-6b3b-43b1-97b0-3f6acace26a5"
     },
-    "1790": {
+    {
       "requestid": "66bc2602-e5da-41fb-8f34-a988a1d079c0",
       "confidence": "0.6150275",
       "timestamp": 1790,
-      "content": "and I'll get dropped off and then I'll go home design you met up with that is why I was so course it's like to <profanity>fuck</profanity> morning I'm going to town on by big like kind of shipping highly"
+      "content": "and I'll get dropped off and then I'll go home design you met up with that is why I was so course it's like to <profanity>fuck</profanity> morning I'm going to town on by big like kind of shipping highly",
+      "uuid": "6e43db72-5f82-489e-ba8a-d1d283d106a0"
     },
-    "1800": {
+    {
       "requestid": "3fa7fa60-7575-475a-bcf7-d4170669ac14",
       "confidence": "0.5470191",
       "timestamp": 1800,
-      "content": "do you know the falls down to this truck so I can come see you later my phone bout naples already pick me up and he asked me where I am going into town"
+      "content": "do you know the falls down to this truck so I can come see you later my phone bout naples already pick me up and he asked me where I am going into town",
+      "uuid": "032f4e7b-0750-4bd2-867d-a8d06559fc10"
     },
-    "1810": {
+    {
       "requestid": "c54a5de6-72dc-408e-9221-75e8d98bd40b",
       "confidence": "0.6521421",
       "timestamp": 1810,
-      "content": "there's a mcdonald's like ready to town just drop me off there my apartment is find a mcdonald's i can get home from there in to my recollection he looks over music from"
+      "content": "there's a mcdonald's like ready to town just drop me off there my apartment is find a mcdonald's i can get home from there in to my recollection he looks over music from",
+      "uuid": "31d58716-3fc2-45fa-b884-61e5340f3f75"
     },
-    "1820": {
+    {
       "requestid": "2bb53f4f-1984-41d3-ae1e-6926ed13740b",
       "confidence": "0.6280005",
       "timestamp": 1820,
-      "content": "driving in icy does mcdonalds go past me on the on the left hand side of my cock I like it's kinda weird lake mead"
+      "content": "driving in icy does mcdonalds go past me on the on the left hand side of my cock I like it's kinda weird lake mead",
+      "uuid": "df6de05e-0f1b-4915-ad6f-d301db32a1f5"
     },
-    "1830": {
+    {
       "requestid": "708164ae-25ba-4b07-8f18-9658336b9233",
       "timestamp": 1830,
-      "content": ""
+      "content": "",
+      "uuid": "7186bacc-592c-4056-ad02-184328815ac1"
     },
-    "1840": {
+    {
       "requestid": "38ffc282-b927-4c3f-8a90-81e383add133",
       "confidence": "0.6397767",
       "timestamp": 1840,
-      "content": "the town that the way to the city are fading away is no more like street lights I know were pretty much I did you know t stores denver anna"
+      "content": "the town that the way to the city are fading away is no more like street lights I know were pretty much I did you know t stores denver anna",
+      "uuid": "97a83eac-5398-4ce4-b0a6-3fa3d2b4ccce"
     },
-    "1850": {
+    {
       "requestid": "35d86612-e936-4d32-87aa-20b1aded7276",
       "confidence": "0.692329",
       "timestamp": 1850,
-      "content": "I can I get anxious and asking to make a man I need to be dropped off at mcdonald's and again to my recollection he says yeah I know and just keep driving in them pants"
+      "content": "I can I get anxious and asking to make a man I need to be dropped off at mcdonald's and again to my recollection he says yeah I know and just keep driving in them pants",
+      "uuid": "315e0681-c841-4b9c-a4a0-4e63319e2735"
     },
-    "1860": {
+    {
       "requestid": "6b9f9fbf-2eb2-4362-a8de-c30e63813ca7",
       "confidence": "0.5545154",
       "timestamp": 1860,
-      "content": "set in yeah I was like oh this is not a situation that you read about new yorkers are you see on lifetime movies yeah"
+      "content": "set in yeah I was like oh this is not a situation that you read about new yorkers are you see on lifetime movies yeah",
+      "uuid": "7366aeaf-7af0-4a63-ab3e-6bbecefd9dca"
     },
-    "1870": {
+    {
       "requestid": "7957c640-4856-455c-bb33-a3743cf2376d",
       "confidence": "0.6017634",
       "timestamp": 1870,
-      "content": "and I'm going to release in arizona common I like what I'm gonna do with something weird happens in right when I'm going to snooze this car pulled out from the road"
+      "content": "and I'm going to release in arizona common I like what I'm gonna do with something weird happens in right when I'm going to snooze this car pulled out from the road",
+      "uuid": "1aa4b507-7c37-454f-8d54-a1216477c165"
     },
-    "1880": {
+    {
       "requestid": "dbbd7128-9208-4e80-a4ba-555123c7c554",
       "confidence": "0.5946201",
       "timestamp": 1880,
-      "content": "custom ink at the mall to get in front of me so he fell down and again my next stop is not even giving it you know review <profanity>fuck</profanity> why is orange"
+      "content": "custom ink at the mall to get in front of me so he fell down and again my next stop is not even giving it you know review <profanity>fuck</profanity> why is orange",
+      "uuid": "df32e830-8c3b-4d79-ba8c-a86eafa0a769"
     },
-    "1890": {
+    {
       "requestid": "ae852129-9492-4a57-9766-b170b7b8ae8a",
       "confidence": "0.4480082",
       "timestamp": 1890,
-      "content": "miles an hour just to let you know jen this is now you don't wanna be a victim you want to stop by opening"
+      "content": "miles an hour just to let you know jen this is now you don't wanna be a victim you want to stop by opening",
+      "uuid": "9ea99063-8523-4b59-bc66-5d2dfdc8dd9c"
     },
-    "1900": {
+    {
       "requestid": "3e7877c0-29f5-4cfa-972c-fb197ade3044",
       "confidence": "0.539233",
       "timestamp": 1900,
-      "content": "I'll take the ride in the snow bank and I rolled a couple times and I got up and I started sprinting about georgetown and"
+      "content": "I'll take the ride in the snow bank and I rolled a couple times and I got up and I started sprinting about georgetown and",
+      "uuid": "66871804-9bf7-40f5-962f-5fd7297f5d45"
     },
-    "1910": {
+    {
       "requestid": "804abe36-d7ab-4625-891a-d2e19dbab4c5",
       "confidence": "0.6020656",
       "timestamp": 1910,
-      "content": "on my sprint do you 3 girls coming the opposite direction pick me up and drive me back to my apartment and then ted bundy arrived they saw"
+      "content": "on my sprint do you 3 girls coming the opposite direction pick me up and drive me back to my apartment and then ted bundy arrived they saw",
+      "uuid": "5d575a87-4057-4081-b0be-03e637c56cc8"
     },
-    "1920": {
+    {
       "requestid": "ca729ce6-7983-42a6-9afd-5c5db5a2c338",
       "confidence": "0.4415708",
       "timestamp": 1920,
-      "content": "no freak if I had yeah ikr I just am not tryna find gas bill gina I'm I'm I'm feeling alive"
+      "content": "no freak if I had yeah ikr I just am not tryna find gas bill gina I'm I'm I'm feeling alive",
+      "uuid": "880e3e44-fc7c-4aa8-84ae-eb248445d59f"
     },
-    "1930": {
+    {
       "requestid": "3dba1025-a62d-4662-a892-a87a031ea3c7",
       "confidence": "0.6522977",
       "timestamp": 1930,
-      "content": "I'd love a moment to collect my thoughts again I am II just wanna ask chris if maybe um had and ever"
+      "content": "I'd love a moment to collect my thoughts again I am II just wanna ask chris if maybe um had and ever",
+      "uuid": "d2a0e1a7-31ab-48d2-a5a5-839ca2b0ed30"
     },
-    "1940": {
+    {
       "requestid": "1a111474-860f-4604-9368-81711c371d7c",
       "confidence": "0.7861534",
       "timestamp": 1940,
-      "content": "this point I seen a movie or read a book um how many times I had to let him know that I getting"
+      "content": "this point I seen a movie or read a book um how many times I had to let him know that I getting",
+      "uuid": "d7f58115-d599-48c4-8e0b-0f7cf5bc53d8"
     },
-    "1950": {
+    {
       "requestid": "8488effb-9d2d-42ed-9601-1c4a812c3ca9",
       "confidence": "0.6267138",
       "timestamp": 1950,
-      "content": "and he talking into a semi was probably a bad situation any point on especially in a horror movie setting"
+      "content": "and he talking into a semi was probably a bad situation any point on especially in a horror movie setting",
+      "uuid": "e0a1ee32-31b9-42bf-b0bc-719aea48eaf9"
     },
-    "1960": {
+    {
       "requestid": "66b805e4-9043-4d81-b91d-c79972320349",
       "confidence": "0.6415066",
       "timestamp": 1960,
-      "content": "much is colorado with an ugly sweater is just how to paddle making of a story gone wrong and then after a rolling down"
+      "content": "much is colorado with an ugly sweater is just how to paddle making of a story gone wrong and then after a rolling down",
+      "uuid": "8e611672-6ca8-4376-a034-c9bc256adc95"
     },
-    "1970": {
+    {
       "requestid": "5facae73-6098-4ee4-ab05-f61fee9d364b",
       "confidence": "0.6436913",
       "timestamp": 1970,
-      "content": "snow bank immediately got into another car strangers yeah that was charlies angels of 3 girls right now"
+      "content": "snow bank immediately got into another car strangers yeah that was charlies angels of 3 girls right now",
+      "uuid": "2d37b3bb-0f5a-453f-bac3-7d030eff1297"
     },
-    "1980": {
+    {
       "requestid": "c91041ff-5005-412a-be1c-00d98b126f2e",
       "confidence": "0.5755945",
       "timestamp": 1980,
-      "content": "I mean like that's the car you wait for me and I know I feel the warriors baby drew the lizzies in the war you leave the warriors astray"
+      "content": "I mean like that's the car you wait for me and I know I feel the warriors baby drew the lizzies in the war you leave the warriors astray",
+      "uuid": "c83baf7d-671b-44d9-aafb-e345680e8ff7"
     },
-    "1990": {
+    {
       "requestid": "49493303-98db-483b-9fa1-9d2ed64d5a7d",
       "confidence": "0.7337263",
       "timestamp": 1990,
-      "content": "if a black man it was so cold out if you have not seen the warriors that said that said great documentary film about gang new york city where"
+      "content": "if a black man it was so cold out if you have not seen the warriors that said that said great documentary film about gang new york city where",
+      "uuid": "95e0d953-07bf-4803-a90c-ab52345e7dc3"
     },
-    "2000": {
+    {
       "requestid": "e3d3ffb0-feb3-45ae-a238-369d4894baa7",
       "confidence": "0.7539084",
       "timestamp": 2000,
-      "content": "where every every game in new york city was seem to be geographically randomly assigned to a neighborhood yes but nothing to do with the people who live"
+      "content": "where every every game in new york city was seem to be geographically randomly assigned to a neighborhood yes but nothing to do with the people who live",
+      "uuid": "dc54ca66-b3cb-4734-894a-241497d6bdde"
     },
-    "2010": {
+    {
       "requestid": "0cdca1d3-67fb-4b8a-9fe6-af872ab90080",
       "confidence": "0.4765481",
       "timestamp": 2010,
-      "content": "so the toughest gang was doing well no I was in the toughest game search for small you had the warriors"
+      "content": "so the toughest gang was doing well no I was in the toughest game search for small you had the warriors",
+      "uuid": "7c182057-7c92-4741-a54e-5be8bb5170fa"
     },
-    "2020": {
+    {
       "requestid": "ff7bbf82-00b7-4636-9fc9-ec7b68d53ef1",
       "confidence": "0.6224976",
       "timestamp": 2020,
-      "content": "you're fairly your face with typical multiracial gang in coney island gazette with gangs are known for right people from all different walks of life coming together your black people"
+      "content": "you're fairly your face with typical multiracial gang in coney island gazette with gangs are known for right people from all different walks of life coming together your black people",
+      "uuid": "695f4eb3-99f0-4af7-a583-96330e8d4089"
     },
-    "2030": {
+    {
       "requestid": "8069c710-fb7b-43a4-a9b7-de52d01630e8",
       "confidence": "0.6213485",
       "timestamp": 2030,
-      "content": "many people white dudes but usually have gangs form in urban gritty urban settings right and and and also with feathers in leather vest yeah I must have"
+      "content": "many people white dudes but usually have gangs form in urban gritty urban settings right and and and also with feathers in leather vest yeah I must have",
+      "uuid": "3d9017ba-6879-4edd-bd88-70a32992eb9c"
     },
-    "2040": {
+    {
       "requestid": "149f6f0d-0e67-49a6-947d-1f3dd15f22e1",
       "confidence": "0.6794607",
       "timestamp": 2040,
-      "content": "and then you had to gangsa trip but did cosplayers baseball players are mim's which was really terrifying in 1979 and then you have been the toughest gang in new york"
+      "content": "and then you had to gangsa trip but did cosplayers baseball players are mim's which was really terrifying in 1979 and then you have been the toughest gang in new york",
+      "uuid": "cc089b89-5043-4ef2-a306-11b32c7b5ae3"
     },
-    "2050": {
+    {
       "requestid": "8314bd48-ac4d-46b4-879d-840129450f5c",
       "confidence": "0.5175949",
       "timestamp": 2050,
-      "content": "where are the black karate dudes the grammar see ref's because they be prepared leave of the dirt irfu is grammar see park porn"
+      "content": "where are the black karate dudes the grammar see ref's because they be prepared leave of the dirt irfu is grammar see park porn",
+      "uuid": "a66701c2-cfb9-471f-8344-cc2ab3154a4b"
     },
-    "2060": {
+    {
       "requestid": "3b5e4e6b-6f0c-4c1b-bc37-63afb8507198",
       "confidence": "0.6371154",
       "timestamp": 2060,
-      "content": "when is the wealthy area in new york city very dangerous italica for the road but then is the warriors are trying to go home by felon with that with the"
+      "content": "when is the wealthy area in new york city very dangerous italica for the road but then is the warriors are trying to go home by felon with that with the",
+      "uuid": "90e3550e-7108-4f54-bcc5-67733af61d35"
     },
-    "2070": {
+    {
       "requestid": "c80fd9c0-fe1b-4120-b5cb-83e1d45b4c98",
       "confidence": "0.5337091",
       "timestamp": 2070,
-      "content": "caesars all female gang and they betrayed them is all all but it's all about a parable about that but what is it on reserve at the office"
+      "content": "caesars all female gang and they betrayed them is all all but it's all about a parable about that but what is it on reserve at the office",
+      "uuid": "f9f2374a-bb1a-4f97-bc9a-6b8bcf5c471a"
     },
-    "2080": {
+    {
       "requestid": "cf5664e7-78d0-4c7d-8245-72df9b9daafc",
       "confidence": "0.6899981",
       "timestamp": 2080,
-      "content": "yeah did you know that is an allegory"
+      "content": "yeah did you know that is an allegory",
+      "uuid": "212a08be-b34b-4e5f-bf7c-e033446db8bd"
     },
-    "2090": {
+    {
       "requestid": "e09be5cc-20bd-420d-ba01-79205b6909c0",
       "confidence": "0.7478275",
       "timestamp": 2090,
-      "content": "heather the science exam yeah maybe maybe you should've been college you should've spent a little less time going to crazy sweater parties in a little more time"
+      "content": "heather the science exam yeah maybe maybe you should've been college you should've spent a little less time going to crazy sweater parties in a little more time",
+      "uuid": "cc34af50-339a-42f4-9ef8-955758282fd6"
     },
-    "2100": {
+    {
       "requestid": "d9c73518-b4f4-4ee0-ac34-fb14e211ecd4",
       "confidence": "0.6479903",
       "timestamp": 2100,
-      "content": "sing by yourself in a dark room watching movies with 70s like ike I got my education yeah yeah yeah I guess my biggest phone dot"
+      "content": "sing by yourself in a dark room watching movies with 70s like ike I got my education yeah yeah yeah I guess my biggest phone dot",
+      "uuid": "70f0abef-6235-4456-8486-b15217ce0b09"
     },
-    "2110": {
+    {
       "requestid": "c73827cb-88c9-4861-837f-a0edf0e4e21a",
       "confidence": "0.656278",
       "timestamp": 2110,
-      "content": "believe in the kindness of humanity but well you know he checked here's the thing about that story is the time in pure again I'd like to speak to the children"
+      "content": "believe in the kindness of humanity but well you know he checked here's the thing about that story is the time in pure again I'd like to speak to the children",
+      "uuid": "46a2392c-dc9f-4955-a06c-ac6494c5ddd9"
     },
-    "2120": {
+    {
       "requestid": "443c31b7-616b-42ec-9d49-85969908c012",
       "confidence": "0.7480469",
       "timestamp": 2120,
-      "content": "we were listening to this podcast while driving down the american road first of all good for you children for getting your driver's license at the age of 9 and forgot hitchhike"
+      "content": "we were listening to this podcast while driving down the american road first of all good for you children for getting your driver's license at the age of 9 and forgot hitchhike",
+      "uuid": "0be3a6be-1519-4c98-ab37-2dc0c30bb31f"
     },
-    "2130": {
+    {
       "requestid": "fc6fbf3f-6adc-4df2-9e68-92dd64f46855",
       "confidence": "0.7654275",
       "timestamp": 2130,
-      "content": "it can be very dangerous and it's one of those things where I goes ok I think most of the time but when it goes wrong it goes really wrong very wrong"
+      "content": "it can be very dangerous and it's one of those things where I goes ok I think most of the time but when it goes wrong it goes really wrong very wrong",
+      "uuid": "acac9dd0-1d54-45b1-95be-dc0e1ccf0bab"
     },
-    "2140": {
+    {
       "requestid": "7ba9c22a-1c0e-4dfe-819a-e6f6f4161c24",
       "confidence": "0.8273183",
       "timestamp": 2140,
-      "content": "and the truth is that you are in a situation where it was going wrong I mean there is no other explanation for why that guy wasn't dropping you off where you need it go"
+      "content": "and the truth is that you are in a situation where it was going wrong I mean there is no other explanation for why that guy wasn't dropping you off where you need it go",
+      "uuid": "ab34dd9a-43ea-4463-983d-87f5b27ed84c"
     },
-    "2150": {
+    {
       "requestid": "d8f456b0-9ab2-492d-83a8-0be19c809c6d",
       "confidence": "0.6844969",
       "timestamp": 2150,
-      "content": "being kidnapped and you did what you had to do right in there is a good 60 miles between the town I got it now is going to school and ends"
+      "content": "being kidnapped and you did what you had to do right in there is a good 60 miles between the town I got it now is going to school and ends",
+      "uuid": "ed8d438e-7af5-431d-8631-177d50745062"
     },
-    "2160": {
+    {
       "requestid": "48e9d75e-3ce4-40e2-8e84-38f2513b7d20",
       "confidence": "0.515775",
       "timestamp": 2160,
-      "content": "the next fight actual time do you know how a specificity is the soul of meredith yeah maybe little bit too much specificity quicker"
+      "content": "the next fight actual time do you know how a specificity is the soul of meredith yeah maybe little bit too much specificity quicker",
+      "uuid": "a98f3e8e-1aef-4798-b919-2c69fd390503"
     },
-    "2170": {
+    {
       "requestid": "db47d8cb-52b5-42cb-9ecb-afe16092c572",
       "confidence": "0.7053082",
       "timestamp": 2170,
-      "content": "how many miles away are you understand that is it better if it could have been 75 degrees fahrenheit with clear"
+      "content": "how many miles away are you understand that is it better if it could have been 75 degrees fahrenheit with clear",
+      "uuid": "9725bcc9-3fbc-47bb-b7c0-c377859ce10e"
     },
-    "2180": {
+    {
       "requestid": "557b12fa-0af0-4711-806c-82687bef5b1d",
       "confidence": "0.7206739",
       "timestamp": 2180,
-      "content": "sky am only 7 at 58 miles between the 2 towns the point is you got to the cab of a mother trucker who was not taking"
+      "content": "sky am only 7 at 58 miles between the 2 towns the point is you got to the cab of a mother trucker who was not taking",
+      "uuid": "ff960f41-5ef7-4dae-b394-0b18ffb849c5"
     },
-    "2190": {
+    {
       "requestid": "a1bc9117-045b-44bd-b28a-092f67828c76",
       "confidence": "0.6931363",
       "timestamp": 2190,
-      "content": "you where you wanted to go and give and it was clear that he was making different decisions that could not be completed not have your back"
+      "content": "you where you wanted to go and give and it was clear that he was making different decisions that could not be completed not have your back",
+      "uuid": "943a5b39-b242-4ab9-936d-2160e635eba5"
     },
-    "2200": {
+    {
       "requestid": "a645fad9-3195-48a7-85e1-432fe7e54688",
       "confidence": "0.6694825",
       "timestamp": 2200,
-      "content": "tensions in my boy that's a terrifying and at and at cautionary and I think for all of us sobering tell ray about the dangers of"
+      "content": "tensions in my boy that's a terrifying and at and at cautionary and I think for all of us sobering tell ray about the dangers of",
+      "uuid": "6c107c74-69ef-437f-815e-83ad3dd88f7b"
     },
-    "2210": {
+    {
       "requestid": "89f56b96-4dd0-48ca-8b81-2a8a5be8833e",
       "confidence": "0.4591779",
       "timestamp": 2210,
-      "content": "osfa of hitchhiking um are you take the first grade once but another story by the way that was one that went"
+      "content": "osfa of hitchhiking um are you take the first grade once but another story by the way that was one that went",
+      "uuid": "94d97455-0637-4041-9a5f-9066ae6c2bd0"
     },
-    "2220": {
+    {
       "requestid": "670bcae4-044f-437f-8e56-08a96205eb1f",
       "confidence": "0.4551485",
       "timestamp": 2220,
-      "content": "write email I just got really wrong I could have a school bus with my messages are in any case um"
+      "content": "write email I just got really wrong I could have a school bus with my messages are in any case um",
+      "uuid": "4a520960-8be6-4131-a33d-9a220b05be77"
     },
-    "2230": {
+    {
       "requestid": "9004148e-8f45-4a8c-ae31-2ee095ae91b9",
       "confidence": "0.796744",
       "timestamp": 2230,
-      "content": "it all goes back to you leaving this party because you felt like you just had to get out of there right and you already eat your friends already talked to like don't do what you don't do it"
+      "content": "it all goes back to you leaving this party because you felt like you just had to get out of there right and you already eat your friends already talked to like don't do what you don't do it",
+      "uuid": "cfa2da9e-f9c4-4c85-817d-2bd65edc1cf2"
     },
-    "2240": {
+    {
       "requestid": "d8163aa7-b089-48a0-b532-2b258febaf80",
       "confidence": "0.7336944",
       "timestamp": 2240,
-      "content": "leave here without letting us know and you didn't tell you <profanity>bitch</profanity> and you mention social anxiety a couple times and I wanna get a sense of is this like"
+      "content": "leave here without letting us know and you didn't tell you <profanity>bitch</profanity> and you mention social anxiety a couple times and I wanna get a sense of is this like",
+      "uuid": "f4add2a0-cc46-40a7-b493-bded0dfe7cd1"
     },
-    "2250": {
+    {
       "requestid": "f4d730d4-54cd-4fea-b72b-d14e9f5ad433",
       "confidence": "0.6410733",
       "timestamp": 2250,
-      "content": "it's just a phrase that you're using or do you have real panic attacks qalib wrap up our race heartbeat tried it"
+      "content": "it's just a phrase that you're using or do you have real panic attacks qalib wrap up our race heartbeat tried it",
+      "uuid": "2c308f1b-ea90-49d6-87db-fd4ab7b2df4c"
     },
-    "2260": {
+    {
       "requestid": "ba5ca60a-a52f-4177-85ab-45793cd32e2f",
       "confidence": "0.5057862",
       "timestamp": 2260,
-      "content": "great that's not rin toxic ation so there been some situations wildcat lake you know really into the liquor ytterbium I pull start racing and I always think that"
+      "content": "great that's not rin toxic ation so there been some situations wildcat lake you know really into the liquor ytterbium I pull start racing and I always think that",
+      "uuid": "841dc5d5-05e3-422c-a613-acdb9a5e6545"
     },
-    "2270": {
+    {
       "requestid": "ff26c39c-a41e-420a-ae93-8a057014619a",
       "confidence": "0.5937507",
       "timestamp": 2270,
-      "content": "I'm having a hard time figuring like most situations that it's mainly just like I don't wanna be here I don't wanna have to like butt naked"
+      "content": "I'm having a hard time figuring like most situations that it's mainly just like I don't wanna be here I don't wanna have to like butt naked",
+      "uuid": "3b5cb74f-a8b1-481e-9bfb-8b834a4cfd77"
     },
-    "2280": {
+    {
       "requestid": "62c1c693-5464-4c4b-b75b-213e736d8b38",
       "confidence": "0.6885577",
       "timestamp": 2280,
-      "content": "time like me to pay attention to me why say that I'm leaving in an uber any questions of why I'm leaving I'm just not interested in that and then"
+      "content": "time like me to pay attention to me why say that I'm leaving in an uber any questions of why I'm leaving I'm just not interested in that and then",
+      "uuid": "060b9f06-b80b-43a3-9f31-808ab92af04f"
     },
-    "2290": {
+    {
       "requestid": "f9ad4696-6b2d-4e84-9987-d1a6ab1fde24",
       "confidence": "0.7152589",
       "timestamp": 2290,
-      "content": "people having a conversation just make me want to just leave without saying anything but you not having panic attacks and then you realize you have to go eat some eggs with your friends that"
+      "content": "people having a conversation just make me want to just leave without saying anything but you not having panic attacks and then you realize you have to go eat some eggs with your friends that",
+      "uuid": "923b8ee7-c181-4123-b175-eb9674ad5e43"
     },
-    "2300": {
+    {
       "requestid": "54ccc08d-a1fd-4403-8dc9-ae6b2773b690",
       "confidence": "0.7201293",
       "timestamp": 2300,
-      "content": "no ted why but I have a question for you what part of wisconsin are you from halo right in the middle"
+      "content": "no ted why but I have a question for you what part of wisconsin are you from halo right in the middle",
+      "uuid": "cc74a74a-5a8d-4d94-ab94-cda8900d3946"
     },
-    "2310": {
+    {
       "requestid": "ae0cce22-4ec7-4524-bef9-3d68cf10c325",
       "confidence": "0.6216875",
       "timestamp": 2310,
-      "content": "please call stevens point stevens point wisconsin dells lovely chris are you are you are you and ted in"
+      "content": "please call stevens point stevens point wisconsin dells lovely chris are you are you are you and ted in",
+      "uuid": "114735bd-64a6-45c8-a481-738dc3b5f44a"
     },
-    "2320": {
+    {
       "requestid": "f5c1a4be-b016-4b33-9506-0d50c118841f",
       "confidence": "0.8057071",
       "timestamp": 2320,
-      "content": "your respective special friends if you have going on at the time are you gonna come are you gonna come see my show"
+      "content": "your respective special friends if you have going on at the time are you gonna come are you gonna come see my show",
+      "uuid": "a35447e6-9029-4b74-934f-ae29d4e6e1ba"
     },
-    "2330": {
+    {
       "requestid": "82a0e74f-6111-4fa2-8713-e5cb4e6c05f7",
       "confidence": "0.6395864",
       "timestamp": 2330,
-      "content": "ellen portland oregon on October 15th I were actually really excited to go see that show are you really gonna show up yet"
+      "content": "ellen portland oregon on October 15th I were actually really excited to go see that show are you really gonna show up yet",
+      "uuid": "6fcfeeb2-5170-4e51-87d5-efc213144d86"
     },
-    "2340": {
+    {
       "requestid": "55d5a115-3dfd-4dcd-86e2-7761f2432068",
       "confidence": "0.6594493",
       "timestamp": 2340,
-      "content": "I don't have mine yet but I'm going to get my is my lovely india girlfriend person for her and I thank you verses and invited him an email"
+      "content": "I don't have mine yet but I'm going to get my is my lovely india girlfriend person for her and I thank you verses and invited him an email",
+      "uuid": "69f4b4a9-9399-4aaa-b313-d7def0ec5c37"
     },
-    "2350": {
+    {
       "requestid": "4dfd4a48-cd08-4288-8c32-e5c62b23f1f3",
       "confidence": "0.7265523",
       "timestamp": 2350,
-      "content": "can I write thank you very much girlfriend will be interesting to see if you show up and I will I will make appointment of scanning the audience for you"
+      "content": "can I write thank you very much girlfriend will be interesting to see if you show up and I will I will make appointment of scanning the audience for you",
+      "uuid": "602027b8-aaa8-4620-8e3b-268a8fc06370"
     },
-    "2360": {
+    {
       "requestid": "91089c09-606e-4edf-aa47-25deba343857",
       "confidence": "0.251926",
       "timestamp": 2360,
-      "content": "alright"
+      "content": "alright",
+      "uuid": "4693fad2-4135-4e2c-bf56-83757d2fd8c7"
     },
-    "2370": {
+    {
       "requestid": "b8dce2e9-5f3c-4476-b48c-5c1f97f5f23b",
       "confidence": "0.7575539",
       "timestamp": 2370,
-      "content": "going on his world but when he blows you off this way how does it make you feel like I'm disappointed and let down but ultimately"
+      "content": "going on his world but when he blows you off this way how does it make you feel like I'm disappointed and let down but ultimately",
+      "uuid": "fce27866-47fc-4b9b-a142-96657dafab0e"
     },
-    "2380": {
+    {
       "requestid": "7c1880c0-f8b0-4478-9640-9e6c59757c07",
       "confidence": "0.7552537",
       "timestamp": 2380,
-      "content": "is it feels like you are on the working end of a friendship where the other person doesn't necessarily care if you feel good about the interaction"
+      "content": "is it feels like you are on the working end of a friendship where the other person doesn't necessarily care if you feel good about the interaction",
+      "uuid": "7725fa4f-7ca1-4707-8aac-78b1414d2812"
     },
-    "2390": {
+    {
       "requestid": "c65e86a7-e291-483c-9565-7429fcda65eb",
       "confidence": "0.495418",
       "timestamp": 2390,
-      "content": "bad which is ultimately about feeling like I like to plan stuff with people in some polo has the brake system real soon"
+      "content": "bad which is ultimately about feeling like I like to plan stuff with people in some polo has the brake system real soon",
+      "uuid": "5f6efcf6-b3b4-460b-b6b1-0f71d4af9765"
     },
-    "2400": {
+    {
       "requestid": "b0fe4b73-bdbe-43c9-9d32-809ff1700446",
       "confidence": "0.6048871",
       "timestamp": 2400,
-      "content": "that's fine do you know any cinemax with issues like what you like and I agree with that wholeheartedly so somebody make plans and they change their mind"
+      "content": "that's fine do you know any cinemax with issues like what you like and I agree with that wholeheartedly so somebody make plans and they change their mind",
+      "uuid": "434f76ce-5c9b-40b2-8c25-b51885bd47be"
     },
-    "2410": {
+    {
       "requestid": "e0ed271f-29d6-454a-8f9d-32b4696cf943",
       "confidence": "0.7393854",
       "timestamp": 2410,
-      "content": "I just need it just let me know because you letting me know is the result of your understanding that it sucks to have your plans messed up and it sucked"
+      "content": "I just need it just let me know because you letting me know is the result of your understanding that it sucks to have your plans messed up and it sucked",
+      "uuid": "ebfeff22-562c-4882-8f29-03fcc56420be"
     },
-    "2420": {
+    {
       "requestid": "003fdde1-4043-45b5-b5f0-a71cf8f9e808",
       "confidence": "0.6370424",
       "timestamp": 2420,
-      "content": "inconvenience that's all I want to be old is justin hey I don't wanna mess up your day so I will do this this little talk thing"
+      "content": "inconvenience that's all I want to be old is justin hey I don't wanna mess up your day so I will do this this little talk thing",
+      "uuid": "3c3f290e-3f4c-4ff7-9d34-07bba16ede7c"
     },
-    "2430": {
+    {
       "requestid": "6ea681bd-e851-414c-86a5-1d069c788ae6",
       "confidence": "0.746048",
       "timestamp": 2430,
-      "content": "I'm not gonna do it just when you know you not gonna do it so that I can enjoy my day friend won't do that it feels pretty bad coz I don't like strange"
+      "content": "I'm not gonna do it just when you know you not gonna do it so that I can enjoy my day friend won't do that it feels pretty bad coz I don't like strange",
+      "uuid": "c426a6d3-56c2-4b5e-be29-f4fd94352cd1"
     },
-    "2440": {
+    {
       "requestid": "4b2f49f3-86ce-4e74-bf50-7bacbdc64c87",
       "confidence": "0.6888432",
       "timestamp": 2440,
-      "content": "will do that how do you feel about that chris II mean it I feel really bad like hearing that honestly make me feel like I'm really"
+      "content": "will do that how do you feel about that chris II mean it I feel really bad like hearing that honestly make me feel like I'm really",
+      "uuid": "0e7a52a7-439e-49e1-9a8f-e7a66312c7a7"
     },
-    "2450": {
+    {
       "requestid": "5b742c3a-1bc1-4f18-829e-a9ac9d745206",
       "confidence": "0.5376794",
       "timestamp": 2450,
-      "content": "ribal friends um I don't want you know I don't want to do feel like easy on friday after india friendship an atom"
+      "content": "ribal friends um I don't want you know I don't want to do feel like easy on friday after india friendship an atom",
+      "uuid": "cf6db948-40e4-4ef0-87e5-d8111e13d69f"
     },
-    "2460": {
+    {
       "requestid": "e7f11ddc-4f53-48e4-9e30-566dce47861c",
       "confidence": "0.6657865",
       "timestamp": 2460,
-      "content": "you know breaking his heart every time I go stonum so yeah I need it you know I don't forget about it and I know it's not done"
+      "content": "you know breaking his heart every time I go stonum so yeah I need it you know I don't forget about it and I know it's not done",
+      "uuid": "dc2a609c-1047-4d20-806f-4d263642eba8"
     },
-    "2470": {
+    {
       "requestid": "b4da1820-2318-4962-86c8-79359f6e788f",
       "confidence": "0.6402837",
       "timestamp": 2470,
-      "content": "malice it is to chris'S&I love to chris's he's a dear friend to me and have been for a long time and will continue to be for many more years"
+      "content": "malice it is to chris'S&I love to chris's he's a dear friend to me and have been for a long time and will continue to be for many more years",
+      "uuid": "a77da5f8-5eed-4fd6-aed1-8d999d0a115b"
     },
-    "2480": {
+    {
       "requestid": "c02ab7a7-485f-4318-be6d-63d9aee9a747",
       "confidence": "0.3074943",
       "timestamp": 2480,
-      "content": "oh come on"
+      "content": "oh come on",
+      "uuid": "ac0ceb6f-7c89-4d0d-88ae-b360e24d6262"
     },
-    "2490": {
+    {
       "requestid": "b58281de-4910-46d1-a9f5-7b900ebf822c",
       "confidence": "0.5825161",
       "timestamp": 2490,
-      "content": "just your question sure um ted about how many times would you say that I love this it happened"
+      "content": "just your question sure um ted about how many times would you say that I love this it happened",
+      "uuid": "07ef3317-dd50-4d71-b83a-5f18a3112f9d"
     },
-    "2500": {
+    {
       "requestid": "244f5efd-af77-4138-a96c-1eb0f486b43c",
       "confidence": "0.661782",
       "timestamp": 2500,
-      "content": "it happened with chris up before it started to really bother umm maybe over the years like is it says 20 times 4"
+      "content": "it happened with chris up before it started to really bother umm maybe over the years like is it says 20 times 4",
+      "uuid": "3cbcd60e-fbf3-4d17-b53b-80dd7bf9da6b"
     },
-    "2510": {
+    {
       "requestid": "071066cc-3788-4587-81b7-9a70a1137bb3",
       "confidence": "0.84628",
       "timestamp": 2510,
-      "content": "350"
+      "content": "350",
+      "uuid": "21994451-7cd3-4018-b557-8d854067dedc"
     },
-    "2520": {
+    {
       "requestid": "c43ef812-5df8-4b2a-a2a2-99ba1f16eebc",
       "confidence": "0.6612377",
       "timestamp": 2520,
-      "content": "noise is part of my car now is so I don't hate the car I'm not bothered by the car to say I understand how we need to navigate to stall mobile"
+      "content": "noise is part of my car now is so I don't hate the car I'm not bothered by the car to say I understand how we need to navigate to stall mobile",
+      "uuid": "7d6849c6-72b0-41eb-ba89-4d9de7f25dd7"
     },
-    "2530": {
+    {
       "requestid": "4a9f5d17-1af0-44ee-8dde-814d1910501f",
       "confidence": "0.5338113",
       "timestamp": 2530,
-      "content": "it'll be funky sometimes over 10 years give are take one are 2 ways than friends are meeting will call you at 8"
+      "content": "it'll be funky sometimes over 10 years give are take one are 2 ways than friends are meeting will call you at 8",
+      "uuid": "d6d09b4f-6556-40a5-9926-83d944ed99c6"
     },
-    "2540": {
+    {
       "requestid": "7cf877d0-d0c4-4f12-b0de-ede0fd66121e",
       "confidence": "0.6174714",
       "timestamp": 2540,
-      "content": "E200 dash"
+      "content": "E200 dash",
+      "uuid": "8560b382-0889-44d9-9082-f535b6e66201"
     },
-    "2550": {
+    {
       "requestid": "b9ce2342-dc59-4a6d-b43b-6d9ccf3bb344",
       "confidence": "0.6432682",
       "timestamp": 2550,
-      "content": "because you do you want to feel like they care and and and chris about um how many time"
+      "content": "because you do you want to feel like they care and and and chris about um how many time",
+      "uuid": "cda82345-94d6-4a59-8c46-63b6886a9632"
     },
-    "2560": {
+    {
       "requestid": "29c0bcc8-6a2f-4bcc-9cde-8c39c281d6b5",
       "confidence": "0.7439963",
       "timestamp": 2560,
-      "content": "is that you saying in your at I'm going to sync my answer and then not type it out there are not on it out do you actually I feel"
+      "content": "is that you saying in your at I'm going to sync my answer and then not type it out there are not on it out do you actually I feel",
+      "uuid": "f6fe044c-d223-4371-b3f6-f2ac2db7976e"
     },
-    "2570": {
+    {
       "requestid": "2274ce9b-3b88-4f66-9b81-9dff295244cf",
       "confidence": "0.6273431",
       "timestamp": 2570,
-      "content": "like hey maybe I'm doing something wrong is it is it only when I'm I guess that responds with his sadness in disdain"
+      "content": "like hey maybe I'm doing something wrong is it is it only when I'm I guess that responds with his sadness in disdain",
+      "uuid": "93295707-4201-4d60-90a4-90f3fe18025b"
     },
-    "2580": {
+    {
       "requestid": "a68a74b1-2f96-48e5-bf6b-1256312edf7e",
       "confidence": "0.4937116",
       "timestamp": 2580,
-      "content": "where do you meet me feel it but then still don't follow up with no way I don't believe we can sometime soon"
+      "content": "where do you meet me feel it but then still don't follow up with no way I don't believe we can sometime soon",
+      "uuid": "0641b006-c2f5-4932-a87e-c248572a2aa6"
     },
-    "2590": {
+    {
       "requestid": "89ce4c73-95eb-4ee3-9c60-12c67491e08e",
       "confidence": "0.6267531",
       "timestamp": 2590,
-      "content": "hey what's up with a plan and that's saying something else and how I go do something else is in there time for lake hills message me a few more times and then I know this is real"
+      "content": "hey what's up with a plan and that's saying something else and how I go do something else is in there time for lake hills message me a few more times and then I know this is real",
+      "uuid": "68be251f-d4eb-4250-817f-20f4b5fb58db"
     },
-    "2600": {
+    {
       "requestid": "f4ee0682-9054-4d6f-8b01-1f6b0a52a723",
       "confidence": "0.5447072",
       "timestamp": 2600,
-      "content": "you like kinda figured I'd only expect my name and all kapanadze like 10 asses do it next may simply cannot make and then I feel really bad not answer"
+      "content": "you like kinda figured I'd only expect my name and all kapanadze like 10 asses do it next may simply cannot make and then I feel really bad not answer",
+      "uuid": "3e92df9b-4551-49bf-8642-b01a453be151"
     },
-    "2610": {
+    {
       "requestid": "54d724de-1884-4797-a81d-f21624e44bb2",
       "confidence": "0.4798469",
       "timestamp": 2610,
-      "content": "that was day later and ends in one more shirt question for for chris I'm in your lady"
+      "content": "that was day later and ends in one more shirt question for for chris I'm in your lady",
+      "uuid": "2c11b2cc-74ef-437b-bc2f-9fd67e7cc9e3"
     },
-    "2620": {
+    {
       "requestid": "19e44102-b3d9-4a37-8f54-0b14dcaebbe8",
       "confidence": "0.6343364",
       "timestamp": 2620,
-      "content": "relationship has this been a betrayal is well um no it hasn't its actually probably the complete opposite"
+      "content": "relationship has this been a betrayal is well um no it hasn't its actually probably the complete opposite",
+      "uuid": "f3bb73e3-74ff-423b-8881-30a3319b7a0c"
     },
-    "2630": {
+    {
       "requestid": "aa514abe-9371-4ffd-b5a0-58b7f865b4f1",
       "confidence": "0.5429509",
       "timestamp": 2630,
-      "content": "no need to add a little dynamic 10:15 I know right now heya are you guys still talking out here"
+      "content": "no need to add a little dynamic 10:15 I know right now heya are you guys still talking out here",
+      "uuid": "36b606f2-2cfc-465c-9aed-9ad7b5892617"
     },
-    "2640": {
+    {
       "requestid": "76180b43-4b71-4228-a24c-fd72e11a9d28",
       "confidence": "0.6455537",
       "timestamp": 2640,
-      "content": "'cause I'm glad I left 10 minutes ago I've been in my chambers I just didn't say goodbye"
+      "content": "'cause I'm glad I left 10 minutes ago I've been in my chambers I just didn't say goodbye",
+      "uuid": "05675b53-2c58-4c2f-9fa2-035928dd292a"
     },
-    "2650": {
+    {
       "requestid": "971f9ad1-d123-46d0-9b62-89299de57638",
       "confidence": "0.6176372",
       "timestamp": 2650,
-      "content": "overall I'm sorry I guess I just didn't feel like dealing with you anymore so I'm on my nerves but I don't know and I feel you make it here"
+      "content": "overall I'm sorry I guess I just didn't feel like dealing with you anymore so I'm on my nerves but I don't know and I feel you make it here",
+      "uuid": "14ef38bb-e3be-4ceb-9339-5928d625517a"
     },
-    "2660": {
+    {
       "requestid": "f3321701-94cc-4c58-82f3-6677dc3a7bc0",
       "confidence": "0.6954507",
       "timestamp": 2660,
-      "content": "you're making alotta noise and quiet down little bit coz I'm coming I'm coming my decision I'm gonna go back in my chambers in a message and I'll be back"
+      "content": "you're making alotta noise and quiet down little bit coz I'm coming I'm coming my decision I'm gonna go back in my chambers in a message and I'll be back",
+      "uuid": "0d5063c9-33bb-4fb5-af15-94d8af1bc312"
     },
-    "2670": {
+    {
       "requestid": "057affcb-afe5-40bc-9402-fb3374591ad1",
       "confidence": "0.6154938",
       "timestamp": 2670,
-      "content": "please risas judge john hodgman exit the courtroom alright I got my answers to my questions as well and I"
+      "content": "please risas judge john hodgman exit the courtroom alright I got my answers to my questions as well and I",
+      "uuid": "901f5ccd-79d7-4fe5-85f0-5fa4e6a3b403"
     },
-    "2680": {
+    {
       "requestid": "72f9071e-fe3b-43c1-854c-7b4b4c599073",
       "confidence": "0.812656",
       "timestamp": 2680,
-      "content": "I'll be right back judge john hodgman is supported by listeners like you go to maximumfun.org slash donate and buystamps.com"
+      "content": "I'll be right back judge john hodgman is supported by listeners like you go to maximumfun.org slash donate and buystamps.com",
+      "uuid": "6ec1bf54-72e3-4afc-b873-c5f4ad38564d"
     },
-    "2690": {
+    {
       "requestid": "f4db7353-09db-4c41-b6b6-5c8943e327ed",
       "confidence": "0.7019265",
       "timestamp": 2690,
-      "content": "you know the post office is never anything less than a giant hassle yet to get there when it opened and they have to wait lyle all that baloney"
+      "content": "you know the post office is never anything less than a giant hassle yet to get there when it opened and they have to wait lyle all that baloney",
+      "uuid": "95dfb0b7-19e7-49d9-85d3-a8dd06744e09"
     },
-    "2700": {
+    {
       "requestid": "620f4d95-f64f-43c2-ad30-e2f4d286e3d6",
       "confidence": "0.8668349",
       "timestamp": 2700,
-      "content": "anything you can do at the post office you can do withstamps.com right from your desk you can buy in print actual postage for any letter or"
+      "content": "anything you can do at the post office you can do withstamps.com right from your desk you can buy in print actual postage for any letter or",
+      "uuid": "8ee71ae3-2f3b-4100-a0ad-a4a47ffab1e2"
     },
-    "2710": {
+    {
       "requestid": "49d9480c-aee8-42d1-9356-ea12be56f95c",
       "confidence": "0.8036202",
       "timestamp": 2710,
-      "content": "package using your old computer and printer we just gotta stayup.com account here at the office in one of their digital scales were gonna be using it to do our mailing for our"
+      "content": "package using your old computer and printer we just gotta stayup.com account here at the office in one of their digital scales were gonna be using it to do our mailing for our",
+      "uuid": "5e4fb917-7bcd-4d87-9701-a941f71e854c"
     },
-    "2720": {
+    {
       "requestid": "50301cca-4cac-4354-a11d-ca1b80628b5b",
       "confidence": "0.7835979",
       "timestamp": 2720,
-      "content": "etsy shop in for prizes go to stamps.com user code judge john daniel get a special offer for week trial +110 dollar bonus offer including digital"
+      "content": "etsy shop in for prizes go to stamps.com user code judge john daniel get a special offer for week trial +110 dollar bonus offer including digital",
+      "uuid": "85383c14-153d-49e8-a090-bd77ee33d03a"
     },
-    "2730": {
+    {
       "requestid": "fc857c4d-4a74-4189-a3f9-a5da0bfa268a",
       "confidence": "0.7923563",
       "timestamp": 2730,
-      "content": "jalen up to $55 in free postage don't wait just go to stamps.com and click on the microphone at the top of the home page and type in judge john that"
+      "content": "jalen up to $55 in free postage don't wait just go to stamps.com and click on the microphone at the top of the home page and type in judge john that",
+      "uuid": "a45038e3-eb73-4bfd-9a47-16c7059e318d"
     },
-    "2740": {
+    {
       "requestid": "3845d292-cdb8-4ca7-badc-7957c9b0bb77",
       "confidence": "0.7288429",
       "timestamp": 2740,
-      "content": "stamps.com enter judge john hey everyone is me your judge judge john hodgman how do you know I am taking my night stand"
+      "content": "stamps.com enter judge john hey everyone is me your judge judge john hodgman how do you know I am taking my night stand",
+      "uuid": "a0e3b745-c44e-451f-bf77-a1ae8d892a5b"
     },
-    "2750": {
+    {
       "requestid": "5433b2ae-398b-42e6-898f-457c645d5cce",
       "confidence": "0.7648914",
       "timestamp": 2750,
-      "content": "comedy to the road this fall with a brand new one person show that person being me called vacationland it's a fun show about new england"
+      "content": "comedy to the road this fall with a brand new one person show that person being me called vacationland it's a fun show about new england",
+      "uuid": "fb62493d-e4a4-46b1-8d70-2d08f4b35d40"
     },
-    "2760": {
+    {
       "requestid": "812363ec-1e26-4932-bba4-ae6fea056fe0",
       "confidence": "0.7516597",
       "timestamp": 2760,
-      "content": "deaths in river which is in garbage dumps and II'm going to and many many towns and I hope that one of them is yours or near yours including some new shows that we gotta"
+      "content": "deaths in river which is in garbage dumps and II'm going to and many many towns and I hope that one of them is yours or near yours including some new shows that we gotta",
+      "uuid": "31a77892-49b8-4198-885a-ebb2839eb09c"
     },
-    "2770": {
+    {
       "requestid": "01b75ec6-b62d-4178-9b35-1fad9f6d87fe",
       "confidence": "0.833268",
       "timestamp": 2770,
-      "content": "one in portland maine to compliment our other show in portland oregon will I be traveling between those 2 portlands buy a portal to connect from of course I will also"
+      "content": "one in portland maine to compliment our other show in portland oregon will I be traveling between those 2 portlands buy a portal to connect from of course I will also",
+      "uuid": "d5ed564c-6bdf-439e-ad12-b63b3851163f"
     },
-    "2780": {
+    {
       "requestid": "01da4e6b-e2b9-4865-8299-dacb9ba8880a",
       "confidence": "0.7138742",
       "timestamp": 2780,
-      "content": "lando has been added to the show the evil twin of maine florida I hope you go to johnhundred.com slash tour we will have"
+      "content": "lando has been added to the show the evil twin of maine florida I hope you go to johnhundred.com slash tour we will have",
+      "uuid": "97de9304-e316-417c-89cb-3a9b29a32bc3"
     },
-    "2790": {
+    {
       "requestid": "4dadb7c8-9ffb-466e-b478-eedf4bc4393b",
       "confidence": "0.7775575",
       "timestamp": 2790,
-      "content": "yes to all of the links to all of the tickets which I hope you will buy all of it is well you'll see amazing poster for this vacation tour which was created by the incre"
+      "content": "yes to all of the links to all of the tickets which I hope you will buy all of it is well you'll see amazing poster for this vacation tour which was created by the incre",
+      "uuid": "2647615c-915d-4504-929d-dc08b775ed9d"
     },
-    "2800": {
+    {
       "requestid": "ec8b5ec2-0b71-477d-a70d-94e67aa9870c",
       "confidence": "0.7551796",
       "timestamp": 2800,
-      "content": "bull artist adam hughes you know him from any a catwoman comic book cover which you can buy at the padago.com at the john hodgman store or at"
+      "content": "bull artist adam hughes you know him from any a catwoman comic book cover which you can buy at the padago.com at the john hodgman store or at",
+      "uuid": "b822d29c-3187-4624-b3f4-7b0e34c9fa5e"
     },
-    "2810": {
+    {
       "requestid": "874ca730-1b34-47a8-a80a-6d8470e6fe43",
       "confidence": "0.7831286",
       "timestamp": 2810,
-      "content": "can use them selves bring them by them I will find them vacationland at johnhodgman.com slash tour see you on the american a"
+      "content": "can use them selves bring them by them I will find them vacationland at johnhodgman.com slash tour see you on the american a",
+      "uuid": "968c7224-6176-4d3f-b838-564be6812ac3"
     },
-    "2820": {
+    {
       "requestid": "669f0aff-4c9a-4787-8468-fd41f1178029",
       "confidence": "0.5107254",
       "timestamp": 2820,
-      "content": "well it's on north park please rise as judge john hodgman reenters the courtroom"
+      "content": "well it's on north park please rise as judge john hodgman reenters the courtroom",
+      "uuid": "19e60c0f-32b2-4ea6-a1f8-1b059df2e3eb"
     },
-    "2830": {
+    {
       "requestid": "9b08c310-bcc3-435a-9823-b09c37cb42aa",
       "confidence": "0.700596",
       "timestamp": 2830,
-      "content": "what is things I enjoyed most hearing for the briefing walls in my virtual chambers with ted making an analogy twos from chris's"
+      "content": "what is things I enjoyed most hearing for the briefing walls in my virtual chambers with ted making an analogy twos from chris's",
+      "uuid": "77c1f303-a826-4391-937f-0e46dcaf4272"
     },
-    "2840": {
+    {
       "requestid": "14063800-b97c-48cb-8b94-93b9cf2f51c8",
       "confidence": "0.823801",
       "timestamp": 2840,
-      "content": "a car that makes a funny noise"
+      "content": "a car that makes a funny noise",
+      "uuid": "4bf0d209-1b78-4d7a-abf9-bc7be00fda7d"
     },
-    "2850": {
+    {
       "requestid": "5411a316-fe08-4681-9b3c-f7182ae6f2a7",
       "confidence": "0.6620672",
       "timestamp": 2850,
-      "content": "just true if the funny noise or is it clean kingra clanking and you may be are young person in your life and you don't know how to fix a car yourself and"
+      "content": "just true if the funny noise or is it clean kingra clanking and you may be are young person in your life and you don't know how to fix a car yourself and",
+      "uuid": "0691bb5d-8e6e-4874-83ac-ba87d57f855e"
     },
-    "2860": {
+    {
       "requestid": "2d0fdd71-25bf-42d1-8cf2-87aa27846979",
       "confidence": "0.7646712",
       "timestamp": 2860,
-      "content": "I don't wanna go through all that trouble for having it I looked at my professional inexpensive the repairs at my balls but sometimes the car is on fire"
+      "content": "I don't wanna go through all that trouble for having it I looked at my professional inexpensive the repairs at my balls but sometimes the car is on fire",
+      "uuid": "b0e96e69-b6af-4ea9-887e-47ad83f07c77"
     },
-    "2870": {
+    {
       "requestid": "c8d8d2d4-5b3a-46c9-bc3a-af134bb770c5",
       "confidence": "0.7965599",
       "timestamp": 2870,
-      "content": "at and that's not something you just get used to and there's a little bit of chris that the car on fire by"
+      "content": "at and that's not something you just get used to and there's a little bit of chris that the car on fire by",
+      "uuid": "ed6c2a0f-97b9-498f-b745-9fcd1f41da4f"
     },
-    "2880": {
+    {
       "requestid": "763c0bad-7bf2-41b8-8bfd-d467634450cd",
       "confidence": "0.6922257",
       "timestamp": 2880,
-      "content": "part of this you know you know how I'm always looking for that cracks and I do think that there is it there is it at an element of crocs"
+      "content": "part of this you know you know how I'm always looking for that cracks and I do think that there is it there is it at an element of crocs",
+      "uuid": "007153cf-a35e-4ecf-83a5-ca339268a68a"
     },
-    "2890": {
+    {
       "requestid": "9b320570-6f01-4c45-9c56-f74a4309f29e",
       "confidence": "0.6844888",
       "timestamp": 2890,
-      "content": "in that but ted you are from them the midwest or where people are kind to each other and lookout for each other am"
+      "content": "in that but ted you are from them the midwest or where people are kind to each other and lookout for each other am",
+      "uuid": "ac0fc0d3-bf2f-4484-a2dd-3ee29fbd0aec"
     },
-    "2900": {
+    {
       "requestid": "c2eedf56-1783-4fe4-9929-d36f946b23a4",
       "confidence": "0.744638",
       "timestamp": 2900,
-      "content": "are considered a bit of each other even to their own self abnegation 20 yeah and chris is from"
+      "content": "are considered a bit of each other even to their own self abnegation 20 yeah and chris is from",
+      "uuid": "c06780f7-aa8b-4aa3-a2c2-63276e060878"
     },
-    "2910": {
+    {
       "requestid": "dbfcbdd7-d7aa-4359-93eb-6482bd12ec36",
       "confidence": "0.5610361",
       "timestamp": 2910,
-      "content": "the true wilderness chris you know you referred to yourself as your kind of a hobo you know about 10 you're from central"
+      "content": "the true wilderness chris you know you referred to yourself as your kind of a hobo you know about 10 you're from central",
+      "uuid": "6737d159-03e1-4193-98df-3a4a4523bf5d"
     },
-    "2920": {
+    {
       "requestid": "70a3f057-a671-4361-91b5-ae729ab28048",
       "confidence": "0.4185518",
       "timestamp": 2920,
-      "content": "johnson you know how bout chris flag down a semi"
+      "content": "johnson you know how bout chris flag down a semi",
+      "uuid": "ca64c95d-8ca4-4901-8e8f-9e6909078d12"
     },
-    "2930": {
+    {
       "requestid": "a593690c-aea0-4265-b2ac-37a084a7c81a",
       "confidence": "0.6936152",
       "timestamp": 2930,
-      "content": "fresh and let out today to ride the rails out of poverty out of wanderlust out of"
+      "content": "fresh and let out today to ride the rails out of poverty out of wanderlust out of",
+      "uuid": "763ccc39-0809-425c-8ca8-5af92342fd87"
     },
-    "2940": {
+    {
       "requestid": "5259b05b-e3cf-48b9-b417-04b520f46b9f",
       "confidence": "0.6683503",
       "timestamp": 2940,
-      "content": "mental illness and out of purse personality aberration they were out a desperate crew of of seekers and they were"
+      "content": "mental illness and out of purse personality aberration they were out a desperate crew of of seekers and they were",
+      "uuid": "61ab3395-f05a-4328-a81d-882eb2f848a5"
     },
-    "2950": {
+    {
       "requestid": "c24a1591-7cac-429d-a122-9641ba3d790f",
       "confidence": "0.6505219",
       "timestamp": 2950,
-      "content": "not necessarily happy at annora nor were they singing railroad songs all the time but they were singing whatever singing with songs like big rock in"
+      "content": "not necessarily happy at annora nor were they singing railroad songs all the time but they were singing whatever singing with songs like big rock in",
+      "uuid": "02745306-375d-4172-ae43-3b619e000f60"
     },
-    "2960": {
+    {
       "requestid": "7ad6a75d-03a5-4abb-85c7-e385dc330c15",
       "confidence": "0.6018357",
       "timestamp": 2960,
-      "content": "the mountain in order to lure young people to go with them on the hobo tralyn to be there serpents and chris he's a hobo is it"
+      "content": "the mountain in order to lure young people to go with them on the hobo tralyn to be there serpents and chris he's a hobo is it",
+      "uuid": "03734b7f-0cab-43c8-b6b6-380ce73a993b"
     },
-    "2970": {
+    {
       "requestid": "df88aed6-e588-4a05-962e-5a88178741be",
       "confidence": "0.669343",
       "timestamp": 2970,
-      "content": "mount independent streak such that the if he doesn't feel like write me back he's not gonna write you back I bet I bet confirming plan"
+      "content": "mount independent streak such that the if he doesn't feel like write me back he's not gonna write you back I bet I bet confirming plan",
+      "uuid": "bb21880a-1241-45ab-990a-79ebdad996d2"
     },
-    "2980": {
+    {
       "requestid": "4d8c2d2b-b186-4e3b-8b14-b2a5cda21f06",
       "confidence": "0.7523308",
       "timestamp": 2980,
-      "content": "isn't something that happens a lot in what is the eagles peak alaska"
+      "content": "isn't something that happens a lot in what is the eagles peak alaska",
+      "uuid": "fe068d4f-c28d-4b5c-a5f5-ec5f1120f3b0"
     },
-    "2990": {
+    {
       "requestid": "ca01f28d-f087-4fc2-ab76-058b16270471",
       "confidence": "0.7589149",
       "timestamp": 2990,
-      "content": "going to start a petition to rename at eagle eagle"
+      "content": "going to start a petition to rename at eagle eagle",
+      "uuid": "539a6cd9-b750-4972-a3c8-3fe818b5cf39"
     },
-    "3000": {
+    {
       "requestid": "a6472a17-217f-43ba-8b11-94674d5b2fa9",
       "confidence": "0.7773036",
       "timestamp": 3000,
-      "content": "alaska is the place up at as far as I know for my friend to be alaskan john roderick who is he is listening to podcast I'm sure how"
+      "content": "alaska is the place up at as far as I know for my friend to be alaskan john roderick who is he is listening to podcast I'm sure how",
+      "uuid": "c51ed20b-d9b9-492f-9a68-7daa077e5e19"
     },
-    "3010": {
+    {
       "requestid": "a43693ce-49cf-463c-b25d-4166a8aafb93",
       "confidence": "0.7439719",
       "timestamp": 3010,
-      "content": "lots to say on the subject and is probably saying it out loud even as he listens a lot is a place where at where people don't don't see each other whole lot is that right"
+      "content": "lots to say on the subject and is probably saying it out loud even as he listens a lot is a place where at where people don't don't see each other whole lot is that right",
+      "uuid": "d171ee97-27ae-48e9-87b0-64b7f14e521c"
     },
-    "3020": {
+    {
       "requestid": "bfec43db-0a87-4552-bb5c-d745b094c752",
       "confidence": "0.5229339",
       "timestamp": 3020,
-      "content": "chris oh yes and I need people like an ecm am at school and when you get to work but like this is certainly"
+      "content": "chris oh yes and I need people like an ecm am at school and when you get to work but like this is certainly",
+      "uuid": "29268893-0c47-4a16-a5fb-0187581e3def"
     },
-    "3030": {
+    {
       "requestid": "854cb5d8-ec04-4033-9cbf-0db3bc25569a",
       "confidence": "0.5863623",
       "timestamp": 3030,
-      "content": "I expectation of aloneness and privacy outside of my car is going up there to see if you see him when you see him you know what I mean if you don't seattle city"
+      "content": "I expectation of aloneness and privacy outside of my car is going up there to see if you see him when you see him you know what I mean if you don't seattle city",
+      "uuid": "aafc5a02-92bc-4923-976f-39da0c6a0bad"
     },
-    "3040": {
+    {
       "requestid": "8b119790-42fc-411b-92a5-6c9820957ce9",
       "confidence": "0.6078605",
       "timestamp": 3040,
-      "content": "right exactly and if you don't see MMMA mean it may mean that they don't shut up that they've got some else going on or maybe they"
+      "content": "right exactly and if you don't see MMMA mean it may mean that they don't shut up that they've got some else going on or maybe they",
+      "uuid": "e0bd4de4-c736-4fc7-b76d-56191ceac057"
     },
-    "3050": {
+    {
       "requestid": "071b24b4-112e-4709-a787-317ead0bdff7",
       "confidence": "0.6635462",
       "timestamp": 3050,
-      "content": "to leave their apartment real fast because of the romantic misadventure or maybe I just like in alaska maybe just wondered out into the cold to die"
+      "content": "to leave their apartment real fast because of the romantic misadventure or maybe I just like in alaska maybe just wondered out into the cold to die",
+      "uuid": "c8373c40-1818-48f8-81ee-cd359ea873d4"
     },
-    "3060": {
+    {
       "requestid": "0319de87-14b9-403b-81b7-52dc35e0bdc3",
       "confidence": "0.7862249",
       "timestamp": 3060,
-      "content": "and and I think I think the best bet a little bit trip to my ears a little bit of the imbalances going on here and and I think that chris you like your friend right"
+      "content": "and and I think I think the best bet a little bit trip to my ears a little bit of the imbalances going on here and and I think that chris you like your friend right",
+      "uuid": "31c43c81-0a3c-4d4b-9f94-2e68e2d171f1"
     },
-    "3070": {
+    {
       "requestid": "ce91b7d9-dbe0-49db-933e-73807f986772",
       "confidence": "0.684001",
       "timestamp": 3070,
-      "content": "yeah I love that is my best friend is in my bathroom yeah and ted with the fact is there is a midwesterner it's hard for you to contemplate that"
+      "content": "yeah I love that is my best friend is in my bathroom yeah and ted with the fact is there is a midwesterner it's hard for you to contemplate that",
+      "uuid": "ea15ea04-8c02-4166-842a-979a6f9cad3c"
     },
-    "3080": {
+    {
       "requestid": "6cb8f0da-3c76-40eb-a38c-0babb1647aaa",
       "confidence": "0.8470758",
       "timestamp": 3080,
-      "content": "simon can feel love for you and yet he said so completely inconsiderate of your time and feelings because that's not where you come from and the truth is"
+      "content": "simon can feel love for you and yet he said so completely inconsiderate of your time and feelings because that's not where you come from and the truth is",
+      "uuid": "3515ed6c-9bf1-4ea3-8a17-ef08294227c5"
     },
-    "3090": {
+    {
       "requestid": "17a8a6ec-b384-47e8-9bc5-6ed1c7aeaa62",
       "confidence": "0.7681972",
       "timestamp": 3090,
-      "content": "that chris wouldn't care if you if you are is in consider it to him as as he is routinely to you 10 times a year do you know we never do that"
+      "content": "that chris wouldn't care if you if you are is in consider it to him as as he is routinely to you 10 times a year do you know we never do that",
+      "uuid": "ef3adba1-51a3-4768-9443-6d3cf61eb547"
     },
-    "3100": {
+    {
       "requestid": "7b220b6a-8286-437f-96fe-0d273db7091d",
       "confidence": "0.7488384",
       "timestamp": 3100,
-      "content": "yeah I did I know I know but the thing is it wouldn't bother chris if you did in this is always an infuriating thing between friends ha ha ha"
+      "content": "yeah I did I know I know but the thing is it wouldn't bother chris if you did in this is always an infuriating thing between friends ha ha ha",
+      "uuid": "1a0d24eb-8bb1-4afe-9121-aeef4320b6e9"
     },
-    "3110": {
+    {
       "requestid": "c08c0024-efe2-4e72-a86c-d2b45329ee5b",
       "confidence": "0.7656063",
       "timestamp": 3110,
-      "content": "when when what date they just come from different worldviews I was like yeah I'm sorry I didn't call you I don't ever expect you to call me back"
+      "content": "when when what date they just come from different worldviews I was like yeah I'm sorry I didn't call you I don't ever expect you to call me back",
+      "uuid": "cf63ba5d-0646-464d-99e4-c90e4a272157"
     },
-    "3120": {
+    {
       "requestid": "67b37bc8-a33a-4944-88cb-a7d8cab48558",
       "confidence": "0.6953552",
       "timestamp": 3120,
-      "content": "why are you mad why are you mad at me for going off the grid for 5 days I wouldn't care if you died for you think it's a really it's a pita pit"
+      "content": "why are you mad why are you mad at me for going off the grid for 5 days I wouldn't care if you died for you think it's a really it's a pita pit",
+      "uuid": "ada9e888-ca56-4e55-8a96-f2a4b40992de"
     },
-    "3130": {
+    {
       "requestid": "ca3897e6-7110-48ff-bc63-47dfc314b34f",
       "confidence": "0.7589977",
       "timestamp": 3130,
-      "content": "just went to that degree it's it's a it's a car is making a funny noise and it is indeed just your job to tolerate it right"
+      "content": "just went to that degree it's it's a it's a car is making a funny noise and it is indeed just your job to tolerate it right",
+      "uuid": "bf3c970e-e7a8-431c-83bc-8243a3c938ce"
     },
-    "3140": {
+    {
       "requestid": "32baa0e4-4e5f-491b-a7ed-00ff152151f5",
       "confidence": "0.6809064",
       "timestamp": 3140,
-      "content": "all friends are car is making their own weird funny noises but to the degree that but that this car is on fire but christian"
+      "content": "all friends are car is making their own weird funny noises but to the degree that but that this car is on fire but christian",
+      "uuid": "938306a1-e6be-438b-9234-597a88efcc7e"
     },
-    "3150": {
+    {
       "requestid": "ad0edd40-dd8b-4b18-94e0-5cd96688b8e5",
       "confidence": "0.7934486",
       "timestamp": 3150,
-      "content": "I'm in alaska when you're in you're in you're in the lower portion of the country and in there and it is reasonable to adjust culturelle"
+      "content": "I'm in alaska when you're in you're in you're in the lower portion of the country and in there and it is reasonable to adjust culturelle",
+      "uuid": "e31788b5-4a2c-4d80-9dd2-e41ae2f69c07"
     },
-    "3160": {
+    {
       "requestid": "21534d6c-f2cd-469d-a3bf-fe5f2cd7a0be",
       "confidence": "0.7808139",
       "timestamp": 3160,
-      "content": "somewhat but it is also concerning to me I mean obviously this is a story from college but you're not that far out of college in you spoken a little bit of this"
+      "content": "somewhat but it is also concerning to me I mean obviously this is a story from college but you're not that far out of college in you spoken a little bit of this",
+      "uuid": "3e645e34-9b3f-4412-b3f5-5e5578112847"
     },
-    "3170": {
+    {
       "requestid": "99ac846a-87e7-49d2-81dc-59a879c280ad",
       "confidence": "0.7339679",
       "timestamp": 3170,
-      "content": "pulsion to leave the party or even even when you can you add made arrangements or ipad promised your friends you wouldn't do that"
+      "content": "pulsion to leave the party or even even when you can you add made arrangements or ipad promised your friends you wouldn't do that",
+      "uuid": "0a9c94d6-159e-413a-96bc-ae791cf3ff14"
     },
-    "3180": {
+    {
       "requestid": "8dda3c7a-7d93-4e05-aba8-91255a2477c9",
       "confidence": "0.6542631",
       "timestamp": 3180,
-      "content": "do you have just could not do it um and r at at at at at and when you couple that and you"
+      "content": "do you have just could not do it um and r at at at at at and when you couple that and you",
+      "uuid": "69d44f7b-8a55-49af-8ec9-84e4a12ce62a"
     },
-    "3190": {
+    {
       "requestid": "dfafb655-79ef-4496-8316-ab37671cf5c9",
       "confidence": "0.6807923",
       "timestamp": 3190,
-      "content": "spoke of actual panic attacks so you know social anxiety disorder as I've learned this afternoon from webmd is a"
+      "content": "spoke of actual panic attacks so you know social anxiety disorder as I've learned this afternoon from webmd is a",
+      "uuid": "84e281ab-00a6-4950-9090-248ad970484b"
     },
-    "3200": {
+    {
       "requestid": "1d68ce92-3fd4-4996-8447-9c7ed5744560",
       "confidence": "0.7261485",
       "timestamp": 3200,
-      "content": "do you want one of the only symptom is that when contemplating or social events are in the midst of social events"
+      "content": "do you want one of the only symptom is that when contemplating or social events are in the midst of social events",
+      "uuid": "e099b753-d5f2-4d99-8d88-350f21739c9b"
     },
-    "3210": {
+    {
       "requestid": "41e869ec-8ad3-4851-9328-a0a3fbf8ace0",
       "confidence": "0.6370726",
       "timestamp": 3210,
-      "content": "that a person would have a physical reaction that is not consistent with a panic attack us for this breath a dot physical symptoms so when I ask you"
+      "content": "that a person would have a physical reaction that is not consistent with a panic attack us for this breath a dot physical symptoms so when I ask you",
+      "uuid": "86100a3e-6d8f-4a57-b6d2-066a1593b776"
     },
-    "3220": {
+    {
       "requestid": "2d56683b-3860-4534-89ae-534dda824a5e",
       "confidence": "0.7278681",
       "timestamp": 3220,
-      "content": "do you have a panic attacks are you said yes I have had panic attacks but in your mind you like only 2 are 3 like butts butts up"
+      "content": "do you have a panic attacks are you said yes I have had panic attacks but in your mind you like only 2 are 3 like butts butts up",
+      "uuid": "f7693c26-8d7f-4645-907b-9214e0a97cc8"
     },
-    "3230": {
+    {
       "requestid": "e0bb8612-6475-4b0c-b6cc-416193db8ef6",
       "confidence": "0.7421319",
       "timestamp": 3230,
-      "content": "is going on in your life like that you have that you can think of 2 are 3 we come to my mean yes you're having your having"
+      "content": "is going on in your life like that you have that you can think of 2 are 3 we come to my mean yes you're having your having",
+      "uuid": "58b65833-0324-42bd-86f6-246e8265d896"
     },
-    "3240": {
+    {
       "requestid": "cfe88d93-232c-4106-b3c2-6f85bb089ede",
       "confidence": "0.6835619",
       "timestamp": 3240,
-      "content": "and second of all when I pee when you greet went answers all he's only disappeared in this way maybe 10 times a year in you like my last night"
+      "content": "and second of all when I pee when you greet went answers all he's only disappeared in this way maybe 10 times a year in you like my last night",
+      "uuid": "82538c83-a95a-4baf-a22e-67d88af1ac5e"
     },
-    "3250": {
+    {
       "requestid": "2cd7dfba-cfe5-4f2b-bcc7-631ae5c7819e",
       "confidence": "0.06900352",
       "timestamp": 3250,
-      "content": "app"
+      "content": "app",
+      "uuid": "2a4ea04b-3d6b-4505-b3ed-1dce1ed1cc39"
     },
-    "3260": {
+    {
       "requestid": "c5f24d9c-4d82-42a0-b2e8-630b44a0849f",
       "confidence": "0.7991752",
       "timestamp": 3260,
-      "content": "you are entitled to your privacy and in if you are you might wanna talk to someone about if you really feeling social anxiety NNNN maybe I'm overstating"
+      "content": "you are entitled to your privacy and in if you are you might wanna talk to someone about if you really feeling social anxiety NNNN maybe I'm overstating",
+      "uuid": "7374e1ee-243d-4953-8b85-19eef159eef4"
     },
-    "3270": {
+    {
       "requestid": "24d1e744-498b-4958-b94d-92f3728175ca",
       "confidence": "0.7987972",
       "timestamp": 3270,
-      "content": "but you know you might wanna talk to a professional maybe if you know if you happen to know of a family and child therapist in your life not what you do to it"
+      "content": "but you know you might wanna talk to a professional maybe if you know if you happen to know of a family and child therapist in your life not what you do to it",
+      "uuid": "9763dc35-d532-40c8-b4be-366b61376038"
     },
-    "3280": {
+    {
       "requestid": "5d8fc425-1d55-43c5-9d5c-a9f8bd878410",
       "confidence": "0.5822465",
       "timestamp": 3280,
-      "content": "I am I have that I should know how do I work with anxiety disorders all the time and all and I don't think chris chris"
+      "content": "I am I have that I should know how do I work with anxiety disorders all the time and all and I don't think chris chris",
+      "uuid": "be34991e-ed79-43e1-ae64-8a0aa3cde851"
     },
-    "3290": {
+    {
       "requestid": "d5d86279-bd46-4129-aeb8-913bd0a3a120",
       "confidence": "0.5878834",
       "timestamp": 3290,
-      "content": "chris is big cracks in my own opinion and I know that is not up there with the truecrypt finder but it is just anxiety is most often easily"
+      "content": "chris is big cracks in my own opinion and I know that is not up there with the truecrypt finder but it is just anxiety is most often easily",
+      "uuid": "e6021d20-e075-4315-9c2f-ac37442d46c5"
     },
-    "3300": {
+    {
       "requestid": "21fb296b-d9e9-42fe-bcdd-a5a7c02ed2ad",
       "confidence": "0.5976647",
       "timestamp": 3300,
-      "content": "that was with avoidance is this unk unk bully <profanity>dog shit</profanity> in it doesn't get more income cool probably repeat it so I see the do utilities"
+      "content": "that was with avoidance is this unk unk bully <profanity>dog shit</profanity> in it doesn't get more income cool probably repeat it so I see the do utilities",
+      "uuid": "e4c859a4-1d4f-4ca1-8fa2-2ed3317401da"
     },
-    "3310": {
+    {
       "requestid": "a3c4cb6f-682e-4faa-9351-2f39f79c4f61",
       "confidence": "0.6807539",
       "timestamp": 3310,
-      "content": "of a behavior that gets you off the hook phone is just talk to the other people who who who are involved I think"
+      "content": "of a behavior that gets you off the hook phone is just talk to the other people who who who are involved I think",
+      "uuid": "a7353637-969d-4783-803a-247e0fa40c7d"
     },
-    "3320": {
+    {
       "requestid": "83193a11-0f9f-4c27-ba70-d36b08152302",
       "confidence": "0.6311386",
       "timestamp": 3320,
-      "content": "I can get it if you don't wanna do it feels better not to know but it feels bad to be taken for granted park in less than 10"
+      "content": "I can get it if you don't wanna do it feels better not to know but it feels bad to be taken for granted park in less than 10",
+      "uuid": "a816eee1-50d7-4ae7-b4a7-6ab19ad9ed62"
     },
-    "3330": {
+    {
       "requestid": "b182c5c5-6f77-451f-8018-87a47c0620f4",
       "confidence": "0.7305497",
       "timestamp": 3330,
-      "content": "I appreciate your feelings but I don't care about that"
+      "content": "I appreciate your feelings but I don't care about that",
+      "uuid": "2e02f8cf-1eb0-413c-ae67-1c527ad184e8"
     },
-    "3340": {
+    {
       "requestid": "bb562483-5197-4249-8fb9-b0468d14ca7e",
       "confidence": "0.7401995",
       "timestamp": 3340,
-      "content": "who played the thing is that II am I am sad that you are your feelings are hurt and I think chris is 2 anatomy modify his behavior"
+      "content": "who played the thing is that II am I am sad that you are your feelings are hurt and I think chris is 2 anatomy modify his behavior",
+      "uuid": "f199fb9b-fc22-4949-aa5a-f5ece5909fca"
     },
-    "3350": {
+    {
       "requestid": "963dc4fd-6704-4ab6-8e3f-56bbc7560d70",
       "confidence": "0.7131298",
       "timestamp": 3350,
-      "content": "natural right but also the 2 things I will say that mandates not just action"
+      "content": "natural right but also the 2 things I will say that mandates not just action",
+      "uuid": "cd577c5a-ec57-497f-91c0-a60e8d462a33"
     },
-    "3360": {
+    {
       "requestid": "1592700c-84c1-4c5c-89a9-1a0af89c43c5",
       "confidence": "0.7631696",
       "timestamp": 3360,
-      "content": "this is part but my my ruin which will become clear in a moment is one if you r potentially acting out of anxiety"
+      "content": "this is part but my my ruin which will become clear in a moment is one if you r potentially acting out of anxiety",
+      "uuid": "ae898f2b-c674-4fd6-baa4-41f49ff2b6f8"
     },
-    "3370": {
+    {
       "requestid": "047abb95-00f8-4df1-91b7-f59a1b818dc6",
       "confidence": "0.7655171",
       "timestamp": 3370,
-      "content": "the spark avoidance or are feeling compelled to do things that you already have agreed not to do"
+      "content": "the spark avoidance or are feeling compelled to do things that you already have agreed not to do",
+      "uuid": "74770d37-b01a-49a7-b5a0-15fe0e5c4f8f"
     },
-    "3380": {
+    {
       "requestid": "d94a425b-61a0-4ec6-85c8-07363bb49ea2",
       "confidence": "0.6540722",
       "timestamp": 3380,
-      "content": "are you should examine that in your life and see if it needs a little bit more attention whether not you go to ted as your therapist I think I would be a terrible idea pad can I get into town"
+      "content": "are you should examine that in your life and see if it needs a little bit more attention whether not you go to ted as your therapist I think I would be a terrible idea pad can I get into town",
+      "uuid": "1cd21747-51a6-46d8-8289-6119c7f44d0d"
     },
-    "3390": {
+    {
       "requestid": "ec3ebafe-095d-4cae-b03b-d22f273e728c",
       "confidence": "0.4791144",
       "timestamp": 3390,
-      "content": "note tat is totally wrapped up in his own feelings and right amen"
+      "content": "note tat is totally wrapped up in his own feelings and right amen",
+      "uuid": "46330dc7-f742-44f3-aa85-a38da61368f9"
     },
-    "3400": {
+    {
       "requestid": "755aac1b-418e-4ce2-801a-5f3a3e75d756",
       "confidence": "0.7313987",
       "timestamp": 3400,
-      "content": "man who who doesn't it doesn't care about you the way you don't care about it and then the other thing we have is the other thing is"
+      "content": "man who who doesn't it doesn't care about you the way you don't care about it and then the other thing we have is the other thing is",
+      "uuid": "9d46375e-db4d-4db6-8f9d-26e3928ffb56"
     },
-    "3410": {
+    {
       "requestid": "fec5a45f-a1f7-462a-b82b-81876f16cc05",
       "confidence": "0.7147098",
       "timestamp": 3410,
-      "content": "that um if it's ok if you hurt its feelings table get over it and learn and grow but you can't disappear for days on end"
+      "content": "that um if it's ok if you hurt its feelings table get over it and learn and grow but you can't disappear for days on end",
+      "uuid": "6d296bdf-1c61-4c3d-9899-93cef330250b"
     },
-    "3420": {
+    {
       "requestid": "88d59401-f220-4092-b72c-fdd8d503f5d1",
       "confidence": "0.7638304",
       "timestamp": 3420,
-      "content": "and not expect your friend to worry about whether you're alive are dead at this class is social contract right there I know it's different in alaska no one cares"
+      "content": "and not expect your friend to worry about whether you're alive are dead at this class is social contract right there I know it's different in alaska no one cares",
+      "uuid": "9459d1dd-aab3-428c-8d6d-5c2ddba436b5"
     },
-    "3430": {
+    {
       "requestid": "22e0c6a7-9e61-44e5-822e-3a430a45071b",
       "confidence": "0.7704136",
       "timestamp": 3430,
-      "content": "hi there a down here so you have to let people know you're alive right especially if you have a history of jumping into trucks unimi like"
+      "content": "hi there a down here so you have to let people know you're alive right especially if you have a history of jumping into trucks unimi like",
+      "uuid": "746add0c-3464-4332-828d-beddfed4b2d1"
     },
-    "3440": {
+    {
       "requestid": "ee7d74d5-1807-40e9-a187-264fe81dc273",
       "confidence": "0.743598",
       "timestamp": 3440,
-      "content": "so when I say in this is gonna be my order I do find ted's favor but in order 19 york up your cultural"
+      "content": "so when I say in this is gonna be my order I do find ted's favor but in order 19 york up your cultural",
+      "uuid": "7a682ee1-4b71-409d-ab00-46e18451189f"
     },
-    "3450": {
+    {
       "requestid": "795b8e0f-9dd0-49b9-9856-6500a10c89d2",
       "confidence": "0.7014003",
       "timestamp": 3450,
-      "content": "agassi of independence and dad and not caring I would say that when ted asked you to confirm"
+      "content": "agassi of independence and dad and not caring I would say that when ted asked you to confirm",
+      "uuid": "49f3e23a-b4dd-422f-8983-4b012cac2332"
     },
-    "3460": {
+    {
       "requestid": "0b12f284-b32e-4f36-9c9e-8a0f5e0d9c1c",
       "confidence": "0.7143064",
       "timestamp": 3460,
-      "content": "plan or simply wishes to know that you were lucky you do not need to reply to him with words you must choose a single emoji"
+      "content": "plan or simply wishes to know that you were lucky you do not need to reply to him with words you must choose a single emoji",
+      "uuid": "73b0687a-de32-46e5-a339-043721498192"
     },
-    "3470": {
+    {
       "requestid": "61b5bdf2-5410-4c90-bda0-279089d64f5e",
       "confidence": "0.7400345",
       "timestamp": 3470,
-      "content": "that will just be a pain in back"
+      "content": "that will just be a pain in back",
+      "uuid": "6910c2b8-bfb8-436a-a80c-3ef6d92bd1d7"
     },
-    "3480": {
+    {
       "requestid": "a3250ca3-0ae6-46c4-b338-2ae879d0111f",
       "confidence": "0.7193853",
       "timestamp": 3480,
-      "content": "you're great but you're just you're just on planet chris right now and you're not gonna you not gonna get back I'm in any other way I don't know that emoji"
+      "content": "you're great but you're just you're just on planet chris right now and you're not gonna you not gonna get back I'm in any other way I don't know that emoji",
+      "uuid": "9247febf-cc68-4e6c-9d38-883d1712ffc6"
     },
-    "3490": {
+    {
       "requestid": "0d09cb7b-cd5c-43cf-b747-b8374cf8cfb6",
       "confidence": "0.6463906",
       "timestamp": 3490,
-      "content": "gonna be do that there can be creativity there would you please call me chris devil mask I would my fever mode on my phone is rocket ship so"
+      "content": "gonna be do that there can be creativity there would you please call me chris devil mask I would my fever mode on my phone is rocket ship so",
+      "uuid": "c3500726-7980-4552-bfdf-ab71f83d4470"
     },
-    "3500": {
+    {
       "requestid": "41e8d53e-753e-4598-94c9-6c79d47935c7",
       "confidence": "0.6167755",
       "timestamp": 3500,
-      "content": "pile of poo balaguer 2000 alright you got a rocket ship for up for a another code"
+      "content": "pile of poo balaguer 2000 alright you got a rocket ship for up for a another code",
+      "uuid": "2efa6fa0-8134-40af-b6b1-61fe52ca07ae"
     },
-    "3510": {
+    {
       "requestid": "aa3b8071-34d1-4fe2-a426-254fd7a3860f",
       "confidence": "0.2579026",
       "timestamp": 3510,
-      "content": "are you choose one"
+      "content": "are you choose one",
+      "uuid": "930de246-444e-469d-96ef-d106e22bebd3"
     },
-    "3520": {
+    {
       "requestid": "e202442e-b775-4865-89ae-ca24a218028d",
       "confidence": "0.8746476",
       "timestamp": 3520,
-      "content": "which is to connect with you at a time when you're feeling like you don't wanna be connected to whenever your friend ted reaches out to you at that time you can just send him back a friendly pie"
+      "content": "which is to connect with you at a time when you're feeling like you don't wanna be connected to whenever your friend ted reaches out to you at that time you can just send him back a friendly pie",
+      "uuid": "c3120696-7e9f-4a88-8ffd-196290338073"
     },
-    "3530": {
+    {
       "requestid": "33cabc2c-f747-4ed9-9527-9f4354c8825d",
       "confidence": "0.403565",
       "timestamp": 3530,
-      "content": "I think you can visit asava gavel"
+      "content": "I think you can visit asava gavel",
+      "uuid": "b5c4e3fb-94d8-44d0-8f91-bc6e56080ba3"
     },
-    "3540": {
+    {
       "requestid": "6210ec7e-3df0-486a-abc8-54498e13782b",
       "confidence": "0.5381793",
       "timestamp": 3540,
-      "content": "how do you feel about the judges decision already I am I agree I think that he did that"
+      "content": "how do you feel about the judges decision already I am I agree I think that he did that",
+      "uuid": "62fe3c04-a09c-4de4-8521-03271537ea00"
     },
-    "3550": {
+    {
       "requestid": "0e8bbfc1-fe0a-45ac-9281-687396c9bcd2",
       "confidence": "0.5132025",
       "timestamp": 3550,
-      "content": "he sitting in in siding with me as the plaintiff I'm just think that chris will you sis"
+      "content": "he sitting in in siding with me as the plaintiff I'm just think that chris will you sis",
+      "uuid": "c7c0d12a-53b3-44e0-bfd4-c4596ac027a7"
     },
-    "3560": {
+    {
       "requestid": "32227825-d221-4716-85d1-060d19f78715",
       "confidence": "0.4390492",
       "timestamp": 3560,
-      "content": "little stinker a mojih to avoid so much social pressure"
+      "content": "little stinker a mojih to avoid so much social pressure",
+      "uuid": "79e4407d-6977-4300-962d-bb5d68aebae5"
     },
-    "3570": {
+    {
       "requestid": "839d012a-e91a-4a5c-b2c0-5f2aaced245e",
       "confidence": "0.4854953",
       "timestamp": 3570,
-      "content": "well I think it's it's a better exit strategy than a semi truck I had yeah"
+      "content": "well I think it's it's a better exit strategy than a semi truck I had yeah",
+      "uuid": "0f6fec8b-c430-41f8-ad07-47a7caaf718b"
     },
-    "3580": {
+    {
       "requestid": "6daba689-e1bc-4dcc-982f-016a511e12b8",
       "confidence": "0.7205492",
       "timestamp": 3580,
-      "content": "I think it's a fair decision um I think I could stand to be a little bit more responsive inconsiderate of my friends"
+      "content": "I think it's a fair decision um I think I could stand to be a little bit more responsive inconsiderate of my friends",
+      "uuid": "51cdd970-81e1-4ae9-88f3-9af1991455c2"
     },
-    "3590": {
+    {
       "requestid": "7421338d-a9ce-4dac-8246-4d446acdf30e",
       "confidence": "0.5715455",
       "timestamp": 3590,
-      "content": "feelings when it comes to my you know non responsiveness are even personal safety so I'll make the effort I'm happy for"
+      "content": "feelings when it comes to my you know non responsiveness are even personal safety so I'll make the effort I'm happy for",
+      "uuid": "d6911976-fa87-4d45-bbef-a84cb01a655c"
     },
-    "3600": {
+    {
       "requestid": "02ca23ab-9b99-44ce-9d18-c37b1c38aaaa",
       "confidence": "0.5847779",
       "timestamp": 3600,
-      "content": "and thank you both for being on judge john hodgman podcast"
+      "content": "and thank you both for being on judge john hodgman podcast",
+      "uuid": "fec516a9-fb18-41d7-acd6-db9ef7b11830"
     },
-    "3610": {
+    {
       "requestid": "486dad56-64f0-475d-9973-263757f84d3d",
       "confidence": "0.7410251",
       "timestamp": 3610,
-      "content": "and here will soon be doing our crossover episodes as promised you doing our annual pledge drive the ladies of the awesome parenting podcast one bad mother will be too"
+      "content": "and here will soon be doing our crossover episodes as promised you doing our annual pledge drive the ladies of the awesome parenting podcast one bad mother will be too",
+      "uuid": "29f483d9-7bf1-425a-8f19-b51e03bee987"
     },
-    "3620": {
+    {
       "requestid": "6a83bb3e-b4df-4c06-9132-36417bcdc67a",
       "confidence": "0.7036897",
       "timestamp": 3620,
-      "content": "in the wheel to judge john hodgman podcast for a week and here's where you come in if your parenting related disputes forbidden to restore is all send them to us at hodgman at mac"
+      "content": "in the wheel to judge john hodgman podcast for a week and here's where you come in if your parenting related disputes forbidden to restore is all send them to us at hodgman at mac",
+      "uuid": "9ca189d0-d2f7-42cc-9898-22a83db672a7"
     },
-    "3630": {
+    {
       "requestid": "4fde9642-733a-42a5-a8bd-8487d9933862",
       "confidence": "0.791275",
       "timestamp": 3630,
-      "content": "I'm fun.org or go to maximumfun.org slash JJO we need your disputes and soon send them in by September 25th be considered that is all"
+      "content": "I'm fun.org or go to maximumfun.org slash JJO we need your disputes and soon send them in by September 25th be considered that is all",
+      "uuid": "1c9c6e10-90db-4cd8-9c38-9ed546d16567"
     },
-    "3640": {
+    {
       "requestid": "cd58b6ce-5767-42ef-970a-542ec26da0fc",
       "confidence": "0.7114786",
       "timestamp": 3640,
-      "content": "hi I'm mark and I'm however the host of we got this the show that offers definitive answers to bedum debates that you suggest every wednesday we discuss the"
+      "content": "hi I'm mark and I'm however the host of we got this the show that offers definitive answers to bedum debates that you suggest every wednesday we discuss the",
+      "uuid": "6f0735f7-055d-402b-bb11-22b7628edd68"
     },
-    "3650": {
+    {
       "requestid": "092c7bb8-baac-40e6-abb1-f7da4759a892",
       "confidence": "0.7887321",
       "timestamp": 3650,
-      "content": "hot button topics never knew you cared so much about liquidy zipa catch up in a hot dogs what's the best star wars movie whether it's better to be too hot or too cold coke or pepsi"
+      "content": "hot button topics never knew you cared so much about liquidy zipa catch up in a hot dogs what's the best star wars movie whether it's better to be too hot or too cold coke or pepsi",
+      "uuid": "db87bd67-1dbe-469e-8201-7d5ff71ba320"
     },
-    "3660": {
+    {
       "requestid": "ad928fe0-f76b-407b-a54f-f67766ed57df",
       "confidence": "0.8522107",
       "timestamp": 3660,
-      "content": "best marvel movie which is the best religion I told you not doing that one to join as every week on maximumfun.org and don't worry every one week"
+      "content": "best marvel movie which is the best religion I told you not doing that one to join as every week on maximumfun.org and don't worry every one week",
+      "uuid": "d94e2620-135c-4f45-a70c-121d67c88ffe"
     },
-    "3670": {
+    {
       "requestid": "c3e2abeb-d849-4d48-b65f-ee10964ec6c6",
       "confidence": "0.5554195",
       "timestamp": 3670,
-      "content": "got this we got this"
+      "content": "got this we got this",
+      "uuid": "d1742518-c738-4927-a21d-b570b0c705de"
     },
-    "3680": {
+    {
       "requestid": "2f366c85-2e5e-4a7d-a040-eaa43f2fcad2",
       "confidence": "0.724261",
       "timestamp": 3680,
-      "content": "is the name for future cases like us on facebook regularly put out a call for submissions if you have a case for the job submit it at www dot"
+      "content": "is the name for future cases like us on facebook regularly put out a call for submissions if you have a case for the job submit it at www dot",
+      "uuid": "b72bd470-a658-420b-9226-10d0bc3a0337"
     },
-    "3690": {
+    {
       "requestid": "4eea8da8-dcd6-4068-882b-b3f1eda39de0",
       "confidence": "0.6451882",
       "timestamp": 3690,
-      "content": "maximumfun.org slash j jhl I've been you guessed baillargeon gray julia smith produces the show my click on the laser editor"
+      "content": "maximumfun.org slash j jhl I've been you guessed baillargeon gray julia smith produces the show my click on the laser editor",
+      "uuid": "9cddce1d-1908-4e44-8e87-0db0e24ce187"
     },
-    "3700": {
+    {
       "requestid": "2442b1d7-b57a-4c1e-8309-20858ce48be8",
       "confidence": "0.5143722",
       "timestamp": 3700,
-      "content": "thanks for joining us for the judge john hodgman not rude"
+      "content": "thanks for joining us for the judge john hodgman not rude",
+      "uuid": "49511ac5-213c-47a5-9a3b-417ebd0f8070"
     },
-    "3710": {
+    {
       "requestid": "03fb3fe6-d287-4243-a2b2-39ffb8515146",
       "confidence": "0.6868699",
       "timestamp": 3710,
-      "content": "lean culture artist owned listener supported"
+      "content": "lean culture artist owned listener supported",
+      "uuid": "bdf377a5-d1dc-43e0-98f9-59210584bd9d"
     }
-  },
+  ],
   "slug": "No-show-Contendere"
 }

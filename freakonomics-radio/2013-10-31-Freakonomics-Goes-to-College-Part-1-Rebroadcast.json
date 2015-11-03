@@ -4,1333 +4,1526 @@
   "description": "<p>What's a college degree really worth these days?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/uoj0TaH2tsE/freakonomics_podcast103113.mp3",
   "slug": "Freakonomics-Goes-to-College--Part-1--Rebroadcast-",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "9cb1047c-05bd-4979-8032-93583e234d62",
       "confidence": "0.6627789",
       "timestamp": 0.0,
       "content": "hey packet pushers when the most popular episode we ever put out with called freakonomics goes to college actions 2 are most popular episode of the 2 parter",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e41195e4-a5eb-44c7-9f1a-0f1274169c0f"
     },
-    "8.94": {
+    {
       "requestid": "094f38ff-4076-4f0f-8582-d9b9b4ebf4e0",
       "confidence": "0.834097",
       "timestamp": 8.94,
       "content": "and so since it's that time of year when a lot of you or your kids are putting the finishing touches on those college applications we thought we played those 2 episodes again if nothing else maybe it'll take your mind off all the terrible things you wanna do the admissions office right now hope you enjoy",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "fcda4599-6883-473c-8d06-24b2ec816683"
     },
-    "25.57": {
+    {
       "requestid": "f3bde94e-b423-48f0-831a-171c712b51a0",
       "timestamp": 25.57,
-      "content": ""
+      "content": "",
+      "uuid": "2ea77841-489b-4025-8fb3-b6bc70072bda"
     },
-    "31.46": {
+    {
       "requestid": "ee322eec-fbb1-496f-9528-a5310cb9b16f",
       "confidence": "0.7425258",
       "timestamp": 31.46,
       "content": "hello Mr. zell yes hi steven to be nice to meet you steven nice to meet you and you won't believe what I'm holding in my hand",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d8b1635d-33a6-4d6e-a29d-e2d2e246c6e7"
     },
-    "39.75": {
+    {
       "requestid": "ca8736c9-5e88-471e-bd0c-8a08bdd0f119",
       "confidence": "0.8474724",
       "timestamp": 39.75,
       "content": "ha ha ha ha ha ha",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "18b41acc-f7a9-4ef5-91af-3be37d8fc5ae"
     },
-    "43.43": {
+    {
       "requestid": "047949b6-c7e5-4a5a-aabd-ee01da02c6dc",
       "confidence": "0.7042009",
       "timestamp": 43.43,
       "content": "let me guess because I just got a degree in psych it come work so um I'm gonna be pressed over the internet of course where else up I'm gonna say that you have in your hand a diploma I may be from apple atunes state university",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "f4fb1a6a-2ee7-4fc4-bb67-ada0a1076602"
     },
-    "60.93": {
+    {
       "requestid": "dc844b15-6b25-47f4-afc5-d83f63f4f8f8",
       "confidence": "0.8525176",
       "timestamp": 60.93,
       "content": "yes found a new year 1899 and I like their logo down",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2ba31262-b1bf-4729-a0c4-b9179a907f4c"
     },
-    "65.08": {
+    {
       "requestid": "172eece8-423b-4230-a62a-e7f2f9a4aaaa",
       "confidence": "0.732724",
       "timestamp": 65.08,
       "content": "about a hotspot and what did I get my degree in",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "a5788cae-ae06-4904-8017-e8515d91fe12"
     },
-    "68.74": {
+    {
       "requestid": "03f20a56-78a7-4bba-82a5-4520333a4757",
       "confidence": "0.6492484",
       "timestamp": 68.74,
       "content": "oh I have no idea this is a blank know so I can be whatever I sure can I buy is going to be a vet well if that turns you on then bet that sucks and I'm sure that the animals would have fun with",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d239848e-390a-4241-b140-e44278e50fa6"
     },
-    "80.55": {
+    {
       "requestid": "9a21ca20-6bae-46a7-98fe-f35699c28f72",
       "confidence": "0.757203",
       "timestamp": 80.55,
       "content": "joe and I do you maybe also have AA graduate degree from columbia university as well",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "2a414518-dc9a-41cf-9033-049a8ba1fe2b"
     },
-    "88.48": {
+    {
       "requestid": "643693fa-4a37-4f4c-b417-9e7ce4851dc5",
       "confidence": "0.6984549",
       "timestamp": 88.48,
       "content": "the trustees of columbia university in the city of new york to all persons to home these represents makkum reading vietnam vet having completed the studies and satisfy the requirements for the degree of and it's a blank also",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6eacd831-5818-4dd3-bada-18287f5f1bce"
     },
-    "102.96": {
+    {
       "requestid": "d954dd57-a702-4c08-aa26-7cc67842687f",
       "confidence": "0.6637545",
       "timestamp": 102.96,
       "content": "hot diggity you know",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "6b71f4c2-f29f-4295-99c0-bc26fece4a7e"
     },
-    "105.42": {
+    {
       "requestid": "b8a06305-095f-4dd0-a810-104db93100d1",
       "confidence": "0.8749222",
       "timestamp": 105.42,
       "content": "I did get a degree in writing bear but I",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "7a103851-d28c-4d69-8568-bd073886fcb1"
     },
-    "107.95": {
+    {
       "requestid": "48e96b73-2510-4bba-bf7c-4f6c9fdd7d65",
       "confidence": "0.7931752",
       "timestamp": 107.95,
       "content": "really thought I should have I become a doctor instead so hey",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "4b30483f-46f4-4c14-818a-bb06be571e67"
     },
-    "112.34": {
+    {
       "requestid": "3d16ae3d-d54c-4e49-b105-90800418e440",
       "confidence": "0.7405682",
       "timestamp": 112.34,
       "content": "you can be whatever you wanna be remember I got to wendy's",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "8e3d2100-4a3d-45eb-b9e4-987f52d55d37"
     },
-    "117.51": {
+    {
       "requestid": "2e98edc1-699a-4f3f-a7c2-9bcdd6e42c5d",
       "timestamp": 117.51,
-      "content": ""
+      "content": "",
+      "uuid": "c71148aa-09ad-4638-ae04-cb1a183890c9"
     },
-    "126.01": {
+    {
       "requestid": "8a436940-aaae-424c-89a2-23ef713c2e58",
       "confidence": "0.6125044",
       "timestamp": 126.01,
       "content": "wmic this is freakonomics radio podcast city north side of everything",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "8570baba-b961-427a-9d31-a129f2c44dd1"
     },
-    "133.6": {
+    {
       "requestid": "3dc817bc-7ee8-41ab-9bd4-5d449543b36f",
       "confidence": "0.3658572",
       "timestamp": 133.6,
       "content": "here's your house",
-      "speaker": "S21"
+      "speaker": "S21",
+      "uuid": "17f57c68-82cc-4ea7-ad44-7f2c27f0c4cd"
     },
-    "142.06": {
+    {
       "requestid": "ceaaf41e-452c-4759-a3f2-73eeae576ef5",
       "timestamp": 142.06,
-      "content": ""
+      "content": "",
+      "uuid": "a82efc3a-5641-4db3-9ff1-bbb972298d8f"
     },
-    "147.75": {
+    {
       "requestid": "8ee24a13-77de-4d8b-b04d-76baffb9cc9c",
       "confidence": "0.8635483",
       "timestamp": 147.75,
       "content": "I'm today show were talking about the value of a college degree now for the record I really did go to college I got my undergraduate degree in broadcast journalism actually at apple atunes state university",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "d372af3a-e4b8-408c-a2e4-b596e3fc7e03"
     },
-    "160.46": {
+    {
       "requestid": "eed83515-9d1d-4c0e-9e28-2cdc9c7b7aa7",
       "confidence": "0.6704276",
       "timestamp": 160.46,
       "content": "and I can nfa in writing from columbia which is why alan essel brought those particular diplomes to the radio studio",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "f56c94e9-817d-439e-850f-41ad6f7eb259"
     },
-    "168.92": {
+    {
       "requestid": "3db60864-c7cc-4794-b39f-a5d937be2865",
       "confidence": "0.6978995",
       "timestamp": 168.92,
       "content": "you may be asking who is alan is out at and how to get holderby's blank depalma's",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "83a5e8c3-bc85-435f-aeab-45a3b2d3073d"
     },
-    "174.36": {
+    {
       "requestid": "525a3c41-f44f-4834-8d4f-a89ea4b61b34",
       "confidence": "0.8525531",
       "timestamp": 174.36,
       "content": "well he used to work for the fbi",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "e399e711-5120-4e57-8792-ee9e9cef0573"
     },
-    "180.22": {
+    {
       "requestid": "5a444acb-f6af-4feb-8c79-59264b0bbdac",
       "confidence": "0.7290742",
       "timestamp": 180.22,
       "content": "oh I retired in late 1991 and 412 years I handled it was called operation dip scam diploma scam it was a series of investigations on degree mills diploma mills throughout the united states in some more",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "bccc1560-7099-49bd-8972-ab65ce4a401f"
     },
-    "198.1": {
+    {
       "requestid": "7f31402c-d580-4cb7-8271-2560fcba7077",
       "confidence": "0.8029523",
       "timestamp": 198.1,
       "content": "don't know it should be said you say that you handled this investigation but you're being a little monster you created this investigation in ya",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "f1d2eecd-cdcb-4524-b39b-bdade3347599"
     },
-    "209.25": {
+    {
       "requestid": "c8aa51ac-49ef-4b1d-866d-14b2efd2c553",
       "confidence": "0.6807619",
       "timestamp": 209.25,
       "content": "here to start one day in 1980 an informant came into itself fbi office in charlotte north carolina and laid a couple of speak college diplomas honest he told is l",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "1a32aced-6917-42d5-8292-cf3a5df94aa9"
     },
-    "222.56": {
+    {
       "requestid": "cc6db88a-dc12-4d28-b94a-ca2e0358e0cb",
       "confidence": "0.844943",
       "timestamp": 222.56,
       "content": "about a man in greenville south carolina who selling them so is there",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "264dd0e5-c0dc-40aa-a9f8-d504a8f1d591"
     },
-    "227.77": {
+    {
       "requestid": "0d5707ba-a2f3-40e8-b946-d99b4b08ac6b",
       "confidence": "0.7650072",
       "timestamp": 227.77,
       "content": "made a phone call didn't say with the FBI said he was an accountant hoping to get promotion",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "511f6338-4a98-455f-9286-f2c373ccd255"
     },
-    "235.8": {
+    {
       "requestid": "6549cd8f-9ddb-4bb1-aa9e-74c7da727f26",
       "confidence": "0.9151194",
       "timestamp": 235.8,
       "content": "that first day when you get on the phone with the president of the university in greenville south carolina what was the name that university south eastern southeastern and was it a real college it all",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "236e8156-b39f-4c82-9719-1a2d4a869a6e"
     },
-    "246.7": {
+    {
       "requestid": "c394552e-f2f2-4afb-8fc6-52e243005ae7",
       "confidence": "0.7731696",
       "timestamp": 246.7,
       "content": "that were drilled by yes it was well it's it's a relative term be out there was a point in time probably 11 years before that that it did have a building",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b84d3d35-6788-43a1-a624-01056c1837f8"
     },
-    "257.77": {
+    {
       "requestid": "20b4c3e2-e5b2-414c-a373-bcf13626789b",
       "confidence": "0.7719913",
       "timestamp": 257.77,
       "content": "there later came a point in time when it they had a fire something when it stop being real in that sense and then all the proprietor started operating the school lot of free rooms abeshaus who is the sellers name doctorale for jerrod",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "93b87473-eb27-4a0f-b0a9-0f10ffbb0ecf"
     },
-    "273.48": {
+    {
       "requestid": "8bb90a10-cfd9-437e-be9c-0c0fd234ec43",
       "confidence": "0.8365614",
       "timestamp": 273.48,
       "content": "ok see you called me up at do you call doctor jerrod at southeastern university in and what did you say to him",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "a17d9aa2-1aed-4ff7-bd53-dedce097c765"
     },
-    "278.91": {
+    {
       "requestid": "e1bff8ff-05a8-4f93-a16d-bf5543492a37",
       "confidence": "0.8480395",
       "timestamp": 278.91,
       "content": "we negotiated the price for my bachelors masters and doctorate with no work what's up",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "301e49c3-3b5d-4113-a8f9-223748a1f87d"
     },
-    "285.65": {
+    {
       "requestid": "e3e3edbf-0713-4fd0-9689-f9719a606810",
       "confidence": "0.7282349",
       "timestamp": 285.65,
       "content": "everway you bought a bachelors masters in the doctor all at once shore triple combo happy birthday did you know with transcript",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b575db2d-886d-443d-a2da-3eaf43cc47f8"
     },
-    "294.14": {
+    {
       "requestid": "9338e879-8ce4-4e76-938e-1c473aaa0e03",
       "timestamp": 294.14,
-      "content": ""
+      "content": "",
+      "uuid": "d2be4826-683e-4440-958d-785b8495f0fa"
     },
-    "296.77": {
+    {
       "requestid": "503316cf-e420-4551-9066-1c9ac24c10c0",
       "confidence": "0.6899949",
       "timestamp": 296.77,
       "content": "during that conversation is bill made it sound as if he and a colleague might be helpful to gerit in growing is diplome business so jerrod invited them for visit",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "feb7edd5-9036-4e65-95f0-4f8a42b51388"
     },
-    "308.92": {
+    {
       "requestid": "223ffc63-af92-4acd-b826-cff27dfa8d37",
       "confidence": "0.7563373",
       "timestamp": 308.92,
       "content": "he took us on a tour of his house and eat free rooms involved he showed is the school filing cabinet you showed us our student files and the other student files",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "65c412e6-8e64-4302-9aeb-9e82a9196790"
     },
-    "321.06": {
+    {
       "requestid": "ac036641-df27-4e08-8c6c-c92bfac47b92",
       "confidence": "0.7235671",
       "timestamp": 321.06,
       "content": "he showed is blank diploma's transkripsi hills ribbons all the trappings it would take know all of this information will use in our affidavit for the federal circuit board",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "77c664ca-6112-40eb-b297-5c8235ef2208"
     },
-    "331.38": {
+    {
       "requestid": "e709d177-9fd8-41a3-8e2c-5c29d56915b2",
       "confidence": "0.7754407",
       "timestamp": 331.38,
       "content": "is ellen's mother FBI agent put together the case and then went back to see jerrod this time with a search warrant",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "d86ce157-a441-4d03-924a-84a956d48111"
     },
-    "339.67": {
+    {
       "requestid": "68296fa4-126e-4a18-a412-b151eb253d38",
       "confidence": "0.7861525",
       "timestamp": 339.67,
       "content": "I tried to explain to him that life is not over all that this is just a search warrant so we spent 23 hours there we did what we were supposed to and then we left town and went back to charlotte",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "458296f8-f56a-44ea-bab4-dd54d0789c2a"
     },
-    "356.73": {
+    {
       "requestid": "ce519d43-4e8f-4223-9fd5-aadb86523886",
       "confidence": "0.8680469",
       "timestamp": 356.73,
       "content": "but we later learned the following day when the phone rang",
-      "speaker": "S54"
+      "speaker": "S54",
+      "uuid": "230aa669-da29-4a2e-9cdd-52d0a6dc0a29"
     },
-    "360.64": {
+    {
       "requestid": "79da4e14-2aef-4338-9f07-6b53a9012da6",
       "confidence": "0.8130585",
       "timestamp": 360.64,
       "content": "not after we had gone doctor geritol went out with a lady friend of his for dinner",
-      "speaker": "S54"
+      "speaker": "S54",
+      "uuid": "51ce0e1f-d3af-4baa-a90b-2845fa99b480"
     },
-    "366.87": {
+    {
       "requestid": "d2e8ca67-e4e3-4b60-8ee3-7325275548cc",
       "confidence": "0.857973",
       "timestamp": 366.87,
       "content": "started giving away some of his possessions",
-      "speaker": "S54"
+      "speaker": "S54",
+      "uuid": "290bc068-b411-4e20-bb1f-084813f8a82e"
     },
-    "370.91": {
+    {
       "requestid": "e3c52001-d915-4825-835c-962d6a6c1623",
       "confidence": "0.9372921",
       "timestamp": 370.91,
       "content": "and then it when into",
-      "speaker": "S54"
+      "speaker": "S54",
+      "uuid": "ddb7067b-0079-4ac7-b6c3-3d61fd749894"
     },
-    "372.46": {
+    {
       "requestid": "7069527a-d99a-4886-9523-b566b118b2b2",
       "confidence": "0.7232693",
       "timestamp": 372.46,
       "content": "bathroom and took a 38 and I put it up to his head and committed suicide",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "7aa129dd-d18f-4a2a-b397-217b2b4d3c95"
     },
-    "379.12": {
+    {
       "requestid": "32cf1425-2d43-4dd0-947e-bb69809d9c93",
       "timestamp": 379.12,
-      "content": ""
+      "content": "",
+      "uuid": "7072f93f-91b5-4c10-bff9-90191e698b32"
     },
-    "383.54": {
+    {
       "requestid": "cb8eda71-4406-45f1-ab4f-02d09ef093da",
       "confidence": "0.9454644",
       "timestamp": 383.54,
       "content": "we did not see that coming I did not see that coming at all",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e4ab30ed-a4e8-4b7a-9997-cfe1d2d95c9d"
     },
-    "387.77": {
+    {
       "requestid": "2280a711-af92-4d01-9b4e-4619c9c5430b",
       "confidence": "0.838891",
       "timestamp": 387.77,
       "content": "we had not even read all the boxes of stuff that we had when we did read it we saw that he had approximately 600 plus graduates over 11 years we had",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "8335fbfb-2ce7-4cb3-87bd-39bfb95e2de2"
     },
-    "402.4": {
+    {
       "requestid": "c4628a63-bf84-4486-b3ce-4f7c52c475b9",
       "confidence": "0.8676561",
       "timestamp": 402.4,
       "content": "federal state and county employees we had law enforcement you name a profession we had it",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "33205a81-85da-4f1c-9d9f-1d8be494a972"
     },
-    "408.56": {
+    {
       "requestid": "4fdc83dd-627c-49b9-9a14-d26781ffaf4c",
       "confidence": "0.7809842",
       "timestamp": 408.56,
       "content": "in that was alan is als introduction to the world fake diplomas over the next decade",
-      "speaker": "S64"
+      "speaker": "S64",
+      "uuid": "c29cdeb9-bcb0-4d10-b917-3309e460e2a4"
     },
-    "417.25": {
+    {
       "requestid": "3798d52e-87e8-4d64-929a-07e8abcaa7eb",
       "confidence": "0.8544844",
       "timestamp": 417.25,
       "content": "he helps uncover a huge counterfeit market companies all over the country doing millions of dollars worth of business",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "ec8c92ca-e0af-4b9f-a0cb-76733cf2ae19"
     },
-    "424.05": {
+    {
       "requestid": "cf9c062d-38b6-4292-b21e-e03e8ce6baa6",
       "confidence": "0.8054111",
       "timestamp": 424.05,
       "content": "we bought 40 degrees we had 16 fettel search warrants 19 federal grand jury indictments",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3b66981f-3e9b-4c5d-9772-c1383c718be9"
     },
-    "432.49": {
+    {
       "requestid": "46e15442-46c7-45f0-844a-aa5bcc694d36",
       "confidence": "0.8262719",
       "timestamp": 432.49,
       "content": "about 21 convictions we dismantled 40 schools in door county field operations",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "11b9ee43-8b38-4fd7-ac5c-b69dad22b4de"
     },
-    "440.03": {
+    {
       "requestid": "d128a8d4-107b-4d89-b675-c91217122441",
       "confidence": "0.7961212",
       "timestamp": 440.03,
       "content": "the highest gross revenue that I solve in and this is pre internet was $2 Million now after the internet came about $2 Million that I was seeing for a gross revenue",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c913cd20-7bde-4f06-8673-ab6516fa1a86"
     },
-    "455.6": {
+    {
       "requestid": "7a37e830-282a-44ff-aeb8-ed5fe7cf069b",
       "confidence": "0.8016699",
       "timestamp": 455.6,
       "content": "is not even pocket change we are now saying",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f0ab5bbd-c0ca-4556-90cb-2ffe6d7f5a08"
     },
-    "460.38": {
+    {
       "requestid": "64a5b2de-a2a5-4c5a-9ca2-678daba47231",
       "confidence": "0.8962882",
       "timestamp": 460.38,
       "content": "36,000,007 million 5,000,000 and the lala palooza the biggest one that we have ever seen call university degree program",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6d9b5121-4c1f-48e0-956d-407c78aaf070"
     },
-    "471.29": {
+    {
       "requestid": "150bd645-3714-468c-b286-f825b433a6a8",
       "confidence": "0.8696109",
       "timestamp": 471.29,
       "content": "and they operated from 98 through about 03 by our calculations big roast $453 Million in the paper that they sold",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3757421d-67f7-47b0-be4b-3851a0182a18"
     },
-    "485.87": {
+    {
       "requestid": "a659bbb0-6b13-48b8-830f-32bff81b2583",
       "confidence": "0.8580968",
       "timestamp": 485.87,
       "content": "will pollute the market for years to come in but what makes it even worse",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "749c207d-b5d2-4506-bb8e-b108dac3e955"
     },
-    "493.55": {
+    {
       "requestid": "7df26fa7-64ef-4420-82aa-8d8a54ed577b",
       "confidence": "0.7649742",
       "timestamp": 493.55,
       "content": "vasold degrees in anesthesiology cardiology dermatology indro chronology gastro inter ology neurology obstetrics and gynecology optum ology pediatrics psychiatry radiology surgery urology",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "85f60746-ec7d-455b-989a-cd9af4ad5f22"
     },
-    "513.36": {
+    {
       "requestid": "d253f0cb-7238-4b5d-b500-215a8fd230e1",
       "confidence": "0.791021",
       "timestamp": 513.36,
       "content": "and I would ask you where do you think the people are employed the port degrees in those majors",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6bf96eaa-a930-4b31-828b-a0e747d3708b"
     },
-    "521.89": {
+    {
       "requestid": "042f5e2f-0e4e-48c9-91ad-c029155b87cc",
       "confidence": "0.8055229",
       "timestamp": 521.89,
       "content": "well that's what I wanna know alan because if you're saying this one firm grossed 450 some million dollars over what a 5 year period the average price of times of thousand all",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "bd562987-1642-4db0-b79e-e3b5312a8d3c"
     },
-    "533.2": {
+    {
       "requestid": "d8a4a5d8-0feb-4ded-8ed1-907453d1bf63",
       "confidence": "0.8219196",
       "timestamp": 533.2,
       "content": "let's say no it was more more there's about 2400 new had a $500 discount so let's go in a 2 a 2002 thousand 11 so that's more than",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "079b17e0-6efc-4120-8ec1-dfb9ad600d1a"
     },
-    "541.66": {
+    {
       "requestid": "67f29669-5f02-4d54-a3a7-dc4b166a32f8",
       "confidence": "0.7778258",
       "timestamp": 541.66,
       "content": "200,000 totale fake degrees I told you they were the lala palooza an f one firm so yeah I have 2 questions for you one is",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "40550a62-9013-43e0-ad4b-a66661887d6e"
     },
-    "552.32": {
+    {
       "requestid": "9de883dd-8d99-401b-9e89-e01da8addcbc",
       "confidence": "0.8244222",
       "timestamp": 552.32,
       "content": "where the hell are all these fake doctors in how do I stay away from them in 2 is it there 200,000 roughly from one firm how many fakes are we talking about in toto",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "bcf7468a-da6e-4f46-99c8-eecb76675b2e"
     },
-    "564.25": {
+    {
       "requestid": "facb981b-f4f6-41ed-a018-a2fac8344221",
       "confidence": "0.8551213",
       "timestamp": 564.25,
       "content": "we have no idea let me put this way the united states all the colleges and universities in our country ohole ward about 1.3 million degrees of year approximately 1% of that we believe is the amount of",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "12f60df5-ae66-4101-9606-845fba1380a6"
     },
-    "583.29": {
+    {
       "requestid": "94364516-b479-44e4-ad01-d2b477a711db",
       "confidence": "0.7137821",
       "timestamp": 583.29,
       "content": "phony degrees that are sold in our country each year as to where these people are the bought those degrees",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "94fb88e7-747a-4398-b9f6-231ea705891e"
     },
-    "590.72": {
+    {
       "requestid": "15cb88d3-ae57-4176-abe8-36406a4eec9a",
       "confidence": "0.8397236",
       "timestamp": 590.72,
       "content": "we don't have a clue and I say that be cause no one in law enforcement federal law enforcement chasman we don't know who they are we don't know where they are employed",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9612b539-e931-4a07-8de2-e421129960b3"
     },
-    "602.67": {
+    {
       "requestid": "072c13ba-7c3b-4c44-85ab-0a8573e3a802",
       "confidence": "0.819343",
       "timestamp": 602.67,
       "content": "only occasionally will I graduate flush up he could be practicing in the hospital he could I have something go right in a medical procedure and then they start looking at his credentials and then find out he's a phony",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9f9c6ffe-3003-4d25-b880-b699d0a8989d"
     },
-    "617.6": {
+    {
       "requestid": "ffe575ac-5a1f-4357-ade3-e3905e86cfc3",
       "confidence": "0.8713229",
       "timestamp": 617.6,
       "content": "you would be shocked at the number of people that buy this garbage and then put it on their resume and then post this online",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1c4f87bd-9f3c-4e91-8233-82ddc9c09986"
     },
-    "627.94": {
+    {
       "requestid": "ff8fff11-77b1-4bcc-98c6-8c1b1154ea91",
       "confidence": "0.7626808",
       "timestamp": 627.94,
       "content": "when is a retired in 1991 operation game ended and he says the FBI pretty much stopped investigating fake degrees the industry has exploded and then today you can buy just got any kind of degree online",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "86d5fbb2-8669-4bd3-b541-c9a74a0a9b4c"
     },
-    "650.7": {
+    {
       "requestid": "752291bd-d083-4b06-aec2-961e911273cb",
       "confidence": "0.7727785",
       "timestamp": 650.7,
       "content": "there are 2 basic kinds of operations one is simply a counterfeiting company which sells speak version of real degrees from the university of your choice the other is the diploma mill ascentia lee",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b29913fd-98a6-473f-94a7-b69f2ec1254a"
     },
-    "664.2": {
+    {
       "requestid": "4ea3afbc-05ef-40cc-8993-dcd3b7d0fa9c",
       "confidence": "0.7258621",
       "timestamp": 664.2,
       "content": "fake university the issues its own degree lake southeastern university doctor gerald sometimes a diploma mill ask you for a resume and award course credits based on your work history occasionally you have to do some actual work",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ab6ec455-ea47-4b02-a7e7-cf98b49b5b89"
     },
-    "681.12": {
+    {
       "requestid": "ab31efb4-be87-485d-89da-305f23f80287",
       "confidence": "0.7708183",
       "timestamp": 681.12,
       "content": "I'm in the most I've ever done is 5 pages on the masters ok",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ee823897-c9e8-4a19-9e8a-33e6286dfc0c"
     },
-    "684.77": {
+    {
       "requestid": "23107aac-5c1e-4d9e-a5d3-ff1475e9172d",
       "confidence": "0.7209578",
       "timestamp": 684.77,
       "content": "budlong the time you just pay the fee smash and grab here's my check give me my degree",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "5a83f30c-abed-41c3-a726-b506a200ef29"
     },
-    "690.99": {
+    {
       "requestid": "9190e7c0-685e-47ce-a49f-c3c24d4aa226",
       "confidence": "0.7694086",
       "timestamp": 690.99,
       "content": "so mad and you got a low level job and you wanna promotion requires additional schooling but you don't wanna go back to school to you tell your boss you working on a degree tonight and then you're too late are you give your boss you knew fake diploma",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "a3f54484-f384-4e88-9077-511f521fdd8a"
     },
-    "707.51": {
+    {
       "requestid": "9d1dc654-afaa-480d-be7a-641895590793",
       "confidence": "0.6605627",
       "timestamp": 707.51,
       "content": "hey thanks diploma mill",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "bd95036c-9156-4c27-ab72-2708b63eda37"
     },
-    "710.24": {
+    {
       "requestid": "9c14f23d-b30d-4ee1-b331-e1da2e8a3a41",
       "confidence": "0.8316621",
       "timestamp": 710.24,
       "content": "as of today there is no federal criminal legislation regarding using diploma mill paper or in this",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c80232da-3218-48d5-87dd-3254dc62fd74"
     },
-    "718.41": {
+    {
       "requestid": "4879f5cd-e296-41df-bb97-54b413e922a5",
       "confidence": "0.8568566",
       "timestamp": 718.41,
       "content": "they are you sound as though you're not happy that there is no lock and safe",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c12882bd-f1b9-44a4-ad1d-db2c059b7fda"
     },
-    "721.64": {
+    {
       "requestid": "ca56c32e-6b26-4864-afda-ed05505b2acd",
       "confidence": "0.8051831",
       "timestamp": 721.64,
       "content": "oh no I'm not never been happy",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2a57a11d-fd99-4fcb-9996-7c43955b195e"
     },
-    "724.05": {
+    {
       "requestid": "200812a8-db9e-42ed-8203-d99351c571bb",
       "confidence": "0.8013394",
       "timestamp": 724.05,
       "content": "the way you get somebody's attention is with some handcuffs ok the threat of civil fine or embarrassment will not do we need a federal law that forbids",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e4070b37-ead9-4bfa-ac1a-e915f10b7069"
     },
-    "735.59": {
+    {
       "requestid": "adca81d2-c717-4604-8910-b427bfe3bba5",
       "confidence": "0.7727882",
       "timestamp": 735.59,
       "content": "diploma mills non accredited institutions of institutions I don't have regional or national acceptable accreditation",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1d5d7871-999d-40dc-9d7b-3bd612f858e9"
     },
-    "744.19": {
+    {
       "requestid": "74f3d474-ecee-4edd-bd40-e2aa6a8211bb",
       "confidence": "0.8495467",
       "timestamp": 744.19,
       "content": "it should not be this easy",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f7ea2e4f-d44e-46f6-9902-db6cedd0bc34"
     },
-    "746.71": {
+    {
       "requestid": "31071c6f-93ce-417e-9cd4-52d852cd6baa",
       "confidence": "0.7580845",
       "timestamp": 746.71,
       "content": "is it still burn you after all these years of pursuing these guys to know that the people are cheating so baldly",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "dd64d71d-948a-4def-80fc-5d47334a068d"
     },
-    "752.76": {
+    {
       "requestid": "17951775-673c-4249-8fc9-f68291f4fae2",
       "confidence": "0.7817291",
       "timestamp": 752.76,
       "content": "colt and always has I mean I have 2 daughters one that graduated from university of north carolina chapel hill one that graduated from university of florida I have bought counterfeits of both of their school diplomas with tran scripps",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3b90a116-6f8d-4a13-a407-dc2a513276f5"
     },
-    "768.56": {
+    {
       "requestid": "04af3134-94be-4431-b1c2-7be2347c0aba",
       "confidence": "0.9282747",
       "timestamp": 768.56,
       "content": "and I probably paid less than $800 for both",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "d5f3b6b6-0c1e-46d2-8740-6ca4fec87a4d"
     },
-    "772.91": {
+    {
       "requestid": "3fadbae0-a349-4b3c-9289-2c3adc4aa99d",
       "confidence": "0.8738625",
       "timestamp": 772.91,
       "content": "and you can imagine the thousands of dollars to send them to school no I cannot take away their level of learning that they had by going to school but by buying a counterfeit I can devalue the piece of paper that they walked out with at the end",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "54ac7657-2d66-485a-90cb-7486f41a77db"
     },
-    "789.58": {
+    {
       "requestid": "0c4c5d96-1c8d-4b37-8fd2-eaaa4d9725af",
       "confidence": "0.8030193",
       "timestamp": 789.58,
       "content": "because it undermines all of our legitimate education everyone of us that have spent time money effort sweat all nighters it devalues the degrees that we have",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "4693b0c4-599b-41af-a673-5cc675f8c11c"
     },
-    "802.91": {
+    {
       "requestid": "12871751-7193-42ee-9a21-152b2e8bfc78",
       "confidence": "0.7750217",
       "timestamp": 802.91,
       "content": "wow wow wow wow",
-      "speaker": "S125"
+      "speaker": "S125",
+      "uuid": "9e4e2453-6da6-433e-a184-ed5b5ed93d04"
     },
-    "808.6": {
+    {
       "requestid": "abad89e4-31f0-420d-a24a-5d55b9e280cf",
       "confidence": "0.259055",
       "timestamp": 808.6,
       "content": "porn",
-      "speaker": "S125"
+      "speaker": "S125",
+      "uuid": "ff838b08-b9c2-409a-8270-99c255db961a"
     },
-    "810.65": {
+    {
       "requestid": "4e0497f8-61a8-4e9e-a694-8c262ef595c2",
       "timestamp": 810.65,
-      "content": ""
+      "content": "",
+      "uuid": "b092db1f-42b8-46e0-a4b6-7577c3f16372"
     },
-    "812.69": {
+    {
       "requestid": "094e3131-2e70-45f9-9b0a-55b479e387bd",
       "confidence": "0.6353944",
       "timestamp": 812.69,
       "content": "if it sells ballpark guess it's true that roughly 1% of college degrees are fake",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "42fccc01-d315-4e16-9287-1ab9bf365806"
     },
-    "821.65": {
+    {
       "requestid": "b3a30692-c471-4ff4-8486-95f199aae5a0",
       "confidence": "0.8662204",
       "timestamp": 821.65,
       "content": "if you work in government store healthcare maybe in public radio",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "54cd00f6-b718-4cd9-8239-42d107041f42"
     },
-    "826.5": {
+    {
       "requestid": "24600fd0-fecf-4e8c-a958-d4a854881921",
       "confidence": "0.8242017",
       "timestamp": 826.5,
       "content": "for every 100 coworkers one of them is a fraud",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "c682a81e-83ae-444f-bd92-ffd618649458"
     },
-    "831.14": {
+    {
       "requestid": "b5505df1-e408-42b0-89c7-4c4168559685",
       "confidence": "0.7603348",
       "timestamp": 831.14,
       "content": "you gotta wonder if there's something about how we look at real college degrees that make a fake one so will track",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "2a745874-4dcd-4e78-a78a-f225237e1863"
     },
-    "838.79": {
+    {
       "requestid": "c1eb95c8-032b-47b2-96b1-6137a11735a5",
       "confidence": "0.5604026",
       "timestamp": 838.79,
       "content": "I am so keep it again",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "1bf72a74-8054-45be-8dd6-36ed94f527ed"
     },
-    "841.48": {
+    {
       "requestid": "02ea7b9c-59d1-4990-8306-633870493d48",
       "confidence": "0.9246808",
       "timestamp": 841.48,
       "content": "you can be whatever you wanna be",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b085b62b-16c3-4afd-9353-67dc8e1706ee"
     },
-    "843.39": {
+    {
       "requestid": "a93123cf-1a58-4245-8219-6dc0aa8407f7",
       "confidence": "0.4737496",
       "timestamp": 843.39,
       "content": "oh wow",
-      "speaker": "S125"
+      "speaker": "S125",
+      "uuid": "4fe7f5b0-0be0-44f1-847b-150c2f0a6972"
     },
-    "845.01": {
+    {
       "requestid": "65a5d905-3b67-4edd-aded-b9f88ab00557",
       "confidence": "0.8154265",
       "timestamp": 845.01,
       "content": "you can be with ever you want to be with a little odd parents to kids especially",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "af11be65-65bc-4612-983b-b2bc30038d69"
     },
-    "851.78": {
+    {
       "requestid": "c37f19fb-af2a-4425-a523-4ade6857ffea",
       "confidence": "0.7070084",
       "timestamp": 851.78,
       "content": "but we really mean is you can be whatever you wanna be but first you need a college degree now degree mills exploit our collective college anxiety and I tell people",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "63dfae94-0251-4a5e-b523-5a97e0fc33dd"
     },
-    "862.95": {
+    {
       "requestid": "745d9e95-3d0e-4423-ada7-cd1bf8a5ef27",
       "confidence": "0.7269154",
       "timestamp": 862.95,
       "content": "don't worry about the education a piece of paper to get to the job plus real degree expensive not only the money itself but for years of your life",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "5da2b7a5-7282-47f3-be2a-cfa188b5a7cc"
     },
-    "874.37": {
+    {
       "requestid": "79a016cf-4bfd-438e-abfe-938bf83bc0e3",
       "confidence": "0.7215421",
       "timestamp": 874.37,
       "content": "and especially when the economy is crimea is it is now",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "97716208-b13c-4c43-a4aa-48236b96c298"
     },
-    "878.41": {
+    {
       "requestid": "ffcca81a-4823-43bd-9ec9-fa3ef84864a3",
       "confidence": "0.5994068",
       "timestamp": 878.41,
       "content": "unclear if that investment painal",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "214bec04-d906-4173-9402-1c7d6ddb4403"
     },
-    "891.87": {
+    {
       "requestid": "e0d92f4c-7e34-448e-9cc3-a1b6d74bdf18",
       "confidence": "0.8427573",
       "timestamp": 891.87,
       "content": "will talk about how much a college degree matters when you work",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "eadc67f4-da94-4719-a81f-4954362e547b"
     },
-    "895.79": {
+    {
       "requestid": "4aee12fe-5a1c-41dd-8527-d403fead486d",
       "confidence": "0.8545364",
       "timestamp": 895.79,
       "content": "in the white house I think I was in the last generation it to be stupid enough not to get a college degree",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "8610d452-170c-4527-91d3-dc926c54288a"
     },
-    "915.91": {
+    {
       "requestid": "48c70ccd-19ba-4398-969a-2cd3fc269fd7",
       "timestamp": 915.91,
-      "content": ""
+      "content": "",
+      "uuid": "a8d11a8d-f808-4aca-8b25-03c5acf348ef"
     },
-    "918.18": {
+    {
       "requestid": "3fd27438-c4c2-4adb-9fad-902f4c428ae0",
       "confidence": "0.8041562",
       "timestamp": 918.18,
       "content": "from WNYC this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "57897b7a-e6a0-4ed2-b4ee-8c739acb5d98"
     },
-    "926.39": {
+    {
       "requestid": "cc2ca315-14a6-4c23-a7ec-ad7d2fc93966",
       "timestamp": 926.39,
-      "content": ""
+      "content": "",
+      "uuid": "6f251425-bf09-4f9e-918a-7818778e5473"
     },
-    "929.4": {
+    {
       "requestid": "7fabb388-773c-4254-b290-f0c3a9285e3e",
       "confidence": "0.8312524",
       "timestamp": 929.4,
       "content": "here's the thing when you look around at a variety of fields do you can find some really really successful people who did not finish college and not just in",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "167c7ec0-d7e6-4c62-a478-963336a074a8"
     },
-    "939.69": {
+    {
       "requestid": "733ceb58-3d4f-4605-b6e6-8f73c19909f6",
       "confidence": "0.7546767",
       "timestamp": 939.69,
       "content": "sports and entertainment I'm talking about people at the top of knowledge fields were smart sorkhi so bill gates mark zuckerberg richard branson good and politics you can find a few hey steven how are ya hope karl rove former senior advisor in deputy chief of staff for president george w bush",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "5c1ef71d-4eea-42fa-b81d-f16e639494fc"
     },
-    "959.69": {
+    {
       "requestid": "f8887d4d-3530-411d-a7a5-7169b7633417",
       "confidence": "0.8780321",
       "timestamp": 959.69,
       "content": "bro is currently a commentator for fox news in a contributor the wall street journal",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "0dd7c3e3-86f9-4962-87ad-5f9a9a366915"
     },
-    "965.08": {
+    {
       "requestid": "47a3016a-6c1b-4f8a-b65b-c6e0018a442b",
       "confidence": "0.6875575",
       "timestamp": 965.08,
       "content": "at first glance rube's academic credentials seem to be commensurate with his achievement so here's a time",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "9bfa2547-7843-4874-8b06-e56cbaf62f86"
     },
-    "974.23": {
+    {
       "requestid": "bede1ec7-98db-4c39-a725-d24952daf982",
       "confidence": "0.9010341",
       "timestamp": 974.23,
       "content": "from your bio that you are a colorado native who attended the university of utah university of maryland college park george mason university in the university of texas at austin but what I can tell from that is if you actually graduated college to tell tell me if you did or not",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "667c393b-7539-4f91-aba8-56dfc0a08bfe"
     },
-    "988.35": {
+    {
       "requestid": "d1bd565a-a02d-486d-afc9-3a365dd98a19",
       "confidence": "0.7822811",
       "timestamp": 988.35,
       "content": "no I never did otherwise I'd say it was a graduate of how much is",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "fdfffd07-c04d-41da-8772-c73efcb64b15"
     },
-    "992.93": {
+    {
       "requestid": "c67ad443-e23f-477d-ad34-3805db9eb952",
       "confidence": "0.7869774",
       "timestamp": 992.93,
       "content": "so I'm curious to get the degree to which thought you were leaving college because you are working it was and you were leaving without to eat cheetos on the couch right",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "26e51056-4d87-4955-9686-4f7bb799c1f7"
     },
-    "1001.59": {
+    {
       "requestid": "2f084273-8f02-4bd3-ab27-471bdd296573",
       "confidence": "0.7759179",
       "timestamp": 1001.59,
       "content": "well ya know I left college because I had a greater economic opportunity me a point to the university of utah redwood only was able to attend college because I had a 1500 dollar year scholarship for the william randolph hearst foundation and I had in awhile ha",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "397535ee-7a01-410a-8948-2bc0af0e6921"
     },
-    "1017.13": {
+    {
       "requestid": "b6213283-1678-4c0d-b7b2-afcf164069a0",
       "confidence": "0.7607125",
       "timestamp": 1017.13,
       "content": "wait tables and run a cash register in a hippie shop that sold pachulia oil and working and a stroke kitchen in the hospital in order make handmade and even then I didn't have very many end but um let you know I left the university of utah word been for 2 years already accept a job at the republican national committee",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "afbb73e5-7750-4ae4-975e-852b682ecb5f"
     },
-    "1035.05": {
+    {
       "requestid": "632955bc-7a96-47fb-bd6d-ea6b4d841d39",
       "confidence": "0.7962157",
       "timestamp": 1035.05,
       "content": "the height of the vietnam war went to the university of maryland lost my student deferment of my was almost drafted want to leave george mason in order to keep trying to get to the college degree in",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "47b359be-3ebe-4b90-91c6-1a87da4ddbba"
     },
-    "1046.3": {
+    {
       "requestid": "85dba00a-9ae4-4bcd-8d4b-2c654600927d",
       "confidence": "0.6719881",
       "timestamp": 1046.3,
       "content": "bing seyma do university of texas and in all apps cobbling together courses here and there but the each time the chance to get the college degree was stymied by you know having children unusual afternoon",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "a8a44da4-b56f-448e-bc92-62d20d06d486"
     },
-    "1058.32": {
+    {
       "requestid": "a2249806-8441-4b6a-b42a-7243335fc483",
       "confidence": "0.6861548",
       "timestamp": 1058.32,
       "content": "in in each case any trees universities when you are enrolled was were you up local science major",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "d8680fc1-38f1-436e-93c8-ffd0b3006426"
     },
-    "1063.88": {
+    {
       "requestid": "ab1bbebe-c879-46e2-95b9-c0ff74f9a299",
       "confidence": "0.612219",
       "timestamp": 1063.88,
       "content": "yes probably the most useless degree that at 1:30 today",
-      "speaker": "S164"
+      "speaker": "S164",
+      "uuid": "027fdd89-2a6a-4e20-8add-a7ca9ca029de"
     },
-    "1069.48": {
+    {
       "requestid": "89af06fe-303f-480c-9366-0694499a5e29",
       "confidence": "0.6981524",
       "timestamp": 1069.48,
       "content": "rolled is widely considered to be a political genius he was the architect of president bush is julie",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "5d034084-18a3-44c1-9fe1-9defe7e4c535"
     },
-    "1078.25": {
+    {
       "requestid": "ccc3e6ba-b4ad-4999-af92-5ac72057bba1",
       "confidence": "0.743631",
       "timestamp": 1078.25,
       "content": "no campaigns and had a lot of policy in flint in the white house",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "e0694f41-42cd-441f-8e8b-7215856270f4"
     },
-    "1082.57": {
+    {
       "requestid": "4f5d0964-b79b-4756-80b5-a64a6fcc2c60",
       "confidence": "0.7707227",
       "timestamp": 1082.57,
       "content": "and he's a guy who left college because book because it just was worth it to him he found he could learn more in the field and in the classroom listening to him to start to think if you can learn so much by doing why bother getting a degree",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "5c1ad564-977b-4cc8-bff2-e7dda076ea13"
     },
-    "1100.62": {
+    {
       "requestid": "ee927e85-d7be-4fc8-9a1f-d5b136612df0",
       "confidence": "0.743921",
       "timestamp": 1100.62,
       "content": "but mines in a typical experience I mean I yeah II think I was in the last generation that they could be stupid enough not to get a college degree weather society which credentials matter",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "adfa6e7b-c890-44b7-aed9-d9224fda5604"
     },
-    "1110.58": {
+    {
       "requestid": "95f837f3-7319-4b4e-b4a0-2483c093814d",
       "confidence": "0.7005241",
       "timestamp": 1110.58,
       "content": "the bill gates of the world who daughter found microsoft after you drop out of harvard are few and far between the carl rosa going to be to get a senior advisers president after you never completed your degree are few and far between",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "77e19156-82e5-4151-94bc-3f441f953a34"
     },
-    "1124.56": {
+    {
       "requestid": "8a40384d-646f-406c-9519-340fd7fa8deb",
       "confidence": "0.8855041",
       "timestamp": 1124.56,
       "content": "ruth point out that he did learn a lot in college but not the kind of things you might expect",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "fec56369-2085-4b44-a5bf-a06767b6f4c4"
     },
-    "1133.32": {
+    {
       "requestid": "9417666c-cee9-4c85-9eb9-0c340cfbfe51",
       "confidence": "0.8248955",
       "timestamp": 1133.32,
       "content": "the best course I ever took in college was it was in my sophomore year and it was a course in the shakespearean literature learn more about political communications at one semester from a catholic nun that I've done I learned in any political science course",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "94209dd5-4c48-492e-a825-bd9ccb81c581"
     },
-    "1147.15": {
+    {
       "requestid": "45d98634-2e85-482c-b10d-4d64b95c33d7",
       "confidence": "0.7826915",
       "timestamp": 1147.15,
       "content": "it made me aware of the power of language and how telling a story a political campaign is about big issues but you have to take describe an ear if you have tradies storyline know what is this all about",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "70e29e80-7586-427d-8681-9d1ef8931e31"
     },
-    "1159.21": {
+    {
       "requestid": "909fe783-887b-45ce-93f6-0894a72a1c27",
       "confidence": "0.6823478",
       "timestamp": 1159.21,
       "content": "so as of today how close are you to getting into gadgetry how much I wish I are you",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "1027d48e-b885-4fec-a53b-0f5a4ccc6cbf"
     },
-    "1164.22": {
+    {
       "requestid": "a829ecfb-c498-47fd-8e78-6e286f2964c0",
       "confidence": "0.8118134",
       "timestamp": 1164.22,
       "content": "I think I'm about I'm not my language requirement anabat I think about 6 hours are 9 hours beyond at math or science course",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "3cc10836-cbe2-415e-9ef8-542eef687e6b"
     },
-    "1171.83": {
+    {
       "requestid": "2d110009-cb80-49fc-8471-327480172635",
       "confidence": "0.7402216",
       "timestamp": 1171.83,
       "content": "and ANN languages wanna take another language is gonna kill me at and realistically how do you know carl 61 is realistically you think you're gonna get to call sherrie lipsky",
-      "speaker": "S164"
+      "speaker": "S164",
+      "uuid": "15d26d5d-5161-457b-b465-eca257f30508"
     },
-    "1183.2": {
+    {
       "requestid": "20c58cfe-a0ef-4395-9190-18f1e3b45227",
       "confidence": "0.6762677",
       "timestamp": 1183.2,
       "content": "put out there is a goal you know life is about the hell up word up word vision about moving towards ever higher plateaus in mountain big so let's keep it out there",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "2d693216-c5cb-4778-a183-08c59b1857b9"
     },
-    "1194.3": {
+    {
       "requestid": "880c8ad1-f521-43b3-984a-0b3724a40972",
       "timestamp": 1194.3,
-      "content": ""
+      "content": "",
+      "uuid": "65d635e7-5378-49f3-a676-1b53991ed943"
     },
-    "1197.53": {
+    {
       "requestid": "eff19644-19c3-4188-93a2-95ec95b20176",
       "confidence": "0.7428074",
       "timestamp": 1197.53,
       "content": "we don't really know why do for people to different levels of education set speed card he's in the car with university of california berkeley some people think it's all parental background some people think its other attributes if us in the comments like david card a simple question about college like is it worth it",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "0a35bd79-8665-43a3-9964-b3f0595eb77e"
     },
-    "1215.75": {
+    {
       "requestid": "a2ad12bc-e153-46ff-9760-1c89c1b9610d",
       "confidence": "0.7049531",
       "timestamp": 1215.75,
       "content": "open to focus on the most handebol outcome what are comets call the returns to education",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "039e7774-acfb-4015-af34-b43a300cc858"
     },
-    "1222.87": {
+    {
       "requestid": "cb4ebf44-5098-46a4-8781-96b1294cba26",
       "confidence": "0.8982401",
       "timestamp": 1222.87,
       "content": "which pretty much boils down to how much more money you make if you go to college",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "04e9653f-596b-485f-9723-6c91e8ee42b0"
     },
-    "1229.13": {
+    {
       "requestid": "92c788d2-ad79-4dbb-bd84-5f21c96d9c5b",
       "confidence": "0.8359994",
       "timestamp": 1229.13,
       "content": "and in my family um we have all 5 possible",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "05a6f1ad-3b6e-48d9-832a-7ea538f688e7"
     },
-    "1232.57": {
+    {
       "requestid": "a7455c42-795d-434a-92c0-4027e348e707",
       "confidence": "0.5983927",
       "timestamp": 1232.57,
       "content": "all levels education havum tell me you didn't finish high school assignment just finished high school somebody who",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "ae531d91-5376-4ddb-9fa5-6fc0eb0777f2"
     },
-    "1239.25": {
+    {
       "requestid": "d21d7fd6-49db-47a6-87d4-40205ab8c2e9",
       "confidence": "0.636308",
       "timestamp": 1239.25,
       "content": "has kalavad at 3 years of college application college at somebody outside a bachelor's degree with teaching certificate in the nearest beach D&M if you just want to look at our family every step of that out the way",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "8661910c-90d3-492d-8b8d-5eb920eaae94"
     },
-    "1252.79": {
+    {
       "requestid": "987643f9-16a1-44db-b868-1fe6a8d071c5",
       "confidence": "0.667308",
       "timestamp": 1252.79,
       "content": "returns to the educational normus in totale enormous so the one who did not finish high school does what for living",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "f4cf201c-c7e1-414b-bb43-fa7d6af165c9"
     },
-    "1259.91": {
+    {
       "requestid": "262a809e-e829-4477-abe5-55bc8e30d339",
       "confidence": "0.8628764",
       "timestamp": 1259.91,
       "content": "I",
-      "speaker": "S194"
+      "speaker": "S194",
+      "uuid": "1cd19547-05c6-4bac-8a05-41ac13d4e696"
     },
-    "1262.7": {
+    {
       "requestid": "51bb2091-1ea0-4cd8-adce-e84a0199cf48",
       "confidence": "0.7724907",
       "timestamp": 1262.7,
       "content": "basically cleans houses haha yeah and is the level of educational attainment kind of conversation in the family or is it something that is just known acknowledge didn't you know that's the way to",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "12945a82-cfad-4d84-903d-4c7e3dd2d4d5"
     },
-    "1276.97": {
+    {
       "requestid": "7bc3046e-b138-4536-a37e-b937f540e892",
       "confidence": "0.6932157",
       "timestamp": 1276.97,
       "content": "well is it like it like many families is the next generation people say well she know where should we try and convince is kinda got carter not the nn inaudita easy to say well look at you go to college and I have a little bit easier choices to make yeah once you get through that things are gonna be a lot easier for you if you don't have",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "89284e0c-4334-4b3a-9fda-83118f0c953b"
     },
-    "1294.73": {
+    {
       "requestid": "a30a5574-5e06-4d89-bb7f-d1963dbfd92c",
       "confidence": "0.8195179",
       "timestamp": 1294.73,
       "content": "it going forward it is you know I think anybody who has kids who can it possibly make it through a bashers degree should really think of some way to get this trip yeah coz I don't see much of future 20 years and now for the kid who doesn't have that",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "0e3e9b21-da4d-4ffc-af38-1f7a358a6989"
     },
-    "1311.9": {
+    {
       "requestid": "01ee355e-9636-43f5-afa6-84e6a304e6d8",
       "timestamp": 1311.9,
-      "content": ""
+      "content": "",
+      "uuid": "091d06bd-22ea-4872-b0b3-286e0fb75338"
     },
-    "1319.72": {
+    {
       "requestid": "4aa27070-ad81-4332-ab69-87c264ad7ef6",
       "confidence": "0.7253953",
       "timestamp": 1319.72,
       "content": "it's always tempting dacast about for the anomalies the billionaire drop top college or any other hand a phd was driving a taxi but let's not get distracted by the anomalies if you want to measure the value of education",
-      "speaker": "S201"
+      "speaker": "S201",
+      "uuid": "a572f66e-ded1-44df-8855-de58db9b2a6e"
     },
-    "1336.68": {
+    {
       "requestid": "1887c9c8-6ebc-458c-bde9-68739150ba0d",
       "confidence": "0.7475047",
       "timestamp": 1336.68,
       "content": "have the sink in the aggregate in that's what economists like to do is my freakonomics friend and co author steve levitt an economist at the university of chicago",
-      "speaker": "S201"
+      "speaker": "S201",
+      "uuid": "6153cd47-b70f-4290-a5d2-10802f19e558"
     },
-    "1347.54": {
+    {
       "requestid": "90fe2575-9c7d-4e3f-9978-095c4030be49",
       "confidence": "0.6175349",
       "timestamp": 1347.54,
       "content": "the best wedding akamas think about the david kacian is tries to figure out how the market rewarded in what are the benefits come with that",
-      "speaker": "S205"
+      "speaker": "S205",
+      "uuid": "2adadd67-885a-4dc1-bfbf-80b9795c0887"
     },
-    "1355.99": {
+    {
       "requestid": "06a2e41c-6e51-4bf9-ae2c-31ebd3835ebe",
       "confidence": "0.7171939",
       "timestamp": 1355.99,
       "content": "one thing is clear that the market put a tremendous reward on education to bed the best estimate economist app",
-      "speaker": "S205"
+      "speaker": "S205",
+      "uuid": "87594639-eab6-4594-b948-ceec12a10e91"
     },
-    "1364.14": {
+    {
       "requestid": "d67294fc-42d6-429e-8e5a-f7d8c3b80ef8",
       "confidence": "0.7693372",
       "timestamp": 1364.14,
       "content": "are that each extra year of education that you get is worth about maybe in a percent increments to your earnings each year for the rest of your life so turns out for most people are buying a lot education is ortley for the average person I would say buying a lot of education is a really good deal",
-      "speaker": "S205"
+      "speaker": "S205",
+      "uuid": "98dce259-150f-4238-98e6-34ce21cfb3cf"
     },
-    "1383.46": {
+    {
       "requestid": "5e5c5146-ed02-4ea3-8d53-df20cebb2412",
       "confidence": "0.9096472",
       "timestamp": 1383.46,
       "content": "and here's david card again",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c575e2d9-9135-4efd-a318-392334ff1a52"
     },
-    "1386.88": {
+    {
       "requestid": "edefac57-5104-4785-ab31-a1805b47e00d",
       "confidence": "0.8390007",
       "timestamp": 1386.88,
       "content": "in addition to that the one who went to college will probably work for 5 years longer at the end of their life they'll probably have less months of unemployment yeah probably have longer hours of work while they're working so all in all their total earnings will be even higher then there gonna stand",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "2db5b6fd-8182-4fc1-94fe-9f2b9b45338c"
     },
-    "1403.36": {
+    {
       "requestid": "41134090-117b-496c-8db8-4cc1ee5db0f5",
       "confidence": "0.7337412",
       "timestamp": 1403.36,
       "content": "where coming were talking about economically at least we're talking about black and white does that mean it is over the cornaz lifetime massive massive yeah yeah how does this time shakeout historically the words with this advantage would it would that advantage look like 20 years ago 30 years but we know",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "95ef22b4-60c8-4cea-85e7-f5c5da6ff4a3"
     },
-    "1420.07": {
+    {
       "requestid": "bdb6a0ff-ede3-4288-803f-f78683fab371",
       "confidence": "0.8268026",
       "timestamp": 1420.07,
       "content": "it looks like where we are today is as high as it's ever been in the ones in the low point was about 1975 to 80 actually when I grab",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "d600181e-f920-4e90-aba3-88fafe4c939c"
     },
-    "1430.45": {
+    {
       "requestid": "7e024b40-a7ad-4c69-bf76-e57cf5db0fc1",
       "confidence": "0.08120299",
       "timestamp": 1430.45,
       "content": "eniac",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "4446894d-daae-41b4-b8bb-9d094d2786fc"
     },
-    "1433.2": {
+    {
       "requestid": "82eca1c4-353a-4ed5-9414-a734065700a7",
       "confidence": "0.6487954",
       "timestamp": 1433.2,
       "content": "ironically a very well known male labor cost for the mine richard freeman wrote a book in the lake have anything I'll be over educated america",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "c716a602-bd46-4409-805b-16e2dc510d27"
     },
-    "1440.96": {
+    {
       "requestid": "b40e99ca-208c-4bdd-8517-a3f0f763bb52",
       "confidence": "0.693361",
       "timestamp": 1440.96,
       "content": "in which she argued that time the transwarp suggesting that too many people going to call you now if anybody follow that advice it would've been the worst possible choice it would've.com aibika starting around 1978 79 and then return it is marked up",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "7ef6fd7c-9936-46ad-8922-ceddafbe8c01"
     },
-    "1455.0": {
+    {
       "requestid": "6c5fb499-debc-4ab4-82d6-4a61eb45b658",
       "confidence": "0.7363036",
       "timestamp": 1455.0,
       "content": "that would it what about now I mean we've had AA few years of pretty crappy economy employment lyzeum it is it time to start thinking about um the average aquele american",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "829d532d-0621-45c3-8273-a2a85e5c18e9"
     },
-    "1465.53": {
+    {
       "requestid": "6e26bf37-1ed3-4e45-81d6-8f632285e90b",
       "confidence": "0.733969",
       "timestamp": 1465.53,
       "content": "problem is I would to transer even harder now than it is because of the recession it is that even think about it right today they notice that I tell me a graduation college is having a very hard time getting a job or the nurse it down to power aid for college grads is gonna blow bit",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "96865b24-4bc9-44d1-b5d2-4b0047690a13"
     },
-    "1479.81": {
+    {
       "requestid": "29962bcf-b2be-444b-a25b-d813dfdcfb89",
       "confidence": "0.7645622",
       "timestamp": 1479.81,
       "content": "but if you do that the right contractuel and say well what if I didn't have a college degree it's much worse the rise in unemployment was much higher for people with just a bit of a high school diploma as as it always been true in every session per session is always worse for less",
-      "speaker": "S211"
+      "speaker": "S211",
+      "uuid": "daa14fea-5ace-40b5-8ccd-ada0cab6c976"
     },
-    "1494.4": {
+    {
       "requestid": "103a2182-055f-41c0-87a5-c685bb386648",
       "confidence": "0.8189639",
       "timestamp": 1494.4,
       "content": "people so is it safe to say than that returns to college education in the united states are historically at a high yeah ok so if that's the case I guess that's great news for college is great news for call professors like yourself that's great news for people who plan to go to college there there is a problem",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "52b67058-25a7-4dd0-9078-be40ee5c52d3"
     },
-    "1513.43": {
+    {
       "requestid": "f32e540a-b348-4d1a-ba69-7be433808f6a",
       "confidence": "0.5843778",
       "timestamp": 1513.43,
       "content": "that's the kind of the benefits I did the calculation yeah we have to talk about cast",
-      "speaker": "S230"
+      "speaker": "S230",
+      "uuid": "6e4d78e5-0ed6-464a-a983-9c8d341a4c9f"
     },
-    "1521.78": {
+    {
       "requestid": "9928a490-9130-49f2-a35c-095303a7b194",
       "confidence": "0.7215617",
       "timestamp": 1521.78,
       "content": "ah yes the cost is former fbi manalan izelle told you can get a fake diploma for few $100 but the real deal much much more",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "96516851-7a51-4d3c-a1dd-10d04b997925"
     },
-    "1535.18": {
+    {
       "requestid": "5b599ee3-77cc-4d79-ac9d-75243ab7286f",
       "confidence": "0.167975",
       "timestamp": 1535.18,
       "content": "spencer",
-      "speaker": "S232"
+      "speaker": "S232",
+      "uuid": "797e9ed5-7c0b-40f5-9a1e-1739a7adb29b"
     },
-    "1541.14": {
+    {
       "requestid": "c7509767-7f0f-4bff-8826-c71620afd64e",
       "timestamp": 1541.14,
-      "content": ""
+      "content": "",
+      "uuid": "24c8f088-bffd-4845-9f9e-c1ef07029e49"
     },
-    "1548.52": {
+    {
       "requestid": "ee72db70-fee7-4079-8fe4-c4617f781c73",
       "confidence": "0.6993722",
       "timestamp": 1548.52,
       "content": "when our next episode will try to figure out why does college cost so much",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "49353e69-e791-4309-bcdf-a47e71fdf8d3"
     },
-    "1554.46": {
+    {
       "requestid": "792b2360-eab8-477f-852f-0a8758464cb8",
       "confidence": "0.7439759",
       "timestamp": 1554.46,
       "content": "I went well to college I think it's great place and I saw the other day their tuition for the incoming class",
-      "speaker": "S235"
+      "speaker": "S235",
+      "uuid": "7aa047e0-196c-47d2-acaf-0fe2d938b9c4"
     },
-    "1560.96": {
+    {
       "requestid": "6637256c-0f89-4b4f-8cca-53d2ec247903",
       "confidence": "0.6658783",
       "timestamp": 1560.96,
       "content": "10 on the spit out my drink and",
-      "speaker": "S235"
+      "speaker": "S235",
+      "uuid": "894ed5c7-d87f-4752-8c7b-56854692166b"
     },
-    "1563.59": {
+    {
       "requestid": "1ddb59b4-071b-465e-9e6c-614391f2428d",
       "confidence": "0.6812043",
       "timestamp": 1563.59,
       "content": "what exactly happened in the college classroom to get gratwick such an advantage later and I teach my students I teach them very specific thing but I know that when I talk to them years later they don't remember anything",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "ed4b810d-8fa7-4009-9ac7-23c50074d447"
     },
-    "1578.83": {
+    {
       "requestid": "fc6e0361-cdab-49f8-89c9-7e7e9f31d3e2",
       "confidence": "0.6693439",
       "timestamp": 1578.83,
       "content": "then I talk to my mac and s in the most simple questions about the material we covered and have no recollection whatsoever tablespoon",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "fb8d9f04-f702-4aff-a92d-945224b3aacd"
     },
-    "1588.73": {
+    {
       "requestid": "76f55153-4166-4915-ba1d-85a16596199f",
       "confidence": "0.7808634",
       "timestamp": 1588.73,
       "content": "set all coming up next time on freakonomics goes to college park 2",
-      "speaker": "S20"
+      "speaker": "S20",
+      "uuid": "6eefd904-1a1e-46db-91a1-3f980251ec21"
     },
-    "1595.08": {
+    {
       "requestid": "87b8cdb9-2f39-4b80-9ce2-8ff2061683da",
       "confidence": "0.5732017",
       "timestamp": 1595.08,
       "content": "yeah come on in hey catherine",
-      "speaker": "S240"
+      "speaker": "S240",
+      "uuid": "61803950-8711-47c3-a7d0-ac8d2a1ad5ee"
     },
-    "1599.65": {
+    {
       "requestid": "2bfe41d1-677d-48ce-93eb-5aadb902272d",
       "confidence": "0.6486331",
       "timestamp": 1599.65,
       "content": "sure would we do wrong this is zac afron else everybody she produced this program",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "4c3c817d-ac0c-4b44-905b-781ee0bdb6b6"
     },
-    "1603.72": {
+    {
       "requestid": "f3b4e517-e439-44c5-ba3e-f9b1bc3a2146",
       "confidence": "0.6848453",
       "timestamp": 1603.72,
       "content": "sorry to interrupt here but um this is just made me wonder I'm curious is there anything you are you wish you could do but you just don't have the education forum",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "a17bb21b-9fe8-4b13-a27a-1a6b86cbdffe"
     },
-    "1613.98": {
+    {
       "requestid": "6155dfb7-579b-4016-9d2c-c4711ca83e5d",
       "confidence": "0.6267912",
       "timestamp": 1613.98,
       "content": "um I'd like to do surgery I'm just",
-      "speaker": "S240"
+      "speaker": "S240",
+      "uuid": "7ace8842-efb2-4244-b279-99ceef434574"
     },
-    "1618.26": {
+    {
       "requestid": "8e8bfe4b-6231-4f72-b43f-814b535d73f2",
       "confidence": "0.7017292",
       "timestamp": 1618.26,
       "content": "casually drink but I don't shulfer dirt year but I don't really have the appetite to get that much education but there is no I'd like to be able to operate on people for animals but I",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "cdb7ec7a-816e-4154-9a62-6442e71ecd92"
     },
-    "1628.89": {
+    {
       "requestid": "3b6b312e-c672-4434-9a53-efae1873f1ab",
       "confidence": "0.7461878",
       "timestamp": 1628.89,
       "content": "what I was thinking because when when you talk to alan evalue said you know it always wanted to be a better give me an answer the radio staff and I were were thinking and we don't we don't want you to be held back anymore um so we have a little",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "6bec12af-88ee-4f5f-890d-63beff530e8e"
     },
-    "1643.26": {
+    {
       "requestid": "5bea696a-9ad4-4680-b74c-de11227c654c",
       "confidence": "0.6899719",
       "timestamp": 1643.26,
       "content": "present for you hear this is too good to be true so it's a RA brown envelope mailing envelope it says congrats handwritten not official snap no wax seal",
-      "speaker": "S240"
+      "speaker": "S240",
+      "uuid": "a1b6edc9-f161-47cf-a4bc-a617ba65a3f3"
     },
-    "1659.88": {
+    {
       "requestid": "18a513d7-1475-4c15-9256-aa8ca4db454b",
       "confidence": "0.712187",
       "timestamp": 1659.88,
       "content": "apple atunes state university board of regents for the university pawn recommendation affectless conferred on tv jw the degree of doctor of philosophy in",
-      "speaker": "S143"
+      "speaker": "S143",
+      "uuid": "44f0a5ea-f4e8-4e92-a58b-2862465a6354"
     },
-    "1667.98": {
+    {
       "requestid": "cd8dc580-2d7a-4ba9-84e0-2cbb4f28a8ce",
       "confidence": "0.6856679",
       "timestamp": 1667.98,
       "content": "animal health omxs to congratulate on my god thank you so much this to my untrained eye looks like a legit am",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "f4027f7a-8e3c-45de-8b40-06668b27da68"
     },
-    "1678.04": {
+    {
       "requestid": "44889e92-3649-49c8-bb96-e3003b3147ca",
       "confidence": "0.61733",
       "timestamp": 1678.04,
       "content": "diploma look very prepared to get it online of the company I think with cold diplomamakers.com nights the plumbing under $90 a hug for you want now I think about think im on with people that have um my diploma zangana walsum I've no idea where my depalma's are",
-      "speaker": "S164"
+      "speaker": "S164",
+      "uuid": "9ee07a63-3322-432f-ac6c-c4ac136ada7a"
     },
-    "1695.99": {
+    {
       "requestid": "c657118b-395e-4186-9eae-ef6ec0335b84",
       "confidence": "0.6285571",
       "timestamp": 1695.99,
       "content": "but my peach right now on my plate now in animal health is deathly going on the wall thank you very much do I can graduate on phone",
-      "speaker": "S166"
+      "speaker": "S166",
+      "uuid": "0ada9db3-e799-4a6a-b1ea-a952c0e6852d"
     },
-    "1719.52": {
+    {
       "requestid": "c53256f4-e8ec-4fde-8928-037ceacb678b",
       "confidence": "0.7987034",
       "timestamp": 1719.52,
       "content": "a packet with your next week you hear freakonomics costa college park 2 in which we try to find out what does college cost so much",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "23e6f25b-c93d-4bbf-8578-ce7dc76882c7"
     },
-    "1727.67": {
+    {
       "requestid": "a02eff89-2d1e-4ed7-a732-ee233e75f602",
       "confidence": "0.8101552",
       "timestamp": 1727.67,
       "content": "I want to wellesley college I think it's a great place and I saw the other day their tuition for the incoming class",
-      "speaker": "S235"
+      "speaker": "S235",
+      "uuid": "adb0bb2e-b7c8-4070-976c-acd967f97178"
     },
-    "1734.29": {
+    {
       "requestid": "07393fe5-fa69-4ed6-b092-44f0df91678b",
       "confidence": "0.4647258",
       "timestamp": 1734.29,
       "content": "n olmsted out my drink",
-      "speaker": "S235"
+      "speaker": "S235",
+      "uuid": "0b5ad27b-1c5d-4571-981d-1ff40d306ce3"
     },
-    "1737.89": {
+    {
       "requestid": "ef36352c-243d-423a-b8be-f4bd615d2081",
       "confidence": "0.7797865",
       "timestamp": 1737.89,
       "content": "what exactly happens in the college classroom the kids graduate such an advantage later in life",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "e8f81225-562b-4bf9-b1b6-d99551e38ddf"
     },
-    "1743.33": {
+    {
       "requestid": "b3de2235-b945-4d39-a06f-b37650408584",
       "confidence": "0.7528957",
       "timestamp": 1743.33,
       "content": "I teach my students to teach very specific thing but I know that when I talk to them years later they don't remember anything that I talk to my mac and s in the most simple questions about the material we covered and have no recollection whatsoever clippers game",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "2736465e-d709-45cb-97d0-a5c8cf6a2b98"
     },
-    "1759.92": {
+    {
       "requestid": "ec400a35-5471-438a-856f-04b3ee4fdaf2",
       "confidence": "0.8003888",
       "timestamp": 1759.92,
       "content": "college really worth it that's next time I'm freakin I'm sorry",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "52e50e36-9a06-46da-830e-fe04ad1f3f77"
     },
-    "1765.14": {
+    {
       "requestid": "3c0defee-076f-40f6-a0be-0e8eaae6f895",
       "confidence": "0.7305428",
       "timestamp": 1765.14,
       "content": "freakonomics radio is produced byWNYCN.net production this episode was produced by katherine well",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "5e4d7103-2cfc-4db5-96ba-2f35e1a892d4"
     },
-    "1773.11": {
+    {
       "requestid": "a037fb53-f1fe-4c65-85ce-59786c30db23",
       "confidence": "0.7241231",
       "timestamp": 1773.11,
       "content": "our staff include david herman greg rozalski credico nbra lamb susie lechtenberg in crispins in with engineering help from air jake up if you want more freakonomics radio you can subscribe to podcasts on itunes or go to freakonomics.com real find lock the radio oblad the books and more",
-      "speaker": "S266"
+      "speaker": "S266",
+      "uuid": "2b9dabcd-7e92-4a64-9c91-46e7c2207595"
     },
-    "1806.66": {
+    {
       "requestid": "331ea666-700b-4602-b6dc-17c3089ae0ce",
       "timestamp": 1806.66,
-      "content": ""
+      "content": "",
+      "uuid": "49bc6cd0-c2ad-4233-9169-e7c9f86eac13"
     },
-    "1808.29": {
+    {
       "requestid": "43d7a376-fcda-4387-be08-5948cefc25ee",
       "confidence": "0.8297924",
       "timestamp": 1808.29,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e1b75164-61ad-489e-a707-de505e1bc864"
     },
-    "1827.58": {
+    {
       "requestid": "4bf63f4b-7912-405d-a2b3-a8a80eb9da6b",
       "confidence": "0.8914772",
       "timestamp": 1827.58,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "fcbb7936-c228-43a1-abc5-62e94a59a6da"
     }
-  }
+  ]
 }

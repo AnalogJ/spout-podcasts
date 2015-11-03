@@ -3,1896 +3,2211 @@
   "date": "2015-07-31",
   "description": "Cancer is merciless. It can strike any time, spread without warning, and return unannounced. In this hour, TED speakers reframe not only how we treat cancer but how we can live with it and survive it.",
   "episode_url": "http://podcastdownload.npr.org/anon.npr-mp3/npr/ted/2015/07/20150730_ted_cancerpod2.mp3?orgId=1&d=3148&p=510298&story=427428016&t=podcast&e=427428016&ft=pod&f=510298",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "bbb092af-d303-418e-b0e2-38b258fefb18",
       "confidence": "0.2766458",
       "timestamp": 0,
-      "content": "this"
+      "content": "this",
+      "uuid": "0103445e-742c-4cc0-a24e-a3724cb9367e"
     },
-    "10": {
+    {
       "requestid": "0f783ab7-05b6-4886-b49b-f367acb50db0",
       "confidence": "0.4574499",
       "timestamp": 10,
-      "content": "netcat technology interchange design design is everything its temperature ever known that delivered it had conferences around the world gift of the human imagination we had to"
+      "content": "netcat technology interchange design design is everything its temperature ever known that delivered it had conferences around the world gift of the human imagination we had to",
+      "uuid": "e67db4a3-85fa-47ef-953f-b949177947c0"
     },
-    "20": {
+    {
       "requestid": "cb93cbbf-1d97-4b0b-aa0b-d97474f22676",
       "confidence": "0.3755865",
       "timestamp": 20,
-      "content": "leave and impossible think the true nature of reality second just beyond those tops DS capitol"
+      "content": "leave and impossible think the true nature of reality second just beyond those tops DS capitol",
+      "uuid": "eed56df9-b333-412c-9c68-1aaf3da5628a"
     },
-    "30": {
+    {
       "requestid": "1a9afe5a-60b1-452c-a1d6-b312de5d2ec1",
       "confidence": "0.2915038",
       "timestamp": 30,
-      "content": "from npr"
+      "content": "from npr",
+      "uuid": "7622009a-1168-48f0-9396-55fdfdb97b6e"
     },
-    "40": {
+    {
       "requestid": "6ec3a4a1-3eb0-486c-9ec3-a959ba812fc5",
       "confidence": "0.6931679",
       "timestamp": 40,
-      "content": "mexico his parents are both doctors there in like doctors anywhere they work a lot too when I was a kid his aunt marty walsh"
+      "content": "mexico his parents are both doctors there in like doctors anywhere they work a lot too when I was a kid his aunt marty walsh",
+      "uuid": "88c78cec-9025-4f0b-a32e-95b4e3d34226"
     },
-    "50": {
+    {
       "requestid": "bc4a3dfb-4be8-4788-8068-563c8b6a9f21",
       "confidence": "0.5359005",
       "timestamp": 50,
-      "content": "is the one who would look after him so he is the picture of me with the lake video games to better hai jeevan tell me how to cook and that she would"
+      "content": "is the one who would look after him so he is the picture of me with the lake video games to better hai jeevan tell me how to cook and that she would",
+      "uuid": "a8b9052d-c700-44fa-bd45-fc4e97b3510a"
     },
-    "60": {
+    {
       "requestid": "a876db74-ea65-4584-b629-5ba9790c7da6",
       "confidence": "0.5868048",
       "timestamp": 60,
-      "content": "can a person cheetah cub pero mean whatever I needed today jorge's and engineering lives in the bay area now I was only recently that mattie was the one who needs"
+      "content": "can a person cheetah cub pero mean whatever I needed today jorge's and engineering lives in the bay area now I was only recently that mattie was the one who needs",
+      "uuid": "4c60d490-14de-4650-8990-484db8181698"
     },
-    "70": {
+    {
       "requestid": "fe42948c-ae58-48b8-b72a-4632da74a700",
       "confidence": "0.6266125",
       "timestamp": 70,
-      "content": "taking care of us a ride over my underscore to suffering but she went to see a doctor about her day was a normal injury for someone to hug"
+      "content": "taking care of us a ride over my underscore to suffering but she went to see a doctor about her day was a normal injury for someone to hug",
+      "uuid": "afcd8646-3a6f-4d74-b707-e8358a88070e"
     },
-    "80": {
+    {
       "requestid": "75226544-a0bf-414b-a61a-17b9e420bbbe",
       "confidence": "0.5411147",
       "timestamp": 80,
-      "content": "planes in east falmouth 30 is recommended I had do some therapy that was <profanity>whore</profanity> hey on the ted stage in 2014 is on"
+      "content": "planes in east falmouth 30 is recommended I had do some therapy that was <profanity>whore</profanity> hey on the ted stage in 2014 is on",
+      "uuid": "355ae101-9a74-45d7-b32b-8d14d81c5331"
     },
-    "90": {
+    {
       "requestid": "6c93b4e2-0006-4222-80a7-de291b149400",
       "confidence": "0.6780083",
       "timestamp": 90,
-      "content": "she wasn't suffering from the tennessean tree shilling cancer but it would take months in a series of different tests before they leave and I know"
+      "content": "she wasn't suffering from the tennessean tree shilling cancer but it would take months in a series of different tests before they leave and I know",
+      "uuid": "adf6ae21-cfe8-4fcc-a808-f2bcd1e8a5db"
     },
-    "100": {
+    {
       "requestid": "2e4dd3bd-83bc-4730-a0e9-d2ab05f8d454",
       "confidence": "0.4854518",
       "timestamp": 100,
-      "content": "alaska wes I must be a freak she never smoked a cigarette she never got to go ahead and clean sports form of cash for life 2"
+      "content": "alaska wes I must be a freak she never smoked a cigarette she never got to go ahead and clean sports form of cash for life 2",
+      "uuid": "db77aa92-57e1-4176-a8f5-a2f4f7d16013"
     },
-    "110": {
+    {
       "requestid": "1a6e1b2b-072f-4e42-b401-2bdc7a1e8799",
       "confidence": "0.6056909",
       "timestamp": 110,
-      "content": "if she didn't fit the profile of a person to do with the fact that has a lung cancer which is why an injury or nasty infection"
+      "content": "if she didn't fit the profile of a person to do with the fact that has a lung cancer which is why an injury or nasty infection",
+      "uuid": "aa97159e-d849-42dd-8107-848e89e76dde"
     },
-    "120": {
+    {
       "requestid": "efc5c885-018f-48fc-a769-7e94f05ce81a",
       "confidence": "0.4903494",
       "timestamp": 120,
-      "content": "at least initially seemed more likely the office just wanna go to hospital so is deafening thought they with their clothes so they did it buddy for 2 classes in"
+      "content": "at least initially seemed more likely the office just wanna go to hospital so is deafening thought they with their clothes so they did it buddy for 2 classes in",
+      "uuid": "5e6b8a87-33e0-41b5-9ca0-a61bcc51581d"
     },
-    "130": {
+    {
       "requestid": "c21cf997-7f99-48db-a104-7ba553cbb5b4",
       "confidence": "0.4863428",
       "timestamp": 130,
-      "content": "negative today with mom and 25 ok love I have to because we have no delays in at this point when horizont got a biopsy that's when you'd expect things to"
+      "content": "negative today with mom and 25 ok love I have to because we have no delays in at this point when horizont got a biopsy that's when you'd expect things to",
+      "uuid": "ab310727-674f-4761-b5fb-022027c85e3b"
     },
-    "140": {
+    {
       "requestid": "a5fe829e-bdf6-4df5-a035-17664c829da5",
       "confidence": "0.682787",
       "timestamp": 140,
-      "content": "finally move faster but in fact it was just the opposite with mexico for the week in american economy and we have very sophisticated hospital general"
+      "content": "finally move faster but in fact it was just the opposite with mexico for the week in american economy and we have very sophisticated hospital general",
+      "uuid": "5c1a9a58-5c21-45d3-9485-cffeabd39a68"
     },
-    "150": {
+    {
       "requestid": "b64807af-6ec3-46e5-a89e-e9293dfe36a4",
       "confidence": "0.6236518",
       "timestamp": 150,
-      "content": "is it still if she wanted to get her biopsy done she needed to travel 5 hours mexico city to the closest hospital bed good brother survived"
+      "content": "is it still if she wanted to get her biopsy done she needed to travel 5 hours mexico city to the closest hospital bed good brother survived",
+      "uuid": "ddf7010e-9f65-44d3-8e51-51ff6f6336ca"
     },
-    "160": {
+    {
       "requestid": "d0e20af2-1c47-4fa3-a5e7-4d3cd2302f35",
       "confidence": "0.6316007",
       "timestamp": 160,
-      "content": "in 2 weeks later the results of the biopsy came back in west state street long pants and at that stage"
+      "content": "in 2 weeks later the results of the biopsy came back in west state street long pants and at that stage",
+      "uuid": "1022a6e0-0e1f-4a99-a591-5e1165d34cd8"
     },
-    "170": {
+    {
       "requestid": "1ef8714c-5810-403a-9707-9bd7fb765ea6",
       "confidence": "0.6680052",
       "timestamp": 170,
-      "content": "h 3 only 8% of people live beyond 5 years but the thing is how his aunt was diagnosed any differently"
+      "content": "h 3 only 8% of people live beyond 5 years but the thing is how his aunt was diagnosed any differently",
+      "uuid": "fbe7c002-9db2-4b76-94fb-50f007b98141"
     },
-    "180": {
+    {
       "requestid": "d89e1a04-18a7-4a0a-8cfb-584669af4b0b",
       "confidence": "0.602097",
       "timestamp": 180,
-      "content": "sickos and she would've been anywhere else doing different there was but it took a lot more time with that process of buying"
+      "content": "sickos and she would've been anywhere else doing different there was but it took a lot more time with that process of buying",
+      "uuid": "8dce9c65-551f-4cc8-bcc0-0e51090aa905"
     },
-    "190": {
+    {
       "requestid": "091b0090-fa81-4a08-8918-5ebde10a11db",
       "confidence": "0.6403217",
       "timestamp": 190,
-      "content": "back and forth when your best guy friend doctor li skiving symptoms this card in this is this over and over what is stressful and frustrating"
+      "content": "back and forth when your best guy friend doctor li skiving symptoms this card in this is this over and over what is stressful and frustrating",
+      "uuid": "65d891fe-6bea-4e3c-bd33-2eded0a23497"
     },
-    "200": {
+    {
       "requestid": "704c5834-6ab4-40c7-b76a-8c8a2f468e17",
       "confidence": "0.5666905",
       "timestamp": 200,
-      "content": "and there is the way cancer diagnosis have been done to the dean of history however today my aunt she's fighting brave"
+      "content": "and there is the way cancer diagnosis have been done to the dean of history however today my aunt she's fighting brave",
+      "uuid": "49dae660-a2ea-4557-ab16-d4f18d353bfe"
     },
-    "210": {
+    {
       "requestid": "eb217602-69df-40ec-95f4-b617d0031f54",
       "confidence": "0.5754855",
       "timestamp": 210,
-      "content": "I'm going to this but his with everybody again this was more hey in late 2014 wendy davis to talk am"
+      "content": "I'm going to this but his with everybody again this was more hey in late 2014 wendy davis to talk am",
+      "uuid": "2b579210-f18c-4040-9728-e55f34a54054"
     },
-    "220": {
+    {
       "requestid": "c072b262-e166-45bc-b176-8b8167761c22",
       "confidence": "0.5710947",
       "timestamp": 220,
-      "content": "11 month or so after that I talk a little twist braids in alora hey buddy"
+      "content": "11 month or so after that I talk a little twist braids in alora hey buddy",
+      "uuid": "b72fd49d-b577-48bd-b1a0-3c635324db0f"
     },
-    "230": {
+    {
       "requestid": "d4620fdf-ab38-4ad6-83ab-dfcd122ddd54",
       "confidence": "0.540433",
       "timestamp": 230,
-      "content": "yeah and we spend christmas and new years eve to wear a of that I find me an asian you was with melissa"
+      "content": "yeah and we spend christmas and new years eve to wear a of that I find me an asian you was with melissa",
+      "uuid": "9ab3a1fc-ceb0-466c-a7b7-fd8b63b858b6"
     },
-    "240": {
+    {
       "requestid": "72c4fb61-2e87-4cbe-a2e7-94d64fe2a1fd",
       "confidence": "0.5662044",
       "timestamp": 240,
-      "content": "open in and everybody newline and we we and we go to time to her and she was very calm and happy"
+      "content": "open in and everybody newline and we we and we go to time to her and she was very calm and happy",
+      "uuid": "0045eb8b-7b7e-43b8-aeca-419826e6e3d2"
     },
-    "250": {
+    {
       "requestid": "3be78279-1ec7-49ee-86b1-19ae4d37cdcd",
       "confidence": "0.5446613",
       "timestamp": 250,
-      "content": "so hard yeah yeah it's a it's a very unfair this is am it's very unfair that they both had"
+      "content": "so hard yeah yeah it's a it's a very unfair this is am it's very unfair that they both had",
+      "uuid": "bbd5f3da-d8c1-4c85-9e79-01677876ce23"
     },
-    "260": {
+    {
       "requestid": "6c2dafb2-a1f0-49f9-9caa-ebeac6e58130",
       "confidence": "0.564018",
       "timestamp": 260,
-      "content": "diagnosing how is being treated"
+      "content": "diagnosing how is being treated",
+      "uuid": "0f6d4e31-e1f1-4534-9a85-d81bd0466f10"
     },
-    "270": {
+    {
       "requestid": "b67447be-671d-4c8c-aa2f-ee974b795600",
       "confidence": "0.6529045",
       "timestamp": 270,
-      "content": "open during her struggle to get a diagnosis for his hotel was in the lab in silicon valley working on an invention to make cancer easier to text"
+      "content": "open during her struggle to get a diagnosis for his hotel was in the lab in silicon valley working on an invention to make cancer easier to text",
+      "uuid": "ea1ec959-8a10-435c-a083-295b5ddd66a6"
     },
-    "280": {
+    {
       "requestid": "f7d881bb-41be-43dc-b7fb-a8ac2021f147",
       "confidence": "0.4572865",
       "timestamp": 280,
-      "content": "today that's why did they should happen :) win some things appear that is the stage 3 or 4 maybe need that is too late"
+      "content": "today that's why did they should happen :) win some things appear that is the stage 3 or 4 maybe need that is too late",
+      "uuid": "be860b52-fc50-433f-b815-3ed51281434e"
     },
-    "290": {
+    {
       "requestid": "56a30ba8-e2b8-4ca2-a3be-26337d3241a2",
       "confidence": "0.4377817",
       "timestamp": 290,
-      "content": "east expensive for families is too expensive for humanity nalaka have been awesome dollar wheels look after the people will f one"
+      "content": "east expensive for families is too expensive for humanity nalaka have been awesome dollar wheels look after the people will f one",
+      "uuid": "3b6e9f5f-17c8-4b41-adc6-4a5983c3a877"
     },
-    "300": {
+    {
       "requestid": "46fdd511-432f-4dbe-90cb-c72e5121541d",
       "confidence": "0.5334886",
       "timestamp": 300,
-      "content": "nicki people seen in this audience would be diagnosed with some type of cancer and what are the 4 will die because it sucks"
+      "content": "nicki people seen in this audience would be diagnosed with some type of cancer and what are the 4 will die because it sucks",
+      "uuid": "3d51aaa5-c87a-4bd4-8369-90ab0d71073a"
     },
-    "310": {
+    {
       "requestid": "905fdca5-8130-4998-89ee-94e972e8fa81",
       "confidence": "0.7202832",
       "timestamp": 310,
-      "content": "we change those numbers because the story they know tell is that you or someone close to you will get this disease to spend a shower look"
+      "content": "we change those numbers because the story they know tell is that you or someone close to you will get this disease to spend a shower look",
+      "uuid": "fa156606-6f96-4a47-b68f-48b9fdf9402e"
     },
-    "320": {
+    {
       "requestid": "6ef80836-6657-4820-8eb6-7d99f771bbbe",
       "confidence": "0.6423838",
       "timestamp": 320,
-      "content": "ingat we are in the fight against cancer in a whole new way of thinking about it could change how we treat it maybe even live with monica comma"
+      "content": "ingat we are in the fight against cancer in a whole new way of thinking about it could change how we treat it maybe even live with monica comma",
+      "uuid": "4de0c818-9011-4527-868c-82c9a7386466"
     },
-    "330": {
+    {
       "requestid": "b26e4839-3ca4-40c3-8ffb-2a209f67a1ac",
       "confidence": "0.5893815",
       "timestamp": 330,
-      "content": "zissman a fatal and I think in general in the next 10 to 15 years cancer it will be a very compatible is it"
+      "content": "zissman a fatal and I think in general in the next 10 to 15 years cancer it will be a very compatible is it",
+      "uuid": "27c36802-9b3d-4d1f-b213-e74aab94fbfd"
     },
-    "340": {
+    {
       "requestid": "f69b7294-b943-4797-9ce8-714c2e6bf7fb",
       "confidence": "0.4308928",
       "timestamp": 340,
-      "content": "definition like hiv or diabetes is not good news but is not trying"
+      "content": "definition like hiv or diabetes is not good news but is not trying",
+      "uuid": "8937ffff-ae25-476d-b432-b7bdc6bf1f78"
     },
-    "350": {
+    {
       "requestid": "6be46796-0250-496f-9d0a-2365c6d9d2c9",
       "confidence": "0.7164298",
       "timestamp": 350,
-      "content": "to that point court hotel in a team of scientists are working on the way to give cancer patients the one thing is I didn't have time"
+      "content": "to that point court hotel in a team of scientists are working on the way to give cancer patients the one thing is I didn't have time",
+      "uuid": "25aba416-8b36-4bca-b6f1-513b67a8e98c"
     },
-    "360": {
+    {
       "requestid": "1372fcef-5634-4ac4-9d71-dd286eefac15",
       "confidence": "0.5367473",
       "timestamp": 360,
-      "content": "is more from jorge's to talk to date me with your people still have access to any cash for the fishing methods even though we know"
+      "content": "is more from jorge's to talk to date me with your people still have access to any cash for the fishing methods even though we know",
+      "uuid": "83a2399d-d580-48fe-b10f-658baca58858"
     },
-    "370": {
+    {
       "requestid": "cb70bff8-492f-4e9c-b707-2d255097e34f",
       "confidence": "0.6397899",
       "timestamp": 370,
-      "content": "the catching cats rarely is basically the closest thing we have to see if you're against it we know that we can change this in our life and that is why my team and I have"
+      "content": "the catching cats rarely is basically the closest thing we have to see if you're against it we know that we can change this in our life and that is why my team and I have",
+      "uuid": "f5a3308d-0205-43b5-8cbe-8f78b75ccf27"
     },
-    "380": {
+    {
       "requestid": "7dca9259-2f17-4109-a8e9-114c3553049c",
       "confidence": "0.5920038",
       "timestamp": 380,
-      "content": "excited to begin this your new journey to try to make reservation at the early stages easier cheaper smarter"
+      "content": "excited to begin this your new journey to try to make reservation at the early stages easier cheaper smarter",
+      "uuid": "83da6b66-1612-4db2-ae54-8952ef5aee26"
     },
-    "390": {
+    {
       "requestid": "50e9ab4d-7206-4b6d-acca-eab780ded555",
       "confidence": "0.5685877",
       "timestamp": 390,
-      "content": "mark this evil than ever before the context of course there were leaving at a time for tonight it is just dropping over present at exponentially in based on recent saints"
+      "content": "mark this evil than ever before the context of course there were leaving at a time for tonight it is just dropping over present at exponentially in based on recent saints",
+      "uuid": "bc3e4c9e-0e3e-4380-818a-80fb3fd1e18d"
     },
-    "400": {
+    {
       "requestid": "f12fd26b-19d3-4acd-912c-97577158e57a",
       "confidence": "0.5560874",
       "timestamp": 400,
-      "content": "this car is really the we have found a reliable and I could wait olympics in several types of cancer of the very early stages travel time"
+      "content": "this car is really the we have found a reliable and I could wait olympics in several types of cancer of the very early stages travel time",
+      "uuid": "6e9ad07c-614d-47a6-9789-e5d5df41d329"
     },
-    "410": {
+    {
       "requestid": "825d5c2c-8bf2-4f40-bf9e-7deffadac8a7",
       "confidence": "0.5349724",
       "timestamp": 410,
-      "content": "would we be fixing a set of very small molecules the supernaturally know it got cold microrna so micro are in a caesar"
+      "content": "would we be fixing a set of very small molecules the supernaturally know it got cold microrna so micro are in a caesar",
+      "uuid": "3a9594db-86e7-4400-90cd-29583f05380b"
     },
-    "420": {
+    {
       "requestid": "3c1e5e2d-2a89-43d5-894d-220c48e84ba8",
       "confidence": "0.7641216",
       "timestamp": 420,
-      "content": "basically tiny molecules that are associated with specific cells and tissues in our body scientists first discovered this in 1983 to for temple"
+      "content": "basically tiny molecules that are associated with specific cells and tissues in our body scientists first discovered this in 1983 to for temple",
+      "uuid": "ca41f668-b848-409c-a2a7-081ebc45f5b8"
     },
-    "430": {
+    {
       "requestid": "0a1c9867-611f-4981-816f-8f30e9fa92bb",
       "confidence": "0.5373205",
       "timestamp": 430,
-      "content": "doubt settle my car nasib should only be found in heart I sell my car is it should only be found in deliverance phone and until pretty recently head that way when yu born in 2008"
+      "content": "doubt settle my car nasib should only be found in heart I sell my car is it should only be found in deliverance phone and until pretty recently head that way when yu born in 2008",
+      "uuid": "717e15a9-0f94-427e-bf0c-8a9933dbdedd"
     },
-    "440": {
+    {
       "requestid": "175d6020-4191-4298-9839-30c77461023f",
       "confidence": "0.7330685",
       "timestamp": 440,
-      "content": "in 2008 scientists discovered the damage to specific parts of the body releases specific micro rnas into the bloodstream for couple make my name"
+      "content": "in 2008 scientists discovered the damage to specific parts of the body releases specific micro rnas into the bloodstream for couple make my name",
+      "uuid": "8ce44a59-c774-4cbe-8892-108f60818749"
     },
-    "450": {
+    {
       "requestid": "552b663d-c349-4bf5-9d09-3d3539e97325",
       "confidence": "0.5443585",
       "timestamp": 450,
-      "content": "and that's the type make money if that micro are in a pattern is floating around in your blood that means that there's a problem with the heart and and and hard shells or bing"
+      "content": "and that's the type make money if that micro are in a pattern is floating around in your blood that means that there's a problem with the heart and and and hard shells or bing",
+      "uuid": "0af8ad70-0953-4764-a085-17413eaa9883"
     },
-    "460": {
+    {
       "requestid": "8472633d-3a2e-4ecf-9695-5a1f62ea67a1",
       "confidence": "0.6609541",
       "timestamp": 460,
-      "content": "broken apart tell michael ernie's like it's like this little bubble inside of your bloodstream at sign wait I have this information you may wanna do it yeah I agree I shouldn't be"
+      "content": "broken apart tell michael ernie's like it's like this little bubble inside of your bloodstream at sign wait I have this information you may wanna do it yeah I agree I shouldn't be",
+      "uuid": "4137e8ce-b502-4295-a2b2-b32a55a9cdca"
     },
-    "470": {
+    {
       "requestid": "10250568-e483-48a0-8b27-4c56be8ca5de",
       "confidence": "0.5981794",
       "timestamp": 470,
-      "content": "your butt is a problem with my car needs you gonna take them with you think another you at least not easily definitely today does the"
+      "content": "your butt is a problem with my car needs you gonna take them with you think another you at least not easily definitely today does the",
+      "uuid": "d2673e7b-9a61-4282-8f7c-d29f67edacf0"
     },
-    "480": {
+    {
       "requestid": "5dcab803-263b-4f78-99ea-5973d2b9d915",
       "confidence": "0.5655571",
       "timestamp": 480,
-      "content": "text mike arnese arab idol is still expensive legacy concert and they require highly tweet I'm just so <profanity>horny</profanity> and his team are working on a new way to 10"
+      "content": "text mike arnese arab idol is still expensive legacy concert and they require highly tweet I'm just so <profanity>horny</profanity> and his team are working on a new way to 10",
+      "uuid": "eaa2b5f5-f8ec-4f9c-b370-717014bcbecc"
     },
-    "490": {
+    {
       "requestid": "31872fde-de3c-4672-8dff-41b0aff943ec",
       "confidence": "0.7479289",
       "timestamp": 490,
-      "content": "for micro rnas he's very small biomarkers that could indicate cancer in its early stages we will either be up on the way to school on"
+      "content": "for micro rnas he's very small biomarkers that could indicate cancer in its early stages we will either be up on the way to school on",
+      "uuid": "91165dd9-3293-4a8c-a7c4-4785b4117e07"
     },
-    "500": {
+    {
       "requestid": "fdc6f55f-ba0d-4ac2-9b4b-36570712c594",
       "confidence": "0.5343604",
       "timestamp": 500,
-      "content": "is the first time that we should I meet you at emmas fish is it just 'cause you're black <profanity>whore</profanity> hey did on the ted stage was very visual so I'm still in rapid flow from I'm at"
+      "content": "is the first time that we should I meet you at emmas fish is it just 'cause you're black <profanity>whore</profanity> hey did on the ted stage was very visual so I'm still in rapid flow from I'm at",
+      "uuid": "6f64a5c1-cf87-4bef-bc4c-6623aaef746a"
     },
-    "510": {
+    {
       "requestid": "488e2549-c669-40ab-96d4-ac06309bc91f",
       "confidence": "0.6241885",
       "timestamp": 510,
-      "content": "sky but imagine the next time you go to your doctor I do you next on the block list so imagine a simple blood test at your next doctors visit any neighborhood left end with a <profanity>pussy</profanity>"
+      "content": "sky but imagine the next time you go to your doctor I do you next on the block list so imagine a simple blood test at your next doctors visit any neighborhood left end with a <profanity>pussy</profanity>",
+      "uuid": "29aa21e0-343f-4910-9ad1-62aebea50e08"
     },
-    "520": {
+    {
       "requestid": "df9d31d5-907a-4f55-9a32-68de03d52382",
       "confidence": "0.5547858",
       "timestamp": 520,
-      "content": "yesterday she slept like this will take you take a blood sample can you drop into 96 tiny wells on a specially designed plastic labl it's not the size of an eye"
+      "content": "yesterday she slept like this will take you take a blood sample can you drop into 96 tiny wells on a specially designed plastic labl it's not the size of an eye",
+      "uuid": "c23a33d2-56a9-4580-84f4-7fdf28dd5b14"
     },
-    "530": {
+    {
       "requestid": "afea9c21-caa5-4235-8e7a-4b181391ced1",
       "confidence": "0.5470142",
       "timestamp": 530,
-      "content": "tellem 6 plus it will be safe and that well coated with a specific bio chemical agent is looking for specific micro rna acting like a truck"
+      "content": "tellem 6 plus it will be safe and that well coated with a specific bio chemical agent is looking for specific micro rna acting like a truck",
+      "uuid": "a215775d-e74b-457e-8861-a409b7c5144e"
     },
-    "540": {
+    {
       "requestid": "c436dc6f-1181-4256-9379-90e4fce22c74",
       "confidence": "0.6615749",
       "timestamp": 540,
-      "content": "this is only one of my clients within the sump the bio chemical agents in those traps are specially designed to react in the presence of specific micro rnas ok"
+      "content": "this is only one of my clients within the sump the bio chemical agents in those traps are specially designed to react in the presence of specific micro rnas ok",
+      "uuid": "6d237cce-a4d8-4898-9f51-8952b8784c56"
     },
-    "550": {
+    {
       "requestid": "10c7e910-8793-4519-80c5-d9c636d79d2e",
       "confidence": "0.5229444",
       "timestamp": 550,
-      "content": "after you drop in the blood sample get a template it with a place how do I say if he shows a sealed white castle rock I am just creating a heating"
+      "content": "after you drop in the blood sample get a template it with a place how do I say if he shows a sealed white castle rock I am just creating a heating",
+      "uuid": "f10b5dc5-e46c-4ec1-9148-913b06f4cd74"
     },
-    "560": {
+    {
       "requestid": "84d1052f-d885-4329-9b88-89baa2ce9a39",
       "confidence": "0.6987879",
       "timestamp": 560,
-      "content": "conditions and let me know city conditions conditions for a chemical reaction again and then a step that makes this technology cheap"
+      "content": "conditions and let me know city conditions conditions for a chemical reaction again and then a step that makes this technology cheap",
+      "uuid": "1f33aabd-a939-41be-b5fd-7317b7a2c6a9"
     },
-    "570": {
+    {
       "requestid": "92d04fa4-b12e-4223-b63c-d46e872693c5",
       "confidence": "0.6438109",
       "timestamp": 570,
-      "content": "for an easier than anything out there and then you can do for your smart phone"
+      "content": "for an easier than anything out there and then you can do for your smart phone",
+      "uuid": "79d4115c-5129-4db6-8b74-62803d9e5f19"
     },
-    "580": {
+    {
       "requestid": "cd3ec056-49ed-43d0-afea-a17cd60a6dcd",
       "confidence": "0.5390183",
       "timestamp": 580,
-      "content": "any thoughts for camera green upper bucks a smart phone sitting on top of the device runs a map that is taking pictures taken pics in"
+      "content": "any thoughts for camera green upper bucks a smart phone sitting on top of the device runs a map that is taking pictures taken pics in",
+      "uuid": "a9ffb895-36b1-4b4a-8d7b-2e9904cb396d"
     },
-    "590": {
+    {
       "requestid": "620aa55b-51ba-42ac-80a4-e36e1a1da19a",
       "confidence": "0.5834191",
       "timestamp": 590,
-      "content": "smart phone can get text which of those biochemical wells start glow yet if specific micro rnas attract dick pic you sent me minutes"
+      "content": "smart phone can get text which of those biochemical wells start glow yet if specific micro rnas attract dick pic you sent me minutes",
+      "uuid": "b1ecf99a-ad93-456b-9dde-1f9977528297"
     },
-    "600": {
+    {
       "requestid": "c924d6e9-f6ca-4f79-9655-9528d4c9b446",
       "confidence": "0.5496656",
       "timestamp": 600,
-      "content": "and comparing a witch with her signing how much and how fast I'm sending that information car service smart phone users cloudy"
+      "content": "and comparing a witch with her signing how much and how fast I'm sending that information car service smart phone users cloudy",
+      "uuid": "f9954b28-4746-439e-8236-f47b9c81a0cd"
     },
-    "610": {
+    {
       "requestid": "ddc0f8b4-10cd-4bfb-bf8e-93e509118ccd",
       "confidence": "0.6462398",
       "timestamp": 610,
-      "content": "analyze the photos know highly trained doctor that need to interpret the data in it means it this test can go anywhere a smart phone can you buy process"
+      "content": "analyze the photos know highly trained doctor that need to interpret the data in it means it this test can go anywhere a smart phone can you buy process",
+      "uuid": "bbd8d547-f42c-4118-b2eb-8f3ab1961675"
     },
-    "620": {
+    {
       "requestid": "57942bd2-3c82-446e-a581-5936172b8990",
       "confidence": "0.4731433",
       "timestamp": 620,
-      "content": "letter on 60 minutes will win the presence over is inside the real simple we just fixed it and try to cats"
+      "content": "letter on 60 minutes will win the presence over is inside the real simple we just fixed it and try to cats",
+      "uuid": "72701ef8-df6b-49c9-85e0-5c4dd8cb55cb"
     },
-    "630": {
+    {
       "requestid": "6a0a74b3-68c5-46c7-9fa9-48b79bf1c440",
       "confidence": "0.7548795",
       "timestamp": 630,
-      "content": "I keep this was amazing to see is incredible but for now the machine can only test for a fee"
+      "content": "I keep this was amazing to see is incredible but for now the machine can only test for a fee",
+      "uuid": "791ca243-e87a-43c7-8d53-00cb8da3fcd5"
     },
-    "640": {
+    {
       "requestid": "f0b3ea5a-1b1a-4981-a247-5ffc7589e886",
       "confidence": "0.8045635",
       "timestamp": 640,
-      "content": "you are very specific answers and then there's another obstacle which is that michael arnese don't just appear in blood when you have cancer they can also show up if you have"
+      "content": "you are very specific answers and then there's another obstacle which is that michael arnese don't just appear in blood when you have cancer they can also show up if you have",
+      "uuid": "c24b8ea0-3105-4725-80d9-c564f06c9051"
     },
-    "650": {
+    {
       "requestid": "2f954d65-1dfd-4e6d-bf40-5088a034691f",
       "confidence": "0.6534292",
       "timestamp": 650,
-      "content": "that's a AA hard party last night when you have a hangover ever find my carnac take waiting so we need to understand or a broken arm laura cold microrna"
+      "content": "that's a AA hard party last night when you have a hangover ever find my carnac take waiting so we need to understand or a broken arm laura cold microrna",
+      "uuid": "c509ed08-0612-47b7-b5c2-9c05f05a88cb"
     },
-    "660": {
+    {
       "requestid": "e47d1ce0-ece4-4659-a324-57edae812950",
       "confidence": "0.7514317",
       "timestamp": 660,
-      "content": "will be detectable before his chest is getting better and better at figuring out the different and if the test continue to show ink urging results it could be a"
+      "content": "will be detectable before his chest is getting better and better at figuring out the different and if the test continue to show ink urging results it could be a",
+      "uuid": "5864e0c2-65ea-4f79-97d7-a14d04ec323a"
     },
-    "670": {
+    {
       "requestid": "b4269d12-2413-4726-a733-c24ba98eab98",
       "confidence": "0.6731741",
       "timestamp": 670,
-      "content": "andrad park your annual physical within the next 3 years and I don't think it will replace 100% all daughter is clint after we have to wait AM 2 years but"
+      "content": "andrad park your annual physical within the next 3 years and I don't think it will replace 100% all daughter is clint after we have to wait AM 2 years but",
+      "uuid": "36cb40d2-75c2-4d95-8fc0-f2bccb5edd85"
     },
-    "680": {
+    {
       "requestid": "ee07dc92-674d-4931-9047-5f214ee6c75b",
       "confidence": "0.4734989",
       "timestamp": 680,
-      "content": "it will be much more available and missing the next 10 years in mason will take forever in the period it will be prevented any favorite"
+      "content": "it will be much more available and missing the next 10 years in mason will take forever in the period it will be prevented any favorite",
+      "uuid": "dbe9052a-6f2d-4a1e-9004-8e988a4cfb1b"
     },
-    "690": {
+    {
       "requestid": "f38794b7-0e6d-4b91-8138-854702a4bcc0",
       "confidence": "0.6021642",
       "timestamp": 690,
-      "content": "believe that we had a very early stages but so far we have been able to successfully identified the my car in a pattern of fun fetti cancer lung cancer"
+      "content": "believe that we had a very early stages but so far we have been able to successfully identified the my car in a pattern of fun fetti cancer lung cancer",
+      "uuid": "b99c108d-ba5a-4e29-897f-2aad6d854bfc"
     },
-    "700": {
+    {
       "requestid": "23fc72a8-6b6f-40f7-b8e9-97399058fd1f",
       "confidence": "0.6142622",
       "timestamp": 700,
-      "content": "breast cancer and about the cats and carla woodling a clinical trial in collaboration with a german cancer research center with 200"
+      "content": "breast cancer and about the cats and carla woodling a clinical trial in collaboration with a german cancer research center with 200",
+      "uuid": "0680f695-684d-41f8-a0ad-acbe5eb6587b"
     },
-    "710": {
+    {
       "requestid": "7110f940-e26c-4e25-86b1-57a2b8e7739e",
       "confidence": "0.3120125",
       "timestamp": 710,
-      "content": "men for breakfast"
+      "content": "men for breakfast",
+      "uuid": "02733d2a-5c06-4eac-9841-e2a47b11017e"
     },
-    "720": {
+    {
       "requestid": "e1b25e93-91a2-4f31-9b20-7c841916ce1d",
       "confidence": "0.5485634",
       "timestamp": 720,
-      "content": "it has the potential to remind you to change ho chi super serious I'm back in the sticks having them is looking for to my clinic patterson job lot at any given time"
+      "content": "it has the potential to remind you to change ho chi super serious I'm back in the sticks having them is looking for to my clinic patterson job lot at any given time",
+      "uuid": "c33f62df-bf06-4d99-b9d0-3d2c30e0670b"
     },
-    "730": {
+    {
       "requestid": "6542cb14-4fd4-4126-9220-f10d596f99c0",
       "confidence": "0.5971929",
       "timestamp": 730,
-      "content": "you need to know which class are you looking for you need to have any symptoms you only need one milliliter of blood in the relatively simple area schools"
+      "content": "you need to know which class are you looking for you need to have any symptoms you only need one milliliter of blood in the relatively simple area schools",
+      "uuid": "ec03e6bd-e922-4c6e-b7ff-7c0c988d2382"
     },
-    "740": {
+    {
       "requestid": "5313b09b-f749-48b2-8e6a-dd325a78bf6b",
       "confidence": "0.6045542",
       "timestamp": 740,
-      "content": "I'm certain they the very near future because of this another brick those are we seeing everything life sciences the way we see cancer"
+      "content": "I'm certain they the very near future because of this another brick those are we seeing everything life sciences the way we see cancer",
+      "uuid": "d6d64cd5-8956-492e-8ee8-fac1ba7ef340"
     },
-    "750": {
+    {
       "requestid": "2e94e60d-6697-47ee-9011-a5169e289370",
       "confidence": "0.6184213",
       "timestamp": 750,
-      "content": "who are the key chains will give us a chance so that I can eat early understand any better I'm finding out your thank you very much"
+      "content": "who are the key chains will give us a chance so that I can eat early understand any better I'm finding out your thank you very much",
+      "uuid": "c9a6fa1b-34da-426e-9afa-c64039bb5d31"
     },
-    "760": {
+    {
       "requestid": "79dcaed7-fae7-4afa-ad58-4958154a79e5",
       "confidence": "0.6901647",
       "timestamp": 760,
-      "content": "what is there to be early detection cancer engineer the companies call near occulus there cancer"
+      "content": "what is there to be early detection cancer engineer the companies call near occulus there cancer",
+      "uuid": "d76fd223-a2fe-431e-a4cd-fd380c33804c"
     },
-    "770": {
+    {
       "requestid": "e6290812-2472-471d-9d01-5d461d7d9106",
       "confidence": "0.7657048",
       "timestamp": 770,
-      "content": "action technology by the way will be made open source getty jorge's talk atten.com for more ideas about fighting cancer in a moment I'm"
+      "content": "action technology by the way will be made open source getty jorge's talk atten.com for more ideas about fighting cancer in a moment I'm",
+      "uuid": "6ea44c6d-7755-44b2-a3c1-c012b75e1fb0"
     },
-    "780": {
+    {
       "requestid": "7b848552-c0fa-4c45-a1eb-8ab720d73643",
       "confidence": "0.7081623",
       "timestamp": 780,
-      "content": "I rise in this is the ted radio hour from npr"
+      "content": "I rise in this is the ted radio hour from npr",
+      "uuid": "949f3f23-3839-4046-b41b-c0a4250173c5"
     },
-    "790": {
+    {
       "requestid": "39a3984b-2ff4-4d98-8a6d-fde2fd4b1404",
       "confidence": "0.8183106",
       "timestamp": 790,
-      "content": "2 of our sponsors that help make this podcast possible for us to simply safe home security systems a simple way to protect your home or office can we save is a wireless"
+      "content": "2 of our sponsors that help make this podcast possible for us to simply safe home security systems a simple way to protect your home or office can we save is a wireless",
+      "uuid": "f5ea8779-3291-47ed-9a1d-eb7f540354b3"
     },
-    "800": {
+    {
       "requestid": "77174cb9-fe27-4ab0-bd26-1f0a334f5490",
       "confidence": "0.6881731",
       "timestamp": 800,
-      "content": "no contract in 24 hour protection lexi belle by group of students at harvard after they got robbed and the only option was to sign up for a 3 year security contract joke"
+      "content": "no contract in 24 hour protection lexi belle by group of students at harvard after they got robbed and the only option was to sign up for a 3 year security contract joke",
+      "uuid": "79db1ddc-bb78-4bf6-ad43-56f90ed37a82"
     },
-    "810": {
+    {
       "requestid": "e4e88ac2-4413-43b1-9493-2128aa6d8074",
       "confidence": "0.6659197",
       "timestamp": 810,
-      "content": "I decided to build something simpler easier in smarter without a contract you can try it out get 10% discount in show support for the show by visiting simply say"
+      "content": "I decided to build something simpler easier in smarter without a contract you can try it out get 10% discount in show support for the show by visiting simply say",
+      "uuid": "567f17b1-7cfe-46d3-acd5-19fddb617c89"
     },
-    "820": {
+    {
       "requestid": "393bbfb6-86fa-45b8-9d7a-9e12ec482327",
       "confidence": "0.7652473",
       "timestamp": 820,
-      "content": "ifIMPLISAFE.com slash npr thanks also to citrix go to meeting the next people in business"
+      "content": "ifIMPLISAFE.com slash npr thanks also to citrix go to meeting the next people in business",
+      "uuid": "74b9317c-abe5-4330-8524-c58854b9ff74"
     },
-    "830": {
+    {
       "requestid": "51fe91cc-5a73-487d-8294-aca5d6b98c6e",
       "confidence": "0.7007421",
       "timestamp": 830,
-      "content": "is in face to face online meeting because he got the time and money and hassle it takes to hold a meeting citrix gotomeeting is designed to make it easy"
+      "content": "is in face to face online meeting because he got the time and money and hassle it takes to hold a meeting citrix gotomeeting is designed to make it easy",
+      "uuid": "9dee75b8-d766-41eb-840e-18c51347fc37"
     },
-    "840": {
+    {
       "requestid": "c5f5a285-fc3e-4f23-b917-fd985cf9f7c4",
       "confidence": "0.749433",
       "timestamp": 840,
-      "content": "meet with your team whenever you need to wherever you are and go to meeting you can eat from any computer or mobile device you can share screens to collaborate in real time"
+      "content": "meet with your team whenever you need to wherever you are and go to meeting you can eat from any computer or mobile device you can share screens to collaborate in real time",
+      "uuid": "b09eedca-f625-4cbb-a8e6-5436f0ec2be4"
     },
-    "850": {
+    {
       "requestid": "34190164-35ba-4edf-9bc6-f973c5680c2e",
       "confidence": "0.6553928",
       "timestamp": 850,
-      "content": "you can turn on webcams to see each other in hd video baby really don't wanna see naked videos you can do that and right now citrix is offering a"
+      "content": "you can turn on webcams to see each other in hd video baby really don't wanna see naked videos you can do that and right now citrix is offering a",
+      "uuid": "89189201-52df-4dbc-9b9f-c0a90f23959a"
     },
-    "860": {
+    {
       "requestid": "ea6a2a73-48ac-4e2a-9543-2e00b959081d",
       "confidence": "0.7745931",
       "timestamp": 860,
-      "content": "30 day free trial here is the website did it go to meeting.com and click on detroit free button to get started"
+      "content": "30 day free trial here is the website did it go to meeting.com and click on detroit free button to get started",
+      "uuid": "d8ae01f0-1eae-4184-b566-0a0c98e7a623"
     },
-    "870": {
+    {
       "requestid": "cbcae6f5-91b7-4b55-b684-111f5599f083",
       "confidence": "0.6761962",
       "timestamp": 870,
-      "content": "it's the ted radio hour from npr I'm garage saling show ideas about where we r"
+      "content": "it's the ted radio hour from npr I'm garage saling show ideas about where we r",
+      "uuid": "49730d28-ced5-4c5f-bcc6-98b8843ec5d1"
     },
-    "880": {
+    {
       "requestid": "bacec78f-4779-4e0e-aeb0-d3c7b9658b56",
       "confidence": "0.7694987",
       "timestamp": 880,
-      "content": "and where were headed in the fight against cancer in one place at the front lines of battle is a research lab boston comma bradner lap and arts website there's a"
+      "content": "and where were headed in the fight against cancer in one place at the front lines of battle is a research lab boston comma bradner lap and arts website there's a",
+      "uuid": "d7328fcf-38ed-489e-86ac-2a729e287b2b"
     },
-    "890": {
+    {
       "requestid": "eb0962be-e99d-4703-bd17-1e0715d03e31",
       "confidence": "0.5612167",
       "timestamp": 890,
-      "content": "tabet you can click it's not my right hand corner says request out that's right yeah and what does it do for the pro"
+      "content": "tabet you can click it's not my right hand corner says request out that's right yeah and what does it do for the pro",
+      "uuid": "5fe985ba-c8df-4ede-ae75-480bf957f96d"
     },
-    "900": {
+    {
       "requestid": "3a4663ea-5401-46f6-be06-f5a26ebca801",
       "confidence": "0.6553087",
       "timestamp": 900,
-      "content": "request but will trigger a page out where scientists up around the world clock in learn about molecules at our lab is created and have me to bail"
+      "content": "request but will trigger a page out where scientists up around the world clock in learn about molecules at our lab is created and have me to bail",
+      "uuid": "e43485b0-897a-4480-904e-b193812b37db"
     },
-    "910": {
+    {
       "requestid": "039cda93-16b1-4d72-8e97-11d45026ee5b",
       "confidence": "0.5835887",
       "timestamp": 910,
-      "content": "call for open source from discovering the batter is the guy who makes the probe sam physician at the dana farber cancer institute minnesota zip"
+      "content": "call for open source from discovering the batter is the guy who makes the probe sam physician at the dana farber cancer institute minnesota zip",
+      "uuid": "396ec686-d490-4570-8063-786fc92ebd0d"
     },
-    "920": {
+    {
       "requestid": "36f4a530-d744-4185-9e2d-0a1e62f4db06",
       "confidence": "0.6804484",
       "timestamp": 920,
-      "content": "feser medicine at harvard medical school and I probz wenene molecules molecules that could act like drugs in the fight against cancer and after"
+      "content": "feser medicine at harvard medical school and I probz wenene molecules molecules that could act like drugs in the fight against cancer and after",
+      "uuid": "432fac47-93ad-44ac-8a33-0deeba73f258"
     },
-    "930": {
+    {
       "requestid": "debb984d-f420-4441-9aa8-078abffe3a69",
       "confidence": "0.6963997",
       "timestamp": 930,
-      "content": "radnor in this lab develop these molecules lisher them in in the world drug development that's kind of a new thing you see pharmaceutical sciences perhaps"
+      "content": "radnor in this lab develop these molecules lisher them in in the world drug development that's kind of a new thing you see pharmaceutical sciences perhaps",
+      "uuid": "70169484-c8dd-4c38-b633-83d70bbfd062"
     },
-    "940": {
+    {
       "requestid": "5df41512-4950-47fa-803e-f62b5577f3b7",
       "confidence": "0.7560133",
       "timestamp": 940,
-      "content": "what's the most secretive fields in technology development on second only perhaps 2 defense contractors um I think that we're starting to see the"
+      "content": "what's the most secretive fields in technology development on second only perhaps 2 defense contractors um I think that we're starting to see the",
+      "uuid": "7e280220-0f85-4521-9998-4e773b1da10d"
     },
-    "950": {
+    {
       "requestid": "a29b9084-0b78-47dd-96bc-7b35bd4d5bbe",
       "confidence": "0.6477376",
       "timestamp": 950,
-      "content": "change"
+      "content": "change",
+      "uuid": "7c534f59-1e1f-4a3d-9e9f-b00f2d71624e"
     },
-    "960": {
+    {
       "requestid": "aa59c996-3574-4d5e-b473-77499f7a565a",
       "confidence": "0.7540742",
       "timestamp": 960,
-      "content": "and for the future from the pet stage it's fair to say that in these 10 years we've witnessed absolutely the start of a scientific revolution data do you know my"
+      "content": "and for the future from the pet stage it's fair to say that in these 10 years we've witnessed absolutely the start of a scientific revolution data do you know my",
+      "uuid": "9d2a54d6-dbc7-4930-b26c-2c30c00d308a"
     },
-    "970": {
+    {
       "requestid": "6b463270-ff74-4a56-8b6c-515e2b15286e",
       "confidence": "0.740546",
       "timestamp": 970,
-      "content": "yes and we know more about the patience for dental clinic now than ever before and were able finally answer the question that's been suppressing for so many years while"
+      "content": "yes and we know more about the patience for dental clinic now than ever before and were able finally answer the question that's been suppressing for so many years while",
+      "uuid": "c93240dd-f272-4789-b7b7-56d9c0c2a756"
     },
-    "980": {
+    {
       "requestid": "4fad106a-0922-4365-8439-a760d3ea9106",
       "confidence": "0.7961416",
       "timestamp": 980,
-      "content": "why do I have cancer this information is also pretty staggering you might know that so far is just the dawn of this revolution we know that there are prob 40"
+      "content": "why do I have cancer this information is also pretty staggering you might know that so far is just the dawn of this revolution we know that there are prob 40",
+      "uuid": "d7225164-44c5-415b-9835-0596e1bcff90"
     },
-    "990": {
+    {
       "requestid": "cc06c6b2-70ff-4226-89da-790e3e5ddcdd",
       "confidence": "0.708084",
       "timestamp": 990,
-      "content": "thousand unique mutations affect more than 10000 genes another 500 of these jeans are bona fide drivers causes of cancer"
+      "content": "thousand unique mutations affect more than 10000 genes another 500 of these jeans are bona fide drivers causes of cancer",
+      "uuid": "c4b13882-92e5-4f22-ad36-bd68fd2b1914"
     },
-    "1000": {
+    {
       "requestid": "234a639f-eae6-467a-8d49-442602b87226",
       "confidence": "0.8074286",
       "timestamp": 1000,
-      "content": "yet comparatively we have about a dozen target the medications and this inadequacy of cancer medicine really hit home with my father was diagnosed with pancreatic him"
+      "content": "yet comparatively we have about a dozen target the medications and this inadequacy of cancer medicine really hit home with my father was diagnosed with pancreatic him",
+      "uuid": "8937c396-1813-4228-9de7-932fb4afce37"
     },
-    "1010": {
+    {
       "requestid": "d1a20471-c4ff-4e53-9481-245015bc0bb7",
       "confidence": "0.6225515",
       "timestamp": 1010,
-      "content": "sure it's been on for decades what causes of this malignancy it's 3 proteins wras nick p 53 this is older"
+      "content": "sure it's been on for decades what causes of this malignancy it's 3 proteins wras nick p 53 this is older",
+      "uuid": "e1a6c38e-8725-43dc-97b2-01f03a59abcc"
     },
-    "1020": {
+    {
       "requestid": "7afbc4df-ed9f-4be9-bf24-985e052e575d",
       "confidence": "0.5919939",
       "timestamp": 1020,
-      "content": "remates week notice about the 80s yet there's no rational macnow p 53 drug and you like barely ask why is that and very unsatisfying at sign to forget"
+      "content": "remates week notice about the 80s yet there's no rational macnow p 53 drug and you like barely ask why is that and very unsatisfying at sign to forget",
+      "uuid": "82d4c183-1bc3-465f-88ef-6b3ad8dd3cde"
     },
-    "1030": {
+    {
       "requestid": "55c899f0-189d-48e3-b647-56a4bacc67cd",
       "confidence": "0.7551665",
       "timestamp": 1030,
-      "content": "tris is too hard in the reason why it's too hard is because so far scientists haven't been able to figure out how does"
+      "content": "tris is too hard in the reason why it's too hard is because so far scientists haven't been able to figure out how does",
+      "uuid": "374947b3-22d9-43a7-bed5-c65521fbd06f"
     },
-    "1040": {
+    {
       "requestid": "7bcb9507-4fc0-493b-a8ea-ae224f2f87dc",
       "confidence": "0.5732718",
       "timestamp": 1040,
-      "content": "jobs for block most of the jeans that cause cancer to put simplistically is a gene called nick have this gene is in your body too"
+      "content": "jobs for block most of the jeans that cause cancer to put simplistically is a gene called nick have this gene is in your body too",
+      "uuid": "8d028c76-b811-4ede-ba06-1c06216c76d1"
     },
-    "1050": {
+    {
       "requestid": "db025385-a699-4277-97f2-aeefa2b405d2",
       "confidence": "0.7034867",
       "timestamp": 1050,
-      "content": "activate like conductor of an orchestra the 5 to 15% of jeans in your genome involved in cell duplication so"
+      "content": "activate like conductor of an orchestra the 5 to 15% of jeans in your genome involved in cell duplication so",
+      "uuid": "e2d93d79-f06c-4589-851d-3027323b5a79"
     },
-    "1060": {
+    {
       "requestid": "64343f31-b2a2-4ff5-94d2-d96cef5826d2",
       "confidence": "0.5681477",
       "timestamp": 1060,
-      "content": "omic which is why most well studied teens tell her cells to grow but cancer is uniformly sins make it into overdrive"
+      "content": "omic which is why most well studied teens tell her cells to grow but cancer is uniformly sins make it into overdrive",
+      "uuid": "ff1daeb9-d432-466b-982b-a5a8d8297bd1"
     },
-    "1070": {
+    {
       "requestid": "bdf806da-c106-4564-ba90-91359221fc9f",
       "confidence": "0.6071077",
       "timestamp": 1070,
-      "content": "hijacks for teens tell sales to keep fighting and fighting do you see if we could inhibit mac"
+      "content": "hijacks for teens tell sales to keep fighting and fighting do you see if we could inhibit mac",
+      "uuid": "7f5f10b4-e363-4f14-9126-1dc7fd73eb42"
     },
-    "1080": {
+    {
       "requestid": "1932c02c-616b-4296-a96f-361f78afd6ca",
       "confidence": "0.7520121",
       "timestamp": 1080,
-      "content": "I would have historic value in the treatment of cancer but at this moment this mcti in this central conductor of the cancer growth"
+      "content": "I would have historic value in the treatment of cancer but at this moment this mcti in this central conductor of the cancer growth",
+      "uuid": "d17cb78a-c7ad-4031-8a1d-70427406e897"
     },
-    "1090": {
+    {
       "requestid": "7450222a-b442-45ee-ad8e-310495137d45",
       "confidence": "0.7569278",
       "timestamp": 1090,
-      "content": "symphony is considered undrinkable which is like calling a computer unsearchable are the moon and walkable it's a horrible term of trade what it means"
+      "content": "symphony is considered undrinkable which is like calling a computer unsearchable are the moon and walkable it's a horrible term of trade what it means",
+      "uuid": "1240254e-e935-4bfa-8b9b-8fb4940d9995"
     },
-    "1100": {
+    {
       "requestid": "93d6e4d6-7ce9-4170-9078-16fa7e775b34",
       "confidence": "0.7073986",
       "timestamp": 1100,
-      "content": "is it we feel to identify a greasy pocket in these proteins into which we like molecula locksmith can fashion enacted small organic molecule or draw"
+      "content": "is it we feel to identify a greasy pocket in these proteins into which we like molecula locksmith can fashion enacted small organic molecule or draw",
+      "uuid": "04a84052-e59a-487e-85ac-cabb8285a473"
     },
-    "1110": {
+    {
       "requestid": "58379e6f-309f-49cd-922c-33e145a24531",
       "confidence": "0.7085914",
       "timestamp": 1110,
-      "content": "subs and so this is actually a very physical problems I just need to know what kind of shape a specific protein has in order to design a drug molly"
+      "content": "subs and so this is actually a very physical problems I just need to know what kind of shape a specific protein has in order to design a drug molly",
+      "uuid": "3c3b7ea5-4ac2-4609-bd09-07a6c2e91e2c"
     },
-    "1120": {
+    {
       "requestid": "96feb1aa-92dc-4f90-a965-8f16f832cf0f",
       "confidence": "0.7283851",
       "timestamp": 1120,
-      "content": "I can find to at and then block it or even change and in the past couple years new technologies have left a huge leaps forward in how scientists"
+      "content": "I can find to at and then block it or even change and in the past couple years new technologies have left a huge leaps forward in how scientists",
+      "uuid": "bc6fc10d-4586-41fa-a178-0fc48adade62"
     },
-    "1130": {
+    {
       "requestid": "4a6039bf-90cc-4278-95b8-be0b68d37b74",
       "confidence": "0.691659",
       "timestamp": 1130,
-      "content": "tackling the problem such is the use of 3 dimensional pictures that can help define nooks and crannies wear a drug molecule my fine"
+      "content": "tackling the problem such is the use of 3 dimensional pictures that can help define nooks and crannies wear a drug molecule my fine",
+      "uuid": "d2b042a1-3c75-4c27-9c19-f9d9f1eb67a0"
     },
-    "1140": {
+    {
       "requestid": "532c8152-481b-4f21-b7a0-e193291304f1",
       "confidence": "0.7289802",
       "timestamp": 1140,
-      "content": "the place where I dropped out ill defined by the way is comma target debit advances in chemistry a reconsideration of what is a molecule need to look like in order to occupy"
+      "content": "the place where I dropped out ill defined by the way is comma target debit advances in chemistry a reconsideration of what is a molecule need to look like in order to occupy",
+      "uuid": "412fa510-0739-421b-9401-28c89a7c83fc"
     },
-    "1150": {
+    {
       "requestid": "10399faa-3102-47df-95db-8a35c779c6d6",
       "confidence": "0.6696162",
       "timestamp": 1150,
-      "content": "target imagine reinventing the key in those advances in chemistry together a better says have created now I believe in a thing samples"
+      "content": "target imagine reinventing the key in those advances in chemistry together a better says have created now I believe in a thing samples",
+      "uuid": "ece3dc10-0ad0-4e31-bb28-12624b6135e0"
     },
-    "1160": {
+    {
       "requestid": "6b666adf-1743-4098-900c-8277069da45a",
       "confidence": "0.6454877",
       "timestamp": 1160,
-      "content": "molecules targeting in trouble targets that really nothing is on drugs including even make gene that turns on the grill"
+      "content": "molecules targeting in trouble targets that really nothing is on drugs including even make gene that turns on the grill",
+      "uuid": "e54eff2f-bd4e-43cf-bd94-eaaaa82a00b3"
     },
-    "1170": {
+    {
       "requestid": "8eaa9f72-d75d-44a6-ad64-f52ae8d1237a",
       "confidence": "0.7594479",
       "timestamp": 1170,
-      "content": "program of the human cell like the conductor of an orchestra j and his team of researchers knew that make plays a big role in the growth of certain"
+      "content": "program of the human cell like the conductor of an orchestra j and his team of researchers knew that make plays a big role in the growth of certain",
+      "uuid": "4038b83c-d569-4639-a3aa-78a5f864baa4"
     },
-    "1180": {
+    {
       "requestid": "556ad809-8526-46a0-a95c-9ff60ed02eea",
       "confidence": "0.77617",
       "timestamp": 1180,
-      "content": "answers in a cup of that role might have something to do with a certain protein called BRD 4 be ready for it doesn't stand for bradner I wish"
+      "content": "answers in a cup of that role might have something to do with a certain protein called BRD 4 be ready for it doesn't stand for bradner I wish",
+      "uuid": "04edaaf4-176d-4d66-a4ed-ece0d4cb4cf2"
     },
-    "1190": {
+    {
       "requestid": "b9d307d4-ba91-49cb-9338-d9d2ad06b698",
       "confidence": "0.6745626",
       "timestamp": 1190,
-      "content": "it did on this beauty for protein is very important because nick gene we hypothesize might require be ready for"
+      "content": "it did on this beauty for protein is very important because nick gene we hypothesize might require be ready for",
+      "uuid": "ecb99b52-ef65-42ac-848c-dd52f89f595d"
     },
-    "1200": {
+    {
       "requestid": "7f59b010-7f36-4b87-8298-fc62dfc9ac49",
       "confidence": "0.595484",
       "timestamp": 1200,
-      "content": "and as it as a cofactor or in the drinking body BRT for the guest hyphen got mixed into a lot of trouble"
+      "content": "and as it as a cofactor or in the drinking body BRT for the guest hyphen got mixed into a lot of trouble",
+      "uuid": "e71352a8-0281-4cd9-be45-8129c7f5c40c"
     },
-    "1210": {
+    {
       "requestid": "876c6ba6-8f1a-47e2-a80a-ccd2b4ebab6f",
       "confidence": "0.6432344",
       "timestamp": 1210,
-      "content": "it happened to jane better idea was to circumvent the behaviors of the master cancer causing gene meckley needed a drug molecules specifically designed to buy"
+      "content": "it happened to jane better idea was to circumvent the behaviors of the master cancer causing gene meckley needed a drug molecules specifically designed to buy",
+      "uuid": "1f8f03f4-af01-4899-bce9-c835da5eb2ff"
     },
-    "1220": {
+    {
       "requestid": "61c66683-12de-4108-8370-dc0d97e3f39e",
       "confidence": "0.6728489",
       "timestamp": 1220,
-      "content": "929 in hibbett be ready for a molecule like that could basically make cancer cells for get your cancer"
+      "content": "929 in hibbett be ready for a molecule like that could basically make cancer cells for get your cancer",
+      "uuid": "69aea615-4a90-4eda-b0a3-da848109c1e8"
     },
-    "1230": {
+    {
       "requestid": "ef97f33c-01e4-4244-b90f-668abd88359e",
       "confidence": "0.6677588",
       "timestamp": 1230,
-      "content": "so we started to work on this problem with the belt libraries of compounds and eventually arrived molecule about my latina farber cancer institute call jake"
+      "content": "so we started to work on this problem with the belt libraries of compounds and eventually arrived molecule about my latina farber cancer institute call jake",
+      "uuid": "3d68368d-9b8c-41bf-a56f-7c200ddd8735"
     },
-    "1240": {
+    {
       "requestid": "b63b3109-a095-4d59-91d1-ed1ee79eeff0",
       "confidence": "0.6613561",
       "timestamp": 1240,
-      "content": "one that we officially name for jinxi of the chemist me this molecule known up in a drug company we could do certain things with certain flexibility set up"
+      "content": "one that we officially name for jinxi of the chemist me this molecule known up in a drug company we could do certain things with certain flexibility set up",
+      "uuid": "b9bac130-9d24-4b27-9f13-56d3c1550996"
     },
-    "1250": {
+    {
       "requestid": "6ea15c58-97cb-4c16-9d56-a9031b5ff731",
       "confidence": "0.6899446",
       "timestamp": 1250,
-      "content": "I respect it a pharmaceutical industry doesn't have a way to start emailing it to our friends have a small lab wish I would've sent it to people and see how to my little behaves we sent it"
+      "content": "I respect it a pharmaceutical industry doesn't have a way to start emailing it to our friends have a small lab wish I would've sent it to people and see how to my little behaves we sent it",
+      "uuid": "1d4448e6-bf88-4896-a4b0-85c9a7dd0406"
     },
-    "1260": {
+    {
       "requestid": "d5bae8ea-376c-4ba2-acd5-436d71d4027f",
       "confidence": "0.667596",
       "timestamp": 1260,
-      "content": "oxford england where group of town to crystallography provided this picture would help us understand exactly how old is mount eula so potent that is protein target we call a perfect"
+      "content": "oxford england where group of town to crystallography provided this picture would help us understand exactly how old is mount eula so potent that is protein target we call a perfect",
+      "uuid": "2b03fcc8-4401-4503-8d66-e542617a7ae4"
     },
-    "1270": {
+    {
       "requestid": "93c9cef2-ac65-4817-8950-bba993c03695",
       "confidence": "0.6074916",
       "timestamp": 1270,
-      "content": "said she complements hurt your hand in glove alyssa very rare cancer this be ready for addicted cancer and as we treat AT cells with this molecule"
+      "content": "said she complements hurt your hand in glove alyssa very rare cancer this be ready for addicted cancer and as we treat AT cells with this molecule",
+      "uuid": "1fed53ac-83bd-493b-983e-76e8a8c5ca22"
     },
-    "1280": {
+    {
       "requestid": "f91ace7b-44f8-405e-a304-c0c59b20b792",
       "confidence": "0.7596424",
       "timestamp": 1280,
-      "content": "web search something really striking the cancer cells small round and rapidly dividing brunis arms in extensions they were changing shape"
+      "content": "web search something really striking the cancer cells small round and rapidly dividing brunis arms in extensions they were changing shape",
+      "uuid": "349bdf1d-518c-4323-a4b6-9448303f1abc"
     },
-    "1290": {
+    {
       "requestid": "63b4bcf7-79ff-4524-91cd-bdbeaddfac80",
       "confidence": "0.7551721",
       "timestamp": 1290,
-      "content": "in fact a cancer cell was forgetting with cancer and becoming normal self"
+      "content": "in fact a cancer cell was forgetting with cancer and becoming normal self",
+      "uuid": "79baf60f-905d-4b21-a41d-15b1300d691f"
     },
-    "1300": {
+    {
       "requestid": "aca7bc98-e7cc-4cab-9bd1-93f3d2dc4407",
       "confidence": "0.6047962",
       "timestamp": 1300,
-      "content": "and the team did next was turn this molecule do drugs in to begin testing it on a group of mice about 14 mice mice with cancer"
+      "content": "and the team did next was turn this molecule do drugs in to begin testing it on a group of mice about 14 mice mice with cancer",
+      "uuid": "2125c67a-cf9a-44b3-b2bf-217e0d3b8183"
     },
-    "1310": {
+    {
       "requestid": "ffbfadef-c1a8-4e58-9a00-153c337562b1",
       "confidence": "0.6358734",
       "timestamp": 1310,
-      "content": "timmers 7 my sweet would receive a trogan 7 would not come over the next 14 days weeks or something very striking all the mice the receipt"
+      "content": "timmers 7 my sweet would receive a trogan 7 would not come over the next 14 days weeks or something very striking all the mice the receipt",
+      "uuid": "0d581e28-adbf-40d6-9b6a-45e41729847e"
     },
-    "1320": {
+    {
       "requestid": "e5985372-3b12-4cc7-afc2-fc411a580a2a",
       "confidence": "0.5995342",
       "timestamp": 1320,
-      "content": "the drug or thriving in the tumors were no longer even palpable wow am I so did not receive the drug unfortunately had progressed disease"
+      "content": "the drug or thriving in the tumors were no longer even palpable wow am I so did not receive the drug unfortunately had progressed disease",
+      "uuid": "d25187bc-fa58-4a2b-8975-a011752d9406"
     },
-    "1330": {
+    {
       "requestid": "3a5016f8-111a-4369-8711-9009a3a62b0e",
       "confidence": "0.7714301",
       "timestamp": 1330,
-      "content": "and did not survive so we started to wonder what would a drug company do at this point we probably will keep this a secret until they turn the prototype drug"
+      "content": "and did not survive so we started to wonder what would a drug company do at this point we probably will keep this a secret until they turn the prototype drug",
+      "uuid": "57abf42e-4003-4965-95db-21fef8c8aff3"
     },
-    "1340": {
+    {
       "requestid": "8c30c3bd-2212-4d24-bd71-2b43f523326c",
       "confidence": "0.6223279",
       "timestamp": 1340,
-      "content": "twin aku pharmaceutical substance in sweden just the opposite we put the paper that describes fighting at the earliest prototype stage"
+      "content": "twin aku pharmaceutical substance in sweden just the opposite we put the paper that describes fighting at the earliest prototype stage",
+      "uuid": "7f7f4900-6e75-4d69-b690-08f7895c5bc8"
     },
-    "1350": {
+    {
       "requestid": "5b6908b5-8fc1-4871-98f6-15dae096b889",
       "confidence": "0.724481",
       "timestamp": 1350,
-      "content": "we gave the world the chemical identity this molecule typically a secret and I discipline we tell people exactly how to make it we give them our email address suggesting benefit"
+      "content": "we gave the world the chemical identity this molecule typically a secret and I discipline we tell people exactly how to make it we give them our email address suggesting benefit",
+      "uuid": "349cb951-7486-4170-aa23-5ba627e37ace"
     },
-    "1360": {
+    {
       "requestid": "9a535ff3-f017-4edf-a2ac-632a6cb76ada",
       "confidence": "0.5947174",
       "timestamp": 1360,
-      "content": "yes will send them free molecule basically try to create the most competitive environment for lab as possible in this with unfortunately successful"
+      "content": "yes will send them free molecule basically try to create the most competitive environment for lab as possible in this with unfortunately successful",
+      "uuid": "cb90d559-f3ed-4d01-a2eb-e83769a664ab"
     },
-    "1370": {
+    {
       "requestid": "165e0e48-02d0-4b1d-8d48-98ff60f8d1ed",
       "confidence": "0.740399",
       "timestamp": 1370,
-      "content": "because now we've shared this molecule just since december of last year with 40 laboratory the united states in 30 more niara"
+      "content": "because now we've shared this molecule just since december of last year with 40 laboratory the united states in 30 more niara",
+      "uuid": "ab9f445a-baff-40a6-929a-9395cfd394e4"
     },
-    "1380": {
+    {
       "requestid": "737a4ac2-a5a4-46df-81ce-28308cea3a8c",
       "confidence": "0.6834913",
       "timestamp": 1380,
-      "content": "and by sharing this molecule far and wide k brenner did scientist all of the world a chance to invent drugs based on his original jakki one molecule"
+      "content": "and by sharing this molecule far and wide k brenner did scientist all of the world a chance to invent drugs based on his original jakki one molecule",
+      "uuid": "2df3cb25-a529-4a7c-bc61-088a0f6d14ea"
     },
-    "1390": {
+    {
       "requestid": "86a4b01b-54a8-4da9-bdb9-cea06a4bae02",
       "confidence": "0.7750161",
       "timestamp": 1390,
-      "content": "el ready he says 6 other molecules every human clinical trials one of these molecules that looks just like jake you want an extra"
+      "content": "el ready he says 6 other molecules every human clinical trials one of these molecules that looks just like jake you want an extra",
+      "uuid": "fc0b361f-c0cc-4e68-a83e-31a05c1737f9"
     },
-    "1400": {
+    {
       "requestid": "c5181d2b-fce4-4d6a-8089-b28933ca6107",
       "confidence": "0.8581933",
       "timestamp": 1400,
-      "content": "flight jq one has shown remarkable activity in patients with advance blood cancers at least one patient had a complete response to the"
+      "content": "flight jq one has shown remarkable activity in patients with advance blood cancers at least one patient had a complete response to the",
+      "uuid": "02e7aba8-9611-4bfe-aa13-e65dcdbbf96a"
     },
-    "1410": {
+    {
       "requestid": "851a5fd7-1b0a-4539-a989-fb5a98a0d64d",
       "confidence": "0.8007608",
       "timestamp": 1410,
-      "content": "medication meaning that were 100% of their bone marrow was occupied by leukemia cells after about 90 days of therapy"
+      "content": "medication meaning that were 100% of their bone marrow was occupied by leukemia cells after about 90 days of therapy",
+      "uuid": "0ade6120-3a13-4f11-870b-a95fbede6775"
     },
-    "1420": {
+    {
       "requestid": "2c2c46b0-af7d-4581-83a7-c7d860117070",
       "confidence": "0.7234078",
       "timestamp": 1420,
-      "content": "no evidence of leukemia at all that's incredible it's amazing how do you eat it mean we often hear like lower at the brink of this for that would like I would like"
+      "content": "no evidence of leukemia at all that's incredible it's amazing how do you eat it mean we often hear like lower at the brink of this for that would like I would like",
+      "uuid": "0bd1fd65-f1a9-4271-af06-5c9826c0dc85"
     },
-    "1430": {
+    {
       "requestid": "9675e084-4238-43db-bd06-441e32ae2649",
       "confidence": "0.8308399",
       "timestamp": 1430,
-      "content": "disney world inflection point we are at the brink of something really big changing in cancer treatment I do believe that word inflection point"
+      "content": "disney world inflection point we are at the brink of something really big changing in cancer treatment I do believe that word inflection point",
+      "uuid": "8cbc54aa-9b30-4790-aba0-bbe83888009f"
     },
-    "1440": {
+    {
       "requestid": "9cb9fdef-6c28-4cd0-917e-7304659ea2db",
       "confidence": "0.8198761",
       "timestamp": 1440,
-      "content": "I think again about the software industry where source code is freely available on github one of the best applications of source code are for computer scientists said"
+      "content": "I think again about the software industry where source code is freely available on github one of the best applications of source code are for computer scientists said",
+      "uuid": "0debe17b-aff0-46b3-adc3-80f348fb411f"
     },
-    "1450": {
+    {
       "requestid": "d2c23679-4881-4fdd-8390-af5e5d210120",
       "confidence": "0.8421952",
       "timestamp": 1450,
-      "content": "bring it back to their garage to innovate around it to do something that changes the way that we access the internet on your telephone or wake up in the morning to your favorite song"
+      "content": "bring it back to their garage to innovate around it to do something that changes the way that we access the internet on your telephone or wake up in the morning to your favorite song",
+      "uuid": "a9acba90-0823-4e2e-ab75-76de2c78d644"
     },
-    "1460": {
+    {
       "requestid": "850eecf2-7254-46f8-a053-c3fff63a936d",
       "confidence": "0.7644883",
       "timestamp": 1460,
-      "content": "um but I go to bed at night I'm very comfortable that there's a billion dollars out there for someone to cures cancer because open source drugs"
+      "content": "um but I go to bed at night I'm very comfortable that there's a billion dollars out there for someone to cures cancer because open source drugs",
+      "uuid": "c52607f7-5e47-4692-9034-14702d677c51"
     },
-    "1470": {
+    {
       "requestid": "b0071b74-7476-46d0-9b1d-b28cb2f1ed7f",
       "confidence": "0.5790586",
       "timestamp": 1470,
-      "content": "govori will bring many people to this is torque challenge"
+      "content": "govori will bring many people to this is torque challenge",
+      "uuid": "ea771776-c947-482d-b408-74333884ea35"
     },
-    "1480": {
+    {
       "requestid": "f8077a73-671b-46b8-9118-6125a9d3a0c3",
       "confidence": "0.7502407",
       "timestamp": 1480,
-      "content": "you get your hands on his molecules at bradnerlab.com"
+      "content": "you get your hands on his molecules at bradnerlab.com",
+      "uuid": "9fe6b01a-709d-42db-a92a-70a4743ef26c"
     },
-    "1490": {
+    {
       "requestid": "640755fd-3b14-4334-aba3-2dbee7737ff6",
       "confidence": "0.6196188",
       "timestamp": 1490,
-      "content": "wausaukee mystic about where we're headed yeah ido were on the edge of the cliff were willing to take risks are patient are willing to take risks this is david agassi's"
+      "content": "wausaukee mystic about where we're headed yeah ido were on the edge of the cliff were willing to take risks are patient are willing to take risks this is david agassi's",
+      "uuid": "35fa58a4-6b74-4b3b-9edb-264f6ddc9df6"
     },
-    "1500": {
+    {
       "requestid": "be73f9ef-552b-49b2-9903-1fb855c07461",
       "confidence": "0.7981156",
       "timestamp": 1500,
-      "content": "sukanta doctor and a professor at USC medical school so it's really exciting time for all of a sudden the change of progress versus time is happening and hopefully we're starting to make different"
+      "content": "sukanta doctor and a professor at USC medical school so it's really exciting time for all of a sudden the change of progress versus time is happening and hopefully we're starting to make different",
+      "uuid": "7c2da36f-cd6b-488c-856d-8c524e85cb67"
     },
-    "1510": {
+    {
       "requestid": "9b4777ab-6660-4d16-a0f4-3f4ae32097ab",
       "confidence": "0.6877283",
       "timestamp": 1510,
-      "content": "but still right now this is david this is reality 23 times a week I look someone in the eye and say"
+      "content": "but still right now this is david this is reality 23 times a week I look someone in the eye and say",
+      "uuid": "9855d9e4-1bcf-4578-aa4d-7e771ed83897"
     },
-    "1520": {
+    {
       "requestid": "3af53fda-26d2-485c-8b48-477c2cef8516",
       "confidence": "0.7013087",
       "timestamp": 1520,
-      "content": "I have no more drugs to treat your cancer you are remarkable pill that can stop poking me a certain kind of it and it cracked certain kinds of lung cancer search"
+      "content": "I have no more drugs to treat your cancer you are remarkable pill that can stop poking me a certain kind of it and it cracked certain kinds of lung cancer search",
+      "uuid": "ea63360d-5a72-4c2b-835f-f0bd57981931"
     },
-    "1530": {
+    {
       "requestid": "74d5862c-7fe1-4443-9674-3c9c70a37d37",
       "confidence": "0.6888187",
       "timestamp": 1530,
-      "content": "kind of kidney cancer with immunotherapy small little wins with the big picture is not a dramatic benefit at so we need to reassess where we are"
+      "content": "kind of kidney cancer with immunotherapy small little wins with the big picture is not a dramatic benefit at so we need to reassess where we are",
+      "uuid": "c5d3d218-a414-459a-b684-74c290568f94"
     },
-    "1540": {
+    {
       "requestid": "2055b56a-c538-451b-8bf6-dbfbfcfa1ebc",
       "confidence": "0.7203913",
       "timestamp": 1540,
-      "content": "and with a vegas has been are giving is it the way we approach the fight against cancer is all wrong with cancers in just blood cancer"
+      "content": "and with a vegas has been are giving is it the way we approach the fight against cancer is all wrong with cancers in just blood cancer",
+      "uuid": "54755eba-ae90-4e51-930b-6a1fd223ce0d"
     },
-    "1550": {
+    {
       "requestid": "2888c950-caa0-46f1-adcc-8438d8cadd0a",
       "confidence": "0.7714631",
       "timestamp": 1550,
-      "content": "cancer or prostate cancer but it's more about the environment where the cancer lives the entire body into weather millions of context in the body"
+      "content": "cancer or prostate cancer but it's more about the environment where the cancer lives the entire body into weather millions of context in the body",
+      "uuid": "0a522c3a-13d1-458a-8998-0187f00d8652"
     },
-    "1560": {
+    {
       "requestid": "4f5cd00d-8e8b-42be-ab61-985c99ba1ba4",
       "confidence": "0.8230733",
       "timestamp": 1560,
-      "content": "and I look at it like you're driving to la to san francisco and if I take a car taken apart look at every piece of the car he does and tell me how long it take to get to"
+      "content": "and I look at it like you're driving to la to san francisco and if I take a car taken apart look at every piece of the car he does and tell me how long it take to get to",
+      "uuid": "d7d39589-f09c-474a-812c-87e9ef1c3c5a"
     },
-    "1570": {
+    {
       "requestid": "b034c792-310f-45a9-88e2-1e989019560f",
       "confidence": "0.7263002",
       "timestamp": 1570,
-      "content": "la to san francisco I forgot the weather the traffic how much caffeine the driver drink a bladder side of the driver for sale matter in a cancer world as many"
+      "content": "la to san francisco I forgot the weather the traffic how much caffeine the driver drink a bladder side of the driver for sale matter in a cancer world as many",
+      "uuid": "027eb23e-0d3e-4f51-9821-ef8ceee843e6"
     },
-    "1580": {
+    {
       "requestid": "c7eb3aea-4443-48e2-b035-76ee81a53b44",
       "confidence": "0.7540543",
       "timestamp": 1580,
-      "content": "do diseases all we're doing is we're starting the car were studying the kids for sale in we forgot to study everything else it's ok I think the future"
+      "content": "do diseases all we're doing is we're starting the car were studying the kids for sale in we forgot to study everything else it's ok I think the future",
+      "uuid": "8aa556d9-bea7-4d68-9e37-16014fc2d372"
     },
-    "1590": {
+    {
       "requestid": "1e66dab9-17a7-4cf6-9509-7e4ea8ce5c16",
       "confidence": "0.6169746",
       "timestamp": 1590,
-      "content": "cancer research is not just adding that sell but it's starting the environment setting the whole system who the hostess with the patient is today because what"
+      "content": "cancer research is not just adding that sell but it's starting the environment setting the whole system who the hostess with the patient is today because what",
+      "uuid": "d9f43883-b29e-4784-a75b-5ea729d9d49f"
     },
-    "1600": {
+    {
       "requestid": "f10fc3c0-0a4d-4422-9cca-31dac34dd773",
       "confidence": "0.748376",
       "timestamp": 1600,
-      "content": "things that's holding us back from a proton cancer is a whole system is the way we talk about it david picks up this idea from the ted stage"
+      "content": "things that's holding us back from a proton cancer is a whole system is the way we talk about it david picks up this idea from the ted stage",
+      "uuid": "5ff71233-cb5b-4e92-bf20-fea38b3c3bc6"
     },
-    "1610": {
+    {
       "requestid": "33083dec-da7a-45b3-94cb-43d668699191",
       "confidence": "0.681708",
       "timestamp": 1610,
-      "content": "what are the fundamental problems we having cancer is that right now we describe the fire number badgercare symptoms I'm tired I'm bloated I have pain etc you then"
+      "content": "what are the fundamental problems we having cancer is that right now we describe the fire number badgercare symptoms I'm tired I'm bloated I have pain etc you then",
+      "uuid": "a1868c53-3519-4051-b00c-64761a357866"
     },
-    "1620": {
+    {
       "requestid": "b75414e4-11da-42a0-8f13-18358313d92b",
       "confidence": "0.6812172",
       "timestamp": 1620,
-      "content": "pepsiman atomic descriptions you get back ask if there's a 3 cm mass in the liver you then have samaia body part description it's in the liver in the breast in the process"
+      "content": "pepsiman atomic descriptions you get back ask if there's a 3 cm mass in the liver you then have samaia body part description it's in the liver in the breast in the process",
+      "uuid": "ca54c8f1-a93b-41ec-9d85-2c75ae325777"
     },
-    "1630": {
+    {
       "requestid": "d5b80f0c-82dc-439b-89b0-0edc906592e2",
       "confidence": "0.7525994",
       "timestamp": 1630,
-      "content": "and that's about it so are you a dictionary for describing cancer is very very poor it's basically symptoms of manifest"
+      "content": "and that's about it so are you a dictionary for describing cancer is very very poor it's basically symptoms of manifest",
+      "uuid": "68a41f81-302a-463f-8400-d69aec93beb0"
     },
-    "1640": {
+    {
       "requestid": "6aedcdbb-4852-4a1a-8f98-cc26befa0be4",
       "confidence": "0.7061318",
       "timestamp": 1640,
-      "content": "oceans of a disease what's exciting is the government spend $400 Million and dave are allocated another billion dollars do we call the cancer genome atlas"
+      "content": "oceans of a disease what's exciting is the government spend $400 Million and dave are allocated another billion dollars do we call the cancer genome atlas",
+      "uuid": "93b87016-9b8c-4331-9785-6c3024258ac1"
     },
-    "1650": {
+    {
       "requestid": "7df732c5-8b53-4c97-ba60-0a16d2d454b3",
       "confidence": "0.7285897",
       "timestamp": 1650,
-      "content": "project so it is the idea of sequencing all of the jeans and a cancer in giving us a new lexicons a new dictionary to describe it so"
+      "content": "project so it is the idea of sequencing all of the jeans and a cancer in giving us a new lexicons a new dictionary to describe it so",
+      "uuid": "876f3af9-1f8a-4aab-bbdc-9411b99ab6f4"
     },
-    "1660": {
+    {
       "requestid": "056cd745-984f-46f9-9867-4a2236c40ff4",
       "confidence": "0.7912929",
       "timestamp": 1660,
-      "content": "obviously the technology is here today in over the next several years that will change you no longer a breast cancer clinic you will go to occur to amplify"
+      "content": "obviously the technology is here today in over the next several years that will change you no longer a breast cancer clinic you will go to occur to amplify",
+      "uuid": "f756e150-4735-465e-b022-40c2eeea2c35"
     },
-    "1670": {
+    {
       "requestid": "dd62e369-0da1-48d7-a529-8fa468558831",
       "confidence": "0.6467612",
       "timestamp": 1670,
-      "content": "clinic for an egfr activating clinic I need to go to some of the pathogenic lesions that were involved in causing this individual cancer"
+      "content": "clinic for an egfr activating clinic I need to go to some of the pathogenic lesions that were involved in causing this individual cancer",
+      "uuid": "9f259439-540b-4876-8076-aba0f2d12ae4"
     },
-    "1680": {
+    {
       "requestid": "789cbec0-81e3-45d0-ad7a-eac9e2ce3448",
       "confidence": "0.7596114",
       "timestamp": 1680,
-      "content": "ok so right now if you're diagnosed with breast cancer right you go to breast cancer specialist in the doctor prescribes standard treatment usually accompanies"
+      "content": "ok so right now if you're diagnosed with breast cancer right you go to breast cancer specialist in the doctor prescribes standard treatment usually accompanies",
+      "uuid": "ffdda771-7419-4518-832d-c65a886c48ed"
     },
-    "1690": {
+    {
       "requestid": "890d5189-1085-4caa-98bb-d87db8f18da3",
       "confidence": "0.7302606",
       "timestamp": 1690,
-      "content": "surgery chemotherapy radiation but here's the thing to are probably dozens of times of breast cancer does a guided prostate and lung cancer it's going"
+      "content": "surgery chemotherapy radiation but here's the thing to are probably dozens of times of breast cancer does a guided prostate and lung cancer it's going",
+      "uuid": "9555b0d9-943d-461b-8163-e56725f689f5"
     },
-    "1700": {
+    {
       "requestid": "ad961467-5ae5-4470-acb1-adff5408c5dd",
       "confidence": "0.6809244",
       "timestamp": 1700,
-      "content": "4 were gonna start to define a primers I'm gonna look at it and check the schedule can we live in the breast to chest surgery is all we need where this one grows like a treat we need to serve me with radiation"
+      "content": "4 were gonna start to define a primers I'm gonna look at it and check the schedule can we live in the breast to chest surgery is all we need where this one grows like a treat we need to serve me with radiation",
+      "uuid": "84fb6424-3a14-4acf-8a4d-d1b948646d91"
     },
-    "1710": {
+    {
       "requestid": "2081fdb1-9efb-4ef1-9a6e-426e075b9286",
       "confidence": "0.737739",
       "timestamp": 1710,
-      "content": "what does want to live elsewhere the bodies we need to get chemotherapy so I think that's gonna be the fundamental change here is at work and start to treat a whole individual complex"
+      "content": "what does want to live elsewhere the bodies we need to get chemotherapy so I think that's gonna be the fundamental change here is at work and start to treat a whole individual complex",
+      "uuid": "d626096a-bbe3-4343-ac49-880fc2ffca7c"
     },
-    "1720": {
+    {
       "requestid": "8f9388d6-1040-416d-8c80-c0c05ddcba63",
       "confidence": "0.7798017",
       "timestamp": 1720,
-      "content": "istem rather than just to sell davids idea here is that why we should treat cancer in the context of the body is just one part of a larger"
+      "content": "istem rather than just to sell davids idea here is that why we should treat cancer in the context of the body is just one part of a larger",
+      "uuid": "24697aa2-aa99-4239-8728-b28b75fb306a"
     },
-    "1730": {
+    {
       "requestid": "19ec081d-40f7-4ad2-88fa-39f5ead06853",
       "confidence": "0.827277",
       "timestamp": 1730,
-      "content": "a complex system we can do that without necessarily understanding how it all works the goal of me is a cancer doctor is not understand can't"
+      "content": "a complex system we can do that without necessarily understanding how it all works the goal of me is a cancer doctor is not understand can't",
+      "uuid": "134a97da-b543-4a16-b5f7-e9446a6dd5b6"
     },
-    "1740": {
+    {
       "requestid": "14d85df2-82aa-4d1e-b4c1-55b24c3316c7",
       "confidence": "0.7400059",
       "timestamp": 1740,
-      "content": "and I think jeff and the fundamental problem of the last 5 decades is that we at strive to understand cancer the goal is to control cancer and cell"
+      "content": "and I think jeff and the fundamental problem of the last 5 decades is that we at strive to understand cancer the goal is to control cancer and cell",
+      "uuid": "33b2080e-5a84-4655-89e8-5ced79d88a8f"
     },
-    "1750": {
+    {
       "requestid": "cb8a8ce7-73c2-4823-9532-68f86e833fa8",
       "confidence": "0.7695442",
       "timestamp": 1750,
-      "content": "problem is is that it's not just one system if multiple systems on multiple scales is the system of systems what we're talking about in the body"
+      "content": "problem is is that it's not just one system if multiple systems on multiple scales is the system of systems what we're talking about in the body",
+      "uuid": "73576811-b360-4d2f-804e-4e858a53a852"
     },
-    "1760": {
+    {
       "requestid": "dc1b119f-fbd8-4fb0-975b-49166e27937b",
       "confidence": "0.6471995",
       "timestamp": 1760,
-      "content": "and cancer starting tomorrow at like a complex system well the bad news is is that these robot robot is the key word emergen systems are very hard"
+      "content": "and cancer starting tomorrow at like a complex system well the bad news is is that these robot robot is the key word emergen systems are very hard",
+      "uuid": "7523d7d9-8837-490a-8614-8447a5c14e72"
     },
-    "1770": {
+    {
       "requestid": "b28fa238-e906-4709-9364-038ba467ee4c",
       "confidence": "0.7300211",
       "timestamp": 1770,
-      "content": "understand in detail the good news is you can manipulate are you can try to control them without the fundamental understanding of every component"
+      "content": "understand in detail the good news is you can manipulate are you can try to control them without the fundamental understanding of every component",
+      "uuid": "0939ba14-047a-4a7c-9edb-3b80ceac58dd"
     },
-    "1780": {
+    {
       "requestid": "d3c83c8b-b75a-4d62-9bff-4e0e6e535e7d",
       "confidence": "0.6325294",
       "timestamp": 1780,
-      "content": "cheers in we don't really need to understand cancel it and there's 3 things that were never gonna understand that accept and that's ok now"
+      "content": "cheers in we don't really need to understand cancel it and there's 3 things that were never gonna understand that accept and that's ok now",
+      "uuid": "31460024-e32d-40db-862f-6f831b901585"
     },
-    "1790": {
+    {
       "requestid": "7770ba22-fcd3-41c6-85dd-098bf124de41",
       "confidence": "0.7226532",
       "timestamp": 1790,
-      "content": "question about we are never gonna understand complex things are going on with this 2030 thousand jeans in the cell and at each of the selzer contribute to all the environmental things and helder"
+      "content": "question about we are never gonna understand complex things are going on with this 2030 thousand jeans in the cell and at each of the selzer contribute to all the environmental things and helder",
+      "uuid": "ed70befe-ace6-4103-8fe8-bf73ab9b4b42"
     },
-    "1800": {
+    {
       "requestid": "2c37a7e8-6712-4218-ac0c-9e8d0ae9ad53",
       "confidence": "0.7373405",
       "timestamp": 1800,
-      "content": "connecting to it you think anybody truly understand the economy no no but at the same time we can control and we can raise interest rates we can change"
+      "content": "connecting to it you think anybody truly understand the economy no no but at the same time we can control and we can raise interest rates we can change",
+      "uuid": "152d0ce2-dc54-4117-8248-4d6f3e7f8835"
     },
-    "1810": {
+    {
       "requestid": "96857784-c299-4c56-b805-68dcf59c1372",
       "confidence": "0.6910075",
       "timestamp": 1810,
-      "content": "money supply other things that we know can affect economy in certain ways dot l catchers gonna go out your critical trial was done by 15 years ago"
+      "content": "money supply other things that we know can affect economy in certain ways dot l catchers gonna go out your critical trial was done by 15 years ago",
+      "uuid": "8d21885d-dee1-45ed-a1b8-37ebf7f8309b"
     },
-    "1820": {
+    {
       "requestid": "f1efbb8c-80ee-4f54-b779-b4c0b72fe66d",
       "confidence": "0.6895035",
       "timestamp": 1820,
-      "content": "when I took women with premenopausal breast cancer and after treatment we know we wait till they were current read again they divided up into 21 gotta drop"
+      "content": "when I took women with premenopausal breast cancer and after treatment we know we wait till they were current read again they divided up into 21 gotta drop",
+      "uuid": "fec3dbc6-71b6-4766-bdfc-46e59e78e769"
     },
-    "1830": {
+    {
       "requestid": "007eba61-034f-4f33-9818-bb83389ba546",
       "confidence": "0.5395159",
       "timestamp": 1830,
-      "content": "it builds bone drugs at you bro just want a <profanity>pussy</profanity> pump in a metro they reduce recurrence of breast cancer by over 40% off wife"
+      "content": "it builds bone drugs at you bro just want a <profanity>pussy</profanity> pump in a metro they reduce recurrence of breast cancer by over 40% off wife",
+      "uuid": "ca183cf7-07d7-4e8f-8d55-f53ec4cae401"
     },
-    "1840": {
+    {
       "requestid": "83695986-b3c8-4fce-934f-905150a93147",
       "confidence": "0.6068171",
       "timestamp": 1840,
-      "content": "is breast cancer metastasized to bone down to one of the most dramatic benefits across any cancer trial and it was a drug that didn't even touch the cancer"
+      "content": "is breast cancer metastasized to bone down to one of the most dramatic benefits across any cancer trial and it was a drug that didn't even touch the cancer",
+      "uuid": "96f8b680-21b1-4df6-8725-3a57c918a07c"
     },
-    "1850": {
+    {
       "requestid": "21b4fcb6-a658-497b-a678-5de98fd564e2",
       "confidence": "0.4971515",
       "timestamp": 1850,
-      "content": "change the system"
+      "content": "change the system",
+      "uuid": "cd45a035-2216-4718-8e01-2456d51517f1"
     },
-    "1860": {
+    {
       "requestid": "ef9c31a2-a1e2-4536-83c9-a15470ebd177",
       "confidence": "0.7028274",
       "timestamp": 1860,
-      "content": "outlook what it would've been to 2 doctors office be like but I think the doctors visit the future will be you go in and we put your finger in take a drop of blood and a plug"
+      "content": "outlook what it would've been to 2 doctors office be like but I think the doctors visit the future will be you go in and we put your finger in take a drop of blood and a plug",
+      "uuid": "295fcacc-0d75-4da5-a6f7-5d772c17ed39"
     },
-    "1870": {
+    {
       "requestid": "6ac8adc7-273a-4235-ab76-19ce31bbd896",
       "confidence": "0.682199",
       "timestamp": 1870,
-      "content": "your profile is everything going on a moment in time to tell you what's going on at the state of the system what do you wanna healthtap where cancer state so in the future when I treat"
+      "content": "your profile is everything going on a moment in time to tell you what's going on at the state of the system what do you wanna healthtap where cancer state so in the future when I treat",
+      "uuid": "6a538802-2700-495e-b9d9-9545cdec0d8b"
     },
-    "1880": {
+    {
       "requestid": "6a1b4424-cb76-432d-93d8-cbfc30570ec9",
       "confidence": "0.7407692",
       "timestamp": 1880,
-      "content": "cancer I may also change your body to the cancer does wanna go elsewhere engro make it inhospitable if you will be at the same time I'm gonna look at 6 why did he"
+      "content": "cancer I may also change your body to the cancer does wanna go elsewhere engro make it inhospitable if you will be at the same time I'm gonna look at 6 why did he",
+      "uuid": "ea6ad2ab-c7c2-4da4-b455-e49aa813e2b3"
     },
-    "1890": {
+    {
       "requestid": "adf9f31b-4b21-495a-aa21-a03b5a805dc6",
       "confidence": "0.7546",
       "timestamp": 1890,
-      "content": "she get cancer well they had significant inflammation in the body was receptive because this kind of tissue allows other cells to grow rather than just normal self and I'm going"
+      "content": "she get cancer well they had significant inflammation in the body was receptive because this kind of tissue allows other cells to grow rather than just normal self and I'm going",
+      "uuid": "37c6784d-1590-43c9-89a1-431fa361333b"
     },
-    "1900": {
+    {
       "requestid": "8114121c-6f65-4d2d-98ea-0773c88d3558",
       "confidence": "0.6486251",
       "timestamp": 1900,
-      "content": "to change your attempt to change that 2 defining the system is going to be keep anything about like hiv aids right I'm in 20 years ago"
+      "content": "to change your attempt to change that 2 defining the system is going to be keep anything about like hiv aids right I'm in 20 years ago",
+      "uuid": "abdc990e-7a9b-46ad-bedf-cd082feb4497"
     },
-    "1910": {
+    {
       "requestid": "55dc6432-7340-4daf-b4a9-9664d8f6baa5",
       "confidence": "0.7057855",
       "timestamp": 1910,
-      "content": "for the death sentence in now people live full lives with their <profanity>boobs</profanity> figure out a way to control it so meet at when you're saying is it the goal isn't to the cure cancer"
+      "content": "for the death sentence in now people live full lives with their <profanity>boobs</profanity> figure out a way to control it so meet at when you're saying is it the goal isn't to the cure cancer",
+      "uuid": "8114a300-437c-480e-b3e5-c8e7bf75603d"
     },
-    "1920": {
+    {
       "requestid": "4f0b80ab-a1cb-46bd-b418-1c179fbd318b",
       "confidence": "0.6637565",
       "timestamp": 1920,
-      "content": "can I make sure that people can live with it at exactly at the stop it from growing get off in the senate eyes this is going to win in a sense but if I stop a cancer from growing you"
+      "content": "can I make sure that people can live with it at exactly at the stop it from growing get off in the senate eyes this is going to win in a sense but if I stop a cancer from growing you",
+      "uuid": "baeee6ba-733d-4132-90e5-857f9bd694e5"
     },
-    "1930": {
+    {
       "requestid": "5b4498cf-5add-4021-9584-2a122d85059d",
       "confidence": "0.7381538",
       "timestamp": 1930,
-      "content": "live with cancer and die with cancer it's just as good as me going is crazy road toxic way to try to get rid of it so young people as you alluded to live"
+      "content": "live with cancer and die with cancer it's just as good as me going is crazy road toxic way to try to get rid of it so young people as you alluded to live",
+      "uuid": "4af8f6f9-2ae3-47fe-8d70-b0b3fa540ec0"
     },
-    "1940": {
+    {
       "requestid": "9938ec12-bd07-4be3-b9e1-90080550b779",
       "confidence": "0.6527765",
       "timestamp": 1940,
-      "content": "full normal life now with hiv by taking medicine at suppresses I wanna go the same direction cancer I wanna change you should get to stop growing"
+      "content": "full normal life now with hiv by taking medicine at suppresses I wanna go the same direction cancer I wanna change you should get to stop growing",
+      "uuid": "8f501cd4-35e6-424b-84e1-15b4ace4a16d"
     },
-    "1950": {
+    {
       "requestid": "f052c417-ac73-4d01-b08e-acd37ee8d501",
       "confidence": "0.8212052",
       "timestamp": 1950,
-      "content": "and you can live a very fruitful and productive life and play with your children your grandchildren and little ripe old age which is what we all dream of"
+      "content": "and you can live a very fruitful and productive life and play with your children your grandchildren and little ripe old age which is what we all dream of",
+      "uuid": "5ce0d47e-8a01-4fcf-aac1-3907a63a2933"
     },
-    "1960": {
+    {
       "requestid": "89ba8e34-fdc7-4152-8919-e1f4923e1410",
       "confidence": "0.7121425",
       "timestamp": 1960,
-      "content": "david I guess he teaches at the us team at school where he heads up the center for applied molecular medicine you can find his full talkto.com"
+      "content": "david I guess he teaches at the us team at school where he heads up the center for applied molecular medicine you can find his full talkto.com",
+      "uuid": "604a2094-ede0-4747-9a0e-ef7974983050"
     },
-    "1970": {
+    {
       "requestid": "7cdb6d18-8733-4438-b5bd-8a0207197d89",
       "confidence": "0.6811959",
       "timestamp": 1970,
-      "content": "more ideas about fighting cancer in a moment and I rise and you listening to the ted radio hour from npr"
+      "content": "more ideas about fighting cancer in a moment and I rise and you listening to the ted radio hour from npr",
+      "uuid": "d38b5854-0ec5-4142-a88a-7f8b359dccc2"
     },
-    "1980": {
+    {
       "requestid": "5349c7b9-ec85-4266-9306-002710f7669d",
       "confidence": "0.8517014",
       "timestamp": 1980,
-      "content": "hey just a quick thanks to 2 of our sponsors to help us bring this podcast"
+      "content": "hey just a quick thanks to 2 of our sponsors to help us bring this podcast",
+      "uuid": "2c71eaa0-8b04-41c7-94e0-bb125d6ca577"
     },
-    "1990": {
+    {
       "requestid": "046ba715-ff68-4799-87ee-f1ab456548be",
       "confidence": "0.6777233",
       "timestamp": 1990,
-      "content": "you first to frame bridge you probably have a stack of unfriend artwork or photos liner and house in the probably don't spend your week"
+      "content": "you first to frame bridge you probably have a stack of unfriend artwork or photos liner and house in the probably don't spend your week",
+      "uuid": "1d1aa6df-4e20-4edb-978e-c53d6aecae38"
     },
-    "2000": {
+    {
       "requestid": "9e3bf020-ad84-45e0-aacb-cdbde345af94",
       "confidence": "0.7056047",
       "timestamp": 2000,
-      "content": "insider framestore took this is warframe bridge comes in you can download are easy to use apple go to website where you pick a custom frame you can"
+      "content": "insider framestore took this is warframe bridge comes in you can download are easy to use apple go to website where you pick a custom frame you can",
+      "uuid": "9554c7e8-a06d-457f-80f7-43848af4e561"
     },
-    "2010": {
+    {
       "requestid": "f8dd6638-0745-456d-8ce5-24feeed268ac",
       "confidence": "0.7528871",
       "timestamp": 2010,
-      "content": "see how it looks on your wall at home you upload your photo on email and your art work they actually pay for shipping and packaging and walk a few days later it"
+      "content": "see how it looks on your wall at home you upload your photo on email and your art work they actually pay for shipping and packaging and walk a few days later it",
+      "uuid": "4f4ee5d7-b235-44ea-a245-1ca1be0d429c"
     },
-    "2020": {
+    {
       "requestid": "67e15401-5f82-456a-828d-5bd6d663b1ee",
       "confidence": "0.7573031",
       "timestamp": 2020,
-      "content": "perfectly framed picture arrives at your door ready to hang go to framebridge.com and use promo code in pr for a 15% discount I'm here for"
+      "content": "perfectly framed picture arrives at your door ready to hang go to framebridge.com and use promo code in pr for a 15% discount I'm here for",
+      "uuid": "b8193744-0ccd-4a7f-982e-e183a8d1cb62"
     },
-    "2030": {
+    {
       "requestid": "7be1caa5-0d57-4cff-a7ee-ac1020884ff4",
       "confidence": "0.6340945",
       "timestamp": 2030,
-      "content": "brain bridge order thanks also to igloo who's goal is to make company entrance you actually like you can collaborate on file share calendar"
+      "content": "brain bridge order thanks also to igloo who's goal is to make company entrance you actually like you can collaborate on file share calendar",
+      "uuid": "a6ae4bf6-e500-4761-8da7-203f62a5a3b5"
     },
-    "2040": {
+    {
       "requestid": "49be67c0-9f40-47cc-b36d-dcada7c1bc64",
       "confidence": "0.6790935",
       "timestamp": 2040,
-      "content": "is assigned tasks get the latest updates on your team projects igloo also has a responsive design tool works on any device if you wanna learn more about a blue go to"
+      "content": "is assigned tasks get the latest updates on your team projects igloo also has a responsive design tool works on any device if you wanna learn more about a blue go to",
+      "uuid": "07f925b6-7140-4ae1-98e5-a1cfe1e1ff2d"
     },
-    "2050": {
+    {
       "requestid": "3af9134d-d706-46b8-9ead-ffd7c4cc097b",
       "confidence": "0.7399934",
       "timestamp": 2050,
-      "content": "igloosoftware.com slash radio hour labor free trial for up to 10 of your favorite people at igloosoftware.com slash radio hour"
+      "content": "igloosoftware.com slash radio hour labor free trial for up to 10 of your favorite people at igloosoftware.com slash radio hour",
+      "uuid": "47d68ea8-161b-458c-b2bb-f6517906e2cc"
     },
-    "2060": {
+    {
       "requestid": "9ec2031a-7e15-4d30-b7ec-0561b499d73e",
       "confidence": "0.6749164",
       "timestamp": 2060,
-      "content": "it's the ted radio hour from npr I'm giriraj today show ideas about where we"
+      "content": "it's the ted radio hour from npr I'm giriraj today show ideas about where we",
+      "uuid": "a4509de2-3312-47b4-8eef-7ec9cef88563"
     },
-    "2070": {
+    {
       "requestid": "87ed4933-2d35-478f-becd-8f1d27434137",
       "confidence": "0.7779871",
       "timestamp": 2070,
-      "content": "headed in the fight against cancer in women hearing about some of the super advanced research this revolutionizing our approach to cancer but what is fighting can"
+      "content": "headed in the fight against cancer in women hearing about some of the super advanced research this revolutionizing our approach to cancer but what is fighting can",
+      "uuid": "df20ef30-816d-40c1-b753-9eef22a84385"
     },
-    "2080": {
+    {
       "requestid": "1298009e-9e43-4488-b10c-4b4b399cdb42",
       "confidence": "0.6870775",
       "timestamp": 2080,
-      "content": "erica be as simple as a healthy breakfast at you would have I had a boat load find whole grain cereal with some blueberries and some my lotion"
+      "content": "erica be as simple as a healthy breakfast at you would have I had a boat load find whole grain cereal with some blueberries and some my lotion",
+      "uuid": "7dabeee5-068c-4051-907a-74ee50f8ed75"
     },
-    "2090": {
+    {
       "requestid": "2540b684-f36b-402f-8ed5-6a9e0eeb4c30",
       "confidence": "0.6626239",
       "timestamp": 2090,
-      "content": "sawma to listen up here take some notes this is dean ornish is a professor of clinical medicine at uc san francisco bat is probably best known for"
+      "content": "sawma to listen up here take some notes this is dean ornish is a professor of clinical medicine at uc san francisco bat is probably best known for",
+      "uuid": "c6e48643-a17d-45a3-bc61-359020f7472b"
     },
-    "2100": {
+    {
       "requestid": "1e019550-b370-4cba-8f81-25a3ef2580ca",
       "confidence": "0.7292233",
       "timestamp": 2100,
-      "content": "dean ornish program it's a lifestyle that includes a whole foods plant based diet fruits vegetables whole grains legumes soy products model"
+      "content": "dean ornish program it's a lifestyle that includes a whole foods plant based diet fruits vegetables whole grains legumes soy products model",
+      "uuid": "f2164671-1ade-4705-a5ff-22024c79d4da"
     },
-    "2110": {
+    {
       "requestid": "2ccd49e7-7d69-43c0-bc17-a80841096c3b",
       "confidence": "0.750262",
       "timestamp": 2110,
-      "content": "exercise such as walking half an hour day various stress management techniques yoga meditation and social support really love and intimacy for in simple terms"
+      "content": "exercise such as walking half an hour day various stress management techniques yoga meditation and social support really love and intimacy for in simple terms",
+      "uuid": "73d57980-289f-4f7e-a9a0-7a46af42c206"
     },
-    "2120": {
+    {
       "requestid": "b569b453-861e-4fc1-ba48-cb3205aac00d",
       "confidence": "0.6889032",
       "timestamp": 2120,
-      "content": "nozi well move more stress less and love more and all of the things he says could help prevent maybe even reverse conditions like heart"
+      "content": "nozi well move more stress less and love more and all of the things he says could help prevent maybe even reverse conditions like heart",
+      "uuid": "36d2fd61-54be-45d8-8ace-9bbdbdb785a3"
     },
-    "2130": {
+    {
       "requestid": "70732f2d-610e-4ee2-b6e8-fbc0df4763dc",
       "confidence": "0.7675474",
       "timestamp": 2130,
-      "content": "aziz or type 2 diabetes and even slow the progression of some cancers know that idea that might not seem new today but do"
+      "content": "aziz or type 2 diabetes and even slow the progression of some cancers know that idea that might not seem new today but do",
+      "uuid": "184416c3-0f32-48a8-a255-6e3881a72cf4"
     },
-    "2140": {
+    {
       "requestid": "71859a0e-809b-4482-afd8-e2fcb29ce928",
       "confidence": "0.7642404",
       "timestamp": 2140,
-      "content": "nash was won the very first doctors to actually test it out about 10 years ago so we be on a study with 93 men who had biopsy proven process"
+      "content": "nash was won the very first doctors to actually test it out about 10 years ago so we be on a study with 93 men who had biopsy proven process",
+      "uuid": "2433a946-b637-43fc-ae11-e9881f1f76f4"
     },
-    "2150": {
+    {
       "requestid": "76af1190-0dbc-47c1-939c-7c9c48fbfbc1",
       "confidence": "0.7173902",
       "timestamp": 2150,
-      "content": "cancer and he was elected for reasons unrelated to our study not to be treated conventionally meaning they didn't want it in my surgery did you have surgery or radiation or chemotherapy"
+      "content": "cancer and he was elected for reasons unrelated to our study not to be treated conventionally meaning they didn't want it in my surgery did you have surgery or radiation or chemotherapy",
+      "uuid": "03d533fc-25db-4a55-9bf3-7b9303e67ed1"
     },
-    "2160": {
+    {
       "requestid": "647e4dcf-2996-4009-ac63-74d92825b35b",
       "confidence": "0.6977703",
       "timestamp": 2160,
-      "content": "so we found that by taking manhua decided not to be treated conventionally week and then randomly divided into 2 groups for half of them on this intensive lifecell program at half"
+      "content": "so we found that by taking manhua decided not to be treated conventionally week and then randomly divided into 2 groups for half of them on this intensive lifecell program at half",
+      "uuid": "09e2d175-ee53-493c-ba62-0756fd4785ab"
     },
-    "2170": {
+    {
       "requestid": "609aadce-8bf0-460c-83eb-53214eac674f",
       "confidence": "0.5800431",
       "timestamp": 2170,
-      "content": "with them on their computer usual care and then we measure them after year so for half the man dean ornish program and the other half"
+      "content": "with them on their computer usual care and then we measure them after year so for half the man dean ornish program and the other half",
+      "uuid": "ed94dd52-d671-4924-91c1-77665a927d75"
     },
-    "2180": {
+    {
       "requestid": "4c9d3ef8-da12-40e9-93e6-251df33f8d10",
       "confidence": "0.5125933",
       "timestamp": 2180,
-      "content": "madno lifestyle changes teen pics of the story from the ted stage what we found was there after here none of these criminal group haitian female is lifestyle change"
+      "content": "madno lifestyle changes teen pics of the story from the ted stage what we found was there after here none of these criminal group haitian female is lifestyle change",
+      "uuid": "1fbe26c0-628c-4944-83f0-34f19b45230f"
     },
-    "2190": {
+    {
       "requestid": "bb042eee-3c47-45b7-acd5-1cbdce92f63b",
       "confidence": "0.7124704",
       "timestamp": 2190,
-      "content": "needed treatment where is 6 of the control group patience needed surgery or radiation when we looked at their psa levels which is a marker for prostate cancer what is it just working here"
+      "content": "needed treatment where is 6 of the control group patience needed surgery or radiation when we looked at their psa levels which is a marker for prostate cancer what is it just working here",
+      "uuid": "1fc7b86b-c578-4541-bbff-47f7146d31f7"
     },
-    "2200": {
+    {
       "requestid": "7c521617-bb7e-4000-a99e-16a070eff67b",
       "confidence": "0.6830779",
       "timestamp": 2200,
-      "content": "psa stand for prostate specific antigen to protein and high levels of psa in your blood usually indicates prostate cancer when we looked at their peak"
+      "content": "psa stand for prostate specific antigen to protein and high levels of psa in your blood usually indicates prostate cancer when we looked at their peak",
+      "uuid": "4d49171c-50b2-4f2b-ab50-a8352214bc66"
     },
-    "2210": {
+    {
       "requestid": "d71c2e68-9622-40be-b4e9-7049cc0c64f2",
       "confidence": "0.5799326",
       "timestamp": 2210,
-      "content": "yes a lot of things got worse in the control group with her to get better and experimental group in 2 separate sasra highly significant shannon I wanted was there anyway"
+      "content": "yes a lot of things got worse in the control group with her to get better and experimental group in 2 separate sasra highly significant shannon I wanted was there anyway",
+      "uuid": "6f66699b-85eb-47c9-898b-b00dbda2b45e"
     },
-    "2220": {
+    {
       "requestid": "399d02d6-6f91-4a7a-9a7e-06c97378ef1e",
       "confidence": "0.6729105",
       "timestamp": 2220,
-      "content": "social between how much people change their died in life so whichever group pay rent in the changes and TS and turn off we found a dose response relationship in order for the psa to go down the hatch"
+      "content": "social between how much people change their died in life so whichever group pay rent in the changes and TS and turn off we found a dose response relationship in order for the psa to go down the hatch",
+      "uuid": "18896b30-2e25-4f89-a31d-dac87bf17dbc"
     },
-    "2230": {
+    {
       "requestid": "7da14b10-11d9-48a7-ba9e-f514b844d27c",
       "confidence": "0.6572311",
       "timestamp": 2230,
-      "content": "make pretty big changes so the bigger the lifestyle changes the bigger the rock NPS 810 funniest other one is in a relationship with"
+      "content": "make pretty big changes so the bigger the lifestyle changes the bigger the rock NPS 810 funniest other one is in a relationship with",
+      "uuid": "f3d0e44f-d5e5-4797-8af1-68331dbf7e3d"
     },
-    "2240": {
+    {
       "requestid": "386ac1bb-128c-4a4b-b797-1dcd8422d460",
       "confidence": "0.6941509",
       "timestamp": 2240,
-      "content": "how much people change and how much is there tim mcgraw and it's really got me excited because again we found the same pattern the more people change the more the fact"
+      "content": "how much people change and how much is there tim mcgraw and it's really got me excited because again we found the same pattern the more people change the more the fact",
+      "uuid": "57ff6524-f175-415c-9fb3-eedbed0a425d"
     },
-    "2250": {
+    {
       "requestid": "411c727a-694a-434e-adb7-755dfca8faf7",
       "confidence": "0.676989",
       "timestamp": 2250,
-      "content": "growth of their tumors and whether not you have conventional treatment in addition if you make these changes in may help reduce the risk of recurrence"
+      "content": "growth of their tumors and whether not you have conventional treatment in addition if you make these changes in may help reduce the risk of recurrence",
+      "uuid": "e7a63d17-2fba-4208-bd57-e65b0a43d4c9"
     },
-    "2260": {
+    {
       "requestid": "7980afd9-b7a4-49e7-b07b-e18b2dc3cf13",
       "confidence": "0.6935971",
       "timestamp": 2260,
-      "content": "soak beans talking about pretty big results for these men just from adopting a semi vegan diet walking yoga meditation and more time"
+      "content": "soak beans talking about pretty big results for these men just from adopting a semi vegan diet walking yoga meditation and more time",
+      "uuid": "44608b31-dc5d-48bf-8a85-afdf7b48a732"
     },
-    "2270": {
+    {
       "requestid": "18a2ad78-54ce-480b-bd83-0829c6b21b8c",
       "confidence": "0.7894793",
       "timestamp": 2270,
-      "content": "brown the people they looked at we've looked at some of the mechanisms to help explain why that may be true we found for example dad over 500 jeans for change in just 3 months"
+      "content": "brown the people they looked at we've looked at some of the mechanisms to help explain why that may be true we found for example dad over 500 jeans for change in just 3 months",
+      "uuid": "df36f01b-72aa-4759-b820-7f531907b032"
     },
-    "2280": {
+    {
       "requestid": "f0e742f1-59d0-46d3-87f8-ca2c63a2f053",
       "confidence": "0.7035103",
       "timestamp": 2280,
-      "content": "in fact turning on the good genes are protectors in particular down regulating the what are called uncle genes that promote prostate breast and colon cancer a good ones were turned"
+      "content": "in fact turning on the good genes are protectors in particular down regulating the what are called uncle genes that promote prostate breast and colon cancer a good ones were turned",
+      "uuid": "2d4c34f9-82d9-4223-a7cb-40ddfddeaac3"
     },
-    "2290": {
+    {
       "requestid": "47883282-2df4-420a-a023-4d14fd6eb61d",
       "confidence": "0.5627745",
       "timestamp": 2290,
-      "content": "on the bad ones were turned off we've been found dead telomeres games of are chromosomes icontrol aging and as the viking to the plastic cap city in"
+      "content": "on the bad ones were turned off we've been found dead telomeres games of are chromosomes icontrol aging and as the viking to the plastic cap city in",
+      "uuid": "b245d248-10f4-4608-9026-3e64ae3e1f86"
     },
-    "2300": {
+    {
       "requestid": "e7606ba1-a84a-4235-9698-9415f2a214b3",
       "confidence": "0.6268909",
       "timestamp": 2300,
-      "content": "shoelaces to keep your shoelace friman rabbinate how to keep your dna from unraveling in norway as we get older our telomeres get shorter in a short telomeres get shorter a risk"
+      "content": "shoelaces to keep your shoelace friman rabbinate how to keep your dna from unraveling in norway as we get older our telomeres get shorter in a short telomeres get shorter a risk",
+      "uuid": "50079f06-cc97-48a9-b548-24f7698c6d0f"
     },
-    "2310": {
+    {
       "requestid": "35d09923-0690-4ac8-97f0-b65be55efa8a",
       "confidence": "0.6590081",
       "timestamp": 2310,
-      "content": "cancer and heart disease intervention pretty much everything goes up corresponding we found that the same lifestyle changes could lengthen telomeres abibi"
+      "content": "cancer and heart disease intervention pretty much everything goes up corresponding we found that the same lifestyle changes could lengthen telomeres abibi",
+      "uuid": "f4ae2812-c0ff-45d3-aaae-d74adaf8f816"
     },
-    "2320": {
+    {
       "requestid": "7b033bf5-d04c-48ae-b1ea-453678f5415a",
       "confidence": "0.7011971",
       "timestamp": 2320,
-      "content": "10% I am in with early stage prostate cancer know so often people say oh I just got bajing jenna what can I do about it well it turns out you can do alot and much more"
+      "content": "10% I am in with early stage prostate cancer know so often people say oh I just got bajing jenna what can I do about it well it turns out you can do alot and much more",
+      "uuid": "8395a4ba-1e46-41f7-a056-59f1ed1cd00e"
     },
-    "2330": {
+    {
       "requestid": "32792ca1-c0a2-41c1-a3e6-8508de59bc8d",
       "confidence": "0.6710156",
       "timestamp": 2330,
-      "content": "quicker than we have one stop possible if you simply make intensa changes in diet and lifestyle so when you started am looking at this kind of thing right like that basically lifestyle changes"
+      "content": "quicker than we have one stop possible if you simply make intensa changes in diet and lifestyle so when you started am looking at this kind of thing right like that basically lifestyle changes",
+      "uuid": "eab1a2c1-125a-4a9a-b7d1-24620150d115"
     },
-    "2340": {
+    {
       "requestid": "a344cbbb-bc9a-4494-9f52-04b11898ebe9",
       "confidence": "0.6298075",
       "timestamp": 2340,
-      "content": "we are calling for the doctor saying like that's a crock pot stuff oh very much so they sell this is a touchy feely and I said ya gonna look at our quality archery gram center"
+      "content": "we are calling for the doctor saying like that's a crock pot stuff oh very much so they sell this is a touchy feely and I said ya gonna look at our quality archery gram center",
+      "uuid": "dd79e51a-61c4-4fa7-bba2-394952b14413"
     },
-    "2350": {
+    {
       "requestid": "9204f88c-3923-4d86-9798-d06c98155be7",
       "confidence": "0.6342479",
       "timestamp": 2350,
-      "content": "cardiac positron emission tomography in writing to clodia tricka graphene bala block and then one day I said you know this is touchy feely that's what makes it work so well and we know"
+      "content": "cardiac positron emission tomography in writing to clodia tricka graphene bala block and then one day I said you know this is touchy feely that's what makes it work so well and we know",
+      "uuid": "787f8049-dc7c-4749-98c3-426331f9e0b0"
     },
-    "2360": {
+    {
       "requestid": "6b1795de-d43a-4429-87ef-7d29ab97ee6a",
       "confidence": "0.7708194",
       "timestamp": 2360,
-      "content": "who sings affect the quality of our lives with extra factor survival you know study after study have shown the people who are lonely and depressed are 3 to 10 times more likely"
+      "content": "who sings affect the quality of our lives with extra factor survival you know study after study have shown the people who are lonely and depressed are 3 to 10 times more likely",
+      "uuid": "2c1a68ef-95f2-4a1d-9342-c3a5a4da8485"
     },
-    "2370": {
+    {
       "requestid": "9cb61b16-870c-4cb8-9db1-f55e5cfb718d",
       "confidence": "0.7798242",
       "timestamp": 2370,
-      "content": "to get sick and die prematurely when compared to those who have a sense of love and connection community it so we bring that into our program not is something is confounding that is what enables p"
+      "content": "to get sick and die prematurely when compared to those who have a sense of love and connection community it so we bring that into our program not is something is confounding that is what enables p",
+      "uuid": "3384e20d-e0e3-4b72-a7bc-4a0291f1d847"
     },
-    "2380": {
+    {
       "requestid": "a9283dcd-07de-4bcf-b5e1-410ae86a3de9",
       "confidence": "0.681897",
       "timestamp": 2380,
-      "content": "how to make sustainable changes because it fulfills adeep primal need for connection in communities humanae that we have now get a skeptic my cell give me a break"
+      "content": "how to make sustainable changes because it fulfills adeep primal need for connection in communities humanae that we have now get a skeptic my cell give me a break",
+      "uuid": "c54e6436-6bdf-4540-84f9-f35aa91dc4ab"
     },
-    "2390": {
+    {
       "requestid": "10b17d1f-600d-4c23-8e3d-341013afc955",
       "confidence": "0.7877221",
       "timestamp": 2390,
-      "content": "give me and talking about my feelings can help you live longer so I got cancer please can you attach with the studies show because we are touchy feely creatures we are creatures of community"
+      "content": "give me and talking about my feelings can help you live longer so I got cancer please can you attach with the studies show because we are touchy feely creatures we are creatures of community",
+      "uuid": "270a95e4-d223-4c30-a906-6b9e6941d405"
     },
-    "2400": {
+    {
       "requestid": "ad81b6b0-6604-4636-a4f0-fc580874e8dd",
       "confidence": "0.7122074",
       "timestamp": 2400,
-      "content": "there are a lot of studies that that a lot of what about determined to get cancer he does and this is just bad luck well there is an alum"
+      "content": "there are a lot of studies that that a lot of what about determined to get cancer he does and this is just bad luck well there is an alum",
+      "uuid": "dd6d90e0-552c-46cf-854a-698e0f03d77e"
     },
-    "2410": {
+    {
       "requestid": "5c607f26-bd1d-41bc-80e2-0935c2e93a95",
       "confidence": "0.7436776",
       "timestamp": 2410,
-      "content": "locker Mr. your karma or dustin here whenever you know system you wanna put this song on but that doesn't mean that if you change your lifestyle you're gonna be a guaranteed you're never gonna get cancer"
+      "content": "locker Mr. your karma or dustin here whenever you know system you wanna put this song on but that doesn't mean that if you change your lifestyle you're gonna be a guaranteed you're never gonna get cancer",
+      "uuid": "27260279-4b83-46f8-816d-acf244774057"
     },
-    "2420": {
+    {
       "requestid": "9565355c-13af-4016-ba62-d980050f2256",
       "confidence": "0.778164",
       "timestamp": 2420,
-      "content": "dor dor heart disease weather conditions in nor is it true that it's all random either there somewhere in the middle but we have more control than we had one start and I find out"
+      "content": "dor dor heart disease weather conditions in nor is it true that it's all random either there somewhere in the middle but we have more control than we had one start and I find out",
+      "uuid": "bcd16623-94ee-4b42-92dd-c6554a429ace"
     },
-    "2430": {
+    {
       "requestid": "f841d4dc-d6ba-4686-b4c6-280e9636084c",
       "confidence": "0.7534191",
       "timestamp": 2430,
-      "content": "ray in power in a dozen give many people in new hope and new choices that they didn't have before and so what I find really makes these changes sustainable"
+      "content": "ray in power in a dozen give many people in new hope and new choices that they didn't have before and so what I find really makes these changes sustainable",
+      "uuid": "51687015-ebf6-4a7d-badf-56e38a0a21cd"
     },
-    "2440": {
+    {
       "requestid": "c47c8fb4-100c-4211-92c2-7f651d671001",
       "confidence": "0.7470673",
       "timestamp": 2440,
-      "content": "it's not fear of dying joy of living dead when you change your diet and exercise and do yoga meditation and have more love and support in your life most people find"
+      "content": "it's not fear of dying joy of living dead when you change your diet and exercise and do yoga meditation and have more love and support in your life most people find",
+      "uuid": "f99e0feb-b6cc-4e32-9d88-237c5f55f0d3"
     },
-    "2450": {
+    {
       "requestid": "761cc047-2821-4144-aca8-9b91207af434",
       "confidence": "0.6630506",
       "timestamp": 2450,
-      "content": "they feel so much better so quickly hid reframe some reason for making these changes from fear to joy and pleasure in that ultimately is what makes it worth doing"
+      "content": "they feel so much better so quickly hid reframe some reason for making these changes from fear to joy and pleasure in that ultimately is what makes it worth doing",
+      "uuid": "33d7f0ca-9ee4-4dab-a328-dffeb2d78ffc"
     },
-    "2460": {
+    {
       "requestid": "52d6bf9e-e3c0-404c-bd0b-b1442964ade0",
       "confidence": "0.6371928",
       "timestamp": 2460,
-      "content": "dean ornish he's a professor of medicine at uc san francisco is ted talk is atted.com by the way if you can"
+      "content": "dean ornish he's a professor of medicine at uc san francisco is ted talk is atted.com by the way if you can",
+      "uuid": "f50115b8-dcb1-4f6f-83ab-dfb87d1e5ed0"
     },
-    "2470": {
+    {
       "requestid": "3db6764b-68c6-4e05-afe1-0d897be53f04",
       "confidence": "0.6987151",
       "timestamp": 2470,
-      "content": "yes we put up links to his studies on lifestyle in prostate cancer can find them at ted dotnpr.org"
+      "content": "yes we put up links to his studies on lifestyle in prostate cancer can find them at ted dotnpr.org",
+      "uuid": "9802d962-485e-4d17-b536-bd729b7cc9cd"
     },
-    "2480": {
+    {
       "requestid": "b2327cb6-6ab6-4fe9-801d-7121dee1cb85",
       "confidence": "0.8284655",
       "timestamp": 2480,
-      "content": "so at this point we been hearing about the innovations in science and medicine beyond the treatment even the prevention of some cancers but in some ways"
+      "content": "so at this point we been hearing about the innovations in science and medicine beyond the treatment even the prevention of some cancers but in some ways",
+      "uuid": "020eda90-e57d-4400-b3ff-027ec02c8ec3"
     },
-    "2490": {
+    {
       "requestid": "501addc2-883f-4318-98a6-6a54754a33a8",
       "confidence": "0.7903615",
       "timestamp": 2490,
-      "content": "the scientific and medical side is just a small part of it exactly the cancer experience is so little of it is about"
+      "content": "the scientific and medical side is just a small part of it exactly the cancer experience is so little of it is about",
+      "uuid": "8778bd15-6832-4006-8c33-c14c9e36d7c1"
     },
-    "2500": {
+    {
       "requestid": "6e5d3f69-4ef9-4adf-aecd-99bc9fa72eba",
       "confidence": "0.644435",
       "timestamp": 2500,
-      "content": "madison this is deborah jarvis she's a writer an ordained minister it's about feelings and faith and cold"
+      "content": "madison this is deborah jarvis she's a writer an ordained minister it's about feelings and faith and cold",
+      "uuid": "3c24d12a-51b7-4540-91e6-ba6121cbcf66"
     },
-    "2510": {
+    {
       "requestid": "1f8bc8de-8bac-4b6c-a957-275a1bb19c1b",
       "confidence": "0.598741",
       "timestamp": 2510,
-      "content": "name and meaning me LOL name because when your treatment you com and then you go and now you got the rest of your week"
+      "content": "name and meaning me LOL name because when your treatment you com and then you go and now you got the rest of your week",
+      "uuid": "285b1500-80e9-422f-9822-a02f91fcc505"
     },
-    "2520": {
+    {
       "requestid": "e983af1b-53e5-47a2-b1d1-0cd1643dcd66",
       "confidence": "0.7728668",
       "timestamp": 2520,
-      "content": "deal with what's going on with you deborah is speaking from experience here a couple years ago she went in for yearly mammogram and then they said oh"
+      "content": "deal with what's going on with you deborah is speaking from experience here a couple years ago she went in for yearly mammogram and then they said oh",
+      "uuid": "ea470871-ea68-42e1-b79c-8a6badd3504d"
     },
-    "2530": {
+    {
       "requestid": "4216e04e-63ab-4227-b9b0-7c6a3252f456",
       "confidence": "0.631094",
       "timestamp": 2530,
-      "content": "don't know quite yet let's take another mammogram in the missio don't know quite yet let's do an ultrasound and so then that's very kind for this"
+      "content": "don't know quite yet let's take another mammogram in the missio don't know quite yet let's do an ultrasound and so then that's very kind for this",
+      "uuid": "5aeb95ea-0a87-42be-a969-9dc2ccc9e448"
     },
-    "2540": {
+    {
       "requestid": "f4e60d95-2f34-4b0a-ba7f-bd373e639c36",
       "confidence": "0.7817153",
       "timestamp": 2540,
-      "content": "came in and said well you know there's an area of concern deborah was diagnosed with breast cancer she had a mastectomy she went 2 rounds of chemo"
+      "content": "came in and said well you know there's an area of concern deborah was diagnosed with breast cancer she had a mastectomy she went 2 rounds of chemo",
+      "uuid": "4f9705ca-22f0-44bb-83e7-6b2747081c25"
     },
-    "2550": {
+    {
       "requestid": "764f87a0-e1ff-48af-be36-85f7f1feaf56",
       "confidence": "0.6465588",
       "timestamp": 2550,
-      "content": "therapy and today thankfully she's cancer free but looking for unique perspective was that at that time deborah was also the chapel"
+      "content": "therapy and today thankfully she's cancer free but looking for unique perspective was that at that time deborah was also the chapel",
+      "uuid": "9d291714-83b8-418c-babb-3b5849e983c1"
     },
-    "2560": {
+    {
       "requestid": "aa932dae-763e-46b1-94e0-3f2169b00757",
       "confidence": "0.7284597",
       "timestamp": 2560,
-      "content": "and at hospital in seattle where she worked with cancer patients what happened was that patience with no I was in treatment at home"
+      "content": "and at hospital in seattle where she worked with cancer patients what happened was that patience with no I was in treatment at home",
+      "uuid": "c01dd936-87fe-4d8f-b883-b739db5167c4"
     },
-    "2570": {
+    {
       "requestid": "adc2b9d5-9174-413b-be13-722fc6245851",
       "confidence": "0.6673839",
       "timestamp": 2570,
-      "content": "wall would come down I mean open like that like you were part of the circle of trust that's exactly right and so then"
+      "content": "wall would come down I mean open like that like you were part of the circle of trust that's exactly right and so then",
+      "uuid": "3ec6dc6f-25a7-4bcd-b0a7-1ca57fa4f531"
     },
-    "2580": {
+    {
       "requestid": "110e8620-26b6-40ff-a8b7-4866e84111d5",
       "confidence": "0.6666803",
       "timestamp": 2580,
-      "content": "add the shorthand you know of the cabbie larry that we knew and understood we can talk about sometimes they would give me advice and this was the most surprising"
+      "content": "add the shorthand you know of the cabbie larry that we knew and understood we can talk about sometimes they would give me advice and this was the most surprising",
+      "uuid": "e080a79e-190e-43b9-8312-c1b929a8e6db"
     },
-    "2590": {
+    {
       "requestid": "822b5f40-596e-4f64-85ad-1ec092ecec8b",
       "confidence": "0.116776",
       "timestamp": 2590,
-      "content": "edible"
+      "content": "edible",
+      "uuid": "65265391-b6aa-4e8c-a364-f60e13de9c30"
     },
-    "2600": {
+    {
       "requestid": "6fdd4fea-acc9-452a-9056-c64e8ec5249e",
       "confidence": "0.7209234",
       "timestamp": 2600,
-      "content": "I was at work survivor it was as if somebody just <profanity>pissed</profanity> about label on my chest your survivor I thought oh yeah but I'm so many other things"
+      "content": "I was at work survivor it was as if somebody just <profanity>pissed</profanity> about label on my chest your survivor I thought oh yeah but I'm so many other things",
+      "uuid": "23d7f1e7-d44a-46c7-b1aa-02b1aaff858c"
     },
-    "2610": {
+    {
       "requestid": "8f53205f-5607-45c2-b32c-9a1c96bc3954",
       "confidence": "0.6319364",
       "timestamp": 2610,
-      "content": "I've survived measles too but I don't wear a spotted ribbon in the sky people die from measles it was so interesting to me"
+      "content": "I've survived measles too but I don't wear a spotted ribbon in the sky people die from measles it was so interesting to me",
+      "uuid": "4b1f6dd1-e2c4-4af4-bb38-11e91f958949"
     },
-    "2620": {
+    {
       "requestid": "3ddd667d-407e-44da-b8b3-cc3dc585469b",
       "confidence": "0.693629",
       "timestamp": 2620,
-      "content": "deborah talk more about this on the ted stage now don't please misunderstand mean cancer organizations in"
+      "content": "deborah talk more about this on the ted stage now don't please misunderstand mean cancer organizations in",
+      "uuid": "65d20d4e-baa4-4e8d-8659-0641f7c0c842"
     },
-    "2630": {
+    {
       "requestid": "7f7f1b9c-369f-4497-a5f4-96674e4ef9f9",
       "confidence": "0.8373397",
       "timestamp": 2630,
-      "content": "the drive for early screening a cancer awareness of cancer research had a normal life cancer but sometimes it feels"
+      "content": "the drive for early screening a cancer awareness of cancer research had a normal life cancer but sometimes it feels",
+      "uuid": "84a56397-b04b-441f-bd88-7df00e6f9250"
     },
-    "2640": {
+    {
       "requestid": "b82a5df7-ea03-4b85-82ae-79863135c5c2",
       "confidence": "0.7134944",
       "timestamp": 2640,
-      "content": "white people go a little overboard and they start telling us how are going to feel so bad week after my surgery"
+      "content": "white people go a little overboard and they start telling us how are going to feel so bad week after my surgery",
+      "uuid": "90b0c1ce-7368-4d54-a5bc-5aa54d0f27b2"
     },
-    "2650": {
+    {
       "requestid": "bb2ed968-a415-44eb-84d3-28a0f11281d1",
       "confidence": "0.539765",
       "timestamp": 2650,
-      "content": "had a house guest at dinner that night our house caspases stretches arms above his head and said you know dad now"
+      "content": "had a house guest at dinner that night our house caspases stretches arms above his head and said you know dad now",
+      "uuid": "75b111b2-8816-47e0-b3f5-d487839c270b"
     },
-    "2660": {
+    {
       "requestid": "4aec7ea1-058f-4895-b589-984805f26c4a",
       "confidence": "0.7650439",
       "timestamp": 2660,
-      "content": "wow your really gonna learn what's important yes you are going to make some big changes in your life this cancer is your way"
+      "content": "wow your really gonna learn what's important yes you are going to make some big changes in your life this cancer is your way",
+      "uuid": "66f6ed6b-a44a-46f7-9934-96cc3237fac3"
     },
-    "2670": {
+    {
       "requestid": "3da52491-89a1-4add-ac53-6f072a06690b",
       "confidence": "0.6320885",
       "timestamp": 2670,
-      "content": "call ken and after my treatment it's just felt like everyone was telling me what my experience is going to mean oh this means are gonna be doing the"
+      "content": "call ken and after my treatment it's just felt like everyone was telling me what my experience is going to mean oh this means are gonna be doing the",
+      "uuid": "685d83e5-1b3c-4731-9212-d9adc5935111"
     },
-    "2680": {
+    {
       "requestid": "010a5429-f00d-4405-aa65-10ac3042174e",
       "confidence": "0.6756389",
       "timestamp": 2680,
-      "content": "rock of this means you're coming to the luncheon this means you're gonna be wearing the pink ribbon and PT shirt and headband and earrings and a bracelet in the panties"
+      "content": "rock of this means you're coming to the luncheon this means you're gonna be wearing the pink ribbon and PT shirt and headband and earrings and a bracelet in the panties",
+      "uuid": "9d1e156d-742b-4a2d-bf17-b74d8ab1368e"
     },
-    "2690": {
+    {
       "requestid": "e05e9e5b-76b7-4b49-83b0-8200c92db5ac",
       "confidence": "0.6644343",
       "timestamp": 2690,
-      "content": "panties no seriously google it"
+      "content": "panties no seriously google it",
+      "uuid": "ee047808-c8e7-4149-bb48-326e50af910d"
     },
-    "2700": {
+    {
       "requestid": "6a75eebe-55ca-4623-b99e-d24627d2b0fa",
       "confidence": "0.6933502",
       "timestamp": 2700,
-      "content": "taking over my life and that's when I told myself claim your experience don't let it claim you"
+      "content": "taking over my life and that's when I told myself claim your experience don't let it claim you",
+      "uuid": "de8ebb50-91b5-4bce-a91c-626c417eb7b3"
     },
-    "2710": {
+    {
       "requestid": "80ee79ff-018d-42ab-be66-d2910c992a43",
       "confidence": "0.6780838",
       "timestamp": 2710,
-      "content": "what that meant for deborah was figuring out how she could grow and learn from the experience problem with that"
+      "content": "what that meant for deborah was figuring out how she could grow and learn from the experience problem with that",
+      "uuid": "be6209ed-cd4d-4b15-84f0-63797be3a640"
     },
-    "2720": {
+    {
       "requestid": "9622d293-3f82-41db-b483-477544d1f16b",
       "confidence": "0.7281465",
       "timestamp": 2720,
-      "content": "fighting cancer is often a single minded pursuit it doesn't give you a lot of time to process the meaning of LOL it's like walking on a rope"
+      "content": "fighting cancer is often a single minded pursuit it doesn't give you a lot of time to process the meaning of LOL it's like walking on a rope",
+      "uuid": "c994250d-2050-4f72-b975-3251efa4e312"
     },
-    "2730": {
+    {
       "requestid": "3fd4dc1a-60a7-42aa-bc08-ad11677973b3",
       "confidence": "0.7132099",
       "timestamp": 2730,
-      "content": "<profanity>bitch</profanity> so you're so intent on getting to the other side that you just don't look down then you get"
+      "content": "<profanity>bitch</profanity> so you're so intent on getting to the other side that you just don't look down then you get",
+      "uuid": "c44d1914-f8bc-4d54-a0cd-428490ae5eef"
     },
-    "2740": {
+    {
       "requestid": "b7ef5aac-f549-4811-9335-789d4964c98e",
       "confidence": "0.7241035",
       "timestamp": 2740,
-      "content": "the other side you look back and jukka holy crap you know you look over what you just crossed into deborah says it's only after you survive when you"
+      "content": "the other side you look back and jukka holy crap you know you look over what you just crossed into deborah says it's only after you survive when you",
+      "uuid": "8a4a402c-a729-4f66-8ac4-f447fd47d086"
     },
-    "2750": {
+    {
       "requestid": "eaac6880-5f42-49b3-977b-b6bcff66f28b",
       "confidence": "0.7433114",
       "timestamp": 2750,
-      "content": "start to begin to interpret experience for yourself but at that point you've already been labeled them by others as a survivor only you know that's the snow"
+      "content": "start to begin to interpret experience for yourself but at that point you've already been labeled them by others as a survivor only you know that's the snow",
+      "uuid": "e56fa1c9-7e41-4e0c-96d9-f68720f798d0"
     },
-    "2760": {
+    {
       "requestid": "162bbd39-13f7-41a7-8ef9-abc01152a0ad",
       "confidence": "0.650621",
       "timestamp": 2760,
-      "content": "I'll park in like I also own a subaru so I'ma see broner I want you know that if I did the british the difference right at me like that like"
+      "content": "I'll park in like I also own a subaru so I'ma see broner I want you know that if I did the british the difference right at me like that like",
+      "uuid": "c52a150f-67c6-4d25-8ab9-fb753abb4617"
     },
-    "2770": {
+    {
       "requestid": "a0e00dee-038d-4f3c-a7c9-724fcfa206b5",
       "confidence": "0.5563734",
       "timestamp": 2770,
-      "content": "huge <profanity>tits</profanity> huge crucible that that you sort of walkthrough and walked out of social see others think I could you please akli do with the"
+      "content": "huge <profanity>tits</profanity> huge crucible that that you sort of walkthrough and walked out of social see others think I could you please akli do with the",
+      "uuid": "b9552be7-b6ea-4f60-b1bc-b96227b6b27c"
     },
-    "2780": {
+    {
       "requestid": "a67dcb9e-b96b-4a35-bb27-12e8a17f6b04",
       "confidence": "0.7764689",
       "timestamp": 2780,
-      "content": "tell you to do to stay alive and with people say oh my gosh you're you're a survivor unisource to me and better than that phrase is your survivor"
+      "content": "tell you to do to stay alive and with people say oh my gosh you're you're a survivor unisource to me and better than that phrase is your survivor",
+      "uuid": "5a2032d8-364c-409b-9f38-edb97094a3c9"
     },
-    "2790": {
+    {
       "requestid": "5bde179e-d9fe-4ebe-a842-be6273f0a2ad",
       "confidence": "0.7292924",
       "timestamp": 2790,
-      "content": "someone who had to think about your desk well and I guess if that's the only thing in your life you can be proud of then yeah you know you can claim that"
+      "content": "someone who had to think about your desk well and I guess if that's the only thing in your life you can be proud of then yeah you know you can claim that",
+      "uuid": "d92c2cd2-da9b-416c-b977-3d62d2d7b97d"
     },
-    "2800": {
+    {
       "requestid": "2f89e933-eb28-4132-83c2-1d122f87d6db",
       "confidence": "0.6811604",
       "timestamp": 2800,
-      "content": "but I've had patients amy I'm proud of that my kids got to college I want people to know that I'm a mom of a couple scratch you at"
+      "content": "but I've had patients amy I'm proud of that my kids got to college I want people to know that I'm a mom of a couple scratch you at",
+      "uuid": "de1ffe8e-7c73-4d08-8e35-04dcbbb960b0"
     },
-    "2810": {
+    {
       "requestid": "9da9f90e-90f0-4a90-a3bc-5b094ab3197f",
       "confidence": "0.6878348",
       "timestamp": 2810,
-      "content": "you know I mean I don't mean to sound harsh and I'm compassionate about people choosing that label but if that's all you are then you'll never guess"
+      "content": "you know I mean I don't mean to sound harsh and I'm compassionate about people choosing that label but if that's all you are then you'll never guess",
+      "uuid": "805ccc7b-0deb-44ee-b156-ddf77459a54f"
     },
-    "2820": {
+    {
       "requestid": "079b63d1-953d-4929-be91-53b74bd20cf8",
       "timestamp": 2820,
-      "content": ""
+      "content": "",
+      "uuid": "7ce37466-4f1e-4835-8db7-14a5804bc6ad"
     },
-    "2830": {
+    {
       "requestid": "975dec18-9f8f-437b-8846-805459525db5",
       "confidence": "0.5834607",
       "timestamp": 2830,
-      "content": "do I feed you before and she was there with her 2 adult daughters welfare new for for one year follow up exam time"
+      "content": "do I feed you before and she was there with her 2 adult daughters welfare new for for one year follow up exam time",
+      "uuid": "b9e22489-5568-4694-afb9-8d4335de3c1a"
     },
-    "2840": {
+    {
       "requestid": "9bd175c3-1ff8-4ef4-8c77-36f355b0dd44",
       "confidence": "0.7157478",
       "timestamp": 2840,
-      "content": "I counted the lobby and they were ecstatic because she just gotten over test results back and she was NET no evidence of disease"
+      "content": "I counted the lobby and they were ecstatic because she just gotten over test results back and she was NET no evidence of disease",
+      "uuid": "4215f365-9e24-4824-8849-ae2d53849c88"
     },
-    "2850": {
+    {
       "requestid": "ad99bcde-fe40-4083-98df-1e0a5c5bccfa",
       "confidence": "0.6835769",
       "timestamp": 2850,
-      "content": "be back down to visit him some weird because within 2 minutes she started we telling me the story"
+      "content": "be back down to visit him some weird because within 2 minutes she started we telling me the story",
+      "uuid": "89dd928e-b9db-4c76-87a0-47020aa5ccb2"
     },
-    "2860": {
+    {
       "requestid": "21ee4c2d-bc32-4b45-9b0c-a2179080f128",
       "confidence": "0.7269266",
       "timestamp": 2860,
-      "content": "of her diagnosis and her surgery and chemo even know as a trap when I saw her every week and so I need a story"
+      "content": "of her diagnosis and her surgery and chemo even know as a trap when I saw her every week and so I need a story",
+      "uuid": "6fddc0c9-207e-4b17-8e04-4a7c913ac617"
     },
-    "2870": {
+    {
       "requestid": "4b5bff58-dbd3-4593-9cf1-b7964f540be6",
       "confidence": "0.4245195",
       "timestamp": 2870,
-      "content": "sushi seaweed flakes aafreen agony and she ended her story wish I felt"
+      "content": "sushi seaweed flakes aafreen agony and she ended her story wish I felt",
+      "uuid": "255db3bc-de35-44e1-b720-07ac1f4c3f73"
     },
-    "2880": {
+    {
       "requestid": "6a9246db-07c5-4e67-a36e-047d20b4ea2d",
       "confidence": "0.6522329",
       "timestamp": 2880,
-      "content": "crucified at that point her 2 daughters gonna do that were gonna go get coffee so I handed her a kiss you"
+      "content": "crucified at that point her 2 daughters gonna do that were gonna go get coffee so I handed her a kiss you",
+      "uuid": "fff780e0-e4ab-4615-b162-8601eebd3c40"
     },
-    "2890": {
+    {
       "requestid": "7b5593e7-5801-4c74-8afb-48c6cb83d126",
       "confidence": "0.7218322",
       "timestamp": 2890,
-      "content": "and I gave her hug and then because I'm really cared for this woman I said get down off your car"
+      "content": "and I gave her hug and then because I'm really cared for this woman I said get down off your car",
+      "uuid": "2b9c52e5-3f3e-4780-a4e5-a677349caf2a"
     },
-    "2900": {
+    {
       "requestid": "a80966ab-ccb7-40e5-ba7b-4b16bf3b3e44",
       "confidence": "0.6755665",
       "timestamp": 2900,
-      "content": "and she said what interfor credit she could talk about her reasons for indy racing"
+      "content": "and she said what interfor credit she could talk about her reasons for indy racing",
+      "uuid": "c2a44065-dcde-4721-9a2f-58c84dc6bb1f"
     },
-    "2910": {
+    {
       "requestid": "fe62df0b-8d2e-41a2-b432-a7c0667dc5db",
       "confidence": "0.6940571",
       "timestamp": 2910,
-      "content": "and then cleaning to this identity I got a lot of attention but now with having the opposite effect it was pushing people"
+      "content": "and then cleaning to this identity I got a lot of attention but now with having the opposite effect it was pushing people",
+      "uuid": "87d7823a-20e9-4353-b419-7d6ad9166291"
     },
-    "2920": {
+    {
       "requestid": "3e8e0ce0-2160-48d8-8c11-fcc8e4ce4446",
       "confidence": "0.4301209",
       "timestamp": 2920,
-      "content": "way people kept leaving to get coffee"
+      "content": "way people kept leaving to get coffee",
+      "uuid": "0f9751af-1c7d-4236-bc2b-642b85c64a9d"
     },
-    "2930": {
+    {
       "requestid": "40ed4545-2929-413f-8704-c823acd9e333",
       "confidence": "0.522049",
       "timestamp": 2930,
-      "content": "true yerself is born"
+      "content": "true yerself is born",
+      "uuid": "da5a784e-74cc-4f92-8e5c-a2a9f2884769"
     },
-    "2940": {
+    {
       "requestid": "17eee8a1-0004-4c83-8807-a5b8e12e0618",
       "confidence": "0.6445702",
       "timestamp": 2940,
-      "content": "I read it cold on the emperor of all maladies right in that I hope she's alright like this is the scariest possible thing out there you know what's going on"
+      "content": "I read it cold on the emperor of all maladies right in that I hope she's alright like this is the scariest possible thing out there you know what's going on",
+      "uuid": "51ec4f86-7bb1-49c7-87fc-84d6a4768fa8"
     },
-    "2950": {
+    {
       "requestid": "153ac2a3-c313-40ee-886e-6f307620948c",
       "confidence": "0.8418382",
       "timestamp": 2950,
-      "content": "ok so there is often a correlation between the diagnosis in your behavior so I had no history of breath"
+      "content": "ok so there is often a correlation between the diagnosis in your behavior so I had no history of breath",
+      "uuid": "d859eb1d-cec0-4a0a-affa-c881bc55e7bf"
     },
-    "2960": {
+    {
       "requestid": "90238fe5-69ae-44e3-86e9-de62dcc94317",
       "confidence": "0.8303622",
       "timestamp": 2960,
-      "content": "cancer I was training for a triathlon I was in the best shape of my life I ate broccoli I read the new yorker I drink a lot of water we want so I think"
+      "content": "cancer I was training for a triathlon I was in the best shape of my life I ate broccoli I read the new yorker I drink a lot of water we want so I think",
+      "uuid": "8da7b1b0-6b20-4447-be25-b5a67438aaff"
     },
-    "2970": {
+    {
       "requestid": "7bc8fdfb-9730-488a-a2a9-dc1441fd2ede",
       "confidence": "0.757664",
       "timestamp": 2970,
-      "content": "because it feels like it can strike randomly that'S1 of the things that is so frightening just never know it could be u it's just like a bee"
+      "content": "because it feels like it can strike randomly that'S1 of the things that is so frightening just never know it could be u it's just like a bee",
+      "uuid": "000f79e8-f853-4ce8-82df-50071907a0a7"
     },
-    "2980": {
+    {
       "requestid": "2cd638e9-5a51-4ab4-90dc-1b7d986b4348",
       "confidence": "0.5910637",
       "timestamp": 2980,
-      "content": "yes it appears that she thing is like only thing that doing this episode m we all said every one time staffers like it's gonna be optimistic show liqu"
+      "content": "yes it appears that she thing is like only thing that doing this episode m we all said every one time staffers like it's gonna be optimistic show liqu",
+      "uuid": "169706f2-7e81-4f50-871a-024248cf5a27"
     },
-    "2990": {
+    {
       "requestid": "447f0f9a-a20b-4f35-965a-2d226b3b8a15",
       "confidence": "0.6440004",
       "timestamp": 2990,
-      "content": "not gonna do a sad depressing show about cancer yeah I know like a is that said like bearinger head in the sand will no no no"
+      "content": "not gonna do a sad depressing show about cancer yeah I know like a is that said like bearinger head in the sand will no no no",
+      "uuid": "0f053685-9909-4af3-a2c4-55d6e974e9e1"
     },
-    "3000": {
+    {
       "requestid": "8c5a03b5-a5c1-434b-9c5b-7529328335ee",
       "confidence": "0.7664912",
       "timestamp": 3000,
-      "content": "see I think sticking your head in the sand is about pretending that death is in the big bang that everyone is freaking out about an"
+      "content": "see I think sticking your head in the sand is about pretending that death is in the big bang that everyone is freaking out about an",
+      "uuid": "cb019597-64fd-4b01-9c32-dda8686dc82c"
     },
-    "3010": {
+    {
       "requestid": "6ba61d08-414f-46b8-bfb0-e7222f32cb33",
       "confidence": "0.7926271",
       "timestamp": 3010,
-      "content": "that's where I see you know the battle with madison and I'd like to think it's getting better but you know doctors are trained to see death as a failure"
+      "content": "that's where I see you know the battle with madison and I'd like to think it's getting better but you know doctors are trained to see death as a failure",
+      "uuid": "9ae3c404-01ac-429f-99e7-73cfb216030a"
     },
-    "3020": {
+    {
       "requestid": "19bfaba9-d868-4288-b96d-d0e78d4ba6e0",
       "confidence": "0.8494189",
       "timestamp": 3020,
-      "content": "and the enemy but there's a lot of people that would tell you that this with their opportunity to really examine their lives"
+      "content": "and the enemy but there's a lot of people that would tell you that this with their opportunity to really examine their lives",
+      "uuid": "70105fde-cc95-4e16-897f-16adea65101e"
     },
-    "3030": {
+    {
       "requestid": "4b477c16-222b-4779-b5d0-c22e036219a3",
       "confidence": "0.7399884",
       "timestamp": 3030,
-      "content": "and also gave him permission to end bad relationships I throw out things that they never wanted a quick jobs in"
+      "content": "and also gave him permission to end bad relationships I throw out things that they never wanted a quick jobs in",
+      "uuid": "a1b2e87d-18f3-4391-894c-ca09b08ee9c1"
     },
-    "3040": {
+    {
       "requestid": "63690f28-605f-4b5c-81cd-327d5a69011a",
       "confidence": "0.8000109",
       "timestamp": 3040,
-      "content": "I really liked it gave them permission to do that so I have patience and meet you now here's the bad thing about this I can say goodbye to my family I can tell them"
+      "content": "I really liked it gave them permission to do that so I have patience and meet you now here's the bad thing about this I can say goodbye to my family I can tell them",
+      "uuid": "bc050506-3b13-4c95-9c98-628ed2a131fc"
     },
-    "3050": {
+    {
       "requestid": "48daa844-32ee-4e27-92c3-af290e1b436e",
       "confidence": "0.6433311",
       "timestamp": 3050,
-      "content": "how much I love them I can finish off unfinished emotional business me that missing morbid but that's only if you think that death"
+      "content": "how much I love them I can finish off unfinished emotional business me that missing morbid but that's only if you think that death",
+      "uuid": "d1221de9-5929-46af-8513-55dd2ef88179"
     },
-    "3060": {
+    {
       "requestid": "330a2c5b-4bbc-4a3f-b15c-84de0f249814",
       "confidence": "0.6171671",
       "timestamp": 3060,
-      "content": "the part of life or death is the enemy"
+      "content": "the part of life or death is the enemy",
+      "uuid": "027131c2-2fcf-43ae-b8a7-7b5c2794b316"
     },
-    "3070": {
+    {
       "requestid": "7ae90f5c-6a9f-4f40-8344-8b3c9d9d96d2",
       "confidence": "0.4637668",
       "timestamp": 3070,
-      "content": "let's go have a drink by the gap foot red wine company the flavonoids at the light"
+      "content": "let's go have a drink by the gap foot red wine company the flavonoids at the light",
+      "uuid": "dbb1c4ec-bfec-43af-9dcf-ae0ceea5a4d5"
     },
-    "3080": {
+    {
       "requestid": "19b62593-12bb-4373-9bb1-cbb06c12dfa1",
       "confidence": "0.3798511",
       "timestamp": 3080,
-      "content": "opena with the rest verifone search for java she's a chaplain and a writer can see her full talkat.com"
+      "content": "opena with the rest verifone search for java she's a chaplain and a writer can see her full talkat.com",
+      "uuid": "8d5c205c-d736-4b97-9f1e-d3497c3b84e8"
     },
-    "3090": {
+    {
       "requestid": "0bc9eca5-e544-434d-ad91-debde27534fb",
       "confidence": "0.6501358",
       "timestamp": 3090,
-      "content": "hey thanks for listening to show this week fighting cancer he mentioned a bunch of studies throuth should we put up links to those articles in our website did"
+      "content": "hey thanks for listening to show this week fighting cancer he mentioned a bunch of studies throuth should we put up links to those articles in our website did",
+      "uuid": "8a1f157f-d411-45d2-aa7c-85f57f4ce1f7"
     },
-    "3100": {
+    {
       "requestid": "d6b935e2-723f-40e1-bf4c-e47d6f272573",
       "confidence": "0.6174592",
       "timestamp": 3100,
-      "content": "npr.org this episode is dedicated to our friend joyce lo comfort texas public radio joyce keep up the fight a production sasaran"
+      "content": "npr.org this episode is dedicated to our friend joyce lo comfort texas public radio joyce keep up the fight a production sasaran",
+      "uuid": "83a93d17-752d-4a4c-b976-631906262ceb"
     },
-    "3110": {
+    {
       "requestid": "68165386-6117-43ef-95fe-b273ce5b337b",
       "confidence": "0.4978683",
       "timestamp": 3110,
-      "content": "york with jeff rogers brings bachmann megan kaneva grandson is michigan for with help from daniel schook in our intern is cherryh use of the partners"
+      "content": "york with jeff rogers brings bachmann megan kaneva grandson is michigan for with help from daniel schook in our intern is cherryh use of the partners",
+      "uuid": "61cef603-42d7-4d2b-8db3-708b3b864120"
     },
-    "3120": {
+    {
       "requestid": "0abe95b4-420b-4cf5-86a6-b8cd67c9a420",
       "confidence": "0.5827616",
       "timestamp": 3120,
-      "content": "chris anderson june calendar trof and gently guy rozan you been listening to ideas worth spreading here on the ted radio hour from npr"
+      "content": "chris anderson june calendar trof and gently guy rozan you been listening to ideas worth spreading here on the ted radio hour from npr",
+      "uuid": "f35c4823-d785-4ce1-8dbc-d4649fc6f779"
     },
-    "3130": {
+    {
       "requestid": "7008c384-da7e-468d-90af-29c49a83cb1b",
       "confidence": "0.7644898",
       "timestamp": 3130,
-      "content": "hey if you like the show you should check out another in pierre podcast is cold snap judgement with glenn washington sap is story telling with a beat story"
+      "content": "hey if you like the show you should check out another in pierre podcast is cold snap judgement with glenn washington sap is story telling with a beat story",
+      "uuid": "f1e72d24-f54e-4c71-9bea-57e03b3f54ba"
     },
-    "3140": {
+    {
       "requestid": "a6a6c778-0cd9-4804-be5b-c2a080ea4ea0",
       "confidence": "0.7707481",
       "timestamp": 3140,
-      "content": "techconnect captivate an invite you to listen close you can find snap judgement on I tunes or on the npr one app"
+      "content": "techconnect captivate an invite you to listen close you can find snap judgement on I tunes or on the npr one app",
+      "uuid": "fb4a9d70-271f-4e84-94b8-8fbc2bbeb3d2"
     }
-  },
+  ],
   "slug": "Fighting-Cancer"
 }

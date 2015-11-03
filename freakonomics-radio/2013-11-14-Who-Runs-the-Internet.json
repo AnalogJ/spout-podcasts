@@ -4,1313 +4,1502 @@
   "description": "<p>The online universe doesn't have nearly as many rules, or rulemakers, as the real world. Discuss.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/dcinad3qZK8/freakonomics_podcast111413.mp3",
   "slug": "Who-Runs-the-Internet-",
-  "segments": {
-    "1.01": {
+  "segments": [
+    {
       "requestid": "0de72995-bff4-4002-8198-cca83cacb3b1",
       "timestamp": 1.01,
-      "content": ""
+      "content": "",
+      "uuid": "75694676-022a-4699-b50c-8692461271ad"
     },
-    "3.0": {
+    {
       "requestid": "16523757-2d24-4b8b-984c-eafcec2240c6",
       "confidence": "0.6864858",
       "timestamp": 3.0,
       "content": "we've all heard the accusations again and again and again",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4bf1ce3f-a719-4932-9de8-72fc2ccc1623"
     },
-    "7.31": {
+    {
       "requestid": "40428d4b-5073-46cf-8ff1-aca0bc592018",
       "confidence": "0.5029674",
       "timestamp": 7.31,
       "content": "again another story wishbone cyber bullying",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "b56b70f8-c54c-4853-8c26-5dcfce2af7d9"
     },
-    "11.23": {
+    {
       "requestid": "184a2793-c51c-420d-ae63-6ed6f2172968",
       "confidence": "0.457867",
       "timestamp": 11.23,
       "content": "seems to be an awesome com",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "45980a9e-07c6-44ac-81d3-d0bf593a58ad"
     },
-    "13.08": {
+    {
       "requestid": "a4d1e827-696d-4981-bb24-439403ac5172",
       "confidence": "0.2808078",
       "timestamp": 13.08,
       "content": "porn is available everywhere",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "9fba3321-53a9-45f5-b550-1a513eed20a7"
     },
-    "16.67": {
+    {
       "requestid": "bd360f9f-6b30-47c2-9b1a-29ffc9d939c8",
       "confidence": "0.6695565",
       "timestamp": 16.67,
       "content": "he's taking the place of get out the sex education",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "1154d41c-4149-461a-9e92-4ba969f740bc"
     },
-    "21.1": {
+    {
       "requestid": "aabcd920-ec11-446d-96f8-0e050fe5aba8",
       "confidence": "0.6188653",
       "timestamp": 21.1,
       "content": "posing people most address to a new in tock tick drug called virtual entertainment in the worst of it are these violent video games",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "7e4aa3ed-bb1a-434b-9eed-486469fbaf9a"
     },
-    "30.32": {
+    {
       "requestid": "8a666bd2-fc69-4773-933b-d9fbd6b7fb9e",
       "confidence": "0.7585166",
       "timestamp": 30.32,
       "content": "people are so concerned about barley video games",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "ff1a0563-f38d-4ac9-ab0b-fb596bdc7766"
     },
-    "32.97": {
+    {
       "requestid": "b384aca7-7653-4b4e-b4ae-c8cdde9ce2b3",
       "confidence": "0.7182231",
       "timestamp": 32.97,
       "content": "think about your kids acting up by only on real people through social media",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "12f5dc29-9ef7-4ff4-a37f-d0685cbe1054"
     },
-    "39.54": {
+    {
       "requestid": "d3891432-abed-4f58-9590-56f63e69e12e",
       "confidence": "0.7248834",
       "timestamp": 39.54,
       "content": "the message is clear technology makes it easy for people to do bad things to gage and antisocial behaviors",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "68dd0745-3326-406c-879a-9902883d9b03"
     },
-    "47.39": {
+    {
       "requestid": "36c930ad-a714-40f4-ba12-a7499d8fcf76",
       "confidence": "0.7972648",
       "timestamp": 47.39,
       "content": "but they might not otherwise do",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "3ae7dc45-e167-404c-a1ba-f62d09ab0e24"
     },
-    "50.36": {
+    {
       "requestid": "043b08a7-4aea-4302-99f0-00973a3d08d3",
       "confidence": "0.6541476",
       "timestamp": 50.36,
       "content": "what is me up this question backward",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "50b42921-ff9b-4cd7-a671-ffd16fb12154"
     },
-    "53.35": {
+    {
       "requestid": "06953d17-626c-4992-b8dc-378ccf868434",
       "confidence": "0.7262843",
       "timestamp": 53.35,
       "content": "maybe somehow",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "40682c56-61d6-41c5-9be6-5e729faaa11b"
     },
-    "56.04": {
+    {
       "requestid": "accd2ce3-a58f-4b4f-ba33-9e76dc17d873",
       "confidence": "0.2710639",
       "timestamp": 56.04,
       "content": "obit bertula mayhem",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "8ddbaef1-c7ee-46a5-822f-92a0f032e5ca"
     },
-    "58.39": {
+    {
       "requestid": "45c18c2a-2d7f-4fad-83c8-59ada68c2341",
       "confidence": "0.5709344",
       "timestamp": 58.39,
       "content": "translate into less actual man",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "f5ea7ab7-c466-41c9-ae5f-e34cca23ea41"
     },
-    "63.07": {
+    {
       "requestid": "d0ddc2b9-5473-491d-b892-90af4a1a1403",
       "confidence": "0.7322326",
       "timestamp": 63.07,
       "content": "I called up my freakonomics friend and co author steve levitt",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "ea7d920e-3a56-4544-ae45-8064f03498c6"
     },
-    "66.57": {
+    {
       "requestid": "ec3568dd-7fb6-48d3-95ae-276e5ebee483",
       "confidence": "0.6733429",
       "timestamp": 66.57,
       "content": "you gonna come it's the inverse of chicago one of his favourite research topics",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "44b5c67c-0966-478f-b8bb-b77c9d2ff8c8"
     },
-    "72.06": {
+    {
       "requestid": "fff1b70d-f566-4b49-a9a6-f4d0b80a690c",
       "confidence": "0.8298498",
       "timestamp": 72.06,
       "content": "so in theory there are at least 3 channels through which you can imagine",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "ca6beccc-db08-482b-994d-f81d18e18468"
     },
-    "76.98": {
+    {
       "requestid": "d53fcc66-6151-4166-834d-4c71e581036a",
       "confidence": "0.6205866",
       "timestamp": 76.98,
       "content": "virtual violence going over or not until go back to that the first and this is the more popular pm",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "173aa6bc-9f51-4238-ac49-1a4ae4c70d5b"
     },
-    "83.33": {
+    {
       "requestid": "fcb04307-638d-4eae-909f-5e249016fbea",
       "confidence": "0.7025915",
       "timestamp": 83.33,
       "content": "is that when you teach kids how to shoot guns in violent video games in there more like a gun shoot guns in the real world I'm certain if you did understand how that would work I did the second",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "1b449ca3-0917-46b4-addb-a90bc6475340"
     },
-    "94.17": {
+    {
       "requestid": "d930dfc4-5186-4b34-8091-4b7a2d16852e",
       "confidence": "0.7955351",
       "timestamp": 94.17,
       "content": "do you have the world which I think probably is hard to defend which is bad if I'm frustrated I can go and shoot my fake guns in my video game then I won't feel the need to go and shoot my real gun out in the real world cannot imagine how that would be",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "0a288b9f-3903-4e6e-b5ab-69f8394df569"
     },
-    "107.9": {
+    {
       "requestid": "924e9672-8821-4bf8-b61f-19dba290540d",
       "confidence": "0.698563",
       "timestamp": 107.9,
       "content": "and then there's a flared hanter which is rhydymwyn their economies think about more than the people which is maybe the biggest effect of all of having these violent video games is that are super fun",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "e559f78e-6f0e-4b51-859e-74f6772536fb"
     },
-    "121.08": {
+    {
       "requestid": "637040ac-570c-4513-822a-9d75e7ee45d6",
       "confidence": "0.6019065",
       "timestamp": 121.08,
       "content": "for people to play especially adolescent boys maybe even allison boys were prontor evant",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "f38bdfe4-1979-4f30-b869-d1bb7b85b76b"
     },
-    "126.49": {
+    {
       "requestid": "82d7bceb-70ff-4b5c-980e-f5612b50b8a4",
       "confidence": "0.7299876",
       "timestamp": 126.49,
       "content": "and so if you can make video games fun enough been kids will stop doing everything else went to stop watching tv to stop doing homework in the stop going out and feeding mayhem on the street",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "33b508f0-3500-4661-9237-70ac00d9abc0"
     },
-    "137.74": {
+    {
       "requestid": "e6c9ba7d-a2ad-4e6c-b168-77ee152b1bf6",
       "confidence": "0.6613309",
       "timestamp": 137.74,
       "content": "and I think you have it is that we have anything from dollar to be scappati haven't we do have is accident at third one is far more important than either of the first 2 in kensington grill with my life",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "504067fb-7002-4cbf-b5b8-0f4a40d0ab50"
     },
-    "155.2": {
+    {
       "requestid": "fd4a6e67-f4e3-4294-9a49-2d229ca8160f",
       "timestamp": 155.2,
-      "content": ""
+      "content": "",
+      "uuid": "e6a7c206-4da1-430d-9afe-b067f7705cdf"
     },
-    "163.91": {
+    {
       "requestid": "97e9fd61-4944-4aa7-8ddd-497477f113a8",
       "confidence": "0.6257445",
       "timestamp": 163.91,
       "content": "I'm wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "cdf057ee-dfa1-4c79-b79e-707db948df8c"
     },
-    "171.5": {
+    {
       "requestid": "fc63558b-d498-4a54-986a-abc40c034e7e",
       "confidence": "0.3813843",
       "timestamp": 171.5,
       "content": "here's your help steven dubner",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "513853b1-c894-4666-b613-f7900a8415b7"
     },
-    "179.5": {
+    {
       "requestid": "dc0dc2ae-4e6a-4a64-a8da-4c5e35ebf72a",
       "timestamp": 179.5,
-      "content": ""
+      "content": "",
+      "uuid": "69d463a3-a2c3-44ce-8fb5-0b5be053f06d"
     },
-    "184.35": {
+    {
       "requestid": "68fa000a-7645-476e-b3ea-ede1eab23d7c",
       "confidence": "0.672944",
       "timestamp": 184.35,
       "content": "so is it possible that virtual mayhem is a substitute for real mayhem yeah sure it's possible the speed limit says",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d4d137cb-36a5-44f3-94da-eb5e903347d4"
     },
-    "193.9": {
+    {
       "requestid": "855e1988-3fa1-44ed-8d1e-7e694fac639b",
       "confidence": "0.6617687",
       "timestamp": 193.9,
       "content": "in the data of preliminary merkez they are suggested this may even be true but this is the kind of question that is a lot easier to ask and answer with findikli so it's like a step back booth in scope and in time",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d4a77243-3629-49d8-aeac-881603f22e51"
     },
-    "210.66": {
+    {
       "requestid": "d365efb4-b4cc-4d07-8406-8f3fcacf7548",
       "confidence": "0.624698",
       "timestamp": 210.66,
       "content": "deska different set of questions about the internet itself",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "85927142-4076-4753-924d-0d0511bd6a4e"
     },
-    "215.45": {
+    {
       "requestid": "ab99232d-3436-4396-838d-6accb66c6806",
       "confidence": "0.7166304",
       "timestamp": 215.45,
       "content": "you know it was interesting I started using the internet can you early 90s with clay shirky eteach theory and practice in social media then why you in the inneractive tokman caitians program and in the journalism department",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "27b51579-534e-4a17-974b-ce03c4e9ee37"
     },
-    "227.5": {
+    {
       "requestid": "6fdd5c65-5e83-48c4-a3e3-0c918ac4c4ae",
       "confidence": "0.7674628",
       "timestamp": 227.5,
       "content": "tricky's what might best be cold in internet scholar and she was saying back in the early 1990s",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "f4eafbfd-bbe0-43ab-92c4-65bb9042bad2"
     },
-    "235.22": {
+    {
       "requestid": "ad21ec24-8f28-4c13-aec6-24bf6690d74d",
       "confidence": "0.6665859",
       "timestamp": 235.22,
       "content": "spring theatre company in new york city that stage nonfiction document we will take things were truly meant to be put on stage make the africa collage is adam micah for instance at somebody's journal do it after the first one we did was the transcript of an air traffic control conversations are in a plane crash",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "a66449e0-fb37-4317-b169-59323ba11e90"
     },
-    "251.19": {
+    {
       "requestid": "fa7615f7-48d4-4f53-aa72-05f0a03cda6c",
       "confidence": "0.2524429",
       "timestamp": 251.19,
       "content": "where is santa so sorry we left alone",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "c6b9e0c6-fa55-42a0-a466-61cf8ea30019"
     },
-    "254.16": {
+    {
       "requestid": "bfd202bc-7b07-44db-87bf-e3170f86143b",
       "confidence": "0.8941787",
       "timestamp": 254.16,
       "content": "we did one is only drawn for materials produced in 1974",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "54f580af-bd82-40da-9fa4-68a1be8d58ea"
     },
-    "260.95": {
+    {
       "requestid": "c5990edf-4b4e-4df7-ad3a-c12f92cf9ff9",
       "confidence": "0.7412664",
       "timestamp": 260.95,
       "content": "we stage the attorney general's report on pornography a whole variety of things in my mother whose reference library said oh if that's what you're doing you should know about this thing we're learning about liebrich it's called the internet is like a great big libra I shouldn't come on will check it out and I love",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "51128f92-773e-4946-8872-e0bbed9271a0"
     },
-    "277.82": {
+    {
       "requestid": "1516abf1-271b-4c44-ad8c-c2a142fedb2e",
       "confidence": "0.4672476",
       "timestamp": 277.82,
       "content": "do you know netscaler learned about the internet for bruce monroe library who are you",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7d4d3d33-4357-495f-99e8-6d536983a66d"
     },
-    "281.4": {
+    {
       "requestid": "91b631c9-70b3-4de0-bb6d-b9871278aa0c",
       "confidence": "0.6948878",
       "timestamp": 281.4,
       "content": "saturday to be in normalcy helpful because I never want to leave the kind of mirrorshades cybra cool thing because it came from my mom",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "4a09812e-46bd-40f7-b772-7f078e461084"
     },
-    "289.61": {
+    {
       "requestid": "f8b122c5-00c0-44fe-a5bb-359b9623d4b5",
       "confidence": "0.6985111",
       "timestamp": 289.61,
       "content": "and because my first email ever was not someone trying to contact me crust pizza but mom riding wanting to know if my shirts work",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "8404a17b-4d96-4d03-8bb1-f56656f718df"
     },
-    "300.23": {
+    {
       "requestid": "6a70f4b9-1d08-40dc-baab-318897bc3ea5",
       "timestamp": 300.23,
-      "content": ""
+      "content": "",
+      "uuid": "00b834b9-3dd9-4780-b62d-46c357b6ed88"
     },
-    "303.6": {
+    {
       "requestid": "389f71f2-6754-4c41-870b-bfb066e59d70",
       "confidence": "0.6543368",
       "timestamp": 303.6,
       "content": "from be out that sharky's interest in the internet went beyond using it",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "ccfd41c2-d61f-4863-a220-701616e511b4"
     },
-    "308.74": {
+    {
       "requestid": "dd7736a7-0ffa-440d-aba5-63d4bb17b503",
       "confidence": "0.7986915",
       "timestamp": 308.74,
       "content": "having the rich and varied social life I didn't know he is I spent a lot of saturday nights at home reading engineering documents and",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "071034c3-5410-460d-805a-4363ecd60f92"
     },
-    "314.93": {
+    {
       "requestid": "5cf57ed5-93e8-4399-b6b1-bd89a97c6a2a",
       "confidence": "0.7527429",
       "timestamp": 314.93,
       "content": "slowly piece together some sense not just about what you can do with the internet but really what the internet does what the logic the thing itself is and in the way haven't gotten interested in that just a side effect of one to use it",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "b8a57615-8b4a-4a52-af4e-7675fb24b766"
     },
-    "329.01": {
+    {
       "requestid": "c1116dc6-c75d-466a-a46b-df94b2be3728",
       "confidence": "0.7598864",
       "timestamp": 329.01,
       "content": "I ended up thinking more about the internet then I did thinking about using the internet for the cleaning thing",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "31e22fe4-62dc-46f4-84aa-ff08c7921498"
     },
-    "336.03": {
+    {
       "requestid": "7f2a0237-9884-40c8-8d18-d2bbd9029a61",
       "confidence": "0.7158175",
       "timestamp": 336.03,
       "content": "note for me about how you use the internet today use it to get this radio program for starters",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "36910ae4-0d76-4dff-94b0-f3e7eb57c5ac"
     },
-    "343.19": {
+    {
       "requestid": "67a9f8d9-c9a8-46e8-94ac-c146de82004d",
       "confidence": "0.7810118",
       "timestamp": 343.19,
       "content": "and then thing by helping everybody else use it and abuse is it the question I wanted clay shirky to answer is simply best who is in charge who is",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "1f21107a-bfbe-47bd-8b3c-bcbbc43f96d0"
     },
-    "354.21": {
+    {
       "requestid": "b685e758-bfbd-4d2d-899e-5b834c77c439",
       "confidence": "0.8300257",
       "timestamp": 354.21,
       "content": "in charge of the gazillions of conversations and transactions and character assassinations to happen on mine everyday",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "2954826e-fe77-4663-8f12-090682dde13c"
     },
-    "364.82": {
+    {
       "requestid": "3550ec08-6fd9-4814-93b8-797760d53439",
       "confidence": "0.7730538",
       "timestamp": 364.82,
       "content": "do first brush masnou want which is to say by and large these things are unstructured on sculpted on atadan unmoderated that in small conversational groups turned out not to be much of a problem I in fact almost all the negative social aspects of",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "ada2653b-fe61-4a4c-86f6-eab481e45745"
     },
-    "378.89": {
+    {
       "requestid": "c241dd84-6733-47b8-84a6-fc40712815c4",
       "confidence": "0.7762676",
       "timestamp": 378.89,
       "content": "the net worth of people .2 or a function of groups gail and there's a huge sociologica literature on things like the tragedy of the commons with the big be in ability of people to self moderate",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "763758fe-1c38-4fde-92d9-129819f7e271"
     },
-    "391.26": {
+    {
       "requestid": "3757a1da-11a9-4d2b-86bc-6bff530f2334",
       "confidence": "0.7696586",
       "timestamp": 391.26,
       "content": "in places where there's large open resources what does the commons of on the internet is other peoples attention so if you're dealing with win one on one is we are in a small group of people self moderate because in a way there's no more attention to be gotten you get just by being a participant",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "16af0703-e3cf-4e25-b009-4c34b83fc3ac"
     },
-    "408.94": {
+    {
       "requestid": "c6ac66fc-f87e-4213-8ece-ce4add6a9d14",
       "confidence": "0.6585293",
       "timestamp": 408.94,
       "content": "but once there's a large group the way you get attention is my acting out the way you get attention is by attacking people flaming tro ling reynolds ford in intentia leading people on and so forth",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "8cdf6c96-25fa-444d-a0ff-d3fed3142b07"
     },
-    "421.67": {
+    {
       "requestid": "aeb68a86-cb46-49be-a0d3-12dd4dcd6faf",
       "confidence": "0.824153",
       "timestamp": 421.67,
       "content": "and so what's the huge culture clash over the last 20 years of that the time that I've been on the internet has been between the libertarian aethiops of the people who built the systems and the growing need for social controls are and very large scale resources in tucson wikipedia specially where",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "bbdf3780-4836-4266-820d-f46592525704"
     },
-    "441.42": {
+    {
       "requestid": "c73f3cd8-d54a-42c8-8e79-055e0a7d7ed8",
       "confidence": "0.748704",
       "timestamp": 441.42,
       "content": "you know almost all of the pernicious effects of wikipedia come from people editing biographies of living person to psychology by the articles about people still alive",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "231f5378-2607-47e1-8f87-84cf42d62128"
     },
-    "451.0": {
+    {
       "requestid": "9827aaaa-bfd0-468d-b64c-177715095c1f",
       "confidence": "0.7655371",
       "timestamp": 451.0,
       "content": "it's a wikipedia has developed a bureaucracy around paying special attention to those kind of articles",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "f0464e8b-f80e-4ae7-bba2-61ee44dd5d70"
     },
-    "459.19": {
+    {
       "requestid": "8b0c9b2c-f556-40d4-9913-a9f154b54fca",
       "confidence": "0.8115745",
       "timestamp": 459.19,
       "content": "and you can't have wikipedia do with it dies and have complete freedom dad at because people know know with the problems arise",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "4c84cbb1-969c-4a5d-8ef1-7faf9a455534"
     },
-    "469.72": {
+    {
       "requestid": "bdb467b0-910b-43b7-a846-c02f606055c9",
       "confidence": "0.7987519",
       "timestamp": 469.72,
       "content": "and you start to get this tension between the open and culture of the encyclopedia anyone can add in and it said today that the social norms that form around this particular group of articles we have to keep under some control ok 2 things one very quickly you are affiliated with wicca media guess I am I am obliged wikimedia",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "4dbb815c-8d8b-4533-8423-e9fa00facc39"
     },
-    "489.65": {
+    {
       "requestid": "2be4b190-d272-4dfb-9125-7f9db1fed62c",
       "confidence": "0.6689008",
       "timestamp": 489.65,
       "content": "so just just record jack and then getting to wicca pedia talking about ID",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "9d4457c8-48cf-47b5-921e-24b6ba680032"
     },
-    "494.98": {
+    {
       "requestid": "1a9e2093-f4dd-4e31-a337-c557c9797042",
       "confidence": "0.8255815",
       "timestamp": 494.98,
       "content": "friction nor the steaks when there are biographies of living people is what are the characteristics of an environment on wicca pedia let's say where there's more regulation of engineering is it necessarily case with the steaks are quote higher in other words biography of a living person",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "046322fa-3f47-4f92-8c9d-cae9920e7205"
     },
-    "511.24": {
+    {
       "requestid": "97d44412-d61b-4e93-bd7a-8a3e10737a7f",
       "confidence": "0.7288743",
       "timestamp": 511.24,
       "content": "where is in a political arena sectur in other words what are the characteristics of the environment the most necessitate policing regulation etc there",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "96ce977e-be3b-46c6-985d-054ed3ea605a"
     },
-    "519.44": {
+    {
       "requestid": "2ee84353-c7fe-4bc3-b934-ff11168e408e",
       "confidence": "0.7371399",
       "timestamp": 519.44,
       "content": "there are essentially 3 could you could you could break it down into 3 kinds of articles there's article you know in advance will be like that because of the structural characteristics biographies of living person does the most important boilard most biographies of living persons don't get <profanity>fucked</profanity> with put that class of article is important",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "2cbbd1cc-9def-41c5-8bee-f453e588db1c"
     },
-    "538.58": {
+    {
       "requestid": "7648ce0c-0c4b-432b-a759-5b618e466d35",
       "confidence": "0.8055039",
       "timestamp": 538.58,
       "content": "then there's the stuff that are political hot button issue the article on abortion the article in evolution the article in islam those things come and go but there is a high degree of attention because of the sense of those articles could come under attack at any moment",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "cd75198f-4474-441c-a8c9-afa5cfa133cf"
     },
-    "553.38": {
+    {
       "requestid": "dbccfbe9-14fa-4699-b8da-6bd8e31561f5",
       "confidence": "0.7269186",
       "timestamp": 553.38,
       "content": "and then there are the things where for no reason anybody can predict instans they just sort of go pear shaped and if you look at wikipedia as a social network can you pick any 2 articles me look dead bolt to pick any 2 users new look which article stapko at it would you start define is that",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "1545bacd-92c6-495d-9138-b2890ad82e48"
     },
-    "570.93": {
+    {
       "requestid": "8742f0f2-6d27-40f9-ad9f-a8bd8daa2aa2",
       "confidence": "0.8275955",
       "timestamp": 570.93,
       "content": "almost the most active users are content experts so the people who read me articles about see the solar system are astronomers people who know a great deal about that subject",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "0f685231-a75d-4efc-9042-7fcf806a98b9"
     },
-    "581.8": {
+    {
       "requestid": "fb7bf446-d9d3-408d-a5fa-bed3a630c226",
       "confidence": "0.6596872",
       "timestamp": 581.8,
       "content": "what is the most active editors of all there's a small country of them show up one day on pluto because you might want to get kicked out of the planet club all the sudden really cute arguing about pluto",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "c2b8a31e-6722-4f4d-8a5f-80f0c17a0407"
     },
-    "592.63": {
+    {
       "requestid": "0595e463-7e12-4f3a-9d39-3200b64dcef6",
       "confidence": "0.8077024",
       "timestamp": 592.63,
       "content": "and the next day they'll be adding article about abortion and those people are people who don't so much care about the content of each article there people have committed themselves to the health wikipedia as a whole",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "a34bee90-a87c-4b1e-b4da-9a708d6d44ee"
     },
-    "605.86": {
+    {
       "requestid": "f69ec407-900f-4f38-8eb3-e5b53ce4ec6c",
       "confidence": "0.7208966",
       "timestamp": 605.86,
       "content": "and you need both sex it was just people who generically one wikipedia be good but didn't know anything in particular about pluto pluto article be terrible",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "17b3128f-87af-49b9-915e-90052d0bf990"
     },
-    "614.15": {
+    {
       "requestid": "62f8c918-7c74-469b-880f-087c47ccc2c3",
       "confidence": "0.7350832",
       "timestamp": 614.15,
       "content": "but if the people who knew all about pluto didn't have some defensive cord and they can rely on when this thing comes under attack big would've been sick and frustrated and leave do you have without these roles being assigned you see people going in and",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "92bc7ff2-4982-4a0a-8295-8ce08ee45777"
     },
-    "631.45": {
+    {
       "requestid": "02f0a45d-7874-4af0-bc9d-4a05b18b600c",
       "confidence": "0.7506378",
       "timestamp": 631.45,
       "content": "a sliding themselves into it says involuntary division of labor apwu in order to keep the system going in in ways that are better than if everybody was kinda doing the same job you know as everybody else",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "fda9fc8b-8916-42dc-a1b2-0c4ea21f4ae5"
     },
-    "644.74": {
+    {
       "requestid": "2fcea6eb-0d28-4be7-b787-882d2d3cf220",
       "timestamp": 644.74,
-      "content": ""
+      "content": "",
+      "uuid": "6d74a694-695c-4931-ab8b-ae5840c85fba"
     },
-    "653.19": {
+    {
       "requestid": "77514bcb-4591-4c03-9dc1-28bbab2e4f29",
       "confidence": "0.6472275",
       "timestamp": 653.19,
       "content": "undefined rolls voluntary divisions of labor but doesn't sound like any kind of hierarchy will you sing to does it",
-      "speaker": "S95"
+      "speaker": "S95",
+      "uuid": "a09cf9df-884f-45c1-acc3-d3e1fdcd7c88"
     },
-    "661.83": {
+    {
       "requestid": "8f0219ae-b165-4678-b4f0-12962d21e916",
       "confidence": "0.683437",
       "timestamp": 661.83,
       "content": "coming up on picking up the radio this create some obvious problems what do you think about the online ranisa patlynn forever right so that someone can say something hurtful and I can stick around and",
-      "speaker": "S95"
+      "speaker": "S95",
+      "uuid": "4f687020-a042-49ba-88f9-d0cd499e55b8"
     },
-    "677.09": {
+    {
       "requestid": "b30844fd-c668-4c1e-8699-55d2ddfa9182",
       "confidence": "0.5839819",
       "timestamp": 677.09,
       "content": "why some people are story",
-      "speaker": "S95"
+      "speaker": "S95",
+      "uuid": "9f8e815d-2f26-47e3-897e-22119f7391b6"
     },
-    "679.49": {
+    {
       "requestid": "dd0aa2f1-4c7d-4a3b-8fb1-3a9fa99331aa",
       "confidence": "0.6920858",
       "timestamp": 679.49,
       "content": "you hear all the <profanity>ass</profanity> this is saying all the technologies out running affect do with the brightness answers that's exactly what we want",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "528241bd-12aa-4f2d-9598-de32a7594ba1"
     },
-    "702.15": {
+    {
       "requestid": "4380e78a-984b-472f-8616-1cfac6cb1f51",
       "timestamp": 702.15,
-      "content": ""
+      "content": "",
+      "uuid": "81c8313e-dd45-4d67-a4f4-6ae07a7d38ec"
     },
-    "706.51": {
+    {
       "requestid": "8ad6fb6e-6532-4318-96c0-44522b45d883",
       "confidence": "0.7563886",
       "timestamp": 706.51,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "1d1ed21c-8c38-4640-907d-cf291ed0aadd"
     },
-    "718.72": {
+    {
       "requestid": "f28bff50-f998-41d4-b770-dacdff928eed",
       "confidence": "0.7224718",
       "timestamp": 718.72,
       "content": "clay shirky internet scholar is telling us today about how little oversight goes into the very bery bery bery bery best universe that week off the internet to guess things can get pretty chaotic online",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "861db4f7-cc62-4ea7-b0f6-6eed54c66dd8"
     },
-    "734.77": {
+    {
       "requestid": "521a4fee-0548-469f-9cbd-daa87e2fb70d",
       "confidence": "0.6445053",
       "timestamp": 734.77,
       "content": "but given its eyes when you speak to be much more so I aster cheta giver some numbers on the size of the internet weather measure in users or dollars or time spent there on",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "43056900-8962-4be4-b00b-542128002250"
     },
-    "748.24": {
+    {
       "requestid": "0358987a-120a-4137-86af-97089f90578f",
       "confidence": "0.6257254",
       "timestamp": 748.24,
       "content": "be interesting question but users is not what constitutes user but rather what constitutes dinner",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "e611461d-29c0-4ff1-83f5-c485626c5eaf"
     },
-    "755.16": {
+    {
       "requestid": "6555707b-d83d-4c0e-bc35-b7d1475d4f18",
       "confidence": "0.7018892",
       "timestamp": 755.16,
       "content": "because as the phone networks in the internet",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "bd5561cc-f299-427b-aff8-71421ed0a184"
     },
-    "758.01": {
+    {
       "requestid": "35926673-9dff-43b8-b0e6-70f0e4c2a05c",
       "confidence": "0.7580481",
       "timestamp": 758.01,
       "content": "are becoming more and more in tangled",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "cc7d9230-1ccc-4750-a269-683f1323f73d"
     },
-    "760.75": {
+    {
       "requestid": "d95b9e72-a470-4981-9fd3-266522a5b21c",
       "confidence": "0.7991946",
       "timestamp": 760.75,
       "content": "I the internet population looks to be something shive 2,000,000,000 but the number of",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "adec1031-2d95-47ba-9f3f-476380608e04"
     },
-    "766.43": {
+    {
       "requestid": "b6895d4d-064e-46d2-8769-f0d585d38518",
       "confidence": "0.8419039",
       "timestamp": 766.43,
       "content": "activated hansot account is north of 3,000,000,000 and you can make an argument when you look at the kind of hybrid uses of SMS in the internet in indian canyon egypt and so forth you can make an argument that the people using sms on their mobile phones",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "2efb9488-0e27-4f61-b843-a051fb69355f"
     },
-    "784.06": {
+    {
       "requestid": "cd6d5c39-8959-4973-83d8-edee123de30a",
       "confidence": "0.7009775",
       "timestamp": 784.06,
       "content": "they don't have the best devices that have the best connection but they are certainly connected to the same greatest we are so depending on how you define let's let's see the biggest grid that we will pick it big is the biggest grid",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "c8808648-f7d6-4514-99ca-065f1f22399f"
     },
-    "797.1": {
+    {
       "requestid": "37be804f-a6af-4594-9826-b62fb10b928d",
       "confidence": "0.790763",
       "timestamp": 797.1,
       "content": "if you're doing with the biggest grid that we wanna talk about which is said that the sum total of 2 people who can communicate with one another when are connected to it",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "1a4ca7a9-0c77-44f8-a942-9b91377fc552"
     },
-    "805.34": {
+    {
       "requestid": "89750f75-aa05-4943-9fe4-826475e42647",
       "confidence": "0.8784962",
       "timestamp": 805.34,
       "content": "that is about 3,000,000,000 people right now there is therefore",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "1ef4229f-9a5e-430d-863f-8d6564b5ad88"
     },
-    "809.16": {
+    {
       "requestid": "18ea9990-83b2-429d-97ea-7176c74cfefd",
       "confidence": "0.673947",
       "timestamp": 809.16,
       "content": "billion do who aren't yeah but how many of those are under fine",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "7edb19a2-1ffd-4e66-9843-1b0a26754863"
     },
-    "812.67": {
+    {
       "requestid": "61627e3a-d3b0-462f-ad71-91ca40a6b877",
       "confidence": "0.7586046",
       "timestamp": 812.67,
       "content": "yeah ok so is roughly a third of the population is under 15 which means for the first time in human history a majority of the world's adults or connect to take me to get sunscreen",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "555d560b-1ec3-4e23-b224-39d6a83677a2"
     },
-    "822.57": {
+    {
       "requestid": "27e36523-77f8-4d90-8f28-684b51a80951",
       "confidence": "0.6851032",
       "timestamp": 822.57,
       "content": "ok that's it will talk just adult what what percent of adults general dojeon with this is you know we're connected to what will call the communications grade reading the internet",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "95daf50b-f96f-41ce-80cb-217f52659ea4"
     },
-    "832.24": {
+    {
       "requestid": "1809e731-3e65-4a17-865c-e13299889997",
       "confidence": "0.5333161",
       "timestamp": 832.24,
       "content": "about 60% is it really yeah about 60% of the world the weather what is everybody else I would a big sandy planning eberg salingers unaab no I'm",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "a0f79e4c-d4f8-430f-ad10-b725ffb9e6e3"
     },
-    "843.59": {
+    {
       "requestid": "51a365a3-3e40-4868-9928-e6c8bd9b6b95",
       "confidence": "0.6869112",
       "timestamp": 843.59,
       "content": "it's now a little bit like at the deduction rate in the us because the us relied on commercial a commercial spread wirsen antenna rise and run state spread and because we were more repoxygen evennett we are more rural population in site south korea right the famous amos word country",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "d2d0cf65-fab6-450b-9cef-37df1ce55ec5"
     },
-    "862.81": {
+    {
       "requestid": "c164f6a8-9a67-460c-9fad-a2a75ecff2c1",
       "confidence": "0.7017195",
       "timestamp": 862.81,
       "content": "op when you cross the 50% mark for a population of large role",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "733508f3-700b-47b8-bda6-8ce69cbf6980"
     },
-    "868.9": {
+    {
       "requestid": "da662405-f92e-43ae-b3ca-b1764b8af99e",
       "confidence": "0.7785258",
       "timestamp": 868.9,
       "content": "are in a large role populations you start to slow down so what we've got is odd northern india much in lynn subs aharon africa bangladesh away from the large cities",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "3fd9f658-3e48-42bc-b1e5-5ebea4433a73"
     },
-    "881.17": {
+    {
       "requestid": "d9334670-7b7b-4939-8257-ca89949e9274",
       "confidence": "0.7478659",
       "timestamp": 881.17,
       "content": "I am in china and it will be slow going to connect those population but you know it buddy but is still happening",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "7d7dfcb3-64b6-4919-8778-2b8831ebc7a0"
     },
-    "889.52": {
+    {
       "requestid": "2cb77b1b-db06-42ff-87b9-f15f7b9cbf2f",
       "confidence": "0.6921256",
       "timestamp": 889.52,
       "content": "it's a 60% of adults around the world is there any kind of worthwhile dollar figure in terms of overall economic value I can I donate you know we're talking trillions of dollars we please leave me that no matter how human rights I see here's here's what I really want",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "862d7e94-a85b-458e-846a-96bcacfdd74c"
     },
-    "904.23": {
+    {
       "requestid": "9318f1c6-2979-4185-830e-e644833fe365",
       "confidence": "0.7544174",
       "timestamp": 904.23,
       "content": "so let's pretend for a minute they were talking about a machine that 60% of the world adult you stop and it generates or taksin um revenue I'm in the trillion up and it accounts",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "dc18adbc-31fa-4636-b0ca-399ac8b710a1"
     },
-    "922.34": {
+    {
       "requestid": "0864b3e2-aba7-4cb2-a619-34fd0f8843e0",
       "confidence": "0.7570195",
       "timestamp": 922.34,
       "content": "I'm in that involves and I will make up a number I don't have a number of the hours per day that that media in adults I will be done",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "24fd0ec6-1187-4b79-afa0-63520deb9855"
     },
-    "930.46": {
+    {
       "requestid": "f35b898c-8f34-48a2-851e-327c59c8362b",
       "confidence": "0.7026753",
       "timestamp": 930.46,
       "content": "email did you get it so I don't because it's so",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "60860a94-4ff5-49ae-b15e-a6c86caf8eb3"
     },
-    "934.36": {
+    {
       "requestid": "7b2fdf89-fcad-4f8b-8ab8-8a8bc7c5da2a",
       "confidence": "0.8196896",
       "timestamp": 934.36,
       "content": "variable between countries licaria where the number can be in the median number",
-      "speaker": "S140"
+      "speaker": "S140",
+      "uuid": "7985b7cd-1aba-4aeb-909c-745bbb1c00f5"
     },
-    "939.42": {
+    {
       "requestid": "183001ac-e029-4d63-b250-9d6a12dd84d3",
       "confidence": "0.5894564",
       "timestamp": 939.42,
       "content": "B16 o tires at 6 hours a day where do I fit bit but then there's also",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "408323ad-beb5-4c6b-8f03-a15d66533e96"
     },
-    "945.1": {
+    {
       "requestid": "16d79bcd-20f5-474c-86a1-aa76b4ba7a0e",
       "confidence": "0.8344938",
       "timestamp": 945.1,
       "content": "question of how often are you online when your iphone in your pocket in doing something on your behalf in the background are",
-      "speaker": "S140"
+      "speaker": "S140",
+      "uuid": "838dbed8-cef0-4297-9d03-1a835c64be94"
     },
-    "951.39": {
+    {
       "requestid": "1567ef80-f71b-40f4-b2d8-7e3ba7825c81",
       "confidence": "0.7551799",
       "timestamp": 951.39,
       "content": "yuhuan long will it be very conservative will say half an hour half an hour super concert at that is fine that is very contagious and I were talking 60% of adults worldwide trillions of dollars half an hour",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "90c38ad1-0946-4dae-b3e9-e90caad0d0c1"
     },
-    "962.87": {
+    {
       "requestid": "0f9ebab9-8bcb-4e0e-8dab-ecc9d2778810",
       "confidence": "0.7791468",
       "timestamp": 962.87,
       "content": "day on a machine or in within an institution for one define is an institutional compare for me then the regulation and policing an oversight that goes into that machine with a more traditional out organization that has 60% of the world's population in chile",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "2844215f-9f30-48cb-b0dc-a107b0e95de6"
     },
-    "982.55": {
+    {
       "requestid": "cf175ec2-a7ce-4631-980a-d7543903d8a1",
       "confidence": "0.706852",
       "timestamp": 982.55,
       "content": "dollars now it's me a famously famously the regulatory overhead on the internet is permissive and minimal and in fact",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "f8a6aa21-ed79-4ccf-b0a3-fabeff9b3ba9"
     },
-    "991.04": {
+    {
       "requestid": "7f97eccc-e5aa-4bfa-b43f-43b324cf3a5e",
       "confidence": "0.7379154",
       "timestamp": 991.04,
       "content": "the thing that freaked everybody out about it in the 90s win win this thing is spreading on the wings of the web",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "947b8f10-a421-4281-a507-0ddf2ae6157c"
     },
-    "998.31": {
+    {
       "requestid": "ef85a4c2-f201-40c3-97ec-9faa6a60b978",
       "confidence": "0.8205487",
       "timestamp": 998.31,
       "content": "was that no one was in charge I'm in in particular that the thing was designed to be completely oblivious to national borders",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "75e549d2-2407-446c-9052-e6f4275e88b0"
     },
-    "1008.54": {
+    {
       "requestid": "c5c8246a-a746-4bd9-a092-a25ca2309e4c",
       "confidence": "0.7541906",
       "timestamp": 1008.54,
       "content": "right and it was it was a weird accent of broadcast technology right literally signals going to the air you think that this would somehow skate nation states that because radio engineering circa 1920 so crappy",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "c8ee2a95-1ef6-42aa-996a-ebe0e7a90ebe"
     },
-    "1022.0": {
+    {
       "requestid": "7da47f40-672a-4cb3-8157-ee4fc0c3cd66",
       "confidence": "0.6750025",
       "timestamp": 1022.0,
       "content": "broadcast radio and tv stayed inside national bandages because the broadcast towers had to be near the receivers for the unit was the first one really big group oriented transnational medium",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "9a3e4160-823b-4a88-afa4-e77e9b180c80"
     },
-    "1035.63": {
+    {
       "requestid": "745c9d87-ddd0-41e9-a409-7fa44d788700",
       "confidence": "0.7068089",
       "timestamp": 1035.63,
       "content": "and their famous stories of bosses fretting that because all of their employees were suddenly sending international emails that they would someone gonna be <profanity>shit</profanity> with the bill by the people who are in the end",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "1fad4a8a-cf27-4cdb-9639-ae38133a7820"
     },
-    "1045.6": {
+    {
       "requestid": "6ab171a6-62b4-4baa-931e-5ec9a66db83b",
       "confidence": "0.7967062",
       "timestamp": 1045.6,
       "content": "and it took some time to realize there is no people that run the internet and therefore there is no bill at once you know its infrastructure that everybody pays for that everybody gets to use",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "b4ea0766-69ca-4ff6-b84a-35ce76bbf0c0"
     },
-    "1055.27": {
+    {
       "requestid": "083195c4-cc6b-4e0f-bab4-ed068ee04bb3",
       "confidence": "0.7344437",
       "timestamp": 1055.27,
       "content": "and that the history of the internet and why is been the history of building up",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "989bdfcf-4c59-4375-b184-06ec93210be7"
     },
-    "1060.75": {
+    {
       "requestid": "de2f1698-68f1-4823-82a0-feb665ef1449",
       "confidence": "0.7403466",
       "timestamp": 1060.75,
       "content": "regulations in the fight that the regulatory finder on the internet is precisely around regulations designed to preserve a degree of openness of interconnection news vs regulations designed to limit at exactly that time",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "6aa8d850-eed0-4a61-bdc3-1531e41cc987"
     },
-    "1074.68": {
+    {
       "requestid": "d5b8c73e-4508-4433-a881-5bacd066439f",
       "confidence": "0.7859462",
       "timestamp": 1074.68,
       "content": "so get this the thumbnail history of regulation of the internet where did the appetite for regulation come from premier league and how successful have those people are institutions been at trying to regulate it is a wish",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "aade0072-b1e5-43ff-9082-a88ec077c389"
     },
-    "1088.38": {
+    {
       "requestid": "826b175a-773f-4143-b1bc-4b2b6c611856",
       "confidence": "0.7397451",
       "timestamp": 1088.38,
       "content": "you know the appetite be appetite as as almost always come from multiple places depending on who you're talking about today was there was appeared in the 90s where people were very concerned about the moral afexa be in as they famous they were about paperback books and comics whenever new medium comes along are people bring their hands but this tax on used",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "3e63b2a7-7f8d-4560-aa35-ec13ec4bf745"
     },
-    "1108.11": {
+    {
       "requestid": "a5446b84-6a88-453b-9b6c-7a3a9a3c6c12",
       "confidence": "0.7605043",
       "timestamp": 1108.11,
       "content": "and it has to be said that the conservatives when they worry about the social effects of new communication technology car almost always crack right when the victorian said my god of this telephone think spreads the way men and women court one another will be completely blown up compare darcourt norms which indeed is exactly what up",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "82c3a9a5-ca30-4f90-90bf-b086312b6719"
     },
-    "1126.24": {
+    {
       "requestid": "22c98611-a351-4b55-a598-6aa7a9b26200",
       "confidence": "0.6419599",
       "timestamp": 1126.24,
       "content": "I'm peoples rokenrol believe the race mixing well go get there you go",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "68f7c0c0-d020-4d86-9f7c-334dd390a7e1"
     },
-    "1130.12": {
+    {
       "requestid": "35c370d2-09fb-4c04-9fc7-afc2e9d426f6",
       "confidence": "0.7646036",
       "timestamp": 1130.12,
       "content": "so the people worried about the moral effect of unit which is the site will be impossible to create an environment in which children only learn their parents view of the world is is in fact completely cracked",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "fd89a8c5-4340-454b-8b94-a621c1523ff2"
     },
-    "1142.11": {
+    {
       "requestid": "ef909b3e-a751-4aee-9f60-ecd8da1cce96",
       "confidence": "0.7567834",
       "timestamp": 1142.11,
       "content": "and there was an attempt at that time with the children on my project nakens of what to bring about a set of on the bus bills it would feel to the side door causing the moral panic",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "dca446df-e356-4c89-999a-481d4d292a8c"
     },
-    "1151.35": {
+    {
       "requestid": "0af268e0-293e-4843-b923-77cda0415168",
       "confidence": "0.7073698",
       "timestamp": 1151.35,
       "content": "let me ask if this more kind of the broadway in may be more naively let's say we could step back 50 years and I would say to you um play um I would like to propose a scenario whereby I'm everybody has a computer I'm done and ask it in your pocket or down there",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "3c86ea7f-971a-4e18-a626-119044c980f8"
     },
-    "1169.92": {
+    {
       "requestid": "d6a3a4ac-f478-418b-8bd6-2c8513deb885",
       "confidence": "0.7777905",
       "timestamp": 1169.92,
       "content": "eyeglasses and in that computer you can use it to output you can broadcast you can take in just about anything you wanna do anything you wanna write you chameli published everybody else don't want anything you wanna sell create",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "857df232-3484-4c11-a43f-6a6a2fa78f62"
     },
-    "1185.34": {
+    {
       "requestid": "ff5afda3-bcf8-4162-8cc9-e4e200a19691",
       "confidence": "0.7426794",
       "timestamp": 1185.34,
       "content": "sing cup draw steel invented ceterum and anybody can communicate with anybody else pretty much for free",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "3e5fa4bc-74e3-4391-881a-d2fc8db5d23c"
     },
-    "1193.37": {
+    {
       "requestid": "18766299-a59a-47dc-865a-17448ae86a06",
       "confidence": "0.7262985",
       "timestamp": 1193.37,
       "content": "and I'm I can sell stuff you can buy stuff including number physical goods organs are you can sell sex some things are listen elicitor if I would describe you that scenario",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "35e748fb-0990-4a52-81a6-50ef53ec3bea"
     },
-    "1205.21": {
+    {
       "requestid": "48c5303d-e5e7-4869-af22-34abb3545b2b",
       "confidence": "0.6799617",
       "timestamp": 1205.21,
       "content": "and I would ask you clayton draw up the regulation",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "7ee88de3-bc41-44d9-868a-d2caf0f9e2ad"
     },
-    "1209.6": {
+    {
       "requestid": "eecbe1be-b035-4d26-a183-bcbdaf46f2ef",
       "confidence": "0.7980712",
       "timestamp": 1209.6,
       "content": "legal in otherwise that would improperly constrain vet at what would you do and how would it be different from what we actually have so III have",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "cb1af28b-f318-4d92-830e-931181c70e41"
     },
-    "1219.5": {
+    {
       "requestid": "372f9242-ecce-4727-a95e-749538505df4",
       "confidence": "0.7114471",
       "timestamp": 1219.5,
       "content": "will it be easiest way of bending this question which is the most disappointing for radio elass which is that I'm a pragmatist upper case",
-      "speaker": "S140"
+      "speaker": "S140",
+      "uuid": "fde18197-611b-443d-a838-f8c1cc9fed28"
     },
-    "1225.52": {
+    {
       "requestid": "26b8af10-128d-43ce-88f3-9d76e0bbc550",
       "confidence": "0.6835044",
       "timestamp": 1225.52,
       "content": "be in the tradition of john dewey I end up writing with this regard a lot of the solution to these problems things that you know is after my students who tried advance 2 up forced all the problems they might have in their developing things",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "ad9b218b-e85c-481c-8026-4a2e0dafeb6a"
     },
-    "1241.08": {
+    {
       "requestid": "8f703402-d2d2-47ed-8499-33e4db91f58f",
       "confidence": "0.6790869",
       "timestamp": 1241.08,
       "content": "what does a large class problem she don't solve until you have right you hear all the athesis sing older technologies outrunning athex do with the brightness answers that's exactly what we want if you and I would sit down now and say well it's drop regulations for time travel in telekinesis we would either it's ridiculous question",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "f9083c0d-d641-47e4-a6ad-89794194e355"
     },
-    "1260.51": {
+    {
       "requestid": "9db4b5b4-05a4-4376-a794-9b377894358f",
       "confidence": "0.6920075",
       "timestamp": 1260.51,
       "content": "so although I don't think I could point to the current regulatory environment newnam decidedly claroline say we've got it exactly right",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "9823cafc-ed9b-4b19-91f1-e5a9cc244fa9"
     },
-    "1269.12": {
+    {
       "requestid": "d1e57bf4-188b-48c0-a5fa-58cda8e9c175",
       "confidence": "0.7410235",
       "timestamp": 1269.12,
       "content": "I can absolutely promise you that any one looking at this at 50 years remove would've been absent hash of this because it was impossible to imagine what the second order affect the technology would be in fact one of the things I study when I study social media",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "6be08521-5ccd-4699-8e71-fc875612d18c"
     },
-    "1288.54": {
+    {
       "requestid": "58ebffaf-938f-4d6d-8449-b2527777669e",
       "confidence": "0.8457844",
       "timestamp": 1288.54,
       "content": "is the ways in which people got a lot of the early theorising about this network right about taxes today to access the content",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "0795dba7-ccbb-482a-9c61-6b87e643a1e3"
     },
-    "1297.2": {
+    {
       "requestid": "c2c75ccb-d2c4-4fc3-8952-96e21f8a8a0b",
       "confidence": "0.7220715",
       "timestamp": 1297.2,
       "content": "and they completely missed or misunderstood the social aggregate exactly and put it with the group communication but it is much to replace is the telegraph to tell my wife why do you",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "0326040d-4ad2-4e35-957a-0621a9bda16c"
     },
-    "1309.85": {
+    {
       "requestid": "c6db3d56-aa94-44f2-a007-b0dae40f87ef",
       "confidence": "0.7180346",
       "timestamp": 1309.85,
       "content": "that is I have a theory which I'm sure is not not alright but I'm theresa new years",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "d8c6503b-4cce-4a27-8124-6493f4f49f7d"
     },
-    "1314.64": {
+    {
       "requestid": "320f97e0-95b1-4443-8c46-20027ba9088b",
       "confidence": "0.6778727",
       "timestamp": 1314.64,
       "content": "it's a thing for 2 reasons one people hub in normas anxieties about social change that they don't but other kind of technological changes",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "eb7b8068-2e17-45ab-b63e-2a9ff9284315"
     },
-    "1323.96": {
+    {
       "requestid": "3c97b32f-baa3-4069-8612-eeb77d125848",
       "confidence": "0.711674",
       "timestamp": 1323.96,
       "content": "antiword about this a little bit in in in my facebook and here comes everybody I grew up when popular mechanics wisanger your flyer flying car to work and you know you're you're white you don't yeah I would have a last citibank is the best website to do the switch and your house wife of wife will have all plastic furniture the chicken hose off",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "c62e6247-68be-4698-b5e6-84f75121d620"
     },
-    "1343.77": {
+    {
       "requestid": "871cbadd-1085-4246-a1d5-53b56ccd89f3",
       "confidence": "0.6069198",
       "timestamp": 1343.77,
       "content": "with the idea that gender relations with change no we're not keeping in mind when can I can ever suggested that anything out of me going to work in my wife staying home is gonna be the norm",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "de8fe358-a9d6-428b-949e-d1a42a5578e1"
     },
-    "1354.25": {
+    {
       "requestid": "f4652def-70df-4d00-af0f-28e2ed220529",
       "confidence": "0.6516935",
       "timestamp": 1354.25,
       "content": "and so we would have big argument about which to do you use this space age resist a nuclear in the 1970s is this a space adraktas nuclear return it was neither it was the transistor 8 in the birth control pill at those with a really important technologies",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "1a73eff8-e1fd-46cd-9624-c0c61168739f"
     },
-    "1370.38": {
+    {
       "requestid": "8ffae713-4166-4466-8906-e3a73ecdc3f1",
       "confidence": "0.7541668",
       "timestamp": 1370.38,
       "content": "in the report not because they were big hero photo ready government project but because with individuals chose to do with him and aggregate lead to social change that no one was in control of",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "80d07bb5-dba0-4f44-bbed-3fdb2ac849b6"
     },
-    "1380.71": {
+    {
       "requestid": "d2da7ed3-e3a9-479c-83cf-b9aea83e1e79",
       "confidence": "0.7671452",
       "timestamp": 1380.71,
       "content": "so the the idea of trying to guess what technology will do in regulating advance is to me I think will miss the surest way to guarantee just by the way the regulation would be structured",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "1066edae-12b6-4117-9a62-8eeadc57514d"
     },
-    "1394.28": {
+    {
       "requestid": "a9c187e1-4e8e-4e19-a643-97e2d90466aa",
       "confidence": "0.6482197",
       "timestamp": 1394.28,
       "content": "the miss out on the opportunity to say happy to win win the bioethics group is convened under borchmann this is off the subject munits pudding made the same mistakes which is essentially",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "2ef93dee-5c91-48da-841b-72582dd0ad1a"
     },
-    "1405.01": {
+    {
       "requestid": "012e4e09-68fd-45c2-8d1f-41b61b3c95e3",
       "confidence": "0.6496104",
       "timestamp": 1405.01,
       "content": "bing imagine what we could do with dimmesdale's deglazing idina mencel for standing from a position of things were just barely possible",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "9c7caedf-7339-4bc1-9567-997ed2d5ab56"
     },
-    "1415.18": {
+    {
       "requestid": "7fdda94f-cc21-415f-8686-afbffefb9263",
       "confidence": "0.8217358",
       "timestamp": 1415.18,
       "content": "and that kind of regulatory hand is in general the worst way to figure out with a new technology can do",
-      "speaker": "S110"
+      "speaker": "S110",
+      "uuid": "0704a2eb-6850-49ce-bed8-ef3e8c22467c"
     },
-    "1423.27": {
+    {
       "requestid": "743b8e6c-744d-4944-acef-bb15f563c7b0",
       "timestamp": 1423.27,
-      "content": ""
+      "content": "",
+      "uuid": "4b1b227d-8d21-42ed-af30-809a13766634"
     },
-    "1433.27": {
+    {
       "requestid": "ed6da487-5266-4bc9-b816-ce8979161848",
       "confidence": "0.6641747",
       "timestamp": 1433.27,
       "content": "so clean shirt is point is well taken it's a full game to try to anticipate any given new technology rollout weather from a regulatory angle or otherwise",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "95ee8ebc-1bd5-4f7a-b5e6-aae44c607a44"
     },
-    "1446.08": {
+    {
       "requestid": "ad624276-62f7-4689-a55a-194b8f4f8e75",
       "confidence": "0.7203636",
       "timestamp": 1446.08,
       "content": "is niels bohr is said to win said prediction is very difficult especially if it's about the future who would have predicted for instance all the nastiness that happened on line in video games and so on",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d5ee71bf-78f8-4c29-b562-920de4679bd0"
     },
-    "1462.14": {
+    {
       "requestid": "7e77369f-54e9-4ea2-a93c-c93229618043",
       "confidence": "0.5597469",
       "timestamp": 1462.14,
       "content": "might result in less nastiness in the real world for steve 11:15 PM",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a4f310fb-5bb7-4a7a-95c7-39fd495a9856"
     },
-    "1467.94": {
+    {
       "requestid": "b989cd6d-eae3-4cb1-9105-afab5b012462",
       "confidence": "0.7436816",
       "timestamp": 1467.94,
       "content": "keralite when you look at the data is that adolescent male spend an inordinate amount of time I playing video games and I don't know the actual numbers are but I think I think now that that goes to the number to rush card and it did she pass tv watching",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "91e53762-ac79-4071-b6d5-162af9bdeba6"
     },
-    "1483.78": {
+    {
       "requestid": "8eeb1716-7f65-4baa-8989-166c3d467a9d",
       "confidence": "0.837457",
       "timestamp": 1483.78,
       "content": "well and the other factors that the number of crimes are committed in the world are disproportionate committed by young men so it wouldn't be such a leap should assume that the prominence of the one would potentially decrease the other",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "e114570c-59fe-4a03-942a-a89f0453fe35"
     },
-    "1497.1": {
+    {
       "requestid": "c601baf0-dee0-49a1-8883-c391fab9e1f7",
       "confidence": "0.7787046",
       "timestamp": 1497.1,
       "content": "after I think anything you can do to keep adolescent in 20 something men busy is likely to reduce crime me whether it's working on a job where there having them in school at weather tavington play video games until 3 in the morning",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "4ae369d1-03c4-4a2d-af7a-300e9bcb456b"
     },
-    "1512.86": {
+    {
       "requestid": "fe16a82a-a52d-42ee-aad9-d0abe392c750",
       "confidence": "0.6904034",
       "timestamp": 1512.86,
       "content": "get the kids are doing that there not out doing well it got a joke I think the premises incredibly simple and it just seems to be the case empirically",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "005a8fed-d66d-4671-9441-d17f588aa1b4"
     },
-    "1522.03": {
+    {
       "requestid": "0e5d8dce-0377-49cc-a5da-cdedfd059987",
       "confidence": "0.8081771",
       "timestamp": 1522.03,
       "content": "that's what young men love more than anything else is video game say they like that more than school that the more than tv they play like that yeah it's much is anything we can find",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b6c4db4d-6093-4dc7-ac1c-4a5bf2254e1b"
     },
-    "1533.63": {
+    {
       "requestid": "4cee31c5-f998-4ed9-b291-d8b5f0ce5aa7",
       "confidence": "0.7796032",
       "timestamp": 1533.63,
       "content": "and it's one is great examples where I have unintended consequence note is there a lot of incredibly strong careful academic work that supports the conjecture just made probably not but on the other hand",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "9a989e57-b350-4574-9710-94bc27041020"
     },
-    "1547.19": {
+    {
       "requestid": "939f39ab-3341-4f48-a3b3-c8af19ac8755",
       "confidence": "0.732347",
       "timestamp": 1547.19,
       "content": "I think it just answer is annette if he if you find an activity to keep potential criminals busy for him sick waking hours a day then you probably make sense to go to be doing this time",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d0630048-2551-465b-a44b-19f0f1a428ab"
     },
-    "1558.54": {
+    {
       "requestid": "69cb2d01-23b8-452c-8679-a8d76e10c3aa",
       "confidence": "0.8036773",
       "timestamp": 1558.54,
       "content": "and theoretically the more portable directivity gets IE smart phone on the subway the better off everybody else",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "44bb29b2-1ad9-4f6f-8481-1c6080936cfe"
     },
-    "1565.04": {
+    {
       "requestid": "a39f71eb-437f-44e0-aead-d0ce44bdc98b",
       "confidence": "0.7476704",
       "timestamp": 1565.04,
       "content": "me too you taking I'd even further dubner in the idea that would let this not just distracted when I get home at keep them distracted even when there out on the streets trying to plan and I like that idea the only possible counterexample I can pick up to it is",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "c0994e7a-e9bf-47bc-ad54-937838f00df8"
     },
-    "1578.5": {
+    {
       "requestid": "ba9e0f02-ee54-4cd2-8525-e3e3dfb1b7aa",
       "confidence": "0.7793874",
       "timestamp": 1578.5,
       "content": "that if you make video games only available at home you guys never leave your home and if you make mint available everywhere and you can play video games when you're in the summer than in the subway all the time in and then you take a minute to a family video game plan to commit the crime before going back to take to go either way",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "3486b48d-f24d-47c3-bac9-659abb0a4ef8"
     },
-    "1594.82": {
+    {
       "requestid": "b4afbabe-731f-4e36-a4cb-61d951b66651",
       "confidence": "0.72404",
       "timestamp": 1594.82,
       "content": "remind me of the one messing bettasso dirt dirt schools of thought about the way people should behave online in",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "7a19ed1a-65e0-4b7c-9e0e-c95b3e2b5f81"
     },
-    "1603.78": {
+    {
       "requestid": "2705b1ea-5187-4110-8827-cb867778dc12",
       "confidence": "0.8146618",
       "timestamp": 1603.78,
       "content": "these days with most people being on line everybody is engage in this at some point so even if its you know you read a newspaper on line are you read blogs are you tweet new tweet we would either say",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "9d440c5b-23f6-4e74-9b87-783937986008"
     },
-    "1615.27": {
+    {
       "requestid": "230d36a8-183d-4857-8616-e26fe54e5b5e",
       "confidence": "0.8626282",
       "timestamp": 1615.27,
       "content": "there is a concern about nasty people right ad hominem attacks and people being insulting and rude and vulgar and racist in so it to the point where nelson publications air france and shutting down comments sections rathan have to deal with it",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "14d7b563-2135-4b5b-964c-52b7346ceef3"
     },
-    "1628.87": {
+    {
       "requestid": "a1762aaf-8fb6-4fb6-a333-fcd95c750ef9",
       "confidence": "0.7825698",
       "timestamp": 1628.87,
       "content": "so I understand the cost of atlantis know why people get upset about it um but I feel when I'm curious what you feel I feel that the more that people are allowed to rent online the better off society will be on net because",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "a0ccd793-6037-4569-805b-5aabab5cf4e1"
     },
-    "1646.26": {
+    {
       "requestid": "8c600bec-864a-4ced-ac8b-41910b6ee46f",
       "confidence": "0.7770865",
       "timestamp": 1646.26,
       "content": "if that virtual ranting can let them get to ya ya's out in their anger out and there whatever l then it would stand to reason to me that there's a a smaller likelihood",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "cb1b1a20-8768-4ec2-9d3f-1dd522ff4f98"
     },
-    "1658.06": {
+    {
       "requestid": "ad0fc56b-9bb1-47b9-8b6f-af509ad1b4da",
       "confidence": "0.7341573",
       "timestamp": 1658.06,
       "content": "that will actually punch somebody in the face for real at the grocery store if they can punch somebody in the face maybe it's us that they punch on the face virtually what is white one reason why we let people say turbo things out of my mind at all it's gonna be great to have that filter in slow I'm curious what you have to say about that",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "71b37ef3-4d64-45c7-9ee7-06db8e56702c"
     },
-    "1675.46": {
+    {
       "requestid": "e5e06e9d-648f-460f-99e4-12a2a920902a",
       "confidence": "0.8006753",
       "timestamp": 1675.46,
       "content": "why I think that's hard because number one I think people feel lot of pain",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "c3b0ffd6-b5d6-457e-9e9b-a2fa8c598183"
     },
-    "1682.78": {
+    {
       "requestid": "c583782d-aa18-4257-8b60-f57a302a9ac8",
       "confidence": "0.724757",
       "timestamp": 1682.78,
       "content": "from those kind of online ranciere implicitly saying that the punch in the face is far worse than the on minecraft cracked but it's not completely clear to me that that that sexy true that that the amount of pain I'm in is one of the things about the online ranisa play live forever right so that",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "9b9b50dd-a439-4507-a145-6848b28375f1"
     },
-    "1699.04": {
+    {
       "requestid": "2836a44d-876e-4ab1-87c2-4e5ad8e66e46",
       "confidence": "0.7440928",
       "timestamp": 1699.04,
       "content": "tell me can say something hurtful in a can and can stick around manhunt you on and on and on",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "185bc273-f800-4db7-ad30-bc87257d2057"
     },
-    "1705.18": {
+    {
       "requestid": "899e27ce-a2a6-4965-a7c7-96dacaccc733",
       "confidence": "0.7233068",
       "timestamp": 1705.18,
       "content": "the other thing is that what are the reasons people don't do so much of this sort of renting in fighting in public if it's really socially I'm not excepted very much",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d7060ccc-5942-4503-ace6-55636d4b84e8"
     },
-    "1715.91": {
+    {
       "requestid": "5adfc4c1-7677-4e41-ba76-8a88d4b803f7",
       "confidence": "0.7048571",
       "timestamp": 1715.91,
       "content": "and I think there's a reason it's not socially accepted it because it is it is not very costly for the rant werbung pretending very very costly for the person who gets rented against nitish remind me I know why of win super freaking out came out we had the stuff on climate change",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "03608b2a-49f3-415c-9df4-012a6348c337"
     },
-    "1733.36": {
+    {
       "requestid": "d29aba01-22d5-4947-8002-7eb0433fe063",
       "confidence": "0.7208506",
       "timestamp": 1733.36,
       "content": "in the online rance",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "1c578317-f986-4616-8bfe-9acb98c5546e"
     },
-    "1735.77": {
+    {
       "requestid": "21094f1f-9c71-4212-98b8-91c3df939054",
       "confidence": "0.5800515",
       "timestamp": 1735.77,
       "content": "intersport were untrue they are absurd they were I'm at home",
-      "speaker": "S268"
+      "speaker": "S268",
+      "uuid": "9b352a96-3ea9-4619-9112-81c1dbdb4d7b"
     },
-    "1741.57": {
+    {
       "requestid": "96e8e897-7f69-45e1-b0aa-b35f60bdbef2",
       "confidence": "0.8155048",
       "timestamp": 1741.57,
       "content": "oh <profanity>shit</profanity> to do <profanity>shit</profanity> a bad ugly situation",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "3c24287b-f1d7-4b08-b633-825079bbae66"
     },
-    "1745.84": {
+    {
       "requestid": "78f25522-7861-458a-92d1-152e4c4c2cf4",
       "confidence": "0.7739803",
       "timestamp": 1745.84,
       "content": "where a group of people who are very motionbox",
-      "speaker": "S268"
+      "speaker": "S268",
+      "uuid": "67e3759e-1c72-45ac-8a2f-94bf5e145e2f"
     },
-    "1749.52": {
+    {
       "requestid": "e4e9172a-7d5a-4f7c-b903-4472fc56d0e9",
       "confidence": "0.7999901",
       "timestamp": 1749.52,
       "content": "were saying you worked it since in in unison to try to discredit us and we really didn't have a good vehicle for fighting back but but when I remember so vividly remember I think it was in washington dc where we were giving a talk",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "1a547f4b-82c6-4348-9024-f0b9f36344b4"
     },
-    "1763.74": {
+    {
       "requestid": "2e19380f-94fe-42c5-af3f-bbcdbc19af5c",
       "confidence": "0.7436851",
       "timestamp": 1763.74,
       "content": "and a heckler got outta here n began ranting in exactly the way that the online transfer going against us and the people we are is just told him to sit down and what is so weird is that he said down and he was so bullied in so easily how did buy a few people saying don't do that",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b459033f-a6be-4c38-9314-47110e72815a"
     },
-    "1782.51": {
+    {
       "requestid": "88c4bcd1-9271-4edc-8e48-7b26efcbaac9",
       "confidence": "0.7400447",
       "timestamp": 1782.51,
       "content": "and if he's we gotta say a little bit of his peace and we got responded but it was somehow tied to be much more productive then if he had just rented and rent in brandon had let us talk tonight which is really I think what you get",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "55c0e8c0-d95c-4e9e-8429-f149527a13e1"
     },
-    "1795.91": {
+    {
       "requestid": "c3f27073-341a-4c79-8139-5352ade300e9",
       "confidence": "0.8086752",
       "timestamp": 1795.91,
       "content": "on line so I don't know I'm not I'm not really that much in favor of giving image",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "f8e77fe8-cac2-41e7-9c50-bef683dd93fc"
     },
-    "1801.92": {
+    {
       "requestid": "a249d8c0-422b-4cdf-9a8e-21420a9caf27",
       "confidence": "0.7638805",
       "timestamp": 1801.92,
       "content": "people can rant but it's such a hard job for other people to sort out what's true and what's false that rents that can't be verified for truth I think you're terrible and we don't have a good online way of",
-      "speaker": "S268"
+      "speaker": "S268",
+      "uuid": "cf86be33-9f8e-4edb-84bd-c85d8e59886f"
     },
-    "1819.03": {
+    {
       "requestid": "487a480e-f4fb-42fe-8b28-d12508ef36e5",
       "confidence": "0.5781004",
       "timestamp": 1819.03,
       "content": "sing weather things are true and I'm an attractive the cost",
-      "speaker": "S281"
+      "speaker": "S281",
+      "uuid": "9ce19283-52e0-4b77-9fd5-66ab95e01ac3"
     },
-    "1831.06": {
+    {
       "requestid": "01117613-5cb9-4531-a6db-767e632aa5eb",
       "confidence": "0.6747689",
       "timestamp": 1831.06,
       "content": "but where will be this week on virtual nastiness versus real nastiness out the internet police's itself but I got a bigger appetite this kind of things or next week program we asked a similar but bigger question",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "b8330200-26c5-433f-8681-2aabaa88f226"
     },
-    "1845.32": {
+    {
       "requestid": "59fcbdd4-06e6-480b-a254-d6bfb5d531a3",
       "confidence": "0.766807",
       "timestamp": 1845.32,
       "content": "if the internet is generally speaking at self organizing self policing organism",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "8f11c501-bf23-4fb9-98a9-3402788e70fa"
     },
-    "1852.53": {
+    {
       "requestid": "a6a6eb1c-ee5b-4b12-b98b-da6135dcee3c",
       "confidence": "0.841382",
       "timestamp": 1852.53,
       "content": "could the same be said about the world in general is there really someone in charge as much as we think the answer the question will start where else",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "f807bc27-9bbd-4343-b376-d7e61f1feaf9"
     },
-    "1864.0": {
+    {
       "requestid": "95c1aecb-e6db-4bec-9063-9d5eda14e46c",
       "confidence": "0.7286651",
       "timestamp": 1864.0,
       "content": "the skating rink close to hear from bill bradley",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "3ed97bdd-c13a-4216-b2d1-906b4e41a3fe"
     },
-    "1868.34": {
+    {
       "requestid": "a1caad64-77fd-4e23-b486-7d1e02250227",
       "confidence": "0.6754649",
       "timestamp": 1868.34,
       "content": "really be at the house of lords ridleys alexi lawless",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "39ca7b1f-1516-4bb7-bcab-a29527903b04"
     },
-    "1872.42": {
+    {
       "requestid": "8b816c7e-f4f5-4477-aadd-6834a3f0dc24",
       "confidence": "0.733709",
       "timestamp": 1872.42,
       "content": "and it take to the field with some ultimate players ultimate frisbee to people don't know any better to see what happens when you play a sport with no referees travel",
-      "speaker": "S290"
+      "speaker": "S290",
+      "uuid": "568e8252-7614-4e76-aee8-b55d91bc2591"
     },
-    "1883.76": {
+    {
       "requestid": "1cca4dcf-bf3f-4aac-9fb6-86e93f8f2c45",
       "confidence": "0.5544979",
       "timestamp": 1883.76,
       "content": "would like to stick it up your stuff next time we can I mix radio",
-      "speaker": "S290"
+      "speaker": "S290",
+      "uuid": "73a16ebe-cdee-4456-b3a3-445f9a9ea7d9"
     },
-    "1896.08": {
+    {
       "requestid": "b48847c2-0062-487e-a332-8b171eaf808a",
       "confidence": "0.7370052",
       "timestamp": 1896.08,
       "content": "freakonomics radio is produced byWNYCN.net production our staff include david herman greg rozalski predacons breiland susie lechtenberg in crispins in with engineering help from eric jacob",
-      "speaker": "S294"
+      "speaker": "S294",
+      "uuid": "871152ac-afbd-4b6f-9cb2-1bf87bd05847"
     },
-    "1909.67": {
+    {
       "requestid": "7398bf5f-9a8c-4c59-abe5-8c2a89bef440",
       "confidence": "0.7838733",
       "timestamp": 1909.67,
       "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio log books and more",
-      "speaker": "S294"
+      "speaker": "S294",
+      "uuid": "9e1b7157-a0b1-4807-a504-bafda160a650"
     },
-    "1935.78": {
+    {
       "requestid": "bd18120a-62a5-4747-b4d6-81c68bd54d03",
       "timestamp": 1935.78,
-      "content": ""
+      "content": "",
+      "uuid": "9d6f4040-8b0b-4988-b112-bf68ab6b0679"
     },
-    "1938.13": {
+    {
       "requestid": "433ec296-d842-405b-886b-58f708919f81",
       "confidence": "0.8236471",
       "timestamp": 1938.13,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S121"
+      "speaker": "S121",
+      "uuid": "b52be8eb-452d-480b-ab93-981581b0a2e9"
     },
-    "1957.4": {
+    {
       "requestid": "85d27499-2d98-47da-8961-039bf302d8bb",
       "confidence": "0.8907762",
       "timestamp": 1957.4,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S121"
+      "speaker": "S121",
+      "uuid": "c3c4aeef-8240-48df-a560-c62588bcec3c"
     }
-  }
+  ]
 }

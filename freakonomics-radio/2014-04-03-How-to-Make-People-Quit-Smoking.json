@@ -4,1508 +4,1726 @@
   "description": "<p>The war on cigarettes has been fairly successful in some places. But 1 billion humans still smoke -- so what comes next?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/S48ryjB8EUA/freakonomics_podcast040314.mp3",
   "slug": "How-to-Make-People-Quit-Smoking",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "439d9a54-1e30-4732-8e49-7ad5e965a22c",
       "confidence": "0.7058131",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu offering a variety of business cards in printed pronox muall solofra sprint nfinity the ability to print a different image on every card more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "a1eca5aa-67a2-4a88-8ddc-82c62750b732"
     },
-    "16.73": {
+    {
       "requestid": "bacdf3d7-9498-4b16-8c03-5d7c3d5e7fce",
       "confidence": "0.7355918",
       "timestamp": 16.73,
       "content": "hey selemet what's on the most exciting news you think",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ce4ed2f2-af2f-4e3c-ab6d-7701c7f67a98"
     },
-    "20.91": {
+    {
       "requestid": "9bb44294-1496-4bc8-bbee-0f04002f345b",
       "confidence": "0.6990256",
       "timestamp": 20.91,
       "content": "that we could tell the people who listen to the freakonomics radio podcast that after for 5 years we actually managed to read another book so you wanna tell me a better job now utah",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "6bf71241-7622-490f-aa87-829938b9d330"
     },
-    "33.13": {
+    {
       "requestid": "59733294-68a0-431d-8d78-7d43422b8b20",
       "confidence": "0.6325966",
       "timestamp": 33.13,
       "content": "you better talk about the books about we come together ok bot the date May 12th at reagan the date may 12 at rigens May 13th day",
-      "speaker": "S6"
+      "speaker": "S6",
+      "uuid": "56af8481-e300-4f20-a231-65ef3e0e177a"
     },
-    "44.12": {
+    {
       "requestid": "fdff7a60-f785-4770-ac7a-252aeae38de9",
       "confidence": "0.7249412",
       "timestamp": 44.12,
       "content": "the date is May 13th ok but the title of the book think like a freak ok you got that right at something to let it would you say this is your most favourite book of all time",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "7731422d-235f-4899-926b-c07b6237b62a"
     },
-    "56.04": {
+    {
       "requestid": "35a6ffae-cfc3-463f-8cb9-93df4d775959",
       "confidence": "0.7297144",
       "timestamp": 56.04,
       "content": "you know I really can't tell I can tell whether to go to tairua damn mean when do not like best about it is bad after we wrote superfreakonomics we said this is not read the same book over and over and over and I'm",
-      "speaker": "S6"
+      "speaker": "S6",
+      "uuid": "5b86de44-b0ad-4e57-8c4d-c718a594efe1"
     },
-    "70.84": {
+    {
       "requestid": "da94d618-14f1-470e-aa41-7faab23303fd",
       "confidence": "0.6909387",
       "timestamp": 70.84,
       "content": "and we weren't sure we can write another book but then we we had this idea to do something that's more like I'm almost like a how to book how to think like a freak and and it's different and how to tell if things are different ago tonight but but at least it's different anything to get started",
-      "speaker": "S6"
+      "speaker": "S6",
+      "uuid": "0d7de469-a554-493c-bd82-ce9be7042727"
     },
-    "88.0": {
+    {
       "requestid": "7cc4e6b6-1108-4065-89a7-2f20113cc270",
       "confidence": "0.8442364",
       "timestamp": 88.0,
       "content": "it is different the full title is think like a freak the authors of freakonomics offer to retrain your brain and we cannot wait for you to read it",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "26563215-b832-4c68-a665-d60ba8674c8d"
     },
-    "97.73": {
+    {
       "requestid": "0905ff77-8d5a-48ef-927e-9ba470a18455",
       "confidence": "0.7961516",
       "timestamp": 97.73,
       "content": "you can pre order the book now on amazon barnes andnoble.com I tunes on your better online book vendors go to read more about it at freecams.com and you can also check out our upcoming in person and media appearances we will do our us back door about 7 cities are you kay book tour including wales",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "610176d5-1dfb-4ca2-8721-f03560323c4b"
     },
-    "116.63": {
+    {
       "requestid": "91776846-3180-4c2f-97aa-e955a695a836",
       "confidence": "0.837499",
       "timestamp": 116.63,
       "content": "and you can check out the website to see if you're coming to near where you live and if so please come say hello you will also be hearing a lot of new podcast based on our very favorite stories from think like a freak and here's the best news we are starting at think like a freak book club right here on the podcast",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "9ab5b02e-ae18-4dbb-9841-8c3aeeddea73"
     },
-    "134.43": {
+    {
       "requestid": "0566a9d0-48ac-4424-8c92-addff61b7824",
       "confidence": "0.8568919",
       "timestamp": 134.43,
       "content": "so what's the book is out and you guys have a chance to read it lebetine I will take your questions or complaints or whatever if you want advice on how you 2 can think like a freak book give that to you and we will all have a great time I promise",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "3784e87d-0edf-42e5-b748-0d6922066b63"
     },
-    "148.84": {
+    {
       "requestid": "22b01331-9726-437c-8c75-773073a71c6b",
       "confidence": "0.8329288",
       "timestamp": 148.84,
       "content": "and now for our regularly scheduled episode of freakonomics radio",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ae56dbf7-603c-4ce5-a013-34829fc06e32"
     },
-    "159.82": {
+    {
       "requestid": "a07012d1-b45d-41bb-91ea-ccceccfd811c",
       "confidence": "0.7194747",
       "timestamp": 159.82,
       "content": "ok here's a riddle name an activity that mini mini milling",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "b951c07b-d67d-418c-942b-045298fbbdcd"
     },
-    "164.78": {
+    {
       "requestid": "92c455e7-9c0c-4378-84a8-7d106cf0e4c8",
       "confidence": "0.7574611",
       "timestamp": 164.78,
       "content": "the people do of their own free will but that 70% of families in the us say I don't wanna do",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "1af8ba6f-0052-47e7-93c4-9d37ea3e7019"
     },
-    "173.94": {
+    {
       "requestid": "16bef6a1-786d-4811-9fea-cf42b11ae6d4",
       "confidence": "0.7411833",
       "timestamp": 173.94,
       "content": "is making sense does what kind of thing could be so enticing in yet so unappealing at the same time",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "010a7207-6579-4e8f-a1e6-fe7eabf74b32"
     },
-    "182.87": {
+    {
       "requestid": "479caff7-0ea2-4d8a-a902-dace12c5a86f",
       "confidence": "0.5602449",
       "timestamp": 182.87,
       "content": "so it's gonna like a win lose love it if you get excited killers like a relief I gotta get rice from it's terribles like it work this delicious",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "5429e792-0bc0-4816-88e9-4d6561d16ddb"
     },
-    "192.94": {
+    {
       "requestid": "109bdcbb-c93f-4303-9dd4-cb189650f348",
       "confidence": "0.542145",
       "timestamp": 192.94,
       "content": "I'm delicious get a rush be eating chocolate cake",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "8b0c4409-c86b-4d32-a5a0-8824db4f55fb"
     },
-    "198.94": {
+    {
       "requestid": "977279f8-52b1-430b-9e55-aac503fd2916",
       "confidence": "0.7730303",
       "timestamp": 198.94,
       "content": "kinda gross I really hate the way that he smells I picked it up when I was young I thought it was cold is there my babies I love them so much",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "566642e8-caee-422b-a2b5-801cf174d232"
     },
-    "208.13": {
+    {
       "requestid": "56304c8a-168f-45ee-9312-5f58bf6217de",
       "confidence": "0.570943",
       "timestamp": 208.13,
       "content": "I'm not even talking so what is this delicious grossin love hate activity",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "61f7c69a-a3a0-4dfa-8dfc-1d10184a0909"
     },
-    "216.12": {
+    {
       "requestid": "db357887-a4a9-4c87-a32f-e0bea9af7d32",
       "confidence": "0.6244863",
       "timestamp": 216.12,
       "content": "no I just adores afferson hill",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "bb017abd-7ff3-40fd-aaec-de0a877981a5"
     },
-    "218.9": {
+    {
       "requestid": "cd1ccb0e-bc1b-427f-973e-fbad10de4afd",
       "confidence": "0.5999048",
       "timestamp": 218.9,
       "content": "senates the best phone but never get the world map",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "34307f31-db32-4c3f-bbf8-12606f5c022c"
     },
-    "221.61": {
+    {
       "requestid": "240c800f-b249-4dc4-8c93-492501ad21c9",
       "confidence": "0.7387286",
       "timestamp": 221.61,
       "content": "could sit there for awhile and oh yeah it's pretty much is satisfaction guaranteed to get the flavor feels fantastic",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "0d22fe79-0558-4352-9c1e-364bb7cfdb3a"
     },
-    "231.14": {
+    {
       "requestid": "541fca6f-8d65-49a3-a6e7-1ba88273d833",
       "confidence": "0.7505964",
       "timestamp": 231.14,
       "content": "I love cigarettes",
-      "speaker": "S34"
+      "speaker": "S34",
+      "uuid": "d52e787e-612c-415d-bc2c-8ac5981da3fb"
     },
-    "234.75": {
+    {
       "requestid": "b9815070-ffb0-430e-9893-497af857e4e4",
       "timestamp": 234.75,
-      "content": ""
+      "content": "",
+      "uuid": "1626aea3-9ad0-465a-9d2f-0a34ec4c09fd"
     },
-    "243.25": {
+    {
       "requestid": "d0117790-ac00-46b5-b054-1ef2396fbfbe",
       "confidence": "0.6404534",
       "timestamp": 243.25,
       "content": "mw on my feet this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S36"
+      "speaker": "S36",
+      "uuid": "53eb8455-0e35-44be-869a-9ba274680a9e"
     },
-    "250.84": {
+    {
       "requestid": "a54dd54b-0080-4796-82ee-83c8ce6918c0",
       "confidence": "0.4050452",
       "timestamp": 250.84,
       "content": "here's your host diesin.net",
-      "speaker": "S36"
+      "speaker": "S36",
+      "uuid": "354b0ead-7f08-43ab-bfd9-d45838ff9f67"
     },
-    "262.91": {
+    {
       "requestid": "3ced44d0-3e7e-46d7-95a1-b8b53c99c9c9",
       "confidence": "0.8712015",
       "timestamp": 262.91,
       "content": "it's hard to find any one to argue that smoking cigarettes is unbalanced a good thing to do but",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "2d6e26e0-4c53-4dbc-bdfa-f8369f069133"
     },
-    "269.94": {
+    {
       "requestid": "62d9b641-210e-4bca-9106-cb6bffbaff54",
       "confidence": "0.7867038",
       "timestamp": 269.94,
       "content": "smokers wanna stop",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "2f83d5b2-4967-4cd0-92a2-8a96f0457b1d"
     },
-    "273.49": {
+    {
       "requestid": "9e7ade07-f69b-49d5-8f02-1d322577dda3",
       "confidence": "0.8656203",
       "timestamp": 273.49,
       "content": "when I quit I end up feeling really good",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "e9a65f3c-990d-46c1-9d1f-ce5f5b8cb9cb"
     },
-    "276.23": {
+    {
       "requestid": "332f8158-4468-4eda-aed9-ae585bc88330",
       "confidence": "0.7796062",
       "timestamp": 276.23,
       "content": "and then I feel like I've achieved something and I feel like I deserve a cigarette for that",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "d9888af5-c278-42a9-b57a-80ea6a3b7eb7"
     },
-    "280.97": {
+    {
       "requestid": "c48ba9eb-d421-484f-be6e-2b96b2334805",
       "confidence": "0.8256716",
       "timestamp": 280.97,
       "content": "yeah I've quit before for a few months but then",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "92bd9e42-5d65-4546-8294-6c74c8a81b1a"
     },
-    "284.32": {
+    {
       "requestid": "543b0826-57d5-47b3-a340-26aa663fd85e",
       "confidence": "0.7855773",
       "timestamp": 284.32,
       "content": "call back in the habit I feel like sunday just like stop",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "cde826a7-3909-4f24-9b00-2cce99e25150"
     },
-    "287.72": {
+    {
       "requestid": "1bc4ec75-bf0a-4ecf-b1ef-7833930d8b93",
       "confidence": "0.7637724",
       "timestamp": 287.72,
       "content": "I'm trying to quit now",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "7640fdcd-ea48-4ca7-81e9-f760e29a5b0d"
     },
-    "290.6": {
+    {
       "requestid": "14d74522-0622-47cf-b2e5-210daafe8a01",
       "confidence": "0.7105046",
       "timestamp": 290.6,
       "content": "the process of waking up having to eat first thing I do is smoke cigarette you know in",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "5d0877bc-a8b6-4ad5-bf9b-19c761de5eb5"
     },
-    "297.64": {
+    {
       "requestid": "1f51b82a-68fe-4810-9b88-ede055205c9e",
       "confidence": "0.4987103",
       "timestamp": 297.64,
       "content": "I can breathe deeply <profanity>fucked up</profanity>",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "1c482a16-47f0-4d6b-b49d-9a6a660fb301"
     },
-    "299.88": {
+    {
       "requestid": "872e552d-ae87-4ab8-9626-9002c0c28d3f",
       "confidence": "0.6467832",
       "timestamp": 299.88,
       "content": "I need to quit I've tried many times did not work my fails every to have to manually",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "b65d77f3-41d0-4591-9e80-a880adefda3e"
     },
-    "306.93": {
+    {
       "requestid": "bb41eb19-cf8a-4cc4-b81d-0ea59f29184b",
       "confidence": "0.8151502",
       "timestamp": 306.93,
       "content": "how hard is it to quit when an individual smoker tries to quit many times in a year many of the quitter times last half a day",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "7ec6f481-b1a4-48f1-acde-4c9111b86bae"
     },
-    "316.67": {
+    {
       "requestid": "ee237e98-b8f8-4a6d-9b7e-312381b7a0b6",
       "confidence": "0.8415905",
       "timestamp": 316.67,
       "content": "most smokers even have to make a serious attempt to quit have a relapse rate steps are in the order of 90%",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "17bb8d19-87b8-4f27-a00f-6296ab07c1a5"
     },
-    "324.63": {
+    {
       "requestid": "ced3793d-ba1b-4a17-adce-0ee0755cf5e3",
       "confidence": "0.649878",
       "timestamp": 324.63,
       "content": "90% next wieso hi this is jeffrey harris he's an economist in position at mit",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "70e01e0c-97d9-4c9f-8792-72dc447a9521"
     },
-    "331.51": {
+    {
       "requestid": "df130ba3-3aa6-4d46-9112-d100e2045373",
       "confidence": "0.795027",
       "timestamp": 331.51,
       "content": "basically we're dealing with the substance nicotine which is addictive",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "e99ae4bc-324d-4813-8b53-86c8108e1850"
     },
-    "336.84": {
+    {
       "requestid": "d3b14b47-aff0-4447-889e-af414c1cb0bf",
       "confidence": "0.8089528",
       "timestamp": 336.84,
       "content": "I have a profound appreciation for addiction",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "20d35bed-fb9d-49d4-8da8-6e4310ac3947"
     },
-    "340.25": {
+    {
       "requestid": "3c3eed1a-bc82-44b1-b6fb-79fa0d7180aa",
       "confidence": "0.6737966",
       "timestamp": 340.25,
       "content": "matt is kenneth warner he's an economist at the university of michigan school of public health when it comes to smoking and quitting wuornos's werebeasts",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "18381dd7-e7f6-48fa-9172-564338ee2e30"
     },
-    "350.77": {
+    {
       "requestid": "de5fbd7c-4024-48e5-9ad3-df8463f301ed",
       "confidence": "0.7778303",
       "timestamp": 350.77,
       "content": "what is very good at quitting eigi quit for 6 months one year and then I quit for 3 months the next year night I quit for a month year after that and then I quit quitting for awhile",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "d40940ab-eaec-4271-811f-37c5c51eb6e0"
     },
-    "360.43": {
+    {
       "requestid": "61ede5d3-5522-4523-bfbb-f1c0bf4b7718",
       "confidence": "0.8604215",
       "timestamp": 360.43,
       "content": "and finally I decided I was going to a smoke myself silly and a poker game on December 27th I think it was of 1974 I took an entire pack of cigarettes smoke srisa pack and went home feeling sick because of smoking a cigarette I said I'm never in touch me again and I haven't",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b2a5d69d-42f1-489a-9f62-2d0c56157332"
     },
-    "379.68": {
+    {
       "requestid": "32810bb2-3c2b-4709-99e5-a13792efa066",
       "confidence": "0.743742",
       "timestamp": 379.68,
       "content": "werner is been doing tobacco policy research since the 1970s big trends the health and financial consequences politicks insulin",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "d3923914-6b87-4e63-a7fa-5f4cf7d60a0c"
     },
-    "390.71": {
+    {
       "requestid": "a7251b5f-97bd-4504-8c17-898a2983c878",
       "confidence": "0.7700857",
       "timestamp": 390.71,
       "content": "I'm persley convinced that win 20 for sentry historiens look back",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "43bf15ce-29f8-4d2f-bff8-ec8026beb865"
     },
-    "395.54": {
+    {
       "requestid": "f420177a-933f-465b-b43a-5f26e1ae04e0",
       "confidence": "0.8083174",
       "timestamp": 395.54,
       "content": "when the experience of the rise and fall of the cigarette there gonna call this not only one of the most important public health stories but also one of the most interesting public health stories",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "4a763062-631c-4276-8834-faa2f59736d3"
     },
-    "407.28": {
+    {
       "requestid": "d74f468e-7838-45e7-87d4-c5d4f4abe667",
       "confidence": "0.894815",
       "timestamp": 407.28,
       "content": "ok what's so interesting",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "a9d59bf0-4fc3-4d33-b3fc-68bd283c1fd7"
     },
-    "409.37": {
+    {
       "requestid": "9939ae21-b9b5-4de2-aba4-6e5db3c8601e",
       "confidence": "0.7079862",
       "timestamp": 409.37,
       "content": "that's this is incredible epidemic in through the use of various public health techniques to education through taxation smokefree laws in solon we've managed to cut the rate of smoking by more than half",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "47e47b3c-91f8-489a-be75-883e47d8fc95"
     },
-    "429.07": {
+    {
       "requestid": "a7461601-44b2-4caf-8a58-c7ea9209ec36",
       "confidence": "0.7949005",
       "timestamp": 429.07,
       "content": "cigarettes first came into popular use in us from the time the civil war",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ed75b4ea-4271-431a-b412-fcefff49116b"
     },
-    "433.36": {
+    {
       "requestid": "c091cbf2-4778-47b2-8989-2501dfb1c0ba",
       "confidence": "0.6918951",
       "timestamp": 433.36,
       "content": "there is not much but given 2 negative health effects in fact",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b3527f59-22c7-46fc-a5d1-308a63ffcc98"
     },
-    "437.29": {
+    {
       "requestid": "34067ada-a9d5-4c3d-a61c-90c117fa2063",
       "confidence": "0.6744356",
       "timestamp": 437.29,
       "content": "tobacco is sometimes described as medicine",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "862ff834-2dd4-4523-90a4-f5e8db824435"
     },
-    "440.46": {
+    {
       "requestid": "1d038dd4-8d12-442a-904e-743868f13741",
       "confidence": "0.7532149",
       "timestamp": 440.46,
       "content": "the early 1960s 42% of adult population",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "036b56d7-b1dd-4a69-9fc4-672389b41ed8"
     },
-    "445.66": {
+    {
       "requestid": "e275d5f5-f00c-4913-99db-26afc18220c1",
       "confidence": "0.6314819",
       "timestamp": 445.66,
       "content": "when the government again putting dayton high school student in the early 1990 and it turned out they smoke den eden hiring so for many many years you had a lot of people doing a lot of smoke it was pretty scenery",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "13da9bb9-57de-4e25-8684-bdc9eb4f652c"
     },
-    "460.7": {
+    {
       "requestid": "f67c33d2-8ac9-435b-b7be-d53fd5d987a1",
       "confidence": "0.4605918",
       "timestamp": 460.7,
       "content": "I am at the point star",
-      "speaker": "S67"
+      "speaker": "S67",
+      "uuid": "78bcb473-a365-4e7c-ad4c-ef851d242fc7"
     },
-    "463.3": {
+    {
       "requestid": "dde86769-db47-4252-ac96-f852f4358860",
       "confidence": "0.5571017",
       "timestamp": 463.3,
       "content": "gradings rocky my bar back to winston where are you I'm from winston cigarettes at Mr. porn star",
-      "speaker": "S68"
+      "speaker": "S68",
+      "uuid": "26b3718a-bf21-4956-b4ab-bc06509e9922"
     },
-    "470.2": {
+    {
       "requestid": "e085c333-79f9-4b71-b8fd-cb0c58de2e44",
       "confidence": "0.1329424",
       "timestamp": 470.2,
       "content": "30 pm",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "80e238f0-9141-420f-839d-f04d406b6c82"
     },
-    "473.0": {
+    {
       "requestid": "63e9f216-baca-4c81-bcf8-0d42a6575a31",
       "confidence": "0.5882899",
       "timestamp": 473.0,
       "content": "cigarettes or more doctors smoke camels than any other cigarette why don't you switch from 5 to the stock price gomez love",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "8e5519e8-9ae9-43d5-8e0a-b7ad5d3a5507"
     },
-    "485.4": {
+    {
       "requestid": "40c2fade-9bfe-4c99-a6b6-54652afd2187",
       "confidence": "0.8399857",
       "timestamp": 485.4,
       "content": "health experts be intimate connection between smoking and illness and in 1964 after build up of research united states surgeon general issued a milestone report",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "adaf4ad2-d165-44d1-bf39-41eb0eac6b1d"
     },
-    "497.06": {
+    {
       "requestid": "dca14ea2-4316-4da6-a7ff-d244866d8e72",
       "confidence": "0.5437622",
       "timestamp": 497.06,
       "content": "it is a judgment of the committee that cigarette smoking contribute substantially immortality from certain specific diseases",
-      "speaker": "S73"
+      "speaker": "S73",
+      "uuid": "ca6813a7-6ab5-4853-b1a7-283159161b8b"
     },
-    "505.87": {
+    {
       "requestid": "08da3687-e091-4603-8ff6-346e8a129f77",
       "confidence": "0.4477996",
       "timestamp": 505.87,
       "content": "and do the overall death rate",
-      "speaker": "S73"
+      "speaker": "S73",
+      "uuid": "045b373e-7c05-40b4-bac6-ec7420a3f71b"
     },
-    "509.03": {
+    {
       "requestid": "6720b927-ce2c-485a-98bb-a2ccaffcccb7",
       "confidence": "0.6576512",
       "timestamp": 509.03,
       "content": "does california again it's really wanted to send all documents of public health in fairness the royal college of",
-      "speaker": "S74"
+      "speaker": "S74",
+      "uuid": "5aee55ca-4eee-437e-9c09-54dd3914a2ab"
     },
-    "517.21": {
+    {
       "requestid": "fdb315ba-a0e2-4040-b38c-034713a640dd",
       "confidence": "0.823806",
       "timestamp": 517.21,
       "content": "physicians in the uk it issued a report in 1962 which is also very powerful the 64 report is really the turning point in smoking in the united states smoking was rising almost on interrupted there a couple dinner options but virtually uninterrupted 31963",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b7cf332e-07b2-4ae8-815e-90ef8c6b17fe"
     },
-    "536.92": {
+    {
       "requestid": "533e81f8-dac5-4e17-b295-5af1164ea223",
       "confidence": "0.8450477",
       "timestamp": 536.92,
       "content": "search gentle's report comes out in 1964",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "f7fc98c6-f856-49dd-b147-799f873a1ecc"
     },
-    "540.32": {
+    {
       "requestid": "456256f0-6d2c-492f-b728-5437c86128bc",
       "confidence": "0.8523695",
       "timestamp": 540.32,
       "content": "and it's one of the biggest news stories of the year old son back here smoking drops 3 and a half percent",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "a0e66dd9-0780-4c21-a77f-08b65757e995"
     },
-    "547.4": {
+    {
       "requestid": "3a61b8eb-e669-4708-9ceb-237e115a6fc9",
       "confidence": "0.8745074",
       "timestamp": 547.4,
       "content": "did waffles around a couple of years and then it starts dropping in from 1973 to now is dropped almost every single year and we're back to where we were in the 1930s",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "5966a011-57b3-4b02-a7f0-2025656a28ce"
     },
-    "561.27": {
+    {
       "requestid": "28234a75-3f22-4993-90c8-aab634f33825",
       "confidence": "0.8192693",
       "timestamp": 561.27,
       "content": "the surgeon general's report help start an anti smoking movement that over the ensuing decade came to include public service campaign advertising band",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "cf5f1557-f742-438f-b098-83a8cc9d2a8c"
     },
-    "570.16": {
+    {
       "requestid": "6d87e551-b44f-4311-a7c5-296e15c2d63d",
       "confidence": "0.836997",
       "timestamp": 570.16,
       "content": "and the prohibition of smoking in offices on airplanes more recently in restaurants and bars in central park in new york city no smoking allowed but measuring the efficacy of this kind of thing can be hard are lot of potential confounding factors to account for",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "42cdcb2a-5d99-4805-8795-ed44af712361"
     },
-    "587.86": {
+    {
       "requestid": "c0736bec-f044-4d87-b27b-36c5ea3d69cb",
       "confidence": "0.7837138",
       "timestamp": 587.86,
       "content": "there is one variable however it does lend itself to good measurement the cost of cigarettes",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c8427a58-7513-4730-aa09-3b1551d7c1d8"
     },
-    "593.71": {
+    {
       "requestid": "e0ab50dc-e9bd-44fd-bd7f-f1376a38a930",
       "confidence": "0.8209506",
       "timestamp": 593.71,
       "content": "dfx of tax in price are more well study than any other area of tobacco control we have alot of data about that",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b6727664-9b35-490e-a0d4-7eac6c30e805"
     },
-    "602.27": {
+    {
       "requestid": "921c1047-3fc0-4b1c-8493-e616de165939",
       "confidence": "0.916039",
       "timestamp": 602.27,
       "content": "ok so what do the day to say",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "71269472-3db4-4d01-bde3-1a6c99a6b9a6"
     },
-    "604.46": {
+    {
       "requestid": "28ffbd90-61c6-4fe6-9bf1-d18824413d5d",
       "confidence": "0.8949087",
       "timestamp": 604.46,
       "content": "what we know is it if you increase the price by 10% you would decrease total cigarette consumption by 3 to 4%",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "6b0281c0-8a84-4196-9a4d-7c756e6f66b2"
     },
-    "613.13": {
+    {
       "requestid": "ddf08a77-5b11-4f12-8cb1-bfa061abb674",
       "timestamp": 613.13,
-      "content": ""
+      "content": "",
+      "uuid": "83519dec-be5f-4e7a-b4a2-c4be483483f4"
     },
-    "620.25": {
+    {
       "requestid": "bd8fba92-5e5c-4aad-8a65-cab799d30367",
       "confidence": "0.6315086",
       "timestamp": 620.25,
       "content": "note me think well of course warner talk about price the reason comma spot",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "abcc5602-8b70-4403-8f7e-42691264211f"
     },
-    "625.49": {
+    {
       "requestid": "2e6f1abc-c853-4b01-9a67-75ca9014435a",
       "confidence": "0.7114421",
       "timestamp": 625.49,
       "content": "even a layperson can look at the data inseat the relationship between cigarette prices in smoking do you come is frank chaloupka it calculated the inflation adjusted price spike of cigarettes in the past few decades and we're best buy come from",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "24634dcd-7be2-4cff-9724-69fd752ec4b8"
     },
-    "641.53": {
+    {
       "requestid": "55b52ad7-36b7-4dea-8353-2cb55499b2b8",
       "confidence": "0.8744641",
       "timestamp": 641.53,
       "content": "overall he found a pack of cigarettes cost more than twice as much today as it did in 1990",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "579ff0ad-c62e-4cec-a149-23770954c11a"
     },
-    "647.37": {
+    {
       "requestid": "8c2876e9-5d2b-4114-b9c3-7773134877d9",
       "confidence": "0.7891461",
       "timestamp": 647.37,
       "content": "some of that increase comes from the manufacture's specially since the late 1990s that one cigarette companies began passing along the costs from the master settlement agreement that was the deal between the big tobacco companies in 46 the attorneys general",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "af5b713f-0777-4f76-ad6e-e0609273f18d"
     },
-    "664.2": {
+    {
       "requestid": "d0252340-a102-45ee-b9b7-aac647c902e3",
       "confidence": "0.7734587",
       "timestamp": 664.2,
       "content": "which require the companies to pay out billions of dollars for essentia lee producing a dangerous product by passing along some of that settlement costs smokers the company added about 50 cent",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "2946137c-3d9e-4922-9fed-abc25bde8ef4"
     },
-    "676.46": {
+    {
       "requestid": "f18372f3-c535-4f2f-8ac6-4edc9d1412fc",
       "confidence": "0.7684882",
       "timestamp": 676.46,
       "content": "but",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "04eb0f44-84fd-4dbf-b8bd-d96a7919f6f5"
     },
-    "680.06": {
+    {
       "requestid": "ddaf8ba8-7843-4af8-8b36-cc586dada1d1",
       "confidence": "0.8147293",
       "timestamp": 680.06,
       "content": "a variety of taxes ultimate cigarettes much marksman's between 1990 and 2009 chiluca found the federal excise tax on cigarettes rose from 16 cents to more than a dollar per pack",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "3b3b9495-c170-4eaa-bbcb-6eb61e41a8ce"
     },
-    "694.38": {
+    {
       "requestid": "c52af08f-f773-40cb-9719-743c510f6f43",
       "confidence": "0.7776302",
       "timestamp": 694.38,
       "content": "and state taxes on average more than quadrupled now keep in mind that on average is huge variance across states missouri and only 17 cents a pack rhode island at the state tax of $3.46 per pack snow on top of all that",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "118b2207-355e-4ee0-b5c9-d1d1f4c33312"
     },
-    "711.37": {
+    {
       "requestid": "eab90029-dbdf-4e67-b4ff-0fc5a728325d",
       "confidence": "0.6950098",
       "timestamp": 711.37,
       "content": "some cities and their own taxes in 2002 for instance new york city raised its excise tax",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "3eb9bb6d-6071-4b22-80cd-21d1cb381a42"
     },
-    "717.66": {
+    {
       "requestid": "8d46a360-ceff-4e87-a6b0-f52cc04fcd5b",
       "confidence": "0.7925102",
       "timestamp": 717.66,
       "content": "from 8 cents a pact with dollar 50 to today a pack of cigarettes in new york city cost on average more than $11",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ee80e064-5e43-4810-8539-783bbbc46585"
     },
-    "727.28": {
+    {
       "requestid": "abaedb62-75de-4fe2-9185-30951417081e",
       "confidence": "0.8285144",
       "timestamp": 727.28,
       "content": "it probably not quinta dental there for the new york state has one of the lowest smoking rates in the country song and who does an $11 price tag hit the hardest",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c8e59e54-9fe8-45e1-899d-2b743bcc3e31"
     },
-    "738.95": {
+    {
       "requestid": "28b415f1-3b86-450b-aad0-045ccab361f3",
       "confidence": "0.7228976",
       "timestamp": 738.95,
       "content": "smokers who are most price sensitive like teenagers indeed",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "553fc381-3367-4f7b-af3c-d6760be1a29b"
     },
-    "744.05": {
+    {
       "requestid": "5b2b8361-5446-40d0-8729-c727e4579265",
       "confidence": "0.8042238",
       "timestamp": 744.05,
       "content": "between 2002 thousand 12 the smoking rate among high schoolers in new york state bell by 56% so if you wanna fight smoking you can see why are condiments at least agree that raising the price will work",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "d39cc8a2-2184-4a3a-a721-395d04350e2c"
     },
-    "759.92": {
+    {
       "requestid": "c7c0c870-7378-4ad0-838b-7724a9319e96",
       "confidence": "0.6114042",
       "timestamp": 759.92,
       "content": "skarsg ipbes koozie at vanderbilt is very powerful tool",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "bd8ad791-b223-4b58-b21a-69b532bba890"
     },
-    "764.2": {
+    {
       "requestid": "f2219f1f-41d7-4816-bf6e-2deff9b494ee",
       "confidence": "0.7280461",
       "timestamp": 764.2,
       "content": "yeah doesn't wear out if you keep on increasing the price will keep a decrease in the demand for cigarettes",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "bd60f125-a6a4-4aa1-b71c-fd2591d7ded3"
     },
-    "770.88": {
+    {
       "requestid": "575f39e8-49c0-4851-bef5-a68430ff5680",
       "confidence": "0.7527058",
       "timestamp": 770.88,
       "content": "it just is different states in the us have wildly different tax rates on cigarettes different countries have wildly different cigarette taxes and prices which are infants by all sorts of factors",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ebf3c2fa-bdf0-4e9b-b04d-81a81683e31a"
     },
-    "783.88": {
+    {
       "requestid": "8792ec88-9d81-4507-a292-50d34385a673",
       "confidence": "0.8042019",
       "timestamp": 783.88,
       "content": "in china difference in the average cost about $2 per pack of cigarettes in australia by $11 with talk of pushing that up that $20 a pack and smoking rates around the world are extremely diverse",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "f1c68ff6-18f1-46b6-a4cd-064d737e7c86"
     },
-    "798.34": {
+    {
       "requestid": "8c7db379-9345-472c-9b56-7821c2175049",
       "confidence": "0.8929544",
       "timestamp": 798.34,
       "content": "among the lowest are the us and canada australia match of south america most of africa",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "4147ca4d-2c22-499a-9a90-d50c3958c2d9"
     },
-    "804.3": {
+    {
       "requestid": "58117a1a-0675-41c5-bfdb-dd0de2b83484",
       "confidence": "0.6746601",
       "timestamp": 804.3,
       "content": "europe is generally in the middle in asia what if you look at the world",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c733ac7e-6f66-46c9-9589-362a1f3c6bb2"
     },
-    "810.14": {
+    {
       "requestid": "2bd2fbec-77aa-4a18-993b-b6d496de69e1",
       "confidence": "0.7933462",
       "timestamp": 810.14,
       "content": "health organizations map of smoking rate by country asia is basically one big cloud of smoke",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "69e9c43d-d573-497d-b8dd-471bb5d31cea"
     },
-    "817.98": {
+    {
       "requestid": "72f69048-d44b-4ebd-bbd3-6d634cf6c640",
       "confidence": "0.8390114",
       "timestamp": 817.98,
       "content": "but even in the us where is kenneth warnock told us we return to the smoking rate of the 1930s it still translates into a lot of smokers",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "cd6f6e41-d014-4d7e-9ce4-eb040a057cb8"
     },
-    "828.24": {
+    {
       "requestid": "afb4c77e-b49a-4e8b-935d-4776c740a65c",
       "confidence": "0.8506737",
       "timestamp": 828.24,
       "content": "route 45000000 adult americans are smokers today that's approximately 18 to 20% of the adult population",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "e9d466c6-759f-44d4-814f-ba856b806139"
     },
-    "836.7": {
+    {
       "requestid": "600514a8-c22b-40b3-8964-b29d979d9b82",
       "confidence": "0.7823765",
       "timestamp": 836.7,
       "content": "cigarettes are currently killing 480,000 americans annually that one out of every 5 deaths in the nation in other words one out of every 5 days is completely avoidable",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "42f3a9a1-e541-43ee-aa03-f6f345faad88"
     },
-    "849.71": {
+    {
       "requestid": "813c5881-3b1e-417b-b939-5497be92de9d",
       "confidence": "0.7496783",
       "timestamp": 849.71,
       "content": "and the people who die as a result of smoking or losing up to 20 years of life",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b693a165-eb46-40ef-a509-c04e092a6aa5"
     },
-    "855.85": {
+    {
       "requestid": "0a13da64-dfc4-412c-82b3-d3daf92c6b11",
       "confidence": "0.7549736",
       "timestamp": 855.85,
       "content": "in other words we come along way baby come on baby but we still got along way to go so coming up on 3 can I mix radio puts me",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "adda53d4-01f5-46b3-9017-f2cc66be3dcc"
     },
-    "869.03": {
+    {
       "requestid": "a95cbd21-4a67-4573-adc0-a7b5a5a0de35",
       "timestamp": 869.03,
-      "content": ""
+      "content": "",
+      "uuid": "1c7e818a-da7a-4d17-bf95-0451c59e169d"
     },
-    "871.92": {
+    {
       "requestid": "81f9c65f-471e-4b8a-a195-563c1de63e73",
       "confidence": "0.6470787",
       "timestamp": 871.92,
       "content": "if your goal is to drive smoking rates down even further maybe even eliminate smoke",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "96aa1feb-a7a5-455c-8ac7-55cd104e2e3b"
     },
-    "876.95": {
+    {
       "requestid": "b25514f5-aa94-40c2-b758-b50b055e5535",
       "confidence": "0.7225312",
       "timestamp": 876.95,
       "content": "where do you turn how about uruguay",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "1475e4e3-9dbd-4f8c-93e6-398c8c0757f8"
     },
-    "881.34": {
+    {
       "requestid": "9b3996f6-020d-4970-82ba-0380c977e8cb",
       "confidence": "0.7904407",
       "timestamp": 881.34,
       "content": "gears is relatively small country in south america are they had a president elected who is in mdn was very health conscious and they have adopted some very significant policy measures of that we having in some instances seen before",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "1c494c4e-54e0-4620-815b-96bad580ff38"
     },
-    "896.85": {
+    {
       "requestid": "3b9aa60e-fc40-4cb9-bcb1-52a3d89d0422",
       "confidence": "0.6047822",
       "timestamp": 896.85,
       "content": "call my mom and left with this whole conversation on head and ask",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "618e8820-d545-47ca-b713-39c6131131d8"
     },
-    "903.25": {
+    {
       "requestid": "a61547d1-009d-4f08-a458-34a20de1de2d",
       "confidence": "0.7536513",
       "timestamp": 903.25,
       "content": "what is smoking good for you we jokingly say in our lab in a good rock band delivery system",
-      "speaker": "S134"
+      "speaker": "S134",
+      "uuid": "ca4b8e07-fdf7-422e-b774-c3c7ee8d819c"
     },
-    "908.85": {
+    {
       "requestid": "5e1a18ae-0e7c-4fa7-9426-91409bd554cc",
       "timestamp": 908.85,
-      "content": ""
+      "content": "",
+      "uuid": "1d72fbc6-a8fa-4ff1-8b49-401a8053612a"
     },
-    "921.99": {
+    {
       "requestid": "f19cb369-3c9a-4885-bb04-bfb279fc0ffb",
       "confidence": "0.8543225",
       "timestamp": 921.99,
       "content": "freakonomics radio is supported by citrix go to meeting designed to be a fast and simple way to meet and collaborate with clients and coworkers online",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "f9f35f99-4762-4a71-8095-382dfdb0042b"
     },
-    "931.94": {
+    {
       "requestid": "215bff0d-a182-4f66-9c57-4f71758a23ed",
       "confidence": "0.7986771",
       "timestamp": 931.94,
       "content": "go to meeting with users share screens change presenters",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "61d30537-94a9-4a53-9215-b249f598a142"
     },
-    "935.61": {
+    {
       "requestid": "23342842-f119-4e7d-a293-0b04eb5753ce",
       "confidence": "0.8727501",
       "timestamp": 935.61,
       "content": "in turn on their webcams for high definition video conferencing go to meeting allows teams to stay connected from wherever they are at anytime using any computer mobile or tablet music go to meeting.com and click on that riot free button for a free 30 day trial",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "facd576d-52f9-42f7-b39a-cca8ff2af3d5"
     },
-    "953.83": {
+    {
       "requestid": "45fbeae9-26f6-4b9d-af25-8c9dd8b92309",
       "confidence": "0.7941806",
       "timestamp": 953.83,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S140"
+      "speaker": "S140",
+      "uuid": "bf7f7fc2-152d-4c3a-a5f5-35bfa7def187"
     },
-    "961.83": {
+    {
       "requestid": "48b571ef-6967-4ad9-b738-537b509bec74",
       "confidence": "0.1767881",
       "timestamp": 961.83,
       "content": "ok",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "2c604d6c-f538-446d-8a2f-2fec6fe017f6"
     },
-    "967.13": {
+    {
       "requestid": "cbbc96d1-2479-44f5-9249-5a6edc7cca61",
       "confidence": "0.7981445",
       "timestamp": 967.13,
       "content": "so do we know so far is smoking cigarettes it is generally agreed is bad for dogs with dip dip which makes it hard to quit what does get people to smoke less making cigarettes really really expensive seems to work pretty well but",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "297bfbc0-8580-4b1d-a052-7d5bd3fc6087"
     },
-    "981.9": {
+    {
       "requestid": "f21951ce-5fcf-4917-b1ea-8757dc1dc2b0",
       "confidence": "0.8290785",
       "timestamp": 981.9,
       "content": "a simply raising prices soar taxes isn't necessarily so simple special because",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b9fc7141-8200-4065-98e7-427c74525da6"
     },
-    "987.35": {
+    {
       "requestid": "b3190139-a8cf-4b0b-aad3-5966403cda77",
       "confidence": "0.8705984",
       "timestamp": 987.35,
       "content": "people who do smoke are happy when prices are lower",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "9ee0188b-38eb-4169-a568-3991b746d46e"
     },
-    "990.47": {
+    {
       "requestid": "c440ffbf-d829-465f-b865-7a3196829682",
       "confidence": "0.7972576",
       "timestamp": 990.47,
       "content": "and b humanware cigarettes are fairly expensive flight to us the adult smoking rate is still about 20% so what else might work where else can we learn from",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "a13d9d24-0819-470c-a380-095157870019"
     },
-    "1003.79": {
+    {
       "requestid": "232037e5-9106-452c-8f10-d1d7718acf22",
       "confidence": "0.7771098",
       "timestamp": 1003.79,
       "content": "jerry was a fascinating story what kind of porn are gandhis an economist at the university of michigan school of public health",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "09c4b645-7365-4c2d-bb9a-61b20c7b3ee1"
     },
-    "1011.95": {
+    {
       "requestid": "57aa827a-c81e-4907-b129-4cd3e0d7e8b6",
       "confidence": "0.8302593",
       "timestamp": 1011.95,
       "content": "here's is relatively small country in south america are they had a president elected who is in mdn was very health conscious and they have adopted some very significant policy measures of that we have and in some instances seen before",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "702d222c-b19d-4b3b-9610-4a4ef0e5ed5e"
     },
-    "1028.15": {
+    {
       "requestid": "3890bb00-2178-46b2-b6f1-dbca86adb13f",
       "confidence": "0.825884",
       "timestamp": 1028.15,
       "content": "I'm here again is jeffrey heresy's economists west MD at the massachusetts institute of technology",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "f820c7f2-78e7-4bde-a960-dc0daac3ef53"
     },
-    "1035.37": {
+    {
       "requestid": "6baa0cf2-be78-43fe-8ba6-f2d308c6cdca",
       "confidence": "0.8619297",
       "timestamp": 1035.37,
       "content": "so in many ways it's been a pioneer it's been a laboratory so to speak for economists study what is the impact of smoking control programs",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "c959f042-5a20-4ca1-a1f3-3656da1a0d23"
     },
-    "1044.67": {
+    {
       "requestid": "09aba0d2-46ec-43a6-98b8-cb5125f2e4c3",
       "confidence": "0.8014385",
       "timestamp": 1044.67,
       "content": "paris long with 2 coauthors recently put out a working paper called tobacco control campaign in your agui impact on smoking cessation during pregnancy",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "1a16e5c5-f89c-40dc-b654-5b8febe112fe"
     },
-    "1057.86": {
+    {
       "requestid": "8f570401-1bdd-4a87-b58e-9dbe16779141",
       "confidence": "0.7503273",
       "timestamp": 1057.86,
       "content": "maybe thinking why you were going out in 2003 the world health organization put together a global health treaty to cut smoking in",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "56896f0b-99a9-43a7-9c16-7ee37222e141"
     },
-    "1068.03": {
+    {
       "requestid": "48c70db1-4fbc-407d-abbf-68e5ddf16b87",
       "confidence": "0.7774963",
       "timestamp": 1068.03,
       "content": "of the 177 countries signed on your agui has been among the most aggressive in trying new things is jeffrey heristal does uruguay have been responsible for a lot of firsts",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "012d0b08-d7b2-48bd-94c1-15643a06bf8b"
     },
-    "1080.4": {
+    {
       "requestid": "62251ec6-4f65-46b6-9599-5f80e60cc171",
       "confidence": "0.954403",
       "timestamp": 1080.4,
       "content": "they were the first 2",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "06f93424-868e-4b1a-ab6a-488b09b5dc69"
     },
-    "1082.79": {
+    {
       "requestid": "28c02d5a-c89a-4470-b8cd-2678710c71d5",
       "confidence": "0.8548051",
       "timestamp": 1082.79,
       "content": "to do things like ban smoking in all public spaces but also enclose private space is really was the first country not to just put images on each pack of cigarette is part of the warnings but also to mandate that the images be up to 80% of the front and back of each pack",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "b81ae9d8-8954-4919-8ed4-4931ce5d04b8"
     },
-    "1102.99": {
+    {
       "requestid": "b8043c31-c22c-4f0c-acfd-465c9feba8c4",
       "confidence": "0.7987276",
       "timestamp": 1102.99,
       "content": "what kind of images is harris talking about his california",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "7916cc50-b453-4b42-a24a-cf37e15c6d51"
     },
-    "1107.56": {
+    {
       "requestid": "70e88766-cbf7-41e2-9e18-d70e997272a5",
       "confidence": "0.7536479",
       "timestamp": 1107.56,
       "content": "lachaux disease long as they show people smoking through the trachea by today show pregnant women with their feet is getting exposed to smoke and things like that",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "a710fddd-1e3e-419b-916f-cb0fb3763174"
     },
-    "1119.63": {
+    {
       "requestid": "4c9ee2ec-9ce4-4beb-992f-4ac68f518d7e",
       "confidence": "0.7585932",
       "timestamp": 1119.63,
       "content": "ok what else did uruguay do",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "517dded0-b238-455a-96a9-a66568dc7223"
     },
-    "1122.28": {
+    {
       "requestid": "3cd68696-5cc8-485f-8de7-821c61fd4b0c",
       "confidence": "0.8129301",
       "timestamp": 1122.28,
       "content": "it was the first country to outlaw multiple versions of the same brand a cigarette manufacturer could basically in the past have a cigarette brand that was the main brown or light brown imental brand",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "526d6afa-d1e9-4c63-a76f-9a4c4e2b5bbb"
     },
-    "1137.66": {
+    {
       "requestid": "4e65e45f-4231-4462-9e8c-5271327d2af1",
       "confidence": "0.8593761",
       "timestamp": 1137.66,
       "content": "in uruguay you can only have what they call a single presentation",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "d64fdbb2-8b62-4aaf-a65a-6f0554c0ed03"
     },
-    "1142.34": {
+    {
       "requestid": "3e188219-f1e0-4166-a554-6d352517fd79",
       "timestamp": 1142.34,
-      "content": ""
+      "content": "",
+      "uuid": "8967bb97-5567-431e-b0c6-75257a0c46bc"
     },
-    "1147.93": {
+    {
       "requestid": "0905feb8-6731-43f0-a5a7-064b93bfa338",
       "confidence": "0.757593",
       "timestamp": 1147.93,
       "content": "purely also band cigarette advertising in raise taxes on cigarettes day in with the doctors in health centers with courage people quit smoking",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "85f803f9-3a67-4b0f-b1b2-06fe46eb82aa"
     },
-    "1157.58": {
+    {
       "requestid": "be739f80-ae03-46f5-954c-74ae7289c37e",
       "confidence": "0.7656298",
       "timestamp": 1157.58,
       "content": "jeffrey harris decided to them and all these different anti smoking measures to figure out which of them for most affective",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "cc7d3e1e-b254-452c-8a52-318f8dd15471"
     },
-    "1164.81": {
+    {
       "requestid": "b7f380ac-aa33-426c-8b8f-4f9d198139d8",
       "confidence": "0.7211811",
       "timestamp": 1164.81,
       "content": "is the population he chose to concentrate on with pregnant women why",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b59772d8-6699-45e2-bde1-2d480003d959"
     },
-    "1170.43": {
+    {
       "requestid": "2a06c998-e7e5-4573-a2b6-f412ecb6baef",
       "confidence": "0.7208612",
       "timestamp": 1170.43,
       "content": "2 reasons one there an important population since a fetus is that acholi susceptible the harmful effects of smoking",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "13943896-19ef-4cf8-b8c5-bcffba0ffa25"
     },
-    "1178.64": {
+    {
       "requestid": "b052c54f-6cad-4aa8-9dc0-a791377d8428",
       "confidence": "0.7619646",
       "timestamp": 1178.64,
       "content": "into a pregnant women presented a good controlled status at harris and his coauthors had access to a national registry of all pregnancies we can put information on what did women smoked say quit and when they quit",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "56dfdc3c-b87b-4d44-bd2b-995e39b31040"
     },
-    "1192.66": {
+    {
       "requestid": "f94325a0-1290-431b-aa28-8aa5e4293e0e",
       "confidence": "0.8593202",
       "timestamp": 1192.66,
       "content": "the researchers track about 30,000 women from 2007 to 2012 so what they learn",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "590e1fe7-477b-4a95-a2d4-3c2a317f2263"
     },
-    "1200.57": {
+    {
       "requestid": "5efe6faa-3ace-4916-91a7-16e3c5de1954",
       "confidence": "0.6603179",
       "timestamp": 1200.57,
       "content": "first of all the overall quitting rate among these women rose",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "175d2430-f848-401f-be74-2e728b3fb7c2"
     },
-    "1205.88": {
+    {
       "requestid": "5d05cb19-857f-4683-b3b1-c29e69e815f0",
       "confidence": "0.8736717",
       "timestamp": 1205.88,
       "content": "is the start of our observation period in 2007",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "39b24812-fc19-45a7-80c2-95b87c7d91ae"
     },
-    "1209.7": {
+    {
       "requestid": "b617c3ee-1481-49d9-ba49-7ce5e0112ac6",
       "confidence": "0.8553513",
       "timestamp": 1209.7,
       "content": "about 15% of women who smoke during pregnancy quit by their third trimester that is the last 3 months of the 9 month pregnancy",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "0318a27b-6c89-4b06-bc24-2b352495561d"
     },
-    "1219.34": {
+    {
       "requestid": "bd7692b1-8f92-4a60-b1ba-3afb09559426",
       "confidence": "0.8741391",
       "timestamp": 1219.34,
       "content": "buy 2012 the percentage what's up to 42% the marked increase from 15% in 20072 42% in 2012 as far as we know was unprecedented",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "cabf00fc-4f48-4179-99d3-f127de581189"
     },
-    "1233.71": {
+    {
       "requestid": "5029c234-cf4c-45a7-b90f-24329f81caf2",
       "confidence": "0.7723159",
       "timestamp": 1233.71,
       "content": "now granted you might think that pregnant women have a strong incentive to quit than most smokers but still only 15% of pregnant smokers were quitting before and now to quit number is 42% looks cute know what led to all this quitting member",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "5a87c534-2c91-4835-a370-6c99c8558e8a"
     },
-    "1251.55": {
+    {
       "requestid": "f03d629a-fa55-488f-9986-b2891ebfe383",
       "confidence": "0.732496",
       "timestamp": 1251.55,
       "content": "who's the whole cocktail of anti smoking measures in your way tax increases a ban on advertising the use of graphic imagery on cigarette packs in salon",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "ec73ff2a-78a3-4c5e-90c1-2d7f5593c901"
     },
-    "1262.44": {
+    {
       "requestid": "a7dcb944-64bf-460c-b64e-d2ba65a53482",
       "confidence": "0.6854952",
       "timestamp": 1262.44,
       "content": "jeffrey parasuis able to tease out the most effective measures from today",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c2c9b7c8-3f10-4280-af08-41f0f12c887a"
     },
-    "1267.95": {
+    {
       "requestid": "cf9389c8-3714-4377-a9ee-234989d3e617",
       "confidence": "0.7324963",
       "timestamp": 1267.95,
       "content": "raising cigarette tax it turned out didn't work as well as it did in the us",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "050ff59e-dfeb-4399-ac5c-b5cf68a032f5"
     },
-    "1273.39": {
+    {
       "requestid": "6893b201-4e4d-48be-8e5b-9ff7377c6c8d",
       "confidence": "0.8481413",
       "timestamp": 1273.39,
       "content": "well we have no doubt that price has an affect in the big picture in uruguay it had a relatively small contribution in part because the tobacco industry reacted to those price increases",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "d3d0fa42-807d-475b-a2a7-43fab0d530cf"
     },
-    "1286.02": {
+    {
       "requestid": "2f39672e-3a1a-4bf0-8ad2-ac133d556a26",
       "confidence": "0.8409736",
       "timestamp": 1286.02,
       "content": "in other words when the government increase the cigarette tax the manufacturers lower the prices of the consumer winfuel such a hit according to one calculation the average price of a pack of cigarettes in your agui is $3.61 compared to $6.36 in the us",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "a7af4431-48a7-4beb-8859-e50104644e95"
     },
-    "1306.0": {
+    {
       "requestid": "4a8ee2d9-e9a5-436f-a0b6-fd8fa1146c92",
       "confidence": "0.7248754",
       "timestamp": 1306.0,
       "content": "according to jeff harris it was too non price initiatives that really move the needle in your way the first was the single presentation rule basically you only get one version of each cigarette brand so",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "264e05ec-4ee6-471b-8ebd-6f24c254f726"
     },
-    "1321.21": {
+    {
       "requestid": "7664550a-6ddd-47a3-addf-2d399e3f8ad5",
       "confidence": "0.7234228",
       "timestamp": 1321.21,
       "content": "no menthol know my old just one choice per brand",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c31d4793-186e-4bbe-91f7-0dff9f81c6d8"
     },
-    "1325.84": {
+    {
       "requestid": "f4a081dd-4fdf-4c4f-99d2-de216b335c59",
       "confidence": "0.8037996",
       "timestamp": 1325.84,
       "content": "the objective of the government really was to avoid any possible implication that a particular brand was safer or less hazardous than another",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "968db701-2252-489c-acf0-eadd6210aeed"
     },
-    "1337.31": {
+    {
       "requestid": "cc3c984b-45a4-48bb-8809-9bd932671af4",
       "confidence": "0.6750957",
       "timestamp": 1337.31,
       "content": "earlier on the government had bandoro prohibited such word as light smooth lotar but it turns out that a lot of research that's been done throughout the world not just in uruguay indicates that even the color falsely suggest that a cigarette is safer",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "0d658d29-dab9-49fd-a912-b47fe4880fcb"
     },
-    "1357.01": {
+    {
       "requestid": "6d95817a-239f-42e1-ab6a-f1ef28a17863",
       "confidence": "0.8177112",
       "timestamp": 1357.01,
       "content": "what else worked the graphic grotesque imagery on the cigarette packs",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b185531f-bc91-418b-ba2a-351baba5ddcf"
     },
-    "1363.08": {
+    {
       "requestid": "bb0fffa9-1629-4f07-8990-965734079eff",
       "confidence": "0.8066905",
       "timestamp": 1363.08,
       "content": "they would have an image of a baby that look like a baby with a neonatal intensive care sometimes connected to something to look like oxygen and saying asking the smoker in spanish roughly is this the life you chose to give him",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "2337a68d-02d9-4fc2-8916-50baea71d8d2"
     },
-    "1378.42": {
+    {
       "requestid": "d03d0286-161e-46a5-ba10-dfcaaf4771b5",
       "timestamp": 1378.42,
-      "content": ""
+      "content": "",
+      "uuid": "c8b954b5-52ef-432c-9b89-654883b0fbe1"
     },
-    "1380.61": {
+    {
       "requestid": "bf3aa7a3-0439-4a0c-a11a-682fb3db2b56",
       "timestamp": 1380.61,
-      "content": ""
+      "content": "",
+      "uuid": "42f6f33b-b07d-4499-8184-369c22dc1a44"
     },
-    "1382.45": {
+    {
       "requestid": "92492ac2-ef78-4a47-a17c-82691fbcda3e",
       "confidence": "0.7785488",
       "timestamp": 1382.45,
       "content": "no you mean actually wonder if the us has reduced smoking rate so much without the use of graphic imagery like that's what would happen if we did use it that says california it's hard to say",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "fd7f7607-9f17-4f66-8948-cbddcedbb85c"
     },
-    "1395.56": {
+    {
       "requestid": "5f4e527a-4af0-47ca-89ae-97dcce6268d1",
       "confidence": "0.6836379",
       "timestamp": 1395.56,
       "content": "hi we were supposed to have that here your goslins september and of course of the bank of industry sudip ramanathan brenell back guy or I should say FTA is now back at the beginning with that one",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "bc339d41-dca4-4482-af62-40b5a7bee7f9"
     },
-    "1409.55": {
+    {
       "requestid": "6a0ada19-5d26-4a67-b044-f87492143b7f",
       "confidence": "0.8153416",
       "timestamp": 1409.55,
       "content": "as we noted earlier there is a lot of variance around the world and how smoking is treated is also a lot of variance in who smokes and who doesn't is jeff harris again",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b520a8d8-aa97-4f02-b180-57704babf65a"
     },
-    "1421.36": {
+    {
       "requestid": "35cc0d96-3d47-40cd-902f-2073417c81ce",
       "confidence": "0.7956703",
       "timestamp": 1421.36,
       "content": "approximately 80% of all that tobacco use in the world now occurs in low and middle income countries and within a short amount of time 80% of all the deaths attributable to tobacco use also occur in those countries",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "f5f9bacf-fe8c-4270-9ca8-1379873a7f13"
     },
-    "1436.29": {
+    {
       "requestid": "60322a11-7de2-4288-b645-fc87efe9087c",
       "confidence": "0.9098967",
       "timestamp": 1436.29,
       "content": "and how many deaths will that be",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "10b3e94d-deb7-4aef-8571-431746a28e87"
     },
-    "1438.71": {
+    {
       "requestid": "2be4eaa2-2b25-441b-866c-8778a43f1b4b",
       "confidence": "0.8464563",
       "timestamp": 1438.71,
       "content": "the world health organization is estimated that now in the order of 5,000,000 people will die on an annual basis as a result of tobacco use throughout the world in another 600,000 will die from secondhand are environmental tobacco smoke",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "a5775c4f-63bf-4cfd-a0ee-daa62a6181b5"
     },
-    "1456.63": {
+    {
       "requestid": "a4d9d14d-9e63-4930-add1-9d246246f7e5",
       "timestamp": 1456.63,
-      "content": ""
+      "content": "",
+      "uuid": "25f644e8-e8ac-462d-8056-9f2d9a3255c4"
     },
-    "1464.15": {
+    {
       "requestid": "35273c47-46ca-44f3-b219-a7490e790f51",
       "confidence": "0.6836705",
       "timestamp": 1464.15,
       "content": "if you are primarily a humanist you have to see all the stuff that's terrible news 5,000,000 preben tabol premature deaths a year if however you are primarily in the comments make it to scusi",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "90200b44-4806-447b-80d9-d88de4d1314e"
     },
-    "1481.47": {
+    {
       "requestid": "1cbc1638-1d4f-4bf8-bebc-cc8618e50928",
       "confidence": "0.7130315",
       "timestamp": 1481.47,
       "content": "you may also calculate the cost savings from all that smoking death",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "7d98323f-77bc-4022-9356-2a884b7463e8"
     },
-    "1486.9": {
+    {
       "requestid": "8ed5ff9b-ab7c-49ea-9820-e29b127541b6",
       "confidence": "0.2191216",
       "timestamp": 1486.9,
       "content": "fiaschi epoka sportowe",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "0b42da71-d9f9-4fb2-9fc9-8b94341608aa"
     },
-    "1489.36": {
+    {
       "requestid": "a804c2ee-429c-460b-bf01-745100617b4e",
       "confidence": "0.7487736",
       "timestamp": 1489.36,
       "content": "so yes we know that",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "ce20d862-d628-4b7c-bc13-6128cf5e7214"
     },
-    "1491.17": {
+    {
       "requestid": "10b0df51-fd97-48c0-85bd-fe14f40f27d9",
       "confidence": "0.7658226",
       "timestamp": 1491.17,
       "content": "smokers on ballad savus 32 cents a pack through smoking do to decrease pension cost nursing home care cost in like",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "a8c4d796-0899-44bf-8934-ccd6d8b51a5f"
     },
-    "1500.65": {
+    {
       "requestid": "79c6cb42-025c-4ec3-b7f6-80fff2268f84",
       "confidence": "0.8329109",
       "timestamp": 1500.65,
       "content": "this of course is a controversial argument in 2001 a report commissioned in the czech republic by philip morris tobacco company with met with outrage kenneth warner told a story",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "348ac4e1-8a85-4d4f-856a-67559e8845d6"
     },
-    "1512.26": {
+    {
       "requestid": "f205aa88-c76a-4614-91d5-ab2787028f05",
       "confidence": "0.8215618",
       "timestamp": 1512.26,
       "content": "yeah there was a consultant at tobacco industry typecon sultanzade who told to check government 2001 that they shouldn't want their citizens to quit smoking because if they did you have all those horrible old age course you have to provide housing for these people",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "efe586fe-7675-47fe-99fd-bfe894c59ebd"
     },
-    "1529.58": {
+    {
       "requestid": "feecfeef-6461-4d99-9e36-534843b8bb56",
       "confidence": "0.866024",
       "timestamp": 1529.58,
       "content": "you have to take care of their medical care you have to subsidize their incomes with pensions would go on and on and on and I of course this blew up in their faces when it became public",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "ecb1a285-0b49-4ad3-93ed-6b97101399aa"
     },
-    "1540.65": {
+    {
       "requestid": "b92f9135-4677-4ff2-9088-c0f87a6385f9",
       "confidence": "0.5111105",
       "timestamp": 1540.65,
       "content": "users grain of truth there",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "38b377bf-7974-4247-bf00-03192545957e"
     },
-    "1543.19": {
+    {
       "requestid": "dfdd7d29-bd40-4035-a198-aafda138a757",
       "confidence": "0.731529",
       "timestamp": 1543.19,
       "content": "just because a columnist can measure the medical cost of less deaths from smoking doesn't mean they're hoping for more deaths from smoking is jeff harris",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "8a28f34a-1ab0-4d91-949e-524eab0ff037"
     },
-    "1553.41": {
+    {
       "requestid": "841ee323-7e4a-48b4-9708-af0009541cca",
       "confidence": "0.7975466",
       "timestamp": 1553.41,
       "content": "you have to be careful about this um I don't think that you can just make the argument that quitting smoking has a certain cost to society without asking the same question will any other improvement in our public health would have the same cost",
-      "speaker": "S181"
+      "speaker": "S181",
+      "uuid": "06d04569-e9f5-4d47-b74f-80e40112d0c5"
     },
-    "1569.54": {
+    {
       "requestid": "fd13696b-9a6d-4795-9293-90ceedc9ac79",
       "confidence": "0.7772136",
       "timestamp": 1569.54,
       "content": "it is also worth noting that just does low income countries are more likely to have more smoking in the us also there is a social economic split to help define who smokes in 2000 is california",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c2109eaf-54eb-40c8-9f49-ec10b8abd976"
     },
-    "1584.86": {
+    {
       "requestid": "8c0a833c-dfb7-4cc4-918c-b9804d96afce",
       "confidence": "0.784104",
       "timestamp": 1584.86,
       "content": "if you look at the population that is at the poverty line or above it about 18% of them are smokers if you look at the population below the poverty line about 29%",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b84ce9bb-9d10-47ea-923e-655582e92f70"
     },
-    "1597.59": {
+    {
       "requestid": "584f1464-4220-4abd-a8a3-1dceaddb957b",
       "confidence": "0.8636411",
       "timestamp": 1597.59,
       "content": "if you look at college graduates 7.5 percent of them smoke today if you look at people with only 9211 years of high school education tybouts 36% we go back to the time is sarah jones report",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b931d915-743c-446f-a331-0eb773bcc1e5"
     },
-    "1612.34": {
+    {
       "requestid": "f708b2eb-d34c-4572-b420-60c750e1da98",
       "confidence": "0.7392109",
       "timestamp": 1612.34,
       "content": "that remember was 19th",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b1bb29b6-c89b-4f8c-b118-7aa81b0b1ef7"
     },
-    "1614.04": {
+    {
       "requestid": "82c53932-78bd-4d9d-b571-50b1a31ad0db",
       "confidence": "0.8683749",
       "timestamp": 1614.04,
       "content": "d 4 those numbers were very close to each other",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "4e3c50c6-a32a-4340-8860-6bca19a03199"
     },
-    "1618.1": {
+    {
       "requestid": "18d160d8-3e62-410b-908e-f7aa30ea4b08",
       "confidence": "0.8289009",
       "timestamp": 1618.1,
       "content": "so that's a huge issue is a socio economic disparity another one that we are finally started to recognize and talk about in the field of tobacco control in it is very important",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "290c97ce-386e-4e2a-b959-fef21d68e0a4"
     },
-    "1629.88": {
+    {
       "requestid": "071f04e4-4576-45a2-aa81-1a5e94cd4806",
       "confidence": "0.8556641",
       "timestamp": 1629.88,
       "content": "perhaps as many as 40 to 50% of all smokers have a concurrent mental health disability or morbidity and 4 other substance abuse problems",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "2695142e-fe4f-4b07-ba5b-239107ac6f2e"
     },
-    "1644.04": {
+    {
       "requestid": "36605d4c-0f8d-42ba-ab98-76eb3d07822a",
       "confidence": "0.7589225",
       "timestamp": 1644.04,
       "content": "the cigarette industry is always like to talk about smoking is being a year older ashnod choice of well informed adults",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "6d86bba3-e53b-4fd0-be6a-14f97ebcc948"
     },
-    "1652.66": {
+    {
       "requestid": "2ba2d7ce-a5fe-441e-975a-934d79bb9ef6",
       "confidence": "0.9235039",
       "timestamp": 1652.66,
       "content": "and yet we had a strong correlation between smoking and mental illness",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "f46388ad-d271-4820-b3e8-e624b714f5c2"
     },
-    "1657.77": {
+    {
       "requestid": "05893b5c-eeee-44d1-9dd0-58a5d8112c20",
       "timestamp": 1657.77,
-      "content": ""
+      "content": "",
+      "uuid": "5f772fa9-fbfb-4520-ac06-0a14422ace9e"
     },
-    "1662.9": {
+    {
       "requestid": "f04840e8-64e2-4a13-b43c-6e0055d03486",
       "confidence": "0.8137597",
       "timestamp": 1662.9,
       "content": "set this opens up a whole other way to look smoking that it is to some degree self medication with side effect of course paul new house is an MD renta center for cognitive medicine at vanderbilt for 30 years new house is been studying the effects of nicotine on the brain",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "14c89f6e-3df9-4bd4-9f2c-e02ece4b4c2b"
     },
-    "1681.53": {
+    {
       "requestid": "04d71843-c470-48a6-b0b7-8b1f0d00a662",
       "confidence": "0.8279639",
       "timestamp": 1681.53,
       "content": "we jokingly say in our lab you know good rock band delivery system",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "c485058f-68d2-4892-9d56-416ca501967f"
     },
-    "1685.51": {
+    {
       "requestid": "f88a23ac-2b19-4e78-a860-1dfb82edf96d",
       "confidence": "0.7260274",
       "timestamp": 1685.51,
       "content": "newhouse tells us that nicotine itself has a number of potentially positive characteristics",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "3c778899-d4f4-4b68-8472-3213938f1372"
     },
-    "1692.38": {
+    {
       "requestid": "e2c39cd6-2566-4342-93a6-a504f24e214b",
       "confidence": "0.8259224",
       "timestamp": 1692.38,
       "content": "it appears to activate a class of what we call receptors important for regulating a whole variety of brain functions in so we think",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "43ec5a92-23ce-4480-9ff1-b221ba62bdb5"
     },
-    "1701.03": {
+    {
       "requestid": "8218712f-6bf8-418b-a47c-cf3572eb8177",
       "confidence": "0.752208",
       "timestamp": 1701.03,
       "content": "lipnica tenik receptors are important for things like attention",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "de2ad2f2-f5f8-4c71-9ed7-0c76ebe413a9"
     },
-    "1705.03": {
+    {
       "requestid": "aac36a90-1648-4c7e-80b5-a1c9e93529db",
       "confidence": "0.6971325",
       "timestamp": 1705.03,
       "content": "for behavioral strategies 4",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "52174081-c8ba-4ee1-b2d1-9ace660d3a1c"
     },
-    "1708.02": {
+    {
       "requestid": "0de09b6a-36bd-4bc7-a13b-a9169a3d5dbe",
       "confidence": "0.8103569",
       "timestamp": 1708.02,
       "content": "what we call executive functioning which is the ability to make decisions in valuate information we think it's important for memory and so that has kind of letters to thinking about what particular disorders might be helped by stimulating nicotinic receptors either with nicotinoyl something else",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "3f353be7-a38c-404a-9764-f2cbe24129e9"
     },
-    "1728.51": {
+    {
       "requestid": "d9ca1f87-3455-4ac2-8bd9-1f99e26c834d",
       "confidence": "0.8547127",
       "timestamp": 1728.51,
       "content": "the new house in others in this field are exploring of nicotine therapy might be used to treat schizophrenia parkinson's disease or other maladies",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "0407c19d-68e7-410b-8495-98fc1f8fe20f"
     },
-    "1737.8": {
+    {
       "requestid": "02dff5b2-9601-4501-8a4b-ac531038fd0d",
       "confidence": "0.796962",
       "timestamp": 1737.8,
       "content": "things like memory loss disorders all timers disease free all timers disease which is called mild cognitive impairment we've looked at 80 hd attention deficit hyperactivity disorder other investigators of look at everything from tourette syndrome to anxiety disorders depression",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "cd37b92c-d0b7-4938-b1b1-36c1d43b9231"
     },
-    "1757.24": {
+    {
       "requestid": "8793675a-7bd4-461f-86ae-bb9971fbcdf0",
       "confidence": "0.7131538",
       "timestamp": 1757.24,
       "content": "I'm so I think that the full potential of nicotine and nicotinic drugs is really not even fully nonya",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "02589f4b-fe37-47b6-a32c-b5963fa8171d"
     },
-    "1763.1": {
+    {
       "requestid": "0229fdc0-0bbd-4c4c-b7a7-1363569662e7",
       "confidence": "0.800138",
       "timestamp": 1763.1,
       "content": "new house does believe however the nicotine have medicinal effects and that is why some smoker smoke",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "0b6b6c5e-7ab9-4c7d-a62c-ae597b11c297"
     },
-    "1771.05": {
+    {
       "requestid": "b75b77c7-fb9a-4e2e-b42e-5bf4e2f3ddf1",
       "confidence": "0.8951389",
       "timestamp": 1771.05,
       "content": "if you look at heavy smokers you will find that many of them have mood disorders or anxiety disorders is well the rates of psychological problems among heavy smokers these days are very high",
-      "speaker": "S275"
+      "speaker": "S275",
+      "uuid": "99bf0dd5-7468-4cfa-b8d3-f86169167a4b"
     },
-    "1783.74": {
+    {
       "requestid": "816e71a9-e628-4059-8035-1ad6061e1647",
       "confidence": "0.775494",
       "timestamp": 1783.74,
       "content": "and we think that one of the reasons they smoke is because it produces benefits to them maybe improve their mood maybe at stabilizes their anxiety maybe at I help them pay attention or inhibit impulsiveness you know it cetera",
-      "speaker": "S275"
+      "speaker": "S275",
+      "uuid": "a5a8977c-cffc-4444-8f20-28157891206e"
     },
-    "1802.83": {
+    {
       "requestid": "cb3c0bd8-9975-4fe9-bd45-8cd57b236d8d",
       "confidence": "0.775629",
       "timestamp": 1802.83,
       "content": "that may be one reason why so many smokers evermann they say they'd rather not smoke",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "2a5aeaa1-3eb7-4c0f-b295-4d23a1396cbf"
     },
-    "1809.0": {
+    {
       "requestid": "fe0bdf1c-ce53-4773-8036-5f1cdfa333d9",
       "confidence": "0.6085186",
       "timestamp": 1809.0,
       "content": "can't quit",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "1c619935-b1a3-414d-80ab-b84f2a143dff"
     },
-    "1814.86": {
+    {
       "requestid": "a36ef9a5-95f6-461c-bc0d-eb8cb68bf20d",
       "confidence": "0.6624157",
       "timestamp": 1814.86,
       "content": "fact is that all these anti smoking measures we talked about today warnings taxes advertising bancilhon",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "e0d26951-572e-47c3-aad5-a7b110d7f038"
     },
-    "1823.34": {
+    {
       "requestid": "97e2b3bc-b9c6-4829-9c8b-9a6e21fdd789",
       "confidence": "0.5497672",
       "timestamp": 1823.34,
       "content": "pale imitation of some historic anti smoking measures end",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "165afd0b-5246-4e9b-857b-350c2b04f7ef"
     },
-    "1828.87": {
+    {
       "requestid": "254fba28-73f7-4ae7-90a4-279c552a871a",
       "confidence": "0.5840189",
       "timestamp": 1828.87,
       "content": "they did not really work either",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "a9e529d0-7dbd-422c-acbe-3d202c9467be"
     },
-    "1830.46": {
+    {
       "requestid": "685b4232-31c7-4616-a061-19fac5bb1c0f",
       "timestamp": 1830.46,
-      "content": ""
+      "content": "",
+      "uuid": "9b548c99-40b2-4bcf-b6e4-dc77aeb500e1"
     },
-    "1832.83": {
+    {
       "requestid": "29657bd4-5df2-4478-a319-fb724a731a68",
       "confidence": "0.7527148",
       "timestamp": 1832.83,
       "content": "sultan murad the fourth at back in the early 16 hundreds",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "6987a469-94b3-4d1a-8779-84c43cc7f2e7"
     },
-    "1838.37": {
+    {
       "requestid": "6945150e-5c8f-4797-9c05-8151041559e1",
       "confidence": "0.7130428",
       "timestamp": 1838.37,
       "content": "prohibited smoking know I'll be sleep is not cigarettes be prohibited the smoking of tobacco can afford it again in fact I it was a rather severe penalty for smoking",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "3a526326-f62e-4397-a4cd-573fcf7e3d7f"
     },
-    "1850.64": {
+    {
       "requestid": "da46f425-f793-4fb6-9069-00bdbc10cd71",
       "confidence": "0.8019191",
       "timestamp": 1850.64,
       "content": "I it was punishable by death and despite the fact that he had that severe penalty and despite the fact that he executed some smokers people continue to consume tobacco I need smokes porn I wanna tell him up there were many ways that does he executed the smokers",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "aa02c37d-4025-4b02-961e-11e05a8980a9"
     },
-    "1869.03": {
+    {
       "requestid": "0be1f950-8092-4e5c-8deb-c9b0932d5bbd",
       "confidence": "0.7512261",
       "timestamp": 1869.03,
       "content": "but one of them that they just makes it very picturesque",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "2de89cae-7860-49c3-a6a6-4e55a6e77678"
     },
-    "1872.59": {
+    {
       "requestid": "9a903c09-494f-4d70-a3ce-79ece675c0b7",
       "confidence": "0.786392",
       "timestamp": 1872.59,
       "content": "is it he says that a person would be drawn and quartered by 4 strong horses",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "40ff30b4-72c5-4cc6-ab76-12d7d15f5b17"
     },
-    "1878.67": {
+    {
       "requestid": "73831243-4c3d-4d53-bc39-d30883bf6b95",
       "confidence": "0.8438162",
       "timestamp": 1878.67,
       "content": "I is that doesn't get you to quit smoking not much else is going to",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "ad587830-ee3c-4c37-9dc5-3ae087b13a8f"
     },
-    "1882.98": {
+    {
       "requestid": "cf17c778-6d56-42fa-b955-a4b70ed79dc3",
       "confidence": "0.7844231",
       "timestamp": 1882.98,
       "content": "in what you may ask did the ottoman rulers do when given the death penalty failed to dissuade smokers",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "f3340b46-a720-4af1-9d81-2a022240c068"
     },
-    "1893.48": {
+    {
       "requestid": "c5ad96c9-e7a6-4c1c-8f78-7d589e8c1e79",
       "confidence": "0.6295141",
       "timestamp": 1893.48,
       "content": "the text them",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "419e046e-d206-44fe-8127-14bf89ec2c09"
     },
-    "1906.3": {
+    {
       "requestid": "de454204-1ca4-4649-bb56-bac179be4e24",
       "confidence": "0.7589437",
       "timestamp": 1906.3,
       "content": "epignosis news as we mentioned at the top of the show lab and I are putting out a new book called think like a freak on May 13th",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "e46f4a94-c65c-4a93-939a-24c3c614688d"
     },
-    "1916.31": {
+    {
       "requestid": "7cad50c2-13fc-45d6-8c38-da5d273fb444",
       "confidence": "0.8102152",
       "timestamp": 1916.31,
       "content": "and so why don't we do one of our faq episodes about it you know how that works right eastenders",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "fab627b1-55cd-4514-b5b1-ebd2e2ddcb49"
     },
-    "1924.44": {
+    {
       "requestid": "104a5e1e-6f30-4cdf-8a39-b157635bcc85",
       "confidence": "0.8494783",
       "timestamp": 1924.44,
       "content": "whatever questions you have to radio atfreakonomics.com and we will answer them on the spot guess if you wanna learn more about the book before ethan your questions you can visitfreakonomics.com where we posted the table of contents and some other materials",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "3f41d0a4-bb90-46f3-b18f-3002026f26f3"
     },
-    "1938.17": {
+    {
       "requestid": "9a8c6b5e-7ebe-4c64-81f3-eb7600711ade",
       "confidence": "0.758435",
       "timestamp": 1938.17,
       "content": "thanks in advance for whatever questions you send me while on next week so we talk to mayuresh from all over the country boston los angeles from albuquerque in new haven and we ask them what the world would look like if they were in charge that's next time and freakonomics radio",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "47a6eb17-d79b-4a1a-9903-3ef5f87d9820"
     },
-    "1962.28": {
+    {
       "requestid": "f3d81fba-b2ce-452b-b008-eca50d43bf2f",
       "confidence": "0.7944978",
       "timestamp": 1962.28,
       "content": "freakonomics radio is produced by w on my feet in dubna production",
-      "speaker": "S305"
+      "speaker": "S305",
+      "uuid": "23d85f9a-56be-4f0d-b914-a1a4bf765b27"
     },
-    "1967.04": {
+    {
       "requestid": "0e8662f4-64f8-4e6c-b8a5-ab212201ccd1",
       "confidence": "0.6620519",
       "timestamp": 1967.04,
       "content": "our staff include david herman greg rebelski predacons for a lam treti peminat me susie lechtenberg in crispins and do you want more freakonomics radio you can prescribe talk podcast on itunes or go to freakonomics.com will find lots of radio was the book and more",
-      "speaker": "S305"
+      "speaker": "S305",
+      "uuid": "f91e3bae-d2e1-4ba1-87ce-f00e5e7caf84"
     },
-    "1985.0": {
+    {
       "requestid": "24394c09-47c4-467c-b921-3b045b1e71a5",
       "timestamp": 1985.0,
-      "content": ""
+      "content": "",
+      "uuid": "cea9dc09-21b8-4155-958b-33658400f81a"
     },
-    "1997.14": {
+    {
       "requestid": "92dbb84d-84f4-4cd8-95ea-c4d11b7ed450",
       "timestamp": 1997.14,
-      "content": ""
+      "content": "",
+      "uuid": "2130b840-c353-4d68-9f6c-46c8a87e0dad"
     },
-    "2000.52": {
+    {
       "requestid": "1d0d6356-6b6d-498d-8630-fc5f47ddfee8",
       "confidence": "0.7990917",
       "timestamp": 2000.52,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "0c5e3ee9-7a5b-4e7b-b1cc-2531ae16b1d6"
     },
-    "2020.08": {
+    {
       "requestid": "3c74576b-4168-4f7e-b2e9-decc8605cb20",
       "confidence": "0.9056965",
       "timestamp": 2020.08,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managed for free",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c63e3226-38a5-4afa-9b36-a8238817f032"
     }
-  }
+  ]
 }

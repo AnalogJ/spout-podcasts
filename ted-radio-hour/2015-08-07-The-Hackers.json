@@ -3,1915 +3,2234 @@
   "date": "2015-08-07",
   "description": "In this hour, TED speakers dare to hack the brain, the climate, and the animal kingdom in hopes of creating a better world.",
   "episode_url": "http://podcastdownload.npr.org/anon.npr-mp3/npr/ted/2015/08/20150807_ted_hacking.mp3?orgId=1&p=510298&story=430059003&t=podcast&e=430059003&ft=pod&f=510298",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "fef60ae8-b442-4bf1-8ca2-4dd4059a63d2",
       "confidence": "0.8405464",
       "timestamp": 0,
-      "content": "support for this podcast in the following message comes from air B&B experience the kindness of staying with localhost around the world air bnb belong anywhere"
+      "content": "support for this podcast in the following message comes from air B&B experience the kindness of staying with localhost around the world air bnb belong anywhere",
+      "uuid": "638ee03d-f4f8-4945-b08e-30081a7da003"
     },
-    "10": {
+    {
       "requestid": "04f6bc28-538e-4616-bb26-d7920522feaf",
       "confidence": "0.7734622",
       "timestamp": 10,
-      "content": "hey it's got here just a quick note that we are working on new episodes of the ted radio hour mean time check out this one from araka is it called the hackers it's all about hacking everything"
+      "content": "hey it's got here just a quick note that we are working on new episodes of the ted radio hour mean time check out this one from araka is it called the hackers it's all about hacking everything",
+      "uuid": "3e2ed486-2b74-4554-ab7f-b0901c000acc"
     },
-    "20": {
+    {
       "requestid": "0c5d5c57-0e63-4be0-842b-a3ec33bce1d4",
       "confidence": "0.7485041",
       "timestamp": 20,
-      "content": "my brain to the climate of the animal kingdom all in the service of taking the world a better place enjoy this"
+      "content": "my brain to the climate of the animal kingdom all in the service of taking the world a better place enjoy this",
+      "uuid": "90a02340-cd28-4797-9aec-f8a9cd9bfaf8"
     },
-    "30": {
+    {
       "requestid": "a2f0805a-230c-4bf7-8282-b0cca6896c7c",
       "confidence": "0.4495656",
       "timestamp": 30,
-      "content": "is the ted radio hour each week from breaking bad top 10 hit entertainment design design"
+      "content": "is the ted radio hour each week from breaking bad top 10 hit entertainment design design",
+      "uuid": "a1180680-4490-444d-8a7f-8265bce5711d"
     },
-    "40": {
+    {
       "requestid": "8f9844e6-284c-4250-bbf0-8214417fac9c",
       "confidence": "0.6028139",
       "timestamp": 40,
-      "content": "liberty head conferences around the world gift of the human imagination we had to believe in the impossible true make you"
+      "content": "liberty head conferences around the world gift of the human imagination we had to believe in the impossible true make you",
+      "uuid": "28c1a63a-a776-41be-bf01-4a5e92098be2"
     },
-    "50": {
+    {
       "requestid": "720b4296-098c-4dea-ba85-ad6ef7aa0ea1",
       "confidence": "0.2949729",
       "timestamp": 50,
-      "content": "just beyond those tops DS captive for radio"
+      "content": "just beyond those tops DS captive for radio",
+      "uuid": "a287d1bc-6eb1-4bed-b1d4-a9c19caed9b5"
     },
-    "60": {
+    {
       "requestid": "ca8715c5-ad1e-497e-8d39-ba239278cb76",
       "confidence": "0.4983073",
       "timestamp": 60,
-      "content": "I'm die rise and on the show today need the hackers who could change everything"
+      "content": "I'm die rise and on the show today need the hackers who could change everything",
+      "uuid": "a931d06d-6989-4d71-8614-92bf6db2aedc"
     },
-    "70": {
+    {
       "requestid": "2cc9f580-f0aa-4572-bec4-b23f930ff8b0",
       "confidence": "0.6477703",
       "timestamp": 70,
-      "content": "sorry so late we called up a computer hacker week I'm in the middle of a huge hacker convention in las vegas it's called defcon and while you're at the disco konferenz you"
+      "content": "sorry so late we called up a computer hacker week I'm in the middle of a huge hacker convention in las vegas it's called defcon and while you're at the disco konferenz you",
+      "uuid": "c20755a3-bdca-4450-bc9e-6612f731565b"
     },
-    "80": {
+    {
       "requestid": "33d6ba40-d7a7-416b-a4a2-844fea121a2b",
       "confidence": "0.646502",
       "timestamp": 80,
-      "content": "don't use the a tm's you don't check your email you don't trust any of the Wi-Fi networks you don't trust any"
+      "content": "don't use the a tm's you don't check your email you don't trust any of the Wi-Fi networks you don't trust any",
+      "uuid": "7a427a6f-cd42-4e58-a467-84566e410147"
     },
-    "90": {
+    {
       "requestid": "98734d94-cff6-4926-a9cb-12cd6e1e59a2",
       "confidence": "0.5901482",
       "timestamp": 90,
-      "content": "that's the way it works wow tv using a pen and pad why you act like a super high tech conference tenant at work very well that"
+      "content": "that's the way it works wow tv using a pen and pad why you act like a super high tech conference tenant at work very well that",
+      "uuid": "3b57d455-b8d1-48ce-9fd7-8cbe6826adcb"
     },
-    "100": {
+    {
       "requestid": "e8e62515-63f9-45b3-baca-e6ae76e542bb",
       "confidence": "0.5240139",
       "timestamp": 100,
-      "content": "I recommend when you're at tesco's that need to be cool with a very long k last name is hip bone in with a very long p megos from finland in houston"
+      "content": "I recommend when you're at tesco's that need to be cool with a very long k last name is hip bone in with a very long p megos from finland in houston",
+      "uuid": "dde124df-2f99-4739-b63c-f6332b0a476f"
     },
-    "110": {
+    {
       "requestid": "cc28220a-933c-4914-b7f8-78d2ade4e0af",
       "confidence": "0.6005254",
       "timestamp": 110,
-      "content": "abersoch your team is one good guys I'm a hacker but I'm good got a packers and I've I've never been a criminal and a many pedi guys in the field used to be ready need to stop"
+      "content": "abersoch your team is one good guys I'm a hacker but I'm good got a packers and I've I've never been a criminal and a many pedi guys in the field used to be ready need to stop",
+      "uuid": "13825638-48dc-4e88-8746-b0585fe89849"
     },
-    "120": {
+    {
       "requestid": "ea2d9abb-ee62-49a8-b225-172345e5728f",
       "confidence": "0.5915716",
       "timestamp": 120,
-      "content": "tell people who are breaking the systems know just people are trying to defend against systems anyway we pulled me go away from death note for few minutes if you could help with"
+      "content": "tell people who are breaking the systems know just people are trying to defend against systems anyway we pulled me go away from death note for few minutes if you could help with",
+      "uuid": "30d31c69-ff9c-40b8-a15d-43353bf812db"
     },
-    "130": {
+    {
       "requestid": "aaa164ce-6b0b-4ae1-885c-658a2cee396e",
       "confidence": "0.5515371",
       "timestamp": 130,
-      "content": "story that he told on that texted about too early computer hackers the hackers the hindbrain originally at first encounter braining 9"
+      "content": "story that he told on that texted about too early computer hackers the hackers the hindbrain originally at first encounter braining 9",
+      "uuid": "e5cb9c86-c6fe-4a67-8d0a-d331b36ad199"
     },
-    "140": {
+    {
       "requestid": "128b81b1-962e-49a4-be0b-7438ea9b508c",
       "confidence": "0.6217458",
       "timestamp": 140,
-      "content": "in 86 brain was the world's 1st pc computer there's no one knew where it came from it was spreading at that time bieber"
+      "content": "in 86 brain was the world's 1st pc computer there's no one knew where it came from it was spreading at that time bieber",
+      "uuid": "116baaa3-79a9-4094-9863-71e49cac107d"
     },
-    "150": {
+    {
       "requestid": "ebe0777b-a360-4f48-af38-42dba92417bd",
       "confidence": "0.5270731",
       "timestamp": 150,
-      "content": "moving date around 4 pics no network no internet email if you have to move something from one computer to another you could be do a floppy disk and then you have to be to"
+      "content": "moving date around 4 pics no network no internet email if you have to move something from one computer to another you could be do a floppy disk and then you have to be to",
+      "uuid": "d9aa0f16-af6b-4e9f-bd48-47a6b28ba604"
     },
-    "160": {
+    {
       "requestid": "d1a72083-52e1-4fdb-8a42-cdf757a47f4b",
       "confidence": "0.5150889",
       "timestamp": 160,
-      "content": "peter but if that bobby disqus is infected with bring you also move the virus from one computer to another"
+      "content": "peter but if that bobby disqus is infected with bring you also move the virus from one computer to another",
+      "uuid": "4f3718fa-080b-4ce3-950c-6b2057c313c3"
     },
-    "170": {
+    {
       "requestid": "581a8392-7ade-4a3b-9b35-f6222dc9e293",
       "confidence": "0.660095",
       "timestamp": 170,
-      "content": "and it didn't do anything to your computer did the senate in you were powerless to stop it was a simple virus and it was actually ahead with that I'm way ahead of its time"
+      "content": "and it didn't do anything to your computer did the senate in you were powerless to stop it was a simple virus and it was actually ahead with that I'm way ahead of its time",
+      "uuid": "e78a6125-68ad-424d-870e-94cbd7e3d4a3"
     },
-    "180": {
+    {
       "requestid": "8d615fb3-29ee-4082-a55b-81cffb203bd7",
       "confidence": "0.6249192",
       "timestamp": 180,
-      "content": "it's surprisingly advanced and it has a price and features including the capability of hiding it so so when your pc is infected by brain"
+      "content": "it's surprisingly advanced and it has a price and features including the capability of hiding it so so when your pc is infected by brain",
+      "uuid": "cb82e1e6-b6ed-4e0e-b917-f9834d78d5e7"
     },
-    "190": {
+    {
       "requestid": "74cce5cf-19fd-494e-9b4f-ad8c73a46a48",
       "confidence": "0.5926304",
       "timestamp": 190,
-      "content": "did you go look at your phone please see brian on the phone please its its watching you watching even if you try to look at the copy of brain eat food you and gives you"
+      "content": "did you go look at your phone please see brian on the phone please its its watching you watching even if you try to look at the copy of brain eat food you and gives you",
+      "uuid": "e528b2b3-61a2-4b2d-86e2-7ecd79a979bf"
     },
-    "200": {
+    {
       "requestid": "2dd3ba14-52b3-4fb6-a8fb-d723cd8e0e7d",
       "confidence": "0.5053885",
       "timestamp": 200,
-      "content": "clean image of a floppy instead of week old is a stealth virus at that I'm so brain came and went in early heard anymore from blah"
+      "content": "clean image of a floppy instead of week old is a stealth virus at that I'm so brain came and went in early heard anymore from blah",
+      "uuid": "e235dbce-e0d1-44c4-ba22-015217ff15cb"
     },
-    "210": {
+    {
       "requestid": "58975acc-72ae-445f-8950-0e649e811bc4",
       "confidence": "0.6690827",
       "timestamp": 210,
-      "content": "I'm headed to find out where it came from until 2011 when I realize it's gonna be the 25th anniversary"
+      "content": "I'm headed to find out where it came from until 2011 when I realize it's gonna be the 25th anniversary",
+      "uuid": "f4ab70ee-cd31-4504-ad34-67b00fb1ac9b"
     },
-    "220": {
+    {
       "requestid": "ad00e4ce-4781-4c26-be31-ae5013f902a0",
       "confidence": "0.728768",
       "timestamp": 220,
-      "content": "of the brain bars I started looking into it and and and I wanted to find out who wrote so I went back and I remembered this text inside the bars"
+      "content": "of the brain bars I started looking into it and and and I wanted to find out who wrote so I went back and I remembered this text inside the bars",
+      "uuid": "0f799e18-dc0c-4b75-ba4b-3bb388666253"
     },
-    "230": {
+    {
       "requestid": "0f3397e7-9590-4400-93b0-94c3266c6e47",
       "confidence": "0.6100544",
       "timestamp": 230,
-      "content": "I'm sure enough they want text inside of rs inside the brain code text it is"
+      "content": "I'm sure enough they want text inside of rs inside the brain code text it is",
+      "uuid": "fd73cc91-78be-4974-a7b4-aad30605bfb2"
     },
-    "240": {
+    {
       "requestid": "f4d51bf8-443b-48ed-94b0-9c5340a7ca29",
       "confidence": "0.4532559",
       "timestamp": 240,
-      "content": "well let me to read up on it and see what I have"
+      "content": "well let me to read up on it and see what I have",
+      "uuid": "af85a29e-4c05-4d12-95ea-c7f2a25d0651"
     },
-    "250": {
+    {
       "requestid": "0e8afd90-fc93-4ad5-9715-87d126050d78",
       "confidence": "0.5374788",
       "timestamp": 250,
-      "content": "will be at boot sector area floppy disk inside the code of the boot sector what is short text with said welcome"
+      "content": "will be at boot sector area floppy disk inside the code of the boot sector what is short text with said welcome",
+      "uuid": "487efc2d-c12d-4fdc-aea1-95ab5d7c6ca0"
     },
-    "260": {
+    {
       "requestid": "36714170-9e28-4456-9a3c-6211961d84d6",
       "confidence": "0.5496644",
       "timestamp": 260,
-      "content": "the dump truck 1986 brain and then we have an address"
+      "content": "the dump truck 1986 brain and then we have an address",
+      "uuid": "4983284d-75fd-4128-bf3c-62ff2d84b36d"
     },
-    "270": {
+    {
       "requestid": "1e88a1ec-6ca3-4455-8a10-e4d76dc5cdf9",
       "confidence": "0.461716",
       "timestamp": 270,
-      "content": "address in pakistan 730 me some block allama iqbal town then it ends with a text"
+      "content": "address in pakistan 730 me some block allama iqbal town then it ends with a text",
+      "uuid": "f27dcb78-504b-48c6-b5d5-86a40d359c44"
     },
-    "280": {
+    {
       "requestid": "0af9a529-32b3-4265-b777-7272967761f3",
       "confidence": "0.4385225",
       "timestamp": 280,
-      "content": "care of this box office for mac tonight is very a pet friendly of them 2 I could"
+      "content": "care of this box office for mac tonight is very a pet friendly of them 2 I could",
+      "uuid": "1803d578-a909-4732-b671-3de15837d334"
     },
-    "290": {
+    {
       "requestid": "715157d9-09d9-43b4-a4d2-3344393e59f2",
       "confidence": "0.6310226",
       "timestamp": 290,
-      "content": "information on their buyers yes I need to pick up a mystery I when I started investigating this again in 20110 I bet it look up the address in the virus"
+      "content": "information on their buyers yes I need to pick up a mystery I when I started investigating this again in 20110 I bet it look up the address in the virus",
+      "uuid": "ac196e2c-0d09-4af5-bdcf-dd8394e7cef3"
     },
-    "300": {
+    {
       "requestid": "07635310-4112-40e2-a12e-f853b5a7fa1a",
       "confidence": "0.5734134",
       "timestamp": 300,
-      "content": "maps steelers road in lahore in pakistan so I decided to go there and find out if the guys are still there"
+      "content": "maps steelers road in lahore in pakistan so I decided to go there and find out if the guys are still there",
+      "uuid": "f0cc5cba-9a70-48ae-896b-2222823f29ab"
     },
-    "310": {
+    {
       "requestid": "4be2b1ef-40df-4cf7-8ddc-d440baf83ea4",
       "confidence": "0.7194204",
       "timestamp": 310,
-      "content": "so what's up with twitter make it was walking down the street in lahore pakistan looking for the 2 guys mentioned in the code"
+      "content": "so what's up with twitter make it was walking down the street in lahore pakistan looking for the 2 guys mentioned in the code",
+      "uuid": "4d573161-8ee4-424a-a25b-5f6458fc1c2c"
     },
-    "320": {
+    {
       "requestid": "99699191-45f3-44ed-88de-d3f6127da032",
       "confidence": "0.6289097",
       "timestamp": 320,
-      "content": "cheap and I'm driving at night I tried finding 730 walking down the Rd and then I said there's a building with says brain on the side of the building brain computer"
+      "content": "cheap and I'm driving at night I tried finding 730 walking down the Rd and then I said there's a building with says brain on the side of the building brain computer",
+      "uuid": "f200a634-beae-4a30-b7e9-d24605f2642d"
     },
-    "330": {
+    {
       "requestid": "f92f9fcf-ee5b-4949-bca1-0ddd35149913",
       "confidence": "0.5124121",
       "timestamp": 330,
-      "content": "oh believe that's the place not a clue right at least my note on the door"
+      "content": "oh believe that's the place not a clue right at least my note on the door",
+      "uuid": "e3432912-d563-42dd-ab7e-313c99b4438b"
     },
-    "340": {
+    {
       "requestid": "21fa8662-6927-4a8b-a41f-1166a4de2949",
       "timestamp": 340,
-      "content": ""
+      "content": "",
+      "uuid": "258e4bac-cd19-44ba-b6fe-d99abac7936b"
     },
-    "350": {
+    {
       "requestid": "0d79a3c1-4295-415f-b83d-e5dd81510b38",
       "confidence": "0.6337911",
       "timestamp": 350,
-      "content": "sitting down is his brother I'm gonna be there all the guys who wrote the first piece of course we had a very interesting discussion"
+      "content": "sitting down is his brother I'm gonna be there all the guys who wrote the first piece of course we had a very interesting discussion",
+      "uuid": "96b0fd40-4876-409e-b0f9-96f0f56a8d49"
     },
-    "360": {
+    {
       "requestid": "d2dc025a-4705-4237-a6fd-3ca6a5de1474",
       "confidence": "0.6407419",
       "timestamp": 360,
-      "content": "II ask why I ask them how they feel about that they started on them I got some sort of satisfaction from learning that both"
+      "content": "II ask why I ask them how they feel about that they started on them I got some sort of satisfaction from learning that both",
+      "uuid": "ebc32cbe-99ae-4956-a9dc-a8a24d244b2d"
     },
-    "370": {
+    {
       "requestid": "f93903ed-9571-4d50-ad92-089128799731",
       "confidence": "0.509442",
       "timestamp": 370,
-      "content": "undang jud had their computers infected dozens of times by completely unrelated other viruses over this year so there is there some sort of justice"
+      "content": "undang jud had their computers infected dozens of times by completely unrelated other viruses over this year so there is there some sort of justice",
+      "uuid": "32e792bf-acf5-450b-858d-7dea7de727b3"
     },
-    "380": {
+    {
       "requestid": "23e47b7a-f59e-4701-a234-73232e45dbf0",
       "confidence": "0.6874499",
       "timestamp": 380,
-      "content": "in the world after all"
+      "content": "in the world after all",
+      "uuid": "5c79606c-cdc4-473d-946d-f8b318afcf3a"
     },
-    "390": {
+    {
       "requestid": "e0e46070-f6cf-42d8-8c4b-94735fa43caa",
       "confidence": "0.531109",
       "timestamp": 390,
-      "content": "so is this really excited to actually meet them in the real real world in n shake their heads and expect some soup so why did they wanna do it weather"
+      "content": "so is this really excited to actually meet them in the real real world in n shake their heads and expect some soup so why did they wanna do it weather",
+      "uuid": "4218555a-bacb-4608-8541-9316af0902c9"
     },
-    "400": {
+    {
       "requestid": "24260f7f-fdf5-4c36-842d-11058545a7b8",
       "confidence": "0.6174324",
       "timestamp": 400,
-      "content": "get well that was the key question about exactly what I wanted to ask them what's the motivation why did you do this but it turns out that the reason was that big of being broke"
+      "content": "get well that was the key question about exactly what I wanted to ask them what's the motivation why did you do this but it turns out that the reason was that big of being broke",
+      "uuid": "6a3d73d8-a1b3-475e-b714-be5ebf3a69cd"
     },
-    "410": {
+    {
       "requestid": "a41864f3-fa5d-4b06-8f19-140c2d2a7893",
       "confidence": "0.5691112",
       "timestamp": 410,
-      "content": "numbers for years even before brain debbie brook running logical dealers unix based computers then when they started using pcs they realize that these things are"
+      "content": "numbers for years even before brain debbie brook running logical dealers unix based computers then when they started using pcs they realize that these things are",
+      "uuid": "4cfd92c5-9334-40a2-980a-c12672d40e5a"
     },
-    "420": {
+    {
       "requestid": "334d4978-1873-4abc-b100-d7df3614b71e",
       "confidence": "0.6226484",
       "timestamp": 420,
-      "content": "insecure and they want to prove how easy it would be to ride a virus which would completely automatic infect computers and spread around"
+      "content": "insecure and they want to prove how easy it would be to ride a virus which would completely automatic infect computers and spread around",
+      "uuid": "70693f35-4ff0-4ea5-8e7d-2819599d0279"
     },
-    "430": {
+    {
       "requestid": "a3b19248-4232-4dbd-88f0-f558af46173a",
       "confidence": "0.6618678",
       "timestamp": 430,
-      "content": "brain prove to everybody that indeed these new pc systems in 1986 had no security wut so ever met with thing is if you use a pc today"
+      "content": "brain prove to everybody that indeed these new pc systems in 1986 had no security wut so ever met with thing is if you use a pc today",
+      "uuid": "0f7ef14b-7e74-44e6-910b-dff5c855e93e"
     },
-    "440": {
+    {
       "requestid": "c1ff40af-addf-4133-8e56-a7012d300717",
       "confidence": "0.6882493",
       "timestamp": 440,
-      "content": "the security on your computer was developed in part because of brain because of would buy seat in time god created these guys were"
+      "content": "the security on your computer was developed in part because of brain because of would buy seat in time god created these guys were",
+      "uuid": "e229fa3e-e8e7-40f2-af12-b7f032e28382"
     },
-    "450": {
+    {
       "requestid": "944c39f6-7646-4127-9268-bbfc24b803b2",
       "confidence": "0.587167",
       "timestamp": 450,
-      "content": "evil idol they burn evil even been 25 years ago when they wrote the first pc bars dheera dheera intention was never to cause harm to anybody in"
+      "content": "evil idol they burn evil even been 25 years ago when they wrote the first pc bars dheera dheera intention was never to cause harm to anybody in",
+      "uuid": "1b398b94-a2e4-4274-a837-c68ca14bc79e"
     },
-    "460": {
+    {
       "requestid": "dbb3e13b-5b58-4f75-a8f1-0ef3c944dd55",
       "confidence": "0.5297475",
       "timestamp": 460,
-      "content": "they didn't realize that they made history when they wrote the first easy butter the bread with billy birthday have rolled day never meant to destroy I need a dollar"
+      "content": "they didn't realize that they made history when they wrote the first easy butter the bread with billy birthday have rolled day never meant to destroy I need a dollar",
+      "uuid": "d1294ed4-bc50-4986-b6b9-04a143942e35"
     },
-    "470": {
+    {
       "requestid": "6e851c46-cc2d-48ed-b46e-0179345ad925",
       "confidence": "0.4683391",
       "timestamp": 470,
-      "content": "com for anyone"
+      "content": "com for anyone",
+      "uuid": "072073d3-d5fe-463d-9eb3-472016695998"
     },
-    "480": {
+    {
       "requestid": "1e7dd509-2189-4b86-95d7-5a929908750d",
       "confidence": "0.5376295",
       "timestamp": 480,
-      "content": "right well not all of them and hopefully by the end of today show agree because older kids because they are hackers for good"
+      "content": "right well not all of them and hopefully by the end of today show agree because older kids because they are hackers for good",
+      "uuid": "5693e108-9cc9-4c25-9a04-875b1e0af675"
     },
-    "490": {
+    {
       "requestid": "fcfab192-fe24-4e6c-a401-17d1f977cb01",
       "confidence": "0.5594538",
       "timestamp": 490,
-      "content": "indoor brains are barmah even into the dna of extinct animals packers trying to save the world"
+      "content": "indoor brains are barmah even into the dna of extinct animals packers trying to save the world",
+      "uuid": "837dd9ca-3023-4c9c-8dd5-b810f1b296d6"
     },
-    "500": {
+    {
       "requestid": "cfec767d-a8d4-40ea-8359-28c39287ae7c",
       "confidence": "0.5899504",
       "timestamp": 500,
-      "content": "so let's go but what is happening to you when you first started type to write about it with the widely used word yeah hacking up"
+      "content": "so let's go but what is happening to you when you first started type to write about it with the widely used word yeah hacking up",
+      "uuid": "4afb44fd-5231-4e8b-adff-645170efcb61"
     },
-    "510": {
+    {
       "requestid": "d90d7fe6-3b31-4c4d-923a-079d2a722925",
       "confidence": "0.616456",
       "timestamp": 510,
-      "content": "and around are sort of the student spare time waste of time thing to do in the heck register"
+      "content": "and around are sort of the student spare time waste of time thing to do in the heck register",
+      "uuid": "82ccd251-af9d-4108-aec8-31a393c02043"
     },
-    "520": {
+    {
       "requestid": "07b711d4-f5e9-4237-9216-4f4bd76b7430",
       "confidence": "0.6040484",
       "timestamp": 520,
-      "content": "amateurish delighted to short cut right through the membranes of standard institutional apparatus fanaticos on this is stuart brent right"
+      "content": "amateurish delighted to short cut right through the membranes of standard institutional apparatus fanaticos on this is stuart brent right",
+      "uuid": "56db9567-3c75-4786-9772-66e5b4d38d81"
     },
-    "530": {
+    {
       "requestid": "55ebea97-003e-4c68-8ae0-87022a278f57",
       "confidence": "0.6101001",
       "timestamp": 530,
-      "content": "your mental list cracker and back in 1984 it was in this incredibly weird documentary was called hackers wizards of electronic agina"
+      "content": "your mental list cracker and back in 1984 it was in this incredibly weird documentary was called hackers wizards of electronic agina",
+      "uuid": "0b9c3113-789e-4349-9fcd-e90761754e5b"
     },
-    "540": {
+    {
       "requestid": "685f60d9-a12a-42d6-80f9-63ef07a26ad2",
       "confidence": "0.6012202",
       "timestamp": 540,
-      "content": "explain stewart brands place in the world of hackers time supporter of packers is doing brat editor of the whole earth catalog they r"
+      "content": "explain stewart brands place in the world of hackers time supporter of packers is doing brat editor of the whole earth catalog they r",
+      "uuid": "6b104613-b731-4a94-9b6e-dd54e4825953"
     },
-    "550": {
+    {
       "requestid": "05b5a2cd-c48e-4ed4-b148-6566a24a80b8",
       "confidence": "0.4475267",
       "timestamp": 550,
-      "content": "shy suites credibly bryan adams I think more effective in pushing the culture around now in good way"
+      "content": "shy suites credibly bryan adams I think more effective in pushing the culture around now in good way",
+      "uuid": "9f01b310-1848-4a44-ab42-18ad34c1155b"
     },
-    "560": {
+    {
       "requestid": "9f2e55e2-d281-454c-bc8a-41fab1f2ba05",
       "confidence": "0.6698819",
       "timestamp": 560,
-      "content": "then I can think of to make his point brand invited 100 top computer designers to an expensive packers conference in a secluded campsite north"
+      "content": "then I can think of to make his point brand invited 100 top computer designers to an expensive packers conference in a secluded campsite north",
+      "uuid": "41fbf745-fb60-46b8-ac25-bf8e078e97bb"
     },
-    "570": {
+    {
       "requestid": "ac92eed0-2dca-49f6-aa68-b407dc1cbcd6",
       "confidence": "0.6798318",
       "timestamp": 570,
-      "content": "you are like a connector kurator type person before they became like a fashionable a job description for him to <profanity>fuck</profanity> you reading is a former"
+      "content": "you are like a connector kurator type person before they became like a fashionable a job description for him to <profanity>fuck</profanity> you reading is a former",
+      "uuid": "8b2bc669-75e7-4130-8410-b7c1d18c4983"
     },
-    "580": {
+    {
       "requestid": "d85bd9f4-9cbe-4f9a-8b70-9164e54a1e39",
       "confidence": "0.7458509",
       "timestamp": 580,
-      "content": "and since it's a shortcut to be getting other peoples to do the work and a single work I guess right yeah I'm in work in contact with each other and visit with"
+      "content": "and since it's a shortcut to be getting other peoples to do the work and a single work I guess right yeah I'm in work in contact with each other and visit with",
+      "uuid": "3d40a085-5a8e-4f45-8608-80425949ccc1"
     },
-    "590": {
+    {
       "requestid": "9c250c87-589b-484e-86f9-11fe9823a258",
       "confidence": "0.6490642",
       "timestamp": 590,
-      "content": "do she throw together interesting people in the treating problems and turn up the heat and watch what happens"
+      "content": "do she throw together interesting people in the treating problems and turn up the heat and watch what happens",
+      "uuid": "ace6e59e-960a-4414-ba72-6165a992fcb8"
     },
-    "600": {
+    {
       "requestid": "6a2d3756-f820-4490-a2bd-4a362956b82a",
       "confidence": "0.6565099",
       "timestamp": 600,
-      "content": "so this is where stewart brand story really begins the story about about swimming tomorrow"
+      "content": "so this is where stewart brand story really begins the story about about swimming tomorrow",
+      "uuid": "9c2c37c7-ac7f-4ceb-ae62-83ff3480851b"
     },
-    "610": {
+    {
       "requestid": "b57be53e-3e27-4bd2-b634-384c00946b9b",
       "confidence": "0.5542125",
       "timestamp": 610,
-      "content": "in what she has to do with hacking will get to that in a minute but first let's let's meet mark to see my task oh yeah sure we can walk up that way"
+      "content": "in what she has to do with hacking will get to that in a minute but first let's let's meet mark to see my task oh yeah sure we can walk up that way",
+      "uuid": "cbd3cef9-978d-493a-855b-ec48ea47adb4"
     },
-    "620": {
+    {
       "requestid": "cedb2aed-2b31-4421-af28-6535129f0a4d",
       "confidence": "0.622906",
       "timestamp": 620,
-      "content": "trent bockman to meet the guy who could introduce is so she resides in case is the 11 c"
+      "content": "trent bockman to meet the guy who could introduce is so she resides in case is the 11 c",
+      "uuid": "1e1b1e0a-659e-4217-8cee-39730fd2bad8"
     },
-    "630": {
+    {
       "requestid": "cecc6963-0d47-4216-b254-4bd8449f4e7c",
       "confidence": "0.4148136",
       "timestamp": 630,
-      "content": "I said bird"
+      "content": "I said bird",
+      "uuid": "5964caf8-7b4b-44bc-9d47-5a7a7dc52c61"
     },
-    "640": {
+    {
       "requestid": "eb963d63-2a58-41af-9af2-28b56c0bfe22",
       "confidence": "0.47747",
       "timestamp": 640,
-      "content": "will get some very unique smell that's chris malinski my work in the division of birds sonina sisters is basically martha's landlord nokia music"
+      "content": "will get some very unique smell that's chris malinski my work in the division of birds sonina sisters is basically martha's landlord nokia music",
+      "uuid": "99876f41-5855-4b3d-a2e3-0de647321343"
     },
-    "650": {
+    {
       "requestid": "aa2f2cc3-cb97-43b1-acda-5cdc33176407",
       "confidence": "0.5952553",
       "timestamp": 650,
-      "content": "burt but not just any dead bird in the server error equation we actually know the exact time of an extension on my"
+      "content": "burt but not just any dead bird in the server error equation we actually know the exact time of an extension on my",
+      "uuid": "ed6b256e-a6b7-42cb-8e9f-169d12b14074"
     },
-    "660": {
+    {
       "requestid": "481261e4-babc-441c-bd83-2b6c44d00545",
       "confidence": "0.882982",
       "timestamp": 660,
-      "content": "not exactly in 1 PM on the 1st of September 1914"
+      "content": "not exactly in 1 PM on the 1st of September 1914",
+      "uuid": "453356f4-a313-48ab-bdb4-f2d296568c58"
     },
-    "670": {
+    {
       "requestid": "10807203-c85d-4688-bfef-a3fb4732bdf7",
       "confidence": "0.6415178",
       "timestamp": 670,
-      "content": "case in metal history museum in washington dc she was the last living passenger pigeon the very last of our kind passenger pigeons were in one"
+      "content": "case in metal history museum in washington dc she was the last living passenger pigeon the very last of our kind passenger pigeons were in one",
+      "uuid": "81cf1841-837f-4403-9b4c-70cb5db96be4"
     },
-    "680": {
+    {
       "requestid": "ccbb686b-d660-41eb-a0d0-0c3ca7f6f7f5",
       "confidence": "0.7430946",
       "timestamp": 680,
-      "content": ".1 of the most common birds in north america in today like so many species are gone extinct in store brand"
+      "content": ".1 of the most common birds in north america in today like so many species are gone extinct in store brand",
+      "uuid": "1ace1eb5-588a-4b46-a0b3-022c6e7e9a40"
     },
-    "690": {
+    {
       "requestid": "f2f047eb-4c88-44f5-9ed9-68ff1c1708ff",
       "confidence": "0.4482153",
       "timestamp": 690,
-      "content": "people eating can change that your sister dot carolina parakeet parrot that lit up backyard to rework the death"
+      "content": "people eating can change that your sister dot carolina parakeet parrot that lit up backyard to rework the death",
+      "uuid": "0a3c03fc-0619-4d16-b006-967ef24ea326"
     },
-    "700": {
+    {
       "requestid": "0d719a76-d444-43fd-b7ad-1a982d6892fc",
       "confidence": "0.5393499",
       "timestamp": 700,
-      "content": "brothers or subur the people like to the east coast called he said it was love that right protected died anyway local newspaper spelled out"
+      "content": "brothers or subur the people like to the east coast called he said it was love that right protected died anyway local newspaper spelled out",
+      "uuid": "458d9968-375d-4635-ba70-e98bb0fdab50"
     },
-    "710": {
+    {
       "requestid": "679535a7-10b3-485e-940b-6bd85ad97881",
       "confidence": "0.6056471",
       "timestamp": 710,
-      "content": "no survivor there's no future personal life to be recreated this for me ever again in sets of the tragedy that goes with these things that happened a lot of groups of people"
+      "content": "no survivor there's no future personal life to be recreated this for me ever again in sets of the tragedy that goes with these things that happened a lot of groups of people",
+      "uuid": "3a68cc48-8436-450c-8fab-fb632923f63d"
     },
-    "720": {
+    {
       "requestid": "e1a5ccf6-9f30-4094-abed-ea5405ff76dd",
       "confidence": "0.4871138",
       "timestamp": 720,
-      "content": "I have lots of mammals extinctions field on her cell I bet she's been called the car to what extent in 2000"
+      "content": "I have lots of mammals extinctions field on her cell I bet she's been called the car to what extent in 2000",
+      "uuid": "16ea2a49-b664-441d-a826-72c965e2d326"
     },
-    "730": {
+    {
       "requestid": "6879cbdf-6135-4d3f-926c-4e7ab9cac3c5",
       "confidence": "0.5342224",
       "timestamp": 730,
-      "content": "there's a marvelous animal a marsupial wolf all the files in tasmania south of australia tasmania tiger it was hot in tillary"
+      "content": "there's a marvelous animal a marsupial wolf all the files in tasmania south of australia tasmania tiger it was hot in tillary",
+      "uuid": "9646bfeb-b87c-4907-b390-fb9012ad745c"
     },
-    "740": {
+    {
       "requestid": "9e55931c-fe34-4565-92cf-7ea82e401569",
       "confidence": "0.5461288",
       "timestamp": 740,
-      "content": "just a few left to die in zoos sorrow anger morning good morning"
+      "content": "just a few left to die in zoos sorrow anger morning good morning",
+      "uuid": "a70e62b4-b9fe-4297-bf70-89f8d16ffb64"
     },
-    "750": {
+    {
       "requestid": "6d6cfca5-d66b-4d32-8af8-8ecf000e3d0f",
       "confidence": "0.5919598",
       "timestamp": 750,
-      "content": "what do you find out that using dna museum special mention fall hold me up 200,000 years old to be used to bring species back"
+      "content": "what do you find out that using dna museum special mention fall hold me up 200,000 years old to be used to bring species back",
+      "uuid": "a5a805ea-005f-465c-bbdc-d86052705d68"
     },
-    "760": {
+    {
       "requestid": "5f028a70-344a-4c27-9cf6-ac94fbe49bac",
       "confidence": "0.781794",
       "timestamp": 760,
-      "content": "what would you do"
+      "content": "what would you do",
+      "uuid": "1075ea72-baf0-4481-bd47-536eefbb36bf"
     },
-    "770": {
+    {
       "requestid": "09c869c4-2e29-4f67-983f-dc499d23ce86",
       "confidence": "0.6822158",
       "timestamp": 770,
-      "content": "the movement of scientists interested in something called resurrection biology or better known as the extinction and this is how stewart explains it delivery"
+      "content": "the movement of scientists interested in something called resurrection biology or better known as the extinction and this is how stewart explains it delivery",
+      "uuid": "fdcc295d-cc33-4749-b94a-6d1874c72c91"
     },
-    "780": {
+    {
       "requestid": "7140c0b8-67a0-4d59-9acf-5297b58e9aca",
       "confidence": "0.4774503",
       "timestamp": 780,
-      "content": "basically headed teen jeans from extinct species in the genomes another closely related living species in baseball turning that living species in 2 dicks"
+      "content": "basically headed teen jeans from extinct species in the genomes another closely related living species in baseball turning that living species in 2 dicks",
+      "uuid": "7da4a225-aa4f-48f2-be0b-28d537a0384f"
     },
-    "790": {
+    {
       "requestid": "b2931d3e-20a3-416a-9d92-4772fd665a3d",
       "confidence": "0.6713656",
       "timestamp": 790,
-      "content": "your brand plan for hacking into the animal kingdom in bringing martha back at cinnamon"
+      "content": "your brand plan for hacking into the animal kingdom in bringing martha back at cinnamon",
+      "uuid": "b4fe2e75-1aba-450d-807a-1674fc1d0f6b"
     },
-    "800": {
+    {
       "requestid": "73e5a7be-b658-42b9-88f2-4ad48c66f4d6",
       "confidence": "0.5399323",
       "timestamp": 800,
-      "content": "garage and you're listening to the ted radio hour from npr"
+      "content": "garage and you're listening to the ted radio hour from npr",
+      "uuid": "44a40654-cd8a-4a98-b002-34cad7a69c53"
     },
-    "810": {
+    {
       "requestid": "f08f6491-29ee-482b-b510-1cb8537b9509",
       "confidence": "0.7217091",
       "timestamp": 810,
-      "content": "hey one quick thanks to 2 of our sponsors to help make this podcast possible for us to red hat we had the leader in enterprise linux platforms"
+      "content": "hey one quick thanks to 2 of our sponsors to help make this podcast possible for us to red hat we had the leader in enterprise linux platforms",
+      "uuid": "9d236aa8-c1fd-48da-99da-d05b204be73a"
     },
-    "820": {
+    {
       "requestid": "19ffecd4-8186-461d-bc8c-dbdf7574e0a2",
       "confidence": "0.6898237",
       "timestamp": 820,
-      "content": "goodnight for the cloud middleware storage container technologies with a complete open torch portfolio redhead lucian's are trusted buy some of the world's most demanding"
+      "content": "goodnight for the cloud middleware storage container technologies with a complete open torch portfolio redhead lucian's are trusted buy some of the world's most demanding",
+      "uuid": "5c317a51-a491-4cb2-98bd-75c34f72ebbd"
     },
-    "830": {
+    {
       "requestid": "b52ca2b5-28b9-446c-9906-c18ae40305cc",
       "confidence": "0.7211968",
       "timestamp": 830,
-      "content": "stations on the trading floor the new york stock exchange do air traffic control to 100% of us government executive department cpr cell why redhead"
+      "content": "stations on the trading floor the new york stock exchange do air traffic control to 100% of us government executive department cpr cell why redhead",
+      "uuid": "05d43037-8048-4527-b7c9-4129b0c8200f"
     },
-    "840": {
+    {
       "requestid": "b334ea84-bb60-414f-af04-7f5aecf42dae",
       "confidence": "0.595733",
       "timestamp": 840,
-      "content": "is justin everywhere theredhead.com thanks also dostamps.com going to the post office as you have anything available and if you wanna we supposed"
+      "content": "is justin everywhere theredhead.com thanks also dostamps.com going to the post office as you have anything available and if you wanna we supposed",
+      "uuid": "07618fe7-b4fd-47a6-b3f3-2083268fd7e9"
     },
-    "850": {
+    {
       "requestid": "ddf60a61-ccd5-48b2-8394-eb795f3f2f2a",
       "confidence": "0.7229287",
       "timestamp": 850,
-      "content": "medart super expensivestamps.com you can I print all of your official us postage for all your letters and packages using just your computer"
+      "content": "medart super expensivestamps.com you can I print all of your official us postage for all your letters and packages using just your computer",
+      "uuid": "26380f3f-eed9-4433-8e50-f476c2d7be78"
     },
-    "860": {
+    {
       "requestid": "35fcd916-950d-4653-ae7b-dfb66c666a08",
       "confidence": "0.6712335",
       "timestamp": 860,
-      "content": "your printer do I tried out with no risk and get a bonus offer for our listenersstamps.com today click on the microphone at the top of the home page"
+      "content": "your printer do I tried out with no risk and get a bonus offer for our listenersstamps.com today click on the microphone at the top of the home page",
+      "uuid": "cfcf15c2-b550-44b1-9cfc-7543eb54d8d0"
     },
-    "870": {
+    {
       "requestid": "27f8521d-dc4d-4cc2-af42-082f4bdf5ae4",
       "confidence": "0.5343318",
       "timestamp": 870,
-      "content": "type in mbr butstamps.com type in mbr"
+      "content": "type in mbr butstamps.com type in mbr",
+      "uuid": "f37acd64-6f6c-4dc8-ad0b-963c6f118062"
     },
-    "880": {
+    {
       "requestid": "1e413f72-ae83-4c5b-8bf8-f4fa2d62b699",
       "timestamp": 880,
-      "content": ""
+      "content": "",
+      "uuid": "3620e835-0a06-45c6-85ab-96ae9d7f7924"
     },
-    "890": {
+    {
       "requestid": "4eb8aa1c-9464-49c6-af15-960ef73d9643",
       "confidence": "0.6344947",
       "timestamp": 890,
-      "content": "it's the ted radio hour from npr I'm die rise and I'm sure they will hackers hacking in"
+      "content": "it's the ted radio hour from npr I'm die rise and I'm sure they will hackers hacking in",
+      "uuid": "13b611b5-afa6-4099-b1c4-746c303ee29e"
     },
-    "900": {
+    {
       "requestid": "8522422f-07d2-4dcb-a838-a374a9795b6d",
       "confidence": "0.7552406",
       "timestamp": 900,
-      "content": "machines in humans and in the case of store brand the dna of extinct animals it's a movement of biological hackers called the extinction do you"
+      "content": "machines in humans and in the case of store brand the dna of extinct animals it's a movement of biological hackers called the extinction do you",
+      "uuid": "efca6ab0-6b73-4727-9ac6-8f23fd71e1dc"
     },
-    "910": {
+    {
       "requestid": "2fba6f5c-7f4c-4d8c-939d-0b31f8d3507d",
       "confidence": "0.6483005",
       "timestamp": 910,
-      "content": "connection is the hacking away her hoarse going on in this entry is it is becoming a biological sentry in biotech is the heart of that both are doing a science increase"
+      "content": "connection is the hacking away her hoarse going on in this entry is it is becoming a biological sentry in biotech is the heart of that both are doing a science increase",
+      "uuid": "fee7b7d3-3593-4d6e-95cd-8ab2d611ac6b"
     },
-    "920": {
+    {
       "requestid": "de514c45-47d5-4847-b190-6c16215591ee",
       "confidence": "0.6429374",
       "timestamp": 920,
-      "content": "are doing the engineering in my phone for millis made mistake back in the 80s of becoming a verse to genetically modified is a nap"
+      "content": "are doing the engineering in my phone for millis made mistake back in the 80s of becoming a verse to genetically modified is a nap",
+      "uuid": "3a1d002a-c90f-4371-9124-1881bcf516f3"
     },
-    "930": {
+    {
       "requestid": "3cc09041-23c1-49d7-a957-e0b5beaded62",
       "confidence": "0.6222357",
       "timestamp": 930,
-      "content": "and how long as a result completely screwed himself in the cutting edge of important science that relates to everything to do with conservation various things"
+      "content": "and how long as a result completely screwed himself in the cutting edge of important science that relates to everything to do with conservation various things",
+      "uuid": "31db17f2-dc5b-4c15-b355-dfd0df7ad8d0"
     },
-    "940": {
+    {
       "requestid": "fd61017f-b453-4f1c-8578-6eb9cf358598",
       "confidence": "0.6014662",
       "timestamp": 940,
-      "content": "apartments care about I mean I can't be the first one to say it stewart but I mean it sounds like jurassic park e happily jurassic park"
+      "content": "apartments care about I mean I can't be the first one to say it stewart but I mean it sounds like jurassic park e happily jurassic park",
+      "uuid": "0b26e4bd-b997-4c9f-b01f-74a48a348fbd"
     },
-    "950": {
+    {
       "requestid": "ebc15d00-56e1-4338-8ced-ebb32f2c094a",
       "confidence": "0.6529911",
       "timestamp": 950,
-      "content": "it's about dinosaurs at this is the negative story olesa losa raptors dinosaurs are not candidates because they been gone for 36000000 years"
+      "content": "it's about dinosaurs at this is the negative story olesa losa raptors dinosaurs are not candidates because they been gone for 36000000 years",
+      "uuid": "0d1923e5-b301-4ca1-9212-cff835dc04d6"
     },
-    "960": {
+    {
       "requestid": "083db0b8-6540-4d78-8414-77052fd9a6c3",
       "confidence": "0.6528262",
       "timestamp": 960,
-      "content": "oldest dna that we found 700,000 years the good thing about traffic park is it taller generation of"
+      "content": "oldest dna that we found 700,000 years the good thing about traffic park is it taller generation of",
+      "uuid": "bf40c634-ff36-4644-a22e-ba3e5b64b4b9"
     },
-    "970": {
+    {
       "requestid": "33ab17bb-e676-48b7-b198-d86e34817757",
       "confidence": "0.7100327",
       "timestamp": 970,
-      "content": "you are now professional age that's a bring something back from extinction is a cool thing to consider and maybe not out of the question"
+      "content": "you are now professional age that's a bring something back from extinction is a cool thing to consider and maybe not out of the question",
+      "uuid": "f62c1fb6-b9e7-4021-802b-c200438b18bb"
     },
-    "980": {
+    {
       "requestid": "228b841a-6a91-4f27-8fb0-3088dd149add",
       "confidence": "0.7005605",
       "timestamp": 980,
-      "content": "back to martha the last passenger pigeon ever chris malinski at the smithsonian read the tag that was tidemark his leg when she first arrived at the museum"
+      "content": "back to martha the last passenger pigeon ever chris malinski at the smithsonian read the tag that was tidemark his leg when she first arrived at the museum",
+      "uuid": "e1a38619-4ad0-4679-b5ae-6ad470d73587"
     },
-    "990": {
+    {
       "requestid": "53820d60-e3d2-4b6c-b9bd-9af0731886b5",
       "confidence": "0.6602446",
       "timestamp": 990,
-      "content": "1914 in this is a former player may be having a little fun actually that was martha from the cincinnati zoo most certainly the last of her"
+      "content": "1914 in this is a former player may be having a little fun actually that was martha from the cincinnati zoo most certainly the last of her",
+      "uuid": "ac3473d2-3e3b-40b7-b422-b8255e0bd4ff"
     },
-    "1000": {
+    {
       "requestid": "f7c170a6-a400-4a38-be48-37a69842d819",
       "confidence": "0.7432091",
       "timestamp": 1000,
-      "content": "mountain skin catalog under eat US&M 236650 whole 13 verse of the world exhibit cases"
+      "content": "mountain skin catalog under eat US&M 236650 whole 13 verse of the world exhibit cases",
+      "uuid": "18c9b519-f5eb-402f-8a5a-73068e0202a2"
     },
-    "1010": {
+    {
       "requestid": "0aecd324-8d1e-4a04-b031-aa5566f04d50",
       "confidence": "0.5236697",
       "timestamp": 1010,
-      "content": "thanks pastor pick out of the habit of motor is out we used to eat passenger pigeons they were really"
+      "content": "thanks pastor pick out of the habit of motor is out we used to eat passenger pigeons they were really",
+      "uuid": "75acba58-0245-4021-b79f-bc1b61d7385d"
     },
-    "1020": {
+    {
       "requestid": "847c6c3f-8fdd-466e-b1bd-f88a78cf6a8c",
       "confidence": "0.6986719",
       "timestamp": 1020,
-      "content": "50 cents for a dozen and they were so cheap because they were so abundant passenger pigeons for the most abundant bird in america"
+      "content": "50 cents for a dozen and they were so cheap because they were so abundant passenger pigeons for the most abundant bird in america",
+      "uuid": "06fc88cc-c1d6-4193-8e3f-736fcc498bcd"
     },
-    "1030": {
+    {
       "requestid": "19fd8e1d-0677-48af-819e-112fd35560c8",
       "confidence": "0.645466",
       "timestamp": 1030,
-      "content": "I did most abundant bird on earth is the time in the 19 century population estimates for fun to be around 5,000,000,005 billion vs birds one hour"
+      "content": "I did most abundant bird on earth is the time in the 19 century population estimates for fun to be around 5,000,000,005 billion vs birds one hour",
+      "uuid": "6d5f3e8e-4058-470e-b10e-6d6691650450"
     },
-    "1040": {
+    {
       "requestid": "c60ed1b5-b4f9-4b11-8822-a177bc5a6f1e",
       "confidence": "0.6212606",
       "timestamp": 1040,
-      "content": "birds of north america to passenger pick up you could literally look up in part of north america in the sky is really black because it was so many passenger pigeons"
+      "content": "birds of north america to passenger pick up you could literally look up in part of north america in the sky is really black because it was so many passenger pigeons",
+      "uuid": "d839797c-c69c-4ad7-9062-16a7a0c6e2f2"
     },
-    "1050": {
+    {
       "requestid": "84c697f3-e1f6-4176-bdc6-8f6f214192ee",
       "confidence": "0.5670825",
       "timestamp": 1050,
-      "content": "everybody talks about darkening so dark in the sky farino mile wide shoulders miles long john silver in passing by for days on end you know"
+      "content": "everybody talks about darkening so dark in the sky farino mile wide shoulders miles long john silver in passing by for days on end you know",
+      "uuid": "1ff3f623-d24a-4b1a-838c-58677e7806a4"
     },
-    "1060": {
+    {
       "requestid": "fb59691f-f31f-4277-a09b-1c662b943940",
       "confidence": "0.5796399",
       "timestamp": 1060,
-      "content": "wow that's a big flocks rimes amazing to think it's just a matter with that would've looked like it went from that to just you know"
+      "content": "wow that's a big flocks rimes amazing to think it's just a matter with that would've looked like it went from that to just you know",
+      "uuid": "aeaa5305-9eb4-4b43-9bb0-01c66ca37dce"
     },
-    "1070": {
+    {
       "requestid": "879b1f92-aa73-442e-b75d-57cb39b6d21c",
       "confidence": "0.4361161",
       "timestamp": 1070,
-      "content": "if you wanted thousand 20"
+      "content": "if you wanted thousand 20",
+      "uuid": "fbc28435-bfa7-4643-a7f4-ad72df7f9383"
     },
-    "1080": {
+    {
       "requestid": "5d7a7dd3-148d-45c6-8ede-98eabf376308",
       "confidence": "0.6058658",
       "timestamp": 1080,
-      "content": "don't want to be at the telegraph in the railroad it was easy for hunters netters this long is birds by the time the chicken police code that was done for prior"
+      "content": "don't want to be at the telegraph in the railroad it was easy for hunters netters this long is birds by the time the chicken police code that was done for prior",
+      "uuid": "e5ce1537-b689-420f-a1d3-6b438cab3db5"
     },
-    "1090": {
+    {
       "requestid": "cc84d39c-6f94-4854-8408-8fadd3a1d998",
       "confidence": "0.5948532",
       "timestamp": 1090,
-      "content": "rejec age in 519 100 girls almost none left in the wild by 1914 north east one left alive are the cincinnati zoo"
+      "content": "rejec age in 519 100 girls almost none left in the wild by 1914 north east one left alive are the cincinnati zoo",
+      "uuid": "b4084d94-bc6b-437f-9779-90bcb4357705"
     },
-    "1100": {
+    {
       "requestid": "694beb6e-7e71-4fc1-9219-d153e5d5036a",
       "confidence": "0.7205576",
       "timestamp": 1100,
-      "content": "is the female name but I can turn around here do you like again chris malinski at the"
+      "content": "is the female name but I can turn around here do you like again chris malinski at the",
+      "uuid": "88db00e9-4eeb-4f16-be77-dbc2c06b65e4"
     },
-    "1110": {
+    {
       "requestid": "b4bdcd1b-584b-41ff-b00a-32a96c2b6170",
       "confidence": "0.5184072",
       "timestamp": 1110,
-      "content": "sonian 30 would be home early head of the header at I'm in the know sleep blue ash gray heading back in an orange ish breast"
+      "content": "sonian 30 would be home early head of the header at I'm in the know sleep blue ash gray heading back in an orange ish breast",
+      "uuid": "b85564b5-eb60-464f-8d1c-5a56dcd6b1d5"
     },
-    "1120": {
+    {
       "requestid": "8ff23722-d85b-4719-8e8d-ec8eee010436",
       "confidence": "0.6372787",
       "timestamp": 1120,
-      "content": "how do I save resembled the morning dove which is a common bird here in north america still out there slightly larger but they have that that long I pointed tail"
+      "content": "how do I save resembled the morning dove which is a common bird here in north america still out there slightly larger but they have that that long I pointed tail",
+      "uuid": "70251093-0a1d-4c26-b8aa-ba428c73ba1b"
     },
-    "1130": {
+    {
       "requestid": "88ae1cc8-233a-4f54-8b1e-aaa443ca88cf",
       "confidence": "0.6335113",
       "timestamp": 1130,
-      "content": "red feet and it was pretty bird benda terminali know using genetics name is actually most closely related to the band tailed pigeon which is a test"
+      "content": "red feet and it was pretty bird benda terminali know using genetics name is actually most closely related to the band tailed pigeon which is a test",
+      "uuid": "8f6eb4de-07d7-4876-b6ba-3bcf6ebf3c2e"
     },
-    "1140": {
+    {
       "requestid": "1c1c4e9d-181f-454b-8f9a-e4a247f22700",
       "confidence": "0.6028492",
       "timestamp": 1140,
-      "content": "all live in the western us primarily rocky mount ok so come right here the band tailed pigeon at work stewart brand story in march"
+      "content": "all live in the western us primarily rocky mount ok so come right here the band tailed pigeon at work stewart brand story in march",
+      "uuid": "a62cda98-65a2-4485-81bf-d52869fb6e01"
     },
-    "1150": {
+    {
       "requestid": "367ddd42-8297-48ae-b8cd-0ab663ca7fa3",
       "confidence": "0.5181535",
       "timestamp": 1150,
-      "content": "the story finally collide okay the closest living relative of the pastor pages bentele pigeon there but there some around here genetically"
+      "content": "the story finally collide okay the closest living relative of the pastor pages bentele pigeon there but there some around here genetically",
+      "uuid": "2d5fb9ee-0c2e-4d7e-aac1-41a13de7a3d2"
     },
-    "1160": {
+    {
       "requestid": "9ce2b5c8-29f9-44d2-a631-3a3325ff7422",
       "confidence": "0.5056235",
       "timestamp": 1160,
-      "content": "banfield pigeon already is mostly living recipients the band tailed pigeon your place looks best with passion"
+      "content": "banfield pigeon already is mostly living recipients the band tailed pigeon your place looks best with passion",
+      "uuid": "1fad6033-122c-43fd-83c4-28e382893078"
     },
-    "1170": {
+    {
       "requestid": "307207b3-6973-458b-9792-e89643fa31fb",
       "confidence": "0.5248753",
       "timestamp": 1170,
-      "content": "yes you got the clippers back going at it like in evolution machine try termination some jeans that you right at the cell level"
+      "content": "yes you got the clippers back going at it like in evolution machine try termination some jeans that you right at the cell level",
+      "uuid": "ba97dcaf-7d21-4c3e-8482-9112f1dec9c6"
     },
-    "1180": {
+    {
       "requestid": "3e0f2323-e78a-41ca-85ad-e0ee55144407",
       "confidence": "0.6161855",
       "timestamp": 1180,
-      "content": "oh man in oregon set a chip in the ones that when you can important to living organism network precision of this right down to the individual base fare"
+      "content": "oh man in oregon set a chip in the ones that when you can important to living organism network precision of this right down to the individual base fare",
+      "uuid": "cc4af4dd-23af-46bb-b1cf-df6b23de5d2e"
     },
-    "1190": {
+    {
       "requestid": "9c818cff-0ade-4293-8573-a53b6f0cb8d6",
       "confidence": "0.6671021",
       "timestamp": 1190,
-      "content": "passenger pigeon has 1.3 billion base pairs in its genome now is work to do you have to figure out exactly what genes matter cell"
+      "content": "passenger pigeon has 1.3 billion base pairs in its genome now is work to do you have to figure out exactly what genes matter cell",
+      "uuid": "dd2fffed-49ad-487a-850f-53511ccfe9e3"
     },
-    "1200": {
+    {
       "requestid": "33e031a7-5406-4641-93c3-02379b811d23",
       "confidence": "0.5187103",
       "timestamp": 1200,
-      "content": "jeans for the short tail and van til pigeon jeans and a long tail the past your picture so long with a red eyed peas collard breast flocking salon yelm ilab"
+      "content": "jeans for the short tail and van til pigeon jeans and a long tail the past your picture so long with a red eyed peas collard breast flocking salon yelm ilab",
+      "uuid": "62b72cfa-073c-4db3-8823-82c35cb16981"
     },
-    "1210": {
+    {
       "requestid": "eff8cfe5-1be7-4a44-878f-cc5704f0616d",
       "confidence": "0.5219108",
       "timestamp": 1210,
-      "content": "it won't be perfect but should be perfect enough to nature does a dupure 15"
+      "content": "it won't be perfect but should be perfect enough to nature does a dupure 15",
+      "uuid": "544d20d5-4be7-4723-86f2-48463f11c773"
     },
-    "1220": {
+    {
       "requestid": "b4bd6d7b-a450-4316-ba94-98e1db87bf14",
       "confidence": "0.6359484",
       "timestamp": 1220,
-      "content": "so what what else can we bring back or maybe the total all there's not much specimen tissue but there may be enough to"
+      "content": "so what what else can we bring back or maybe the total all there's not much specimen tissue but there may be enough to",
+      "uuid": "be974452-475c-49f5-b464-b938c8d779d4"
     },
-    "1230": {
+    {
       "requestid": "d6715380-b17f-405d-8b1b-9f8682d6db20",
       "confidence": "0.4863642",
       "timestamp": 1230,
-      "content": "will bring back to willy mammoth we bring back a bully rhinoceros at which I don't even know I know there is nothing just mention it yeah this was a young lad northern"
+      "content": "will bring back to willy mammoth we bring back a bully rhinoceros at which I don't even know I know there is nothing just mention it yeah this was a young lad northern",
+      "uuid": "b973a2c6-2391-4a61-a48c-694fa8abc5a1"
     },
-    "1240": {
+    {
       "requestid": "1a22f125-5087-47f9-8fbc-6ae12a6dd511",
       "confidence": "0.6340542",
       "timestamp": 1240,
-      "content": "alright now sources say my lovely nemesis in northern elephant saber tooth tiger there are in abundance in the la brea tar pits and um I hear that"
+      "content": "alright now sources say my lovely nemesis in northern elephant saber tooth tiger there are in abundance in the la brea tar pits and um I hear that",
+      "uuid": "74803941-7327-4a28-b7d3-5f5a6b0f8b83"
     },
-    "1250": {
+    {
       "requestid": "6b734ebf-eebb-4833-93ea-8464037abe19",
       "confidence": "0.6221442",
       "timestamp": 1250,
-      "content": "sensing technology is is getting over better we could have like AD extinction zoo like like the woolly mammoth in the wooly rhino in the dodo and yeah I think you will get the extinction"
+      "content": "sensing technology is is getting over better we could have like AD extinction zoo like like the woolly mammoth in the wooly rhino in the dodo and yeah I think you will get the extinction",
+      "uuid": "ce3b8ed8-2e19-475a-9305-b5d9a610174a"
     },
-    "1260": {
+    {
       "requestid": "acbed47e-c818-4d4d-9fbd-d6a2c8ffc68a",
       "confidence": "0.5218252",
       "timestamp": 1260,
-      "content": "you on the way to having and extincion the ecosystems so super me know what I would not give to see a woolly mammoth auroral laura will you"
+      "content": "you on the way to having and extincion the ecosystems so super me know what I would not give to see a woolly mammoth auroral laura will you",
+      "uuid": "8626473d-1942-4e63-8747-00ed2deb077e"
     },
-    "1270": {
+    {
       "requestid": "cc04f7ce-3bc1-4a8e-88a1-217aca2da6d3",
       "confidence": "0.5545505",
       "timestamp": 1270,
-      "content": "I know who who who knew even existed valium I am in my thirties you'll probably see you at least a baby boy names of baby will email with my lifetime"
+      "content": "I know who who who knew even existed valium I am in my thirties you'll probably see you at least a baby boy names of baby will email with my lifetime",
+      "uuid": "b9e1e30f-c04a-4e11-8309-b4d0a5ae9be3"
     },
-    "1280": {
+    {
       "requestid": "bd330d66-af08-4e49-a96a-5a5f798d3538",
       "confidence": "0.5818688",
       "timestamp": 1280,
-      "content": "we would would would I wouldn't give to see the ocean and like a part of me and and I want it gonna stay like a part of musalla but trouble by it apart we think super bowl"
+      "content": "we would would would I wouldn't give to see the ocean and like a part of me and and I want it gonna stay like a part of musalla but trouble by it apart we think super bowl",
+      "uuid": "2e75a985-4c26-4174-9df0-861b3fff1105"
     },
-    "1290": {
+    {
       "requestid": "3eb90f1d-606d-463c-a58e-e8bb5fc37323",
       "confidence": "0.4958254",
       "timestamp": 1290,
-      "content": "should we be doing this um I couldn't read by how free many people are the idea of distinction in the come up at all sorts of"
+      "content": "should we be doing this um I couldn't read by how free many people are the idea of distinction in the come up at all sorts of",
+      "uuid": "b10499c9-71fa-4356-94b9-b8e5c12e466f"
     },
-    "1300": {
+    {
       "requestid": "6b41e5da-8073-4954-9dc7-21f4aeeed151",
       "confidence": "0.5765257",
       "timestamp": 1300,
-      "content": "strange reasons why we can bring back with no habitat for it now 2 cases that true in most cases app that is there coming at swingers waiting for these animals come back"
+      "content": "strange reasons why we can bring back with no habitat for it now 2 cases that true in most cases app that is there coming at swingers waiting for these animals come back",
+      "uuid": "b192d00c-cf37-4994-b1cb-b57f392b2f49"
     },
-    "1310": {
+    {
       "requestid": "1406b65b-bfe4-4123-baef-29026d790177",
       "confidence": "0.675722",
       "timestamp": 1310,
-      "content": "there's an aversion to things that involve genetic tinkering are some good reasons for that but as we bring back some pasta pigeons in their adorable and they fly reel"
+      "content": "there's an aversion to things that involve genetic tinkering are some good reasons for that but as we bring back some pasta pigeons in their adorable and they fly reel",
+      "uuid": "03cca405-19ac-4701-8761-2d35679a3a70"
     },
-    "1320": {
+    {
       "requestid": "d9baa6c9-7b83-486b-bafd-60fc353e3eb2",
       "confidence": "0.6807607",
       "timestamp": 1320,
-      "content": "fast and their persuasive is being like the original version we bring back a baby woolly mammoth of heart will break in tears were flowing people see a baby woolly mammoth"
+      "content": "fast and their persuasive is being like the original version we bring back a baby woolly mammoth of heart will break in tears were flowing people see a baby woolly mammoth",
+      "uuid": "e17d79db-6e10-4f5a-899e-ad95a37c4a8a"
     },
-    "1330": {
+    {
       "requestid": "53d736cf-5412-42d9-a898-9fafbec86308",
       "confidence": "0.3898188",
       "timestamp": 1330,
-      "content": "the version we felt about how was wrong about a boy that"
+      "content": "the version we felt about how was wrong about a boy that",
+      "uuid": "7dc50855-564b-4211-ab93-705c8aa3a3ec"
     },
-    "1340": {
+    {
       "requestid": "72bbf3e1-f595-4e9e-927a-99df93acda9b",
       "confidence": "0.650058",
       "timestamp": 1340,
-      "content": "where do we go from here he's been private meeting so far is time for the subject to go public what do people think about it how do you"
+      "content": "where do we go from here he's been private meeting so far is time for the subject to go public what do people think about it how do you",
+      "uuid": "bf961635-4cb0-4336-856c-8016d3f4fea6"
     },
-    "1350": {
+    {
       "requestid": "fed88625-acb1-493a-b7bc-22fa64f8727c",
       "confidence": "0.42566",
       "timestamp": 1350,
-      "content": "extinct species back he wanted things besides bank"
+      "content": "extinct species back he wanted things besides bank",
+      "uuid": "a376e264-05d9-4e70-912c-d3c0cea18dc6"
     },
-    "1360": {
+    {
       "requestid": "5cc499ba-988c-4269-97c8-483a6fe2ccdd",
       "confidence": "0.661157",
       "timestamp": 1360,
-      "content": "huge hole in nature last 10000 years we have the ability now maybe the moral obligation to repair some of the damage"
+      "content": "huge hole in nature last 10000 years we have the ability now maybe the moral obligation to repair some of the damage",
+      "uuid": "86ecf26e-cefe-4d73-b265-5a6973a7d792"
     },
-    "1370": {
+    {
       "requestid": "aad74bab-4d18-4ced-954b-7d14f5b0654e",
       "confidence": "0.6758117",
       "timestamp": 1370,
-      "content": "most that will do you by expanding and protecting wildlands bikes panningen protecting populations of endangered species"
+      "content": "most that will do you by expanding and protecting wildlands bikes panningen protecting populations of endangered species",
+      "uuid": "9f4fab4f-f818-49ec-8f72-e7fb6df888e1"
     },
-    "1380": {
+    {
       "requestid": "168eabf9-cc50-4546-bc8e-40faf2f4b3e5",
       "confidence": "0.6135107",
       "timestamp": 1380,
-      "content": "some species that we killed off totale we could consider bringing back the world misses them"
+      "content": "some species that we killed off totale we could consider bringing back the world misses them",
+      "uuid": "7fda6e14-b91d-40c1-b40d-594199a21bf9"
     },
-    "1390": {
+    {
       "requestid": "b8a2d8cf-f656-41b0-a432-a179dc31594d",
       "confidence": "0.6641042",
       "timestamp": 1390,
-      "content": "dealer friend check out his full talk at ted dotnpr.org is good"
+      "content": "dealer friend check out his full talk at ted dotnpr.org is good",
+      "uuid": "8d4d0ace-4b49-4658-a4a9-753028036729"
     },
-    "1400": {
+    {
       "requestid": "3111f10d-0e8d-422d-a986-41094a988038",
       "confidence": "0.7216948",
       "timestamp": 1400,
-      "content": "dedicated extension is called revive and restore owen and you can see more thing on display at the smithsonian museum of natural history in washington dc next year"
+      "content": "dedicated extension is called revive and restore owen and you can see more thing on display at the smithsonian museum of natural history in washington dc next year",
+      "uuid": "6aefd535-e72e-4100-86f2-e698e0a39665"
     },
-    "1410": {
+    {
       "requestid": "265e6958-3fb6-428e-a2d0-7a056d483467",
       "confidence": "0.7029494",
       "timestamp": 1410,
-      "content": "there's an exhibit plan for the hundredth anniversary of her death"
+      "content": "there's an exhibit plan for the hundredth anniversary of her death",
+      "uuid": "09b13319-fc30-41a0-b0b4-a003e0b43d1a"
     },
-    "1420": {
+    {
       "requestid": "74a9c2dd-c32e-4077-a9ee-37ed33b9f159",
       "confidence": "0.7381387",
       "timestamp": 1420,
-      "content": "is the climate side and he thinks we might be able to save the planet by hacking into it and how well here's his proposal from the pet dog"
+      "content": "is the climate side and he thinks we might be able to save the planet by hacking into it and how well here's his proposal from the pet dog",
+      "uuid": "d3a010ec-7c35-4fd0-9800-55406adae338"
     },
-    "1430": {
+    {
       "requestid": "9788c8ff-a42c-4e7b-94cd-1e0f0fe33a5c",
       "confidence": "0.5169619",
       "timestamp": 1430,
-      "content": "you could put fine particle say so here it out the park also face into the upper atmosphere the stratosphere where they reflect on my phone call to plant a 904"
+      "content": "you could put fine particle say so here it out the park also face into the upper atmosphere the stratosphere where they reflect on my phone call to plant a 904",
+      "uuid": "d9126341-8c0e-4b6d-94f2-1c8c34f2ae14"
     },
-    "1440": {
+    {
       "requestid": "ef318b38-4877-4f3c-879d-13434200459c",
       "confidence": "0.5868922",
       "timestamp": 1440,
-      "content": "certain that that will work now the dark side effects I know for certain I will work and everything is getting done and it was done on my hot spot by me by nature"
+      "content": "certain that that will work now the dark side effects I know for certain I will work and everything is getting done and it was done on my hot spot by me by nature",
+      "uuid": "2b139e32-2c09-45a7-a87f-86855eac09ba"
     },
-    "1450": {
+    {
       "requestid": "5e0941e1-232d-423f-9158-1fa781599c71",
       "confidence": "0.587166",
       "timestamp": 1450,
-      "content": "adisa legendary landscape in the northwest in philippines it looks like the aftermath of a nuclear holocaust instead of the roof of mount pinatubo about"
+      "content": "adisa legendary landscape in the northwest in philippines it looks like the aftermath of a nuclear holocaust instead of the roof of mount pinatubo about",
+      "uuid": "95755b07-529b-4a51-8b83-1536c6a6a232"
     },
-    "1460": {
+    {
       "requestid": "69fa045c-d500-4639-a859-88d4e8b9527a",
       "confidence": "0.5144015",
       "timestamp": 1460,
-      "content": "say no to rain down over towns in farmland killingworth 300 people leaving town"
+      "content": "say no to rain down over towns in farmland killingworth 300 people leaving town",
+      "uuid": "b09cc534-858d-4014-ae7c-16c0de0d9915"
     },
-    "1470": {
+    {
       "requestid": "b5485f22-5450-4900-9a14-bae6782a2484",
       "confidence": "0.4995049",
       "timestamp": 1470,
-      "content": "whole bunch a song from stratosphere I'm gonna try to make for my cloud mushroom cloud of steam ash and smoke rose 50 kilometers to the sky"
+      "content": "whole bunch a song from stratosphere I'm gonna try to make for my cloud mushroom cloud of steam ash and smoke rose 50 kilometers to the sky",
+      "uuid": "6d13a0da-37cc-44d6-9349-b698cffb805d"
     },
-    "1480": {
+    {
       "requestid": "b03d7f6f-3126-4fd4-bc34-7f434c8fa369",
       "confidence": "0.3179431",
       "timestamp": 1480,
-      "content": "if you would like me talking with huge cloud of ash and ask people to be seen I had sex tape"
+      "content": "if you would like me talking with huge cloud of ash and ask people to be seen I had sex tape",
+      "uuid": "789b137f-b3e7-4901-9819-7f51f840ab68"
     },
-    "1490": {
+    {
       "requestid": "493ac7a9-fc20-4a61-939f-02b85d1e631b",
       "confidence": "0.3293098",
       "timestamp": 1490,
-      "content": "he blows it up on the hundreds of kilometers to philippine cup size looks like snow"
+      "content": "he blows it up on the hundreds of kilometers to philippine cup size looks like snow",
+      "uuid": "0f7468ef-3ed0-4a2b-87e9-d5f89a433d73"
     },
-    "1500": {
+    {
       "requestid": "bacc1d6d-fc43-4424-8af2-e20f647def6a",
       "confidence": "0.524213",
       "timestamp": 1500,
-      "content": "what do cats eat any other option is sulfuric acid or something that makes it up the upper crust forms to needle drop box 20"
+      "content": "what do cats eat any other option is sulfuric acid or something that makes it up the upper crust forms to needle drop box 20",
+      "uuid": "30abdb40-9fa6-42ff-bab6-65a6b9ca74d6"
     },
-    "1510": {
+    {
       "requestid": "c0efc0d5-2681-4819-baf2-8913f73f59ac",
       "confidence": "0.4843898",
       "timestamp": 1510,
-      "content": "tropos become distributor and fall of cybertron here I'm at the back so I could wake up some cool the planet how to do"
+      "content": "tropos become distributor and fall of cybertron here I'm at the back so I could wake up some cool the planet how to do",
+      "uuid": "cf0e8c6c-f533-4270-bf23-a4910381b8de"
     },
-    "1520": {
+    {
       "requestid": "30250585-03a0-4a8b-86a3-321f532fc86d",
       "confidence": "0.5411058",
       "timestamp": 1520,
-      "content": "can result of that was pretty dramatic there's no big mystery about it there's lots of details but it clearly cools down I wanna think it's bad"
+      "content": "can result of that was pretty dramatic there's no big mystery about it there's lots of details but it clearly cools down I wanna think it's bad",
+      "uuid": "14743f15-13c5-4d38-a82b-ff0866abc95a"
     },
-    "1530": {
+    {
       "requestid": "3b952ed0-0878-4be8-94db-b0e8a0547df0",
       "confidence": "0.5904984",
       "timestamp": 1530,
-      "content": "hey really important to say so much we gotta think we ought to do like snow we get my friends are intrinsically slow so you can step on the brakes for quickly if you do that"
+      "content": "hey really important to say so much we gotta think we ought to do like snow we get my friends are intrinsically slow so you can step on the brakes for quickly if you do that",
+      "uuid": "189ae8b6-60d1-45c1-8d16-39251ff79cbd"
     },
-    "1540": {
+    {
       "requestid": "b4fefa29-1596-43f7-b091-bcd0b7241cad",
       "confidence": "0.686119",
       "timestamp": 1540,
-      "content": "it's quick and their time see my wife to do something quick so so we can do this you could put sulfuric acid roberts in the straw"
+      "content": "it's quick and their time see my wife to do something quick so so we can do this you could put sulfuric acid roberts in the straw",
+      "uuid": "31325635-00af-4790-8549-76431e1717f5"
     },
-    "1550": {
+    {
       "requestid": "d9c9b293-d9d3-4650-966c-3db58e0eca74",
       "confidence": "0.5222628",
       "timestamp": 1550,
-      "content": "basically the stratosphere yeah sexy to make it very soon cloud in the stratosphere and he should be tell you don't drop it like a fine plan"
+      "content": "basically the stratosphere yeah sexy to make it very soon cloud in the stratosphere and he should be tell you don't drop it like a fine plan",
+      "uuid": "996a77ab-b176-481a-be54-c5cb460ce467"
     },
-    "1560": {
+    {
       "requestid": "1067d825-5820-4dbc-aa68-54c77749ef67",
       "confidence": "0.632087",
       "timestamp": 1560,
-      "content": "too small to see it would affect away maybe half a percent or 1% of the sunlight coming in be pretty much invisible from the ground with coupon 2 if you"
+      "content": "too small to see it would affect away maybe half a percent or 1% of the sunlight coming in be pretty much invisible from the ground with coupon 2 if you",
+      "uuid": "02faa140-c051-4b28-bc4d-7108452783a7"
     },
-    "1570": {
+    {
       "requestid": "ac59e049-ebeb-4c13-814b-87fe541a848c",
       "confidence": "0.6163264",
       "timestamp": 1570,
-      "content": "on the claim it up by adding carbonis we doing for sentry and then you could put it back down to say its original temperature by adding saphir ic acid today"
+      "content": "on the claim it up by adding carbonis we doing for sentry and then you could put it back down to say its original temperature by adding saphir ic acid today",
+      "uuid": "badd68c3-887a-400c-97c2-63a63cdbee8a"
     },
-    "1580": {
+    {
       "requestid": "b658ad2e-f0f3-4178-a53b-dc4dc2d17858",
       "confidence": "0.5534512",
       "timestamp": 1580,
-      "content": "really ugly technical fix a 91 and offset if you did that you could get the globally average temperature back to be talked about want"
+      "content": "really ugly technical fix a 91 and offset if you did that you could get the globally average temperature back to be talked about want",
+      "uuid": "4ed0155c-461a-4261-8107-7567c0ff89a4"
     },
-    "1590": {
+    {
       "requestid": "4772c70a-9867-4b83-a164-7f46c76d0e58",
       "confidence": "0.4205377",
       "timestamp": 1590,
-      "content": "what is amazing it is amazing"
+      "content": "what is amazing it is amazing",
+      "uuid": "1aca1a26-0a87-40ef-bcfc-d7ce3295ff20"
     },
-    "1600": {
+    {
       "requestid": "6b18be40-7017-4af1-b8c1-c968ee2dc70d",
       "confidence": "0.6003916",
       "timestamp": 1600,
-      "content": "I turned out to be really suppose he wanted to cut the morning and have you start with just 2 aircraft 2 modifieds"
+      "content": "I turned out to be really suppose he wanted to cut the morning and have you start with just 2 aircraft 2 modifieds",
+      "uuid": "b40ba345-9e1e-4910-a6fd-ee7c199ebe45"
     },
-    "1610": {
+    {
       "requestid": "fc9a7877-9cbd-41a5-bc13-d87c56f964be",
       "confidence": "0.5221236",
       "timestamp": 1610,
-      "content": "it would be from a single air base and a 20,000 are so tons of silver per ounce beer every now christina carbona me up"
+      "content": "it would be from a single air base and a 20,000 are so tons of silver per ounce beer every now christina carbona me up",
+      "uuid": "14a75280-7508-4899-9900-f0de7ab6042e"
     },
-    "1620": {
+    {
       "requestid": "79ab438f-1ab9-4dfe-bf0d-5006517bc4bf",
       "confidence": "0.4517882",
       "timestamp": 1620,
-      "content": "each year if you wanna come to my house warming up the batty morsels tractor decade to be getting 200,000 times over"
+      "content": "each year if you wanna come to my house warming up the batty morsels tractor decade to be getting 200,000 times over",
+      "uuid": "7c51d302-e409-421e-806e-486bc03a28e6"
     },
-    "1630": {
+    {
       "requestid": "b8025cd3-82b8-43c5-9723-0c17de5eb4d0",
       "confidence": "0.5683948",
       "timestamp": 1630,
-      "content": "after 15 years you be adding almost a million tons of silver per ounce beer and you would've cut the way to quit working out"
+      "content": "after 15 years you be adding almost a million tons of silver per ounce beer and you would've cut the way to quit working out",
+      "uuid": "2832bcdc-8d08-4ddf-842b-fa640913e5cb"
     },
-    "1640": {
+    {
       "requestid": "859b55a2-239e-4d68-8b77-254e9c443266",
       "confidence": "0.424242",
       "timestamp": 1640,
-      "content": "you might argue about that this idea but I bridges"
+      "content": "you might argue about that this idea but I bridges",
+      "uuid": "3a5e07e6-3184-41e3-8818-7ba9ec85fa30"
     },
-    "1650": {
+    {
       "requestid": "ff492328-8a36-4b84-a8c1-cf72fbf07d82",
       "confidence": "0.6066128",
       "timestamp": 1650,
-      "content": "let's say that we don't do that she would do it we gotta do it does get serious about coming with me someday like 2075 Wi-Fi near me"
+      "content": "let's say that we don't do that she would do it we gotta do it does get serious about coming with me someday like 2075 Wi-Fi near me",
+      "uuid": "4aa930bf-80f3-4e37-901d-f4e0cbc0ffd4"
     },
-    "1660": {
+    {
       "requestid": "679e0ce8-7042-4d94-a03b-11f11f0aa998",
       "confidence": "0.7093588",
       "timestamp": 1660,
-      "content": "glorious day at work at that reaches its peak in a rolling down the other side and we have global celebrations and we've seen the worst of it but maybe on a day we also fine at the green eyes"
+      "content": "glorious day at work at that reaches its peak in a rolling down the other side and we have global celebrations and we've seen the worst of it but maybe on a day we also fine at the green eyes",
+      "uuid": "a9de40df-ba04-489d-8f38-9d784bb32d3b"
     },
-    "1670": {
+    {
       "requestid": "d37059d8-d521-46be-b8f6-34be10ebd590",
       "confidence": "0.5341137",
       "timestamp": 1670,
-      "content": "it is really melting pot acceptably fat fat fat have to put meters at sea level on the oceans in the next 100 years and remove some of the biggest cities for them actually"
+      "content": "it is really melting pot acceptably fat fat fat have to put meters at sea level on the oceans in the next 100 years and remove some of the biggest cities for them actually",
+      "uuid": "00440f94-6140-4d51-bf43-366e8de100ee"
     },
-    "1680": {
+    {
       "requestid": "8385c240-3004-4514-a371-1d3cda1592ee",
       "confidence": "0.4925138",
       "timestamp": 1680,
-      "content": "when I get out at that point let it go to my feelings on certain immorally I'm happy that its a lot better than not"
+      "content": "when I get out at that point let it go to my feelings on certain immorally I'm happy that its a lot better than not",
+      "uuid": "f3dfa820-963c-4103-a88e-331ef7b6f70c"
     },
-    "1690": {
+    {
       "requestid": "59d88599-ebb4-4b10-bb55-fc00baf51f3c",
       "confidence": "0.7798765",
       "timestamp": 1690,
-      "content": "what is it gonna take for us to get to that point in trying to do you think we need to be at crisis point where like the oceans are right"
+      "content": "what is it gonna take for us to get to that point in trying to do you think we need to be at crisis point where like the oceans are right",
+      "uuid": "a23c4aae-8c74-4d19-aaff-a5dc2b0c1857"
     },
-    "1700": {
+    {
       "requestid": "0443d690-7aba-472e-9b5b-26e8dce435a3",
       "confidence": "0.7476951",
       "timestamp": 1700,
-      "content": "really fast and I know man half and half of manhattan is in the water I have no idea how to admit that I've got to be a stupid way to do so"
+      "content": "really fast and I know man half and half of manhattan is in the water I have no idea how to admit that I've got to be a stupid way to do so",
+      "uuid": "9620591c-a364-4c51-b2ef-27461185e920"
     },
-    "1710": {
+    {
       "requestid": "a192a0fa-4d56-473b-aa48-232f427ea0ef",
       "confidence": "0.7014347",
       "timestamp": 1710,
-      "content": "people want to frame this as a kind of brake glass in case of urgency strategy yeah but I think in fact that you don't want to try to hit on test to take nick like"
+      "content": "people want to frame this as a kind of brake glass in case of urgency strategy yeah but I think in fact that you don't want to try to hit on test to take nick like",
+      "uuid": "5b8658dc-0cef-4b0e-897f-bee036b90e1f"
     },
-    "1720": {
+    {
       "requestid": "b8595a30-cf07-4a1f-ac54-56e10f5ca5fe",
       "confidence": "0.7489398",
       "timestamp": 1720,
-      "content": "you're much better off if you turn it up so late but he has more chance to figure out how well it works so I think it would be much better to start"
+      "content": "you're much better off if you turn it up so late but he has more chance to figure out how well it works so I think it would be much better to start",
+      "uuid": "e1809ccb-a694-42ab-bbbf-d605a5fd21df"
     },
-    "1730": {
+    {
       "requestid": "dc9f9992-ca5c-4bcb-88bb-e6aae04e1813",
       "confidence": "0.4869357",
       "timestamp": 1730,
-      "content": "movie now suppose it out in space aliens arrived on duty to know why did the UN headquarters down the road here baby"
+      "content": "movie now suppose it out in space aliens arrived on duty to know why did the UN headquarters down the road here baby",
+      "uuid": "bf5b7c4a-e8fc-49f0-bdca-52f00118443c"
     },
-    "1740": {
+    {
       "requestid": "47e776a8-7f95-482e-8a76-4dca788f3797",
       "confidence": "0.4457925",
       "timestamp": 1740,
-      "content": "spot but I'm driving I give you a box in the box has 2 knobs one nob is an upper control inglewood temperature maybe another night"
+      "content": "spot but I'm driving I give you a box in the box has 2 knobs one nob is an upper control inglewood temperature maybe another night",
+      "uuid": "f50268dd-039a-45d2-a4d7-e7312e293de6"
     },
-    "1750": {
+    {
       "requestid": "56a4ed1f-9807-48f3-b36d-08d8cae8bbb1",
       "confidence": "0.5398002",
       "timestamp": 1750,
-      "content": "tonight for controlling see if you got the patience you might imagine that we would fight wars over the box coz we have no way to agree about what is up in arms no bubble gum"
+      "content": "tonight for controlling see if you got the patience you might imagine that we would fight wars over the box coz we have no way to agree about what is up in arms no bubble gum",
+      "uuid": "2ff1b16f-8476-44dd-96cb-cc054d61e46e"
     },
-    "1760": {
+    {
       "requestid": "42c3e0f3-0cd6-4c18-9c34-77356867b9c1",
       "confidence": "0.5565939",
       "timestamp": 1760,
-      "content": "10 different people have different ways of the one that said you don't think it's gonna happen to be like on wheel building a box"
+      "content": "10 different people have different ways of the one that said you don't think it's gonna happen to be like on wheel building a box",
+      "uuid": "e425846d-38cc-46ab-8c7f-95d26ca58bd5"
     },
-    "1770": {
+    {
       "requestid": "01671b9c-e0b0-4690-a688-e13bce041490",
       "confidence": "0.5354925",
       "timestamp": 1770,
-      "content": "midas in the world in bellingham piece by piece of metal atoms even when they're doing it for other reasons you know when I think you know just working on protecting me by today no interest in crazy"
+      "content": "midas in the world in bellingham piece by piece of metal atoms even when they're doing it for other reasons you know when I think you know just working on protecting me by today no interest in crazy",
+      "uuid": "6e90ea15-fc8b-492c-86ec-16ff59ca8a3a"
     },
-    "1780": {
+    {
       "requestid": "3d2011a6-cc40-4753-a93f-b0692dcc04b5",
       "confidence": "0.695066",
       "timestamp": 1780,
-      "content": "national planning hate about time to make it easier and easier to do and so I guess my view on this is not that I want to do and I do not"
+      "content": "national planning hate about time to make it easier and easier to do and so I guess my view on this is not that I want to do and I do not",
+      "uuid": "91b5d13e-cd55-49b0-afed-d6d71b216e14"
     },
-    "1790": {
+    {
       "requestid": "d801043a-9322-4a52-9da8-a363ca0656a4",
       "confidence": "0.7218763",
       "timestamp": 1790,
-      "content": "then we should move it out of the shadows can talk about it seriously because sooner or later you will be confronted with decisions about this and it's better if we think hard about it even if you wanna think hard about meeting"
+      "content": "then we should move it out of the shadows can talk about it seriously because sooner or later you will be confronted with decisions about this and it's better if we think hard about it even if you wanna think hard about meeting",
+      "uuid": "640ac814-666c-4686-bfdd-c2cffbd42a1f"
     },
-    "1800": {
+    {
       "requestid": "a2c322ce-aeb0-4131-8643-0fe618db8077",
       "confidence": "0.8396218",
       "timestamp": 1800,
-      "content": "why we should never do it"
+      "content": "why we should never do it",
+      "uuid": "a344daf2-994b-4dfd-b3db-5eaaba35614c"
     },
-    "1810": {
+    {
       "requestid": "ebc293ac-483a-4712-b222-d59a7c6a9709",
       "confidence": "0.7234957",
       "timestamp": 1810,
-      "content": "if it would serve give us a license to give some people of licensed if you like we can just continue to pollute and not really worry about it of course it will it's it's"
+      "content": "if it would serve give us a license to give some people of licensed if you like we can just continue to pollute and not really worry about it of course it will it's it's",
+      "uuid": "0759b6eb-f968-42ec-b411-02cf926045f5"
     },
-    "1820": {
+    {
       "requestid": "ca85ff06-bb4d-4fe9-af59-fc768ece551a",
       "confidence": "0.559363",
       "timestamp": 1820,
-      "content": "we need you to think otherwise would you make cars safer by couples only better keep their bags people drive like to be faster when you give people"
+      "content": "we need you to think otherwise would you make cars safer by couples only better keep their bags people drive like to be faster when you give people",
+      "uuid": "d7e35a80-bbd8-402f-bd71-64f51c83ca1c"
     },
-    "1830": {
+    {
       "requestid": "c6be976f-15d0-4d65-aabf-7fe31983126f",
       "confidence": "0.5397784",
       "timestamp": 1830,
-      "content": "condoms in a drug stay engage in risky sex texas this is called this compensation is well known and not necessarily shilpi said she would be here"
+      "content": "condoms in a drug stay engage in risky sex texas this is called this compensation is well known and not necessarily shilpi said she would be here",
+      "uuid": "fe9ed962-99c2-49aa-b46b-897318e8137b"
     },
-    "1840": {
+    {
       "requestid": "36c84046-d7bd-4fba-b4b1-ca21279a7aca",
       "confidence": "0.6800523",
       "timestamp": 1840,
-      "content": "is there a part of you that kinda feels her know that you know the sky with the surrender the way if we fail to plan it so much that we"
+      "content": "is there a part of you that kinda feels her know that you know the sky with the surrender the way if we fail to plan it so much that we",
+      "uuid": "7ccaa08e-a360-437c-acfe-cc17149e3afe"
     },
-    "1850": {
+    {
       "requestid": "da9a8f7c-adc3-4105-8c29-e9b7d4e6cdd6",
       "confidence": "0.6805272",
       "timestamp": 1850,
-      "content": "about things like this absolutely and I think that's why don't we ever do this at all it forces us to ask the big questions about"
+      "content": "about things like this absolutely and I think that's why don't we ever do this at all it forces us to ask the big questions about",
+      "uuid": "088ff8cc-2c9e-4c5b-897e-b2113453da30"
     },
-    "1860": {
+    {
       "requestid": "9b2869d3-bd1d-45b7-9be7-0dafd6f0c639",
       "confidence": "0.5928122",
       "timestamp": 1860,
-      "content": "humanity in a church at the scale of the plan for sounds fun but those are the questions we have to answer for living in a world we have powers that be"
+      "content": "humanity in a church at the scale of the plan for sounds fun but those are the questions we have to answer for living in a world we have powers that be",
+      "uuid": "d4efe6b0-01d9-458a-b339-551886902173"
     },
-    "1870": {
+    {
       "requestid": "fd32994a-2ef3-454c-9d15-4eb9c1db6523",
       "confidence": "0.6366057",
       "timestamp": 1870,
-      "content": "ability to create a plant like a garden in a question is are we going to throw the empty can's in garbage in the back over it or are we going to"
+      "content": "ability to create a plant like a garden in a question is are we going to throw the empty can's in garbage in the back over it or are we going to",
+      "uuid": "2bf594ca-b2a6-49de-aca2-0257382ee377"
     },
-    "1880": {
+    {
       "requestid": "ffd1d6a2-78fc-4db5-adb5-01fbae5f55f2",
       "confidence": "0.5714234",
       "timestamp": 1880,
-      "content": "create like a garden will not do you think that at this idea of basically hacking RR planet to try and save it it's awesome"
+      "content": "create like a garden will not do you think that at this idea of basically hacking RR planet to try and save it it's awesome",
+      "uuid": "bbae8190-3fe6-4756-9d27-c8fb338aa434"
     },
-    "1890": {
+    {
       "requestid": "b852405c-2bd1-4050-9097-79102aa9dfcd",
       "confidence": "0.5975551",
       "timestamp": 1890,
-      "content": "triumph of human ingenuity is well if not yeah I'm you like it to ship a wonderful fighter not write a book on time to plan it"
+      "content": "triumph of human ingenuity is well if not yeah I'm you like it to ship a wonderful fighter not write a book on time to plan it",
+      "uuid": "0cbb30ca-3028-425c-aa0e-d539c999f75f"
     },
-    "1900": {
+    {
       "requestid": "8fd3c1b8-be2f-42e1-83c4-a02710ec0278",
       "confidence": "0.6427742",
       "timestamp": 1900,
-      "content": "we talked about it a bad idea what time is com is it was awful thing that we have to talk about them in any way that true because were talking bout partly because of our failure to catch fish"
+      "content": "we talked about it a bad idea what time is com is it was awful thing that we have to talk about them in any way that true because were talking bout partly because of our failure to catch fish",
+      "uuid": "913bb611-5b13-40b1-aabc-ce8d291437c0"
     },
-    "1910": {
+    {
       "requestid": "c5f58c20-5337-4557-bb18-d5c9082a7302",
       "confidence": "0.539354",
       "timestamp": 1910,
-      "content": "but that seems somehow to go with the biker were hiding something"
+      "content": "but that seems somehow to go with the biker were hiding something",
+      "uuid": "b31881c6-3a93-466a-831a-0a6a86b1e5ba"
     },
-    "1920": {
+    {
       "requestid": "2d7fa2d2-26ca-440c-b150-ed15e649ecb3",
       "confidence": "0.6062077",
       "timestamp": 1920,
-      "content": "a genuine and I think not join the fact that we understand something about the world that actually gives us the ability"
+      "content": "a genuine and I think not join the fact that we understand something about the world that actually gives us the ability",
+      "uuid": "011d019e-34fa-453d-8c46-b67d540bb440"
     },
-    "1930": {
+    {
       "requestid": "c59bd35e-e4f7-43e5-a353-da4f31ec5cac",
       "confidence": "0.4703704",
       "timestamp": 1930,
-      "content": "duty black ops take me to get the power to do great harm as well as potentially pretty good but there standing is it ryan"
+      "content": "duty black ops take me to get the power to do great harm as well as potentially pretty good but there standing is it ryan",
+      "uuid": "8cbdb15d-bf28-40a0-892c-643476629e8a"
     },
-    "1940": {
+    {
       "requestid": "89729364-148a-4b9a-a562-46005e50073b",
       "confidence": "0.5801749",
       "timestamp": 1940,
-      "content": "human ingenuity and I think this sort some celebration of the people are great together"
+      "content": "human ingenuity and I think this sort some celebration of the people are great together",
+      "uuid": "eee06a16-cbe7-45a4-a851-01883f7dc7cb"
     },
-    "1950": {
+    {
       "requestid": "ee68077c-7a84-424f-8cee-758f12639dad",
       "confidence": "0.5659066",
       "timestamp": 1950,
-      "content": "bacio to problem the problem that we've heard about his driving lots of things innovations in technology come over do some missions but also I think it"
+      "content": "bacio to problem the problem that we've heard about his driving lots of things innovations in technology come over do some missions but also I think it",
+      "uuid": "a6819f84-60cf-4c6b-b242-4eb00b6168e1"
     },
-    "1960": {
+    {
       "requestid": "819b74d5-3891-49f2-9411-01756b237dbc",
       "confidence": "0.5831951",
       "timestamp": 1960,
-      "content": "will drive a sports thinking about time at the weather be like in not at time to begin thinking about it even if I think about is to construct arguments"
+      "content": "will drive a sports thinking about time at the weather be like in not at time to begin thinking about it even if I think about is to construct arguments",
+      "uuid": "dd15f6ac-a753-404a-80aa-0425fe9149d9"
     },
-    "1970": {
+    {
       "requestid": "14bb03db-5105-42e9-839e-67e8fc378725",
       "confidence": "0.4732639",
       "timestamp": 1970,
-      "content": "why we should do it again"
+      "content": "why we should do it again",
+      "uuid": "bff64520-d9b6-4b8b-afe9-a28102480018"
     },
-    "1980": {
+    {
       "requestid": "7501a29d-941f-4919-974c-8c7beb43b3a6",
       "confidence": "0.6254875",
       "timestamp": 1980,
-      "content": "book called the case for climate engineering you can hear his full talk atthe.com stay with us and kyra's more hacking in the moment"
+      "content": "book called the case for climate engineering you can hear his full talk atthe.com stay with us and kyra's more hacking in the moment",
+      "uuid": "f5195df8-84a9-4c11-a187-da01d33849cd"
     },
-    "1990": {
+    {
       "requestid": "c251084a-88e9-452a-85e0-0eabbbe33866",
       "confidence": "0.6439319",
       "timestamp": 1990,
-      "content": "here on the ted radio hour from npr"
+      "content": "here on the ted radio hour from npr",
+      "uuid": "172bc64d-cdc3-44a1-ab3e-f66f6ba2ce36"
     },
-    "2000": {
+    {
       "requestid": "dacdc37e-c83b-435e-8029-34ade82098a0",
       "confidence": "0.7778231",
       "timestamp": 2000,
-      "content": "radio hour is supported by trunk club a closing service that matches guys with personal stylist to do all the work to find the clothes they need his tasnim from trunk club talking about her"
+      "content": "radio hour is supported by trunk club a closing service that matches guys with personal stylist to do all the work to find the clothes they need his tasnim from trunk club talking about her",
+      "uuid": "00c5319a-3025-4acc-86ca-2e67fdc0f49d"
     },
-    "2010": {
+    {
       "requestid": "ed3caa7c-35c1-4b4f-9228-fc396d9d28b4",
       "confidence": "0.6446532",
       "timestamp": 2010,
-      "content": "role is this I lost I love working in the trunk of silence because I actually get to know my clients and have a real person relationship with each of them anytime bring together trunk"
+      "content": "role is this I lost I love working in the trunk of silence because I actually get to know my clients and have a real person relationship with each of them anytime bring together trunk",
+      "uuid": "797727d7-c8f3-4c4f-9b23-113762859420"
     },
-    "2020": {
+    {
       "requestid": "0ee13dd1-073b-485f-bbed-330d0d3d6c38",
       "confidence": "0.6199005",
       "timestamp": 2020,
-      "content": "on my guys each piece of clothing I choose if you need to him and his style in whatever's going on in my trunk club is not a subscription service and you only"
+      "content": "on my guys each piece of clothing I choose if you need to him and his style in whatever's going on in my trunk club is not a subscription service and you only",
+      "uuid": "24d6b14d-7e59-4dc2-bd7e-e69b703c2830"
     },
-    "2030": {
+    {
       "requestid": "84517abd-17b7-4847-9d47-13c1b63139f1",
       "confidence": "0.7671901",
       "timestamp": 2030,
-      "content": "pay for the clothes you keep visit trunkclub.com slash npr's to get started support for ted radio hour also comes from bondage in 2001"
+      "content": "pay for the clothes you keep visit trunkclub.com slash npr's to get started support for ted radio hour also comes from bondage in 2001",
+      "uuid": "92f8b8a7-7ddd-4632-9560-9353ea65783a"
     },
-    "2040": {
+    {
       "requestid": "cf22af48-0d25-451a-aba0-145ec1d471ce",
       "confidence": "0.7924859",
       "timestamp": 2040,
-      "content": "bondage revolutionise home phone service they made it better with voice over internet now bondages back to work transforming communications for business is the cloud base"
+      "content": "bondage revolutionise home phone service they made it better with voice over internet now bondages back to work transforming communications for business is the cloud base",
+      "uuid": "932f11bf-df2b-44eb-90cf-a808b3c06037"
     },
-    "2050": {
+    {
       "requestid": "19084823-95f9-4ba5-89ce-44a745729ae4",
       "confidence": "0.7756991",
       "timestamp": 2050,
-      "content": "lucian's that basically let you manage your entire phone system from your desktop and see with mobility between on your device is so you never miss that important call no matter where you are"
+      "content": "lucian's that basically let you manage your entire phone system from your desktop and see with mobility between on your device is so you never miss that important call no matter where you are",
+      "uuid": "ff3b1b9a-ec1b-4641-b1df-4ac0295cde52"
     },
-    "2060": {
+    {
       "requestid": "7259c655-8273-40fe-9787-ae895fc5ee3b",
       "confidence": "0.8032342",
       "timestamp": 2060,
-      "content": "data charges may apply you can see how your business can get the better it deserves by calling 1805 minutes for going tovantage.com"
+      "content": "data charges may apply you can see how your business can get the better it deserves by calling 1805 minutes for going tovantage.com",
+      "uuid": "900da5d8-1151-427a-8678-8b009202acb6"
     },
-    "2070": {
+    {
       "requestid": "a62be04d-7ebb-4c26-84b7-3912ed4a7127",
       "confidence": "0.5980046",
       "timestamp": 2070,
-      "content": "it's the ted radio hour from npr I'm diarise solare show today the hackers bing hackers definitely important to me"
+      "content": "it's the ted radio hour from npr I'm diarise solare show today the hackers bing hackers definitely important to me",
+      "uuid": "d3e5b094-29ea-42d6-a4b3-9df94517dcaf"
     },
-    "2080": {
+    {
       "requestid": "6dd93934-08f1-4ca5-a0fe-3d5c283b026b",
       "confidence": "0.7393334",
       "timestamp": 2080,
-      "content": "because the hacker is somebody who does and ask how something works they just see what works gay silver is maybe the most literal hacker on today show"
+      "content": "because the hacker is somebody who does and ask how something works they just see what works gay silver is maybe the most literal hacker on today show",
+      "uuid": "6d8686de-0ea8-489c-bdcf-63fc405b063c"
     },
-    "2090": {
+    {
       "requestid": "69a405ed-d07c-459a-b2ea-965cca724ef1",
       "confidence": "0.5713328",
       "timestamp": 2090,
-      "content": "LE dot hack into computers but he's also an inventor and why he invented is everything machine and see if you had 4 bananas"
+      "content": "LE dot hack into computers but he's also an inventor and why he invented is everything machine and see if you had 4 bananas",
+      "uuid": "4d4536ed-8564-403b-ba19-b6eb706137f6"
     },
-    "2100": {
+    {
       "requestid": "0a6f6ea3-2a87-4ef5-b713-8f80b6a75615",
       "confidence": "0.5833867",
       "timestamp": 2100,
-      "content": "I need to plan it will make your pac man move in the direction lose it looks like it curse ricky is it with some people leave gathered from the office we"
+      "content": "I need to plan it will make your pac man move in the direction lose it looks like it curse ricky is it with some people leave gathered from the office we",
+      "uuid": "d7f2b94f-c86e-48d7-b682-62ea99cdf002"
     },
-    "2110": {
+    {
       "requestid": "135bafc3-252a-4ea2-b5f8-a1d896d89b2f",
       "confidence": "0.5845398",
       "timestamp": 2110,
-      "content": "hacked into those bananas to help with play pac man"
+      "content": "hacked into those bananas to help with play pac man",
+      "uuid": "ff1ec14e-d912-4e14-9c8b-12dc7ec7567b"
     },
-    "2120": {
+    {
       "requestid": "d42de4c6-8202-4c01-b50f-8cd843c09d7b",
       "confidence": "0.7714942",
       "timestamp": 2120,
-      "content": "it's a little circuit board about the size of a credit card and it looks like a old school nintendo game pad or basically a video game controller um it's actually a circuit"
+      "content": "it's a little circuit board about the size of a credit card and it looks like a old school nintendo game pad or basically a video game controller um it's actually a circuit",
+      "uuid": "8ea2be8e-1e38-4cd8-9afc-904f716369ab"
     },
-    "2130": {
+    {
       "requestid": "85a2df80-4773-4e2d-8710-41e95dc48003",
       "confidence": "0.6842155",
       "timestamp": 2130,
-      "content": "word but it doesn't look like a circuit board it just looks like a game controller and you can pick up today and then you look up those alligator clips do whatever you have line around"
+      "content": "word but it doesn't look like a circuit board it just looks like a game controller and you can pick up today and then you look up those alligator clips do whatever you have line around",
+      "uuid": "80909163-9364-4676-982f-04cbcc933790"
     },
-    "2140": {
+    {
       "requestid": "a4815deb-cdf4-408e-a3d8-970866eed852",
       "confidence": "0.6823984",
       "timestamp": 2140,
-      "content": "humans plants gramoz kitty cat water graphite with vincent signals back through to make you make it to your computer"
+      "content": "humans plants gramoz kitty cat water graphite with vincent signals back through to make you make it to your computer",
+      "uuid": "52a48744-98fb-4bf3-bdc1-2d1fe2ea2cc7"
     },
-    "2150": {
+    {
       "requestid": "9aae8729-0e85-4095-b6a7-7cdc3256ec07",
       "confidence": "0.6914619",
       "timestamp": 2150,
-      "content": "just like if you look at the regular usb keyboard your computer any press the spacebar the computer like a facebook"
+      "content": "just like if you look at the regular usb keyboard your computer any press the spacebar the computer like a facebook",
+      "uuid": "d27a3069-9281-4328-8493-08620eb294fa"
     },
-    "2160": {
+    {
       "requestid": "c4ddf4c2-b6ce-48bd-a035-ae09e27c0747",
       "confidence": "0.7366267",
       "timestamp": 2160,
-      "content": "when you touch the object that pushes the space bar"
+      "content": "when you touch the object that pushes the space bar",
+      "uuid": "fd94e77f-34ff-435c-a36f-c3e47595676f"
     },
-    "2170": {
+    {
       "requestid": "66524718-c36f-47ed-b951-57f5ba5a646f",
       "confidence": "0.6984261",
       "timestamp": 2170,
-      "content": "one thing you can't do with normal do I think that you can do here is you can play clapboard of pac man that's a good he looks like a lab rat pac man"
+      "content": "one thing you can't do with normal do I think that you can do here is you can play clapboard of pac man that's a good he looks like a lab rat pac man",
+      "uuid": "a9c19257-53b2-42ed-b8c1-e5df4fd5b12d"
     },
-    "2180": {
+    {
       "requestid": "27a2be1d-1cb8-49d1-956e-dd233dbafe9b",
       "confidence": "0.7074164",
       "timestamp": 2180,
-      "content": "just let one person hold the other one and everyone else can I hold hands are heirlooms"
+      "content": "just let one person hold the other one and everyone else can I hold hands are heirlooms",
+      "uuid": "8a78e21c-1866-49d8-adfc-ff2c95303d69"
     },
-    "2190": {
+    {
       "requestid": "4ac59699-4a10-4241-bef7-d028533dcc76",
       "confidence": "0.4928425",
       "timestamp": 2190,
-      "content": "rent a cabana gonna get the charger yet and he sobers hope you're holding I'm looking for the makey makey to turn"
+      "content": "rent a cabana gonna get the charger yet and he sobers hope you're holding I'm looking for the makey makey to turn",
+      "uuid": "53ce89ff-e11f-4d57-bfa2-c06c65e4180e"
     },
-    "2200": {
+    {
       "requestid": "ba0dd3ef-ca04-4d02-93c0-bea14fd14d75",
       "confidence": "0.5397625",
       "timestamp": 2200,
-      "content": "anyone is looking into akhare I think everyone starts out thinking about the world with when I called again he's mine"
+      "content": "anyone is looking into akhare I think everyone starts out thinking about the world with when I called again he's mine",
+      "uuid": "17da7549-f58c-4027-a862-2b3a697f62ac"
     },
-    "2210": {
+    {
       "requestid": "80649891-97d3-4d54-b97c-7bdc196951b0",
       "confidence": "0.6507196",
       "timestamp": 2210,
-      "content": "it is just a reminder not rain does it know how it's supposed to think I think we all felt that way I think children I like that don't know what they are"
+      "content": "it is just a reminder not rain does it know how it's supposed to think I think we all felt that way I think children I like that don't know what they are",
+      "uuid": "e90d49bf-0e85-4b0a-865f-8db516d247d5"
     },
-    "2220": {
+    {
       "requestid": "a0129231-e25d-44ba-9bc7-f72b8bc2ef8c",
       "confidence": "0.7046643",
       "timestamp": 2220,
-      "content": "I think when they look at snow and when I look at a tv channel changer any of these things"
+      "content": "I think when they look at snow and when I look at a tv channel changer any of these things",
+      "uuid": "923c872a-aefd-4eb1-a251-78c8ef7b959e"
     },
-    "2230": {
+    {
       "requestid": "4adfb5f9-bf65-442f-b09b-9c6984da1d7a",
       "confidence": "0.6488114",
       "timestamp": 2230,
-      "content": "what to think not useful we just need to be able to put that aside 2012"
+      "content": "what to think not useful we just need to be able to put that aside 2012",
+      "uuid": "11d0e149-613d-47f9-9378-b6ed23555280"
     },
-    "2240": {
+    {
       "requestid": "55c0f9aa-3ae3-40b3-b2a9-b1b44da4ef32",
       "timestamp": 2240,
-      "content": ""
+      "content": "",
+      "uuid": "0e849175-8b50-4a61-8a99-faa4ba216ecf"
     },
-    "2250": {
+    {
       "requestid": "057d5d88-735a-4c89-bdd1-9b5c154c74d5",
       "confidence": "0.592817",
       "timestamp": 2250,
-      "content": "is asking what happens if I do that and then doing it over and over again I kill try something 100 times more likely not but in fire overnight for cataract"
+      "content": "is asking what happens if I do that and then doing it over and over again I kill try something 100 times more likely not but in fire overnight for cataract",
+      "uuid": "0e5bde15-bd78-49f6-be72-e94c76c19b4c"
     },
-    "2260": {
+    {
       "requestid": "07961bfa-9648-46bb-ab26-3da3406ba734",
       "confidence": "0.7407301",
       "timestamp": 2260,
-      "content": "exploring the possibilities of that we would kind of cut out of our minds because we think we are you know how to swear don't believe me when I say you have to see the video"
+      "content": "exploring the possibilities of that we would kind of cut out of our minds because we think we are you know how to swear don't believe me when I say you have to see the video",
+      "uuid": "5b001b9a-6b51-402a-b4e8-506aa8aa35a8"
     },
-    "2270": {
+    {
       "requestid": "9b271396-d04a-491e-9928-cd6116d6970d",
       "confidence": "0.6229473",
       "timestamp": 2270,
-      "content": "how to make me he works understand how cool it actually yes and for a very good reason as to explain it to talk to mickey mickey mickey comes with"
+      "content": "how to make me he works understand how cool it actually yes and for a very good reason as to explain it to talk to mickey mickey mickey comes with",
+      "uuid": "520417f1-2fae-4082-b574-7a8f1d494af9"
     },
-    "2280": {
+    {
       "requestid": "4b050830-943d-4d56-adb9-31aca469f519",
       "confidence": "0.6002051",
       "timestamp": 2280,
-      "content": "warning label because I do if you were gonna be getting my phone there gonna be turning into agents afraid of change in government to become black eyed people but thought I better warn them"
+      "content": "warning label because I do if you were gonna be getting my phone there gonna be turning into agents afraid of change in government to become black eyed people but thought I better warn them",
+      "uuid": "fe39b49b-dc20-4c7b-b354-33102409a297"
     },
-    "2290": {
+    {
       "requestid": "6e64cf04-7562-418b-a68d-73a1a834f96a",
       "confidence": "0.7482737",
       "timestamp": 2290,
-      "content": "little surprise when you open the lid of the box says the world is a construction kit and as you start kinda mess around this way I think that in some small way if you do start to see the land"
+      "content": "little surprise when you open the lid of the box says the world is a construction kit and as you start kinda mess around this way I think that in some small way if you do start to see the land",
+      "uuid": "61f976fd-212d-4c26-9616-c6baca20c61f"
     },
-    "2300": {
+    {
       "requestid": "5526406e-1c67-41fd-9ab3-19f8844ea463",
       "confidence": "0.8094704",
       "timestamp": 2300,
-      "content": "have your everyday life a little bit more like something you can express yourself wet and a little bit more like you could participate in designing the future of the way the world works com"
+      "content": "have your everyday life a little bit more like something you can express yourself wet and a little bit more like you could participate in designing the future of the way the world works com",
+      "uuid": "9fc5f9c8-457b-4f75-9db2-d88af225a6a4"
     },
-    "2310": {
+    {
       "requestid": "7d8ec5df-192e-4847-a8e9-26b0f471472c",
       "confidence": "0.6949044",
       "timestamp": 2310,
-      "content": "and so like know next time you're on a escalator in you drop an eminem by accident reports not an escalator so don't pick it up right away maybe take some more stuff"
+      "content": "and so like know next time you're on a escalator in you drop an eminem by accident reports not an escalator so don't pick it up right away maybe take some more stuff",
+      "uuid": "8a029827-fd5c-4b0f-8e80-f6b7b16ed072"
     },
-    "2320": {
+    {
       "requestid": "61eea858-b855-411f-8647-3dcbd1d76728",
       "confidence": "0.5951163",
       "timestamp": 2320,
-      "content": "how do your pockets broke down and maybe some chapstick whatever and you know I just wanna design like it you to pick society or at work"
+      "content": "how do your pockets broke down and maybe some chapstick whatever and you know I just wanna design like it you to pick society or at work",
+      "uuid": "6c3255eb-af20-44e0-8134-2f6ad8c5ea6e"
     },
-    "2330": {
+    {
       "requestid": "93bf46e2-60ba-4954-be47-d2ddb09cc89a",
       "confidence": "0.7675555",
       "timestamp": 2330,
-      "content": "world are something like that because I'm kinda getting older and kind of messing with all the stuff I'm realizing that my idea of a perfect world really can't be defined by one person or even buy a"
+      "content": "world are something like that because I'm kinda getting older and kind of messing with all the stuff I'm realizing that my idea of a perfect world really can't be defined by one person or even buy a",
+      "uuid": "467c2657-6ebd-43de-9823-9da66efe724f"
     },
-    "2340": {
+    {
       "requestid": "4908a3d7-3ba3-42c2-afbf-70e90fe8d2f6",
       "confidence": "0.5923316",
       "timestamp": 2340,
-      "content": "william experts is really gonna be 7,000,000,000 pairs of pants eat passion and he's kind of like an event coming up in trading at world in the back"
+      "content": "william experts is really gonna be 7,000,000,000 pairs of pants eat passion and he's kind of like an event coming up in trading at world in the back",
+      "uuid": "97d2ce1d-8d51-4d37-b7d5-84e733762938"
     },
-    "2350": {
+    {
       "requestid": "27561705-4ac4-4edb-b2f9-0d317c7ddf12",
       "confidence": "0.5237687",
       "timestamp": 2350,
-      "content": "and I really wanna live in thank you"
+      "content": "and I really wanna live in thank you",
+      "uuid": "e918bd9f-83fc-41b2-8b2f-83c44d26e224"
     },
-    "2360": {
+    {
       "requestid": "5a609d57-d3be-4897-a58b-60297b633e56",
       "confidence": "0.6507763",
       "timestamp": 2360,
-      "content": "very visually should check it out it's called hack a banana make a keyboard and you can find it at ted dotnpr.org"
+      "content": "very visually should check it out it's called hack a banana make a keyboard and you can find it at ted dotnpr.org",
+      "uuid": "9d4ff98b-1ac4-4423-88f4-27044ef7a6a8"
     },
-    "2370": {
+    {
       "requestid": "73505216-7c21-4c26-9e07-da0ad444c721",
       "confidence": "0.566168",
       "timestamp": 2370,
-      "content": "this game in the 80s"
+      "content": "this game in the 80s",
+      "uuid": "14b6be21-d52c-4680-bfc1-55a32712703e"
     },
-    "2380": {
+    {
       "requestid": "41eff054-bbd8-4a6e-8370-57930f4e06c9",
       "confidence": "0.500485",
       "timestamp": 2380,
-      "content": "long time before undresses I know became a renowned brain hacker hijacks"
+      "content": "long time before undresses I know became a renowned brain hacker hijacks",
+      "uuid": "8f34fe0a-ba1d-48e7-86a1-bec8f709ae72"
     },
-    "2390": {
+    {
       "requestid": "0fc339d6-6833-4a9a-9ca5-fcb512d25f4b",
       "confidence": "0.7327847",
       "timestamp": 2390,
-      "content": "fascinated by how the brain works and he remembers the moments that fascination began when I was a teenager I watched a television program"
+      "content": "fascinated by how the brain works and he remembers the moments that fascination began when I was a teenager I watched a television program",
+      "uuid": "f3044ed6-9705-4fc5-8214-d9e59c464355"
     },
-    "2400": {
+    {
       "requestid": "e36b5255-a667-4978-a6e6-742e609c7993",
       "confidence": "0.5345418",
       "timestamp": 2400,
-      "content": "but doctor panty raid duckenfield was a famous canadian nuro surgeon and he did epilepsy surgery with the patient awake"
+      "content": "but doctor panty raid duckenfield was a famous canadian nuro surgeon and he did epilepsy surgery with the patient awake",
+      "uuid": "e5116ef6-2ed7-44db-bad6-6fbc442acac8"
     },
-    "2410": {
+    {
       "requestid": "b22906bb-2a8c-4a4d-93aa-e37cc9307aa5",
       "confidence": "0.5751916",
       "timestamp": 2410,
-      "content": "do you able to stay clean the surface of the brain and in so doing a list of actions alisa pots with movement solicit <profanity>bitch</profanity>"
+      "content": "do you able to stay clean the surface of the brain and in so doing a list of actions alisa pots with movement solicit <profanity>bitch</profanity>",
+      "uuid": "0bbfd42b-07c9-4c88-bfa2-cf52621bfbea"
     },
-    "2420": {
+    {
       "requestid": "e9ddb80a-580e-4670-a851-9a4c388a7a7c",
       "timestamp": 2420,
-      "content": ""
+      "content": "",
+      "uuid": "f49f08e9-4c85-4421-923e-7f0ce84ffce3"
     },
-    "2430": {
+    {
       "requestid": "ad8282c1-bbd9-46f4-8948-57e95486dcdf",
       "confidence": "0.7541711",
       "timestamp": 2430,
-      "content": "wild penfield map the surface of the brain the majority of the brain up"
+      "content": "wild penfield map the surface of the brain the majority of the brain up",
+      "uuid": "5c2347e3-fb96-444e-a611-711c61632198"
     },
-    "2440": {
+    {
       "requestid": "d95ddf98-7d6d-456e-9a96-bd4864b1e929",
       "confidence": "0.7748185",
       "timestamp": 2440,
-      "content": "is below the surface so I was interested in establishing what is uncharted areas of the brain do"
+      "content": "is below the surface so I was interested in establishing what is uncharted areas of the brain do",
+      "uuid": "73567152-8f9a-4d57-adf7-ca9beefd19df"
     },
-    "2450": {
+    {
       "requestid": "aeac17ff-7560-4acc-a948-bcac9a0d79eb",
       "confidence": "0.795652",
       "timestamp": 2450,
-      "content": "so it's really not like becoming an explorer traveling to new lands where no one has been before and to discover"
+      "content": "so it's really not like becoming an explorer traveling to new lands where no one has been before and to discover",
+      "uuid": "0ba8297b-7cbf-4ba6-9aa2-fb32fc33cecc"
     },
-    "2460": {
+    {
       "requestid": "8626bffb-31e2-47bf-9520-408a095f92b5",
       "confidence": "0.6371781",
       "timestamp": 2460,
-      "content": "what lies there so fast for decades later from curious teenager to renowned nuro surgeon in the day under those on again"
+      "content": "what lies there so fast for decades later from curious teenager to renowned nuro surgeon in the day under those on again",
+      "uuid": "1ca89ab1-440d-40ec-a29b-a0254b83c9f6"
     },
-    "2470": {
+    {
       "requestid": "c2abaa3a-85ea-4a64-9a46-3b575a7aa464",
       "confidence": "0.5467423",
       "timestamp": 2470,
-      "content": "jaw dropping ted talk I'm always hacking into the human brain is the brain that are dedicated to controlling movement when your vision for your man"
+      "content": "jaw dropping ted talk I'm always hacking into the human brain is the brain that are dedicated to controlling movement when your vision for your man",
+      "uuid": "91f3cf94-a987-4ff5-98e2-02ab9ad0e8b5"
     },
-    "2480": {
+    {
       "requestid": "5c8f9340-65a8-47df-b4e2-0ab5c042b50b",
       "confidence": "0.6699911",
       "timestamp": 2480,
-      "content": "appetite and so on and one things work well then the number system works well and everything functions but once in awhile things don't go so well and there's trouble"
+      "content": "appetite and so on and one things work well then the number system works well and everything functions but once in awhile things don't go so well and there's trouble",
+      "uuid": "5538d0e2-d8d9-4007-9759-a14f32210e5a"
     },
-    "2490": {
+    {
       "requestid": "d03d6ff8-9d63-49a8-865b-d0de60c4fe6c",
       "confidence": "0.6111652",
       "timestamp": 2490,
-      "content": "indy circuit sam there are some roman around for misfiring and causing trouble know the manifestation of this depends on where in the brain teaser on star"
+      "content": "indy circuit sam there are some roman around for misfiring and causing trouble know the manifestation of this depends on where in the brain teaser on star",
+      "uuid": "38f08427-e709-47cd-81cf-25a1d0cf8ee8"
     },
-    "2500": {
+    {
       "requestid": "381f236f-f742-46ed-a43b-eb708ad0f22b",
       "confidence": "0.6806608",
       "timestamp": 2500,
-      "content": "so when she's not answering the motor circuit you get the function in the movement system when you get things like parkinson's disease when the malfunction is in a circuit that regulates"
+      "content": "so when she's not answering the motor circuit you get the function in the movement system when you get things like parkinson's disease when the malfunction is in a circuit that regulates",
+      "uuid": "81ac8292-8073-46ec-bc1d-d4a0f4bad18d"
     },
-    "2510": {
+    {
       "requestid": "b6508cff-9212-4a73-90f6-c3d217f20792",
       "confidence": "0.6470613",
       "timestamp": 2510,
-      "content": "your mood get things like depression and when is in a circuit that controls your memory and cognitive function then you get things like alzheimer's disease so"
+      "content": "your mood get things like depression and when is in a circuit that controls your memory and cognitive function then you get things like alzheimer's disease so",
+      "uuid": "e3de8f0c-fd38-45e6-96cb-5d154fd33275"
     },
-    "2520": {
+    {
       "requestid": "6f950586-fc93-4df4-9297-c981b3794dea",
       "confidence": "0.6139997",
       "timestamp": 2520,
-      "content": "enable us to pinpoint where these disturbances are in the brain and we been able to intervene with in the circuits in the brain to either turn the opp ork"
+      "content": "enable us to pinpoint where these disturbances are in the brain and we been able to intervene with in the circuits in the brain to either turn the opp ork",
+      "uuid": "d601bb99-ba57-4335-b4a2-0a5734a47082"
     },
-    "2530": {
+    {
       "requestid": "6d43df0f-4877-439a-a18c-c0d4ec772589",
       "confidence": "0.7399125",
       "timestamp": 2530,
-      "content": "I'm down is very much like how does it work well we are able to adjust the activity of circuits in the brain by e"
+      "content": "I'm down is very much like how does it work well we are able to adjust the activity of circuits in the brain by e",
+      "uuid": "df8c2b55-0016-486c-b43d-3ef030fe1052"
     },
-    "2540": {
+    {
       "requestid": "4ba5763e-45ef-4622-804a-83cc9890f3b0",
       "confidence": "0.5663509",
       "timestamp": 2540,
-      "content": "using electricity so what were doing is placing electrodes for a brand new your making wholeness call about the size of a dime pudding electrode in"
+      "content": "using electricity so what were doing is placing electrodes for a brand new your making wholeness call about the size of a dime pudding electrode in",
+      "uuid": "38994d5f-b596-4b48-a122-724d00cef594"
     },
-    "2550": {
+    {
       "requestid": "573b499d-e45e-4cf2-a2c4-f642f3ab2605",
       "confidence": "0.697196",
       "timestamp": 2550,
-      "content": "electrode is completely underneath the skin down 2 pacemaker in the chest so we are able to go in to berries for cats for example of circuit second"
+      "content": "electrode is completely underneath the skin down 2 pacemaker in the chest so we are able to go in to berries for cats for example of circuit second",
+      "uuid": "aecc0ea7-6aed-4dbd-a7ee-9fd8ece6b0db"
     },
-    "2560": {
+    {
       "requestid": "9463be2b-d20e-498d-b4a9-eebf4337c9ee",
       "confidence": "0.5718329",
       "timestamp": 2560,
-      "content": "movement biserka tekken trolls your mood and with a remote control very much like a television remote control we can adjust how much"
+      "content": "movement biserka tekken trolls your mood and with a remote control very much like a television remote control we can adjust how much",
+      "uuid": "70c981c5-d47d-4aae-8749-db6318a25149"
     },
-    "2570": {
+    {
       "requestid": "a093319e-f939-498b-aadf-38b06cc6f44c",
       "confidence": "0.6352194",
       "timestamp": 2570,
-      "content": "christy would deliver 2 at these areas of the brain were able to either turn it on if it's under active is this"
+      "content": "christy would deliver 2 at these areas of the brain were able to either turn it on if it's under active is this",
+      "uuid": "875065e2-ec52-4176-b398-839d3901c8ce"
     },
-    "2580": {
+    {
       "requestid": "560ebe33-d285-4761-9f23-5091f0429f7f",
       "confidence": "0.7611837",
       "timestamp": 2580,
-      "content": "underperforming or we can turn it down if it's over active is very much like choosing the correct station on the radio"
+      "content": "underperforming or we can turn it down if it's over active is very much like choosing the correct station on the radio",
+      "uuid": "9b2512e3-fb74-4940-af59-193cc4e4a598"
     },
-    "2590": {
+    {
       "requestid": "3fe3c9f1-25a6-48b3-b6d8-3582cd24ea54",
       "confidence": "0.6202478",
       "timestamp": 2590,
-      "content": "dial one to choose the right station with AB jazz are up right now in our case with the movement of mood we can put the dye out there and then we can use it"
+      "content": "dial one to choose the right station with AB jazz are up right now in our case with the movement of mood we can put the dye out there and then we can use it",
+      "uuid": "3274f498-f306-4ee6-a4aa-5520cd130873"
     },
-    "2600": {
+    {
       "requestid": "7857bf5b-a534-4965-9c87-7207804df0d2",
       "confidence": "0.4573545",
       "timestamp": 2600,
-      "content": "button to adjust the volume"
+      "content": "button to adjust the volume",
+      "uuid": "0ea56033-0f1f-4a89-bda0-e17bbf7008e8"
     },
-    "2620": {
+    {
       "requestid": "2871299d-82b0-4261-8ed2-8bef0cda66b9",
       "confidence": "0.7129545",
       "timestamp": 2620,
-      "content": "rain and I'm gonna show you what she's like when electrons are turn off and she has her parkinson symptoms and then were gonna turn off I'm here to talk you you should I think readable video"
+      "content": "rain and I'm gonna show you what she's like when electrons are turn off and she has her parkinson symptoms and then were gonna turn off I'm here to talk you you should I think readable video",
+      "uuid": "a2f1bfb3-754e-450b-a725-c72290011a22"
     },
-    "2630": {
+    {
       "requestid": "8c511390-5f07-4c72-9cb1-4f32c10ee9bd",
       "confidence": "0.5567756",
       "timestamp": 2630,
-      "content": "so this look something like this is women with pockets shaking down when you can see that she has timer"
+      "content": "so this look something like this is women with pockets shaking down when you can see that she has timer",
+      "uuid": "60de5fcd-1bbc-49de-b201-2ae4de13a01e"
     },
-    "2640": {
+    {
       "requestid": "b8f66528-395e-467d-8130-dabeb438e54d",
       "confidence": "0.6019728",
       "timestamp": 2640,
-      "content": "deep brain stimulation is turned on it on the street on"
+      "content": "deep brain stimulation is turned on it on the street on",
+      "uuid": "5962be31-2202-48d1-bb54-63baa8ba4c8d"
     },
-    "2650": {
+    {
       "requestid": "31f24494-548a-456b-a1d1-bc42a2726fad",
       "confidence": "0.3996198",
       "timestamp": 2650,
-      "content": "is this works like that it's super"
+      "content": "is this works like that it's super",
+      "uuid": "071a40e8-e252-42d7-b810-1deda091ac6b"
     },
-    "2660": {
+    {
       "requestid": "01d9cfaf-ab62-4f4a-8aae-b3b2bfa57390",
       "confidence": "0.7448306",
       "timestamp": 2660,
-      "content": "there are a bunch of neurons that are trouble makers that are causing the trailer and so if you're able to pinpoint these girls were they are these troublemakers and say"
+      "content": "there are a bunch of neurons that are trouble makers that are causing the trailer and so if you're able to pinpoint these girls were they are these troublemakers and say",
+      "uuid": "fdeba500-e7fc-43ae-93db-eb3b185a74c6"
     },
-    "2670": {
+    {
       "requestid": "ce31e155-e324-41fe-98df-fb93429afea3",
       "confidence": "0.6288061",
       "timestamp": 2670,
-      "content": "you know gettleman that's enough then the timer goes away immediately and sure enough when we place an electrode in the vicinity of these around so we play electro stimulation"
+      "content": "you know gettleman that's enough then the timer goes away immediately and sure enough when we place an electrode in the vicinity of these around so we play electro stimulation",
+      "uuid": "e4eb23e4-9bf6-4cef-8db7-1e44848aa8ad"
     },
-    "2680": {
+    {
       "requestid": "0d3cb360-bb68-48a3-8e0a-a61d4f5999bd",
       "confidence": "0.6850023",
       "timestamp": 2680,
-      "content": "they can no longer fire in synchrony and the chemicals away immediately subira parkinson's patients around the world to have this in plant in their brain who who symptoms"
+      "content": "they can no longer fire in synchrony and the chemicals away immediately subira parkinson's patients around the world to have this in plant in their brain who who symptoms",
+      "uuid": "260b7b70-014b-4761-af62-11d089ad1871"
     },
-    "2690": {
+    {
       "requestid": "036a3c8c-1224-4151-a011-5e1d25374dd5",
       "confidence": "0.6393161",
       "timestamp": 2690,
-      "content": "are totally controlled deidara 100 thousand pesos in the world with parkinson's disease but have these depressing letting electrons in"
+      "content": "are totally controlled deidara 100 thousand pesos in the world with parkinson's disease but have these depressing letting electrons in",
+      "uuid": "7acdf6ca-f0c5-4774-80f3-bb08f9625cd8"
     },
-    "2700": {
+    {
       "requestid": "60191bcd-bccc-4896-b19b-2a1c4f8da63d",
       "confidence": "0.7482452",
       "timestamp": 2700,
-      "content": "the symptoms can be alleviated to a great extent such that some of the space of a perfectly normal"
+      "content": "the symptoms can be alleviated to a great extent such that some of the space of a perfectly normal",
+      "uuid": "921d2357-39c4-4b5a-b1dc-cb10be65bf92"
     },
-    "2710": {
+    {
       "requestid": "6076eb65-bc7b-48b7-a99e-16e4ebc4537b",
       "confidence": "0.6229081",
       "timestamp": 2710,
-      "content": "perhaps you could use this technology not only sirkeci control your movement but also sirkeci control other things in the next time we talk on was sirketi control your mood"
+      "content": "perhaps you could use this technology not only sirkeci control your movement but also sirkeci control other things in the next time we talk on was sirketi control your mood",
+      "uuid": "cd26ac31-8d7d-47aa-856d-20a759a7314c"
     },
-    "2720": {
+    {
       "requestid": "c12c56cc-7490-40c3-b3be-086b0127d10e",
       "confidence": "0.6257106",
       "timestamp": 2720,
-      "content": "we decided to take on depression in the basement under pressure cuff so prepared mind and as you know there many treatments for depression medication for cycle therapy"
+      "content": "we decided to take on depression in the basement under pressure cuff so prepared mind and as you know there many treatments for depression medication for cycle therapy",
+      "uuid": "93073352-5e1d-4893-9930-ed93d0f2b5db"
     },
-    "2730": {
+    {
       "requestid": "e18be620-953a-440d-985d-dd62a49de56d",
       "confidence": "0.6902015",
       "timestamp": 2730,
-      "content": "electroconvulsive therapy with their millions of people and they are still 10 or 20% of people with depression that's not respond and it is these places that we wanna help and let's see if we"
+      "content": "electroconvulsive therapy with their millions of people and they are still 10 or 20% of people with depression that's not respond and it is these places that we wanna help and let's see if we",
+      "uuid": "38076574-d966-4c4a-b95d-f639b5ca5e5b"
     },
-    "2740": {
+    {
       "requestid": "01ee3c9d-174f-4fe0-8d8f-707836412b92",
       "confidence": "0.6753609",
       "timestamp": 2740,
-      "content": "use this technique to help these faces with a passion for the first thing we did was it compared with different in the brain of some with depression and someone who is normal and what we did was"
+      "content": "use this technique to help these faces with a passion for the first thing we did was it compared with different in the brain of some with depression and someone who is normal and what we did was",
+      "uuid": "3295df4c-a8df-456b-910c-961a2f2d3e47"
     },
-    "2750": {
+    {
       "requestid": "1692ca03-4c72-45df-a12c-a76aaeb8c3e5",
       "confidence": "0.5954658",
       "timestamp": 2750,
-      "content": "chance look at the blood flow of the brain and what we know to send pictures of depression compared to normales there is the brain or shut down loser there is involved in motor bay"
+      "content": "chance look at the blood flow of the brain and what we know to send pictures of depression compared to normales there is the brain or shut down loser there is involved in motor bay",
+      "uuid": "765c246a-908e-4a04-8834-e06fa2d961eb"
     },
-    "2760": {
+    {
       "requestid": "db5bef3f-9fda-4bf1-b3bf-a30b28e0d8dd",
       "confidence": "0.6263063",
       "timestamp": 2760,
-      "content": "sean and driving decision making and eat if you're severely depressed as he faces were those are impaired the lack motivation and drive the other thing we discovered it was an area"
+      "content": "sean and driving decision making and eat if you're severely depressed as he faces were those are impaired the lack motivation and drive the other thing we discovered it was an area",
+      "uuid": "7fa4948b-2015-4f26-bd92-7da1c4208daf"
     },
-    "2770": {
+    {
       "requestid": "0729e0b3-e632-4211-807e-1125614a6b53",
       "confidence": "0.722194",
       "timestamp": 2770,
-      "content": "overactive area 25 canary 25 is the sadness center of the brain if I could make any of you sad for sampling make you remember the last time you saw your parents before they died"
+      "content": "overactive area 25 canary 25 is the sadness center of the brain if I could make any of you sad for sampling make you remember the last time you saw your parents before they died",
+      "uuid": "24a4ae22-cfaf-47c9-943b-4bbb0215aebd"
     },
-    "2780": {
+    {
       "requestid": "e5fbbef1-615b-4ecc-80af-6055273308ca",
       "confidence": "0.5874299",
       "timestamp": 2780,
-      "content": "friend before he died his hair in the green lights up this is at the center of the brain cancer pictures of depression have hyperactive is the area of the brain for santa's on red fun with her"
+      "content": "friend before he died his hair in the green lights up this is at the center of the brain cancer pictures of depression have hyperactive is the area of the brain for santa's on red fun with her",
+      "uuid": "7f3c108c-9867-4c62-bef8-1a7d9877ed2f"
     },
-    "2790": {
+    {
       "requestid": "8934dab3-7d9d-463b-aebb-9e73df762328",
       "confidence": "0.6875214",
       "timestamp": 2790,
-      "content": "how to set 100 degrees and the other is the brain about in brighton recina shutdown so on the basis of those observations we embark on a study"
+      "content": "how to set 100 degrees and the other is the brain about in brighton recina shutdown so on the basis of those observations we embark on a study",
+      "uuid": "0d521c28-87e3-4d9b-a038-4bc023fea07b"
     },
-    "2800": {
+    {
       "requestid": "5d9815f3-80d3-434e-915a-adfaf034b0d2",
       "confidence": "0.8592795",
       "timestamp": 2800,
-      "content": "to implant electrodes in area 25 and turn on the electricity to see whether we could turn down the activity in this area to see what"
+      "content": "to implant electrodes in area 25 and turn on the electricity to see whether we could turn down the activity in this area to see what",
+      "uuid": "91648dd7-9a8a-46ff-9881-8f0ee303ccc6"
     },
-    "2810": {
+    {
       "requestid": "2be92f28-1461-4cbd-949c-25bf92613d5d",
       "confidence": "0.7890105",
       "timestamp": 2810,
-      "content": "this would have some benefit in people with so called treatment resistant depression what did you see the address I'm in with patients today all the sudden become happy"
+      "content": "this would have some benefit in people with so called treatment resistant depression what did you see the address I'm in with patients today all the sudden become happy",
+      "uuid": "ab747845-43ea-4ce5-afdb-2b50cc7888d5"
     },
-    "2820": {
+    {
       "requestid": "4b22e314-ec06-4d55-98ca-e5139cc9d49a",
       "confidence": "0.7877833",
       "timestamp": 2820,
-      "content": "so many the patience will say that they have this black cloud over them are they have this tremendous weight this pressure on their chest and within turning left on within 2 or 3"
+      "content": "so many the patience will say that they have this black cloud over them are they have this tremendous weight this pressure on their chest and within turning left on within 2 or 3",
+      "uuid": "b066e193-2bc9-4568-a2ee-55176ec0fbc4"
     },
-    "2830": {
+    {
       "requestid": "e6fde401-95f6-4799-86ce-07764641257f",
       "confidence": "0.7123647",
       "timestamp": 2830,
-      "content": "sec that sensation disappears in about 2 thirds of the case 2 to 3 seconds yeah it takes 2 to 3 seconds"
+      "content": "sec that sensation disappears in about 2 thirds of the case 2 to 3 seconds yeah it takes 2 to 3 seconds",
+      "uuid": "f94a26a4-ef34-4218-a705-2a5d047a6b0a"
     },
-    "2840": {
+    {
       "requestid": "a8c06c7b-6f15-4a21-9bfd-13024a3d6f12",
       "confidence": "0.782984",
       "timestamp": 2840,
-      "content": "they say this burden is lifting I feel a tremendous relief and then they start looking around and they start becoming more in gay"
+      "content": "they say this burden is lifting I feel a tremendous relief and then they start looking around and they start becoming more in gay",
+      "uuid": "702c4d50-3712-4d80-bc5b-a6bb8be27fd8"
     },
-    "2850": {
+    {
       "requestid": "5567adc4-faa0-4eaf-8862-1947b5ba2fef",
       "confidence": "0.738129",
       "timestamp": 2850,
-      "content": "these are people who often do not leave the house to sit in the chair all day and all of sudden say I feel like doing some housekeeping"
+      "content": "these are people who often do not leave the house to sit in the chair all day and all of sudden say I feel like doing some housekeeping",
+      "uuid": "2ea3c7ea-aa77-4ebb-af9d-9be09e01f015"
     },
-    "2860": {
+    {
       "requestid": "508d4cdc-f58d-44c3-935f-a702e9aaff27",
       "confidence": "0.7319413",
       "timestamp": 2860,
-      "content": "armando's i feel like going into my garage and you know fixing the car for minister of call to action to do things"
+      "content": "armando's i feel like going into my garage and you know fixing the car for minister of call to action to do things",
+      "uuid": "0ade0e48-12d4-4858-a8f9-c0f7b52d8e99"
     },
-    "2870": {
+    {
       "requestid": "8d701b47-ac37-464a-906e-3c03f30d216d",
       "confidence": "0.7495939",
       "timestamp": 2870,
-      "content": "they were not able to do for many weeks and months and all this occurs within 10 to 15 seconds of turning on the similar"
+      "content": "they were not able to do for many weeks and months and all this occurs within 10 to 15 seconds of turning on the similar",
+      "uuid": "2003b23d-03ad-415e-8a61-e656c0167719"
     },
-    "2880": {
+    {
       "requestid": "d6fabc9d-7790-4943-8117-81e5279743ca",
       "confidence": "0.7443678",
       "timestamp": 2880,
-      "content": "you must be on a regular basis kentucky's experiment and come home and I don't think it was amazing it was incredible what I just witnessed"
+      "content": "you must be on a regular basis kentucky's experiment and come home and I don't think it was amazing it was incredible what I just witnessed",
+      "uuid": "14321ae6-161c-4f71-b53b-a3e0edf0cd25"
     },
-    "2890": {
+    {
       "requestid": "3a0a8d12-7561-47c0-aa38-8b0a7721be95",
       "confidence": "0.7695199",
       "timestamp": 2890,
-      "content": "what is incredible is when we go to an area of the brain where no one has been before and we don't really have a good understanding of what it does and we seem like there an olive"
+      "content": "what is incredible is when we go to an area of the brain where no one has been before and we don't really have a good understanding of what it does and we seem like there an olive",
+      "uuid": "e1071ad1-508f-4dae-8b16-3451b711324b"
     },
-    "2900": {
+    {
       "requestid": "b58514de-68a5-4cec-91b0-a3ce313f1bfd",
       "confidence": "0.8155993",
       "timestamp": 2900,
-      "content": "can we get a totally unexpected find a good example of that was when we were treating a patient with obesity by implanting electrodes in the"
+      "content": "can we get a totally unexpected find a good example of that was when we were treating a patient with obesity by implanting electrodes in the",
+      "uuid": "9a919834-6007-4dc7-b9c2-16dc6b316a0a"
     },
-    "2910": {
+    {
       "requestid": "5c2d1460-31a6-4b76-a366-dc4d753fb3a6",
       "confidence": "0.7833896",
       "timestamp": 2910,
-      "content": "area of the brain regulates appetite so when we are doing this experiment the first human being who had this as soon as we turned on this team"
+      "content": "area of the brain regulates appetite so when we are doing this experiment the first human being who had this as soon as we turned on this team",
+      "uuid": "cc7b9744-6994-4230-8d80-586c694fee9d"
     },
-    "2930": {
+    {
       "requestid": "cfb6bdb5-5c49-41df-8785-d00554154dda",
       "confidence": "0.7438951",
       "timestamp": 2930,
-      "content": "walking through a field with his girlfriend so we were not anticipating"
+      "content": "walking through a field with his girlfriend so we were not anticipating",
+      "uuid": "91d946b2-cfde-4f31-a4da-fe90711b6e57"
     },
-    "2940": {
+    {
       "requestid": "fc6de56b-37fa-499d-a9ac-13887e1466c0",
       "confidence": "0.766532",
       "timestamp": 2940,
-      "content": "memory went away as soon as we went back at the same level"
+      "content": "memory went away as soon as we went back at the same level",
+      "uuid": "fbdda7f0-4321-454c-9d18-adc071f5ac67"
     },
-    "2950": {
+    {
       "requestid": "13c970c5-c9cd-4f47-a657-4c3f57929c3a",
       "confidence": "0.5439992",
       "timestamp": 2950,
-      "content": "as we turn up the current details of the scene became more vivid able tell us a funny day"
+      "content": "as we turn up the current details of the scene became more vivid able tell us a funny day",
+      "uuid": "5f4033cd-2c81-4913-a901-3bff398ed576"
     },
-    "2960": {
+    {
       "requestid": "72a72e0c-e0d6-4cb5-b86e-31ca9b4ff9e8",
       "confidence": "0.726456",
       "timestamp": 2960,
-      "content": "legal to tell us his girlfriend out what she was wearing we were completely turned around to words looking aneri the brain"
+      "content": "legal to tell us his girlfriend out what she was wearing we were completely turned around to words looking aneri the brain",
+      "uuid": "7da26be5-1670-4bb9-8408-3bbcd9dbd7db"
     },
-    "2970": {
+    {
       "requestid": "5c432af0-1d71-4f67-811e-bd8ad69ffab8",
       "confidence": "0.7921956",
       "timestamp": 2970,
-      "content": "or we could unlock a memory of an event at had heard some 30 years earlier"
+      "content": "or we could unlock a memory of an event at had heard some 30 years earlier",
+      "uuid": "cc5eea99-c709-4fb0-a1b6-e93368d132cc"
     },
-    "2980": {
+    {
       "requestid": "3cfd9be4-582b-44e8-9fdb-7d4940f1c213",
       "confidence": "0.6909477",
       "timestamp": 2980,
-      "content": "it's a mapping unexplored galaxy and unexplored universe I mean the possibilities must be in"
+      "content": "it's a mapping unexplored galaxy and unexplored universe I mean the possibilities must be in",
+      "uuid": "50ecb858-9fd7-44ed-942f-89187400a27e"
     },
-    "2990": {
+    {
       "requestid": "7d5da41c-2236-4cb4-84fa-e99f5346012a",
       "confidence": "0.6338891",
       "timestamp": 2990,
-      "content": "listen if you can imagine this technology idol been used it to make people smarter if you asies at the ready click possibly the answer is yes well <profanity>shit</profanity>"
+      "content": "listen if you can imagine this technology idol been used it to make people smarter if you asies at the ready click possibly the answer is yes well <profanity>shit</profanity>",
+      "uuid": "b3b353b9-1606-46f8-b6e4-f149d8559e71"
     },
-    "3000": {
+    {
       "requestid": "b1751b92-9ba5-4e68-bd28-d3f790e8d0d5",
       "confidence": "0.7357694",
       "timestamp": 3000,
-      "content": "do it that is something that has it you know different adiponectin but the idea of all trading card and abilities altering personality is within our"
+      "content": "do it that is something that has it you know different adiponectin but the idea of all trading card and abilities altering personality is within our",
+      "uuid": "302e775a-b904-4799-b890-ab6963bd9ee9"
     },
-    "3010": {
+    {
       "requestid": "09d07bc6-c4b7-4b76-82d7-f8a1e510ca99",
       "confidence": "0.7176147",
       "timestamp": 3010,
-      "content": "reach now this will be an usher at what is being called as the era of a cosmetic brain surgery where you will have"
+      "content": "reach now this will be an usher at what is being called as the era of a cosmetic brain surgery where you will have",
+      "uuid": "00450269-2af9-4ac1-8cd4-032875f1e50f"
     },
-    "3020": {
+    {
       "requestid": "4e5d7acf-4b05-449c-8bdf-fc3ddb0d5de4",
       "confidence": "0.7603262",
       "timestamp": 3020,
-      "content": "possibility of I having nursing procedures not to cure a problem but rather to enhance at the performance"
+      "content": "possibility of I having nursing procedures not to cure a problem but rather to enhance at the performance",
+      "uuid": "24e7996f-f5e1-4e3e-8889-4fcf86218b44"
     },
-    "3030": {
+    {
       "requestid": "e3f88ee3-0d9b-4b15-b7bf-c2b3d3685d76",
       "confidence": "0.6861202",
       "timestamp": 3030,
-      "content": "I like to take it are cognitive attribute or behavioral attributes so I don't think that we are ready for that I think society is not ready"
+      "content": "I like to take it are cognitive attribute or behavioral attributes so I don't think that we are ready for that I think society is not ready",
+      "uuid": "25670989-1c94-48c7-8d5c-ff1a9a86233e"
     },
-    "3040": {
+    {
       "requestid": "3cbfbf95-431e-41d0-ae95-30a39b158ee5",
       "confidence": "0.6123489",
       "timestamp": 3040,
-      "content": "right now"
+      "content": "right now",
+      "uuid": "24c608f3-5767-449f-b14c-4f00d8ad994d"
     },
-    "3050": {
+    {
       "requestid": "276c3e94-1095-4d8a-a0d2-14a150e90907",
       "confidence": "0.7330245",
       "timestamp": 3050,
-      "content": "this in terms of who will get it so who will pay for it for champ should we be messing with your intrinsic make up your intrinsic purse"
+      "content": "this in terms of who will get it so who will pay for it for champ should we be messing with your intrinsic make up your intrinsic purse",
+      "uuid": "232db26c-f475-404a-bd47-c62001ab1ea7"
     },
-    "3060": {
+    {
       "requestid": "e8627d66-fb49-46c3-b9da-ed551dc22b69",
       "confidence": "0.6794313",
       "timestamp": 3060,
-      "content": "audi for one thing and secondly we should be making decisions as to whether you should have this or not so these are some the summer points that need to be considered"
+      "content": "audi for one thing and secondly we should be making decisions as to whether you should have this or not so these are some the summer points that need to be considered",
+      "uuid": "48926648-c8fd-4446-90b2-c0829f39b17f"
     },
-    "3070": {
+    {
       "requestid": "1f588a91-944e-4343-8371-1fd6864f9c4b",
       "confidence": "0.6880459",
       "timestamp": 3070,
-      "content": "so are you were going to see a great expansion of indications of this technique at work I see electro the details for mini disorders in the brain and I think"
+      "content": "so are you were going to see a great expansion of indications of this technique at work I see electro the details for mini disorders in the brain and I think",
+      "uuid": "fe99fd1f-fd4e-4fbc-aac9-b17d377b208f"
     },
-    "3080": {
+    {
       "requestid": "7f8f51b4-9f28-4e2a-abe9-70a1960922ec",
       "confidence": "0.6986074",
       "timestamp": 3080,
-      "content": "we will see that indeed we will be able to chase more of this evil spirits out from the brain as time goes on in a consequence of our for so big that we will be"
+      "content": "we will see that indeed we will be able to chase more of this evil spirits out from the brain as time goes on in a consequence of our for so big that we will be",
+      "uuid": "68fb8703-c6cd-4952-a588-c3e77fd08250"
     },
-    "3090": {
+    {
       "requestid": "1abcaeef-0d41-4097-89c6-946bb664d03b",
       "confidence": "0.5975266",
       "timestamp": 3090,
-      "content": "health many more patience"
+      "content": "health many more patience",
+      "uuid": "f389d68f-ca4d-4cdf-bbb5-29056b86c46c"
     },
-    "3100": {
+    {
       "requestid": "4dc0ef96-75d1-4d4c-8239-3873a972380b",
       "confidence": "0.6293705",
       "timestamp": 3100,
-      "content": "full incredible talk at ted dotnpr.org"
+      "content": "full incredible talk at ted dotnpr.org",
+      "uuid": "6a17f86e-ba62-4138-9da6-b2994ad2c5cd"
     },
-    "3110": {
+    {
       "requestid": "7ea94060-7961-4fca-a73a-6fbc86ca56ec",
       "timestamp": 3110,
-      "content": ""
+      "content": "",
+      "uuid": "d017267f-a589-451e-ab09-a28e9da02089"
     },
-    "3120": {
+    {
       "requestid": "ac78a492-405f-4859-aaa0-c86dd17f7ee1",
       "timestamp": 3120,
-      "content": ""
+      "content": "",
+      "uuid": "667aaecf-6411-4e45-9446-1776e50ede44"
     },
-    "3130": {
+    {
       "requestid": "d6a01dc5-b8c5-485e-8b55-59242ee6ea4b",
       "confidence": "0.6558198",
       "timestamp": 3130,
-      "content": "hey victor listen to the show this week if you missed any of it or you wanna hear more on if you can visit ted dotnpr.org it's not fun anymore tats"
+      "content": "hey victor listen to the show this week if you missed any of it or you wanna hear more on if you can visit ted dotnpr.org it's not fun anymore tats",
+      "uuid": "b90770ca-c401-4868-96b6-9431c362c7a2"
     },
-    "3140": {
+    {
       "requestid": "584ca919-9e19-4883-a37e-97364ab35cb0",
       "confidence": "0.6681661",
       "timestamp": 3140,
-      "content": "chatpad.com and you can download this program through I tunes or the npr smart phone and look for the ted radio hour it's a program is produced by jeff rogers bread"
+      "content": "chatpad.com and you can download this program through I tunes or the npr smart phone and look for the ted radio hour it's a program is produced by jeff rogers bread",
+      "uuid": "19299e3f-a1f1-4731-b5c5-2f96cf2de621"
     },
-    "3150": {
+    {
       "requestid": "52460704-85b7-4dff-adb4-e4b7f6e42934",
       "confidence": "0.4091563",
       "timestamp": 3150,
-      "content": "when they came in as michigan florida people rent with help this week from the quick porter robinson migus eric nuzum ignore partners at ted cruz sander"
+      "content": "when they came in as michigan florida people rent with help this week from the quick porter robinson migus eric nuzum ignore partners at ted cruz sander",
+      "uuid": "903f6524-0a56-4c99-8ce7-b0681c0af36c"
     },
-    "3160": {
+    {
       "requestid": "15627a3e-a9d6-4c41-9651-e143a822082c",
       "confidence": "0.4503511",
       "timestamp": 3160,
-      "content": "engine coolant trip lee die rise you been listening to ideas worth spreading ted radio hour"
+      "content": "engine coolant trip lee die rise you been listening to ideas worth spreading ted radio hour",
+      "uuid": "f0960d23-bb81-4798-b05c-5647ab1124f9"
     },
-    "3170": {
+    {
       "requestid": "dcdb2f18-02c3-4ba8-a2c8-bf570b33f786",
       "confidence": "0.8076887",
       "timestamp": 3170,
-      "content": "hey you are still listening well then you must love npr podcast and if you do"
+      "content": "hey you are still listening well then you must love npr podcast and if you do",
+      "uuid": "7e15ab3b-16ec-446d-a54a-94950cfa175f"
     },
-    "3180": {
+    {
       "requestid": "2dbe6760-b41d-4567-a3c9-d382bced4c4a",
       "confidence": "0.7963623",
       "timestamp": 3180,
-      "content": "please check out one of my personal favorite planet money it's full of funny insightful stories about how the world works like how did jim strekoza do"
+      "content": "please check out one of my personal favorite planet money it's full of funny insightful stories about how the world works like how did jim strekoza do",
+      "uuid": "32c7bf89-76af-40bb-aa60-4efc1345a442"
     },
-    "3190": {
+    {
       "requestid": "ab594215-ef6e-4c52-8ef0-9089b590db57",
       "confidence": "0.7630202",
       "timestamp": 3190,
-      "content": "are showing up on why there are so few women programmers plus all kinds of other stuff like how to steal a million barrels of oil you can find planet money in pr dot"
+      "content": "are showing up on why there are so few women programmers plus all kinds of other stuff like how to steal a million barrels of oil you can find planet money in pr dot",
+      "uuid": "f3e0eb45-a16d-4665-97f0-844ec0775275"
     },
-    "3200": {
+    {
       "requestid": "56ba53d6-7dfe-47c4-965b-41104c5aa9a4",
       "confidence": "0.7452284",
       "timestamp": 3200,
-      "content": "ORG slash podcast or on the npr one app"
+      "content": "ORG slash podcast or on the npr one app",
+      "uuid": "da462644-275a-438f-b9ed-bba520d889dd"
     }
-  },
+  ],
   "slug": "The-Hackers"
 }

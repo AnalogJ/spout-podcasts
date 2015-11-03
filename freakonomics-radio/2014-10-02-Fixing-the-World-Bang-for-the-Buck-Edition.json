@@ -4,1681 +4,1924 @@
   "description": "<p>A team of economists has been running the numbers on the U.N.'s development goals. They have a different view of how those billions of dollars should be spent.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/AcL1IZMC40M/freakonomics_podcast100214.mp3",
   "slug": "Fixing-the-World--Bang-for-the-Buck-Edition",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "5069d2a5-9da4-4bab-a059-6e7d70144e3a",
       "confidence": "0.8630542",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by brain tree green trees new b dot OSDK makes it easy to support multiple mobile payment types with one simple integration to learn more and try another sandbox go to brain treepayments.com slash freak",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f7221a68-5cda-4950-8c92-f4c2de767d13"
     },
-    "17.12": {
+    {
       "requestid": "1bee8572-db7a-4beb-bfce-8ff0086ea9b8",
       "confidence": "0.7243859",
       "timestamp": 17.12,
       "content": "freakonomics radio is supported by mu offering a variety of business cards in printed pronax moo also offers print nfinity the ability to print a different image on every card more atmu.com",
-      "speaker": "S2"
+      "speaker": "S2",
+      "uuid": "804d4c02-c979-45a8-858d-a39909add13d"
     },
-    "31.05": {
+    {
       "requestid": "64ee4a5f-8ff3-469c-bdce-80f473013cf5",
       "confidence": "0.5772086",
       "timestamp": 31.05,
       "content": "hey bucket passers the episode your about here is called sings the world bang for the buck edition",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "c53a5498-29db-4ea8-bf4a-97ecb1150e7c"
     },
-    "39.94": {
+    {
       "requestid": "86038ee6-8907-4e0f-b226-ce73adbfd3cd",
       "confidence": "0.6390937",
       "timestamp": 39.94,
       "content": "you're here how much maconomy have teamed up to measure the roi orbitron an investment for the development goals set by united nations know if you only have $100 for the sun $100 Billion of psych",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "7551c234-dc8a-4ac6-874f-897ee897f141"
     },
-    "54.74": {
+    {
       "requestid": "2a3920de-8727-4350-9485-cc98122b1fef",
       "confidence": "0.6514007",
       "timestamp": 54.74,
       "content": "despite something like global poverty what's the best way to spend that money what's the ry an early education versus job training versus small business subsidies we do this car thing a lot here we come for you try to measure aurelien things that aren't so easy measure",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "c606d7f1-582c-4793-abe3-c6167a5b36f7"
     },
-    "74.12": {
+    {
       "requestid": "dc3ae771-fd35-42fc-a75f-aa700c68b1fa",
       "confidence": "0.7517607",
       "timestamp": 74.12,
       "content": "do you turn this around and ask you question what is the roi for you if we can I mix radio does the time you spend listening to the show make your life in any way better",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "db3a0a31-c825-43cc-92e4-a70b6ce71f09"
     },
-    "86.35": {
+    {
       "requestid": "85fdc585-87d5-4ff1-be46-39723e46fc4c",
       "confidence": "0.6563275",
       "timestamp": 86.35,
       "content": "more pleasurable massage will drink if you believe it does give the number you put on its value is anything at all north of zero",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "124c6bf9-0629-40c7-90ef-64c3e29596d5"
     },
-    "95.93": {
+    {
       "requestid": "ec3fcee2-51b7-4afe-bf5d-5d9e29655aaf",
       "confidence": "0.7214447",
       "timestamp": 95.93,
       "content": "well I hope and you consider making a contribution to wmic the public radio station here in new york that produces hour so just go to freakonomics.com and hit the donate button any and all contributions are appreciated although",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "55ae6dad-61da-45ce-b419-2222e6fc4da0"
     },
-    "111.39": {
+    {
       "requestid": "7969dc1f-e612-4d6d-9e79-a1ce6bc9e7c8",
       "confidence": "0.6711171",
       "timestamp": 111.39,
       "content": "you will find the rewards get better as you climb the dollar letter we can I mix radio t shirts mugs autograph books things like that",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "cbbab577-1f7f-4408-afff-0a6fa1571f0e"
     },
-    "118.64": {
+    {
       "requestid": "ea73930b-fdba-412c-9b35-2be4e483368e",
       "confidence": "0.7004184",
       "timestamp": 118.64,
       "content": "and if you decide that this program is it worth anything I need 5 bucks will now will know that too and work harder in the future make it worth more I do hope that you'll go to freakonomics.com",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "2c4c35a1-79ea-498a-bc65-3450c4dfcc4d"
     },
-    "132.64": {
+    {
       "requestid": "ebbeb91a-299e-4d51-babc-26817ab93180",
       "confidence": "0.6325191",
       "timestamp": 132.64,
       "content": "donate thanks a million",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "4768c5bb-230f-47bd-b52e-a05b4e7acde5"
     },
-    "135.55": {
+    {
       "requestid": "dc59f114-838a-4bdd-809a-15de7dc766b3",
       "confidence": "0.5103583",
       "timestamp": 135.55,
       "content": "million 100 billion degrees",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "c2edd0b7-eca7-40d0-b35f-dc3fb02f38c6"
     },
-    "139.99": {
+    {
       "requestid": "516bda80-5a08-4700-ab22-9bdc868ef4e7",
       "timestamp": 139.99,
-      "content": ""
+      "content": "",
+      "uuid": "405622c9-972d-402b-9712-3f5a04a5c742"
     },
-    "142.63": {
+    {
       "requestid": "c9fc2c04-2d76-4c36-9d1b-9e99f53e35f3",
       "timestamp": 142.63,
-      "content": ""
+      "content": "",
+      "uuid": "f9faf757-cd25-4622-a301-7a68b3f56786"
     },
-    "146.99": {
+    {
       "requestid": "30b4026f-cc0c-4b1f-a162-5c98e2e14c9f",
       "confidence": "0.6074998",
       "timestamp": 146.99,
       "content": "my name is bjorn lomborg I'm public intellectual I guess you could say and I run d copenhagen consensus center where would bring together lunch for thomaston 7 abelard's to think about where do we spend money and do the most good predoehl is bill",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "05a7fcf2-3311-441c-bbcf-ada0b67390b4"
     },
-    "159.99": {
+    {
       "requestid": "b52093cc-c997-46f2-b5b8-2a17c509abc2",
       "timestamp": 159.99,
-      "content": ""
+      "content": "",
+      "uuid": "693e6ba9-9b71-4818-9d1f-603303fa5471"
     },
-    "162.38": {
+    {
       "requestid": "3ec0e1c5-920d-46ae-8f0e-0f21ee5fb149",
       "confidence": "0.7197703",
       "timestamp": 162.38,
       "content": "let's say you wanna fix the world in some fashion to some degree of daunting different that maybe I'm not say that you have more than $100 Billion a year",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "f6aea0d3-65dd-42fc-8efd-8c846f377998"
     },
-    "176.51": {
+    {
       "requestid": "9f45742b-5c70-4678-b9e4-279b11b6e817",
       "confidence": "0.6490923",
       "timestamp": 176.51,
       "content": "it's not a fictional sunaryo this is what really happens development aid heugten so what kind of problems do we spend money on in problems problems too",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "32e2df0b-0a8a-4acd-aacf-90aca05cf402"
     },
-    "188.63": {
+    {
       "requestid": "82caf518-c2d9-48c3-83ed-a444d32af7a4",
       "confidence": "0.7020102",
       "timestamp": 188.63,
       "content": "focus on a lot of different issues in the world and many of them",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "bb47022d-3d9b-4b23-8be9-e21b8e0f5d49"
     },
-    "193.85": {
+    {
       "requestid": "2cec2934-0ccd-4a3c-9881-8154b9f93faa",
       "confidence": "0.707846",
       "timestamp": 193.85,
       "content": "we focus on because we get lots of attention there in the press a good stories to have lots of crying kids are cute animals but of course in reality we need to do for you wanna do good is to focus and where do we do the most good for every dollar spent",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "2ee4434d-ae30-489f-ab69-3055a9390021"
     },
-    "209.01": {
+    {
       "requestid": "e1059158-85ac-4190-ba09-9cbb2528a0a0",
       "confidence": "0.1665164",
       "timestamp": 209.01,
       "content": "hello",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "5afa871b-3206-4222-a8e3-b86e96809b72"
     },
-    "211.21": {
+    {
       "requestid": "fd5d435b-a36e-4556-b043-5c23aa6d385a",
       "confidence": "0.7648136",
       "timestamp": 211.21,
       "content": "time ago I dabbled a little in this conversation and what should we be focusing on is pretty sure somebody must've looked at that surely somebody has given us",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "e6d609ed-b089-4f31-854b-a7c96487579e"
     },
-    "220.04": {
+    {
       "requestid": "78ea98bf-a93f-40ab-bd29-c4e834d0661a",
       "confidence": "0.6138182",
       "timestamp": 220.04,
       "content": "the menu list if you will of societies different choices and to list",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "a442351d-b2c1-4c28-9931-710e38269509"
     },
-    "224.36": {
+    {
       "requestid": "d5be5812-d2ab-4e70-b835-c49308e8c866",
       "confidence": "0.6837092",
       "timestamp": 224.36,
       "content": "what are the banks of the book for these different issues turnt up but really nobody house in fridge for me simple reason because if you are working in any particular area safe if you work for education to small kids are you work for nutrition richika work in global warming",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "7482d934-1c9f-4bb7-b0ea-8c8e5493f238"
     },
-    "240.13": {
+    {
       "requestid": "4c17c51b-cdfd-42ac-a05c-459bd46b6555",
       "confidence": "0.7588484",
       "timestamp": 240.13,
       "content": "saving pandas whatever that thing is you don't really wanna find out what's the smartest thing because there's a good chance is not going to be your thing but of course we want to find out as a society because we wanna do the most good",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3ea715b2-b4e2-491c-87ca-b40415125bb5"
     },
-    "255.15": {
+    {
       "requestid": "04fbf934-bf31-44f8-9f58-dd4d5a04fc41",
       "confidence": "0.6537412",
       "timestamp": 255.15,
       "content": "that's discouraging although obviously you provide an alternative to that let me at this given within around with your saving pandas are thinking about poverty famine education",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "d2c6a40d-243c-4e41-9a8b-dcb0c50a5ffc"
     },
-    "265.48": {
+    {
       "requestid": "69145874-05f8-4797-ac85-10a98857794b",
       "confidence": "0.8147862",
       "timestamp": 265.48,
       "content": "let him focus on just one round and I'm not going to compare it to paul the other projects at least within my realm don't i want to be vigilant about measuring roi about sing when I get for the money that we put into it",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "fc15c9be-7dfb-44c0-b5f4-3a7c298b1f35"
     },
-    "279.54": {
+    {
       "requestid": "44899390-010e-42d2-b3f2-a6f7c39cae1c",
       "confidence": "0.6060795",
       "timestamp": 279.54,
       "content": "and there is deathly morebath if you look for instance in the seas of the world health organization house of the seas parties project",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "91adc9e4-2c50-4160-88f4-4dcce56eee30"
     },
-    "287.17": {
+    {
       "requestid": "33dfa248-ad0a-4aa5-8b4c-63f71f5677d8",
       "confidence": "0.7323954",
       "timestamp": 287.17,
       "content": "where they're actually look at what's the bang for the buck for more than 300 different assises but when your doctor and you're out there and you're confronted with a specific type of patients at your place so you seem ilarione ec kiss kiss my <profanity>ass</profanity> is so you see some of the deceased",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "60ff4902-027f-47b2-9df1-0930fb427fd2"
     },
-    "304.51": {
+    {
       "requestid": "be0f63fa-2df8-42eb-84b6-a369e6b18135",
       "confidence": "0.7642192",
       "timestamp": 304.51,
       "content": "it's really hard to say well maybe I should be somewhere else on the planet doing something else your gonna say I wanna turibius deceased",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c3d8ba4e-c0de-4d98-bd60-bc132e51937e"
     },
-    "312.54": {
+    {
       "requestid": "ddb94ef0-87ba-4919-91a3-ead5d5c4b846",
       "confidence": "0.7246299",
       "timestamp": 312.54,
       "content": "but there's a lot more we can do for this amount of money just to give you one example are you can probably save one person from dying from laree prepare a thousand dollars you can probably save one person from dying from hi v 810 thousand dollars know who is a good deals with you",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "ac4d61f9-58a0-426f-957e-a8c18d4d7c0e"
     },
-    "330.79": {
+    {
       "requestid": "d2d94338-9b04-4ea5-a43b-774ae0b799ca",
       "confidence": "0.7344029",
       "timestamp": 330.79,
       "content": "have to ask yourself why don't we want to first save 10 people from malaria before you say one person from hiv",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "33d23c08-0b5d-48ae-9003-ebc5b0373f68"
     },
-    "342.31": {
+    {
       "requestid": "25d6e436-20d0-4481-8f0e-8e23ab499026",
       "timestamp": 342.31,
-      "content": ""
+      "content": "",
+      "uuid": "c1050cb7-aa77-4ab0-91e0-57b159eb0159"
     },
-    "350.8": {
+    {
       "requestid": "6612b9e6-a102-4b3b-ad8a-c6cc07833f79",
       "confidence": "0.6181622",
       "timestamp": 350.8,
       "content": "mw on my feet this is freakonomics radio podcast 6 north side of everything",
-      "speaker": "S401"
+      "speaker": "S401",
+      "uuid": "a6879a9e-0285-47e1-9eff-884d4f544fa3"
     },
-    "358.39": {
+    {
       "requestid": "f3a2983b-5146-449a-8b03-b1a9dc24f588",
       "confidence": "0.3919954",
       "timestamp": 358.39,
       "content": "here's your host diesin.net",
-      "speaker": "S53"
+      "speaker": "S53",
+      "uuid": "183ff40b-beef-4922-a1ee-bb2042669317"
     },
-    "366.4": {
+    {
       "requestid": "8b35cd30-a114-4a27-9ed9-bdcb9afe36bb",
       "timestamp": 366.4,
-      "content": ""
+      "content": "",
+      "uuid": "4beddfce-7094-425f-ac8c-ae4d465937a7"
     },
-    "372.06": {
+    {
       "requestid": "8c4a610b-82cc-44bd-b60f-227c62a553c6",
       "confidence": "0.4819076",
       "timestamp": 372.06,
       "content": "jorrin lomborg run copenhagen consensus",
-      "speaker": "S55"
+      "speaker": "S55",
+      "uuid": "564f9d6d-9fae-48e7-b959-08e0934ae765"
     },
-    "376.08": {
+    {
       "requestid": "17d0864c-1ad6-47fe-b0f7-82dfcc45afda",
       "confidence": "0.7756795",
       "timestamp": 376.08,
       "content": "what is trying to do is tell government another nonprofit the best way to send money to solve problems",
-      "speaker": "S55"
+      "speaker": "S55",
+      "uuid": "2867b942-e0bd-4efa-974f-4e88b8f60092"
     },
-    "383.89": {
+    {
       "requestid": "f302f65a-958b-4835-b1f3-448b19df6f95",
       "confidence": "0.6649194",
       "timestamp": 383.89,
       "content": "the best as in the most useful most rational as opposed to just",
-      "speaker": "S55"
+      "speaker": "S55",
+      "uuid": "d447b1cd-bdce-4b91-9be6-db26da3a384a"
     },
-    "389.56": {
+    {
       "requestid": "6bc34c50-8bfc-4883-a6c1-dd0df78819a3",
       "confidence": "0.694015",
       "timestamp": 389.56,
       "content": "attacking the new easiest problems or the most politically appealing",
-      "speaker": "S55"
+      "speaker": "S55",
+      "uuid": "d52e858b-63a2-4aa2-a9cc-fca2752dfeb2"
     },
-    "395.04": {
+    {
       "requestid": "c0a21b19-9fe2-4ffd-b0d6-41504ee73b69",
       "confidence": "0.7255986",
       "timestamp": 395.04,
       "content": "we are very small organization we really just the guys who commission all the smart economist around the world to write the page",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "bb3b3e31-7985-4e13-8f92-f09dbb19d931"
     },
-    "403.31": {
+    {
       "requestid": "aa8a7751-f0df-43a9-9b9f-2d6686e56c4f",
       "confidence": "0.6867125",
       "timestamp": 403.31,
       "content": "bruce actually estimate what are the cost and benefits we are 7 full time employees most of us are based in budapest I live in proguard tepetate outlets in sweden we have one guy working in australia wanna do you ask",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c92e199e-7156-4c55-92d4-ac53e32114fc"
     },
-    "417.06": {
+    {
       "requestid": "05541ae1-312c-48cb-a933-180b470a0fe3",
       "confidence": "0.794943",
       "timestamp": 417.06,
       "content": "but mostly we just make sure we find the smartest people on the planet the smartest carmustine education ordering health are doing a global warming and and asking them what can you do how much will that cost",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "a44c63fa-0726-445a-8ef6-c5dde140531d"
     },
-    "431.59": {
+    {
       "requestid": "5baa67cc-cb8f-4946-b331-cf3aabf9d908",
       "confidence": "0.7479516",
       "timestamp": 431.59,
       "content": "and how much goodwill it do we have a number of nobel or it's not look across all these different areas and basically say overall what's the smartest thing to do was the next smartest thing to do the third and so one essentially rank all the great outcomes that we can",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1fea3a47-14f5-4332-a94c-9931f5c2259b"
     },
-    "448.52": {
+    {
       "requestid": "6f805d35-2d68-4ad8-bf1b-64d1bdf28a55",
       "confidence": "0.7147387",
       "timestamp": 448.52,
       "content": "back to pay the economist for this analysis who is ok where does the money come from how much you spend in a given year were gonna come from",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "95cfe0c9-05dc-46f5-b519-494093e3bc32"
     },
-    "454.78": {
+    {
       "requestid": "7afde08e-b0c3-468b-bdd6-25434d06f676",
       "confidence": "0.6817627",
       "timestamp": 454.78,
       "content": "we used to be funded by the danish government from 2004 until 2012 want things to change cover did not like I was the we said yes corning's rieleros challenge",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "922c809e-7e57-42a3-be10-fb43482c2e8a"
     },
-    "466.62": {
+    {
       "requestid": "4289bc01-1d4d-4366-b045-89b5e67498db",
       "confidence": "0.6862359",
       "timestamp": 466.62,
       "content": "but the typical way that we solve it turns out to be pretty poor investment and resources I win the recent change of government here we went from center right to centrelink government",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "83f217d9-bcaa-4b3a-8215-075cf13239d4"
     },
-    "476.5": {
+    {
       "requestid": "5b715d33-ade1-4823-9f74-2f04fab7152a",
       "confidence": "0.7309706",
       "timestamp": 476.5,
       "content": "I've actually cut off our funding and we move to the us",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9cde9312-d95b-4750-9184-2a4af533c7b6"
     },
-    "480.03": {
+    {
       "requestid": "bf1ce3c8-275f-4421-a8c3-f8460c7002c6",
       "confidence": "0.8051158",
       "timestamp": 480.03,
       "content": "where we get funding from private individuals and we're trying to find a long term solution for actually getting funding so we're 501 c 3 are a nonprofit in the us we used to have a bunch of back $2 Million a year of right now we probably have about you have a little more than $1,000,000 a year and we get it from private donation",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9d3ba5c1-a949-4cfd-a01a-748a6893f2b6"
     },
-    "499.09": {
+    {
       "requestid": "183c2c7e-5d65-4f88-8db8-3d7f0d07c8c7",
       "confidence": "0.8041075",
       "timestamp": 499.09,
       "content": "and for those who want to get under the hood of windows donations come from since the current climate suspected every donation comes with an agenda attached the scribe for me the prominence of that money and if there are strings attached",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "9ee5a108-f1ae-4dd1-b761-5c696c71cd58"
     },
-    "513.12": {
+    {
       "requestid": "a84631dc-79fd-4a42-88bf-b6b16c65af26",
       "confidence": "0.8520526",
       "timestamp": 513.12,
       "content": "there's no strings attached we are very clear and saying we take no money from fossil fuels and we do not let any one direct what we're going to do so we have only taken money from private individuals and foundations would have accepted that",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3d172bb4-863e-432b-a935-3625d2431f90"
     },
-    "529.13": {
+    {
       "requestid": "5a6cec22-c72f-40bc-9d97-0c0cb7beccae",
       "confidence": "0.7576788",
       "timestamp": 529.13,
       "content": "hi with that said almost all of them have wanted to remain anonymous there are a few I like the kauffman foundation princeton's who accepted to say that they've given money to us we've also got money from new ventures foundation from the randall foundation in from brush foundation",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "d5481d99-4f43-42b4-966b-920144151e20"
     },
-    "546.61": {
+    {
       "requestid": "6e2e1c1c-9c9d-4383-aa98-4d929c38bc7d",
       "confidence": "0.7780772",
       "timestamp": 546.61,
       "content": "talk for a minute joyness go back to you are at the book that put you on the map at least here and I assume there is well I'm skeptical environmentalist um which made a lot of environmental is skeptical about you if you have time to say we spoke to me about",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e8819dab-714f-4f8f-a2fe-b226d9179f83"
     },
-    "564.81": {
+    {
       "requestid": "40cd53b5-1869-46b7-980b-3b7420914d3f",
       "confidence": "0.7793075",
       "timestamp": 564.81,
       "content": "why you came to the problem of climate change at all you trying to the political scientist yes yes I'm why you came to the prom anad what your conclusions word then a net book at and where they've got into today 13 years later",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "fda278b6-88b7-4157-8237-d8bf2d30d3e5"
     },
-    "579.95": {
+    {
       "requestid": "fad6f7a1-de4d-4d03-a04f-a924565ae707",
       "confidence": "0.7379619",
       "timestamp": 579.95,
       "content": "so fundamentally my ebook this kept going by middle east with really ever sold my own personal journey I rent an interview with an american economies call julian simon back and wired magazine in 1997",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "2af8845d-ce2f-47d1-bc9d-efe26c5c4b2e"
     },
-    "591.29": {
+    {
       "requestid": "8b4f46ec-938b-4a90-b599-cc2ef45d416f",
       "confidence": "0.7307793",
       "timestamp": 591.29,
       "content": "and he said listen you think everything's getting worse with the informant blactually most things are getting better my mediadirect was right wing american propaganda reset one thing that really stuck with me he said to check the data",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "de8d9f7a-3449-4f27-9f51-c1bbe42007bb"
     },
-    "605.19": {
+    {
       "requestid": "a0e5e6d3-d33c-4158-9236-a53fbfad376f",
       "confidence": "0.7224275",
       "timestamp": 605.19,
       "content": "I'm so I decided yarka I'm gonna check his date I'm gonna go get some of my smart as soon as together we can have a fun half year and put in wrong",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "15b25a50-041b-4a2f-bd7d-58dddb0f2934"
     },
-    "613.27": {
+    {
       "requestid": "9e4c4fd8-57bf-4dd4-af12-6e1923d97e9a",
       "confidence": "0.8077554",
       "timestamp": 613.27,
       "content": "how to turn out and if you want to think about of course in many of the obvious parameters air pollution water pollution have come down dramatically with benefits with higher incomes we live longer we have better education is the most of the things in the world are actually going the right direction especially if you live in the rich part of the world",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3427487b-3d7e-4f18-ab68-5448a6cea849"
     },
-    "632.72": {
+    {
       "requestid": "1b2ec913-5943-4467-84ea-18560f94f61b",
       "confidence": "0.7498918",
       "timestamp": 632.72,
       "content": "so we realize oh wait there is actually improvement",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c26006f6-603c-477d-a744-ab468fefd350"
     },
-    "636.19": {
+    {
       "requestid": "e9dd4c79-03e4-477c-9df0-3b6b3420d8e8",
       "confidence": "0.8161398",
       "timestamp": 636.19,
       "content": "this does not mean that there are no problems are still lots of problems in the world but it certainly means instead of saying the world is coming to an end we can start",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "09397cae-e632-4464-90f2-28c86164428c"
     },
-    "645.66": {
+    {
       "requestid": "0a6842f5-be3f-44f2-ab05-fa99f7af7c90",
       "confidence": "0.6839414",
       "timestamp": 645.66,
       "content": "having a sensible conversation of pride so which of them any remaining problems should we be most focused on",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "db3362e7-791c-47fb-86f5-ef093152ca15"
     },
-    "652.78": {
+    {
       "requestid": "87c022a9-a665-425e-bbdc-29ea054ce510",
       "confidence": "0.7416062",
       "timestamp": 652.78,
       "content": "there's no doubt global warming is real and it is a problem but if you implement the kyoto protocol which batman was sort of the gold standard of what we're trying to do with climate we could see would have a huge cost of the economic customers about $180 Billion a year",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "d89c79e9-9f65-48d4-803f-24b39d28f10e"
     },
-    "668.33": {
+    {
       "requestid": "9d588a77-53f1-4d61-ae4c-b7a1eb2e91c5",
       "confidence": "0.7445009",
       "timestamp": 668.33,
       "content": "and it would have really small benefit we would postpone global warming summer between 2 and 5 years by the end of the century so I was merely comparing the fact",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c55a432e-f46f-4f25-a86d-9e690ae50710"
     },
-    "678.25": {
+    {
       "requestid": "cfadf555-d119-444b-8cce-3d297e0c3652",
       "confidence": "0.7509537",
       "timestamp": 678.25,
       "content": "bet it was an interesting fact you can actually give clean drinking water and sanitation every single person on the planet $480 Million wants",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "d0d50211-c904-48d3-a947-c30c1a4a1a84"
     },
-    "689.09": {
+    {
       "requestid": "bfdc9c09-6c78-4805-8ebf-10080482d500",
       "confidence": "0.7344666",
       "timestamp": 689.09,
       "content": "is nick fury's to say we could either spend $180 Million every year and do family little about global warming want to spend it wants and do an amazing amanda good for more than a billion people",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "801240da-61e9-4dcb-8310-8d421521941c"
     },
-    "701.55": {
+    {
       "requestid": "cc2a7869-3f4d-4bcd-960b-77bd34dc2a3b",
       "confidence": "0.7486406",
       "timestamp": 701.55,
       "content": "that was the start of my point the same what we should compare different parties and of course I thought somebody else must have made this part eyes ation list somebody else must of looked at that and nobody had them so I thought well somebody should maybe it should be out in",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "50b6d635-4abf-485c-8bee-bb504f5d7cc2"
     },
-    "717.46": {
+    {
       "requestid": "d25df12f-cb05-4a12-9c05-b918fb896aa0",
       "confidence": "0.7573879",
       "timestamp": 717.46,
       "content": "you identify yourself at the top as a public intellectuals or a professor at a business school correct yes with the copen hagen consensus project what's in it for you why why you doing this",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "6c587edf-cfa0-4c06-b65f-dedebb1b3120"
     },
-    "731.76": {
+    {
       "requestid": "ac0977df-5a46-4f19-ab80-9b8f93dbd236",
       "confidence": "0.6795558",
       "timestamp": 731.76,
       "content": "what are used to do bing theory rn computer simulations and I was writing papers that some people if I was lucky 100 people with green eyes and in my crib",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "f9068504-c5fa-45f3-b261-680e374a4c7f"
     },
-    "745.45": {
+    {
       "requestid": "8b70f532-61ff-4581-a424-56f5b31b20ba",
       "confidence": "0.738102",
       "timestamp": 745.45,
       "content": "I actually really really like that I'm so nerdy guy I'm the kinda guy who can download excel sheets it saturday night and actually think it's really funny sorry I disturbed if you have sense of what drives me and so I was totally content with living that life",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "819a16ac-d955-4c19-8701-83c3515e83a4"
     },
-    "761.08": {
+    {
       "requestid": "62ffeb92-6330-442d-b3b0-45da4a196d7f",
       "confidence": "0.7505248",
       "timestamp": 761.08,
       "content": "one of the things I also tried to do is when you do stuff in academia you should also help bring that are coming out sucks when I'm done my phd somebody from danish radio actually called like drive time radio one of the most listen programs",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "d2607dfc-7f73-456c-8812-7af5fce2c852"
     },
-    "776.48": {
+    {
       "requestid": "6c931806-c428-4751-bcf2-a095bc77abb8",
       "confidence": "0.7562172",
       "timestamp": 776.48,
       "content": "and they said would you care to talk in our program for 3 minutes about your phd I wasn't smart enough to the time but no somebody said I should've said yeah that's like one minute per year teacher conference is my name so I tried to convey what was it that I done because I think it's important we get back if we have all this knowledge and information",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "55488663-fc9d-4dec-85e0-d22f9cb15b68"
     },
-    "794.3": {
+    {
       "requestid": "0f21ee15-6f2a-4938-a7a9-08c9da703c02",
       "confidence": "0.7163611",
       "timestamp": 794.3,
       "content": "that should go to the side because after hope you guys are paying for us reading good books and some some weight what I'm trying to do with the copenhagen consensus in the arguments that will engage with right here now",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9672481d-5c78-4c8e-9bdb-787b97af56c9"
     },
-    "806.63": {
+    {
       "requestid": "a0267c34-68bc-4bf9-b05b-1f12b7aacb2f",
       "confidence": "0.8194002",
       "timestamp": 806.63,
       "content": "is to try and give back that sort of argument so that we can make better decisions and hopefully at the end of day will end up making at least slightly better decisions and so the world will end up being a much better place",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "e591ee9a-cb46-48cc-8356-a336715b692b"
     },
-    "818.97": {
+    {
       "requestid": "331b3dbf-974f-4c63-bf2c-7b9942196d2e",
       "confidence": "0.732644",
       "timestamp": 818.97,
       "content": "ok let's talk about then your current project that start with development aid generally ordinul manegold to know how much is spent globally in a year if you can tell me I'm dominating",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "99e03c1e-8926-492b-8d92-303f8c236845"
     },
-    "831.1": {
+    {
       "requestid": "bd1cbae3-b394-4edf-a12a-6c0cb2991f70",
       "confidence": "0.7259831",
       "timestamp": 831.1,
       "content": "last year we spent $134 Billion up overseas development aid and all kinds of 4",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1fee0284-6a6f-4503-9078-c3fea4a0d647"
     },
-    "837.45": {
+    {
       "requestid": "885bf941-03b1-4791-a22b-ae38258defdd",
       "confidence": "0.8693007",
       "timestamp": 837.45,
       "content": "which in some ways it's a monstrous amount in some ways is really not",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1d0cddcc-4b63-47b3-9535-259a702e5d88"
     },
-    "840.91": {
+    {
       "requestid": "1a9c0916-3244-4002-af6d-877e497cc1c3",
       "confidence": "0.6842271",
       "timestamp": 840.91,
       "content": "so much yeah I mean we have to remember that only blobel gdp is in the order $80 trillion so we're talking about less than half a percent",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "d708baee-7aaa-4657-a4e3-a883d35546d7"
     },
-    "849.34": {
+    {
       "requestid": "0d98fc64-6989-4aec-9c0a-4a33e4411016",
       "confidence": "0.7773754",
       "timestamp": 849.34,
       "content": "but remember most of the money that we spent we spent around some so in the us you spend most of your money on the us but to the extent that we care but other people around the planet I think its great I would love to spend more but we certainly want to spend whatever we end up spending in the rest the world in the best possible",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "68b704d5-8433-4e88-b7eb-3bbd68415b19"
     },
-    "868.13": {
+    {
       "requestid": "bb8180bf-0ad5-4195-8a8d-b555fb11133d",
       "confidence": "0.6957717",
       "timestamp": 868.13,
       "content": "why frank give me a sense of how that money breakdown especially the un what do you and share of that the dominator",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "60bc0181-c725-44cb-9a1f-7716360eb6bd"
     },
-    "875.62": {
+    {
       "requestid": "933d3868-eb83-4537-9347-98385269236e",
       "confidence": "0.7709826",
       "timestamp": 875.62,
       "content": "what do you want it actually not all that much much of this is ida given through direct development aid like in usa ibm all the equivalent in their national countries",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3d5649d6-b11d-446d-a0a2-e3a7df1b1e33"
     },
-    "887.12": {
+    {
       "requestid": "d90345b4-45be-4fc3-b66c-6297dcbe5bdd",
       "confidence": "0.7222509",
       "timestamp": 887.12,
       "content": "then there some dates given to international organisations would you could claim is partly b un through the world bank unicef the others and then there's probably in the order of $20 Billion it goes into the un bucket",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "a56d2e27-57f0-48e7-a0a7-6a1f47121ef5"
     },
-    "901.51": {
+    {
       "requestid": "5f9a33e0-c14c-40d1-b1c3-f66fc25e2822",
       "confidence": "0.6273786",
       "timestamp": 901.51,
       "content": "self note that said the un is perhaps of outsize influence if for no other reason than the publicity generate when it decides what's gold worth going after much not yes",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "dcd2f16c-01cd-4b73-bcaa-58b62dc4e99a"
     },
-    "911.26": {
+    {
       "requestid": "1adeff87-9ef1-430e-8dd9-fdbdabb074f4",
       "confidence": "0.7556639",
       "timestamp": 911.26,
       "content": "yes is there successful remember the un constantly make all these perks omation I'm pretty sure you didn't know",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "fa66e627-be2b-49ac-894d-4ef9dc59f415"
     },
-    "917.99": {
+    {
       "requestid": "f284b78b-a295-40d8-9ab5-dc67b150701e",
       "confidence": "0.6889667",
       "timestamp": 917.99,
       "content": "when you were living through the international year of crystallography did not much do you when is the signed this year to beat and it's also the decade for family farm and they have a lot of things with paper claims they don't actually have a lot of influence the date one set of goals that are an outside influence",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "408e71d7-bd3f-44aa-be94-e71254400438"
     },
-    "935.64": {
+    {
       "requestid": "af57b790-372b-40e3-a611-6760542b17ad",
       "confidence": "0.7730238",
       "timestamp": 935.64,
       "content": "for the you I'm in there like probably be a big success and that's the ones that are called the millennium development goals",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "5c8d0102-1252-4a1d-8420-d68df95f186e"
     },
-    "942.19": {
+    {
       "requestid": "ad2847e5-3ce3-4505-9f38-3fc79f403665",
       "confidence": "0.8607231",
       "timestamp": 942.19,
       "content": "which basically set out a number of very specific targets from 2000 to 2015 with very specific goals was very brief overview of those",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "52be2a68-7328-4896-b5b2-a63dcc393036"
     },
-    "952.84": {
+    {
       "requestid": "348e0ce8-f31e-48a8-8869-cd64c85395b7",
       "confidence": "0.7785318",
       "timestamp": 952.84,
       "content": "what day ended up being about 18 targets and really we only remember about 9 of them so they were half the proportion of people living in poverty have the portion of people starving get all kids in school reduce child mortality by 2 thirds maternal mortality by 3 quarters",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "cbcb1d8a-0057-468b-8220-5aa493cdd10c"
     },
-    "970.71": {
+    {
       "requestid": "41ddd7ee-67fe-477a-9ed8-11066472e411",
       "confidence": "0.792304",
       "timestamp": 970.71,
       "content": "and get clean drinking water and sanitation tavern in those goals worked out how",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "35db9d8f-8c39-4e6e-9163-bd67197ba18a"
     },
-    "976.31": {
+    {
       "requestid": "ce37d764-f30d-40b3-88df-efa3271922d3",
       "confidence": "0.7642448",
       "timestamp": 976.31,
       "content": "bing have mostly worked out really well we spent a lot of money um there's been a lot of focus and we've reached most of them reasonably well now there's somethings predictably go getting all kids in school well that was never gonna happen because you can't get the last",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3263c972-f781-46cb-a693-ee8cf9ec5544"
     },
-    "992.71": {
+    {
       "requestid": "78161bfb-989b-4457-8b1c-5fe4b66cc448",
       "confidence": "0.779809",
       "timestamp": 992.71,
       "content": "kid into school but we gone for about 8 out of 10 kids going to school at about 9 a little more than 9 kids out of 10",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "02ef1a12-4562-4472-8daf-462c4bbf633b"
     },
-    "1000.42": {
+    {
       "requestid": "59d306d3-0f5c-4e7c-8a33-4420d11e04e4",
       "confidence": "0.7511573",
       "timestamp": 1000.42,
       "content": "yeah likewise we've seen a dramatic drop in poverty but again remember that also partly because of china corsa's very little if anything to do with you and proclamations",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "66ed16f4-4678-4389-84e8-d2a05f98fe0b"
     },
-    "1011.27": {
+    {
       "requestid": "03f9cdc2-03c9-4159-b98e-59f0aefa229e",
       "confidence": "0.7020591",
       "timestamp": 1011.27,
       "content": "but we have seen some pricing decline in childhood mortality in 1990 win the target actually take my starting date we estimate more than 12000000 kids die before their fifth birthday",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "5153f62e-cb88-475b-bbcf-6b492051ee3d"
     },
-    "1024.79": {
+    {
       "requestid": "ad83b4fb-eeb0-47fc-bff2-6bb0ccfe047f",
       "confidence": "0.7684274",
       "timestamp": 1024.79,
       "content": "today that number is below 7 is prohi 6.6 so we almost have",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "bfe6e7b7-61c6-4d73-a77b-9046fb6889c7"
     },
-    "1031.56": {
+    {
       "requestid": "cd68eacf-a36a-4075-80d2-a4baaf036af4",
       "confidence": "0.6844973",
       "timestamp": 1031.56,
       "content": "the proportion of kids dying and remember we actually have slightly higher court so it's a phenomenal achievement but what is problematicus they actually promised 2 thirds reduction so what most people of her too so you can manage you did make it because we only have it",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "4a37ab7a-de6d-4157-a02a-e67b23a7203f"
     },
-    "1048.43": {
+    {
       "requestid": "c701198a-0de6-4bc7-9798-45cc57da1073",
       "confidence": "0.6629043",
       "timestamp": 1048.43,
       "content": "answer that's the risk of setting too ambitious goals the most people actually hurt how do you want fail yes but we fail on an incredibly ambitious target in we've actually made an amazing",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9a6e29f8-c1d9-4a22-a2c0-fce8a689be8f"
     },
-    "1059.67": {
+    {
       "requestid": "074f941e-2b0e-48a5-a553-7bca67009bf9",
       "confidence": "0.7549563",
       "timestamp": 1059.67,
       "content": "majimak I need to learn that trick of corporate finance officers history forecast whenever they need to write instead of instead of saying it was by 2 thirds it was by one third and you get half and use music",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e68f220b-233b-4787-bc76-1d0b34aa74ea"
     },
-    "1071.84": {
+    {
       "requestid": "22829edd-d8f9-433c-9964-cc1d4ce77541",
       "confidence": "0.6330041",
       "timestamp": 1071.84,
       "content": "oh no I'm heading home now",
-      "speaker": "S175"
+      "speaker": "S175",
+      "uuid": "0069d759-ff4d-46c0-b5b7-6167073ce784"
     },
-    "1080.34": {
+    {
       "requestid": "224c19b4-5462-4311-a2c2-9d7cc0ed03f2",
       "confidence": "0.6153201",
       "timestamp": 1080.34,
       "content": "coming up on fitness radio what is bjorn lomborg cgroup really hoping to achieve",
-      "speaker": "S176"
+      "speaker": "S176",
+      "uuid": "23479031-b6b9-4995-9b04-e12b0f059b8d"
     },
-    "1086.68": {
+    {
       "requestid": "eb0c1661-5a01-4cee-945d-1b6906d8089a",
       "confidence": "0.6938671",
       "timestamp": 1086.68,
       "content": "we like to think about cells is constructing a menu for society imagine if you going to really expensive new york restaurant in you get this wonderful menu prices and sizes on it",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "f4941ca7-0de9-4f59-a788-9e21e6853b12"
     },
-    "1099.12": {
+    {
       "requestid": "f7289424-9820-471d-96e9-a9c63b5fd89e",
       "confidence": "0.5195096",
       "timestamp": 1099.12,
       "content": "you are new to freakonomics radio newish <profanity>whore</profanity> <profanity>bitch</profanity> ily lazy may wanna subscribe to it on I tunes are will you get your packet is free easy and",
-      "speaker": "S176"
+      "speaker": "S176",
+      "uuid": "a3c4c15c-2b62-4f6e-b53d-24989c8ac45a"
     },
-    "1110.79": {
+    {
       "requestid": "d7e51dd7-5e65-4f00-83b3-a5dbf47f638a",
       "confidence": "0.6653238",
       "timestamp": 1110.79,
       "content": "like the finest restaurants on canal",
-      "speaker": "S176"
+      "speaker": "S176",
+      "uuid": "42db63ce-ef81-4b4a-9606-86f1d074ee3e"
     },
-    "1115.41": {
+    {
       "requestid": "98cd0af6-7545-4ffb-bb43-d81f4fd42ecc",
       "timestamp": 1115.41,
-      "content": ""
+      "content": "",
+      "uuid": "1b316960-cd6c-4100-9a0a-e94efd0b4c9f"
     },
-    "1123.23": {
+    {
       "requestid": "86f32f3b-e202-4f79-af1f-4f93c4280389",
       "timestamp": 1123.23,
-      "content": ""
+      "content": "",
+      "uuid": "87524574-537e-431c-acf1-c01d2aaf365b"
     },
-    "1125.04": {
+    {
       "requestid": "0a7c3772-96cc-4f5d-b52b-4572805a606c",
       "confidence": "0.9070889",
       "timestamp": 1125.04,
       "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "eb457e1a-c237-487b-92f9-99fcfc76c898"
     },
-    "1138.45": {
+    {
       "requestid": "67b698cb-c84a-40ad-a738-25947720b71e",
       "confidence": "0.888148",
       "timestamp": 1138.45,
       "content": "canadians can learn about their genetic information to publish study's have associated with conditions in traits like celiac disease cystic fibrosis and even respond to certain medications",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "eceea338-0d39-4df4-83ac-0a5b5bbe92a0"
     },
-    "1149.42": {
+    {
       "requestid": "14be30e9-f395-4fdb-9e66-4a0b41a04d67",
       "confidence": "0.8960727",
       "timestamp": 1149.42,
       "content": "more information is available at 23 the number in me dot CA",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "89dfde70-6cf3-430e-b6f3-fb8e798e5c34"
     },
-    "1155.06": {
+    {
       "requestid": "1116ac3e-9605-41a8-b9f5-4eafe173c407",
       "confidence": "0.8211607",
       "timestamp": 1155.06,
       "content": "freakonomics radio is supported by legal zoom if you have a family or any assets it's important to protect them by ensuring your last wishes are upheld find out more about last wills and living trust at legalzoom.com plus get legal guidance through their network of independent attorneys in legal zoom is not a law firm",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "716cf66b-8367-4899-a1e5-ddd959f3febc"
     },
-    "1173.97": {
+    {
       "requestid": "a6f48f0e-8b58-443d-b35d-21b2e3b3e862",
       "confidence": "0.7586918",
       "timestamp": 1173.97,
       "content": "for a special discount for freakonomics listeners take freak in the referral box at checkout",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "891e1d03-a1d1-47c6-ae4e-569daeb7432d"
     },
-    "1179.71": {
+    {
       "requestid": "a0b46682-af1a-40c7-9179-329c937c3b26",
       "confidence": "0.8358495",
       "timestamp": 1179.71,
       "content": "freakonomics radio is supported by square space supporting outliers in independent thinkers since 2004 with elegant versible templates in a powerful interface allows you to customize your layout it's never been easier to create beautiful space for your ideas online squarespace also offer 24/7 customer support at no extra cost",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "764c746f-89d2-4dec-b919-590a671477b1"
     },
-    "1199.61": {
+    {
       "requestid": "cab18e00-5ea1-43e9-90a2-e9d6cedd2d55",
       "confidence": "0.8777596",
       "timestamp": 1199.61,
       "content": "for free trial and 10 percent off visit square space.com slash freak",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "b6aab9ca-5a15-4a6f-82dd-2556e8bc825f"
     },
-    "1206.27": {
+    {
       "requestid": "96d6d19c-372d-47c3-978a-1532dd88d174",
       "confidence": "0.7786102",
       "timestamp": 1206.27,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S195"
+      "speaker": "S195",
+      "uuid": "171cc1c8-7c0e-4f91-8abb-bd5b5b48f440"
     },
-    "1214.14": {
+    {
       "requestid": "c5ba74b7-527e-4052-9eac-9c98252c8080",
       "timestamp": 1214.14,
-      "content": ""
+      "content": "",
+      "uuid": "72c62287-c5d4-4dfc-8183-af984001473d"
     },
-    "1217.23": {
+    {
       "requestid": "80e0ac66-6f09-4fa2-83a9-645cb8180268",
       "timestamp": 1217.23,
-      "content": ""
+      "content": "",
+      "uuid": "09128b36-47ea-4417-9213-2e1f89586a21"
     },
-    "1219.93": {
+    {
       "requestid": "38d13a2f-5457-4ff2-adad-a4f2e59dabc5",
       "confidence": "0.7657833",
       "timestamp": 1219.93,
       "content": "today we're talking with bjorn lomborg",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "a11d05bf-c437-4cf3-a598-de69e6361716"
     },
-    "1221.96": {
+    {
       "requestid": "8f44bbfa-048b-4c43-b249-b8f8ed9d30f6",
       "confidence": "0.6962684",
       "timestamp": 1221.96,
       "content": "he trained at the political trying to snowy teaches at the copenhagen business school and you want a group called the copenhagen consensus internz try to measure",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "e436417a-a8c1-4c3f-a515-d81beee5d293"
     },
-    "1231.34": {
+    {
       "requestid": "38504bb9-c5d4-42ca-a09f-ae46d9f57837",
       "confidence": "0.8880618",
       "timestamp": 1231.34,
       "content": "the best return on investment board development dollars",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "b5a1b52a-a3e2-4687-8f94-c343da805650"
     },
-    "1235.47": {
+    {
       "requestid": "32729cfa-a6d2-4fc6-bcef-c7cd9dc6d067",
       "confidence": "0.8146756",
       "timestamp": 1235.47,
       "content": "were talking earlier about united nations millennium development goals that were set for completion in 2015",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "0551778a-2d90-467a-a0bf-d4cd2ee09d9b"
     },
-    "1243.09": {
+    {
       "requestid": "43bffe70-fee8-4259-b040-ac488c701f12",
       "confidence": "0.2167989",
       "timestamp": 1243.09,
       "content": "norton anyone tonight",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "46347f37-0574-41ea-9073-1e67e4cc8df0"
     },
-    "1245.2": {
+    {
       "requestid": "670d3c4c-d32d-4d41-a9b8-d45d111a6f8e",
       "confidence": "0.6601041",
       "timestamp": 1245.2,
       "content": "progress but is that made toward achieving certain millennium development goals the doors medication have been open for tens of millions of children who is amber new cases of hiv aids and malaria and tuberculosis are down",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "7bbd01c9-c99d-4528-93e5-3a20023e2320"
     },
-    "1261.93": {
+    {
       "requestid": "b3d2ca23-a254-4266-b212-0327ddf9afea",
       "confidence": "0.7216211",
       "timestamp": 1261.93,
       "content": "access to clean drinking water is a round the world hundreds of millions of people have been lifted from extreme pop",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "6bba8983-4346-4329-8f04-7f2fd4559c7b"
     },
-    "1271.18": {
+    {
       "requestid": "3f013d85-4012-4c2d-8e5f-b41b4670dcdd",
       "confidence": "0.6679565",
       "timestamp": 1271.18,
       "content": "that is all for the good of the testimony to export my work that's been done",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "1d094d49-f3f0-40c0-924a-25e64c541591"
     },
-    "1277.18": {
+    {
       "requestid": "ce1aebcd-82e8-4a0e-b2b5-1e0a65df9c90",
       "confidence": "0.5531567",
       "timestamp": 1277.18,
       "content": "both within countries and buy dinner national for me and then we must also face the fact that progress for daughter goals that were said it not come merely fastenal",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "546f5850-3565-4ba3-82a4-9524ca598c5a"
     },
-    "1290.1": {
+    {
       "requestid": "9b9de8dd-f02b-4eba-aa7e-48b520904d74",
       "timestamp": 1290.1,
-      "content": ""
+      "content": "",
+      "uuid": "451748fc-1919-4de2-900e-aaf482f17bf5"
     },
-    "1291.86": {
+    {
       "requestid": "6f92285e-a716-44fc-931b-1d14fa9a22e3",
       "confidence": "0.8236564",
       "timestamp": 1291.86,
       "content": "now that it's almost 2015 the un is choosing a new set of development goals to be met by the year 2030",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "95b99583-c120-4578-a25b-f7615369be90"
     },
-    "1300.98": {
+    {
       "requestid": "ae56d795-5351-4ce0-93b2-1a0216c91e1e",
       "confidence": "0.6517218",
       "timestamp": 1300.98,
       "content": "lomborg scroope applauds the milenio goals but it's trying to encourage you and think about goal setting up differently this time around",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "39944fba-c29d-47c1-8532-474fcb5bf39d"
     },
-    "1310.58": {
+    {
       "requestid": "d2c24f0c-70a6-40b3-af0f-4fd769643bb2",
       "confidence": "0.5745448",
       "timestamp": 1310.58,
       "content": "do it actually no",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "5e8387a0-cab9-471a-8088-48b6c75dbf47"
     },
-    "1312.35": {
+    {
       "requestid": "17272623-ffc7-4cd8-b494-961919ed7104",
       "confidence": "0.7316281",
       "timestamp": 1312.35,
       "content": "good cost benefit analysis who is just a number of target all sounds really good and internally also think they really are very good but now the un is going to be do the targets from 2015 in 15 years on which and",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "df77670e-cbc6-4a62-80e6-07d4c9255fe6"
     },
-    "1326.96": {
+    {
       "requestid": "058a3773-e7f2-45a3-b4a2-7d0e98ce68a2",
       "confidence": "0.7428001",
       "timestamp": 1326.96,
       "content": "this time instead of having a very closed arcminute was basically if you guys around kofi annan who set up the targets back in 2000 and then everybody you don't get them",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "6ae90574-e4a9-4f9b-a15a-a5332f6d82ef"
     },
-    "1337.61": {
+    {
       "requestid": "0a5e2837-aca5-440f-85ba-4941353cfec6",
       "confidence": "0.7964632",
       "timestamp": 1337.61,
       "content": "this time dave said we want to hear everybody's input of course it's very laudable but not surprisingly it's awesome and the we probably have about 1400 potential target on the table",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "4c8fe573-338c-41d8-95c3-25c244537d59"
     },
-    "1349.09": {
+    {
       "requestid": "071d6e92-9136-4f55-95d2-44351a18fc20",
       "confidence": "0.7382543",
       "timestamp": 1349.09,
       "content": "until we need to make sure we don't just end up with a whole long list of christmas trees is a coleman do you want gargon yo you just have everything you wish for all good things because there not likely to be an suv",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "90805c46-e2d1-4342-9610-b2db25067e9b"
     },
-    "1362.23": {
+    {
       "requestid": "606c19db-950f-4b9c-b0d1-b7791ac8411b",
       "confidence": "0.7332804",
       "timestamp": 1362.23,
       "content": "ok so describe the committee process that reaging prices within the unm particuli be open working group with you now form to sort of relationship but I'm not sure exactly how to care track",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "31092e1b-3216-4bcd-8e47-a407a66572e1"
     },
-    "1373.3": {
+    {
       "requestid": "8e3a6e00-5f11-4a17-bae5-181b0f8aa9da",
       "confidence": "0.7282715",
       "timestamp": 1373.3,
       "content": "yeah what do you want his open several different fronts evaz the public to come in with their apradhi so much more than 5,000,000 people not to what do you think should be some of the top priorities but of course that's more around problems than around actual solutions",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "a670513a-90ca-4b66-a6b8-148145f97a5f"
     },
-    "1388.27": {
+    {
       "requestid": "da0e4e1f-3ac1-40f3-9184-9edd9c91dd17",
       "confidence": "0.8253583",
       "timestamp": 1388.27,
       "content": "they had a high level panel including the prime minister from britain and the president from sierra leone in indonesia and a number of other high dignitaries who came out with their proposal",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "b7ad1cd6-04c1-4ff1-9b67-4be91ad1a050"
     },
-    "1399.07": {
+    {
       "requestid": "e683e24e-7e74-4fa6-b188-0c9bd4f01de7",
       "confidence": "0.7721542",
       "timestamp": 1399.07,
       "content": "and then they had be open working group which is a collection of 70 countries remember the one has 193 countries to not everyone has been heard a thing going on for about 16 month meeting very regularly and trying to make their set of goals",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "7857eb2c-bb07-4189-8957-630a375e6ef0"
     },
-    "1414.29": {
+    {
       "requestid": "0ea0ebb6-1a0c-423c-b6ea-113359f8d99f",
       "confidence": "0.6981573",
       "timestamp": 1414.29,
       "content": "the problem is the first set of millennium development goals since we had 18 targets",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "d935e0b0-e262-48b3-9254-e0384f244621"
     },
-    "1420.49": {
+    {
       "requestid": "9d8a235f-7d12-4606-ae73-c523973541d2",
       "confidence": "0.6786878",
       "timestamp": 1420.49,
       "content": "the high level panel had 58 targets but the openwork encryptor final document came out",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3f206792-8840-4e64-a314-7f93ceab8fea"
     },
-    "1427.94": {
+    {
       "requestid": "3b2a4ee9-f4c7-49e2-8bef-aaf768d43322",
       "confidence": "0.741504",
       "timestamp": 1427.94,
       "content": "I had 169 targets and save my problem here is if you say you have 169 parties you're in reality have none that's why we need to find away to make fewer smarter tark",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "5e2a1c47-faae-4dee-a291-87d442b74770"
     },
-    "1441.21": {
+    {
       "requestid": "16cd163c-712a-4d67-979f-808e45146df3",
       "confidence": "0.8182273",
       "timestamp": 1441.21,
       "content": "ok so the idea your idea then is to create a cost benefit analysis to help",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f8cae022-79b3-4667-a920-4abd8cd046d5"
     },
-    "1446.17": {
+    {
       "requestid": "6920ef33-b196-4841-a573-4fd748a484a7",
       "confidence": "0.7415272",
       "timestamp": 1446.17,
       "content": "an organization like the un in the open working group decide which global goals to except what is set based on cost in reality of achievement in impact so do you feel that most of the decision makers in this realm in the un and real agencies are open to pure cost benefit analysis are they",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "b50516b0-07c2-44f9-b51c-aca15ebe4ff4"
     },
-    "1465.03": {
+    {
       "requestid": "8f4cacfb-3a64-4001-82ba-b8f267ea98c1",
       "confidence": "0.8349152",
       "timestamp": 1465.03,
       "content": "weather out of habit or incentive went to a more traditional political view",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "50fa5c06-a4b6-47e5-ad2f-3c09e9aac039"
     },
-    "1469.64": {
+    {
       "requestid": "68e374d4-2287-4340-ba63-f3e3d528921c",
       "confidence": "0.6836523",
       "timestamp": 1469.64,
       "content": "I think when you talk to them and I talk to quite a number of the UN ambassador send s bank first",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "8fb79980-8562-4f74-b506-d9e812b5b76e"
     },
-    "1475.05": {
+    {
       "requestid": "1cd8a633-4feb-4e0a-bc77-a948ac39ab1b",
       "confidence": "0.7643122",
       "timestamp": 1475.05,
       "content": "do you love the idea I mean when we first went around to them we told them we're gonna do this long process where we had all these pieru papers and they would be coming out this fall in there like this is exciting is any way you could have this done by next week with her son of original it up in prison that was actually why we did",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "584bd92a-666c-4e50-b5f0-c7a3e73f1d92"
     },
-    "1492.14": {
+    {
       "requestid": "a0d28ce9-1e29-44ba-aec9-4b1244ebf0af",
       "confidence": "0.7681247",
       "timestamp": 1492.14,
       "content": "a very rough and ready version where we simply went through their list and marked it up with green yellow and red colors to indicate whether it's a phenomenal are good fair or poor target",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "137db210-330c-4570-8c27-06f0ed5cc570"
     },
-    "1504.97": {
+    {
       "requestid": "2395108a-9b98-4cf6-83ff-8c9591566206",
       "confidence": "0.7684166",
       "timestamp": 1504.97,
       "content": "and I think that was very influential in getting them to think about oh wait it's not just about what sounds good in water country is the site appraisals about cost and benefits",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "30dcf2e8-b2a6-472b-b2dc-7a27c6dd4518"
     },
-    "1514.93": {
+    {
       "requestid": "31b88225-fb95-463e-8976-100f95ff29ad",
       "confidence": "0.7394666",
       "timestamp": 1514.93,
       "content": "but of course let's be realistic it's not like there's only going to go out and say hello hope you're wrong about that won't will go for something else",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c36a0fad-3808-4f14-95d8-2a1b955f473a"
     },
-    "1522.68": {
+    {
       "requestid": "585b97f6-52fd-45ed-bc8c-4c4d9d097381",
       "confidence": "0.7240729",
       "timestamp": 1522.68,
       "content": "what the world will spend 2 and a half trillion dollars and development aid over the next 15 years so we leverage with huge amount of money so we can just make essentially the un <profanity>bitch</profanity> one by target and put one more good target in there instead",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "2eca8c8e-0d87-4d7e-b1f0-fceae8b26477"
     },
-    "1539.42": {
+    {
       "requestid": "0f50ccfe-b79d-462b-9136-16c0f270a2be",
       "confidence": "0.7457708",
       "timestamp": 1539.42,
       "content": "we could do hundreds of billions of dollars worth of goods and so if we're figuring when are we gonna change a little bit but because we're leveraging so much watch we end up doing alotta good",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "eeceb662-17a4-4f35-b83e-fafef501d90d"
     },
-    "1549.85": {
+    {
       "requestid": "f0eb03f1-1d13-4848-a191-4a6c480fd924",
       "confidence": "0.8294111",
       "timestamp": 1549.85,
       "content": "when I read the 17 major categories of do you wanna put 4 so far it strikes me that development goals what are called beltman go drop in very much like macro economic goals of some of them at least one here is promote sustainable consumption and production patterns that sounds like economics in",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "2a4d3bbc-f6ad-4c0f-a095-0e1fbbc2fbb6"
     },
-    "1566.26": {
+    {
       "requestid": "a8eccdf7-5854-4d18-8766-3ca49a2a4b2f",
       "confidence": "0.7476041",
       "timestamp": 1566.26,
       "content": "copromote strong inclusive and sustainable economic growth in decent work for also",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "36ebcacc-084a-44ae-b085-862c6be9a455"
     },
-    "1572.07": {
+    {
       "requestid": "67d3525d-3e66-4706-baea-1ecc9ccfaa9a",
       "confidence": "0.7290837",
       "timestamp": 1572.07,
       "content": "am I correct to assume that these committees are working with in the winner full of economists or they not my",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "621812fb-1a09-41ec-acb4-a8416052763c"
     },
-    "1579.75": {
+    {
       "requestid": "86785cea-e80e-48ab-b4b4-5aa815b466c2",
       "confidence": "0.7510151",
       "timestamp": 1579.75,
       "content": "understanding is that they are full of bureaucrats and they come from a lot of different backgrounds but they'll probably a lot of them be political scientist like myself but they'll be much more tuntu what is it did we'd typically phone",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "dd5e729e-69d7-40bd-9bf9-9190ccefe942"
     },
-    "1592.49": {
+    {
       "requestid": "40f3b741-e4f8-4372-91c6-4e5c2f669fde",
       "confidence": "0.735982",
       "timestamp": 1592.49,
       "content": "crisan so we had a good experience for instance when I get a presentation of the un on a project and people actually congratulated me afterwards for having done the best seminar the date ever experienced and I was really flattered until they told me because nobody fell asleep I bet I bet we were talking to robbie us you in a bastard",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "495047b4-304d-4159-bf32-175968c056a2"
     },
-    "1611.39": {
+    {
       "requestid": "5a604c52-1982-4a5e-b294-f06d85f6bf4e",
       "confidence": "0.7747781",
       "timestamp": 1611.39,
       "content": "she was very annoyed that we pointed out that one of her favorite targets was not a very good target in so she sucks I really don't like you pointing out that this isn't bad target but I really need to hear it",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "4b5cf2e4-97d0-4ca1-ac4f-9465f1264bd8"
     },
-    "1622.78": {
+    {
       "requestid": "6a4a8b88-8fb0-4ad9-995a-6b98d0b2e6b1",
       "confidence": "0.736622",
       "timestamp": 1622.78,
       "content": "and I think that's basically how they feel about it yes they understand the necessity but it's politically obviously not always convenient but was this target that wasn't 7 year do it was the idea that we should have gender disaggregated data",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9f4ffe51-de94-4ecf-9bf0-632f2fd57fe4"
     },
-    "1638.15": {
+    {
       "requestid": "e35752bf-b2f6-4e4a-b884-1ac2b65df2c7",
       "confidence": "0.7881327",
       "timestamp": 1638.15,
       "content": "so the idea is to say if we get more data to support the fact the women get less education that they get less well paid and so on will actually help stimulate not the point of getting more gender equality it's a very nice idea",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "efc46190-507f-465c-9f4b-3da74fd9e4ed"
     },
-    "1653.13": {
+    {
       "requestid": "7327be59-0fed-4c81-a795-a18f4c73a402",
       "confidence": "0.6372674",
       "timestamp": 1653.13,
       "content": "the problemes our economies tell is we actually have enough data to achieve this",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "2efb3c6b-02ff-45b4-9293-ff01a4f88dfe"
     },
-    "1659.9": {
+    {
       "requestid": "19adb04a-56e4-49d3-a8f1-2733964f8bb1",
       "confidence": "0.8119404",
       "timestamp": 1659.9,
       "content": "you know you speak as though they were dynamic between your group in their group is good and is it open working group after that called for coming from the public in clean yourself but I have to say I would think they hate you I would think that they sit around",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0cacf0a5-0e2f-4d2f-9a93-be909182e39c"
     },
-    "1673.37": {
+    {
       "requestid": "8f44fcfd-a4f9-41ec-8eb4-b7d5890a118c",
       "confidence": "0.8547927",
       "timestamp": 1673.37,
       "content": "bing very high minded and kind of holistic and then you come in and set you up it's nice but let's talk about you know the real world and persuade me the best not the dynamic",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "513dca53-6bd1-4ba1-9210-2897972d417b"
     },
-    "1684.47": {
+    {
       "requestid": "5280ca5a-b75b-4e10-9a1d-6c66686552ba",
       "confidence": "0.6320546",
       "timestamp": 1684.47,
       "content": "I think you're catching part of it yeah clearly dear life would be easier if there is no one else coming from the outside and it's really beat if there is nobody marking up someday text with red",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "62a818cd-6b6b-4741-acf1-25b0b1c2f49a"
     },
-    "1698.13": {
+    {
       "requestid": "2d9e82d3-876c-45e9-a8c1-2e4a6a9070e1",
       "confidence": "0.8133988",
       "timestamp": 1698.13,
       "content": "on the other hand they also want to help the world be want to leave a lasting legacy in reno just saying something that sounds beautiful and it looks great in the nicely written document is not the way to save the world so I think they appreciate",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "4fc09652-74d2-46a4-bf16-6a8eb7c1c656"
     },
-    "1715.69": {
+    {
       "requestid": "611fee06-2c1c-4943-a5a3-cc5130db243a",
       "confidence": "0.5951625",
       "timestamp": 1715.69,
       "content": "that when we say there red",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "72cc7a14-7c5a-48ec-8db8-d31c51047a62"
     },
-    "1718.15": {
+    {
       "requestid": "dafb88af-a83f-4bf5-965b-134e42ea46f5",
       "confidence": "0.7589597",
       "timestamp": 1718.15,
       "content": "for all the other target all the ones that there a negotiation partners",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "81496701-d151-49ad-879e-04dbdd35465a"
     },
-    "1722.47": {
+    {
       "requestid": "8f1f374f-1963-4fb6-9096-bf215e152692",
       "confidence": "0.646573",
       "timestamp": 1722.47,
       "content": "propose there like hey that's right that's what we said but of course then when we say one of their own targets is also pretty poor yes then I get a little annoyed and at the end of day",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "6193dd69-72ea-42ba-bfd6-f33fbb0f7224"
     },
-    "1732.28": {
+    {
       "requestid": "a2cc2dec-07bf-4332-9c6e-0e70926f04f7",
       "confidence": "0.7424229",
       "timestamp": 1732.28,
       "content": "we recognize this is inevitably going to be a discussion that has lots and lots of other parameters but if we can push it a little bit to watch more efficiency because we're leveraging to have to leave don't we can do all good",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "a8e35ee6-01be-4804-9b0c-4058f810be45"
     },
-    "1745.55": {
+    {
       "requestid": "ce5cb873-8b28-43f1-a32e-159a9327cd8f",
       "confidence": "0.8199778",
       "timestamp": 1745.55,
       "content": "ok so your not get into the findings of your group the open working group of the un has according to your report",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "5ca60473-0e7f-4eaf-8cc3-2e4f7d913a11"
     },
-    "1752.45": {
+    {
       "requestid": "7d53816d-5337-4bac-9e98-96daca17f3fe",
       "confidence": "0.82492",
       "timestamp": 1752.45,
       "content": "169 total targets within more than a dozen major categories it rain in poverty in salmon to climate change and sustainable industrialization you ranked more than 2 dozen of these targets phenomenal",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "8ec773f6-77a1-4e8e-8ce2-c896e081ce85"
     },
-    "1769.05": {
+    {
       "requestid": "2819ea82-01cb-4d18-a1c9-8de75749d676",
       "confidence": "0.748693",
       "timestamp": 1769.05,
       "content": "in a slightly smaller number than that poor everything else the bill to talk generators from about what",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "abc5eac7-6abe-48ab-801a-4e45e9b03934"
     },
-    "1775.83": {
+    {
       "requestid": "2f8fe6ee-10c7-496a-8bfb-7fc42698b3c0",
       "confidence": "0.8280532",
       "timestamp": 1775.83,
       "content": "it takes to turn a goal into a phenomenal ranking versus support ranking",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e1a376d4-5591-473f-9863-85a926ef8458"
     },
-    "1781.61": {
+    {
       "requestid": "735cbc46-84e9-4dd8-815a-c56ff3046b81",
       "confidence": "0.7990562",
       "timestamp": 1781.61,
       "content": "what is the number of different things it has to be very clear and how to be very one directional so you not trying to achieve things that are really at cross purposes but then mostly it needs to be something that we know how to do and we know how to do fairly cheaply and will do a lot of good",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "59689fa2-5f7a-48f5-b75c-48a79273a085"
     },
-    "1799.92": {
+    {
       "requestid": "c345b696-1117-4b32-adb8-62fe90ebdf94",
       "confidence": "0.766709",
       "timestamp": 1799.92,
       "content": "and unfortunately a lot of the targets but do you want to set up",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1c59fe27-ff38-4565-9748-9d971bc07290"
     },
-    "1804.17": {
+    {
       "requestid": "8b871a3f-996e-4940-ac9a-92125cbb84f3",
       "confidence": "0.8692008",
       "timestamp": 1804.17,
       "content": "turns out to be one of those things where you say 00 good things for all good people and we don't quite know how we'll work it out and if we try and do it",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "48750423-290a-402c-9aa9-b5dc2baa922f"
     },
-    "1812.67": {
+    {
       "requestid": "76f6075d-288b-4725-ae3a-44a21e5760c7",
       "confidence": "0.6498235",
       "timestamp": 1812.67,
       "content": "it'll probably be fairly costly and it will probably not do as much good so that's what defines the poor tarkatan of course we want to push more into phenomenal tarkan's",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "b7d1f225-6959-4ceb-b727-ec852e43f762"
     },
-    "1837.2": {
+    {
       "requestid": "aa815921-e699-42d3-b869-a0387d1226a0",
       "confidence": "0.7107557",
       "timestamp": 1837.2,
       "content": "let's get into the specific y news of a phenomenal versus the poor ranking with some food security ending malnutrition in all its forms including undernutrition micronutrient deficiencies and join you for the ending is a bad goal prasko that perhaps in pocket but you did great that's phenomenal versus",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "6b101aa8-e69a-44fd-846a-1a70e95e18f6"
     },
-    "1856.76": {
+    {
       "requestid": "cd51a437-321f-4316-99ba-bd7203986a10",
       "confidence": "0.7311602",
       "timestamp": 1856.76,
       "content": "poor rankings for developing food systems are more productive sustainable brazilian fish and so on top of the difference between as to why when is great my when is really not great",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "b5db7a46-0c97-4c75-9e9a-19ac11b84546"
     },
-    "1867.09": {
+    {
       "requestid": "b26e335b-faf5-4764-b0e6-241317e9744d",
       "confidence": "0.7413462",
       "timestamp": 1867.09,
       "content": "the first one it again if we disregard the end because we will not be able to attend this but what we should be saying is it down to 203 percent malnourishment which is both reachable and actually would be phenomenal achievement where are we now we are at tom of 13% I wanna say",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9ac5fe79-28f4-44a9-a672-84387d433363"
     },
-    "1885.07": {
+    {
       "requestid": "a29457b8-3027-4405-9941-b153d9f7ee6f",
       "confidence": "0.860589",
       "timestamp": 1885.07,
       "content": "so yeah we could definitely do a lot better",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "ef85dd60-18eb-43e1-b437-63393ca22188"
     },
-    "1887.96": {
+    {
       "requestid": "e4c66fe8-809c-4df3-935d-a4ad328534fa",
       "confidence": "0.851095",
       "timestamp": 1887.96,
       "content": "and the reality is we know that that's very cheap is essentially making sure that you get especially kids",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "fa7850dd-bf8a-4e29-98e5-8e979bbff378"
     },
-    "1895.04": {
+    {
       "requestid": "5388d4d2-2c9b-4a75-837f-d90449d2239b",
       "confidence": "0.8187263",
       "timestamp": 1895.04,
       "content": "good food for the first couple years and we know how to do that bass by making sure they get micronutrients which is fairly cheap and we can distribute it in the health bastert typical cross much traffic on southeast asia",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "02398f0f-2a04-4b7e-8551-a95f2403a52b"
     },
-    "1908.01": {
+    {
       "requestid": "00fa6dfb-b198-46fe-b2d3-a6bacba58a63",
       "confidence": "0.7171071",
       "timestamp": 1908.01,
       "content": "and then we need to have emergency opportunities to get lots of calories to babies when they are severely under fed both of which are fairly low cost we estimate for trial it's about $96",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "55c0650f-6f5f-4f2e-a489-635e5d22cdfa"
     },
-    "1920.4": {
+    {
       "requestid": "ec0b4386-ad89-4503-bcb2-4d3af4d466ea",
       "confidence": "0.7769047",
       "timestamp": 1920.4,
       "content": "and the benefits of phenomenal we knew from studies around the world but if you can get better nutrition to kids the brain develop more they stay longer in school today learn more even is there in a crappy schools will learn a lot more and actually if you avoid being stunted which is one of the best ways to show that you been malnourished",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "f67bc54f-3ad0-45b1-8882-912443c5beb9"
     },
-    "1938.69": {
+    {
       "requestid": "b7256450-e090-40de-ae59-85ac2a9106b7",
       "confidence": "0.7533904",
       "timestamp": 1938.69,
       "content": "you make 3 times the income when you become an adult so basically you're much much more productive person inside so we estimate the furby dollar you spend on that very simple way of avoiding malnutrition you do about $59 worth of grey",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1ad9bac1-712b-4bd4-85e9-e4910ac33355"
     },
-    "1954.18": {
+    {
       "requestid": "a6c1990f-b881-45bb-8372-aeb2e8262b32",
       "confidence": "0.7580222",
       "timestamp": 1954.18,
       "content": "the other target you ask about",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "2b5b59ce-4ded-480b-adca-68b6a3173b0c"
     },
-    "1956.93": {
+    {
       "requestid": "63eda4f5-6f05-4e99-b648-9ec60c744f75",
       "confidence": "0.7967916",
       "timestamp": 1956.93,
       "content": "essentially tries to say we should do all good things are some of the things we don't quite know how you do it let me just take",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "74eecd7b-e57d-415a-957a-e43dbdb5e980"
     },
-    "1964.61": {
+    {
       "requestid": "91b4a626-fbcf-4a28-9095-ad4076f67b59",
       "confidence": "0.7350959",
       "timestamp": 1964.61,
       "content": "we should've obvious contradiction in the one hand you want to be more environmentally sustainable which is a great thing which means pudding in less fertile iselect pesticides having less intensive agriculture on the other hand you want to get",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "873f2f77-df2c-4695-aafc-758690f6ab42"
     },
-    "1980.7": {
+    {
       "requestid": "14d9472c-cdd1-44b4-9a31-b80b4d57848a",
       "confidence": "0.7394195",
       "timestamp": 1980.7,
       "content": "food enough so that everyone is fed and baby fed cheap place with good food stuffs which typically means you need to put in more fertilizer pesticides more intensive farming until you think she's asking to do both things",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "68456680-5f59-4018-b60e-7c3e2eec03cd"
     },
-    "1993.98": {
+    {
       "requestid": "f8c0f18f-cf25-4973-89a7-54655e7f1cab",
       "confidence": "0.8267245",
       "timestamp": 1993.98,
       "content": "no I'm sure there are some ways that we can actually develop a target that would still make it some sort of balance and actually could be ok but is not obvious that this would be more than ok and it's very likely that we could end up with some with taking part of it and end up making it a pretty",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "567a40dd-761e-4e89-894e-be87a05e8a8e"
     },
-    "2009.55": {
+    {
       "requestid": "147a4569-0094-4783-b4e2-1a6f8178fe8f",
       "confidence": "0.8187629",
       "timestamp": 2009.55,
       "content": "poor policy let's talk about a couple of education goals and you are in favor you give a phenomenal ranking to the idea of increase in the proportion of kids were able to access in complete pre primary education you want talk for just a second about the returns to bat",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "3e6ceb0f-89cb-49c6-ac8f-acaa2fc2fbd8"
     },
-    "2025.26": {
+    {
       "requestid": "e17f06bc-731e-45ca-939f-176234ad6377",
       "confidence": "0.7981272",
       "timestamp": 2025.26,
       "content": "again I should just say it's not me who sing this we ask 32 of the world's top economists across all these different errors in this is there a valuation sucks that it's not because I'm sitting here in saint louis",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "0ba545cf-1759-4b4a-b8ef-2904b49771c6"
     },
-    "2035.29": {
+    {
       "requestid": "697494df-52cc-4b0a-9ab2-199447b0cd99",
       "confidence": "0.7343796",
       "timestamp": 2035.29,
       "content": "let her know thank you but at the economist look at education actually shows that we have managed to get most kids in 2 primary education but there's a lot of kids that don't go to pre primary education preschool",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "46ff4caa-c81d-4efb-9781-9b89728f3105"
     },
-    "2049.65": {
+    {
       "requestid": "43f8da4b-6c8e-43b3-a5b9-06ed52cb9659",
       "confidence": "0.7188363",
       "timestamp": 2049.65,
       "content": "partly it's very cheap because you don't need all that much call dications to teach",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "05a4de8b-6534-4a52-ba6f-ffcf2e24664b"
     },
-    "2054.62": {
+    {
       "requestid": "757db709-632f-4712-8dbb-0e40515b58f9",
       "confidence": "0.8827753",
       "timestamp": 2054.62,
       "content": "it's very easy to get kids in there because they don't really compete with anything else the parents are not say no but you could make a living wage instead",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "6aebbece-c187-4626-9ed8-38cd8adccf3f"
     },
-    "2063.43": {
+    {
       "requestid": "f58739c5-cec3-4b91-9bb9-deb18a6ae956",
       "confidence": "0.5075061",
       "timestamp": 2063.43,
       "content": "and they're awesome much more open tabbing",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1c830d24-9809-43f9-b087-0b73dd789b0f"
     },
-    "2065.93": {
+    {
       "requestid": "30f1196b-fb83-4692-b728-21a64c8f7aa9",
       "confidence": "0.8060858",
       "timestamp": 2065.93,
       "content": "girls especially go to beat preschools so we can do something that's cheap and we actually know that this leaves a lasting effects in being able to better educate yourself also in the future even if you don't get a formal education",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "2c4f1759-48ef-4cb4-a905-319756509454"
     },
-    "2079.59": {
+    {
       "requestid": "7df98f65-62bc-4d64-8513-53238b46ded0",
       "confidence": "0.7896203",
       "timestamp": 2079.59,
       "content": "so we estimate but the benefits are in the 30 so probably for every dollar spent 233 dollars worth of good snacks",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1cf0d9c2-d434-45ac-8115-ce72584afc75"
     },
-    "2087.38": {
+    {
       "requestid": "2e9cac9f-1b18-4236-a1a6-aa1cae822fbb",
       "confidence": "0.8303841",
       "timestamp": 2087.38,
       "content": "is this a true number course it's not it's it's an estimate but it gives you an indication that this is probably one of those places will you get excellent return on your door",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "85d1ee3d-0934-41aa-987f-b20c447d58a2"
     },
-    "2096.82": {
+    {
       "requestid": "2e875fb8-9e52-42a7-b830-790b868613f9",
       "confidence": "0.7573953",
       "timestamp": 2096.82,
       "content": "ok sobig return on pre primary education what about post secondary college in sofia",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "8ff92431-c470-4264-9e02-83ec27fe199a"
     },
-    "2102.96": {
+    {
       "requestid": "4b64bc41-82f2-41dc-8be6-618c65abcbd8",
       "confidence": "0.7230328",
       "timestamp": 2102.96,
       "content": "the problem is the way it's formulated they want to promise in this is typical for AB sorts of documents we wanna promise everybody to be a able to get into princeton university it's a beautiful idea but the problem is for most countries",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "823183aa-b189-4016-a7f6-f8ca752546c2"
     },
-    "2117.51": {
+    {
       "requestid": "ed23bd3c-6792-48fa-b6bf-1eb8d365e655",
       "confidence": "0.7291251",
       "timestamp": 2117.51,
       "content": "it ends up being a way to subsidise rich peoples kids to go to college if you make college free because most of the attendees at universities are from high class is that is effectively a subsidy to rich peoples kids",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "7097e328-0baf-471b-9279-538c205f7d0a"
     },
-    "2132.95": {
+    {
       "requestid": "22497ab6-1e1a-4855-a766-12cedb0f5c98",
       "confidence": "0.7766456",
       "timestamp": 2132.95,
       "content": "instead what you should be doing is if you want to get more poor kids into a college you should be giving them scholarships that's a much cheaper much more directed way to make sure that you get a better social economic profile in college but let's not kid ourselves this is not what makes product tivity dramatically rise",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "b7f908e7-fc48-4906-8110-970af9bd2447"
     },
-    "2152.0": {
+    {
       "requestid": "fc145d23-1918-47e3-8f1a-3639cf34bbb3",
       "confidence": "0.8037891",
       "timestamp": 2152.0,
       "content": "in the first 30 or 50 years of development that much more about getting everyone educate it so they can re",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "cc25c773-b3d5-4096-86ee-7cd5df80d5bb"
     },
-    "2157.69": {
+    {
       "requestid": "7af62fb4-ffb0-4a10-880c-fda003f41381",
       "confidence": "0.7114991",
       "timestamp": 2157.69,
       "content": "write me ask you about a phenomenal inaport ranking the copenhagen consensus enter his given for 2 goals in the climate change arena fenomenale mark goes to the proposal to quote by 20:30 phaseout inefficient fossil fuel subsidies",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "b39e2558-3795-4fde-9ae5-4a6cda759c4c"
     },
-    "2175.11": {
+    {
       "requestid": "13b6d83a-66f8-4dd2-883d-7460c1425a35",
       "confidence": "0.7416832",
       "timestamp": 2175.11,
       "content": "report mark to the proposal to cook double the share of renewable energy in the global energy mix by 2030 at first blush those might seem to be contradictory explain y one gets manamo be at airport",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "cbe17526-e4db-4f61-bd8c-ab89ca5aa525"
     },
-    "2188.87": {
+    {
       "requestid": "6e800f8b-78ad-4b94-bd6b-d1f1bd72dc66",
       "confidence": "0.7705784",
       "timestamp": 2188.87,
       "content": "most people when you talk about it sent me when we reach me at 10 american audience will think that fossil fuel subsidies or something of the first world that actually not by far the majority of fossil fuel subsidies come in third world countries",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c0d9d65e-f034-48b2-abd0-7f49c5fe2306"
     },
-    "2202.76": {
+    {
       "requestid": "1fce9f4c-a8c5-46df-9005-c3796e76ec52",
       "confidence": "0.7561073",
       "timestamp": 2202.76,
       "content": "where many countries are subsidizing the basic provisions like bread and also gasoline",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "5fad7d25-88f3-4897-9395-8fe9f7efbcfa"
     },
-    "2209.24": {
+    {
       "requestid": "654635d3-2e9d-4702-b14e-e9bf1cf553be",
       "confidence": "0.719103",
       "timestamp": 2209.24,
       "content": "as a way to keep the population quired",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "f3bd31c8-6d8d-4885-b97e-bfe26013c812"
     },
-    "2212.92": {
+    {
       "requestid": "d57782c2-db53-425e-97a6-3442c3da53d1",
       "confidence": "0.6580711",
       "timestamp": 2212.92,
       "content": "iran spent almost $75 Billion which is a huge portion of the national budget likewise with egypt some of the other big ones are russia china india sode arabia",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3027cf84-e12f-4db4-b1e0-6a8a99ba7e42"
     },
-    "2224.73": {
+    {
       "requestid": "caee056c-8c4b-408b-9715-1e2acd014ca6",
       "confidence": "0.7572816",
       "timestamp": 2224.73,
       "content": "and that actually helps destabilize anything else those powers can do because fundamentally they can't afford to put my friends with better health care a better education many of the other things because it's been a huge amount of their resources on fossil fuel subsidies of course it also at the same time",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "720a3f71-d6e1-4a01-a732-01ed4251f85c"
     },
-    "2242.69": {
+    {
       "requestid": "5ab5ca5f-116a-4b6e-b0ab-16d79070e6fc",
       "confidence": "0.6839604",
       "timestamp": 2242.69,
       "content": "encouragement over use of fossil fuels in their bike more missions of c 2 handles of course if you friends with subsidised gasoline you basically helping people who can afford a car which will typically be rich people",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "4dd9adf2-000c-42df-8b7c-2ea1b61834e5"
     },
-    "2256.41": {
+    {
       "requestid": "30d86929-3d7c-420d-87cc-dcb4f80ee829",
       "confidence": "0.7374688",
       "timestamp": 2256.41,
       "content": "so in reality cutting the subsidies health benefits and all those different accounts and will probably leave the state much better able to do the things that he should actually be focusing on me and we from saint education health and so on",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "ec2402cc-d51a-4379-8eb5-8529c23e0b3a"
     },
-    "2269.56": {
+    {
       "requestid": "97b69ff6-c2b4-40d2-a943-78d97630a53a",
       "confidence": "0.7639824",
       "timestamp": 2269.56,
       "content": "when you talk about getting more green entryid something a lot of us in the bridge west like we want to have more solar panels and wind turbines the problem is for most people in the porn world it's about getting access to electricity",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "a9b2a79b-d01a-414d-848a-9157e9f9a6e4"
     },
-    "2285.08": {
+    {
       "requestid": "01f48294-b538-43dd-b9e6-7a0f6f4176ca",
       "confidence": "0.6953753",
       "timestamp": 2285.08,
       "content": "in back taxes is mostly not always but mostly much cheaper with fossil fuels there's an estimation from the inside of global development in dc that looked at you know bomas pledge to help electrify africa",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "17809028-beba-44ee-ab04-489ed0b0e9e0"
     },
-    "2298.86": {
+    {
       "requestid": "cedb0755-8043-40bd-8549-2608ed5dfd60",
       "confidence": "0.6865236",
       "timestamp": 2298.86,
       "content": "I know how do you spell we gonna spend about $10 Billion bing salusbury wonderful but if you spend it which obama will probably do mostly on renewables the estimate you can help about 20000000 people come out of darkness and hence pobedy",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "ddd6f94a-8eec-4987-8883-fb13a2713168"
     },
-    "2314.73": {
+    {
       "requestid": "0c64b2f3-8869-4179-baf0-7934ed8eed8e",
       "confidence": "0.7093552",
       "timestamp": 2314.73,
       "content": "ricky spend the same 10,000,000,000 on gas you could lift 90000000 people out of darkness in poverty",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "1812dbc2-5f01-452d-a441-05ee81dee7a0"
     },
-    "2321.53": {
+    {
       "requestid": "4bd8470e-ca7f-4996-949a-d62188f05e56",
       "confidence": "0.8703076",
       "timestamp": 2321.53,
       "content": "so the fundamental point here is to say you can do much much better",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "91737677-9212-4a93-b84f-1b821f1589f0"
     },
-    "2325.43": {
+    {
       "requestid": "1fb8ca7c-d9df-42b8-b994-c913b8789798",
       "confidence": "0.7090445",
       "timestamp": 2325.43,
       "content": "and so unless you are very careful with your sub cities to greenedge if you actually end up doing pretty poorly and very likely actually less than one dawg",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "f31dfc50-d4e9-44ae-a2cd-49bc83321398"
     },
-    "2333.55": {
+    {
       "requestid": "56059a59-6b3a-4c6c-8c31-a32a42bcf7e1",
       "confidence": "0.8136817",
       "timestamp": 2333.55,
       "content": "back and all this one set of numbers hear that is so astonishing I just wanna run them by you and ask you to briefly comment the costs associated with domestic violence are over an order of magnitude higher than the cost of civil war 290000000 kids are beaten every month",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "bc7331aa-b95a-49e0-a6ad-71bb3064962a"
     },
-    "2350.67": {
+    {
       "requestid": "90a8e0be-60ca-4aed-9c62-0b20e3f221db",
       "confidence": "0.8926067",
       "timestamp": 2350.67,
       "content": "the cost of a trillion dollars compared to the $170 Billion cost of civil wars",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "d17d6ebe-aed2-420f-aea0-66b2d8792c24"
     },
-    "2359.16": {
+    {
       "requestid": "47bd67ac-d343-4ac9-9191-e301d56b40c3",
       "confidence": "0.8649046",
       "timestamp": 2359.16,
       "content": "yeah it's a great outcome of the study in this is the first time they put numbers to what's the cost of domestic violence",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "c168ef5c-71b8-4e90-b8fa-acc531a43bd8"
     },
-    "2365.72": {
+    {
       "requestid": "9a0bac81-bc8f-4b25-a79a-b8225c72b7f1",
       "confidence": "0.7476314",
       "timestamp": 2365.72,
       "content": "and clearly this is only an approximate number is it basically takes what's the cost of an assault in the us and then scale it so that it now if if you only make one 10th of what do you ask makes the cost about assault is also one 10th",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "786a11da-1487-40da-b79c-7760e4e308ab"
     },
-    "2378.82": {
+    {
       "requestid": "dc5416d6-857b-4933-89e2-d419b5dbb6e8",
       "confidence": "0.7942255",
       "timestamp": 2378.82,
       "content": "but even then because there so many kids as you mention twitter 90000000 kids that are abused each month",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "26102bec-4e4f-4290-8923-14bcf2a0079d"
     },
-    "2386.07": {
+    {
       "requestid": "45f955de-f068-405e-be1d-8a37cd730c08",
       "confidence": "0.8235304",
       "timestamp": 2386.07,
       "content": "and there's almost as many women are abused every year",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9cbc1c98-a388-4c75-8940-1ed72588a7bc"
     },
-    "2390.48": {
+    {
       "requestid": "a5002e66-b2fd-4411-9c4c-b66967220969",
       "confidence": "0.7138346",
       "timestamp": 2390.48,
       "content": "it's a much much bigger number even or tv overflows with syria and iraq in this is deathly serious issues it's actually much less so then the problem of domestic violence oak is both women and kids it's a map 28 trillion dollars about 9% of global gdp",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "38e159d3-ef94-4352-84f9-e009719b477a"
     },
-    "2410.31": {
+    {
       "requestid": "2d25d1ad-b4b9-4346-b0e1-7f6fc6628e4f",
       "confidence": "0.6892235",
       "timestamp": 2410.31,
       "content": "alright let me ask you this then a condom asava saying they like to say that oh that sounds great in practice but does it work in serie cry tonight because economist love theory and analysis in math all that is often much more elegant than the real world willie as it is this will allow so",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "362b1fa6-1767-4335-a0cd-8d578c7841d6"
     },
-    "2428.42": {
+    {
       "requestid": "67424b0d-e845-4716-bbfc-31fbcc33c083",
       "confidence": "0.8269529",
       "timestamp": 2428.42,
       "content": "let me a few the opposite what you're doing by constructing a cost benefit analysis of these development goals it sounds great in theory but what about in practice how do you translate what you learn to the real world and make it actionable make it worthwhile in other words is anyone going to listen to you and act on it",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "cfaf1466-743c-439a-a8ae-8162f281d763"
     },
-    "2447.85": {
+    {
       "requestid": "3281c3f0-8562-4943-acd4-5a3878404a34",
       "confidence": "0.7403452",
       "timestamp": 2447.85,
       "content": "when I sing a lot of people are listening as we talked about before we are not the only input to this conversation but if we just talk about it and put it becomes harder to ignore",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9cf1b059-4a9b-4744-a0a2-ba8c8f09cc1a"
     },
-    "2458.15": {
+    {
       "requestid": "b7e48bf8-a7a8-4f83-b007-d89b799cf465",
       "confidence": "0.7802432",
       "timestamp": 2458.15,
       "content": "really really great opportunities and becomes harder to ignore it but some of the proposed target I'm not very good we like to think about cells is constructing a menu for society a mention if you going to really expensive new york restaurant in you get those wonderful menu put the new prices and sizes on",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "0822c936-ffa6-4a57-b48b-1cc44f198c67"
     },
-    "2475.12": {
+    {
       "requestid": "d21e2800-8f6e-4e50-be6b-96a87a40ce03",
       "confidence": "0.5972477",
       "timestamp": 2475.12,
       "content": "unless you have a very good expense account you can feel uncomfortable ordering",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "ff1dcfef-6f09-4bfd-aabd-c6bf7dc05dfe"
     },
-    "2479.88": {
+    {
       "requestid": "f568593d-388e-4732-a2b8-0ce1c20d4151",
       "confidence": "0.8159696",
       "timestamp": 2479.88,
       "content": "but what we tried to do is we put prices and sizes on those different menu point",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9ae0f1bb-1188-4e7e-b340-fa12d6f3d6d0"
     },
-    "2485.25": {
+    {
       "requestid": "946c514a-8583-4c19-b9c5-1d0bdae2a801",
       "confidence": "0.7605758",
       "timestamp": 2485.25,
       "content": "not that doesn't mean that the champagne of the kaviyoor might not be your first choice anyway at least now you know but you can afford list for district 2 in some sense we tried to do is we give people a sense of proportion not this is not the only thing they gonna you",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "abd72392-3f81-4e66-9114-1f1bbdece200"
     },
-    "2501.37": {
+    {
       "requestid": "225e56e5-bcde-4593-ba97-bcc7ca80ceed",
       "confidence": "0.7250221",
       "timestamp": 2501.37,
       "content": "but he still just use a little bit of it chances are will end up with a slightly less in a fish and if you will I'll come in at still great",
-      "speaker": "S389"
+      "speaker": "S389",
+      "uuid": "487c3d0b-f05d-4a6f-bc74-70e247513796"
     },
-    "2515.76": {
+    {
       "requestid": "9d037d2c-c488-40d5-8dff-a030dd203879",
       "timestamp": 2515.76,
-      "content": ""
+      "content": "",
+      "uuid": "b9c645e9-ffef-4e37-b1fa-e6fee6c83347"
     },
-    "2524.56": {
+    {
       "requestid": "da40cf2d-06dc-44f0-b7f2-22add300bda5",
       "timestamp": 2524.56,
-      "content": ""
+      "content": "",
+      "uuid": "c6b4041f-abc8-4de7-92aa-f89200295102"
     },
-    "2531.08": {
+    {
       "requestid": "093a403c-1dd9-480d-a8e5-d6f108ab3377",
       "confidence": "0.7648489",
       "timestamp": 2531.08,
       "content": "tipica sisters america is one of the most generous nations in the world in history",
-      "speaker": "S392"
+      "speaker": "S392",
+      "uuid": "53627a54-c10e-4547-a0c7-dd37d46b7057"
     },
-    "2537.44": {
+    {
       "requestid": "0a6b144a-d87b-486c-a973-dd8089a299da",
       "confidence": "0.6441365",
       "timestamp": 2537.44,
       "content": "all next week so what really makes people did and how can we get them to give more",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "b761f512-2e28-449f-8fdb-688df9f51e36"
     },
-    "2545.57": {
+    {
       "requestid": "0f0e1d26-0c26-43d2-9e0b-29e6185434e8",
       "confidence": "0.8624557",
       "timestamp": 2545.57,
       "content": "beautiful women",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "32345947-a222-405a-9907-28a622b87e70"
     },
-    "2547.17": {
+    {
       "requestid": "811ff449-1af1-4aa0-a3e9-02644939e21b",
       "confidence": "0.8649384",
       "timestamp": 2547.17,
       "content": "ended up raising the most money of all this lyster's that we had",
-      "speaker": "S394"
+      "speaker": "S394",
+      "uuid": "a0c21872-7d80-4419-9c35-f0eef252bf79"
     },
-    "2552.31": {
+    {
       "requestid": "8ed99e1b-c199-41ee-9329-9b3b587808d0",
       "confidence": "0.7589886",
       "timestamp": 2552.31,
       "content": "this entire physical attractiveness result is driven by men answering the door they said oh tell me more about this really fun tell me how I can help oh I'd love to help you just can't beat a beautiful blonde who is going door to door to raise money for your cars",
-      "speaker": "S394"
+      "speaker": "S394",
+      "uuid": "ffe3422e-70ed-4415-8f4d-9160626681da"
     },
-    "2572.66": {
+    {
       "requestid": "eb467a7f-4581-47a8-9378-d0c6e6ad0aa2",
       "confidence": "0.6033399",
       "timestamp": 2572.66,
       "content": "defiance the fundraiser next time I'm picking up radio and don't forget we talked about earlier if you drive any bit of pleasure or value from is podcasts I hope you make financial contribution just go to freakonomics.com and click don't think much duckies",
-      "speaker": "S392"
+      "speaker": "S392",
+      "uuid": "226d336c-6200-48a0-8765-3972bd194e01"
     },
-    "2594.29": {
+    {
       "requestid": "79c8b869-0445-4f24-be42-bdd28e9928bc",
       "confidence": "0.7450953",
       "timestamp": 2594.29,
       "content": "freakonomics radio is produced byWNYCN.net production our staff includes david herman greg brozowski readercon caroline english susie lechtenberg and chris banning",
-      "speaker": "S401"
+      "speaker": "S401",
+      "uuid": "a1211e1c-dfd5-4953-a5d2-6fba000e6192"
     },
-    "2608.01": {
+    {
       "requestid": "b11211f2-778a-44e4-9a53-cb2b8a8e455e",
       "confidence": "0.7738365",
       "timestamp": 2608.01,
       "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots radio iplant the <profanity>fuck</profanity> say",
-      "speaker": "S401"
+      "speaker": "S401",
+      "uuid": "6beb8f42-f666-430b-ad53-2390a4c075ea"
     },
-    "2624.86": {
+    {
       "requestid": "598fb31d-122b-4e99-9b6c-ff0fe8284b25",
       "timestamp": 2624.86,
-      "content": ""
+      "content": "",
+      "uuid": "047feb94-d471-43ec-a5fc-3e1eecd14e30"
     },
-    "2630.9": {
+    {
       "requestid": "acba7c4e-54bb-4060-b64c-deb7054d38bf",
       "confidence": "0.804346",
       "timestamp": 2630.9,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "f9d656b1-697a-4726-b3bd-a7a81e0b3f09"
     },
-    "2650.22": {
+    {
       "requestid": "447d79c3-4a37-4120-85bb-cb57bfd69c4e",
       "confidence": "0.8977675",
       "timestamp": 2650.22,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managed for free",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "3230fe0d-be21-4c30-b377-eddac7d9b907"
     }
-  }
+  ]
 }

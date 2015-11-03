@@ -4,691 +4,790 @@
   "description": "<p>Most people blame lack of time for being out of shape. So maybe the solution is to exercise more efficiently.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/ug2QZuGKKeE/freakonomics_podcast010214.mp3",
   "slug": "What-s-the--Best--Exercise-",
-  "segments": {
-    "0.74": {
+  "segments": [
+    {
       "requestid": "989c8d7b-1fe8-48a0-a453-16c2fbff021d",
       "confidence": "0.6352931",
       "timestamp": 0.74,
       "content": "play freakonomics is a college education still for sale how much do parents really fast shipping beeban how many parking spaces are drug dealers play freakonomics I have a question for you",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ccaaabd6-35ac-4eb4-b92a-90049ec41b72"
     },
-    "17.78": {
+    {
       "requestid": "df13c172-a875-45cd-a9e8-81e6f5ebc724",
       "confidence": "0.6559952",
       "timestamp": 17.78,
       "content": "from wmic this is freakonomics radio podcast that explored the side and everything",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "af01b063-74c3-4fa4-894e-050f4d3e55e2"
     },
-    "25.67": {
+    {
       "requestid": "860a4af1-c570-4833-9be4-772ddbb3faaa",
       "confidence": "0.7294553",
       "timestamp": 25.67,
       "content": "here's your host stephen dubner",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "ff7df39d-7402-41d1-aa63-bbfb07582b9d"
     },
-    "32.7": {
+    {
       "requestid": "76f9242b-37be-420a-8736-110019ffd4e4",
       "confidence": "0.7934708",
       "timestamp": 32.7,
       "content": "hey punk <profanity>ass</profanity> with news we love it when you send us your questions like hey freakonomics what's the best way to do this or that or the freakonomics what's the story with such and such some of you are so smart and I'm sure you",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1cb510c3-2438-4b32-97a4-cb231f819213"
     },
-    "46.21": {
+    {
       "requestid": "23d8cbdc-9bb6-4552-9c24-b387222e5880",
       "confidence": "0.7567243",
       "timestamp": 46.21,
       "content": "go to free conomiques this is jasmine are hey jasmine what would you like to know today I want to know what is the best most efficient form of exercise",
-      "speaker": "S49"
+      "speaker": "S49",
+      "uuid": "8d517475-d2de-40d3-8adb-b5c66d0a5662"
     },
-    "57.95": {
+    {
       "requestid": "e481a274-66e9-4e77-8cf7-803d5e5f1478",
       "confidence": "0.8081235",
       "timestamp": 57.95,
       "content": "I want to get the most benefit for the least amount of time invested I don't have that much money either also I am kind of lazy",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "42e7ce82-cf18-472f-ad99-e5dd07530970"
     },
-    "67.99": {
+    {
       "requestid": "3082691e-7563-4954-9f80-7c0f42048d7d",
       "confidence": "0.6827639",
       "timestamp": 67.99,
       "content": "bank freakonomics I jasmon let's see if we can answer question the best most efficient form of exercise limits for my exam in the premise maybe you don't even need exercise exercise really is worthwhile as we think",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "37fca85b-073f-4380-8ccf-f1e578ac98af"
     },
-    "82.5": {
+    {
       "requestid": "3bdf5bbb-1086-456e-8ac2-b8d5e7812e1e",
       "confidence": "0.7464471",
       "timestamp": 82.5,
       "content": "sleep this question to david meltzer he's at what kind of guy he's a doctor and an economist at university of chicago",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "aadcb807-68de-42b0-8e12-c2aefbe6c260"
     },
-    "90.49": {
+    {
       "requestid": "84c28cd1-8866-45c2-8812-f258b6ea239a",
       "confidence": "0.7994594",
       "timestamp": 90.49,
       "content": "I think there's a lot of good evidence both observation ull as well as experimental the exercise really helps I'm the numbers I often saytar that even something as simple as walking for half an hour a day 5 days a week race is your life expectancy by a year and a half",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "2b801adf-a51c-4ba2-be6a-d56ce1d18c5f"
     },
-    "109.78": {
+    {
       "requestid": "1592c8e9-7f4f-49bc-9ddf-35191de84c22",
       "confidence": "0.8286164",
       "timestamp": 109.78,
       "content": "and exercising more intensively the mat on a daily basis can produce games that are double back",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "01ebc1a8-cbf2-44b9-8b85-08b99c40b345"
     },
-    "116.11": {
+    {
       "requestid": "5ac2f8c3-40dd-4128-9af7-28cf0a57b0f6",
       "confidence": "0.7879177",
       "timestamp": 116.11,
       "content": "no offence freakonomics but I could've told you that exercise is good for me",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "4a1b49ac-c5e0-45c1-a539-b0ba562ac265"
     },
-    "121.21": {
+    {
       "requestid": "57ad810e-6acf-46fe-a970-c83ce1b5cb37",
       "confidence": "0.7388408",
       "timestamp": 121.21,
       "content": "sorry I just wanna make sure you're not wasting what little time you have so as it turns out jasmine your situations pretty typical here's gretchen reynolds she writes the food that comes in your times",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e45db65b-9445-4041-a45e-8f98060fb83a"
     },
-    "131.09": {
+    {
       "requestid": "dfb6dfdf-6384-4798-9f05-5e7ecdbb7bbb",
       "confidence": "0.8737485",
       "timestamp": 131.09,
       "content": "the most common reason that people give for not exercising is that they don't have time and here's what that means most americans are not exercising the best statistics suggest that at least 80% of americans are not meeting",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "6ecfb3c3-bff7-4804-9f37-427347a28910"
     },
-    "148.16": {
+    {
       "requestid": "56da95f2-f2d9-484d-9a8f-29346a4a5262",
       "confidence": "0.8742103",
       "timestamp": 148.16,
       "content": "the most commonly used guidelines for exercise which are those",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "49b6dee1-8afe-4b03-83b7-078fd5f2aef6"
     },
-    "152.24": {
+    {
       "requestid": "22955212-3d78-4a20-992a-65fdf14985a1",
       "confidence": "0.9166893",
       "timestamp": 152.24,
       "content": "from the american college of sports medicine",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "2cc3caca-7ae6-4f00-9a35-e2b357a92a91"
     },
-    "154.83": {
+    {
       "requestid": "642b2b56-1114-4ebe-aef1-0a73a3b15c85",
       "confidence": "0.8747568",
       "timestamp": 154.83,
       "content": "and they suggest 30 minutes of moderate exercise most days of the week",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "bf06f2cc-1956-4643-b275-5ebb5c308ad5"
     },
-    "160.3": {
+    {
       "requestid": "d67c24fd-3fa2-4525-b07f-6beb763aadb3",
       "confidence": "0.7165381",
       "timestamp": 160.3,
       "content": "the vast majority of americans are not do",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3b62e769-6a7f-4fb5-ae50-911a4556ad5a"
     },
-    "163.31": {
+    {
       "requestid": "200a3c55-55c7-496d-9503-a8e4c802dea4",
       "confidence": "0.7802045",
       "timestamp": 163.31,
       "content": "mat oh no I don't feel quite so bad",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "c75dea7b-f382-41ed-9ba6-cd3c3ca2a2ea"
     },
-    "167.22": {
+    {
       "requestid": "0a6b081d-cbc6-4d7d-a8fe-1399a1dadea4",
       "confidence": "0.8220243",
       "timestamp": 167.22,
       "content": "are you with that doesn't mean you shouldn't try to exercise so we took your question what is the most efficient form of exercise and we have some people that we thought could answer his wife",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0e603066-2390-4cdf-bba4-f1aa0d1f7142"
     },
-    "177.06": {
+    {
       "requestid": "a0b3b996-d514-484e-a076-0498b0f6c01c",
       "confidence": "0.8986019",
       "timestamp": 177.06,
       "content": "the right way to think about this is it's the wrong question and you know if I've learned anything in my life whenever I ask the wrong question it almost guarantees I will not find the right answer",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "9267784e-2cc6-4f28-8ca4-217c0ff0b90f"
     },
-    "191.34": {
+    {
       "requestid": "57bc1029-9112-4a3c-a24e-95fdff259da5",
       "confidence": "0.7091295",
       "timestamp": 191.34,
       "content": "do with a meanie who is this guy",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "76853373-554c-425c-b896-ff11c0c6bb35"
     },
-    "194.45": {
+    {
       "requestid": "2856c357-4b01-43e7-b88d-661f8260b1ef",
       "confidence": "0.7707589",
       "timestamp": 194.45,
       "content": "the name is peter ateah he's an MD&A nutrition expert and a fitness fanatic and self emphasis on the fanatic part of his exercise routine is flipping a tractor tire",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "ac0ffaaf-b228-4517-9321-46df5f37d630"
     },
-    "207.39": {
+    {
       "requestid": "06e08181-408c-4a52-854a-d17183306076",
       "confidence": "0.8448491",
       "timestamp": 207.39,
       "content": "it's pretty heavy tirot about 450 pounds you're never actually lifting the entire thing at once 'cause you're flipping it I have a goal but I'm working really hard mostly for fun to get to which is to break 16 seconds on 6 flips of that tire",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "6af2bc5d-02eb-4cfb-aff7-586983c62365"
     },
-    "225.14": {
+    {
       "requestid": "ce80d742-d15b-46b3-b332-d4fe8c2c8b43",
       "confidence": "0.832439",
       "timestamp": 225.14,
       "content": "and here's why doctor atiya things this question what is the most efficient form of exercise is the wrong question",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "88feae14-ba04-4caa-8e54-ccaadd18acbd"
     },
-    "232.35": {
+    {
       "requestid": "fd87cfc6-9d4e-4ee7-8bfa-cfd7a34511f5",
       "confidence": "0.9136987",
       "timestamp": 232.35,
       "content": "if someone says it to make it I get out this question all the time what's the least I can do for the most I really ask a person what is it you want with your desired outcome and it can be anything from you know I wanna run my first marathon in 6 months or",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "904ad404-9323-42a6-8fcc-c450a775e323"
     },
-    "246.74": {
+    {
       "requestid": "906b8953-e24f-4b45-a94d-ce91b7953f9a",
       "confidence": "0.9089186",
       "timestamp": 246.74,
       "content": "I want to compete in a triathlon in will be my very first one or I wanna take my game to the highest level because I've already been doing this for awhile but I wanna get a little bit better",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "4a0a627d-8968-43f1-9d02-587f6447a15d"
     },
-    "257.54": {
+    {
       "requestid": "38d1306e-f468-4c20-9840-3959f68ae944",
       "confidence": "0.8953208",
       "timestamp": 257.54,
       "content": "I can also be something like I wanna look better in a bathing suit or",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "6e0565ec-fb53-4e0a-acbd-c8e42ff0e19d"
     },
-    "261.78": {
+    {
       "requestid": "041cbd11-a721-4891-bddb-f1f8f57d41b4",
       "confidence": "0.8783539",
       "timestamp": 261.78,
       "content": "I want to not get tired when I play with my kids are all actually really an elaborate physical activities",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "dc5b5619-2825-4e92-ace1-435ad07010d3"
     },
-    "274.05": {
+    {
       "requestid": "79a94f52-100f-45b4-ad54-b9aa26637992",
       "confidence": "0.6723675",
       "timestamp": 274.05,
       "content": "ok so jasmine what is your exercise go do you wanna compete that rasam money does look better in a bathing suit",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "3c6fe371-3f5a-47c8-ac1e-fb852ba3dfbb"
     },
-    "282.06": {
+    {
       "requestid": "fa6bf203-95d4-4df5-b9de-7a9617312ee5",
       "confidence": "0.7791894",
       "timestamp": 282.06,
       "content": "oh I already look very good in a bathing suit this is mostly for my heart for my longevity",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "e89063d6-6303-409a-bbaa-a3d3f630f3ac"
     },
-    "290.05": {
+    {
       "requestid": "09a414ef-16bc-4ccd-a1d0-446dbe848e3d",
       "confidence": "0.6490012",
       "timestamp": 290.05,
       "content": "well if you think long japanese is one exercise that gretchen reynolds really like",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "9ba9d7e7-e23b-4ad8-ac34-e3cc10fa5e7d"
     },
-    "297.55": {
+    {
       "requestid": "ad0fb40c-01a9-4f63-bb05-49bdcdbf30bb",
       "confidence": "0.7630264",
       "timestamp": 297.55,
       "content": "that's why I will use almost all of the biggest muscles in your body goes in your upper legs your back your core",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "0220c2b0-6b74-4fa5-acce-d30906bb59f9"
     },
-    "306.44": {
+    {
       "requestid": "0f69c29b-57f1-46c4-ba5c-1332fc5d369c",
       "confidence": "0.867794",
       "timestamp": 306.44,
       "content": "those are also the muscles that you need to do things like",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "cd4885ca-cbc0-459c-8fc9-b90e9e97a360"
     },
-    "310.07": {
+    {
       "requestid": "14e895ca-58fd-43e0-a8f6-75e16be76da4",
       "confidence": "0.8360746",
       "timestamp": 310.07,
       "content": "get up out of the chair which may sound facetious but in fact is you age when of the best indicators of whether you will be independent",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "e5485d91-68b7-4890-8cc5-4453600734bf"
     },
-    "319.55": {
+    {
       "requestid": "4f645424-f8b6-4ab1-b63d-c8fdc6c61f39",
       "confidence": "0.8717309",
       "timestamp": 319.55,
       "content": "well into your twilight years is if you can get up out of the chair and if you can go up and down stairs",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "90e9515d-2df2-4e18-b04f-c15241d8e4bf"
     },
-    "328.54": {
+    {
       "requestid": "dcbcdf18-8d6c-4c80-8f69-b6910727412d",
       "confidence": "0.8265095",
       "timestamp": 328.54,
       "content": "that sounds pretty good but how am I supposed to know what exercises do the most good",
-      "speaker": "S49"
+      "speaker": "S49",
+      "uuid": "538475f2-bd29-43e6-a929-9fcf37803882"
     },
-    "334.29": {
+    {
       "requestid": "5488688c-d9af-406e-b7fb-6c7e3a5e4a43",
       "confidence": "0.7735063",
       "timestamp": 334.29,
       "content": "ok so let's talk about how exercise is actually measured is david melcher again for the technical am",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "bb498a8f-d02c-4188-aaf6-b75aaeded48b"
     },
-    "340.85": {
+    {
       "requestid": "43f2a7e2-9fa9-4cb8-85ab-9fbf8b2db2a4",
       "confidence": "0.8346058",
       "timestamp": 340.85,
       "content": "serez exercise is probably best measured in terms of the total number of calories that you burn and there for the efficiency of exercise in terms of calories burned per unit of time is commonly measured in in something called a metabolic equivalents garmatz",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "5435359f-9273-4c71-941d-9eb67ecc3928"
     },
-    "360.56": {
+    {
       "requestid": "0a81a046-c182-4669-a7b8-7a02006c7c7e",
       "confidence": "0.800765",
       "timestamp": 360.56,
       "content": "and they rank all the exercises that you can imagine doing from the most intensive to the least intense ever amen the scale starts at one and one is basically rest",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "275f2e01-af10-41f8-b4cf-0d23164a5199"
     },
-    "372.5": {
+    {
       "requestid": "2e2dd135-f8e9-4905-b484-c7c609432f6a",
       "confidence": "0.7684519",
       "timestamp": 372.5,
       "content": "and in the sort of standard scales I've seen things that are right up at the top are basically running soccer which presumably mean in a running all the time I get some ice for the goalie",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "a8c60d77-13db-4530-9801-b7fb378bb8f0"
     },
-    "382.78": {
+    {
       "requestid": "e0b8f6dd-2860-48ff-96b5-b9d6d9968dd0",
       "confidence": "0.6826098",
       "timestamp": 382.78,
       "content": "and then it works its way down south things like running around 10 I'm jogging is the 7 AM golf is a 4 and a half I'm danino rest is 1 AM but it is interesting today are also some activities on the list of things that you might have to do anyway",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "bafbd6d4-a77e-4f06-bb20-30a4561224cc"
     },
-    "399.03": {
+    {
       "requestid": "b10ab715-8912-4fee-ad5e-950ef07799da",
       "confidence": "0.711179",
       "timestamp": 399.03,
       "content": "like yard work and after sex",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "4658952b-8ce9-4e88-9a95-7e229264a52b"
     },
-    "401.65": {
+    {
       "requestid": "bce0777c-fbe0-4e21-b475-bf47fc09dc94",
       "confidence": "0.7648783",
       "timestamp": 401.65,
       "content": "do I don't really like yard work is there anything else like that on his list at either 5 or 6 on the map scale well square dancing is pretty good in the quote from a list put up at the centers for disease control",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "7493d588-0ba9-48ee-a1e5-6d3b2bbac23f"
     },
-    "416.06": {
+    {
       "requestid": "bcadb66b-d47d-4bb5-a706-ccd5524cb1eb",
       "confidence": "0.8613793",
       "timestamp": 416.06,
       "content": "playing guitar or drums in the rock band for fishing while walking along the river bank in you that sounds good",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "6d9f2a3b-b69c-4ed4-95ef-1fdc53b037d2"
     },
-    "423.43": {
+    {
       "requestid": "0c82f41f-fb48-4b6f-ab01-dd0f67646689",
       "confidence": "0.6974817",
       "timestamp": 423.43,
       "content": "I am not into fishing sorry I am not into fishing",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "dfa47592-9a00-43eb-b551-e46aa578cf75"
     },
-    "431.92": {
+    {
       "requestid": "da7efead-be09-4b79-93c2-8de677b0cdac",
       "confidence": "0.653205",
       "timestamp": 431.92,
       "content": "alright let's see what else clogging is good I jumping jacks digging <profanity>bitches</profanity>",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "fcc8e7b4-278e-41fa-b11b-d24248dc7ce0"
     },
-    "438.31": {
+    {
       "requestid": "adb618cd-abc5-4ad3-8bdb-bbc6753fbb6e",
       "confidence": "0.6461202",
       "timestamp": 438.31,
       "content": "yeah let me think those over",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "7478d96c-bee7-4e90-99ab-fcec88506535"
     },
-    "441.29": {
+    {
       "requestid": "912eaf3c-52f8-42d6-b7fd-e40571254fb5",
       "confidence": "0.86621",
       "timestamp": 441.29,
       "content": "ferna when we come back I will tell you about a really fast way to get in your daily",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "119e0223-32e4-4d27-b961-886d66ccd831"
     },
-    "446.3": {
+    {
       "requestid": "8731964c-5351-4c63-afc4-08ec75a32e84",
       "confidence": "0.7944445",
       "timestamp": 446.3,
       "content": "to sign with the ram there's no time to get bored by the time you think of an excuse for minutes is up and you're getting on with your day",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "e8e8303f-f13c-4fe9-860e-474cc525016b"
     },
-    "470.15": {
+    {
       "requestid": "e78c6734-1978-4257-93c6-754ba11093de",
       "timestamp": 470.15,
-      "content": ""
+      "content": "",
+      "uuid": "d3769188-1001-4cb0-8ec3-0bf2d985337b"
     },
-    "473.21": {
+    {
       "requestid": "d4ad68ae-d2d0-47e4-b402-9ed8df95b8eb",
       "confidence": "0.8142591",
       "timestamp": 473.21,
       "content": "from WNYC this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "97b8d087-96da-466b-9765-f328fcad8e11"
     },
-    "484.49": {
+    {
       "requestid": "c952535f-9b74-430d-85a8-93a7a82aa7e3",
       "confidence": "0.8598475",
       "timestamp": 484.49,
       "content": "hey jasmine you still there I am still here and you still looking to the most efficient form of exercise I am ok so you could try and exercise commitment device like joining a gym",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e9ff9aef-1b5a-47fe-b36e-40cc248f2b8e"
     },
-    "497.83": {
+    {
       "requestid": "ca58ad16-1eff-4d74-b4b2-10b5b93e4f5b",
       "confidence": "0.7853402",
       "timestamp": 497.83,
       "content": "problem is research shows that people who buy an annual gym membership overestimate how much to use it by about 70% what a waste of money agreed now there's another kind of commitment device an app called genpact where you sign up for certamen of exercise and if you don't follow through",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "baf0855b-73b3-45a3-82f6-0a7172d06566"
     },
-    "516.15": {
+    {
       "requestid": "d40fad33-f720-4a72-a86b-c81068b0f1ab",
       "confidence": "0.8165291",
       "timestamp": 516.15,
       "content": "you have to pay them I don't like that one bit I jasmon I hear you",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "a82dcfd2-d434-4f4f-bf54-81af36872d66"
     },
-    "520.53": {
+    {
       "requestid": "143b6e0d-62e0-420c-80ac-28cbaf14061f",
       "confidence": "0.8535562",
       "timestamp": 520.53,
       "content": "so you want the best most fish and most cost effective exercise you can find",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "870dbe17-64de-4e2b-be31-49672ee39402"
     },
-    "525.45": {
+    {
       "requestid": "e2a85875-fb17-4546-9d3c-454c9960e377",
       "confidence": "0.6674106",
       "timestamp": 525.45,
       "content": "based on what our 3 wise guessed it figured out overtime let me offer you a little checklist will call it 3 I spent the first I intensity years gretchen reynolds again",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "cd1118f1-cc3f-4656-9daf-0ecd4b4e8453"
     },
-    "538.01": {
+    {
       "requestid": "caa934af-2d4b-4450-91b4-439401e21c14",
       "confidence": "0.867121",
       "timestamp": 538.01,
       "content": "and that means simply fit you go it's very very hard for a brief period of time and usually that you then you have a short break and you go very very hard again there are number of studies that have looked at different forms of high intensity interval training",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "ec9ffc0b-7f83-492e-931c-34b8986a22d0"
     },
-    "557.01": {
+    {
       "requestid": "9e2c3b51-945b-49d2-8fae-834c6e48e5ec",
       "confidence": "0.9427579",
       "timestamp": 557.01,
       "content": "and have found that for instance you can do",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "7536a8dd-5545-4146-9efe-3db8ae4396fd"
     },
-    "560.26": {
+    {
       "requestid": "4d9aec0f-1afd-46e1-8e75-8209c4065e91",
       "confidence": "0.6635342",
       "timestamp": 560.26,
       "content": "one minute of say emhardt bicycling in one minute of much easier bicycling",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "80f32425-b463-49a0-aab8-459e4d44da3e"
     },
-    "567.76": {
+    {
       "requestid": "462a53fa-98fe-4975-9552-f0640985fdff",
       "confidence": "0.7757763",
       "timestamp": 567.76,
       "content": "and if you do 10 of those intervals you get a sensually the same physiological changes within your body is if you do about 90 minutes or 2 hours even of more common in doran's training way just go ride em",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3aabf7fb-8254-470e-be26-180247fd9584"
     },
-    "585.82": {
+    {
       "requestid": "e687611b-5018-4a97-b458-970fcf432253",
       "confidence": "0.7850598",
       "timestamp": 585.82,
       "content": "it seems very clear that is intense bout of exercise can improve your fitness and also improve your help just as much as much longer bout but they have to be hard to have to hurt",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d2fe8183-e485-4cfc-bb30-bbc8f44c6083"
     },
-    "603.73": {
+    {
       "requestid": "64ff7d00-ecb7-4732-96c7-3bc8396c8036",
       "confidence": "0.7862309",
       "timestamp": 603.73,
       "content": "jasmine are you ready for the pain maybe",
-      "speaker": "S89"
+      "speaker": "S89",
+      "uuid": "fa038e92-bab3-4b7b-948f-06a7a09992d4"
     },
-    "609.33": {
+    {
       "requestid": "c624500c-bd82-4426-9189-fb472f1c5b80",
       "confidence": "0.6366445",
       "timestamp": 609.33,
       "content": "maybe not what is the second time in your checklist of 3 eyes",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "fce5935c-b80d-4151-aa29-6b79900c01f5"
     },
-    "614.18": {
+    {
       "requestid": "4a5e6094-6c49-420a-b7d5-dfaa187a8ced",
       "confidence": "0.7173176",
       "timestamp": 614.18,
       "content": "individualization kierspe tarati again he's the tractor tyre flipping doctor nutritionist kinda means",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "28d5c16a-f5bb-4be5-9b1c-d163d0e9cc90"
     },
-    "622.34": {
+    {
       "requestid": "3369399d-6a2e-4e81-82ac-b33aeb7dcba2",
       "confidence": "0.8988383",
       "timestamp": 622.34,
       "content": "using your self is a guinea pig you know there's a lot of questions that I think we wish science would answer but",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "04d76705-78b8-4506-9524-d2fcf28b03e1"
     },
-    "629.36": {
+    {
       "requestid": "a1d316c2-e94a-46ed-aba5-efb1bff9645d",
       "confidence": "0.8111798",
       "timestamp": 629.36,
       "content": "sometimes the reader not deemed a high enough priority in the scientific community",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "8de47610-6aa9-416d-8131-9fafc92c28e0"
     },
-    "633.39": {
+    {
       "requestid": "737d03a8-64be-4b51-b894-001c29119adf",
       "confidence": "0.7775513",
       "timestamp": 633.39,
       "content": "who are the signs of experiments that are carried out are done on such a heterogeneous population but you can't necessarily extrapolate for yourself and so when do things I do when I work with people is really sort of thought in brace this concept of self experimentation because at the end of the day",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "4ba4a317-9269-40c7-868b-0bae72a63403"
     },
-    "649.41": {
+    {
       "requestid": "dcf6cf7e-c8e8-4780-9150-0c43107e2906",
       "confidence": "0.8832372",
       "timestamp": 649.41,
       "content": "if I was working with you um it's really not that important what works for the population it's really more important what works for you personally",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "9984f0d3-7ddc-4862-bd0a-7e9b63807418"
     },
-    "658.48": {
+    {
       "requestid": "af88f98a-23e7-4ed0-8f53-225740c251e0",
       "confidence": "0.689786",
       "timestamp": 658.48,
       "content": "ok he doesn't sound so mean anymore agreed",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "203127f1-da3e-4593-aa97-5658bb37b423"
     },
-    "662.85": {
+    {
       "requestid": "aeb6fee8-04d8-4b64-822e-cf0bcc829a60",
       "confidence": "0.7755197",
       "timestamp": 662.85,
       "content": "and that leads us to the last I on the exercise checklist is the first 2 are intensity and individuals asian the third one is I like to do it",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "d0979b06-0714-43fc-845e-66e57cc5142d"
     },
-    "674.67": {
+    {
       "requestid": "31ee0422-200f-4a27-b0ff-166fd3224777",
       "confidence": "0.7744167",
       "timestamp": 674.67,
       "content": "peter attia gretchen reynolds david mail today all agree that the best exercise is whichever one you actually do whatever you will do",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "ede1922c-ba90-4cfa-986a-6c95e943a977"
     },
-    "683.95": {
+    {
       "requestid": "41283fa9-8059-4089-9b5d-fc78b399682b",
       "confidence": "0.8061325",
       "timestamp": 683.95,
       "content": "who is certainly the best exercise",
-      "speaker": "S45"
+      "speaker": "S45",
+      "uuid": "097e8336-04c7-4d43-a04e-328ae1d009b5"
     },
-    "686.7": {
+    {
       "requestid": "8f05fff3-0368-4a7f-8793-fa5c74e97c13",
       "confidence": "0.8015988",
       "timestamp": 686.7,
       "content": "what do you actually like doing",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "ab243846-40d8-4034-a5ba-ec39981ec6b6"
     },
-    "688.53": {
+    {
       "requestid": "da22427c-8796-4245-8bdb-6862cec33ffd",
       "confidence": "0.8561618",
       "timestamp": 688.53,
       "content": "do something that you actually enjoy do something that makes you better to do you say jasmine that give you any ideas I do have something in mind but I would rather not say",
-      "speaker": "S103"
+      "speaker": "S103",
+      "uuid": "c30f1be8-bb28-40c2-b80b-e4675969915f"
     },
-    "699.14": {
+    {
       "requestid": "3219e799-e9c8-4239-aafc-9a01b3343c49",
       "confidence": "0.810811",
       "timestamp": 699.14,
       "content": "ok no problem but if whatever you are thinking about doing doesn't workout we got one more option for you david melktert old is about the ram workout machine from a company called quick gym",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "5bf7ce44-6515-4614-b7cd-f3eb7ac47737"
     },
-    "711.44": {
+    {
       "requestid": "062a6558-74d1-44f0-ba8d-ed1df4d4fe8e",
       "confidence": "0.7135805",
       "timestamp": 711.44,
       "content": "best exercise machine is the one you'll actually use in the one that gives you a total body workout in only 4 minutes is the one you use everyday",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "53729e55-f79d-4f10-9775-e1a1d4b5dc58"
     },
-    "720.87": {
+    {
       "requestid": "54f7d013-9b3c-4be4-bf06-bde2e3a27e71",
       "confidence": "0.8416603",
       "timestamp": 720.87,
       "content": "is the sound to me like the kind of person you could really warm up to this machine jasmine but let me warn you it costs more than $14,000",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c01157ad-e076-418a-9f40-6d5521b8ac12"
     },
-    "729.56": {
+    {
       "requestid": "66894856-e0d6-4e57-bcd2-6f71aafc153a",
       "confidence": "0.6617956",
       "timestamp": 729.56,
       "content": "how much is it worth it",
-      "speaker": "S107"
+      "speaker": "S107",
+      "uuid": "ebc29447-8de4-4a4a-aec6-982febd03bb5"
     },
-    "731.63": {
+    {
       "requestid": "bde91fb1-7fcc-482a-a8fe-56cf75f347b1",
       "confidence": "0.7030886",
       "timestamp": 731.63,
       "content": "will depend to gaskiers how david melcher season are member when he's not busy being a doctor keys being an economist",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "50714901-72e6-4d94-aa71-b16eb2764de3"
     },
-    "738.88": {
+    {
       "requestid": "0bca2ccf-f838-4aea-9c05-de139ad7a584",
       "confidence": "0.7740243",
       "timestamp": 738.88,
       "content": "yeah well I guess the economic logic of it is bad I it doesn't require very much time at all to get a full days work out I am so presumably if you know it a cat I add an hour to get a copper bowl work out of man it only takes yeah 04 minutes it saved your 56 minutes",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "284feee5-48ae-4be2-b20b-c26543aadc2a"
     },
-    "758.4": {
+    {
       "requestid": "3d2b9c15-15ae-4ef3-921f-442fe067d2e8",
       "confidence": "0.7880065",
       "timestamp": 758.4,
       "content": "south presumably you know that's worth your hourly wage to get out at 5 times a week over a year you can price it out now amortize that and I did you know that probably worth quite a lot of money yeah maybe you'll even get a new sponsor for the show",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "b18c1676-658e-4c44-9c81-8745879fa985"
     },
-    "772.94": {
+    {
       "requestid": "d6044aca-c62c-454d-acd6-eb8310200f65",
       "confidence": "0.8180559",
       "timestamp": 772.94,
       "content": "with the ram there's no time to get bored by the time you think of an excuse for minutes is up and you're getting on with your day",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "f3f3c021-06f4-4474-bbc4-c5bfed17cf57"
     },
-    "781.21": {
+    {
       "requestid": "a255360f-3677-4d16-aaff-1fb24a774bc8",
       "confidence": "0.6461908",
       "timestamp": 781.21,
       "content": "is it a freakonomics that's pretty neat george thank you",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "c8ecedaa-7a40-4267-9a82-916ece250723"
     },
-    "784.88": {
+    {
       "requestid": "f73dd6dc-e780-48bf-8f38-4db6f469a9f2",
       "confidence": "0.7445901",
       "timestamp": 784.88,
       "content": "for your help I think the question jasmine and I look forward to next one",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "1a6f843e-ee98-485c-9363-ba9b3a6a82d8"
     },
-    "798.6": {
+    {
       "requestid": "9b00f8cb-78f1-47e8-af88-61ea62991aff",
       "confidence": "0.7336545",
       "timestamp": 798.6,
       "content": "play podcast with news coming up on the next week and I mix radio steve levitan I answer your questions like what would happen if you put cameras in the classroom paqueta different idea like it because there so many ideas about what to do about public education and this is not one thing I've heard 4 end",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "8981f24b-b5f6-48c2-9710-a1f4071a4ba7"
     },
-    "817.82": {
+    {
       "requestid": "e91015c5-e448-4423-87e1-d67b47fcf620",
       "confidence": "0.6916031",
       "timestamp": 817.82,
       "content": "12 what do you think lebed's talking about right here",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "01957255-06e1-4b35-b388-97639f89ed2b"
     },
-    "822.03": {
+    {
       "requestid": "3f2a347d-e924-4612-9a2e-dddda67cfafa",
       "confidence": "0.7707476",
       "timestamp": 822.03,
       "content": "how many feet in a long time I think it's been numb",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "4d787d0b-e29c-4706-98af-4ae8ebe067d9"
     },
-    "825.79": {
+    {
       "requestid": "25562346-5f2b-42ab-b0cf-3e0bb0213995",
       "confidence": "0.5566375",
       "timestamp": 825.79,
       "content": "it's been nice at least probably close to 20th",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "106cdfd3-b644-4a81-a64e-79f5eaf87445"
     },
-    "830.98": {
+    {
       "requestid": "e91ff66a-9122-454a-a8ac-fc627ccdb14b",
       "confidence": "0.7081244",
       "timestamp": 830.98,
       "content": "it's another installment of faq the next time I'm free can I mix radio",
-      "speaker": "S116"
+      "speaker": "S116",
+      "uuid": "184586e0-6f90-47de-9574-d42c8f12d433"
     },
-    "839.7": {
+    {
       "requestid": "6312a765-7e97-4dd1-87a2-3b708f9422d0",
       "confidence": "0.6805868",
       "timestamp": 839.7,
       "content": "freakonomics radio is produced by w on my feet in dubner productions our staff include david herman greg rozalski credico nbra lamcy be like in bergen crispins and special thanks to capstraw hitaffer provided us with the voice of jasmine",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "8472e32b-4525-4db9-8929-fef008e19744"
     },
-    "854.61": {
+    {
       "requestid": "57ae96f2-640a-4a41-88e9-7fcf0d480aba",
       "confidence": "0.7048866",
       "timestamp": 854.61,
       "content": "and banks trailer center scott hechinger question inspired this episode if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com real fun lots of radio log books in morn",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "b80d32e9-2213-4ec0-99b2-39116f1c4c87"
     },
-    "878.12": {
+    {
       "requestid": "63005581-57eb-450b-93ef-e5612c19cba3",
       "timestamp": 878.12,
-      "content": ""
+      "content": "",
+      "uuid": "dca68eb2-73e5-4d50-a023-543f9b131925"
     },
-    "879.91": {
+    {
       "requestid": "7e6ecc22-083c-4a7d-bb3c-41eb410f9128",
       "confidence": "0.7138047",
       "timestamp": 879.91,
       "content": "oh we're done I was easy thank you thank you steven you are the bomb",
-      "speaker": "S127"
+      "speaker": "S127",
+      "uuid": "7ed94801-b928-4da8-a731-965409c226df"
     },
-    "886.58": {
+    {
       "requestid": "a2bf8fa8-e0cf-4d92-a846-21abb65f4a80",
       "confidence": "0.7638913",
       "timestamp": 886.58,
       "content": "oh and you are the fuse",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "c2d9a2ad-642b-445b-8e5e-833e5aa485d9"
     },
-    "889.58": {
+    {
       "requestid": "08b50f5c-5af7-43fd-a6bb-721490d7c042",
       "confidence": "0.6296449",
       "timestamp": 889.58,
       "content": "do you like absinthe jasmine let's get wasted",
-      "speaker": "S127"
+      "speaker": "S127",
+      "uuid": "d65eabe0-e920-4978-bba6-f29ca5b1c1b8"
     },
-    "895.6": {
+    {
       "requestid": "25c5ae94-f17d-42b2-a749-a89df8c3da3b",
       "timestamp": 895.6,
-      "content": ""
+      "content": "",
+      "uuid": "55499f10-1ff5-4287-85d4-f9df73c4fa76"
     },
-    "898.54": {
+    {
       "requestid": "ba5b67ac-bce4-40e2-a956-d61d6858afe7",
       "timestamp": 898.54,
-      "content": ""
+      "content": "",
+      "uuid": "98054ff7-6b0c-4a57-ac17-aaf67bb51d37"
     },
-    "900.94": {
+    {
       "requestid": "67edb61f-c60f-4c63-b573-bef31183337a",
       "confidence": "0.7950993",
       "timestamp": 900.94,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "287e3cfe-549c-4c63-aa26-a4d5b27025c5"
     },
-    "920.21": {
+    {
       "requestid": "672e61aa-09a5-4513-8165-b3cbc17e17fc",
       "confidence": "0.8987753",
       "timestamp": 920.21,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managed for free",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "e5f31fb5-94f5-4099-8620-05d659df8985"
     }
-  }
+  ]
 }
