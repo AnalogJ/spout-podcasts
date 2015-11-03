@@ -4,1941 +4,2224 @@
   "description": "<p>What does it mean to pursue something that everyone else thinks is nuts? And what does it take to succeed?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/ln4hrWYjJgA/freakonomics_podcast091814.mp3",
   "slug": "Outsiders-by-Design",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "4c730f35-4914-4b7c-a13e-0dbb2cab342f",
       "confidence": "0.7697672",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu working to help bring business stories and brands to life to arrange a printed pronox my business cards flyers stickers and postcards also offering design templates and the option to upload a personal design more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "558223ad-7c50-43b7-a897-0ffeb2aa79b8"
     },
-    "20.31": {
+    {
       "requestid": "3f464eb7-5a12-42fe-8181-a96e60de6f40",
       "confidence": "0.6262167",
       "timestamp": 20.31,
       "content": "play podcast listeners our mission at freakonomics is oistins tell you",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "aa185dba-e922-42d7-a5ba-3dc246750221"
     },
-    "24.53": {
+    {
       "requestid": "195620be-268a-43a7-9139-412852dad265",
       "confidence": "0.7101324",
       "timestamp": 24.53,
       "content": "thank you always thought you knew but didn't and things you never thought you want to know what do",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "91ff18c4-66af-4958-a28d-57d7f02e1027"
     },
-    "29.77": {
+    {
       "requestid": "d33d48a6-eeb6-4216-819a-083087dcd10c",
       "confidence": "0.7452728",
       "timestamp": 29.77,
       "content": "now it is your turn to tell us something we don't know on monday october 6 in new york city your lunch in a vibe radio game show called tell me something I don't know anybody that you in the store so",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "901806fe-cdc7-4f26-bc68-1d807d75b9f2"
     },
-    "44.67": {
+    {
       "requestid": "a3d42350-ab32-4a8a-b703-e293d3fbdf11",
       "confidence": "0.7379735",
       "timestamp": 44.67,
       "content": "you wanna get up on stage in new york and tell something fascinating please go to freakonomics.com slash tell me to find it might be an idea technological breakthrough new line of important research set of strange fact may be worth historical wrinkle or maybe just a great unasked question",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "f4f9b1e9-0b94-42f3-83d7-a6a7a9c31250"
     },
-    "63.19": {
+    {
       "requestid": "2eeae32a-33c6-4da2-94ba-89df214811f8",
       "confidence": "0.6395668",
       "timestamp": 63.19,
       "content": "all we ask is it missing you tell it is interesting that you worthwhile a little bit and not true there will be a fact checker on hand",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "baf2155a-7d63-4fa7-8c5b-4d9b3b19c7fe"
     },
-    "73.19": {
+    {
       "requestid": "6178bea9-9713-4e44-8a92-3443f8b5bbae",
       "confidence": "0.8089449",
       "timestamp": 73.19,
       "content": "grocery prices in celebrity judges who did malcolm gladwell again it is monday october 6 in new york city find up atfreakonomics.com slash tell me I cannot wait for you to tell me something I don't know",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "59837741-acf4-466c-b5e8-d1f358a34a97"
     },
-    "90.9": {
+    {
       "requestid": "0b9d16bd-fcab-40df-a0ff-e365c4586da1",
       "timestamp": 90.9,
-      "content": ""
+      "content": "",
+      "uuid": "9acc9848-d5d9-48b9-afaf-56ff2d44133c"
     },
-    "94.27": {
+    {
       "requestid": "ffee5fe9-b1b2-4c63-bede-841eb573f612",
       "timestamp": 94.27,
-      "content": ""
+      "content": "",
+      "uuid": "03e599c9-a381-4b26-9391-7b9b717f8d7f"
     },
-    "97.5": {
+    {
       "requestid": "4a75a64a-ec2e-4c41-bcd1-2a676dce8f49",
       "confidence": "0.6048847",
       "timestamp": 97.5,
       "content": "no one to his ideas particularly seriously",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "b52e0e01-f29c-48d2-b6cf-4778705edc9b"
     },
-    "100.86": {
+    {
       "requestid": "1e0f3c9b-9f45-459f-8c99-5fab6481131d",
       "timestamp": 100.86,
-      "content": ""
+      "content": "",
+      "uuid": "be810664-f46c-417e-8dcd-0a2378faca88"
     },
-    "102.78": {
+    {
       "requestid": "ca05a2c6-8c2e-4972-b949-d1d5c5bc8589",
       "confidence": "0.6398465",
       "timestamp": 102.78,
       "content": "and he was ostracized ocellated the whole team is mad at in this trillion parlons a complete and utter",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "84d5a822-e677-4cf0-a06e-7c433df3dfdc"
     },
-    "109.78": {
+    {
       "requestid": "a83bc54f-0482-41f9-9bf8-e61762383123",
       "confidence": "0.8564078",
       "timestamp": 109.78,
       "content": "you know they were people called in the great american humorist with in the profession",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "2fb90000-1a82-45e8-bfbd-acfb85afb7b2"
     },
-    "114.74": {
+    {
       "requestid": "00c558a5-392d-47ac-b1a1-2df10813e522",
       "confidence": "0.6370386",
       "timestamp": 114.74,
       "content": "he was intellectually I know you got this idea and no one is potentially interested in it by god he was going to do it on his own if it killed in",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "60a7f27f-a51f-4b96-970d-149db94e6196"
     },
-    "130.56": {
+    {
       "requestid": "62a7d637-edb2-489c-81e2-d79b3e8b9f62",
       "confidence": "0.6603039",
       "timestamp": 130.56,
       "content": "is it sound like anyone you know",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "c5810524-b30d-45dc-8853-f91034df9178"
     },
-    "132.96": {
+    {
       "requestid": "96b4bfd7-33f2-46d5-878f-96f60abeee07",
       "confidence": "0.6409794",
       "timestamp": 132.96,
       "content": "bedemon sounds like you",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "685f9a8e-065b-4a8f-8b72-efeca2416680"
     },
-    "137.36": {
+    {
       "requestid": "7bb74874-c4da-4bd1-adb1-3430cf8c65cf",
       "confidence": "0.7911208",
       "timestamp": 137.36,
       "content": "might be interested in today show we tell the story 3 people whose lives",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "6d68c486-27fc-4d5f-b555-f973dcdc25de"
     },
-    "142.82": {
+    {
       "requestid": "98504138-8b4b-4b2d-a783-9142917c0f96",
       "confidence": "0.6539888",
       "timestamp": 142.82,
       "content": "which is they did live did not precede in a perfectly straight line",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "3c09f57f-32d1-43a4-8c9f-036f9b38c7f8"
     },
-    "148.31": {
+    {
       "requestid": "1abaa585-73ff-41aa-b7b2-37ac96788ce1",
       "confidence": "0.7675108",
       "timestamp": 148.31,
       "content": "what episode is called outsiders by design",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "a5f7c096-4164-43e3-90d0-600b1af27a38"
     },
-    "151.84": {
+    {
       "requestid": "4bb15bb6-7320-4d49-bcbe-a33f0d06ad89",
       "timestamp": 151.84,
-      "content": ""
+      "content": "",
+      "uuid": "ccf0219b-c7d4-4024-8182-5c5aab6e946a"
     },
-    "154.13": {
+    {
       "requestid": "84f037c8-096a-4621-b56a-1ff1481fac33",
       "timestamp": 154.13,
-      "content": ""
+      "content": "",
+      "uuid": "89cb9d38-7cc7-43b9-9609-9d579bee9e05"
     },
-    "163.42": {
+    {
       "requestid": "e54337db-a558-49f9-8d94-96ae2e22d644",
       "confidence": "0.6300644",
       "timestamp": 163.42,
       "content": "wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "cefb9ba8-6460-4f37-bfc8-8a68f5985fe9"
     },
-    "171.01": {
+    {
       "requestid": "dcb9cd8b-d9ed-4467-b600-c49ffd54bb86",
       "confidence": "0.3948259",
       "timestamp": 171.01,
       "content": "here's your host diesin.net",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "e83edaa1-9e25-4bd9-9d2b-ca9222293d20"
     },
-    "178.85": {
+    {
       "requestid": "3447eaf9-516a-4b6e-ad92-43120752d3c5",
       "timestamp": 178.85,
-      "content": ""
+      "content": "",
+      "uuid": "f2ba31f1-f18e-4c91-8023-a1c648231f15"
     },
-    "182.21": {
+    {
       "requestid": "ee2397b9-58ee-4ad4-ae6f-df0b35d7217f",
       "confidence": "0.8385268",
       "timestamp": 182.21,
       "content": "this episode was inspired by the recent death of gary becker now since you listen to freakonomics radio you may have heard the back of the most people probably haven't he was born in 1930",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "c5cbf066-077c-44fb-8d17-b144001b3052"
     },
-    "193.86": {
+    {
       "requestid": "094a7597-51bb-4ea5-8bc7-6afa36731c6b",
       "confidence": "0.6307999",
       "timestamp": 193.86,
       "content": "dropping brooklyn news good student at 16 he faced important addition to win the handball team for the math team is better in handball ricco's mass",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "e8457f29-72fa-4724-9d66-175646e83a7a"
     },
-    "206.22": {
+    {
       "requestid": "8995a459-d5b2-41fe-ad1f-de24cbf58728",
       "confidence": "0.5522557",
       "timestamp": 206.22,
       "content": "got into princeton where he studied economics even though the fit within point",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "de9795b6-37d1-42b4-a669-9773f31540d0"
     },
-    "212.26": {
+    {
       "requestid": "fc32af9c-37d6-4468-bbe4-7a9840c78145",
       "confidence": "0.5587231",
       "timestamp": 212.26,
       "content": "when I first start take me to nomics how much left it in my senior year because it change a engine dealer in boy problems so she ology for example dead",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "f7dd849b-eda4-4f2b-9c49-49576fd29e65"
     },
-    "222.16": {
+    {
       "requestid": "68d3da06-ad35-4669-abc7-dff6b27b2551",
       "confidence": "0.6972226",
       "timestamp": 222.16,
       "content": "and I tried thing about sociology but I finally decided will too hard",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "838b4a07-4c95-4aa4-95b0-ac4cf6abf5aa"
     },
-    "227.62": {
+    {
       "requestid": "3bf65996-56e1-49c1-ae1c-fc9f10468a5f",
       "confidence": "0.6526126",
       "timestamp": 227.62,
       "content": "well he said that when he went to college she his interest was in them in the traditional subjects the sociologist study",
-      "speaker": "S32"
+      "speaker": "S32",
+      "uuid": "b51fbc7a-b828-41ed-993c-f871c37651cf"
     },
-    "237.61": {
+    {
       "requestid": "3bdedc8e-8796-4933-b122-630c8337dada",
       "confidence": "0.7057213",
       "timestamp": 237.61,
       "content": "richard posner he's a judge on the us court of appeals in chicago ulpha teaches laute university of chicago ski in becker with longtime friends",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "e8b22f69-eb8a-4422-9dda-abe9f7ab642e"
     },
-    "246.89": {
+    {
       "requestid": "dd80b958-aa05-4715-8922-6896fd845430",
       "confidence": "0.6672269",
       "timestamp": 246.89,
       "content": "but he thought that sociology was your week field analytically where is economics at had a great deal more raider and he thought that the masses of economics could be used to deal with sociological issues",
-      "speaker": "S34"
+      "speaker": "S34",
+      "uuid": "bc185f0f-0cd8-4eea-9586-0edb1a8122d8"
     },
-    "265.99": {
+    {
       "requestid": "95cd1c68-ad4c-4b29-8b6e-afe8da7bcccb",
       "timestamp": 265.99,
-      "content": ""
+      "content": "",
+      "uuid": "ade4b95a-40da-4672-bd5e-557e8cedcf17"
     },
-    "269.41": {
+    {
       "requestid": "a2beac13-a12f-4dba-8679-a3b503eb20f3",
       "confidence": "0.8599683",
       "timestamp": 269.41,
       "content": "becker went on to get his phd in economics at university of chicago it took a course with milton friedman",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "63a586da-d91c-42ba-b72a-62ebf4bb80d6"
     },
-    "277.26": {
+    {
       "requestid": "8536a0e7-ebe7-41f2-b5e8-1424da185a79",
       "confidence": "0.7408219",
       "timestamp": 277.26,
       "content": "who was in the midst of redefining",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "15f623ca-6e32-4843-b10a-263b8a6a0eb8"
     },
-    "280.4": {
+    {
       "requestid": "f66d0de2-67f7-4e7b-bafb-990a9a8d57c5",
       "confidence": "0.6379204",
       "timestamp": 280.4,
       "content": "to 20 years earlier economics",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "57c96bcc-49d6-40bc-98c3-81c3264fcaad"
     },
-    "282.66": {
+    {
       "requestid": "dc8ee7d5-b87c-494a-9c01-ddfecaa3e6b8",
       "confidence": "0.5152039",
       "timestamp": 282.66,
       "content": "met him money and banking meeting nash matrade imcf anatomy",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "685dd8b7-a028-4b7a-b61b-0492af90e23d"
     },
-    "286.75": {
+    {
       "requestid": "09426b1c-3dad-487a-82bf-2377082f7536",
       "confidence": "0.4688371",
       "timestamp": 286.75,
       "content": "clearly defines the topic bats the harvard economist at laser nokia methodology",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "e35cff23-e54d-41e9-afeb-3ed395d4a274"
     },
-    "292.46": {
+    {
       "requestid": "e2ccb8d7-5007-4ba5-9145-f94f12625d45",
       "confidence": "0.6699654",
       "timestamp": 292.46,
       "content": "give me to connect with as much moral philosophy aazk in modern social science during those early years but there is a free minute comes along and says no economics is about science about science do with human being",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "0014c474-fe5d-4b2e-b06e-f171abed9404"
     },
-    "304.86": {
+    {
       "requestid": "fe7495b2-dc73-465b-9e98-ea78c0930a69",
       "confidence": "0.7026393",
       "timestamp": 304.86,
       "content": "and decker for anyone else but ation of that which is well if it's bad sign supply do you want beans why do I have to work on money and banking why can't i work on something it seems like AA more pressing social problems like discrimination over to my shop",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "78505c8a-187e-4fa6-9b8e-a9551fc25473"
     },
-    "319.25": {
+    {
       "requestid": "fd6d5339-2c56-4f34-9558-10f5e947de25",
       "confidence": "0.5223193",
       "timestamp": 319.25,
       "content": "show arby's scream nation such an important topic",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "266c7d97-2838-4793-b591-c9a83a803676"
     },
-    "323.22": {
+    {
       "requestid": "88298b10-fec0-4469-a904-11be32f7f2c2",
       "confidence": "0.5785508",
       "timestamp": 323.22,
       "content": "I'm not economus don't see it in the van so you don't have to say it each other",
-      "speaker": "S30"
+      "speaker": "S30",
+      "uuid": "11f28044-ed72-48f5-82ff-8abe9ef7cc2a"
     },
-    "329.28": {
+    {
       "requestid": "f92a4878-5172-4da0-a14c-6c2af0b11264",
       "confidence": "0.5593674",
       "timestamp": 329.28,
       "content": "is approches watch call rational choice since this is the song that people are rational trying to maximize their utilitaire in other words you're there will ferrell happiness so forth in all the main supply",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "ed7c0eb7-8381-4724-85c5-cd4cff05ddff"
     },
-    "345.81": {
+    {
       "requestid": "4c0280d4-1f9b-4770-9972-869a6a69d23a",
       "confidence": "0.7201459",
       "timestamp": 345.81,
       "content": "kim possible to overstate how radical it was the famous toys the back and told that people in the room and he's giving a seminar with a half day I thought this would be a bad price discrimination so it's clear this with something it's not at all treated with some degree of reverence because it doesn't look or feel like I'm",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "9955c551-83b9-4533-8950-ce018fbf0d21"
     },
-    "363.01": {
+    {
       "requestid": "982de279-82fc-4d57-9153-ca99047fe95d",
       "confidence": "0.6065133",
       "timestamp": 363.01,
       "content": "it wasn't regarded as an economic feel",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "a579e3f3-58c8-4ac6-abfd-4efcc70ceb87"
     },
-    "366.25": {
+    {
       "requestid": "8258396c-3f38-405b-a1ae-5884b1eb3910",
       "confidence": "0.6226246",
       "timestamp": 366.25,
       "content": "and gary was actually laughed out loud here is rather bitter about the reception that is",
-      "speaker": "S50"
+      "speaker": "S50",
+      "uuid": "40407bcf-cec6-4b58-8241-0c71c542bc8f"
     },
-    "375.79": {
+    {
       "requestid": "23540ad8-8a68-41a0-8cec-6408065aa056",
       "confidence": "0.5638191",
       "timestamp": 375.79,
       "content": "where had received",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "2545b6d3-2089-453b-83f8-e8fc74a6f422"
     },
-    "379.68": {
+    {
       "requestid": "b6f7ce85-ec16-4fb9-85bd-0e207a882f22",
       "confidence": "0.7079431",
       "timestamp": 379.68,
       "content": "becker believe any domain of human activity was worthy of ekonomist britney so it wasn't just discrimination",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "b0d14438-95c9-48f3-a760-e504b0c6b9ef"
     },
-    "386.73": {
+    {
       "requestid": "663d16f5-7f87-4233-88ce-57c0c30d2497",
       "confidence": "0.7594659",
       "timestamp": 386.73,
       "content": "he studied economics of marriage and childbearing he wrote a paper called fury on the allocation of time I'm at harbor today edgley's are still teaches in 1968 gary becker paper called crime and punishment and economic approach to blezer introduced the idea twist",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "d97c5fc6-e06f-4872-a3d8-6534eed9f6c7"
     },
-    "405.42": {
+    {
       "requestid": "43448dca-eefc-4014-adc3-b9397109165d",
       "confidence": "0.8442876",
       "timestamp": 405.42,
       "content": "we are all criminals right I certainly did not driving 55 miles per hour all the way out to work today and II cannot promise that I have you know I stopped at the red light on every street getting to this lecture and I'm sure that all of us have things to be of",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "397d9db5-325b-4134-94e8-510dfa0e9106"
     },
-    "418.72": {
+    {
       "requestid": "ffa91b3a-fb7b-443a-855c-d5ee756bbdfd",
       "confidence": "0.6854407",
       "timestamp": 418.72,
       "content": "violated to greater or lesser degree and I think that serve respect shown for people who have chosen to violet light is really crucial",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "a9bd2924-ee4a-4ebf-9e46-b9270613dd0a"
     },
-    "425.95": {
+    {
       "requestid": "0dce95c2-1f77-4044-8a79-179192801d15",
       "confidence": "0.5969561",
       "timestamp": 425.95,
       "content": "and if you think about to tell me that late obviously a power that observation to solve the puzzle that supposed to deliver cities in the fact that",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "6379059b-78a0-4c20-9fe6-e47ebbd82986"
     },
-    "434.59": {
+    {
       "requestid": "123ec969-855f-4520-a1e2-4aab84f4e278",
       "confidence": "0.7404938",
       "timestamp": 434.59,
       "content": "you know you sent people to prison and they decided to go back to crime again well if you have some view that they are sadly misinformed subhuman people who with a little bit of right thinking you can convince to go straight what is a puzzle if you bukra nose is being people who made the decision to undertake up taking a profession",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "e6818b29-d0d9-4bc6-9cfa-76a804c0bddd"
     },
-    "451.95": {
+    {
       "requestid": "97561eb9-28f5-4e1b-8f93-63d8a9f584e1",
       "confidence": "0.6556188",
       "timestamp": 451.95,
       "content": "I at why should cinemart cinemark to be a guest of state for couple of years choosing to change that choice professional that made sense before and it would make sense that would imagine immediate indication of this",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "e2a0ecf5-80f2-484b-8e86-7eba50455973"
     },
-    "463.2": {
+    {
       "requestid": "e76a5631-930a-43b6-bc89-dd264d152b63",
       "confidence": "0.6412832",
       "timestamp": 463.2,
       "content": "do criminals is being rational",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "9b34fd80-4ef4-464b-bf36-196fbe8d2445"
     },
-    "469.91": {
+    {
       "requestid": "359d30aa-d857-40e1-b61d-b57582bead73",
       "confidence": "0.6920274",
       "timestamp": 469.91,
       "content": "had his supporters more common with the detractors thought his work place somewhere between silly and worthless",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "8f467d81-b2f8-45a5-8255-de5ba6f1e24d"
     },
-    "478.73": {
+    {
       "requestid": "3dfd983a-d2c2-44fb-bdc7-cfc017bfd761",
       "confidence": "0.751868",
       "timestamp": 478.73,
       "content": "you know they were people called in the great american humorist within the profession is that famous article on the economics of brushing your teeth which is clearly sort of mocking the back care in approach so clearly they were people who email for whatever reason thought it was embarrassing to professional war",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "be180632-dfa1-452a-944a-a3d51ba5f9be"
     },
-    "495.82": {
+    {
       "requestid": "7256b9c8-198e-42e4-9d98-fe5c220ecbaa",
       "confidence": "0.4781132",
       "timestamp": 495.82,
       "content": "yovany quakecon a mess I should be about",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "02dadd17-e321-4069-9f2d-c9a163e34220"
     },
-    "499.79": {
+    {
       "requestid": "db8052d6-d700-4aa6-aa00-61d7a6fba670",
       "confidence": "0.7650929",
       "timestamp": 499.79,
       "content": "do you like it a lot",
-      "speaker": "S80"
+      "speaker": "S80",
+      "uuid": "32be46cc-b54f-4c3f-a4e1-ba24c8425353"
     },
-    "501.62": {
+    {
       "requestid": "e2653ebe-e0d5-439f-a998-4e60a5eeacaf",
       "confidence": "0.5885982",
       "timestamp": 501.62,
       "content": "always criticize the light by another very distinguished economist university chicago ronald coase because choset economics is the study of the economic system period nadavi entire social system",
-      "speaker": "S80"
+      "speaker": "S80",
+      "uuid": "bbff47a6-a365-4164-987f-576b1b880697"
     },
-    "518.7": {
+    {
       "requestid": "e5ec2467-d3a5-4442-987f-8c119cff26b7",
       "confidence": "0.5455008",
       "timestamp": 518.7,
       "content": "oncourse kerry had a very more expensive use the scope of economics",
-      "speaker": "S80"
+      "speaker": "S80",
+      "uuid": "9d9bce82-2809-489a-8781-07e5ea8fdf2f"
     },
-    "524.04": {
+    {
       "requestid": "d42e193b-c021-4e15-8e08-378be4e1b180",
       "confidence": "0.7445356",
       "timestamp": 524.04,
       "content": "there is a big disagreement",
-      "speaker": "S80"
+      "speaker": "S80",
+      "uuid": "729efbc8-04b8-430b-ac62-710a4834dd51"
     },
-    "526.19": {
+    {
       "requestid": "b1595dc9-b528-4e41-ad13-d33fc4b8c48a",
       "confidence": "0.654591",
       "timestamp": 526.19,
       "content": "chris get probably stonham more than I more than he would you sleep mad at me he was that he was a pretty mean guy was not to let it all hang out kinda guy",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "3e28b386-db60-494a-a3a1-470e9a90a93a"
     },
-    "536.24": {
+    {
       "requestid": "675c1a21-9c78-4dd4-9e4a-99e38568e837",
       "confidence": "0.8081992",
       "timestamp": 536.24,
       "content": "becker preferred to keep his head down do is work",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "f6a78408-0804-46a6-a6b2-19b6f3030026"
     },
-    "539.51": {
+    {
       "requestid": "b236081f-161b-43d2-9635-1c034d753f79",
       "confidence": "0.684532",
       "timestamp": 539.51,
       "content": "he was a bit on self advocacy",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "169e4098-600b-4e4a-830a-585a2186a4d2"
     },
-    "542.24": {
+    {
       "requestid": "ea32c884-095a-457e-90a0-060dfed5fd1b",
       "confidence": "0.4720361",
       "timestamp": 542.24,
       "content": "I was george rashied person update me when I was younger I'm so alone is aggressive person juroku out there always talking about everything they know it was in my nature",
-      "speaker": "S86"
+      "speaker": "S86",
+      "uuid": "516b8c66-2e4a-4e5c-81d5-92c25e0e075c"
     },
-    "556.49": {
+    {
       "requestid": "6e1cbc91-7a39-46ba-a008-738f2b295afa",
       "timestamp": 556.49,
-      "content": ""
+      "content": "",
+      "uuid": "f7a5f9f8-8ed6-4053-8f99-c7aa38a9fc98"
     },
-    "560.15": {
+    {
       "requestid": "89f19f41-0e65-4595-bc83-606cd806a7da",
       "timestamp": 560.15,
-      "content": ""
+      "content": "",
+      "uuid": "1389c131-623a-4d85-ba4c-e8df6a2b60d9"
     },
-    "563.41": {
+    {
       "requestid": "bd21ec42-ba7d-4831-9d5c-ca565477dd12",
       "timestamp": 563.41,
-      "content": ""
+      "content": "",
+      "uuid": "f32a86a6-6bb6-44a4-8702-2579af87cb91"
     },
-    "565.7": {
+    {
       "requestid": "3ff0e5fb-6b43-4330-ad8c-735788b55c33",
       "confidence": "0.7924101",
       "timestamp": 565.7,
       "content": "what does the universe do with something like this comes out there on his own on his own off kilter curiosity's and sensibilities",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "fd96bdea-4dc3-49bd-bcf0-3bfb06d0454b"
     },
-    "575.48": {
+    {
       "requestid": "02c71fda-1c1d-461b-8d36-ac2374264979",
       "confidence": "0.7084461",
       "timestamp": 575.48,
       "content": "you know the universe does ridicule them beat them up maybe just ignores them as we all know if you want to get ahead in life",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "7fcfc5ba-8c1b-4c86-8a91-0ddb7c8e4eef"
     },
-    "585.12": {
+    {
       "requestid": "0e93b6f5-57ce-4427-b2f8-6792bae8738a",
       "confidence": "0.8448492",
       "timestamp": 585.12,
       "content": "yep the color inside the lines no excuses no exceptions no papers on the economic crime no more crazy ideas of any sort thank you very much",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "d0844e73-0009-4085-8d7a-2dddc05f82a7"
     },
-    "597.79": {
+    {
       "requestid": "e0ae9d66-c6b6-4cad-bbee-0dd75dc539eb",
       "confidence": "0.64344",
       "timestamp": 597.79,
       "content": "on the phone he was mad at in this trillion parlance a complete and utter",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "9facd4e3-b20a-44d5-b1f8-a59202ad28f4"
     },
-    "609.3": {
+    {
       "requestid": "d1d1d857-4e8e-4ec9-9043-48136dd5b475",
       "confidence": "0.8471768",
       "timestamp": 609.3,
       "content": "around the time gary becker was getting beaten up for papers like on the interaction between the quantity and quality of children",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "242c769b-3372-412e-ac64-4ff25ffcfa16"
     },
-    "616.7": {
+    {
       "requestid": "cade28a2-5ae9-4566-9d99-c8d7571fab16",
       "confidence": "0.6400175",
       "timestamp": 616.7,
       "content": "are young australian doctor dan berry marshall just getting is cleveland away support when she said sing a little bit in terms of barry and his personality test norman swan he's a renowned medical journals in australia who trained as an md himself",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "2f188b8b-08a0-4978-864b-47957e49331b"
     },
-    "634.89": {
+    {
       "requestid": "5a8037aa-ddff-45c4-ac8b-dc8589f509da",
       "confidence": "0.6279712",
       "timestamp": 634.89,
       "content": "who is word in australian english which is lyrica and it just means somebody who's",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "9df56829-485c-4550-b4e4-dbcb6d03ae79"
     },
-    "641.17": {
+    {
       "requestid": "ab698884-3c78-4d41-8d30-1a901ab7435c",
       "confidence": "0.75059",
       "timestamp": 641.17,
       "content": "the lads who I am doesn't respect authority",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "21f2dbf2-8247-401a-819f-c406cc2c7221"
     },
-    "646.3": {
+    {
       "requestid": "ffe75bb5-2cc4-447f-88ab-0ba5565b1b73",
       "confidence": "0.6564502",
       "timestamp": 646.3,
       "content": "what is honest and straight arm but but doesn't mind irritating people in annoying people that was barry he came from acentria working class family and he going to matts and body wash in star in medical school",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "f8aafb88-dea6-4760-ad38-d2ae1a90fafd"
     },
-    "661.69": {
+    {
       "requestid": "6e788b55-ba7e-4edc-b04c-73f777df4bbf",
       "confidence": "0.7404318",
       "timestamp": 661.69,
       "content": "we didn't win any medals and then he started training as a specialist position to get a specialist exam does he need to do research project and was looking around for one and he came across this shy retiring daykeeper photoscore on warne",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "9b5b662e-f58a-4f62-89a2-a836df49143b"
     },
-    "679.03": {
+    {
       "requestid": "3a1b4411-f34c-4950-a654-34d1ca52b693",
       "confidence": "0.66033",
       "timestamp": 679.03,
       "content": "who had notice when he was doing biopsies of all sorts of these bacteria there what were they doing there buddy need some help and just by happenstance barry was looking around for his research",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "ad58375c-2679-488b-9b72-92e0e3d0ac46"
     },
-    "692.28": {
+    {
       "requestid": "88897115-1328-4cea-8051-b0154017475d",
       "confidence": "0.7268931",
       "timestamp": 692.28,
       "content": "project and this was in meeting me",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "6f6bc90e-6dd0-47f6-b039-e9ee326638f9"
     },
-    "696.72": {
+    {
       "requestid": "6d986633-5ddc-4727-8376-742cc42ca183",
       "confidence": "0.6437048",
       "timestamp": 696.72,
       "content": "the notion that bacteria might be causing an intestinal illness seems far fetched to the long been held at the gastric environment is too acidic the bacteria thrive they were thought to be incidental to the action",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "026fe441-9275-4899-b3a1-df822f4dd0a6"
     },
-    "710.7": {
+    {
       "requestid": "b052ff56-d85a-4315-9a9c-feff3275eab0",
       "confidence": "0.6807475",
       "timestamp": 710.7,
       "content": "it is tempting in the modern age to think about madison as a massive body of noon provable fine",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "588fd60e-0b06-4e34-b896-f7ad5cff4878"
     },
-    "718.75": {
+    {
       "requestid": "45abac4f-390b-42a6-b317-432548d88fc1",
       "confidence": "0.6511943",
       "timestamp": 718.75,
       "content": "the more windows bout madison more one will acknowledge how much is not known even about something as seemingly street bored as the altar",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "baa17688-0f25-4cb5-b6e4-9696659cb9e4"
     },
-    "729.36": {
+    {
       "requestid": "b0834a21-4c91-4f94-9e53-5551eabdd1e9",
       "confidence": "0.4645465",
       "timestamp": 729.36,
       "content": "who is it out ideas floating around bless you",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "f26dde9e-1d7c-4332-9b3a-e6d68ab253a9"
     },
-    "733.67": {
+    {
       "requestid": "0333ebdb-5135-405a-8e0a-acd9108b6e46",
       "confidence": "0.6319834",
       "timestamp": 733.67,
       "content": "know steve is it makes is not very good on mechanism doctors post hawk invent mechanisms in many ways to explain phenomena that macy and the mechanisms did not easily explain ulcer disease so nobody had an idea really what caused and roll sorts of series",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "fffba7bf-8aa0-470b-96f8-1356c4e86c1a"
     },
-    "751.65": {
+    {
       "requestid": "657cd85e-5b9c-48d3-a85b-d0435c861d60",
       "confidence": "0.6899496",
       "timestamp": 751.65,
       "content": "I'm stressed and indeed keep stress can cause ulcers but you don't let me be chronic stress did people thought that smoking increase the risk and smoking affect does increase the risk",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "a3fa864d-b1c2-4df0-9af0-90d4af3c5d8f"
     },
-    "763.61": {
+    {
       "requestid": "6e622c01-7e49-4bdb-9c3c-b9a919318524",
       "confidence": "0.6982264",
       "timestamp": 763.61,
       "content": "at the time authors weren't cured they were merely treated or manage not all that well",
-      "speaker": "S125"
+      "speaker": "S125",
+      "uuid": "ffcdd3e7-c521-4ec1-b747-4887078d2f05"
     },
-    "770.57": {
+    {
       "requestid": "3698ccbc-86ba-493c-8edd-3c8a961facec",
       "confidence": "0.5568685",
       "timestamp": 770.57,
       "content": "when I trained in midson the rio was only one effective treatment if you had a gastric cardia deal also",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "6dc1e3bc-22e7-40d1-87d5-bc9a373bd4bd"
     },
-    "779.14": {
+    {
       "requestid": "abe61f33-3dfc-4527-8a6e-150febc851f3",
       "confidence": "0.6899096",
       "timestamp": 779.14,
       "content": "I have a surgery where they cut nerves to the acid producing areas of the stomach to reduce acid and then they develop drugs which actually turned off the acid",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "75bdb772-d9cd-479d-9345-069a5a8bca3e"
     },
-    "791.83": {
+    {
       "requestid": "2ed33e14-1ce8-4afe-80f6-e08a293cc17d",
       "confidence": "0.6452144",
       "timestamp": 791.83,
       "content": "and these were massive industries not just for treating ulcers will treat ulcers they actually treated the symptoms I'm settled am done with my heart again ulcer healing this is a multi billion dollar international industries",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "83c352a6-9c77-4285-81cd-74b17f739b4e"
     },
-    "810.5": {
+    {
       "requestid": "473fd39a-5317-48a7-bbf7-eb7a5b74a981",
       "confidence": "0.7776732",
       "timestamp": 810.5,
       "content": "seferi marshall suspected that all this conventional wisdom might be wrong",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "31c63303-1602-4001-93ae-b9aaa2b3d935"
     },
-    "816.27": {
+    {
       "requestid": "7cd8903a-c6eb-4e14-bd67-350584c3270e",
       "confidence": "0.7244111",
       "timestamp": 816.27,
       "content": "she wondered if the author the foundation of a multibillion dollar industry which didn't even sure it if the author were perhaps related to the squiggly bacteria that he and robin more and more study",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "f6ce305f-c15a-4c5f-b5df-3e9130d5ec54"
     },
-    "828.2": {
+    {
       "requestid": "ee4ffdda-5eef-43f3-900c-df32181abd0d",
       "confidence": "0.7959692",
       "timestamp": 828.2,
       "content": "is bacteria came to be known as helicobacter pylori marshall was working hard in the lab trying to learn the batteries prop",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "ae71e68d-8fde-4595-8553-66946f50e108"
     },
-    "837.46": {
+    {
       "requestid": "3cf939e7-771a-4ae9-8597-079b7c4d1057",
       "confidence": "0.676879",
       "timestamp": 837.46,
       "content": "who is it some animal experiments that we could not",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "b55962ea-f5d5-4d43-ad5d-ed9b9e64ca5d"
     },
-    "840.43": {
+    {
       "requestid": "df1fb34c-241f-4146-b56a-e6af874535bd",
       "confidence": "0.6389447",
       "timestamp": 840.43,
       "content": "mike the human bacteria in food animals such as rectum pete to marshall nextstep zobia sorry I said I have to take it out on a human",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "957e3a9c-a78d-488e-a329-5c767f2216bd"
     },
-    "849.96": {
+    {
       "requestid": "41ce0a76-0c56-4648-9605-3b1cb0659ccd",
       "confidence": "0.6398581",
       "timestamp": 849.96,
       "content": "I'm eating a potentially dangerous bacteria to human test subjects not so easy",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "b12ab371-6bc0-4ee9-b612-be4e3320e0d3"
     },
-    "857.52": {
+    {
       "requestid": "12a8d2e0-69de-43d8-9cae-43b43aba53c9",
       "confidence": "0.849453",
       "timestamp": 857.52,
       "content": "and therefore will I decided that I was gonna have to drink the bacteria myself",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "3bc367ff-2d6b-41bc-ae18-abb08d7e7d66"
     },
-    "862.79": {
+    {
       "requestid": "525db447-769a-45e3-9f80-bb203ba5145a",
       "confidence": "0.5758164",
       "timestamp": 862.79,
       "content": "nothing would happen I'll just be having no symptoms for a few years and they don't have an elsa and then hallelujah",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "c3872de8-ee47-4ace-9a09-c36e898d84b8"
     },
-    "870.11": {
+    {
       "requestid": "a8d54c40-5d69-413c-908e-2eea904b111d",
       "confidence": "0.6022877",
       "timestamp": 870.11,
       "content": "living proof marshalls first had to make sure his phone got didn't already contain any of the sekiryo he asked a colleague to give him an endoscopy and he",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "0a536349-ff94-44b5-a3ce-c97b64977592"
     },
-    "881.36": {
+    {
       "requestid": "d016f0d2-e724-40bb-b0d3-a5c3614c8d29",
       "confidence": "0.589492",
       "timestamp": 881.36,
       "content": "I think you knew what was going on buddy said he put the skype tell me some fairy look it up why I'm doing this site he took a biopsy from me and then divide that will clear",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "318e730c-589c-468f-b258-1e0e29459935"
     },
-    "892.98": {
+    {
       "requestid": "b6530e38-80f2-448c-9915-a93f71de9d40",
       "confidence": "0.7763554",
       "timestamp": 892.98,
       "content": "I bet period marshall didn't tell anyone what is about to do",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "9b455512-beec-4d49-bd03-337a81de5738"
     },
-    "898.5": {
+    {
       "requestid": "eed37f2c-c0f8-489c-8221-9319dbe85770",
       "confidence": "0.7202656",
       "timestamp": 898.5,
       "content": "that is richard partner rob moran",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "1f75526f-af65-498b-a081-cc4dd67cb4ad"
     },
-    "900.83": {
+    {
       "requestid": "9ba469e6-394c-4f23-9e9b-418a23b5ba00",
       "confidence": "0.5807211",
       "timestamp": 900.83,
       "content": "if it was successful and I did develop anassa world problems from back to the proof that they were harmful and possibly all is right they could cause ulcers what is nothing happened that made it not to use abrasives bilingues wasted",
-      "speaker": "S137"
+      "speaker": "S137",
+      "uuid": "7afbe971-ec74-4041-a714-120f65fa8200"
     },
-    "916.89": {
+    {
       "requestid": "c91e621f-9fb1-4e27-8be0-135a8910d8be",
       "confidence": "0.6281442",
       "timestamp": 916.89,
       "content": "berry marshall drink bacteria",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "110f0025-3e30-42b6-8d50-85c4a3c85a95"
     },
-    "920.57": {
+    {
       "requestid": "16efa5a7-4dc3-493f-8b67-70412692aed5",
       "confidence": "0.8110455",
       "timestamp": 920.57,
       "content": "the 2 years that turned out to not waste",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "eb075d17-090c-4a69-ac49-ab7f88e80366"
     },
-    "923.64": {
+    {
       "requestid": "484d2442-731b-4ab0-ad0c-bda7d5d8fb22",
       "confidence": "0.5997353",
       "timestamp": 923.64,
       "content": "how to best 5 days without having vomiting attack another endoscopy in the bacteria with every way they were absolute millions of them in the lining of my stomach so at that point proven the bacteria could affect a healthy person in court",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "7f2188ca-754a-44ee-b7db-16a5cc5c8978"
     },
-    "938.82": {
+    {
       "requestid": "129be29a-c5e3-4bce-ada3-acacb00f23e9",
       "confidence": "0.6066916",
       "timestamp": 938.82,
       "content": "gastritis having studied the bacteria in the lab",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "4b75d312-e44a-44a6-bdb1-a48c1c55da63"
     },
-    "942.51": {
+    {
       "requestid": "1e055c3d-1b8a-4621-a9b1-dfbf084b2f8c",
       "confidence": "0.7070236",
       "timestamp": 942.51,
       "content": "marshall new what kind of antibiotic you can treat it with soap took me into biotic quickly made himself well",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "80a07bd9-257e-4138-9299-d5c4b6cc763c"
     },
-    "950.7": {
+    {
       "requestid": "680619b6-ed22-4f21-84cd-8909ae88d68d",
       "confidence": "0.515758",
       "timestamp": 950.7,
       "content": "norman swanigan big dumb balticon know the killer expire",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "55840522-5db0-47dd-94f8-38578c5086a1"
     },
-    "956.05": {
+    {
       "requestid": "ea69c834-af21-4b50-a7b5-13121a2c4045",
       "confidence": "0.2978084",
       "timestamp": 956.05,
       "content": "sports fever is kieselbach was with the killer expelled",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "194741d1-064e-46ba-9f64-8f6a99bc9741"
     },
-    "961.73": {
+    {
       "requestid": "26e74f6c-107c-4c5b-b7c5-0b72d189b9ee",
       "confidence": "0.6388487",
       "timestamp": 961.73,
       "content": "perry marshall sopro be some self that bacteria with the true cause of what happen now did the worldwide medical community immediately who is marshawn their shoulders and praises breakthrough",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "15b01673-c5cf-4437-97e1-1056042bd729"
     },
-    "976.33": {
+    {
       "requestid": "21be169f-b703-499b-abfc-a994fbecdbae",
       "confidence": "0.6132141",
       "timestamp": 976.33,
       "content": "no they did his research was ridiculed dismissed bad mouth",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "ccfa7db7-a017-4770-b7e3-4bd2b55c0e72"
     },
-    "983.15": {
+    {
       "requestid": "fee4d06d-2cd6-4861-ad23-6409b1f1c746",
       "confidence": "0.6551652",
       "timestamp": 983.15,
       "content": "the response I think police in australias was dominated by down the response to barry he wasn't from the establishment he wasn't one of am",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "72351fc9-6a75-435b-b428-385da3be6a48"
     },
-    "996.17": {
+    {
       "requestid": "3d3074cc-ee09-4060-b705-6fd862eb89e6",
       "confidence": "0.7753384",
       "timestamp": 996.17,
       "content": "give me this discovery before he was even before he even got his specialist qualifications he wasn't a card carrying researcher",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "3e517255-9a62-491a-afc3-d37251c0df02"
     },
-    "1004.6": {
+    {
       "requestid": "6bb4995d-0b9c-4566-9908-a97bb7a06a20",
       "confidence": "0.4509684",
       "timestamp": 1004.6,
       "content": "and barry's episode barry's some pizza hut see if I am using keys I'm near a supermarket weekend and it going on he can be quite manic",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "52b5171e-83a6-4d8c-b062-5c596219e6d1"
     },
-    "1018.1": {
+    {
       "requestid": "9111f678-0a4a-4ef2-8c1e-a2004206a636",
       "confidence": "0.6906222",
       "timestamp": 1018.1,
       "content": "and he would present and people would think chris is not sure because it was with omasu religious fervor",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "24d1a8e8-0dc0-4c45-8b1b-8cd3f9cb2c6d"
     },
-    "1026.31": {
+    {
       "requestid": "4a8fa212-e7f3-492b-b237-0e0a7243cae7",
       "confidence": "0.7961459",
       "timestamp": 1026.31,
       "content": "I'm from is good catholic boy on that he was promoting this because he believed it so strongly",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "42a89789-686e-402e-8ff8-b4c5724ca884"
     },
-    "1032.16": {
+    {
       "requestid": "7d484d48-7354-4574-b28a-d9ab2cbd0f38",
       "confidence": "0.6569219",
       "timestamp": 1032.16,
       "content": "and then there is this question in my mind that if you selling it was hard in this convo oldway rum was there something fishy about the research to that was if you like the subtaxa people didn't quite articulate",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "a198af78-1b28-43c1-994c-390979047ebe"
     },
-    "1046.64": {
+    {
       "requestid": "fd954022-d5cb-415e-9f93-fb5aa66d1bec",
       "confidence": "0.7100341",
       "timestamp": 1046.64,
       "content": "but it was certainly there that barry was not seen as a credible researcher and regardless of its finding because he was incredible be cause he just dumb it wasn't one of am he was rough and ready",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "29d071ba-266c-4280-94fd-5b791ad9cb62"
     },
-    "1061.94": {
+    {
       "requestid": "61e8128c-35e4-42a5-b694-e1d9154f88e4",
       "confidence": "0.7591449",
       "timestamp": 1061.94,
       "content": "and I think that was a major part of it and then the pharmaceutical industry find every angle of a crude to oppose it and how did he respond",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "72f8a5da-66bf-48ad-ae4d-9c2f283233a6"
     },
-    "1072.59": {
+    {
       "requestid": "7e250453-5038-4586-9a54-b312f7db7e1a",
       "confidence": "0.5662625",
       "timestamp": 1072.59,
       "content": "what is barry just got angry and angry and sin according to taylor his message",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "be180708-81a9-46d7-a70a-f82e74fc002e"
     },
-    "1079.11": {
+    {
       "requestid": "e05d4d19-413a-4add-b3ab-7d549e4db229",
       "confidence": "0.6166873",
       "timestamp": 1079.11,
       "content": "in 2 boys hiroji wanna go to boy serindit ebelio he was gonna tell his message the message was the message I need to skip song bang in the way I did and didn't compromise in which month it made him seem even more of an utter to his opponents yes I think so",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "2b0c50a2-dc82-4728-ba2a-16e22f58c325"
     },
-    "1096.07": {
+    {
       "requestid": "11b37317-f43b-4372-816e-bd681aa534af",
       "confidence": "0.6208822",
       "timestamp": 1096.07,
       "content": "bing bing bing bing",
-      "speaker": "S182"
+      "speaker": "S182",
+      "uuid": "6a1d7855-3da4-4159-aa7e-727d26c7fc7c"
     },
-    "1100.61": {
+    {
       "requestid": "83839d6d-77b8-4e25-ad5f-5dbd89a68c22",
       "timestamp": 1100.61,
-      "content": ""
+      "content": "",
+      "uuid": "e51e0155-3545-4e7b-9671-847b2c4e580b"
     },
-    "1107.19": {
+    {
       "requestid": "f469a4dc-0378-491b-b387-711265e335ff",
       "confidence": "0.6650628",
       "timestamp": 1107.19,
       "content": "coming up on tree can I mix radio one more heretick tries to buckley is that",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "c0f9e9c1-5b16-4052-a124-cab225906431"
     },
-    "1112.52": {
+    {
       "requestid": "31dd54b7-36dd-4e80-b4e8-e831992b6479",
       "confidence": "0.6469996",
       "timestamp": 1112.52,
       "content": "xmen do you study maps be back to normal so still asleep because the received wisdom of the day was that the earth was created out of very specific point in time",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "dd5e4976-2d43-47b6-9abe-e88b2882e84b"
     },
-    "1122.48": {
+    {
       "requestid": "bc4be9e8-9a4e-4d65-84cd-770c1cd128e7",
       "confidence": "0.6345997",
       "timestamp": 1122.48,
       "content": "and are all these outsiders doomed for life long to spare",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "3ab27295-3d7c-440e-b7c8-62f2b7a4c133"
     },
-    "1128.11": {
+    {
       "requestid": "28edab81-5e3e-425c-aadb-00c9226a96de",
       "confidence": "0.5772485",
       "timestamp": 1128.11,
       "content": "free food which side of the master chief feel vindicated will we want but",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "f8ffc790-f190-47cc-9185-2ab25c51e894"
     },
-    "1134.0": {
+    {
       "requestid": "a0d25530-fa95-45ee-8436-aa3ba2309bd7",
       "confidence": "0.5596049",
       "timestamp": 1134.0,
       "content": "out when you will going to win",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "c5ad4b74-6281-43b0-8b51-3040237d99e0"
     },
-    "1136.06": {
+    {
       "requestid": "8375d4bb-b5c9-46b3-b6d7-69cdaf09f2a5",
       "confidence": "0.7640854",
       "timestamp": 1136.06,
       "content": "when you we we going to win because we had the truth",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "01668b51-a090-46e1-863e-30c4cb2e70f0"
     },
-    "1140.05": {
+    {
       "requestid": "b54b29cc-39da-42ea-84ac-fe34b7a82a0c",
       "confidence": "0.7627674",
       "timestamp": 1140.05,
       "content": "one more thing did you know you can subscribe to this week and I'm tryna podcast for free on itunes you can it is not been shown to bed",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "7ba8155a-8479-489e-9714-957911a7cbf9"
     },
-    "1148.74": {
+    {
       "requestid": "75c4e1b6-6d14-405c-9b13-b2213f1ac94d",
       "confidence": "0.7158534",
       "timestamp": 1148.74,
       "content": "ulcers yet but you never know new research in this field every day",
-      "speaker": "S191"
+      "speaker": "S191",
+      "uuid": "3a61d230-e7cc-4050-a307-b9ab79f73345"
     },
-    "1168.13": {
+    {
       "requestid": "96212b61-ac24-44e5-8727-b4dd12cf678f",
       "confidence": "0.908242",
       "timestamp": 1168.13,
       "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample",
-      "speaker": "S193"
+      "speaker": "S193",
+      "uuid": "d94dd0f3-af96-4387-8448-e485c18bf1f3"
     },
-    "1182.86": {
+    {
       "requestid": "c77187a9-ae4c-4fee-9637-aba4cb0fb08f",
       "confidence": "0.886665",
       "timestamp": 1182.86,
       "content": "canadiense can learn about their genetic information to publish study's have associated with conditions in traits like celiac disease cystic fibrosis and even response to certain medications",
-      "speaker": "S193"
+      "speaker": "S193",
+      "uuid": "753d8bd5-02be-437e-b110-759976f22309"
     },
-    "1193.82": {
+    {
       "requestid": "4d59569c-26da-4c85-866a-3fb5af76d189",
       "confidence": "0.9005533",
       "timestamp": 1193.82,
       "content": "more information is available at 23 the number in me dot CA",
-      "speaker": "S193"
+      "speaker": "S193",
+      "uuid": "1dcdab22-f508-4ab1-be71-ec74f7caefc0"
     },
-    "1199.38": {
+    {
       "requestid": "9694ef7f-49cf-4e44-8f85-e110bb7e7529",
       "confidence": "0.7828858",
       "timestamp": 1199.38,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "bbb35120-64ed-4627-a7fe-2bb72b08bfca"
     },
-    "1219.08": {
+    {
       "requestid": "aa685f3b-0169-45eb-ae4e-85310b463663",
       "confidence": "0.8873588",
       "timestamp": 1219.08,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "913d9aa1-a7d1-4794-9fe3-65bfce428f44"
     },
-    "1232.66": {
+    {
       "requestid": "a844aef2-5f8e-4cff-83c2-8b53f1ce4110",
       "confidence": "0.7921392",
       "timestamp": 1232.66,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "70f45dde-a7fc-4b68-9bfe-ecd873b5a36a"
     },
-    "1240.36": {
+    {
       "requestid": "c7c097f0-b950-4d0a-bff5-ad0fc61a9c8f",
       "timestamp": 1240.36,
-      "content": ""
+      "content": "",
+      "uuid": "5c1525a0-9bf9-417d-bbb6-ef053ffdc4ad"
     },
-    "1243.51": {
+    {
       "requestid": "a0041437-8a36-47d2-b873-351abc7362fb",
       "confidence": "0.745562",
       "timestamp": 1243.51,
       "content": "today we for the stories of berry marshall gary becker wanna doctor weather in a contest",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "1ef884d5-9b00-4759-9025-e6d3aa460596"
     },
-    "1249.03": {
+    {
       "requestid": "decb640d-d9b1-4bb3-be33-a892445d2030",
       "confidence": "0.7128451",
       "timestamp": 1249.03,
       "content": "they both follow their own light and paid for each case establishment treated them like rank outsiders well do you wanna see how I'm even more established establishments in marginalise almendares a try something new let's go back to 19 century england",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "7b8818df-9d1d-4b4c-9b8b-08b49f4e04c1"
     },
-    "1268.38": {
+    {
       "requestid": "67bd6bab-6f73-4b6a-a0c6-7a16a74c0330",
       "confidence": "0.822413",
       "timestamp": 1268.38,
       "content": "among a certain portion of upper crust gentleman",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "dde52f50-fbcf-4871-a281-61f4e4d1f93d"
     },
-    "1272.6": {
+    {
       "requestid": "f4ed709d-a280-4d02-a8dc-1fee350d110c",
       "confidence": "0.7039171",
       "timestamp": 1272.6,
       "content": "the rage of the day was collecting fawful's they were considered object of beauty in fascination",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "f91a368d-1b68-4f12-aea8-6fe9112c128e"
     },
-    "1280.2": {
+    {
       "requestid": "f5d9b86c-221d-46ec-98bd-c95b1834e057",
       "confidence": "0.3525254",
       "timestamp": 1280.2,
       "content": "they have brother jenteal dining",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "92596f18-80a5-45f6-baed-d5fbea3bb42d"
     },
-    "1282.71": {
+    {
       "requestid": "ae2c5aa7-bf3c-4f0c-b2ca-6e643668ebb4",
       "confidence": "0.6206802",
       "timestamp": 1282.71,
       "content": "jobs where they would pass around you know if we be found a new trilobite and have a glass of sherry but I do think this is absolutely beautiful you're on it",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "6744c729-476d-4b21-ae27-f9e63223f05a"
     },
-    "1290.42": {
+    {
       "requestid": "0e7152ec-e8f0-4b44-8da5-9c56be9ef601",
       "confidence": "0.8072475",
       "timestamp": 1290.42,
       "content": "if I'm in winchester and author and journalist is best known book is the professor and the madman about the creation of the oxford english dictionary",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "a6e2bc81-30b2-472c-98f3-8bce71dcf39b"
     },
-    "1298.39": {
+    {
       "requestid": "d28b927d-ebe1-446a-8820-49f6115c3da3",
       "confidence": "0.7959206",
       "timestamp": 1298.39,
       "content": "winchester is alter in the book about a man named william smith was born in 1769 into a farm family in oxfordshire smith with nothing like the gentleman who drink sherry and clubs",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "40d4fd06-acba-42e7-8ddf-acf6c1ac2e98"
     },
-    "1311.7": {
+    {
       "requestid": "76cbf69d-c904-466e-a5b5-09f59fc4608e",
       "confidence": "0.7680339",
       "timestamp": 1311.7,
       "content": "he did however love to collect fossils",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "6ee8bcfc-4db3-4d84-aad3-8ff991666134"
     },
-    "1314.86": {
+    {
       "requestid": "d9aec7e7-faf0-41f1-b017-3f1d224f5296",
       "confidence": "0.6522049",
       "timestamp": 1314.86,
       "content": "tell he became interested very much in the earth and the kind of things that would be found in the us know tony relics of formal living things like that fossils works but the actual sandstone's limestone's of which is the neighboring country side was constituted",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "f5101ae9-5c11-49f3-a8af-d464de9c7194"
     },
-    "1333.92": {
+    {
       "requestid": "f1dc3ad1-23fd-44fb-b89d-701aa94ee6f0",
       "confidence": "0.7200844",
       "timestamp": 1333.92,
       "content": "smith took a job as a land surveyor which got him acquainted with the topography and I'm curious as to what lay beneath it working for coal mining company",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "0b75fd37-c4ec-41a0-bf86-7d1828464c19"
     },
-    "1344.97": {
+    {
       "requestid": "cdaadab5-324d-4e92-b088-ad424a6cce2a",
       "confidence": "0.660207",
       "timestamp": 1344.97,
       "content": "got a chance to take a look smith observe the sequence but you before him did notice",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "3dccf50a-682a-45a5-b610-c44a1909fa88"
     },
-    "1351.37": {
+    {
       "requestid": "f69f8d29-17e2-42c1-afb4-50be89a3bc78",
       "confidence": "0.6415356",
       "timestamp": 1351.37,
       "content": "siltstone mudstone sandstone limestone cole siltstone mudstone limestone co not only that",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "53e04624-60a6-4df3-8a86-41b5c71e3d6f"
     },
-    "1360.47": {
+    {
       "requestid": "5ca0da4c-ae29-42fe-b664-cadb87223051",
       "confidence": "0.7277",
       "timestamp": 1360.47,
       "content": "how do you know did each layer contains different kinds of fossils",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "08272b79-3812-47eb-8e48-5cd16bd65d4d"
     },
-    "1364.42": {
+    {
       "requestid": "17e406e5-83a7-403f-90ff-75b000b3e795",
       "confidence": "0.5089319",
       "timestamp": 1364.42,
       "content": "when he began to have boots about geology empedocle is sedimentary geology the laying down of sedimentary rock",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "80e8a54a-6a9c-4004-bb43-924035391ce3"
     },
-    "1371.14": {
+    {
       "requestid": "925b66a9-289a-4ef4-9e3d-559fdd7fce24",
       "confidence": "0.4266444",
       "timestamp": 1371.14,
       "content": "x 12 point methodist no one else is really don't think like this then there was this extraordinary",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "1f3d5757-aeb2-4ed6-9842-180bd5fc3c25"
     },
-    "1382.01": {
+    {
       "requestid": "1c6a37cc-f1f1-4a53-94ac-940328a9822b",
       "confidence": "0.6839995",
       "timestamp": 1382.01,
       "content": "smith traveled all of the english countryside",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "9463cc8f-272c-4954-b8f9-aead5bf6277f"
     },
-    "1384.7": {
+    {
       "requestid": "0fe4bd26-ddad-4865-a82c-627c129d600e",
       "confidence": "0.7537546",
       "timestamp": 1384.7,
       "content": "he noticed that the sequence of layers and their corresponding fawful's the same from place to place",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "fabe1be8-b3dc-418b-a38e-3634f45099bd"
     },
-    "1391.74": {
+    {
       "requestid": "0c4ad554-74e6-43ec-8864-085d0bbd3e8b",
       "confidence": "0.5587565",
       "timestamp": 1391.74,
       "content": "sandstein with an ammonite limestone for the breakey about the need for another limestone or another chance to try to buy sugar free unique rocks",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "464df649-8139-4c0e-8c45-139cbed50f40"
     },
-    "1402.68": {
+    {
       "requestid": "a7315903-2050-4821-9543-b2d339040cde",
       "confidence": "0.6536908",
       "timestamp": 1402.68,
       "content": "if you found them 100 miles away those same 3 rocks same order same color same fossils then",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "015875eb-d65a-47a4-901c-d1303147b047"
     },
-    "1412.3": {
+    {
       "requestid": "8b2d8585-a913-494b-8975-52b574250b88",
       "confidence": "0.5293422",
       "timestamp": 1412.3,
       "content": "he said these are clearly the same structure of rock the movie doing is the disappearing beneath the surface of the earth been coming up with reappearing am under miles away I can def for trueline map",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "c49c1a0f-8e10-4103-af89-0b3682599a14"
     },
-    "1428.37": {
+    {
       "requestid": "5ac51ab4-1ccf-46bf-ac1c-0fc1c5d153d2",
       "confidence": "0.4984376",
       "timestamp": 1428.37,
       "content": "showing with these things out cops showing how they slow down and watch tangled",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "7660f16c-b087-4166-bc31-7a8e1f7c1151"
     },
-    "1435.09": {
+    {
       "requestid": "1698a0dd-63d7-4d30-b4c0-649bfe5a3cc1",
       "confidence": "0.4752158",
       "timestamp": 1435.09,
       "content": "down below into the subsurface APS",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "a7eb0953-17dd-4075-982f-7bd8f9ce0b3b"
     },
-    "1438.79": {
+    {
       "requestid": "edf456b4-7ea8-4ac7-b1d7-6d44edf34565",
       "confidence": "0.6330813",
       "timestamp": 1438.79,
       "content": "I can do a map which will enable people to predict where when they stepped out of the mall",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "9c1dcd72-727e-4fcc-a11b-07adbc401e5b"
     },
-    "1444.66": {
+    {
       "requestid": "bb564548-cee9-4ca0-9c9c-d79bc4efe2fe",
       "confidence": "0.5639922",
       "timestamp": 1444.66,
       "content": "how deep below the surface table be in other words how to do a map is the bull",
-      "speaker": "S234"
+      "speaker": "S234",
+      "uuid": "6afd2764-af22-4f5d-a8c4-03165dc222ac"
     },
-    "1456.46": {
+    {
       "requestid": "b0cb6ba5-8754-4298-a149-306567810760",
       "timestamp": 1456.46,
-      "content": ""
+      "content": "",
+      "uuid": "38f55c2f-58ff-4958-ba76-4412f6e93352"
     },
-    "1460.5": {
+    {
       "requestid": "1a29af69-cd77-4e27-93c1-277eedbcf80f",
       "confidence": "0.7580677",
       "timestamp": 1460.5,
       "content": "a map of the invisible underneath of the british isles orbeni I'll be as you can imagine revolutionary for science",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "ca6bedac-be05-4977-9cfe-008e25edb8cd"
     },
-    "1469.48": {
+    {
       "requestid": "7155c60a-ba2a-4f3f-a099-ae9d3465e86f",
       "confidence": "0.8009226",
       "timestamp": 1469.48,
       "content": "for industry for history of the church for instance disapprove miley",
-      "speaker": "S238"
+      "speaker": "S238",
+      "uuid": "df9df26d-a356-4f7c-b796-8692cd8f63f5"
     },
-    "1476.35": {
+    {
       "requestid": "f31456b0-e29b-4f4a-a230-d4834dfd662d",
       "confidence": "0.6816658",
       "timestamp": 1476.35,
       "content": "viselli maps evecta normafa still asleep because the received wisdom of the day who is that the earth was created out of very specific point in time that was the churches believe that the earth was let's say in the 18 hundreds 4004 +8",
-      "speaker": "S239"
+      "speaker": "S239",
+      "uuid": "776eda2e-3aff-421c-88c6-eb1a528a4350"
     },
-    "1493.93": {
+    {
       "requestid": "b16bd567-2760-4314-8a64-28bf79af65b5",
       "confidence": "0.6288246",
       "timestamp": 1493.93,
       "content": "18 hundreds would 5804 years old and that was that",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "130cc616-68b3-4e75-8883-686fd83fac79"
     },
-    "1498.73": {
+    {
       "requestid": "ae843aee-a2b4-4cf6-8002-1f809caad06e",
       "confidence": "0.5733885",
       "timestamp": 1498.73,
       "content": "the challenge die soon anyways these maps did because these maps web based on the evidence of fossils",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "b3ed0ef0-d5b8-4726-b019-398ec3db1639"
     },
-    "1505.93": {
+    {
       "requestid": "ce5d47a3-9c1e-4e1b-9ed8-07403767d858",
       "confidence": "0.741437",
       "timestamp": 1505.93,
       "content": "which when you look at them carefully change so important to be snow day you had to be completely oblivious to reality to assume the role of these to be created in change and evolve in create you and me",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "ff28d9cc-cccd-462e-8a6a-4bf2fed2584b"
     },
-    "1519.82": {
+    {
       "requestid": "6e2408e1-c5bd-4f7f-8be1-878322224457",
       "confidence": "0.6117013",
       "timestamp": 1519.82,
       "content": "in 5804 years it simply boo is not possible so easily geologist's drive a horse and cart through the biblical teaching of the f is andy 6000 years old so that was great hostility amusements we seem to be an instruments in paris",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "622f149b-ef61-4173-bcf6-62c534f0320e"
     },
-    "1537.75": {
+    {
       "requestid": "24de3bb4-a29a-484d-800f-f2907e4747ad",
       "confidence": "0.6961091",
       "timestamp": 1537.75,
       "content": "william smith prestan almost entirely by himself he created a massive jandran hand colored map zone great expense get it printed be sold to the public its name alone with quite the sky",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "5a575157-970f-4922-8f5b-ab54dc0a6d80"
     },
-    "1553.73": {
+    {
       "requestid": "55dfecb5-eb17-4ea1-a32d-40a4451d99e7",
       "confidence": "0.6617967",
       "timestamp": 1553.73,
       "content": "if a delineation of the structure of england and wales with a pocket stopped and exhibiting that only reason mines tamashas in finnlands originally of a fly by the seat of the varieties of soil according to variations in the substructure illustrated by the most descriptive names",
-      "speaker": "S251"
+      "speaker": "S251",
+      "uuid": "40e4eddb-dcae-430a-a70c-37332df7f54a"
     },
-    "1572.09": {
+    {
       "requestid": "c3a8d838-8118-408f-adb5-9b7b19e8659e",
       "confidence": "0.5517941",
       "timestamp": 1572.09,
       "content": "and out it came it was at it for publication is the salmon festival aug 1815 tomorrow then when is the super center",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "076dd79e-e531-4357-a2d8-8d835c63f0c6"
     },
-    "1582.06": {
+    {
       "requestid": "8013e16a-1ca4-484f-b891-e9931b20f062",
       "confidence": "0.6952781",
       "timestamp": 1582.06,
       "content": "tragedy of the story",
-      "speaker": "S255"
+      "speaker": "S255",
+      "uuid": "396d2d08-bcb3-48ec-8bfb-eb256e3b5dd1"
     },
-    "1584.89": {
+    {
       "requestid": "0d228b10-e5e8-4740-8a68-c588e749cd1e",
       "confidence": "0.7105488",
       "timestamp": 1584.89,
       "content": "the tragedy as simon winchester telsiz emanated from london",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "008ad407-1151-4ea4-9584-af75b5b1e2c2"
     },
-    "1589.4": {
+    {
       "requestid": "dbf79f2a-32e8-4fe5-9b40-df001dd1ec4a",
       "confidence": "0.6635723",
       "timestamp": 1589.4,
       "content": "I mentioned earlier that geology was the cooling of the upper classes",
-      "speaker": "S239"
+      "speaker": "S239",
+      "uuid": "39a8a19b-bb45-4cc8-a034-6f4d0d2e5761"
     },
-    "1594.62": {
+    {
       "requestid": "37be9bc5-5720-411b-9918-fea70e0a3451",
       "confidence": "0.5462186",
       "timestamp": 1594.62,
       "content": "and the geological society of london was people entirely by men",
-      "speaker": "S239"
+      "speaker": "S239",
+      "uuid": "aa648bdb-1915-48b0-a054-b904f5e835f7"
     },
-    "1602.46": {
+    {
       "requestid": "294ab33d-7cc3-4b59-8280-fdc97fb80fae",
       "confidence": "0.498857",
       "timestamp": 1602.46,
       "content": "well I'm dozed refined dondis who would pass around fossils and mineral samples for the sheer delight of looking at them and connecting them",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "fb85f7b2-67db-4e19-adde-4f12e4266eaa"
     },
-    "1612.26": {
+    {
       "requestid": "20c0327d-34a9-48f6-98c3-a6fd9190c64f",
       "confidence": "0.8788721",
       "timestamp": 1612.26,
       "content": "and you came from the kind of families at william smith did not come from",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "839f0f3a-1240-4efd-a23f-70c5f28fedb9"
     },
-    "1615.72": {
+    {
       "requestid": "a9e2510f-264d-4f73-b5f8-fe24c16b03f7",
       "confidence": "0.4876302",
       "timestamp": 1615.72,
       "content": "precisely they sold this map that was produced by men who wore ruffled boots bookmans close the debt under fingernails was didn't know how did to teacup publix",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "95d2bddd-ed1f-4461-ac32-0c0555d1ce99"
     },
-    "1627.92": {
+    {
       "requestid": "7d4113ad-e118-422a-b461-4a8b589fcfae",
       "confidence": "0.5225157",
       "timestamp": 1627.92,
       "content": "I'm so gross impressments one of the number for medical green off",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "95871042-357b-434b-bb0c-6b57d026e92d"
     },
-    "1633.2": {
+    {
       "requestid": "0b0eafbd-ca0e-4aff-91a4-910552b1d25e",
       "confidence": "0.6320908",
       "timestamp": 1633.2,
       "content": "said I get a copy this map and I could sell it under the authority of the geological society of london and I could sell it more cheaply than despop start map which is on sale in the book stores in london and oxford and cambridge",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "445b4a4c-a37f-46a5-ad9d-ed1c89d238a6"
     },
-    "1649.97": {
+    {
       "requestid": "e2d2ab01-0d5e-424d-87af-49a3d67d2b18",
       "confidence": "0.5757447",
       "timestamp": 1649.97,
       "content": "if he's charging 7 ponsford we gotta charge 5 pounds fries",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "3b15023c-f248-4d2c-b3d9-00380dc68198"
     },
-    "1654.65": {
+    {
       "requestid": "fe19c972-d856-4f42-b96e-389d352c806e",
       "confidence": "0.6892728",
       "timestamp": 1654.65,
       "content": "I'm so you have this extraordinary situation in the winter of 1850 1960 with 2 maps",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "1f1c0fc3-4e1d-4680-b533-3b419668f574"
     },
-    "1661.16": {
+    {
       "requestid": "58003c7c-668e-403b-807d-19cd9082d0d3",
       "confidence": "0.6759863",
       "timestamp": 1661.16,
       "content": "almost identical one by william smith with another",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "fffc1970-6c06-406a-88f8-7c77bf110d82"
     },
-    "1665.01": {
+    {
       "requestid": "002ed6f0-5f49-47f2-810c-fe9c4156552f",
       "confidence": "0.6013734",
       "timestamp": 1665.01,
       "content": "unresearched and plagiarised with the imprint of the geological society of london on it being sold for less money well the outcome is this",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "ba5cb1d6-4959-40b2-b9a9-665afc2e23a7"
     },
-    "1675.34": {
+    {
       "requestid": "25f54dbe-478e-4baf-b3d6-71691f01b8de",
       "confidence": "0.5915629",
       "timestamp": 1675.34,
       "content": "that the green off maps owed to those people that are interested in a growing number of people were because this was not only beautiful but everyone knew that it would allow you to dig for monroe's devil possibly make yourself wealthy",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "b67d9097-f2e7-419d-8e52-cb4c1497f61b"
     },
-    "1687.57": {
+    {
       "requestid": "ca6e73df-327d-489d-9138-8613b0be257b",
       "confidence": "0.5739642",
       "timestamp": 1687.57,
       "content": "the smiths map didn't sell yard pass money back is loans back",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "dc3f222e-ef56-4e3c-a6a6-15eb6b79c6db"
     },
-    "1692.19": {
+    {
       "requestid": "6d55c3b9-53fe-40cb-a1b0-a8659a4a613e",
       "confidence": "0.5846993",
       "timestamp": 1692.19,
       "content": "he went with financial tailspin and he went bankrupt and he went how humiliating to this decent human being he was sent to debtor's prison I mean it's a terrible story",
-      "speaker": "S227"
+      "speaker": "S227",
+      "uuid": "9ca67772-1949-433a-96ef-1ecfdf5fecf5"
     },
-    "1704.77": {
+    {
       "requestid": "3fe0a565-0c8c-41ab-b1f4-721ebd37fc70",
       "confidence": "0.7979304",
       "timestamp": 1704.77,
       "content": "william smith works creatively and tirelessly and I usually singley for all these years I'm create and publish is this astonishing map that turned out to be prescient",
-      "speaker": "S275"
+      "speaker": "S275",
+      "uuid": "f007d358-a580-4bf5-a405-246dc72c0aa1"
     },
-    "1718.12": {
+    {
       "requestid": "7ea7225f-8ab2-4dbb-b1f4-2e2372f984a6",
       "confidence": "0.8110198",
       "timestamp": 1718.12,
       "content": "I'm on many dimensions on that turned out to be revolutionary on at least a few dimensions",
-      "speaker": "S275"
+      "speaker": "S275",
+      "uuid": "f1ebab0f-76e4-4eb0-8b12-778953df1cb2"
     },
-    "1725.3": {
+    {
       "requestid": "60a72933-67a7-42e1-ba85-a654c30931b3",
       "confidence": "0.7521244",
       "timestamp": 1725.3,
       "content": "and yet the publication is essentially sabotage by people with greater means and access to a wealth of the public inexistant a good reputation salon he gets thrown in debtor's prison",
-      "speaker": "S275"
+      "speaker": "S275",
+      "uuid": "2de19798-f7a5-4301-9f75-9d16d6a87b10"
     },
-    "1739.44": {
+    {
       "requestid": "0d5ac005-e9e0-4ff7-a1a2-9634356f54fe",
       "confidence": "0.7779472",
       "timestamp": 1739.44,
       "content": "I he comes out he's lost his home his possessions have been bought a ps get to sell office collection of fossil",
-      "speaker": "S275"
+      "speaker": "S275",
+      "uuid": "2a077b78-5b53-4483-9118-b509324a355e"
     },
-    "1747.6": {
+    {
       "requestid": "d33146c5-33a1-4fd2-9b4f-0b29e72ddc90",
       "confidence": "0.762866",
       "timestamp": 1747.6,
       "content": "is it ready yes indeed and so it's incredibly heartbreaking the man who works so hard and so brilliantly near it nearly always alone creating this working such long lasting usefulness was so deeply and rewarded",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "74e95e63-0875-4557-848f-bff866149189"
     },
-    "1762.84": {
+    {
       "requestid": "52a20321-371a-4ac2-8582-2b1e467277ff",
       "confidence": "0.6413291",
       "timestamp": 1762.84,
       "content": "for his life's work but stryders in there does it",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "9ba72edc-59db-49d2-aa9e-ba1b30510506"
     },
-    "1767.18": {
+    {
       "requestid": "e92e200e-e869-4350-a3aa-9727d5931899",
       "confidence": "0.6011593",
       "timestamp": 1767.18,
       "content": "yes it does and out there",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "203313d3-0ff0-4d1a-bbaa-68dbfb4b904b"
     },
-    "1768.83": {
+    {
       "requestid": "b8bbfde3-8d3d-4f0c-ade6-d28f5946ad01",
       "timestamp": 1768.83,
-      "content": ""
+      "content": "",
+      "uuid": "b479bf29-e6ee-4a00-be90-67c8304b5251"
     },
-    "1776.8": {
+    {
       "requestid": "213bf3e6-e5b0-4bb1-866f-bd1291eff9a1",
       "confidence": "0.4773278",
       "timestamp": 1776.8,
       "content": "years pass william smith poor eging dispirited",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "35ac3ffa-e522-4799-af4e-c013662bf022"
     },
-    "1782.34": {
+    {
       "requestid": "992e405f-f5b1-40c8-8075-76315cb9c4ce",
       "confidence": "0.9183642",
       "timestamp": 1782.34,
       "content": "take the job in scarborough north yorkshire",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "63d4f0c9-d5d1-4fb1-bb18-db90cc21ab0a"
     },
-    "1785.91": {
+    {
       "requestid": "7594287b-3d01-4c94-a8fc-56c52004127b",
       "confidence": "0.7376114",
       "timestamp": 1785.91,
       "content": "he's working at the surveyor for men in johnston smith create one of his elaborate jandran maps of johnson's property",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "f98a6425-6ec2-445f-9518-e47366741ae0"
     },
-    "1794.23": {
+    {
       "requestid": "2b29c9dd-614b-405e-8886-bf06cfd9e054",
       "confidence": "0.4293514",
       "timestamp": 1794.23,
       "content": "to just look at this box of this old man with the snow pretty heavy d's do you suffer maisonnais tupton teeza where is the best mexican he gives in this beautifully produced map of the states",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "12b09055-27f1-4c26-ad37-1618ae50ed04"
     },
-    "1808.81": {
+    {
       "requestid": "2542c084-a189-4448-8ace-fc56b93321e3",
       "confidence": "0.4325944",
       "timestamp": 1808.81,
       "content": "at the light bulb goes on the johnstons my juices with big <profanity>tits</profanity> at this back I recognize your style",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "301329f5-0547-4c41-9ed4-0ce08ce404dd"
     },
-    "1818.57": {
+    {
       "requestid": "9e25feda-5406-4577-b015-96e1c2492536",
       "confidence": "0.6519518",
       "timestamp": 1818.57,
       "content": "use my phone to do to create a map of the whole of the british isles",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "93ca167f-92df-45e8-8863-f93d02c0a714"
     },
-    "1824.52": {
+    {
       "requestid": "29d15342-dd25-4e92-97de-5d459854fc37",
       "confidence": "0.515276",
       "timestamp": 1824.52,
       "content": "I've seen it in london this message yes I have the honor to be spoken as a box direction of the owner say it was made of dumb dumb answer",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "a59bba2f-d53e-4182-8a2c-f0b66e638472"
     },
-    "1834.11": {
+    {
       "requestid": "9503668a-ef00-4209-b29e-4d5fef02fd5b",
       "confidence": "0.713943",
       "timestamp": 1834.11,
       "content": "Mr. johnson as it turned out not only an influential gentleman member parliament but a geology enthusiast",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "92544d79-0718-4dd3-903d-0bf1a3b26b95"
     },
-    "1842.6": {
+    {
       "requestid": "14fb314e-8ca3-4260-b1cf-489241ca8853",
       "confidence": "0.5517312",
       "timestamp": 1842.6,
       "content": "is that what you doing here working as a jumping rope server on my SD 7 you should be being on edge and living in london in great comfort to be showered with medals and decorations and things it's Mr. brown dogs didn't turn out quite like that",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "e2c6687a-922e-4499-aeb2-5cf5a55a77df"
     },
-    "1859.44": {
+    {
       "requestid": "9fea054d-0f3b-4f7b-837b-6cabce839364",
       "confidence": "0.6251806",
       "timestamp": 1859.44,
       "content": "and johnson sit with this is box trolls I'll see what I can do is <profanity>blow me</profanity> down he did",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "2a87049d-b54f-4e3d-a208-56a7d330177f"
     },
-    "1865.01": {
+    {
       "requestid": "23285268-3a36-449e-83f9-ddc33f2f4843",
       "confidence": "0.8336542",
       "timestamp": 1865.01,
       "content": "in short order william smith was brought to london when he was welcomed into the geological society of london and with more generally held",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "e6708d08-0d32-44fd-9676-6804ad04431b"
     },
-    "1875.23": {
+    {
       "requestid": "bf0e9617-214b-4c1c-a8b7-40c80d8ab2e8",
       "confidence": "0.6307257",
       "timestamp": 1875.23,
       "content": "pretty early achievement and he don't he's doing and he was recognized and on it as the father of english geology",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "2a114762-3b5b-4aa5-8c49-03122e15d483"
     },
-    "1887.01": {
+    {
       "requestid": "f1daa789-e995-4131-a88e-3a0d59e1fa08",
       "confidence": "0.8297774",
       "timestamp": 1887.01,
       "content": "I'm in winchesters book about william smith the wonderful book encourage you to read it is called the map that change the world",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "82706b36-513d-4a1c-a086-b091146fccc1"
     },
-    "1895.21": {
+    {
       "requestid": "e7863a6e-c955-4908-97c6-ebf7d032d8be",
       "confidence": "0.7607205",
       "timestamp": 1895.21,
       "content": "and it did change",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "54f05661-dec6-4644-bcc9-656d811b4adf"
     },
-    "1897.85": {
+    {
       "requestid": "adeaf409-21d4-4cef-83f1-045d400038c2",
       "confidence": "0.6512322",
       "timestamp": 1897.85,
       "content": "everything so far is humankind's search for minerals because it will to the economic landscape of the condo",
-      "speaker": "S283"
+      "speaker": "S283",
+      "uuid": "62aa96f0-9998-46f8-98a3-5dd0a924d9b4"
     },
-    "1906.31": {
+    {
       "requestid": "12ce6132-7df4-4d5c-aef2-186b47cca3dd",
       "timestamp": 1906.31,
-      "content": ""
+      "content": "",
+      "uuid": "253a235c-fe8f-45fe-abcf-23a9eb50b3f0"
     },
-    "1916.38": {
+    {
       "requestid": "a6e21da6-f55a-4a51-b64e-681dd883c790",
       "confidence": "0.8847189",
       "timestamp": 1916.38,
       "content": "what's most remarkable about the story is not",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "c7d75166-6b01-437b-9543-cf8cb12517f2"
     },
-    "1919.55": {
+    {
       "requestid": "9bcd00f1-9166-4b14-b1f8-69b8c7dcef00",
       "confidence": "0.7536449",
       "timestamp": 1919.55,
       "content": "how hard smith work to create his map nor health wise and clever he was with your markable is it this outsider who is reputation was taken from him live to see that reputation rehabilitated his id and celebrated",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "894b50c6-25f5-475f-aeb9-257e146c67c0"
     },
-    "1935.46": {
+    {
       "requestid": "b965b9ef-2d56-4fd4-8e28-cabc5cf698ca",
       "confidence": "0.7299104",
       "timestamp": 1935.46,
       "content": "wooden so much more likely form to die broken peter in the wilderness utterly unrecognized back is the risk taken by people who work outside the system to challenge the conventional wisdom mcberry marshall yes trillion gastroenterologist",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "337e39ca-e246-47e9-94d7-12821b82a692"
     },
-    "1954.84": {
+    {
       "requestid": "173e2bed-17e9-4e73-952f-49e66e506595",
       "confidence": "0.8633879",
       "timestamp": 1954.84,
       "content": "who had the audacity to suggest that you had found a cure for ulcers",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "09fcf59f-7987-431b-9bcf-58225ee68b1f"
     },
-    "1960.09": {
+    {
       "requestid": "9d8b25f0-7aca-46aa-bae1-9b6647c998bf",
       "confidence": "0.6513572",
       "timestamp": 1960.09,
       "content": "the medical establishment didn't believe him",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "1a4034f1-a93f-4b79-bb1f-1002a8b5176f"
     },
-    "1963.03": {
+    {
       "requestid": "f17f47b1-0344-4c6d-91ca-c764356b9d96",
       "confidence": "0.7866336",
       "timestamp": 1963.03,
       "content": "who is the australian doctor journalist norman swan",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "4401772d-29d6-4864-bf2e-7338adf2b27b"
     },
-    "1966.61": {
+    {
       "requestid": "59478166-d5c7-45d9-b9c8-5fbdfdf63d02",
       "confidence": "0.5995079",
       "timestamp": 1966.61,
       "content": "midson chose to ignore it",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "12a70485-6619-43b3-83b1-3daad8f9f909"
     },
-    "1968.87": {
+    {
       "requestid": "a6e19178-19ed-4e84-8474-0178f16964db",
       "confidence": "0.633395",
       "timestamp": 1968.87,
       "content": "the chew signoret because it didn't see the prejudices because they didn't quite like the way the message I was selling it and be cause of a huge marketing push by up by very influential industry was told you it was boo",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "bedd1419-d142-4768-816c-051f0b95bb0c"
     },
-    "1982.46": {
+    {
       "requestid": "8e08c792-6ae8-4c76-ad69-c78468d3c2db",
       "confidence": "0.7127876",
       "timestamp": 1982.46,
       "content": "but after years and years of promoting his theory in a being ridiculed for it",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "9e5c79a2-cabd-4bcd-95d4-0db90a2808df"
     },
-    "1987.82": {
+    {
       "requestid": "c4e5443c-2833-490e-bbcc-eddd5a18a127",
       "confidence": "0.9030404",
       "timestamp": 1987.82,
       "content": "marshall finally in 1994",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "16b24406-b5fc-497e-bca4-193709aa15a8"
     },
-    "1991.1": {
+    {
       "requestid": "0f711d3d-9315-4d07-8664-7b8823160569",
       "confidence": "0.7037251",
       "timestamp": 1991.1,
       "content": "so his findings accepted by the national institute of health people would wish I doctor marshall to feel vindicated well we won but",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "2e4db948-ccff-4c2e-9350-49c5530069db"
     },
-    "2001.13": {
+    {
       "requestid": "f165d0be-1261-4c84-89c0-34704190e38d",
       "confidence": "0.6424255",
       "timestamp": 2001.13,
       "content": "out when you will going to win",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "3b94f814-4aef-4687-a4dc-f225fa455f9a"
     },
-    "2003.22": {
+    {
       "requestid": "e6980fcb-4680-4b47-b5cf-ba573ac3ea99",
       "confidence": "0.7645247",
       "timestamp": 2003.22,
       "content": "when you we we going to win because we had the truth",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "03dc2ff7-19ae-49ad-b81b-bd5b0ccd2d0c"
     },
-    "2008.15": {
+    {
       "requestid": "5aea5c46-16c0-4f0e-9c16-94f4c1591a7d",
       "confidence": "0.7887623",
       "timestamp": 2008.15,
       "content": "if you look at the history of mids and it's interesting how long it takes for evidence to get into the 6 goals of doctors",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b31dde2c-071f-4a6a-9ae1-2f99379c29f5"
     },
-    "2017.5": {
+    {
       "requestid": "1935fd25-384c-44fa-b99b-220be6b10529",
       "confidence": "0.6406217",
       "timestamp": 2017.5,
       "content": "so when pastor proved the germ theory of disease it took about 30 years",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "485d3831-8958-44ec-84b0-416d02ac05b8"
     },
-    "2026.61": {
+    {
       "requestid": "636d02c2-d8b9-4836-8554-ba4ad55e26d7",
       "confidence": "0.6372988",
       "timestamp": 2026.61,
       "content": "for in the medical profession run the world took separate ring theory of disease amazingly",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "16415aee-f7ee-42a2-9074-e1148482d148"
     },
-    "2032.62": {
+    {
       "requestid": "7abd306c-1dc4-4da2-87a1-94f8f568892f",
       "confidence": "0.6589429",
       "timestamp": 2032.62,
       "content": "it took 24 years for doctors to except that aspirin reduce the risk of dying of a corny heart disease after the heart attack and was well proven 220 or tears for doctors to except that",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "196466f3-217b-4abe-9a69-767bf35057e7"
     },
-    "2048.21": {
+    {
       "requestid": "acb5854a-52b6-4698-af0a-8adfd66a002b",
       "confidence": "0.77668",
       "timestamp": 2048.21,
       "content": "it takes a long time is a very conservative for fishing to take along time to convince my new ideas in this was no different because it was so radically outside what they were expecting",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "16f39758-5b14-4b16-bb37-631e8fc08a3f"
     },
-    "2060.29": {
+    {
       "requestid": "edd3dc86-e2e9-4506-a8d9-e55d6e30f0c5",
       "confidence": "0.8283823",
       "timestamp": 2060.29,
       "content": "radicale indeed berry marshall and robin warrens work prove not only that helicobacter pylori what is the true cause of ulcers of stomach cancer is well in 2005 more than 20 years after marshall swallowed it badja bacteria they were awarded the nobel prize",
-      "speaker": "S125"
+      "speaker": "S125",
+      "uuid": "76e2b329-9119-4231-bb73-96ea34a62c03"
     },
-    "2079.59": {
+    {
       "requestid": "a60f818e-7f9a-4f1d-8592-7724fa0c5a7d",
       "confidence": "0.7552364",
       "timestamp": 2079.59,
       "content": "it's very rare in midson to find a cure for anything",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "f0c0a028-703a-43a5-b36f-2a7d18d3bcb9"
     },
-    "2083.75": {
+    {
       "requestid": "44dc1c58-f698-4b21-a07d-53238fa4c229",
       "confidence": "0.7463575",
       "timestamp": 2083.75,
       "content": "come you can never really be sure you cure cancer even though the treatment for c breast cancer affect of these days you certainly can't cure heart disease what you got it you got it for like you can't cure diabetes so mean yes you can reverse in some people but it tends to come back",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "01e5e3c4-64c1-4c1e-b099-abe7080ffb8f"
     },
-    "2100.32": {
+    {
       "requestid": "68aa874f-f76f-4292-9b41-ca5dd0d70f64",
       "confidence": "0.5973211",
       "timestamp": 2100.32,
       "content": "there are you beykent your infections 20 biotix to get rid of infections and you can cure them this is a rare example a really rare example in modern mansion",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b8b889ba-d5a2-4da7-beb2-684888c19f49"
     },
-    "2111.43": {
+    {
       "requestid": "4808b2fd-4278-4800-b27f-b30e294f4502",
       "confidence": "0.7029226",
       "timestamp": 2111.43,
       "content": "ovacue are rather than an effective treatment 2 it had before was the fate of treatment is expensive it was for life in here with something which got rid of the disease and it got rid of the disease pretty cheaply",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "4d83e775-7277-4df6-940f-6f725fc14eea"
     },
-    "2126.84": {
+    {
       "requestid": "1933120f-6854-4a28-9b18-8329b3c73165",
       "timestamp": 2126.84,
-      "content": ""
+      "content": "",
+      "uuid": "afe0acd4-b4c8-4353-8a5b-a56a6f6344b5"
     },
-    "2131.35": {
+    {
       "requestid": "0cc0242c-1136-4672-960d-25f3c4b12d68",
       "timestamp": 2131.35,
-      "content": ""
+      "content": "",
+      "uuid": "ae9db457-eb0d-47f3-8579-c8a2146fe6b1"
     },
-    "2133.32": {
+    {
       "requestid": "6266785d-f8a8-4034-9fc2-bf3c60bd22d7",
       "timestamp": 2133.32,
-      "content": ""
+      "content": "",
+      "uuid": "93328d58-c118-45ec-b394-adf4880b8777"
     },
-    "2135.39": {
+    {
       "requestid": "4bc731cb-0b30-4319-8fcc-b0a72450a1c5",
       "timestamp": 2135.39,
-      "content": ""
+      "content": "",
+      "uuid": "5b398b0a-26ff-407a-af00-5f495b8c2dc1"
     },
-    "2140.67": {
+    {
       "requestid": "c7a95e2d-719f-47e2-aeda-a928c2837495",
       "timestamp": 2140.67,
-      "content": ""
+      "content": "",
+      "uuid": "e6e6a7c3-2425-4bce-a81d-f8c26749e2e0"
     },
-    "2143.96": {
+    {
       "requestid": "61700456-eb32-4d77-85b3-14b11bd83a63",
       "confidence": "0.7217038",
       "timestamp": 2143.96,
       "content": "what about gary becker derold economist to let off today's program",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "203bcbb9-6fd4-4f2b-bed2-191a45ca1361"
     },
-    "2148.89": {
+    {
       "requestid": "626676af-10d2-4eae-8fc9-9d7b41cc9068",
       "confidence": "0.6950946",
       "timestamp": 2148.89,
       "content": "he thought his fields book beyond finance and banking and consider all of human behavior from racial discrimination to meet picking well",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "3e955062-3c36-4cb1-b543-e4c86feb1515"
     },
-    "2159.93": {
+    {
       "requestid": "f2dc3e87-544d-415e-bccf-bf1efea03bda",
       "confidence": "0.8138388",
       "timestamp": 2159.93,
       "content": "becker 2 after years of being marginalized was ultimately celebrated time caught up to his way of thinking better 2 won a nobel prize in 1992 end in 2007 presidential medal of freedom",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "e270b6bb-3dfb-4279-962f-9a20417c7014"
     },
-    "2177.0": {
+    {
       "requestid": "222d343b-e6e8-425e-80cf-c90243fb55b1",
       "confidence": "0.6648989",
       "timestamp": 2177.0,
       "content": "how do you feel about nobel durza's friend judge richard posner",
-      "speaker": "S341"
+      "speaker": "S341",
+      "uuid": "449a41be-c431-4d53-8701-1e6968517e53"
     },
-    "2181.91": {
+    {
       "requestid": "962ffe4f-6c54-45e2-a2e5-86d44e8aea58",
       "confidence": "0.6248107",
       "timestamp": 2181.91,
       "content": "well he was pleased",
-      "speaker": "S341"
+      "speaker": "S341",
+      "uuid": "18adf3b0-4ab2-4f6e-ad9f-f215dd22606a"
     },
-    "2184.01": {
+    {
       "requestid": "9af6c2ab-f0bb-48fe-93f1-4e8badb489a9",
       "confidence": "0.7187318",
       "timestamp": 2184.01,
       "content": "I think he felt it was overdue",
-      "speaker": "S341"
+      "speaker": "S341",
+      "uuid": "d8d5f833-df9a-4e65-8e8f-15c5ae74993d"
     },
-    "2187.63": {
+    {
       "requestid": "c7b5cc9a-876f-4376-8935-dbdbf7e687b4",
       "confidence": "0.5122374",
       "timestamp": 2187.63,
       "content": "he should've gotten a darence is standard reaction this time",
-      "speaker": "S342"
+      "speaker": "S342",
+      "uuid": "f3769e22-5e7a-4458-a836-3ccfd726a04f"
     },
-    "2193.03": {
+    {
       "requestid": "e9343e87-50a1-4c01-b41d-35f2356101f6",
       "confidence": "0.7396985",
       "timestamp": 2193.03,
       "content": "and harvard economist at glazer who studied with gary becker I'm still teaches is work",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "87411bbe-96f4-4d4f-a81e-815fa1e53e73"
     },
-    "2198.49": {
+    {
       "requestid": "2d09f80f-4b83-4d47-9752-936c799c52bb",
       "confidence": "0.7760242",
       "timestamp": 2198.49,
       "content": "this is a person who is in some sense felt that if he would be universally loved he was screwing up right ahead and take one step wants to push you out of your comfort zone on this",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "bc942e63-07ee-41a7-83ae-0b693acd3ba0"
     },
-    "2209.49": {
+    {
       "requestid": "c2a42367-db26-4463-8a79-f5d7cdde3317",
       "confidence": "0.7055498",
       "timestamp": 2209.49,
       "content": "I'd let me let me just ask meeting summary",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "52012c4f-0d3c-43eb-a03a-eae24c31ea24"
     },
-    "2212.36": {
+    {
       "requestid": "7cea6be8-e932-4102-9f2c-3f0aa7420df1",
       "confidence": "0.7458787",
       "timestamp": 2212.36,
       "content": "I'm curious whether you think that there any lessons to be learned from gary becher's experience generally am maybe how anybody who's listening to this whenever I keep ation or location they might be thinking about could perhaps apply some of that determination of gary becher's to their own lives",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "d710a962-fd0d-4aec-aa8b-cc7e13bff0a3"
     },
-    "2230.27": {
+    {
       "requestid": "44964c51-2da8-4a43-9e60-4be67e0bd916",
       "confidence": "0.7234744",
       "timestamp": 2230.27,
       "content": "it's it's the right question ask and I think bank with different from many of the beatles wilderness years types I didn't we think of innocence that",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "033aefd1-3b6f-4479-99ad-d1cc30d1c6d1"
     },
-    "2240.32": {
+    {
       "requestid": "c921ac0f-d2fa-4de0-8b11-ed63f194c7a7",
       "confidence": "0.7170992",
       "timestamp": 2240.32,
       "content": "he was not somebody came out of nowhere he had a brilliant idea with mockhorn actually he was someone who was part of very well established economics department who had you know early respect early rewards in lots of different ways but with different from many of us",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "74135d53-cbaa-4cd3-97a8-c74e87bbc353"
     },
-    "2255.55": {
+    {
       "requestid": "99122d2b-c029-4d08-a409-07e1c5db7056",
       "confidence": "0.6107844",
       "timestamp": 2255.55,
       "content": "is that he didn't mean any sense rest on those any interest in the doctors office at the cat working all the work like hack",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "b2fce97c-ed11-4245-8557-990eb364dace"
     },
-    "2262.07": {
+    {
       "requestid": "4d4e6cec-ad7c-4a99-acfe-d229fa69d6c1",
       "confidence": "0.7340056",
       "timestamp": 2262.07,
       "content": "you can rest in the sense in which he decided to risk everything on every throw the dice right he wanted to always be out there you gotta push as far as he could",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "3118eccc-8360-45c3-8677-8e3c37124d77"
     },
-    "2271.36": {
+    {
       "requestid": "459d8aab-ff53-44c2-a02e-f94ef2c4412e",
       "confidence": "0.7079318",
       "timestamp": 2271.36,
       "content": "you wanted to be as whiskey wanted to wish going back into the wilderness even though that he had got himself a seat in the throne room right and that's with me special about him its bing in the wilderness by design by choice",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "0516d7bb-d19e-4d0c-9c6e-9492a3f5498c"
     },
-    "2282.87": {
+    {
       "requestid": "c5bb0abd-a31f-4421-907e-3d226bb8a34e",
       "confidence": "0.7173491",
       "timestamp": 2282.87,
       "content": "here's a guy who over and over again you decided to take those risks to court disaster to be on the very edge to go into rooms interfield in which he knew the people gonna think he was outrageous he knew that people were gonna get away is working it still did it",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "d4826ef7-2c3c-4c42-af45-e19ad177ed05"
     },
-    "2299.49": {
+    {
       "requestid": "c89bc798-716d-4e02-8046-5f5690bcac10",
       "confidence": "0.7198212",
       "timestamp": 2299.49,
       "content": "that would make him so productive and I think a challenge for all of us potentially levassor any idea businesses that it's a reminder that we should actually try to push yourself as much as possible to be different to be unpopular often",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "2c5f1516-3444-4a83-b32a-4fa4094c6758"
     },
-    "2311.48": {
+    {
       "requestid": "3c5469b6-d629-47bf-a5e3-9f623e79f679",
       "confidence": "0.7571284",
       "timestamp": 2311.48,
       "content": "to do things that are are troubling to the status quo the risk of being thought of as being you know less than we RI think that's the best for lesson is it's trying to be an outsider almost by design",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "d192e191-dd0f-45f2-9ad0-46db7e402da3"
     },
-    "2328.21": {
+    {
       "requestid": "91a33403-387e-42bd-9729-a1ee9a7748a0",
       "confidence": "0.6774611",
       "timestamp": 2328.21,
       "content": "I ask norman swan with the story of berry marshall in robin warringah teach the rest of us are sick generalizable take away from barry and robin",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "a40f4632-4a33-4d75-aaa5-0ee8a80954af"
     },
-    "2338.89": {
+    {
       "requestid": "ea17badf-6b46-4deb-9bce-7569753a86d0",
       "confidence": "0.7390503",
       "timestamp": 2338.89,
       "content": "discovery and the resistance to it is that",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b221390e-33aa-4f70-b320-21a86432db30"
     },
-    "2344.11": {
+    {
       "requestid": "68937012-7d9b-4e65-8d15-83afa3ff4bf4",
       "confidence": "0.6791303",
       "timestamp": 2344.11,
       "content": "people should charge things on their scientific merit",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "57f74ede-2020-45e1-afc3-1ad4efca0db7"
     },
-    "2348.11": {
+    {
       "requestid": "cb797cc9-8d2d-45d2-94b2-4dc7bc273fab",
       "confidence": "0.516366",
       "timestamp": 2348.11,
       "content": "and not shoot the messenger and tamika discover that list",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "bbbf5e34-05a3-4476-a814-f61a58b2252a"
     },
-    "2353.32": {
+    {
       "requestid": "c9a67c31-3e9b-4843-9602-97b391e423c9",
       "confidence": "0.6605618",
       "timestamp": 2353.32,
       "content": "probably does it take somebody who's out of the ordinary",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "9329325b-7ec4-49b9-a69f-b22e7e831f20"
     },
-    "2356.44": {
+    {
       "requestid": "84600406-a21c-44a9-87f6-0753cdfdb00e",
       "confidence": "0.6605386",
       "timestamp": 2356.44,
       "content": "so many holes are the or premeno communicate in the way that long we expect or have become used to amosa colleagues and therefore we really do need to go back to the signs",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "741e11a3-62c6-40d8-b162-41b91f1fab85"
     },
-    "2370.86": {
+    {
       "requestid": "387c1f51-5c4b-4318-a3bd-7946c1358c1d",
       "confidence": "0.8862543",
       "timestamp": 2370.86,
       "content": "and finally find in winchester on map maker extraordinaire william smith",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "8a18097b-182a-49f2-a74d-2ddf8be7d9e6"
     },
-    "2377.65": {
+    {
       "requestid": "862f8499-4fe3-4e9f-bc5a-67292d23bd8e",
       "confidence": "0.6786861",
       "timestamp": 2377.65,
       "content": "who is it didn't get to say happy about this but all around for the true extent riggi's it important that mean it I think it's important to people like you would like me right as you're interested in the unsung heroes to listen to the store is this is important being kind and tolerant is important too",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "e577642e-38a9-4e30-90b9-31f97ee17baa"
     },
-    "2394.86": {
+    {
       "requestid": "0d38d40d-b1a9-439b-ab8e-deb12799629d",
       "confidence": "0.7321234",
       "timestamp": 2394.86,
       "content": "how do you discover I think of the song hero",
-      "speaker": "S17"
+      "speaker": "S17",
+      "uuid": "2fcb0861-cbdf-4d94-8514-500be8cda79f"
     },
-    "2399.18": {
+    {
       "requestid": "a3e1db04-3cda-420c-8a01-fcea52fb3f26",
       "confidence": "0.5479622",
       "timestamp": 2399.18,
       "content": "it places where you have no soul such a pest but exist",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "c7f4b687-c00b-4d43-8b94-26a165afb477"
     },
-    "2407.27": {
+    {
       "requestid": "cc094263-b481-4a60-94d5-715679bc0675",
       "timestamp": 2407.27,
-      "content": ""
+      "content": "",
+      "uuid": "40207fa9-cf3e-47cc-be79-a23a196295df"
     },
-    "2424.67": {
+    {
       "requestid": "73f65c44-1700-4b0f-9fe7-ab1d12871d02",
       "confidence": "0.7383333",
       "timestamp": 2424.67,
       "content": "hey pop up the stairs on the next freakonomics radio a new york apartment building with jim that only certain tenants can use",
-      "speaker": "S375"
+      "speaker": "S375",
+      "uuid": "e340d6ed-6873-48ae-9aee-70d34e56a9a6"
     },
-    "2432.66": {
+    {
       "requestid": "600163c3-e82f-4375-a929-4c428b176d09",
       "confidence": "0.6167481",
       "timestamp": 2432.66,
       "content": "how did the 60s I ready at dawn the dogs out on the water hoses at and I'm not doing that again at physical fitness center cannot decide to me",
-      "speaker": "S376"
+      "speaker": "S376",
+      "uuid": "6ae710e5-ea2b-4e25-858d-42cb42cc6d18"
     },
-    "2443.07": {
+    {
       "requestid": "def5ba92-a8b3-483c-ab94-a2d15cd92ccc",
       "confidence": "0.6431703",
       "timestamp": 2443.07,
       "content": "the tenant call it fitness apartheid what do it comes colon blow to talk about a building that is so cold portador that work sucks right tenant in market rate tenants into the same building separately and weather first class airline seating is somehow discriminatorily next time on freakonomics radio",
-      "speaker": "S375"
+      "speaker": "S375",
+      "uuid": "4956aaab-474e-42c2-b929-7c599baba001"
     },
-    "2465.07": {
+    {
       "requestid": "02bc41d8-073d-490a-b8d8-ac106a634edd",
       "timestamp": 2465.07,
-      "content": ""
+      "content": "",
+      "uuid": "334c78ac-8651-4b8b-8c97-a33e9aa3c139"
     },
-    "2468.55": {
+    {
       "requestid": "f31ffbd2-255c-4417-8fce-e5072d63ffb9",
       "confidence": "0.8694819",
       "timestamp": 2468.55,
       "content": "freakonomics radio is produced byWNYCN.net production",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "367f15c6-5b6d-4243-9272-a527f38d00e9"
     },
-    "2473.37": {
+    {
       "requestid": "2b2cf758-779a-410b-805a-20689eb838bc",
       "confidence": "0.7353135",
       "timestamp": 2473.37,
       "content": "our staff include david herman greg rozalski credit cone caroline english susie lechtenberg in crispins and if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio ablas the book of mormon",
-      "speaker": "S23"
+      "speaker": "S23",
+      "uuid": "30acdf3c-b9a3-4058-bebb-e361eca67c9a"
     },
-    "2494.87": {
+    {
       "requestid": "5f71f966-3d16-4a4b-a9a1-2cf519f622d5",
       "timestamp": 2494.87,
-      "content": ""
+      "content": "",
+      "uuid": "6b705422-81ad-48f6-93a2-ec6fa8f292de"
     },
-    "2504.97": {
+    {
       "requestid": "a3af9003-c31c-44f6-9fd4-67885e0ee262",
       "confidence": "0.8185431",
       "timestamp": 2504.97,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat low cost that were previously impossible",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "b8f3fd67-828e-4b96-babd-b01017d2a8c5"
     },
-    "2524.23": {
+    {
       "requestid": "67f4313d-6c39-463d-8dc7-135ddc228d85",
       "confidence": "0.8914779",
       "timestamp": 2524.23,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S196"
+      "speaker": "S196",
+      "uuid": "3da0c806-d3f6-430d-865f-fb8a81c8e327"
     }
-  }
+  ]
 }

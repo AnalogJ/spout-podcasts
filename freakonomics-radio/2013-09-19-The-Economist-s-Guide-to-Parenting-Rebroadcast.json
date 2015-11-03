@@ -4,2652 +4,3034 @@
   "description": "<p>Think you know how much parents matter? Think again. Economists crunch the numbers to learn the ROI on child-rearing.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/_gfD05OWskg/freakonomics_podcast091913.mp3",
   "slug": "The-Economist-s-Guide-to-Parenting--Rebroadcast-",
-  "segments": {
-    "1.65": {
+  "segments": [
+    {
       "requestid": "4f4dffab-396e-4f1c-83b5-67a84934a758",
       "confidence": "0.6883498",
       "timestamp": 1.65,
       "content": "you had the baby congratulations great welcome to the wonderful world of parenthood exhilarating challenging early morning I think plexin why",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "f3e2ebff-a0ee-404d-8e79-a528265e3897"
     },
-    "14.6": {
+    {
       "requestid": "3c2a65f7-067a-40e0-bd48-0819c7480333",
       "confidence": "0.8764601",
       "timestamp": 14.6,
       "content": "experts so many experts",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c80375a4-4467-41ee-aaea-941d7e27b230"
     },
-    "17.74": {
+    {
       "requestid": "85ad1bf2-dbf8-4f8b-8242-0b057a448b94",
       "confidence": "0.6410457",
       "timestamp": 17.74,
       "content": "so much advice on youtube doctor oz before he ever wonder how to raise children who are confident research's save nature versus nurture strong parental leadership",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "42d4a990-6340-4c40-986e-6de8be2c56f0"
     },
-    "29.62": {
+    {
       "requestid": "2b620a0a-8586-40ae-adf0-0544f68238d1",
       "confidence": "0.7385701",
       "timestamp": 29.62,
       "content": "the first pediatrician whose book really turned into a very popular manual absolutely forbid eating bananas he said they were poisonous",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "dc732b45-9207-4dd9-8e1b-70a166f954cc"
     },
-    "38.72": {
+    {
       "requestid": "eb9a5780-e918-4bf7-a1fa-6a0d0782ba7e",
       "confidence": "0.7809702",
       "timestamp": 38.72,
       "content": "it in holbert she wrote a book called raising america experts parents in a century of advice about child it's fair to say that the invite says no shifted a bit overtime",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "89dfa610-e8bb-48d2-af7f-cc050ebf5682"
     },
-    "52.0": {
+    {
       "requestid": "69ecc853-5e26-4bd8-9163-a2b5b841ce0b",
       "confidence": "0.7024722",
       "timestamp": 52.0,
       "content": "I think the example that is the most notorious in the behavior of town drada swatton who is booked the psychological care events in a child was a big sensation in the late twenties he said you know you should never kissed your daughter should never hung it on you should never put your tongue",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "63770194-f578-4ddd-81a4-baba24d314e9"
     },
-    "68.0": {
+    {
       "requestid": "4cab9b4f-b674-4e39-aafe-720cd8af5d27",
       "confidence": "0.7233832",
       "timestamp": 68.0,
       "content": "mihir honeycombing a child with weakness and he will not be able to face the harsh cold cruel world that I think probably takes the cake",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "86703806-e794-43f8-b7f0-f8e0bbd6793f"
     },
-    "77.53": {
+    {
       "requestid": "53bc2a1d-15a4-4a7e-acc6-247f89d1a32f",
       "confidence": "0.7404056",
       "timestamp": 77.53,
       "content": "now I know what do we know about the scientific underpinnings of that argument diddy what was it assigned to the gardner now",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "038922bd-2741-4b62-bc75-06388d6ce9ce"
     },
-    "85.47": {
+    {
       "requestid": "44316758-a833-4727-8350-d33778b536b6",
       "confidence": "0.6944702",
       "timestamp": 85.47,
       "content": "well that particular bit of wisdom there was no scientific argument out behind it at all he surrounded it in his book with all kinds of suppose anti science about the absolute out in front of parents and soda",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "c93465f5-5630-43bf-91a7-ad490a3754ac"
     },
-    "103.4": {
+    {
       "requestid": "0dc771e4-30b6-470a-aade-94fb00d0d92e",
       "confidence": "0.7687153",
       "timestamp": 103.4,
       "content": "behavioral conditioning on children and he had a very famous experimenter's some teaching a child a baby to fear I are",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "0973aad3-986b-4ba1-9c27-5f50588982bb"
     },
-    "114.46": {
+    {
       "requestid": "1eccbc38-7f0e-42fd-b138-497e394a301f",
       "confidence": "0.8155011",
       "timestamp": 114.46,
       "content": "and it was not a good experiment but it was it was cited and is blocking it was out of his example of you know if you",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "d76ad33a-c5ae-4c8d-a30a-42fcb94a031d"
     },
-    "122.57": {
+    {
       "requestid": "dcd61f61-e60e-44dd-9a3b-fa3f3fe001cb",
       "confidence": "0.740278",
       "timestamp": 122.57,
       "content": "present this is a furry creature in a very loud noises scare the tildon you do it often enough you can inculcated deep fear that will never go away and that was kind of the sensational version of the science that underpinned hizbut that parents are themselves the absolute and total motors in shapers of their children",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "d4e21f4a-0f41-4b6d-acef-1ec10455fca1"
     },
-    "142.59": {
+    {
       "requestid": "3c3cdfec-0935-4e65-90b5-98e9cc9889e4",
       "confidence": "0.7835566",
       "timestamp": 142.59,
       "content": "have you thought was bad in the 20th century you might want to stick it out of the 21st in alotta places",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b5fb47f4-7133-4635-917b-9a61377f2481"
     },
-    "149.09": {
+    {
       "requestid": "575166e3-c073-45df-8b33-bc2042c5a1d5",
       "confidence": "0.7332022",
       "timestamp": 149.09,
       "content": "parenting become a competitive sport experts are everywhere each of them sounding more confident in the last third base contradict one another word contradict themselves how are we supposed to know what's really good for kids",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "87e3f478-85ba-49a3-940a-65b5554a6fa8"
     },
-    "163.76": {
+    {
       "requestid": "07e68605-7478-4596-9510-e0886b68296c",
       "confidence": "0.8398618",
       "timestamp": 163.76,
       "content": "how do we know what's worth worrying about and what's not",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0edb6e20-1e3b-4700-aca5-a01bb53f2a22"
     },
-    "169.04": {
+    {
       "requestid": "7c44bb9c-ccd7-46dd-bc96-abf173c8c623",
       "confidence": "0.7052363",
       "timestamp": 169.04,
       "content": "enter the economist",
-      "speaker": "S148"
+      "speaker": "S148",
+      "uuid": "1ae78040-ba44-4c20-951f-bdcd563f265e"
     },
-    "172.56": {
+    {
       "requestid": "a46fd350-e00d-466f-b6d0-c9e6c3dea097",
       "timestamp": 172.56,
-      "content": ""
+      "content": "",
+      "uuid": "78ac573d-b0e9-4c8b-b98f-595b9ca72164"
     },
-    "177.22": {
+    {
       "requestid": "25c97841-c5be-4c1c-bc5c-12e235db719a",
       "timestamp": 177.22,
-      "content": ""
+      "content": "",
+      "uuid": "56353d14-7485-4edc-a587-f5b22cb250de"
     },
-    "185.48": {
+    {
       "requestid": "af842bfb-3127-4dfc-bd26-6a3293ae3640",
       "confidence": "0.6297584",
       "timestamp": 185.48,
       "content": "from wmic this is freakonomics radio",
-      "speaker": "S29"
+      "speaker": "S29",
+      "uuid": "4472daa6-937a-4be9-b6f2-0b98f852b16a"
     },
-    "191.42": {
+    {
       "requestid": "698c1778-138a-41e7-8076-88f68e06590f",
       "confidence": "0.4976353",
       "timestamp": 191.42,
       "content": "today the economies guide to parenting here to helpeven.net",
-      "speaker": "S29"
+      "speaker": "S29",
+      "uuid": "077b34de-5dab-4f43-bb9f-47e2d2fbaacc"
     },
-    "199.36": {
+    {
       "requestid": "2d9ea7b1-440d-48ee-96a8-61138ff5e753",
       "confidence": "0.8170904",
       "timestamp": 199.36,
       "content": "I know what you think you thinking what that is",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "9087308c-274d-441d-9461-7932d434f994"
     },
-    "204.23": {
+    {
       "requestid": "f6018adb-dc5b-4329-a131-4121491e641b",
       "confidence": "0.6402218",
       "timestamp": 204.23,
       "content": "thomas what can a condom spots we have to say about something and emotional is new one since you mean iparenting well we say this because akamas aren't necessarily emotional or for that matter new on store humane maybe they are exactly the people we need to sort this through",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "9143bb0e-567f-46a1-bc2c-2e1a72a84348"
     },
-    "223.74": {
+    {
       "requestid": "85f82e7f-83b8-42a6-bf15-9a6a004dccba",
       "confidence": "0.7786682",
       "timestamp": 223.74,
       "content": "maybe I'm steve levitt at 4 children amanda's 11 olivia's 10 nicklaus's 8 in sofia 72 are adopted from china tour biological father and we we almost have 2 sets of twins are there in each case one of the twins biological any other is it up from china",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "5a9f3acd-958b-4457-8d00-888aa4150bf7"
     },
-    "243.71": {
+    {
       "requestid": "12c35743-a19f-4b4d-ad18-efd1c1a18817",
       "confidence": "0.7447716",
       "timestamp": 243.71,
       "content": "steve levitt is my freakonomics friend and coauthor over the past few years and I've written quite a bit about parenting I've got 2 kids solomon is 10 ananya's 9 but let matt know he's got his own approach to parenting",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8382222f-8031-449b-a995-4ba6f668218a"
     },
-    "258.13": {
+    {
       "requestid": "0d7f0c82-f173-463c-a9a4-b0fff7286f9f",
       "confidence": "0.6579341",
       "timestamp": 258.13,
       "content": "who sings lazy yellow I could be investing in the kids are I could be mountain building my own line in a hobby in and sleeping and things in south",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "9c885f8c-0f33-4902-a7ab-888d67633be7"
     },
-    "268.9": {
+    {
       "requestid": "365b1b46-b178-444f-9430-83a77741831f",
       "confidence": "0.6499675",
       "timestamp": 268.9,
       "content": "I'm sure it's listening go to my brother for kids if you have too many kids you can't invest heavily in any one of them because you go crazy in south",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "9faf7b69-c5ac-4dc9-8183-843a12d543e0"
     },
-    "279.14": {
+    {
       "requestid": "81a2f3e2-f0a9-4651-8bdb-3f1ef6376d1b",
       "confidence": "0.7490049",
       "timestamp": 279.14,
       "content": "I do you know you leave some of the parenting to the older sibling that you just hope that the schools will take care of it but no it's not like to know if you have an only child but sure you got to pangkat one kid can lavash a tent on the bed",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "08f8a5cf-c66d-4f09-994b-3a031d124ffa"
     },
-    "293.2": {
+    {
       "requestid": "d85cc180-31bb-4a79-b9e3-443e5266b3c3",
       "confidence": "0.8176971",
       "timestamp": 293.2,
       "content": "you have 4 kids in one wants to play soccer I want to play baseball the other one wants to play the clarinet",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "f150ae1c-3d49-4ca0-8ed6-250463156bda"
     },
-    "300.05": {
+    {
       "requestid": "f8bbe209-5ac4-4edf-abed-24a230f8d2d1",
       "confidence": "0.6697813",
       "timestamp": 300.05,
       "content": "mitches watch tv instead I play let me not straight guy was the ideal parents don't worry he's not the only accounts for talking too in fact",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5b5b1d85-9cb8-4835-81a9-7c5dc74b6fec"
     },
-    "308.69": {
+    {
       "requestid": "94b0723e-8f05-46f4-b971-1dad4d779962",
       "confidence": "0.7113213",
       "timestamp": 308.69,
       "content": "we put together a whole round table at them hey guys introduced yourself",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5b2bb31b-0cd3-456a-9d1c-012fd40a1ca5"
     },
-    "313.72": {
+    {
       "requestid": "6e3848cf-8276-46ad-97af-4babc3bd10fc",
       "confidence": "0.7570531",
       "timestamp": 313.72,
       "content": "I am brian kaplan I'm a professor economics at george mason university and I am the author of selfish reasons to have more kids while being a great parent is less work and more fun than you",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "81bab5f6-b631-48ba-afa9-cc28fc3fb7ed"
     },
-    "326.08": {
+    {
       "requestid": "574d530c-6527-47a5-b1aa-6fb997812b27",
       "confidence": "0.6539155",
       "timestamp": 326.08,
       "content": "I'm less acartia many economics department of the university of maryland and I study at 7 and expenditure programs in issues relevant message to low income populations in the west you also mom",
-      "speaker": "S304"
+      "speaker": "S304",
+      "uuid": "961ae1e8-4610-40ec-8d03-f708c25d3a67"
     },
-    "337.85": {
+    {
       "requestid": "182314e7-3714-4a37-b672-d548c386e032",
       "confidence": "0.814109",
       "timestamp": 337.85,
       "content": "I'm a mom of 3i feel the way I explain things to my kids are here in a condom is talking to tom I mean I explain everything to my kids in terms of opportunity cost and I say we are making",
-      "speaker": "S298"
+      "speaker": "S298",
+      "uuid": "5c342efa-cc0b-4047-bdbb-d44d54f910ae"
     },
-    "350.05": {
+    {
       "requestid": "21d9f2c5-20a4-4e1f-96da-1305667dc7d7",
       "confidence": "0.6438163",
       "timestamp": 350.05,
       "content": "I don't really know which 2 in the grocery store in like less than your making choices if you think that you don't get that are ready to cast your choices and I hear my son tell my daughter that all are thinking of you like look you made a bad choice you know so I realize I talk to my contacts",
-      "speaker": "S298"
+      "speaker": "S298",
+      "uuid": "dd7161bd-01c5-4fa1-b9ca-1cd42ee991ab"
     },
-    "366.83": {
+    {
       "requestid": "f92c6b0c-68da-4879-b79c-ec18f70dc5b4",
       "confidence": "0.5837842",
       "timestamp": 366.83,
       "content": "suntrust locations on the professor of economics at mobile business school are usually in melbourne australia boots visiting at the moment microsoft research",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "35a0eb49-d7a5-4f47-9e0e-92a899cd8bd9"
     },
-    "376.71": {
+    {
       "requestid": "2eab553c-bcf6-4c74-916e-784acd49c393",
       "confidence": "0.5678524",
       "timestamp": 376.71,
       "content": "joring my day job I am and apply dakota maslova theoretical bensedin a data driven bent and otherwise I'd guys and noble path of life",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "ed812d8e-207c-4920-a0af-a6d9e0ca3529"
     },
-    "387.5": {
+    {
       "requestid": "6462d5e1-4fae-40a8-bf7a-88119a69761b",
       "confidence": "0.7001989",
       "timestamp": 387.5,
       "content": "and I'd like to leverage my career as much as possible so when it comes to parenting I ended up writing a book called brent atomic's an economist dads parenting experience is",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "8795de3f-b9c0-4de4-9586-5e02401a26cf"
     },
-    "399.21": {
+    {
       "requestid": "6c774e42-9b23-43e8-b4aa-62a7e2095d19",
       "confidence": "0.687257",
       "timestamp": 399.21,
       "content": "I'm bruce sacerdotum a professor of economics at dartmouth college anna national bureau of economic research and I teach financeira dartmouth what time from airlia labret honest I studia kids education kidshealth encomenda well being that sort of thing",
-      "speaker": "S62"
+      "speaker": "S62",
+      "uuid": "0c39a01b-486a-4433-bfa4-32e7a91c05fb"
     },
-    "414.06": {
+    {
       "requestid": "17d9ae78-bc8c-49d0-9ebd-2df2323a2a39",
       "confidence": "0.7705857",
       "timestamp": 414.06,
       "content": "catch air in on your professional website you list yourself as a professional parents as well correct",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "71fd00f2-7b59-4aa6-8897-092eda54823b"
     },
-    "419.92": {
+    {
       "requestid": "e8a779b7-0fc3-4d15-9098-a364e0a3efdf",
       "confidence": "0.6899546",
       "timestamp": 419.92,
       "content": "yes right yep then it probably is I'm even spend more hours on that than I do not research",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "6fa72c8a-ad31-48d6-bb1f-e4d08ecc4196"
     },
-    "425.2": {
+    {
       "requestid": "9166983c-bdd4-4985-b84b-4a84ccd26035",
       "confidence": "0.7645402",
       "timestamp": 425.2,
       "content": "my name is valerie ramian I'm a professor of economics of the university of california san diego I'm married to another professor of economics am at the same department his name is gary ramey and we are right number papers together",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "9d2d01f4-8514-4fcf-ac9f-2be7c79adf18"
     },
-    "440.41": {
+    {
       "requestid": "7f90d444-e2f2-4db9-b446-dbc35d5a3a22",
       "confidence": "0.7810597",
       "timestamp": 440.41,
       "content": "we have 2 children AA college age son who is 21 interesting engineering although he was pretty good in economics in high school he decided to do something a little bit more opleiding which is engineering and a daughter who is a junior in high school who at this point isn't quite sure what she wants to study in",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "72451d09-e9d0-4dd0-9fd7-f3b7482e9342"
     },
-    "458.68": {
+    {
       "requestid": "d136fea3-78f3-4158-974d-8e2f120e2a01",
       "confidence": "0.7457969",
       "timestamp": 458.68,
       "content": "college but she's thinking about taking to economics test to see if it's any different from what she hears at the dinner table at home",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "e86104aa-8c9c-4c3e-9aae-21b64ac7490a"
     },
-    "466.75": {
+    {
       "requestid": "14cdbeea-0c02-49a0-a9a1-d29e83af7c2f",
       "confidence": "0.7802592",
       "timestamp": 466.75,
       "content": "so your son is the real rebel going into engineering that's right",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "905cfdae-b96c-4e09-8a89-97e8d86a810b"
     },
-    "471.63": {
+    {
       "requestid": "2db69071-672b-47f1-a71b-2e591022b92c",
       "confidence": "0.8542636",
       "timestamp": 471.63,
       "content": "rounding out the round table is another pair mom and dad a card is justin wolfers is in australian born professor at wharton",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ce1a4c0b-007c-4735-85ba-963795796657"
     },
-    "479.4": {
+    {
       "requestid": "0cd53e33-407e-4ef9-810c-24d92d8a9578",
       "confidence": "0.7580197",
       "timestamp": 479.4,
       "content": "betty stephensons ultraport and is currently serving chief economist for the department of labor in washington dc that's why I visited them and are absolutely beguiling 19 month old daughter matilda",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "59fc12da-1034-43ee-b7d3-44a01c54c337"
     },
-    "492.12": {
+    {
       "requestid": "7685b598-7dbf-4c13-8a48-46181e44ae15",
       "confidence": "0.2126782",
       "timestamp": 492.12,
       "content": "I'm here hello",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "9f701e56-c95b-4a09-b789-8430382ac60d"
     },
-    "496.2": {
+    {
       "requestid": "e9bf7eab-46b1-4447-a6ca-71ad04b3d07d",
       "confidence": "0.631376",
       "timestamp": 496.2,
       "content": "chair in fact about justin and I'm at of graduate students in economics and we started studying issues related to the family right away like as soon as we started dating when she started doing research on divorce just very puzzling latest are you thinking yeah yeah",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "bed11269-6cbd-49fa-97e5-76104de9b6e1"
     },
-    "514.52": {
+    {
       "requestid": "69024fec-9158-4186-a516-e4b3c726c4dd",
       "confidence": "0.6095701",
       "timestamp": 514.52,
       "content": "and I had the first that paper we rode together was",
-      "speaker": "S76"
+      "speaker": "S76",
+      "uuid": "456fe92e-56f2-4a5c-b2ad-f957e9c37441"
     },
-    "519.53": {
+    {
       "requestid": "fd229cb1-2040-438c-892f-f757e37dc6ab",
       "confidence": "0.7563136",
       "timestamp": 519.53,
       "content": "about the relationship between the ability to get divorced and avoiding violence in relation to answer so why are finding one that the divorce reforms that allowed one person to unilaterally walk out of a relationship saves lives it reduced women committing suicide introduced women getting killed by their partners",
-      "speaker": "S314"
+      "speaker": "S314",
+      "uuid": "c397fb74-a9a2-419c-91f8-692f93a00638"
     },
-    "539.22": {
+    {
       "requestid": "d16670a4-a5dd-4d16-9e0b-733eb7c5af6c",
       "confidence": "0.818148",
       "timestamp": 539.22,
       "content": "edward is domestic violence more broadly",
-      "speaker": "S314"
+      "speaker": "S314",
+      "uuid": "8e787207-843b-402d-8eb6-3f065efa1070"
     },
-    "542.14": {
+    {
       "requestid": "ffe81b50-063a-40f5-bbcc-bf386c532fcd",
       "confidence": "0.6205641",
       "timestamp": 542.14,
       "content": "no I'm at are the 2 of you married no I'm not there in a year and I feel <profanity>horny</profanity> the answer",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3b60d777-2d65-43b0-8d3c-50b07169ab4e"
     },
-    "550.98": {
+    {
       "requestid": "d2baa076-8185-46a2-b4cc-26f02fc8732e",
       "confidence": "0.7955013",
       "timestamp": 550.98,
       "content": "alright so I did notice stevenson wilferth aren't actually married they refer to each others partners rathan husband and wife",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e065f408-7e76-4ec9-a8f3-1bae2be3b02e"
     },
-    "558.34": {
+    {
       "requestid": "14567c07-6c4c-484a-8478-80476f067e04",
       "confidence": "0.661965",
       "timestamp": 558.34,
       "content": "I am the person in the whole file manage is all of our money so definitely do follow the old household specialization means but we do have much more neroli",
-      "speaker": "S314"
+      "speaker": "S314",
+      "uuid": "b898959f-4b68-4f3e-abe9-da6f7b12285c"
     },
-    "566.86": {
+    {
       "requestid": "c8538811-55c2-4f1d-a606-5febf39478c4",
       "confidence": "0.7648648",
       "timestamp": 566.86,
       "content": "self adjusting does ITI do money at justin does diapers I do breast feeding and when it comes to money I quickly realized I had a pretty leah young people the cast of being married outweighed any of the benefits when it comes to financial cost particularly is 2 people who have",
-      "speaker": "S76"
+      "speaker": "S76",
+      "uuid": "e1eee322-c648-4e11-b060-183ac2b7c378"
     },
-    "586.8": {
+    {
       "requestid": "2a08f6d4-6c68-40ce-ac5d-c1006854febe",
       "confidence": "0.6763806",
       "timestamp": 586.8,
       "content": "similar careers in there for similar earnings the tax",
-      "speaker": "S314"
+      "speaker": "S314",
+      "uuid": "475612b7-11ff-4820-9fcb-f42a21f6ef73"
     },
-    "591.15": {
+    {
       "requestid": "d996c8e5-bae3-43d9-a13b-439948817c7a",
       "confidence": "0.639955",
       "timestamp": 591.15,
       "content": "half feet in one of her marriage penalty yeah it would've been sent out so what do you say beer but not be married",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "00be1dad-7e55-4c4b-a922-ff8f2fa35113"
     },
-    "597.01": {
+    {
       "requestid": "15dff719-fd96-47e6-9146-90a36fe0d265",
       "confidence": "0.7899196",
       "timestamp": 597.01,
       "content": "over $20,000 here",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "a7780e1f-22c7-4c4a-ba66-b165b56cff3a"
     },
-    "598.75": {
+    {
       "requestid": "417785e2-a5c6-4790-a636-6bb2fdf061af",
       "confidence": "0.5690106",
       "timestamp": 598.75,
       "content": "wow you could set you have another cancel",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "753a2037-e490-462b-ae5b-3655b11dd448"
     },
-    "602.03": {
+    {
       "requestid": "f6436195-30aa-4d25-86c0-1cf1020679aa",
       "confidence": "0.6212304",
       "timestamp": 602.03,
       "content": "private school I love you when it cools people oppose it a wedding ask them how much they think with their about to do is west end and tellem of the price tag is will smith marriages institutional people in get in and out of fairies lita's nexxice of the peppas most people want to do ya",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "c6502a94-a25f-4884-be68-b84dc082a250"
     },
-    "618.56": {
+    {
       "requestid": "49ab4614-ec6b-420f-831f-624e6e8a3e1c",
       "confidence": "0.6769997",
       "timestamp": 618.56,
       "content": "so what couples do you like I do with a merry is try to make it difficult to leave mean when a fish from the bond than a legal contract with the door and you can't tell",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "888b83e5-263f-480a-9b7b-22089f47ee5c"
     },
-    "628.68": {
+    {
       "requestid": "6034878b-f6c5-4f76-b946-7a33ca0af28a",
       "confidence": "0.2433324",
       "timestamp": 628.68,
       "content": "MM",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "f264286a-43e6-48af-901a-d3cab1fdcd2b"
     },
-    "631.4": {
+    {
       "requestid": "b7e1d7dd-d52b-4028-82bc-c53fe29013db",
       "confidence": "0.5374523",
       "timestamp": 631.4,
       "content": "dodaq right on cue I",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "59802df7-26d8-4d0c-8ce2-6ff857b11fa9"
     },
-    "633.38": {
+    {
       "requestid": "ce2bbeaa-6e4d-471e-82af-41c0e41956a1",
       "confidence": "0.6179356",
       "timestamp": 633.38,
       "content": "I make it incredibly difficult or expensive for slipknot that much stronger the marriage certificate",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "00e5d1ce-a5f9-4aa4-9fc0-273853c96763"
     },
-    "638.22": {
+    {
       "requestid": "ff6fd19f-5077-4d47-8563-d0fc2afd5666",
       "confidence": "0.8377013",
       "timestamp": 638.22,
       "content": "once inside of a child stevenson started training and she puts it a lot of running eating organic reading up on population and all kinds of medical in behavior literature",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "181d63e8-b203-4959-9fd9-caada8d919be"
     },
-    "649.16": {
+    {
       "requestid": "a076b35e-fbb3-4fd2-8c1f-344cb0d7cd83",
       "timestamp": 649.16,
-      "content": ""
+      "content": "",
+      "uuid": "30648bb9-f5a4-4421-8b1e-72a1a21dcd1b"
     },
-    "651.78": {
+    {
       "requestid": "d9398c14-9767-43fd-a111-2ac5aaff3559",
       "confidence": "0.8076811",
       "timestamp": 651.78,
       "content": "you know it we approached getting pregnant like any other project we've done I attempted I spent 4 months getting fit I went to the doctor for a check up",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "faeebcb2-1821-4629-a69e-2994458a203e"
     },
-    "661.79": {
+    {
       "requestid": "a32c63a9-8dc6-48f6-a44b-9f854bd87a5b",
       "confidence": "0.4750167",
       "timestamp": 661.79,
       "content": "this is for work right now for months",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "2ccb2ce3-6f90-4c48-a227-70f3bbd54421"
     },
-    "664.27": {
+    {
       "requestid": "64e130c1-8fa6-49c9-ba5c-bd2b6796a344",
       "confidence": "0.7812696",
       "timestamp": 664.27,
       "content": "401 in my id out I went and got a check up all the medical tests I need and I started",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b961e2c9-9611-4c80-ac67-d6024eeb417f"
     },
-    "669.07": {
+    {
       "requestid": "059673ab-0d84-48a7-bad1-1cce95ca1335",
       "confidence": "0.5090309",
       "timestamp": 669.07,
       "content": "training for pregnancy when is chinese food in besides the running",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "68f86541-b6d1-43ab-a202-5410ebe8771a"
     },
-    "674.89": {
+    {
       "requestid": "1d2da7e7-fee8-4837-a0c7-6d37d9cea6e3",
       "confidence": "0.5964158",
       "timestamp": 674.89,
       "content": "prenatal vitamins and running eating right I wish I knew it and then it in bob chardin's figuring out my cycle ovulation and",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "d3bb35d1-e06e-47ce-8bad-c2b1b09c75c4"
     },
-    "685.33": {
+    {
       "requestid": "d60316c1-c120-4e24-b5f3-ea3d1ca881b6",
       "confidence": "0.6962294",
       "timestamp": 685.33,
       "content": "do all the state exist in an xl spreadsheet cinnamon it's very house right now",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4256411c-7d05-48ae-9809-73a099c53061"
     },
-    "690.8": {
+    {
       "requestid": "2748c0a6-9289-4c06-b843-04815956fb94",
       "confidence": "0.658011",
       "timestamp": 690.8,
       "content": "conception is just the beginning once the baby arrived at stevenson and wilford's put everything mean you as a condiment into being a mom and dad",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "bf6bc5d1-286c-425e-b25a-aefb4efc50c2"
     },
-    "700.39": {
+    {
       "requestid": "bd24e210-0a11-4652-97f5-041ede5be186",
       "confidence": "0.8754721",
       "timestamp": 700.39,
       "content": "lesson number one division of labor",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "28a75c84-75fd-4e9d-8318-911844eaa10d"
     },
-    "703.45": {
+    {
       "requestid": "7356236e-d16f-45e2-b6bf-c3b69e9a1212",
       "confidence": "0.4814785",
       "timestamp": 703.45,
       "content": "is it natural unless I breast fed and rested the diapers",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "d1bd9409-de5e-402e-bfc1-1aed58fddb5e"
     },
-    "708.06": {
+    {
       "requestid": "5209284b-0e16-4bd3-ab2c-2debe62e7119",
       "confidence": "0.5607877",
       "timestamp": 708.06,
       "content": "yeah shirt with an english language but she doesn't put you out with that and um",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "24dbe1cd-952a-4cc3-a222-8c3aee3ddfbd"
     },
-    "715.31": {
+    {
       "requestid": "67f39f51-a79b-4647-943e-1684f620e8bc",
       "confidence": "0.8012182",
       "timestamp": 715.31,
       "content": "and you did diapers because it is not the car larry somehow of breast feeding",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c70f5387-1274-4a88-9c57-517334fe2628"
     },
-    "719.78": {
+    {
       "requestid": "17f78e7f-09b1-49b0-9d0e-7f3f10052ccd",
       "confidence": "0.4701529",
       "timestamp": 719.78,
       "content": "I did that was actually pretty dog images anyone stuff too loud",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "e59c6f3f-64e9-41b3-a250-4b51eb29980e"
     },
-    "724.76": {
+    {
       "requestid": "4c7de7da-00f7-4d60-a904-8cae62382cec",
       "confidence": "0.6714819",
       "timestamp": 724.76,
       "content": "what time it is to do I put this is basically the same the same amount know it in the face we would come out",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "96a7efd0-06fc-48fc-93d6-2e191d9701cf"
     },
-    "731.65": {
+    {
       "requestid": "e93f9ae7-589f-4c11-8b81-004587b1b125",
       "confidence": "0.7027506",
       "timestamp": 731.65,
       "content": "why I will say I actually now would fight is my male friends that they should put up the hand for this job but you can say should you buy gmail friends are they should learn to be the one that recipe that does look even more fun with a nice time to spend with you could actually avenue really young it on a few times I'll tell mike I can take with you",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "36cbaa06-f872-4506-b8ed-78bce67ada7b"
     },
-    "750.01": {
+    {
       "requestid": "38c58859-e41e-433b-967d-d45d6a1dbc79",
       "confidence": "0.7247452",
       "timestamp": 750.01,
       "content": "I give it a state like you have an s roll 'em so much is like a <profanity>bitch</profanity> is taking advantage of me",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "37274f4b-fefb-4111-85e3-1d98793fc777"
     },
-    "756.83": {
+    {
       "requestid": "1645a325-a8c1-4d4a-883b-78396de6df37",
       "confidence": "0.7060927",
       "timestamp": 756.83,
       "content": "at superior bhagani ability getting to do that I just told my brother in law he should do the same thing and I think you did",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "31574fc7-a2d9-4931-ba81-1d5f757cdfe3"
     },
-    "763.92": {
+    {
       "requestid": "bda8472f-10ae-4807-b24a-223f41a0a2fd",
       "confidence": "0.8105069",
       "timestamp": 763.92,
       "content": "no wolverson stevenson are both busy professionals which means that matilda would be spending a fair amount of time the babysitter could they have hired a perfectly nice friendly company nanny for 15 bucks an hour early I could have",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e2236cd4-22b2-4411-85c9-2a3081be3ad0"
     },
-    "777.78": {
+    {
       "requestid": "9cd1b6b9-d81c-47f8-8c7d-5102a7963fc4",
       "confidence": "0.8006592",
       "timestamp": 777.78,
       "content": "so you guys hired a nanny who is public who is extremely skilled as a",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "81925516-8d85-4261-8bda-bb5142b3d141"
     },
-    "783.79": {
+    {
       "requestid": "00796cae-7784-4506-a109-1dcb2bb2eb3c",
       "confidence": "0.5840324",
       "timestamp": 783.79,
       "content": "as a nanny and beyond rayene think bill is getting the same kind of up",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "a7d0c1c3-d6d6-417a-b693-67ea217e28c0"
     },
-    "788.81": {
+    {
       "requestid": "faa965f8-e1bc-40a7-90df-80ccfb5ce7f7",
       "confidence": "0.6144646",
       "timestamp": 788.81,
       "content": "upbringing and electrostimulation as if we were at home raising her in AI think there's certain level of comfort inn atlantic with alan gets paid at a $50,000 here",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "e7ae4c47-3803-4033-97f1-dc71d8f4d4ad"
     },
-    "801.73": {
+    {
       "requestid": "eca6bab0-cec5-4893-993d-1a68cc733961",
       "confidence": "0.6732534",
       "timestamp": 801.73,
       "content": "ellen does more than just watch after matilda",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "0c7b4b77-f201-4687-b1f7-7c24511a43a8"
     },
-    "813.24": {
+    {
       "requestid": "74464f6c-a2a2-41dc-adf0-bf97b899af37",
       "timestamp": 813.24,
-      "content": ""
+      "content": "",
+      "uuid": "fcd89aa3-897b-487b-9393-6e5a202a468c"
     },
-    "814.89": {
+    {
       "requestid": "f9c5874e-e29a-4064-825a-7ecbfb9967d0",
       "confidence": "0.3546962",
       "timestamp": 814.89,
       "content": "good job menali",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "f7d2ab3c-4def-4879-873f-3a22b3148af1"
     },
-    "817.98": {
+    {
       "requestid": "9c855625-0ebc-480a-b757-8c55e7daeb2e",
       "confidence": "0.6393266",
       "timestamp": 817.98,
       "content": "so matildas already learning abc's put",
-      "speaker": "S127"
+      "speaker": "S127",
+      "uuid": "6f6a3ba5-eaa7-4ec5-9327-e31c0d170f33"
     },
-    "824.17": {
+    {
       "requestid": "14f4f15c-6dc4-47b9-b5f4-1cbfdfb5651f",
       "confidence": "0.546236",
       "timestamp": 824.17,
       "content": "is it soup the one ring to my stroke that we're treated redhead huge impact on this am which was teaching baby sign language",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "3bba0ce2-bf88-4a77-b156-6b5e815fde55"
     },
-    "831.44": {
+    {
       "requestid": "a830f64e-6c2a-4862-bedf-8efabd11ddf2",
       "confidence": "0.5061185",
       "timestamp": 831.44,
       "content": "adam and it turns out that this is a great way of increasing if I kept before their eyes speaking skills kicking in matilda speaks tricks on which is been able to communicate in the yard with twins nipple cheerios",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "37ff9745-0156-49ed-ae16-77949f8d4c1f"
     },
-    "846.06": {
+    {
       "requestid": "e13f3dec-090f-4619-b72c-b9e5e956085d",
       "confidence": "0.4177573",
       "timestamp": 846.06,
       "content": "guifarro better you know",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "11d636e2-27be-4027-aeb8-805c0d90ec7e"
     },
-    "848.72": {
+    {
       "requestid": "b7bf0f8b-600c-44d1-9cf6-10d6d6ab59f3",
       "confidence": "0.445298",
       "timestamp": 848.72,
       "content": "if not no biggie I missed 6 months now but can I pre verbal in with my data plan already what time",
-      "speaker": "S128"
+      "speaker": "S128",
+      "uuid": "e3de320f-c6e9-4f98-8e36-0c637424dae9"
     },
-    "857.04": {
+    {
       "requestid": "199fde0e-819e-4bf1-98d3-aaca5daa6f73",
       "confidence": "0.5514349",
       "timestamp": 857.04,
       "content": "classes so she can suggest music by how many days we can find cheap new devices one day we can get our classmates we got underway and she goes to preschool",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "bb269e5f-70c4-48b9-aad5-cc641f1381f8"
     },
-    "870.16": {
+    {
       "requestid": "0efd3237-61cb-4c64-a0dc-40350397696d",
       "confidence": "0.5072013",
       "timestamp": 870.16,
       "content": "free preschool crafts country take me to leave leaving houseal dates anymore tonight and sit my children this is your first date him and catholic you like you even finish 20:27",
-      "speaker": "S127"
+      "speaker": "S127",
+      "uuid": "daefca78-033e-4250-8064-a366b34210a6"
     },
-    "882.84": {
+    {
       "requestid": "149dba3e-f536-40f9-8d13-8b0abad74ac9",
       "confidence": "0.716076",
       "timestamp": 882.84,
       "content": "how much human capital will matilda accumulate all times 27 NN hear the hard part",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3208ab31-6625-4903-96bd-dc4d2bd596a6"
     },
-    "888.61": {
+    {
       "requestid": "f8edc383-32bb-4879-a218-ad1ca786a00f",
       "confidence": "0.8562055",
       "timestamp": 888.61,
       "content": "how much about human capital will be because of what are parents did versus who her parents were I mean that's the central issue here right in the never ending nature versus nurture debate jeans versus environment",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ea7e1bc1-f9e3-4c90-9771-a939dd3ec4ba"
     },
-    "901.41": {
+    {
       "requestid": "bf8f6272-6881-4d0d-9632-2d3f89e37d2f",
       "confidence": "0.8133556",
       "timestamp": 901.41,
       "content": "what we really wanna know is how much influence do parents have on their kids once the kids are out of the womb will help comfort inn are you I mean you guys are making a lot of choices from organic food in sign language end",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ea86938c-e70e-421b-a443-2aa5bdd63ad5"
     },
-    "915.14": {
+    {
       "requestid": "15908739-5c31-4d2b-8609-64da0632d48d",
       "confidence": "0.7047694",
       "timestamp": 915.14,
       "content": "open to behavioral things",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b7e74d4a-e3c8-44bc-ae1d-066ef750e785"
     },
-    "917.45": {
+    {
       "requestid": "1e0f4a70-b9e1-4ada-a54b-71ad299a84b4",
       "confidence": "0.858972",
       "timestamp": 917.45,
       "content": "how confident are you that you are investments are forget about",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "27a1a492-d629-4108-8e42-734beb4edc18"
     },
-    "922.01": {
+    {
       "requestid": "3e26ebf9-6274-438b-bac9-65ba3d7d2822",
       "confidence": "0.7381915",
       "timestamp": 922.01,
       "content": "I optim all even worth while",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "63516f0f-b0f5-46db-ad1b-c82c1f4fb554"
     },
-    "928.82": {
+    {
       "requestid": "6ac45402-a604-489d-9f31-99b5453f7432",
       "confidence": "0.571468",
       "timestamp": 928.82,
       "content": "I pardon me professor bowl for snow to come",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b50d7f87-26a7-49c4-85bf-5c4c38082927"
     },
-    "932.99": {
+    {
       "requestid": "e148933c-d8d8-4912-965e-14c693e40ed7",
       "confidence": "0.7866527",
       "timestamp": 932.99,
       "content": "here's the thing as much is wolfers in stevenson sounds like your typical obsessive sweat the small stuff micromanaging parents they actually agree with the rest of our pic on this round table on one crucial in quite surprising facts",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fd52a062-6aff-482c-96ab-194680b19db5"
     },
-    "952.61": {
+    {
       "requestid": "971d4b5b-468b-4ac1-9f49-a01b658bcddf",
       "confidence": "0.6668279",
       "timestamp": 952.61,
       "content": "just don't",
-      "speaker": "S148"
+      "speaker": "S148",
+      "uuid": "6fdf09c4-997f-4e4f-9185-f905fe7b9e90"
     },
-    "954.33": {
+    {
       "requestid": "028a5c5e-24e0-4bd1-a803-f58f7a1a7459",
       "confidence": "0.8174204",
       "timestamp": 954.33,
       "content": "matter as much as we think we do",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d7e53fc1-7ce6-4bb5-a087-799ef4038b8e"
     },
-    "957.37": {
+    {
       "requestid": "c2eb7c16-4d0e-40cb-9a4f-d789906ee71a",
       "confidence": "0.5466485",
       "timestamp": 957.37,
       "content": "here's joshuah gensingen said my guitar having no experience that truck 12 audi SII don't think they matter a huge amount and brian kaplan in all honesty I do sometimes thank you",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "a148e306-fcda-4108-a0ac-56496ff8973d"
     },
-    "971.24": {
+    {
       "requestid": "ac315c5b-4c94-4929-b9f6-9e672adbffd1",
       "confidence": "0.8143498",
       "timestamp": 971.24,
       "content": "my kids don't turn out well not everyone blames me",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "0be29964-36fb-4cb4-b9b2-17402ebacee8"
     },
-    "973.8": {
+    {
       "requestid": "5ada0148-e96e-42fa-97a8-d365e2251c5c",
       "confidence": "0.6248775",
       "timestamp": 973.8,
       "content": "and then I would still say well today to say was gonna happen anyway in steve level one of the things that I think",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "992cc191-d6c6-4f6d-aaea-79a339529cea"
     },
-    "980.37": {
+    {
       "requestid": "9afd130d-d4a5-4e5a-84a1-8370982255ff",
       "confidence": "0.5523297",
       "timestamp": 980.37,
       "content": "he is true is that obsessive parenting has it she work",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "f75d0507-8ee2-4c8e-8403-fb801db2254c"
     },
-    "987.53": {
+    {
       "requestid": "72348fb8-9123-42be-bcf5-6bafc5af11cc",
       "confidence": "0.8495593",
       "timestamp": 987.53,
       "content": "how do you talking about",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a7d51404-0806-4705-b014-17c1cc3222a9"
     },
-    "989.14": {
+    {
       "requestid": "499d5477-0deb-44d9-9870-4ce4c1a39aeb",
       "confidence": "0.5779908",
       "timestamp": 989.14,
       "content": "what does the compass meminisse it apparent don't matter very much they've ever",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7baf2e0a-d0bf-4e2a-b6a9-1d7132e9f65d"
     },
-    "996.0": {
+    {
       "requestid": "ee0d44e1-783e-4d0e-911d-8763f6decc74",
       "confidence": "0.4436083",
       "timestamp": 996.0,
       "content": "dunkin was playing yes",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "02babc5c-17c8-42ca-a0af-b6d551f1a406"
     },
-    "999.01": {
+    {
       "requestid": "6a4b56f5-dfc5-4884-9ca9-480c17611070",
       "confidence": "0.208455",
       "timestamp": 999.01,
       "content": "baidu coming up",
-      "speaker": "S154"
+      "speaker": "S154",
+      "uuid": "7f257b17-72cd-42b4-9f32-8cdfd446e149"
     },
-    "1003.11": {
+    {
       "requestid": "ef080fce-2977-477e-883d-eca6a1f60609",
       "confidence": "0.702301",
       "timestamp": 1003.11,
       "content": "from education to income to drinking and smoking will hear what",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "dec3b662-3b34-4845-999e-f4572d2835ef"
     },
-    "1008.42": {
+    {
       "requestid": "ff70da3f-d014-4a4f-a8fc-13979a73f121",
       "confidence": "0.6994239",
       "timestamp": 1008.42,
       "content": "the day to say about how much info in parents really have",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "d1ee9bbd-9c6b-4667-8b39-18eb62680826"
     },
-    "1012.27": {
+    {
       "requestid": "8f95ee81-55ab-412b-bd8d-79beeb0ef12a",
       "timestamp": 1012.27,
-      "content": ""
+      "content": "",
+      "uuid": "1824723c-10cd-40c0-b358-ddf37243c805"
     },
-    "1019.06": {
+    {
       "requestid": "a98a37fc-5252-432a-a08d-10936c3238e8",
       "timestamp": 1019.06,
-      "content": ""
+      "content": "",
+      "uuid": "00e418b0-5f13-4146-ae34-1cf60ab463bf"
     },
-    "1023.78": {
+    {
       "requestid": "d9189fcf-285a-46b0-a526-612e3d08496c",
       "timestamp": 1023.78,
-      "content": ""
+      "content": "",
+      "uuid": "cede7c32-ecb0-42c6-8368-bfaa1874468d"
     },
-    "1030.25": {
+    {
       "requestid": "62a93c79-ac69-4900-bf4b-9438addc5a2f",
       "timestamp": 1030.25,
-      "content": ""
+      "content": "",
+      "uuid": "f1d8d409-5a29-46f3-8bf5-5c6f9b53ba32"
     },
-    "1033.98": {
+    {
       "requestid": "0eacafd5-755d-4e33-b144-da62077058f7",
       "confidence": "0.7166377",
       "timestamp": 1033.98,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S161"
+      "speaker": "S161",
+      "uuid": "0aae7e92-dcd6-4d15-a723-75cfa0851d9b"
     },
-    "1041.8": {
+    {
       "requestid": "77b1798a-763b-45de-9940-820babc316d8",
       "confidence": "0.6188341",
       "timestamp": 1041.8,
       "content": "so for talking a parenting plan earth do you wanna listen to come as well there different species of economists",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "68d732c7-3d1c-4462-bc5f-66b3b0944c43"
     },
-    "1049.24": {
+    {
       "requestid": "2da570d7-d3b0-45af-af29-c6e4bee47610",
       "confidence": "0.5241936",
       "timestamp": 1049.24,
       "content": "who is steve levitt you're too kind of economy sermak l'economiste in their microcomp scimeca comma space penny the big question since leyshon financial crisis am I click on the thing is people",
-      "speaker": "S163"
+      "speaker": "S163",
+      "uuid": "fd7b9fa7-5f6b-400c-bd3b-34e20825fc54"
     },
-    "1061.43": {
+    {
       "requestid": "00033e58-215c-44fc-b41e-b197e3b04772",
       "confidence": "0.3874381",
       "timestamp": 1061.43,
       "content": "make who disappeared with an individual choices",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "cee61b36-c40d-4757-9f06-7678420aea81"
     },
-    "1065.29": {
+    {
       "requestid": "d705449e-1266-47f9-bf97-9100dd88d5ee",
       "confidence": "0.621843",
       "timestamp": 1065.29,
       "content": "I'm headed your on I'm on how we sent it back to what people do and how you can you gay to try to test",
-      "speaker": "S165"
+      "speaker": "S165",
+      "uuid": "f01e363c-a0b2-41f7-94e2-e5f6d370405d"
     },
-    "1072.26": {
+    {
       "requestid": "34204fb0-ddf1-4e89-a69d-9fc390084e25",
       "confidence": "0.5468043",
       "timestamp": 1072.26,
       "content": "hypothesis about whether superheroes turn out to be right or not like",
-      "speaker": "S152"
+      "speaker": "S152",
+      "uuid": "ce8c65f1-6c0d-48dc-a74a-e3d830573e5a"
     },
-    "1077.14": {
+    {
       "requestid": "2e0fa4b3-38e7-4c9f-9823-99d738e940bd",
       "confidence": "0.7604144",
       "timestamp": 1077.14,
       "content": "is teaching a baby sign language really increase your chances of success or are the kind of parents were likely to teach a baby sign language going to be successful kids anyway because their high iq parents now",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7c0aa88e-92aa-442f-96f5-865b9dfa2094"
     },
-    "1090.78": {
+    {
       "requestid": "d45403a7-941f-4e5c-8e89-42c8353da0d7",
       "confidence": "0.6376505",
       "timestamp": 1090.78,
       "content": "what something like parenting starbucks in cause and affect is really hard there's so many input to the kids white jeans in fireman school friends it's hard to know how each of them affect the output so I kinda miss think noon if only we could rent experiment on kids",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "24411367-8ab9-479d-9644-c70c82358359"
     },
-    "1110.03": {
+    {
       "requestid": "5ca0b9e5-5ecf-4d51-88be-29f6c9e0fcb1",
       "confidence": "0.5510447",
       "timestamp": 1110.03,
       "content": "we we do with my address book since we can not get it",
-      "speaker": "S172"
+      "speaker": "S172",
+      "uuid": "c689e3ea-199f-4e92-ba1c-269b8e300400"
     },
-    "1115.96": {
+    {
       "requestid": "70a3cc34-51a3-4052-97fd-765a6e204178",
       "confidence": "0.7114695",
       "timestamp": 1115.96,
       "content": "the best we can do is look for an accidental experiment ru sacerdote economist adam dartmouth went looking for such an experiment in adoption dana",
-      "speaker": "S173"
+      "speaker": "S173",
+      "uuid": "87c33bab-cef9-4b87-8884-7b35e542f3de"
     },
-    "1128.56": {
+    {
       "requestid": "a2d3bb74-dd61-4137-b507-66c4c3ab1c0b",
       "confidence": "0.8041332",
       "timestamp": 1128.56,
       "content": "I hunted and hunted and hunted a night off",
-      "speaker": "S175"
+      "speaker": "S175",
+      "uuid": "8eb488a2-0eee-42ab-aac2-d857438d2780"
     },
-    "1130.55": {
+    {
       "requestid": "cd896fa6-ec1a-460c-b405-b42b0fbb9255",
       "confidence": "0.7719409",
       "timestamp": 1130.55,
       "content": "do you have a wide variety of adoption agencies and at the thing that I really latched onto with my conversations with the hope adoption agency they are the biggest placer of adoptees into us families and they yeah were among the first to place korean adoptees with american families",
-      "speaker": "S176"
+      "speaker": "S176",
+      "uuid": "94060949-ccca-4ef3-a767-8ff07a90b5c5"
     },
-    "1148.63": {
+    {
       "requestid": "dffb6a36-e2d5-4824-819e-b639c90022b4",
       "confidence": "0.7467352",
       "timestamp": 1148.63,
       "content": "if you're trying to tease apart nature and nurture adoption is an experiment but the whole did options were particularly good for this purpose harriton bertha holt oregon farmers who after the korean war take place korean orphans with american families their policy",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "91efd850-ba73-444e-8bab-36381a3dd66b"
     },
-    "1166.79": {
+    {
       "requestid": "becc862c-e7f1-4cc1-ac88-df15df6e7a5a",
       "confidence": "0.7673652",
       "timestamp": 1166.79,
       "content": "first come first serve which meant that the orphans were adopted into all kinds of families not just high income families are higher education families",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ad3285f7-c0f1-486e-a886-b8e38830e4d4"
     },
-    "1176.72": {
+    {
       "requestid": "67bb6ce8-6ed0-4a90-9a01-f6ee6e1357b7",
       "confidence": "0.7261128",
       "timestamp": 1176.72,
       "content": "they do it in a process deades dolla tension purpose is random and so that got a condom is excited for the big point being that we have a sample of adult adoptees for whom they were effectively randomly assigned to their adoptive parents and that was the big deal not study",
-      "speaker": "S176"
+      "speaker": "S176",
+      "uuid": "4f452041-c388-4431-88f0-5f9d4be42feb"
     },
-    "1193.14": {
+    {
       "requestid": "1646c1e6-9cf8-4332-872c-b33047cfd02a",
       "confidence": "0.7118177",
       "timestamp": 1193.14,
       "content": "it's faster do it was digging into the adoption day to brian kaplan is the guy who wrote the selfish reasons to have more kids he was reading every piece of twins research econfina he did not having twin boys himself but its fascination predated",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7d55d033-1db9-467d-a023-ebf545afe12e"
     },
-    "1208.63": {
+    {
       "requestid": "361ac5f7-ca65-4918-a36b-7b8884852a74",
       "confidence": "0.5407773",
       "timestamp": 1208.63,
       "content": "obsequies way to explain it is but there's actually 2000 twins you gotta get a coat when she rather change your fraternal twins share half of their teams so if identical twins are more similar than fraternal twins",
-      "speaker": "S188"
+      "speaker": "S188",
+      "uuid": "346423a3-9eb0-427b-bd35-04e70176f848"
     },
-    "1222.03": {
+    {
       "requestid": "ec7884e9-b1df-4cfb-9c05-e1da4049ec5a",
       "confidence": "0.696808",
       "timestamp": 1222.03,
       "content": "this we could use that back to measure how much she in jackson at and once we've done that we can actually see how much room is any is left for parents remarried",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "73a75b5e-4887-49e1-aa53-0ff6f02f912c"
     },
-    "1232.93": {
+    {
       "requestid": "9021956a-1ac1-4515-9805-7e17bfcca6cf",
       "confidence": "0.7605109",
       "timestamp": 1232.93,
       "content": "and it all sounds very sensible so far sounds like you're trying to isolate cause and affect which is typical cases hard because you're not going to even a guy like you you at twins even u conn with you want to know these answers you're not gonna ship a funnier 20 some strangers palmita to see how that child comes up differently than any other identical twin",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "69267dd9-974f-458c-ad75-5a86f0fcb9ba"
     },
-    "1251.29": {
+    {
       "requestid": "e5b50c42-9379-4785-9d68-f49df7ed71f0",
       "confidence": "0.7723997",
       "timestamp": 1251.29,
       "content": "but you're using these kind of accidental experimenter shock to the system to isolate what's going on",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "01c75f11-7087-41ab-b3a6-91b8c950a7b7"
     },
-    "1257.02": {
+    {
       "requestid": "b6d44f35-1014-4642-9b3e-41719ef55b5e",
       "confidence": "0.5441494",
       "timestamp": 1257.02,
       "content": "exactly now out of print out of last 40 years basically every straight to parents care about release date every praise",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "875de1f1-8ce9-4cff-830c-1de7b208706b"
     },
-    "1265.5": {
+    {
       "requestid": "5698fe43-ac4f-436e-a3b3-fd9d58d8ac51",
       "confidence": "0.5872139",
       "timestamp": 1265.5,
       "content": "set some more than helpful turns care about is been studied by researchers an alarm for field using this message",
-      "speaker": "S188"
+      "speaker": "S188",
+      "uuid": "d50ae00a-81df-494a-bb17-3f5476a13b1f"
     },
-    "1271.68": {
+    {
       "requestid": "734c2033-bc4e-478c-8c8a-b1067137c42c",
       "confidence": "0.7638294",
       "timestamp": 1271.68,
       "content": "so if twin births in adoptions are accidental experiments that yield useful data what do those data have to say about the influence of parents",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b1569d3c-50ed-4331-868a-5d2aee0094cb"
     },
-    "1280.39": {
+    {
       "requestid": "8fa0eccf-ec57-4160-b5a1-706024df11aa",
       "confidence": "0.7307232",
       "timestamp": 1280.39,
       "content": "most important question which sasada when after midili with about educational achievement what's a low iq kid is adopted into a high iq family",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7fa4cb88-f0a0-4cdf-a599-09bacf1f837c"
     },
-    "1291.38": {
+    {
       "requestid": "504bff3e-62f9-460f-8874-4828c59c3664",
       "confidence": "0.7497895",
       "timestamp": 1291.38,
       "content": "you'd expect the parents to significantly boost the kids like you right but some earlier research sacerdote red suggestible adoptive parents weren't there in french",
-      "speaker": "S200"
+      "speaker": "S200",
+      "uuid": "eca140d4-c86e-45fb-b23d-7a3b25ee761d"
     },
-    "1302.59": {
+    {
       "requestid": "ecf5d975-f7cb-4a4e-b0ba-c4161f2802d9",
       "confidence": "0.7030628",
       "timestamp": 1302.59,
       "content": "cases for lumina schlytter church thanks thanks very much like that which is that yes there some influence of a adoptive parents on adoptes iq scores but it's small and elsa claim it goes to zero I see donkeys get older",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "88c8a47f-abfa-41ec-b631-ed916d6aa1a1"
     },
-    "1315.88": {
+    {
       "requestid": "92ebc9d0-5038-4b34-83f6-03a423968e42",
       "confidence": "0.7372909",
       "timestamp": 1315.88,
       "content": "but with a good korean adoption data sacerdote was pretty sure I poke holes in that research there'S1 thing that parents have to affect me just judging from how much effort we put into it it's our kids educational achievements right so he sliced and place the korean data",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8a90ca50-7d35-41a4-a581-02993b36c1db"
     },
-    "1335.42": {
+    {
       "requestid": "ea6a1a71-4032-475b-a5c4-4782f5014e1a",
       "confidence": "0.7453064",
       "timestamp": 1335.42,
       "content": "what is not quite as big as expected find",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "5de26832-b2b3-4a74-8110-5bcb4a7b5753"
     },
-    "1338.49": {
+    {
       "requestid": "df7d3d56-d709-4a6c-8905-6ff0a82d633c",
       "confidence": "0.8981393",
       "timestamp": 1338.49,
       "content": "but how big is not quite as big",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6316450a-4b99-49fd-985c-669d5e253e00"
     },
-    "1341.23": {
+    {
       "requestid": "4b57b231-461c-420b-a5e3-f78cbc809683",
       "confidence": "0.742452",
       "timestamp": 1341.23,
       "content": "in the most advantage families with the parents for college educated the adoptees were 16 percentage points more likely to 10 college dan adoptees in the least privilege families with the parents weren't college graduates that sounds pretty good right 16 percentage points",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0a14656d-6713-4ec9-99b6-9e4482daf8a0"
     },
-    "1360.28": {
+    {
       "requestid": "06b03345-1b64-4442-a9dc-47ab0154b11a",
       "confidence": "0.7806944",
       "timestamp": 1360.28,
       "content": "the biological kids and the families with college educated parents were 75% points more likely to go to college in the biological kids in the low education fam",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "66258374-ca28-492a-a5c4-d1e8d385102a"
     },
-    "1371.58": {
+    {
       "requestid": "befa4d06-ffbf-491e-a8a5-3a9845f11422",
       "confidence": "0.1804575",
       "timestamp": 1371.58,
       "content": "which sucks",
-      "speaker": "S160"
+      "speaker": "S160",
+      "uuid": "09c19720-b45f-4b78-a5d6-ced1fb28738b"
     },
-    "1373.71": {
+    {
       "requestid": "65f85320-db05-435d-8a88-e37f57a65e2f",
       "confidence": "0.6558281",
       "timestamp": 1373.71,
       "content": "adoptive parents 16% of 21 foot",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "35a72208-9af1-4e33-8dd1-a049e2c88cf1"
     },
-    "1379.25": {
+    {
       "requestid": "56ffa212-21ef-489c-a0bc-f9f2cd9908e6",
       "confidence": "0.8440863",
       "timestamp": 1379.25,
       "content": "sacerdotes findings made a big impression on brian kaplan",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "990c1a8a-8ae6-42ea-983f-31bd8d8ae666"
     },
-    "1383.48": {
+    {
       "requestid": "ac6de83b-395f-402b-bad8-4d0be230c038",
       "confidence": "0.6946658",
       "timestamp": 1383.48,
       "content": "basically is average result was that if your daughter by mom with one more year of education you get a peaje leapfish got 5 extra weeks metrication in other words the moms at about 10 extra years to boost you by year",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "4d0f9c7a-dfa1-4521-bb76-4e85bab11304"
     },
-    "1395.76": {
+    {
       "requestid": "be68bf55-d8b1-41f7-9c20-a8bdac53aeb3",
       "confidence": "0.7008631",
       "timestamp": 1395.76,
       "content": "how do I talk to consider that a small fact it's the most people like that so what would you consider to be a large fact they said when you're richer l'education at the booty sex box",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "a76572db-c533-4e4a-819c-7cf3afe70c91"
     },
-    "1404.73": {
+    {
       "requestid": "db0f6208-9ad2-407d-bea8-c646481edb6e",
       "confidence": "0.776603",
       "timestamp": 1404.73,
       "content": "right now 4 weeks and it wasn't just education the parents didn't seem to affect so much",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6b866be9-02b5-49be-99d1-f491e533da0b"
     },
-    "1410.66": {
+    {
       "requestid": "d26e086c-b37f-4637-84f9-90799e31d2c9",
       "confidence": "0.7729623",
       "timestamp": 1410.66,
       "content": "income 2 kaplan analyze data from twin studies as well as sacerdote adoption research those results are even more surprising",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e8ae3d2c-d4c0-4e49-83bd-ba30372ab6ec"
     },
-    "1419.22": {
+    {
       "requestid": "8f59ff3e-93cb-41a1-be66-07d905c7b11a",
       "confidence": "0.6813113",
       "timestamp": 1419.22,
       "content": "green worthen's readopted in the 50s and 60s at a time when is much easier for low income families to adopt",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "d1568613-f358-4a4e-b686-a8100f7a4eb8"
     },
-    "1426.45": {
+    {
       "requestid": "718429c7-0ce2-4ee7-a3b8-e0ed29724746",
       "confidence": "0.7163845",
       "timestamp": 1426.45,
       "content": "abbadi midwest wrecking that is the kind of thing you would think of is being more about upbringing broadly defined a lot of other traits of show me to get it could be that it's it's actually a pretty angry parents instilled value of a dollar and hardworking you are could be something more like nepotism where because you get raise biedrzycka parents to get the connections are there to make a phone call for you",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "21541171-d796-414d-9034-5b6d7ecf11b8"
     },
-    "1446.36": {
+    {
       "requestid": "c095c183-df9e-4e91-a6d5-e2cbac2d5fb4",
       "confidence": "0.6391419",
       "timestamp": 1446.36,
       "content": "and yet actually at the very best studies of the nature nurture bentum finds out that your parents do you have a family matter fact on your early and come in your twenties but basically zero for the rest your life",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "d55e3dd8-4684-476e-b87b-bbede8eaf19b"
     },
-    "1460.81": {
+    {
       "requestid": "c8aa8149-5558-46b2-b312-d56b2e61a131",
       "timestamp": 1460.81,
-      "content": ""
+      "content": "",
+      "uuid": "1124a290-81db-41c8-8b94-513153d64b1b"
     },
-    "1462.66": {
+    {
       "requestid": "49abebd2-adec-4b08-b776-649db397ba37",
       "confidence": "0.7591665",
       "timestamp": 1462.66,
       "content": "come on no effect on income puisne influence of education",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3d0b5e67-b02d-4865-9231-ea858ee0f2e6"
     },
-    "1467.69": {
+    {
       "requestid": "11666c45-f76d-41ce-8c43-e949ab6b6a5f",
       "confidence": "0.7266454",
       "timestamp": 1467.69,
       "content": "not sure parent special the kind of hands on paired with things hard but every input in your kids life every flash cards museum visit every thai kwando lesson in god forbid every video game gotta be thinking oh man is economist are full of crap one of the things that I",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d3d4d862-e987-4406-8438-eb3dda79b786"
     },
-    "1486.83": {
+    {
       "requestid": "fa6e8949-70fa-429c-8a39-ec8dd5df9428",
       "confidence": "0.634294",
       "timestamp": 1486.83,
       "content": "think is true is that obsessive parenting has a few rewards",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "058c5a0d-a07d-4827-b4b4-cc5510552de8"
     },
-    "1493.46": {
+    {
       "requestid": "024e9b98-974f-48ad-9d46-3bff0157d36c",
       "confidence": "0.797542",
       "timestamp": 1493.46,
       "content": "that's my coauthor again steve levitt key and another katemis roland fryer analyze data from the survey by the us government the tracks kids from birth through grade school how strong was the relationship between parental activity in school test scores",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3ed08c30-0448-40d3-913f-966cdaee0035"
     },
-    "1510.86": {
+    {
       "requestid": "31ed5605-aae6-43b1-82f1-37a0fe84f7b5",
       "confidence": "0.7530384",
       "timestamp": 1510.86,
       "content": "it doesn't matter how many activities your kids do what did they go to museums it did at least in terms of academic success in the biggest national representative sample of data that the government has ever collected",
-      "speaker": "S233"
+      "speaker": "S233",
+      "uuid": "577fab20-eeaa-440a-a950-f75d7ebbd717"
     },
-    "1525.64": {
+    {
       "requestid": "a5bdbc31-fca1-45f5-b528-7fa5ccd57074",
       "confidence": "0.687261",
       "timestamp": 1525.64,
       "content": "roland fryer and I can find no evidence at those sort of prantl choices that book would be come to call sandy obsessive parents of pudding kids into bed lay in a culture cramming into together in that none of that can be correlated at all with academics",
-      "speaker": "S233"
+      "speaker": "S233",
+      "uuid": "387b5dc4-f39b-4ba9-90e3-04c7333fd41c"
     },
-    "1542.57": {
+    {
       "requestid": "839bfcbf-d24a-4c3d-9360-136c61d6b316",
       "confidence": "0.6589178",
       "timestamp": 1542.57,
       "content": "I end my guess is if in the future keep your guys is that when it comes to it",
-      "speaker": "S233"
+      "speaker": "S233",
+      "uuid": "381d1077-6666-4872-aebd-641c4358f0e8"
     },
-    "1547.76": {
+    {
       "requestid": "9c5a596d-6fc8-486d-829e-c6bbff7ad032",
       "confidence": "0.7017725",
       "timestamp": 1547.76,
       "content": "happiness of kids with that kind of cramming is it gotta be nega vacor they would happen if I been rest from one event to be a this is not the way most kids wanna live their lives at least not my kids",
-      "speaker": "S233"
+      "speaker": "S233",
+      "uuid": "c2441a7f-84dd-4a5e-a652-c54132f2acb3"
     },
-    "1559.77": {
+    {
       "requestid": "0e44adaf-df17-431b-a5f9-8ffe0d1e46d2",
       "confidence": "0.7082375",
       "timestamp": 1559.77,
       "content": "levitts argument is simple and sober what matters most is who parents are not what they do they fall another culture cramming advice in a parenting book don't have much effect but",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5a3ad4fb-6c9e-4db3-8cfb-5fe0e1d09579"
     },
-    "1574.66": {
+    {
       "requestid": "6afc39f4-6a44-4d04-b60d-868bf0fda748",
       "confidence": "0.6854261",
       "timestamp": 1574.66,
       "content": "the kind of parent or likely to buy parenting books in jewel that culture cramming their high achieving parents to start with in those are the qualities high iq good health determination and so on the kids inherit",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "996e4fca-8941-4329-840d-28d5e5dcdc73"
     },
-    "1589.15": {
+    {
       "requestid": "6937a755-8fa3-4a4b-a8a2-e4b2e2756380",
       "confidence": "0.7192174",
       "timestamp": 1589.15,
       "content": "but try telling that to modern parent even",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "03ac6ae0-aa0f-4ff2-8b08-5721145ff045"
     },
-    "1593.05": {
+    {
       "requestid": "4d30f07d-4873-404a-9aa1-76e3a2786488",
       "confidence": "0.793662",
       "timestamp": 1593.05,
       "content": "an economist parents so in the 1980s the average young college educated mother spent 13 hours per week on child care",
-      "speaker": "S245"
+      "speaker": "S245",
+      "uuid": "3b966d30-597b-4036-93ea-72e00113e403"
     },
-    "1602.86": {
+    {
       "requestid": "0e6a33a8-9f0d-466c-afcd-aff8b419f92e",
       "confidence": "0.7887103",
       "timestamp": 1602.86,
       "content": "pet valerie rae me again she and her husband gary also an economist analyze data from the american time",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "77434707-0e2a-4486-97b8-65dd587b0844"
     },
-    "1609.6": {
+    {
       "requestid": "658d5aab-2a4a-44af-98d7-05bf80b23d51",
       "confidence": "0.863629",
       "timestamp": 1609.6,
       "content": "new survey now it's 22 hours a week so the amount of time is increased by 9 hours a week",
-      "speaker": "S245"
+      "speaker": "S245",
+      "uuid": "d90bae1f-2b58-45e5-96a3-eaf2e8dccaed"
     },
-    "1616.83": {
+    {
       "requestid": "36b41973-6b78-469f-a143-2496b19eec26",
       "confidence": "0.7550353",
       "timestamp": 1616.83,
       "content": "niners ethics that 70% increase of the huge increase it's a huge increase know what's interesting is over the same time period the wages of college educated women has really increased",
-      "speaker": "S245"
+      "speaker": "S245",
+      "uuid": "117d1b33-7bbe-46b8-9b9b-1849c3a8bf8a"
     },
-    "1629.71": {
+    {
       "requestid": "e2ae2d9f-a3ca-49fa-88b7-ec7d1117af00",
       "confidence": "0.8781171",
       "timestamp": 1629.71,
       "content": "so the opportunity cost of time is increased at the same time they decided to spend more time on taking care of their children",
-      "speaker": "S245"
+      "speaker": "S245",
+      "uuid": "1968dc2e-1b99-4048-b8b7-7fda5ab5dc39"
     },
-    "1638.26": {
+    {
       "requestid": "b9c8da9f-620c-45cf-b5ee-a30e32dee64b",
       "confidence": "0.78714",
       "timestamp": 1638.26,
       "content": "so too and economist like you um that is to be a little bit baffling yes yes it is a puzzle after declining for decades the amount of time that parents spent on childcare started to rise in the 1990s and then it skyrocketed in the 2000 especially among",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8fd8cb68-f446-4752-8838-92d93ce51381"
     },
-    "1657.05": {
+    {
       "requestid": "2ed8098b-25b2-428a-b657-de5a9e110cbb",
       "confidence": "0.5866132",
       "timestamp": 1657.05,
       "content": "college educated my wife",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fac10a9e-ebdd-4165-8962-d2d25a5ff1fb"
     },
-    "1660.09": {
+    {
       "requestid": "8c947bb4-de07-4ea4-938a-a528e8572647",
       "confidence": "0.7543215",
       "timestamp": 1660.09,
       "content": "the remi's found a surprising answer",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5f118be8-308a-4c8f-a1ba-747fcc993239"
     },
-    "1663.07": {
+    {
       "requestid": "bf4444e7-da5b-4aa4-be4a-2709dadbe8c4",
       "confidence": "0.714206",
       "timestamp": 1663.07,
       "content": "how old is the civic lee the increased competition for kids to get into good colleges feet high and parent they would simply babysitting they were chauffeuring the kids to the kind of extracurricular activities it look good on a college application",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "95a921e9-e1f1-403b-80ee-7a6079306fa5"
     },
-    "1684.24": {
+    {
       "requestid": "da7df4bf-ca59-4a0d-826c-f0b5864da035",
       "confidence": "0.582418",
       "timestamp": 1684.24,
       "content": "when do strange part",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "39e2179e-d4a6-49e1-ba70-385b48da7c06"
     },
-    "1686.1": {
+    {
       "requestid": "d83a8b6c-544f-43a5-a36e-63bcc6991941",
       "confidence": "0.7164876",
       "timestamp": 1686.1,
       "content": "valerie rae me with the prime vendor guilarte family put a stop to it",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "76bcdbdf-2cfb-4c14-9966-7b92d72217f3"
     },
-    "1691.51": {
+    {
       "requestid": "7d166ce7-d5c3-4fa6-9bba-5c0458507e71",
       "confidence": "0.7288698",
       "timestamp": 1691.51,
       "content": "I spent 6 hours a week at the stables with my daughter and I'm not she enjoyed the horseback riding but um it was awful stressful to have you know somebody else determine our schedules for asbaty places with my husband I work full time and out there is the brownies and add softball game and was yours",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "b1138437-0ee5-4d80-b90b-7519387dc3e6"
     },
-    "1710.07": {
+    {
       "requestid": "b26ef1bc-c671-402c-a5eb-da98156d1521",
       "confidence": "0.8021536",
       "timestamp": 1710.07,
       "content": "state of mind generally during this period where you are doing a lot of chauffeuring in kind of activist mommy what did did it make you happy to make you tell",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "943a43c0-55d4-445b-a53f-67d04d1edd77"
     },
-    "1717.5": {
+    {
       "requestid": "57eebf09-c0dc-4300-8508-02ce1259528c",
       "confidence": "0.6373938",
       "timestamp": 1717.5,
       "content": "it and I did not make me happy kid it did make me tense up fortunately my family rebuild against me and I thought we needed to do list pick up some sort of everybody else",
-      "speaker": "S261"
+      "speaker": "S261",
+      "uuid": "9f356ec6-83ca-4374-9a31-eaa4af418389"
     },
-    "1729.72": {
+    {
       "requestid": "7f71d466-3dc4-41b4-b773-d1e83079014f",
       "confidence": "0.1539193",
       "timestamp": 1729.72,
       "content": "now",
-      "speaker": "S160"
+      "speaker": "S160",
+      "uuid": "5443da79-d092-4022-9c82-a50f2eb2f616"
     },
-    "1737.44": {
+    {
       "requestid": "953584f0-74db-4369-bf1d-ddbd5916dee6",
       "confidence": "0.7211179",
       "timestamp": 1737.44,
       "content": "before you go off and decide to good parenting is a complete waste of time consider a couple of areas where akamas have found parents to be very influential smoking and drinking",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "db4c7143-3e36-40bb-960f-eaae6d4c7b8a"
     },
-    "1749.48": {
+    {
       "requestid": "6e822415-d92c-4ab3-82a3-7493557a25a6",
       "timestamp": 1749.48,
-      "content": ""
+      "content": "",
+      "uuid": "58aa1772-ec43-485f-8550-305c76294ec1"
     },
-    "1752.17": {
+    {
       "requestid": "6e42f886-e832-48d4-8fbc-c9b98fe94335",
       "confidence": "0.7123075",
       "timestamp": 1752.17,
       "content": "kids to grow up around here to smoke and drink are much more likely to do so and so I asked bruce answer goes out so it if I'm a smoker I'm a pair is moe",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "836871d5-3702-4947-9757-818e3ab500cc"
     },
-    "1764.94": {
+    {
       "requestid": "24254934-7522-4d8f-9ede-4b5ba28d5594",
       "confidence": "0.8686374",
       "timestamp": 1764.94,
       "content": "and I think that smoking is bad",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c62cf8fd-2097-4894-b145-f220e9b919c3"
     },
-    "1768.48": {
+    {
       "requestid": "62f8e313-9dc1-4b76-a33d-03cd71e79d04",
       "confidence": "0.8733472",
       "timestamp": 1768.48,
       "content": "I would would probably describe a lot of smokers and I don't want my kids to smoke out and I've got let's say 10 hours of time are $100 or what not and I've gotta decide how to spend that 10 hours are $100",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "cb741cf7-5306-4f78-bff3-7a0598ad6cd9"
     },
-    "1781.71": {
+    {
       "requestid": "a8e0e15a-ff3a-4f63-b31f-b1ea9f5a2cff",
       "confidence": "0.8459589",
       "timestamp": 1781.71,
       "content": "you're telling me based on what you've seen in the research that it would probably be better for me to spend those hours in dollars trying to quit smoking ban it would be trying to cram in some extra readington librea what not",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ca313f54-9304-4212-859f-233607440d9b"
     },
-    "1795.66": {
+    {
       "requestid": "2e447039-f160-46bd-a61f-0dc8c79a8262",
       "confidence": "0.6759463",
       "timestamp": 1795.66,
       "content": "no that's actually right if you're sitting there be into the wall of smoking for cigarettes I think I think debbie john all kinda level so that I fell asleep right another thing that's undoubtedly contagious is the paper how are you on track with how you treat other people",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "2bb137d8-bdc1-4692-8467-97251dd7f832"
     },
-    "1809.51": {
+    {
       "requestid": "a46af6ee-e66b-42ae-b845-8548407d60e2",
       "confidence": "0.7717795",
       "timestamp": 1809.51,
       "content": "how you treat our employees at a restaurant or retail store think I did those things are on a prob be highly contagious is well and I think that you really want a white model carefully and add back in and just like in this book example you can make yourself",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "182bc887-fd39-438a-a112-f4d163dbe52b"
     },
-    "1823.68": {
+    {
       "requestid": "7b922a3c-4cdb-4553-800c-f671f3791efa",
       "confidence": "0.6016934",
       "timestamp": 1823.68,
       "content": "better off as well as setting a good example",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "093de748-ce71-4219-9451-4a14a87ec918"
     },
-    "1826.13": {
+    {
       "requestid": "5366e9df-8c7b-453e-8daa-f0b9f6584f64",
       "confidence": "0.1135416",
       "timestamp": 1826.13,
       "content": "kid",
-      "speaker": "S160"
+      "speaker": "S160",
+      "uuid": "1dfcc801-78bb-4d67-b9ae-2031f14e0a68"
     },
-    "1827.95": {
+    {
       "requestid": "6d3ecbd3-6211-4455-9757-2c3b55f8db0a",
       "confidence": "0.7520596",
       "timestamp": 1827.95,
       "content": "a great so we finally find something that parents do influence in its smoking drinking and talking to the waitress no ok well",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "bfcf2fa6-ccf4-4f35-8a47-a9c8c6d9df72"
     },
-    "1839.11": {
+    {
       "requestid": "8ea4916f-cb8c-4ea4-9038-1f1194bb0209",
       "confidence": "0.7474817",
       "timestamp": 1839.11,
       "content": "who is parents are really good at protecting the kids right keeping them safe from all have been for stuff out there right like kidnappers",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "013440bb-1a02-49c2-9c6e-7fdc981933d4"
     },
-    "1848.5": {
+    {
       "requestid": "b36580e4-59e9-4ee8-8211-e01f868c95ca",
       "confidence": "0.6269767",
       "timestamp": 1848.5,
       "content": "but it's worth thinking about more than more than you think about being struck by lightning or something like that here is brian kaplan I can go the FBI still sticks on the way to tell terry tuttle kidnappings it's basically like some stranger going to take your kid running from some dude is the distance holding child over night sanlian population of insulin for that will happen",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "7a9e793c-c28c-4f89-9508-6dff802700d9"
     },
-    "1866.99": {
+    {
       "requestid": "e86fd035-6d3a-44b7-8d29-68beee174a8a",
       "confidence": "0.722138",
       "timestamp": 1866.99,
       "content": "but it's really in in the range like 2200 per year",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "ddd9efb4-cf9d-4e92-9b10-cf45907b6d4d"
     },
-    "1871.43": {
+    {
       "requestid": "b3385551-d693-4777-99e1-936eb4826f9f",
       "confidence": "0.6173199",
       "timestamp": 1871.43,
       "content": "tell me this is billy is the one in a million annual event",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "a2e6290f-bcc4-4931-9fbe-801f9dd0c779"
     },
-    "1874.83": {
+    {
       "requestid": "518f7cf3-0d97-4209-bf8a-ce3f91ee04d7",
       "confidence": "0.7038262",
       "timestamp": 1874.83,
       "content": "say which is something that is not since would worry about and if you can you bring about it even though you know this nonsensical all this is something where are you I recommend going in reading about how you can kill yourself bank id problems rather than trying to bring up and take action to adduce this elisra rest",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "253302fe-b201-4a01-914b-8bd3b589698f"
     },
-    "1894.08": {
+    {
       "requestid": "adfa5f98-1c1e-434c-9a77-215e376c1d83",
       "confidence": "0.777954",
       "timestamp": 1894.08,
       "content": "and then there are tons of course you're steve levitt",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0cda9a43-0346-4e7e-8f0c-d0649c5325ec"
     },
-    "1897.58": {
+    {
       "requestid": "2b331d3f-2a94-4a47-82ce-6a640483537c",
       "confidence": "0.6659397",
       "timestamp": 1897.58,
       "content": "if there'S1 thing that terrified parents if guns the thought of their child going to have a play date at the house with a big gun mini pendant with chain away is one object that parents should fear",
-      "speaker": "S293"
+      "speaker": "S293",
+      "uuid": "62f66c7e-8915-486a-bd13-7565221e31eb"
     },
-    "1910.54": {
+    {
       "requestid": "270c0863-e9e2-4809-92e8-f5508ea7ced5",
       "confidence": "0.6423998",
       "timestamp": 1910.54,
       "content": "3 times more than the gun out of a down and after 20",
-      "speaker": "S295"
+      "speaker": "S295",
+      "uuid": "e373e065-6042-472c-b78d-33535c93d178"
     },
-    "1914.71": {
+    {
       "requestid": "712a6c10-6e84-4e66-b3c5-c0d10ce74c1b",
       "confidence": "0.6843263",
       "timestamp": 1914.71,
       "content": "because 55th and say that if your child spend the day at the house that has begun in a swimming pool the likelihood a child dies is 100 times greater for the 24th and it is from the gun",
-      "speaker": "S295"
+      "speaker": "S295",
+      "uuid": "a9031514-a2de-4a6d-a034-9bb607e76258"
     },
-    "1927.36": {
+    {
       "requestid": "a1f48afd-621a-479d-9af4-52e827cc8e6e",
       "confidence": "0.6228371",
       "timestamp": 1927.36,
       "content": "in skiing is scary",
-      "speaker": "S297"
+      "speaker": "S297",
+      "uuid": "a2c1bb07-9df7-4cc7-80e3-645de60ee6b1"
     },
-    "1929.68": {
+    {
       "requestid": "a7153625-0a9b-42c9-a8eb-c0c62f30e3d1",
       "confidence": "0.7102467",
       "timestamp": 1929.68,
       "content": "show at the I don't know if it's",
-      "speaker": "S297"
+      "speaker": "S297",
+      "uuid": "2cbac633-ef12-4837-8df8-428e3585694e"
     },
-    "1931.86": {
+    {
       "requestid": "ec2f55af-d4e0-4c8e-bdc9-5af5fb48ec42",
       "confidence": "0.7737141",
       "timestamp": 1931.86,
       "content": "wannabees evolutionary biology things but we take our kids skiing for example and I know it's king is inherently risky and I never used to be worried about sitting on the chair",
-      "speaker": "S298"
+      "speaker": "S298",
+      "uuid": "82170276-d45a-420b-b234-0ca58adc2fa9"
     },
-    "1941.44": {
+    {
       "requestid": "a3fd18e1-1266-41f5-8a4c-c3a59cec506d",
       "confidence": "0.7071871",
       "timestamp": 1941.44,
       "content": "it's melissa carniv in the university of maryland she never used to be a scaredy cat then she became apparent get swept up in the year parade",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "189fb747-2cd5-4ce5-a865-14209767b0f2"
     },
-    "1950.38": {
+    {
       "requestid": "a1e66c16-442c-4cc4-9184-11f8313b4f1e",
       "confidence": "0.7964474",
       "timestamp": 1950.38,
       "content": "when I'm sitting in the chair lift with my kids when I can barely breathe I'm so scared of him falling off",
-      "speaker": "S298"
+      "speaker": "S298",
+      "uuid": "0b16b83c-fd99-45a6-8e36-e8bfd3b5ac53"
     },
-    "1955.82": {
+    {
       "requestid": "b901736e-773b-4926-abd3-72a203eb0672",
       "confidence": "0.7612467",
       "timestamp": 1955.82,
       "content": "when she takes a deep breath and remind yourself that human beings are verbal responses in general",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "977e567a-c4b5-4e88-94a2-e27e87596b07"
     },
-    "1962.8": {
+    {
       "requestid": "c2e185e0-8181-473b-8ce6-d275ee46e34e",
       "confidence": "0.6220785",
       "timestamp": 1962.8,
       "content": "no worse than that I signed coz I tell myself you know and I cannot teach my kids to ski with my name is really fun activity",
-      "speaker": "S298"
+      "speaker": "S298",
+      "uuid": "1c1e8ae1-ed9c-4eb4-b87b-d681afde3362"
     },
-    "1971.61": {
+    {
       "requestid": "cb2f205c-5e13-40a9-9ef3-d0a65eaf5c68",
       "confidence": "0.7076651",
       "timestamp": 1971.61,
       "content": "to protect them from the smatresk right it's something terrible happens you know about it would be hard to forgive myself but try and remember that everything has tritos and um the chances are nothing is gonna happen people don't really follow up care less and add an appointment to have a lifetime levas king",
-      "speaker": "S304"
+      "speaker": "S304",
+      "uuid": "b1d02dfa-d514-4d42-8b05-cce7b698733e"
     },
-    "1990.06": {
+    {
       "requestid": "ca02b326-af05-44d8-aeb4-efc532ffa82c",
       "confidence": "0.8599605",
       "timestamp": 1990.06,
       "content": "the fact is parenting is an exercise in risk assessment is betty stevenson again",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c84fb324-7a55-4a72-815e-99dac34630be"
     },
-    "1996.61": {
+    {
       "requestid": "41243582-4cbd-45df-b0f3-a0720fff1e20",
       "confidence": "0.8372993",
       "timestamp": 1996.61,
       "content": "I think the hardest thing as a parent is to admit that you're gonna take risks with your child's life",
-      "speaker": "S315"
+      "speaker": "S315",
+      "uuid": "22db16d4-1660-4031-ad5c-2a41b23e8217"
     },
-    "2002.49": {
+    {
       "requestid": "52aa7622-d437-4571-b5fb-c294cf2c6cbd",
       "confidence": "0.6637571",
       "timestamp": 2002.49,
       "content": "to actually admit out loud I take risks of my childs life mean do you think I did a cocktail party people would look at you like you're a monster but of course we take with their lives everyday I type",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "ef4ee83e-5652-48fd-9b68-32ec74fa0401"
     },
-    "2014.45": {
+    {
       "requestid": "aec7f34b-4e6e-437c-bc3a-e0ed9e5e9678",
       "confidence": "0.7209802",
       "timestamp": 2014.45,
       "content": "take me to the out onto the sidewalk and we cross streets every come across the street were taking a risk it's not risk free across the street or to ride the subway ardido in the car almost everything we do has risks",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "d043b6e9-dcd7-4f9b-b557-c8a2d2e24477"
     },
-    "2027.76": {
+    {
       "requestid": "c2c367e5-fb20-45e5-949a-f08deb7e28d8",
       "confidence": "0.3720468",
       "timestamp": 2027.76,
       "content": "and as economists",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "b07c459d-f598-4efc-ad4e-5d692d2d3352"
     },
-    "2030.31": {
+    {
       "requestid": "917bcef7-19a8-4b64-8b0c-6ae9e4d09e65",
       "confidence": "0.7724095",
       "timestamp": 2030.31,
       "content": "justin and I are really comfortable with thinking about resah making decisions with them and that means we have to face the really painful thing at which is we take reese with our childs life",
-      "speaker": "S315"
+      "speaker": "S315",
+      "uuid": "843fe6ee-4ede-4861-9b8e-18e271f7f7f8"
     },
-    "2041.77": {
+    {
       "requestid": "988b89bd-dd92-4f81-88da-a852536b36f5",
       "confidence": "0.6327165",
       "timestamp": 2041.77,
       "content": "joshuah ganzeer australian friend reparenting omics",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "1813c5b7-b2b8-4b13-ba7e-5b54ff8f4532"
     },
-    "2045.32": {
+    {
       "requestid": "00c031f6-84f7-4fba-b99b-d65ea24bb5c6",
       "confidence": "0.8786719",
       "timestamp": 2045.32,
       "content": "he's proud to admit that he's taking risks with this kids life but not how you might think",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "64cbfd2f-fa61-4a8a-baf0-76020f04ecd1"
     },
-    "2051.71": {
+    {
       "requestid": "5d944998-68f8-4599-b80e-d8f1d30ef6a0",
       "confidence": "0.7715776",
       "timestamp": 2051.71,
       "content": "we would go to the",
-      "speaker": "S317"
+      "speaker": "S317",
+      "uuid": "aa55479e-cfae-4dea-b9a0-8f1880c9c68b"
     },
-    "2054.17": {
+    {
       "requestid": "cfa22024-6449-4a3a-8d50-5c3d9d9950f1",
       "confidence": "0.7427843",
       "timestamp": 2054.17,
       "content": "and I'll chop who is probably around 4",
-      "speaker": "S317"
+      "speaker": "S317",
+      "uuid": "dc77239c-48ff-4b1d-bc7d-cf1f68cbbea6"
     },
-    "2057.23": {
+    {
       "requestid": "9525cf8d-7d7a-47a8-82fb-75be6d3ecd13",
       "confidence": "0.6029969",
       "timestamp": 2057.23,
       "content": "would invariably not want to leave I said we would have this big song and dance about you now we have to go now you can't keep applying chardron hope you know it would be will be completely let me put it that way so what we did what day is listening to her and she was doing it it again we sent it sooner",
-      "speaker": "S317"
+      "speaker": "S317",
+      "uuid": "8acdc6af-b711-40f9-b1ba-6494533cdb2b"
     },
-    "2075.85": {
+    {
       "requestid": "0c7e6498-9504-4b86-aade-ceff0369f298",
       "confidence": "0.6206182",
       "timestamp": 2075.85,
       "content": "free keep threatening that would just leave it",
-      "speaker": "S317"
+      "speaker": "S317",
+      "uuid": "994bed6e-ee54-4121-9e59-abc32db466dc"
     },
-    "2079.14": {
+    {
       "requestid": "e225fcef-8faf-4756-8f8a-93b3fd1f53da",
       "confidence": "0.8145459",
       "timestamp": 2079.14,
       "content": "why don't we get in the car and just wait",
-      "speaker": "S320"
+      "speaker": "S320",
+      "uuid": "db883021-9c0b-44a3-af5e-62dc9a8b86ef"
     },
-    "2082.44": {
+    {
       "requestid": "6ebdafef-c38f-46a3-9d76-2e51ff1ebdf6",
       "confidence": "0.6395978",
       "timestamp": 2082.44,
       "content": "yanci with that you know she come we gotta go we gotta get in the car and try but I am not exactly what we did",
-      "speaker": "S317"
+      "speaker": "S317",
+      "uuid": "6eed9cf1-c59f-45af-a8eb-89669baa97e1"
     },
-    "2091.99": {
+    {
       "requestid": "cd444258-bdeb-41dd-a787-e4fc419f6ee8",
       "confidence": "0.4663842",
       "timestamp": 2091.99,
       "content": "in front of a few cockfill about appearances well we had a screaming child running after asking you to know that but at least I",
-      "speaker": "S324"
+      "speaker": "S324",
+      "uuid": "9bd9ec82-c6c8-42c7-8278-3c16a18db860"
     },
-    "2101.37": {
+    {
       "requestid": "440e1b78-a1c1-43da-88ff-545923ee8cad",
       "confidence": "0.6305001",
       "timestamp": 2101.37,
       "content": "zach lee to get that message across now to be short",
-      "speaker": "S325"
+      "speaker": "S325",
+      "uuid": "0422ffe2-b317-46f6-8ccc-63d78967e73d"
     },
-    "2105.01": {
+    {
       "requestid": "fc02a91f-c6b5-4ef2-af30-d1fed9efb274",
       "confidence": "0.6942574",
       "timestamp": 2105.01,
       "content": "did I was at my door open I'll be at the other parents teddy bear and I'll tell you it was a tough thing for us to do they want another family happy",
-      "speaker": "S325"
+      "speaker": "S325",
+      "uuid": "a4c34acc-bea3-405f-8acb-94c245616b3f"
     },
-    "2114.21": {
+    {
       "requestid": "abf002b3-b604-4a18-80ae-02b22f31c34a",
       "confidence": "0.6625617",
       "timestamp": 2114.21,
       "content": "who was going to at least watch app that she didn't do something silly as a result of his bike rental car trouble something like that",
-      "speaker": "S325"
+      "speaker": "S325",
+      "uuid": "1adae93e-0ae7-4a2e-b45b-4dbc7449a5fd"
     },
-    "2120.61": {
+    {
       "requestid": "b6acb8c8-196d-4e39-9cdb-c2f102542a84",
       "confidence": "0.5602863",
       "timestamp": 2120.61,
       "content": "so we would totally crazy but then again we did drive off without chalks thinking should be left behind",
-      "speaker": "S328"
+      "speaker": "S328",
+      "uuid": "37f790eb-e78d-4f9f-a611-5e057d9bb40f"
     },
-    "2127.27": {
+    {
       "requestid": "d0616bf9-ecd6-4e98-94d0-73e75e9f5960",
       "confidence": "0.9020952",
       "timestamp": 2127.27,
       "content": "and what happened and what happen the next time that she wanted to stay at the park",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3f1a4c01-186b-4aa7-8d7e-d4c998d8b092"
     },
-    "2130.57": {
+    {
       "requestid": "d2cfc7d9-c3b3-4513-a48e-e9403e423100",
       "confidence": "0.5241126",
       "timestamp": 2130.57,
       "content": "longer never ever happened again never ever had another problem if you could web",
-      "speaker": "S320"
+      "speaker": "S320",
+      "uuid": "bac2e8ac-2c60-45ee-be38-78570dd03be1"
     },
-    "2138.3": {
+    {
       "requestid": "301d4cd0-56fb-4c46-a7bd-246789734038",
       "confidence": "0.6096984",
       "timestamp": 2138.3,
       "content": "sadism works",
-      "speaker": "S331"
+      "speaker": "S331",
+      "uuid": "8f64d583-0ac7-4eed-b2d4-efd4a308e232"
     },
-    "2140.84": {
+    {
       "requestid": "6e858d40-e5f9-482c-b1cc-29688bfe31c0",
       "confidence": "0.6273916",
       "timestamp": 2140.84,
       "content": "did you know you could you know at some point you gotta raise the price in a few gotta be credible letting you know that's the dispassionate a columnist says you do what it takes I guess I become some hard line hook natri god I",
-      "speaker": "S331"
+      "speaker": "S331",
+      "uuid": "c94c96a3-c98c-48a1-b852-fb9da1d8d804"
     },
-    "2155.01": {
+    {
       "requestid": "4d12faf8-bd77-4af9-bc80-6ed765cb189a",
       "confidence": "0.6014739",
       "timestamp": 2155.01,
       "content": "you know it's ok chaly we break from social more I've only had to do one",
-      "speaker": "S320"
+      "speaker": "S320",
+      "uuid": "95854318-8d89-446f-a19f-dea4f6064b03"
     },
-    "2160.47": {
+    {
       "requestid": "89aca66f-4ab8-4f9a-8b19-2b952c4d794a",
       "confidence": "0.6580229",
       "timestamp": 2160.47,
       "content": "what a bunch of misanthropes unloving uncaring ungrateful parents be the cops are aren't they",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3f2f268a-ef9b-40df-b396-eddb4d2b7b83"
     },
-    "2167.88": {
+    {
       "requestid": "a0b386db-024f-44a9-ace6-52b93794ec27",
       "confidence": "0.6734864",
       "timestamp": 2167.88,
       "content": "well not quite",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3fbb0ed9-08b5-410e-afed-11205eb0b690"
     },
-    "2174.29": {
+    {
       "requestid": "a7453329-43d9-470f-8298-ce342ec81620",
       "confidence": "0.6628144",
       "timestamp": 2174.29,
       "content": "coming up",
-      "speaker": "S259"
+      "speaker": "S259",
+      "uuid": "a2710cc8-cfdd-4015-aa0b-11e6dc105ce6"
     },
-    "2175.98": {
+    {
       "requestid": "04512eac-750e-4dc9-8aed-63c29ed05cee",
       "confidence": "0.582432",
       "timestamp": 2175.98,
       "content": "importance of being kind when you're in your 70s whether not your passport and you stays with you let me ask again who plays with twins have similar and quite high levels of riminaldi questions which is the smoking gun for not really matter",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "c62b3659-747e-40c9-b1a0-2f099a2043f5"
     },
-    "2200.95": {
+    {
       "requestid": "9c1fbf72-04fc-4ddc-a927-ffabd4cf3e66",
       "timestamp": 2200.95,
-      "content": ""
+      "content": "",
+      "uuid": "e8e4e3f8-c02e-4004-a5f1-2441587a6236"
     },
-    "2205.44": {
+    {
       "requestid": "e274ef5a-11c0-4aea-8792-58085d4ec00c",
       "confidence": "0.6256455",
       "timestamp": 2205.44,
       "content": "from w nyc this is freakonomics radio here's your house even dubner",
-      "speaker": "S297"
+      "speaker": "S297",
+      "uuid": "2da2bc51-4cf8-4c12-abd3-32aff8aae757"
     },
-    "2215.62": {
+    {
       "requestid": "ec8fbdec-7369-428a-aaa7-cb3c6407724d",
       "confidence": "0.782178",
       "timestamp": 2215.62,
       "content": "so you gotta be thinking about all those hours all those years that parents been trying to improve their kid",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "53c49081-9f49-4ce4-a2ca-918f07f7cd77"
     },
-    "2222.88": {
+    {
       "requestid": "3441951a-0891-4576-ae0a-e070f0f0738c",
       "confidence": "0.6873987",
       "timestamp": 2222.88,
       "content": "years just don't add up to much but it all depends on your attitude why do you become apparent in the 1st place",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ed855d65-ac34-40fa-9715-3b96d654e748"
     },
-    "2231.46": {
+    {
       "requestid": "66476de1-f566-4b6a-97ea-b5051864dea0",
       "confidence": "0.8929059",
       "timestamp": 2231.46,
       "content": "to make yourself happy to give someone else the gift of life to get a solid return on your parental investment",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d9af4f81-1e24-40af-be7e-e34f42bfd5a2"
     },
-    "2242.37": {
+    {
       "requestid": "77f72e6f-d61e-4e1f-b47c-6f5f88cc5d2f",
       "confidence": "0.6577591",
       "timestamp": 2242.37,
       "content": "bruce asado before he wound up in academia rent a hedge fund by anthem what kind of return parents should expect",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c588c64d-319f-4dcb-8990-5dcd5d25a645"
     },
-    "2251.31": {
+    {
       "requestid": "874aba03-583b-44cc-b385-e44f8c180564",
       "confidence": "0.4191682",
       "timestamp": 2251.31,
       "content": "expect low yeah I think modart reggie bildir lowes",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "54eaef07-fb97-47ee-bc59-ed6da63b5011"
     },
-    "2254.72": {
+    {
       "requestid": "68462b15-0c51-4fee-8bbe-58113fb42c27",
       "confidence": "0.7044051",
       "timestamp": 2254.72,
       "content": "ablow at and you won't be disappointed of america return is it's gonna be at happiness times as opposed to are necessarily out cash flow remittances back the first thing is don't be afraid to invest up until the marginal return is zero",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "52e54cc1-8a5d-48de-b36c-9f557868c1ef"
     },
-    "2270.7": {
+    {
       "requestid": "d53e6c23-cd2b-48aa-8a94-3175a01698b0",
       "confidence": "0.6716815",
       "timestamp": 2270.7,
       "content": "so you don't wanna be investing appointment is the negative marshall returned for your you not like you up a lawyer type your turn your kids off to what would otherwise be a great little actualidad NN fun thank you over that's the point where you've made you and your damn self miserable sorry I'm sick you don't wanna go negative awtar you don't have a negative return on this thing",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "cb3ead6b-f234-4a21-821a-ba262047beca"
     },
-    "2290.39": {
+    {
       "requestid": "8a9af246-d8e2-44a5-9ef0-ee58d933d56f",
       "confidence": "0.7057006",
       "timestamp": 2290.39,
       "content": "alright so how well did you the condiments follow your own advice we are you know valerie rainy got sucked into the very rug rat race she was studying about joshuah against the parenting amics author",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4a7bc2f2-3781-4d6c-a779-20d2da11b4a7"
     },
-    "2305.03": {
+    {
       "requestid": "75ced2f8-105c-4a24-af70-dd24a1842bf0",
       "confidence": "0.6937266",
       "timestamp": 2305.03,
       "content": "well let me ask you this joshuah I'm iffy I'm not crying I'm what forms of insurance do you bye",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "38771bd5-9814-4464-8a7f-03a16882a20d"
     },
-    "2310.62": {
+    {
       "requestid": "35000e01-a735-46d6-8583-82d2cb4f4953",
       "confidence": "0.641282",
       "timestamp": 2310.62,
       "content": "I have life insurance I have disability insurance records have a sit here in the us up with paying out of pocket health insurance by december and jan homeowners insurance does homeowners insurance car insurance",
-      "speaker": "S320"
+      "speaker": "S320",
+      "uuid": "6cafff9b-f6e4-46bb-ad2a-6bea7bd4f585"
     },
-    "2323.53": {
+    {
       "requestid": "5012e4be-a710-49eb-87c5-01db73356f13",
       "confidence": "0.827574",
       "timestamp": 2323.53,
       "content": "yeah so are what you're describing now which is engaging a bunch of parental behavior is that the day to say are not worthwhile is really are just buying another form of insurance are you",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a3931442-0925-41e7-ac85-a4c30024117a"
     },
-    "2335.66": {
+    {
       "requestid": "64768844-8660-46f3-a9d5-b90465b487f2",
       "confidence": "0.3666463",
       "timestamp": 2335.66,
       "content": "well I'm buying a bike hypotheticals shirts comma I love you",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "2a961465-2fc8-4ba6-81b0-30ff8bd90392"
     },
-    "2340.41": {
+    {
       "requestid": "d8585169-91c3-4de9-abd7-145c7ef67589",
       "confidence": "0.5440123",
       "timestamp": 2340.41,
       "content": "I mean I know is health insurance what I'm getting for that I get paid for the window is it out it if it were gonna be doing piano lessons I'm gonna have to central iowa courts cuvac what's coming out of it",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "5d5aa0ed-472f-4c58-86e0-3dbb4600ec48"
     },
-    "2355.05": {
+    {
       "requestid": "895de6b9-29e5-49a0-8af3-e6600241bec3",
       "confidence": "0.6896665",
       "timestamp": 2355.05,
       "content": "ijesha how many children do you and your wife have",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "17d3eb90-1001-444d-b047-9521bf57a81b"
     },
-    "2357.78": {
+    {
       "requestid": "67214111-c86a-458a-b91e-c90bf0992859",
       "confidence": "0.8104751",
       "timestamp": 2357.78,
       "content": "so we have 3 at the 1210 and 6",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e42a2c15-029f-4bf2-af08-df329d005204"
     },
-    "2361.8": {
+    {
       "requestid": "309ad7ab-12f5-4d3d-bdec-948da0b06278",
       "confidence": "0.7950228",
       "timestamp": 2361.8,
       "content": "2 girls and a boy how many of them are taking piano lessons for free",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "90aa3b6e-1fbc-4985-9791-897aed7f113e"
     },
-    "2367.75": {
+    {
       "requestid": "1586a393-4ccd-49ea-8b0d-364eead2fdc2",
       "confidence": "0.7386855",
       "timestamp": 2367.75,
       "content": "it's so depressing I have to say because we rely on people like you to represent the disinterested view",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5391f2f1-9fc5-4d04-a497-9b94c2927531"
     },
-    "2375.7": {
+    {
       "requestid": "7d30b119-4087-4265-8d8b-c12c30604bb8",
       "confidence": "0.8640079",
       "timestamp": 2375.7,
       "content": "to make an an impassioned assessment of the way things are and the way we think things are and you often show in your research that the way things are is quite different than the way we think things are",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7bdec499-3424-4064-8460-6e6bb598dc34"
     },
-    "2387.14": {
+    {
       "requestid": "f1128c97-c2bc-4af9-b61e-226eb2554acd",
       "confidence": "0.7973226",
       "timestamp": 2387.14,
       "content": "and we want you as economists to behave as your day to preach is just as we want you know a man of the cloth to behave as the liturgy in the sacred text bri what is it say about the human mind",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7b7bd6b0-e0e8-4a0f-8617-0d33c2355ecc"
     },
-    "2403.42": {
+    {
       "requestid": "272ddca4-f1c3-4e82-83e4-94947d4c9933",
       "confidence": "0.8295958",
       "timestamp": 2403.42,
       "content": "is that even use written a book on this is unable to break the ties that society presents do you is this is the way it must be done",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "f893fbf3-f69d-4934-a0c8-1e99e4dfc4b6"
     },
-    "2412.15": {
+    {
       "requestid": "00b507a2-1cf2-437d-8df7-04eb9b6ec47e",
       "confidence": "0.6487871",
       "timestamp": 2412.15,
       "content": "well you notice is the difference between a positive and normative your rights as a normative actiq doing for the good of showing society the way to go",
-      "speaker": "S328"
+      "speaker": "S328",
+      "uuid": "d89c1ce3-a442-4b61-a927-130c6a4adf38"
     },
-    "2421.31": {
+    {
       "requestid": "0261660b-98ff-4dc7-9262-4319cf2e5225",
       "confidence": "0.4545836",
       "timestamp": 2421.31,
       "content": "quick I should do about things better than normal selfish economic rational person",
-      "speaker": "S379"
+      "speaker": "S379",
+      "uuid": "04723e03-b2bb-45ba-9caf-58966be1b17a"
     },
-    "2428.31": {
+    {
       "requestid": "666488aa-4036-4a56-9310-8271fb1f4eda",
       "confidence": "0.6047519",
       "timestamp": 2428.31,
       "content": "yes she can sleep I'm sick I really don't wanna I really wanna have to deal with it was better don't even do I do when object if we might actually help via happiness ampap we even well being of my child apparently",
-      "speaker": "S280"
+      "speaker": "S280",
+      "uuid": "c23f0170-37a2-4688-9c75-b1f089edd66e"
     },
-    "2442.1": {
+    {
       "requestid": "ab8b3998-15eb-4fd4-be25-218bf1c08ba9",
       "confidence": "0.6488963",
       "timestamp": 2442.1,
       "content": "I'm willing to the stick with the social morays I'm at the even a condom if you know we can say these things publicly but doing them is very very hot the social pressures away",
-      "speaker": "S328"
+      "speaker": "S328",
+      "uuid": "ead3bccc-7fcc-4440-bbbc-19ec5ba3c4bf"
     },
-    "2454.27": {
+    {
       "requestid": "ba6f9c42-4376-4ab8-8429-a1d3519b9424",
       "confidence": "0.7339647",
       "timestamp": 2454.27,
       "content": "let's go back to where washington dc coupled marriage tax dodging betty stevenson and justin wolfers I have some if there were an obsessive parenting index from zero to 10 how do you rate in south aspiration we were 3 reality were not",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b537847c-5fc7-41e2-95d9-9eef59e42c54"
     },
-    "2471.13": {
+    {
       "requestid": "fb9705c7-0397-4c9c-bf41-db7abf50c8a8",
       "confidence": "0.6424762",
       "timestamp": 2471.13,
       "content": "ha ha ha ha ha ha ha so I wanna be set to kill rate so bad I like to take it easy will talk about the gap at what what lives in that guy with pretty sure that some large chunk of that guy",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "a48ebcab-1a62-45cd-a963-deb7437b4783"
     },
-    "2484.04": {
+    {
       "requestid": "6a5c0b0b-ea05-4a6a-9bd7-58fc9ec8fca3",
       "confidence": "0.7246884",
       "timestamp": 2484.04,
       "content": "isn't that productive like is apparent you can wander and fretting about every freaking thing that could happen to you kid",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "ea70200c-f796-4022-9ba1-92ae14995c31"
     },
-    "2490.49": {
+    {
       "requestid": "904e0e36-55e2-4fb7-a299-d0b87c571e6e",
       "confidence": "0.6103922",
       "timestamp": 2490.49,
       "content": "I'm just gonna kinda safety level are also like a decima ntanda happiness level in july",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "9832964a-2d63-4682-a11e-ea5c73b4f231"
     },
-    "2496.57": {
+    {
       "requestid": "a0e20f78-70f8-428d-8fdf-593b37a82540",
       "confidence": "0.6814768",
       "timestamp": 2496.57,
       "content": "it also didn't even happiness level for us that right it's not so bad in that um so yeah we do and we can we go to the smithsonian",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "5c78a4f0-f90c-4e96-b650-19ae41515a67"
     },
-    "2504.63": {
+    {
       "requestid": "fa3502fb-5f50-4a44-a87a-af1164fff1ac",
       "confidence": "0.6597257",
       "timestamp": 2504.63,
       "content": "what it sounds like the most type a parent you can take the truth is I love spending time with my children would matter has a baseball game this be sunny in a sitting at home it's just every instance of joy in this battalion silverbeet of a distraction frolova synodus and actually mad it's free",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "72aedce0-82e0-4d17-85b1-b308447ff04b"
     },
-    "2521.55": {
+    {
       "requestid": "07e492ec-95ca-460b-b095-80f24b35ee4c",
       "confidence": "0.7207782",
       "timestamp": 2521.55,
       "content": "it's free mature absolutely right so we get we do the stuff that you do is a type a parent",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "dcea15ad-b585-43e4-9158-1a8f3c223878"
     },
-    "2526.98": {
+    {
       "requestid": "ce6b6457-43bc-4b50-8619-65b579abd914",
       "confidence": "0.5570365",
       "timestamp": 2526.98,
       "content": "but what are you gonna talk to brian kaplan ritmi totale about you know do not like it when you think it's not expensive plus",
-      "speaker": "S393"
+      "speaker": "S393",
+      "uuid": "101b27f2-d78d-479e-835f-973191a7aa88"
     },
-    "2533.98": {
+    {
       "requestid": "0dd3d466-39d6-4121-9190-aa7d905801b0",
       "confidence": "0.5194105",
       "timestamp": 2533.98,
       "content": "well but we do you doing",
-      "speaker": "S393"
+      "speaker": "S393",
+      "uuid": "c60d5c0e-ecc0-4866-b4b2-4b32f6d19984"
     },
-    "2535.59": {
+    {
       "requestid": "9eedfd09-c16a-4453-930d-da6138658450",
       "confidence": "0.6603712",
       "timestamp": 2535.59,
       "content": "expensive things although I think we don't think that they are necessary we understand that are nice so matilda gosztola classes she like her classes",
-      "speaker": "S394"
+      "speaker": "S394",
+      "uuid": "ed9d3f11-2750-41b3-8d36-ed335cadea2e"
     },
-    "2546.85": {
+    {
       "requestid": "fda005f2-6e6e-433e-a56b-ec3794b8c009",
       "confidence": "0.6006804",
       "timestamp": 2546.85,
       "content": "can I find rowghani food is osama bin to the shop will be fine until it lets <profanity>fuck</profanity> about the food so tell me the foods that she does not eat",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "d3c5f080-53e6-4118-b3c9-7735393fd335"
     },
-    "2557.25": {
+    {
       "requestid": "a263b224-616b-41e0-9c88-c15e7e2a7bd2",
       "confidence": "0.540397",
       "timestamp": 2557.25,
       "content": "meet I any kind of sugar any kind of sugar",
-      "speaker": "S397"
+      "speaker": "S397",
+      "uuid": "e98f6386-0f11-46a3-b016-e70b5ece8223"
     },
-    "2562.13": {
+    {
       "requestid": "797a2506-558b-48be-b16f-c92d491664c3",
       "confidence": "0.4063683",
       "timestamp": 2562.13,
       "content": "exceed fruscella me please let her know when she doesn't drink here",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "975dafba-2a78-4014-970f-a4935ea2f84b"
     },
-    "2565.98": {
+    {
       "requestid": "0f92dcd1-85cd-4dff-a3be-fe6948e4b4b3",
       "confidence": "0.6403846",
       "timestamp": 2565.98,
       "content": "she's so dumb head she ever eaten a donut now I realize she's like a total beckley hippie never eat a pizza cake now piece a candy that I don't know they're know what do you think is gonna happen",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "02609462-3021-48bf-8099-0e14c24a1ced"
     },
-    "2578.65": {
+    {
       "requestid": "98f30190-f8a2-44e8-81d6-536a9dbdba8d",
       "confidence": "0.677291",
       "timestamp": 2578.65,
       "content": "the first like snickers bar or in trouble ha ha ha",
-      "speaker": "S401"
+      "speaker": "S401",
+      "uuid": "15f0e150-323f-4540-897c-eca4bcb0255b"
     },
-    "2584.16": {
+    {
       "requestid": "fa7ba220-5a2d-4356-aea7-a9c7247d33e2",
       "confidence": "0.6898937",
       "timestamp": 2584.16,
       "content": "pretend for a minute that we wanted to distill everything you come sit on this and started",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c82831b0-8984-422f-8bcf-ce04c6968890"
     },
-    "2588.85": {
+    {
       "requestid": "bbbbc76c-f3c4-4101-b7f1-7760104f38eb",
       "confidence": "0.6858365",
       "timestamp": 2588.85,
       "content": "a reality based parenting book who should be president now unfortunately wolfers in stevenson rapper the job for joshuah gandor valerie remeets I'd say it's a toss up between steve levitt who says he's lazy by nature stadtwerken is favored and ryan cat",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "6a2a83f2-2778-4541-8f7f-ce10e52ed34a"
     },
-    "2607.72": {
+    {
       "requestid": "1c070eb7-d1ca-41af-8cfd-c4f79b4d7bf6",
       "confidence": "0.5656859",
       "timestamp": 2607.72,
       "content": "we miss them again to the title kappen <profanity>fuck</profanity>",
-      "speaker": "S401"
+      "speaker": "S401",
+      "uuid": "ef81a94c-d3ce-4782-8245-e8c81abb3d2f"
     },
-    "2610.25": {
+    {
       "requestid": "dfa4ce66-7d68-4879-9722-c2b9e8664092",
       "confidence": "0.8574886",
       "timestamp": 2610.25,
       "content": "selfish reasons to have more kids white being a great parent is less work and more fun",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fea0e229-e991-4538-ba5b-70a0eab82118"
     },
-    "2616.82": {
+    {
       "requestid": "e1234a58-d9c9-4e77-ab3a-5982079f409d",
       "confidence": "0.5896122",
       "timestamp": 2616.82,
       "content": "then you think I mean just listen to them and defense television show",
-      "speaker": "S401"
+      "speaker": "S401",
+      "uuid": "7bfa8ef7-75c8-4c59-8c2b-7f7e3d71da43"
     },
-    "2625.25": {
+    {
       "requestid": "233d83f6-49f1-4b8a-aec4-83f1328db507",
       "confidence": "0.6039376",
       "timestamp": 2625.25,
       "content": "call mortoni babysitters if it's a bad thing",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "c008839e-b080-473e-b7da-95ee7de3756d"
     },
-    "2627.78": {
+    {
       "requestid": "530f9a18-3c56-49b9-aced-786a2aed8a13",
       "confidence": "0.5852985",
       "timestamp": 2627.78,
       "content": "I buy here pay teachers a good mood nothing wrong with electronic so mean in the idea that like a song",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "1703a11c-7f4a-427d-bfb6-7d8ae9629214"
     },
-    "2633.56": {
+    {
       "requestid": "9c8c61ec-22ea-4abb-a4bc-3a82f02ee4b7",
       "confidence": "0.7329311",
       "timestamp": 2633.56,
       "content": "awful harm done when you're on your children watch tv or play video games in 911 so that's all that you've enjoyed it and it gives you a chance to relax and get a little peace and quiet and do and do your own thing and get some work done no reason to feel guilty about it",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "1f9d440c-985a-40ec-9545-d7fb62029643"
     },
-    "2645.43": {
+    {
       "requestid": "f6ba02fa-9290-40ea-9c7f-efdae30de7da",
       "confidence": "0.7453691",
       "timestamp": 2645.43,
       "content": "and again I gotta go further and say like me a specially now there are there really is a lot of fantastic culture on television and I video games I would I would be sad if my kids",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "62529ad9-336b-4f55-913c-8db33aac7c29"
     },
-    "2656.05": {
+    {
       "requestid": "022a0e8e-f778-4d58-bf3e-35acc8119404",
       "confidence": "0.5971386",
       "timestamp": 2656.05,
       "content": "like the simpsons give even more sad than 15 wake up",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "ae4e049b-62be-4c27-af7f-ff972d294d67"
     },
-    "2660.76": {
+    {
       "requestid": "d7a5d3a8-8124-46aa-a6ca-c4a253d4a81e",
       "confidence": "0.7286667",
       "timestamp": 2660.76,
       "content": "part of what motivated kapunda rate is book with the new pile of research suggesting that on average becoming apparent robs you",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "54f59d3a-dbcf-4b99-a3c1-1c0774c51674"
     },
-    "2670.18": {
+    {
       "requestid": "7e4df91e-eb13-489f-b720-e342205dce43",
       "confidence": "0.8594489",
       "timestamp": 2670.18,
       "content": "happiness it is true that people who have kids are a little bit less happy than otherwise it at ago people don't have kids",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "064e4179-d3e0-422f-bec0-5af9a25b54af"
     },
-    "2679.05": {
+    {
       "requestid": "66d2b22d-e3dc-4b81-939e-3c9574013652",
       "confidence": "0.773671",
       "timestamp": 2679.05,
       "content": "is kaplan ceset parents make themselves and happy by stressing out over any and everything so",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "93da2b24-d2bb-4eff-a5a0-b12b4ef300c7"
     },
-    "2685.98": {
+    {
       "requestid": "9943a89e-0841-4a0d-aa2e-f208ba699eb2",
       "confidence": "0.7693839",
       "timestamp": 2685.98,
       "content": "what does a brian kaplan parenting miko",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d66a409a-fb7f-43af-bacc-da17b0c0292c"
     },
-    "2689.53": {
+    {
       "requestid": "7154d490-47ca-439c-86d6-99a3e0bd7865",
       "confidence": "0.6495279",
       "timestamp": 2689.53,
       "content": "look what is your stuff is just getting rid of stuff that nobody likes a website you're doing all based dip on samolis relong benefit like to go to karate and I'll teach you discipline and then you'll do better in school minooka nuchal school menu become the best buy bangor",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "a807e59a-05ae-460c-8535-ca036cf09b8c"
     },
-    "2701.62": {
+    {
       "requestid": "c6dc07a2-e7c1-4579-9aae-6a08c9a5c4e5",
       "confidence": "0.4606794",
       "timestamp": 2701.62,
       "content": "I got all the time your daughter karate",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "67cc74aa-1939-46a6-b0af-90bbda47535f"
     },
-    "2703.97": {
+    {
       "requestid": "665c5c26-a398-463a-a51a-6787f220abf4",
       "confidence": "0.3425504",
       "timestamp": 2703.97,
       "content": "fryxell",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "424a1243-ba79-4516-827f-2ec502327d33"
     },
-    "2705.79": {
+    {
       "requestid": "438b54a2-7d2d-4bf1-bc6c-2ff90364d6a9",
       "confidence": "0.55625",
       "timestamp": 2705.79,
       "content": "yeah but I also go further and say he does like you care if you don't like it it's ok to say look book of record as much as we all take the soccer w still use illegal people today but seriously",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "95d4316e-70c7-4449-abab-bf4f4742d561"
     },
-    "2716.64": {
+    {
       "requestid": "54891d6f-1f56-41d7-8225-8d94afb997e1",
       "confidence": "0.5581055",
       "timestamp": 2716.64,
       "content": "and yo yo meet at the transit connect my way I'll go too bad but no that's really like my son does not that worried about it",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "0f60a057-9cc8-4075-bfd7-16a9fb829e51"
     },
-    "2723.71": {
+    {
       "requestid": "76ad640d-a79a-4140-9b71-b8de07d5e2a4",
       "confidence": "0.8056093",
       "timestamp": 2723.71,
       "content": "brian if you had to pick one activity I really do you eat really don't have any actual date on this but if you had to pick one activity the suspect has the biggest overlap of lack of enjoyment of parent and child what do you think that I can do it be music lessons",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ee08859f-546a-4310-9bb5-c099d802edec"
     },
-    "2745.86": {
+    {
       "requestid": "1e4fa7a6-e390-4b79-b16b-8cefc2e90e41",
       "confidence": "0.5487142",
       "timestamp": 2745.86,
       "content": "is it get it is the beat the hourly commitment is so large",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "128f8236-50dd-4349-a189-d2ef9dfd8a84"
     },
-    "2749.7": {
+    {
       "requestid": "d6f3111d-0181-4b70-8a8c-4b82fc7ee99f",
       "confidence": "0.5360464",
       "timestamp": 2749.7,
       "content": "and yet say I'm in the in the fights but pick it up the parents are doing at 27 sherman",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "a94ace42-479d-46f5-b3b9-acc21e632c8c"
     },
-    "2755.54": {
+    {
       "requestid": "9170948a-3338-4843-854b-23f7b7d84b83",
       "confidence": "0.7728953",
       "timestamp": 2755.54,
       "content": "and I also know that my dad was forced to piano lessons until your 16",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "5d96e842-31d3-4063-a686-cdd382102d91"
     },
-    "2760.07": {
+    {
       "requestid": "bdf7165f-fa53-46fc-a2d6-4447dad22e54",
       "confidence": "0.5751664",
       "timestamp": 2760.07,
       "content": "and h music as result",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "6cda22e0-bf53-4911-9970-19015cbec69e"
     },
-    "2762.15": {
+    {
       "requestid": "ad6cea27-2313-4017-bb50-88163184234d",
       "confidence": "0.6811295",
       "timestamp": 2762.15,
       "content": "reset history such a story where is I'm actually so great for my couch never had never tell me to sing a music lesson I love music",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "00138701-a118-4183-b1f4-8c271dcffbd4"
     },
-    "2768.86": {
+    {
       "requestid": "d11cd1a7-e75b-412e-98fa-04a8b18ebd6d",
       "confidence": "0.5506762",
       "timestamp": 2768.86,
       "content": "and I think that they are forced into that actually my time I go back to the belden dislike it which is like an appendix back till the way to worse one",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "bb669f5f-5602-4942-bcc7-2a1c54cc5cdc"
     },
-    "2777.06": {
+    {
       "requestid": "38ef77a1-a07e-4bbc-a4c3-1d2322d93aaa",
       "confidence": "0.5621526",
       "timestamp": 2777.06,
       "content": "period it's mediety that I like you because you love music you wanna put security commission makes about as much sense to say I love action movies coming up with my kid become a stuntman",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "7ea072c2-87ba-45a1-8d78-12522ff3580e"
     },
-    "2786.26": {
+    {
       "requestid": "f840fb21-a170-445c-acbd-3465119ca2f6",
       "confidence": "0.7633354",
       "timestamp": 2786.26,
       "content": "I can understand by now you think brian kaplan is just cook some kind of an unfeeling on nurturing monster and economics textbook meet in carney but the fact is",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0e7767d9-5fde-45c0-9a11-3ee40ee2182a"
     },
-    "2799.41": {
+    {
       "requestid": "b12a0add-0db2-4143-adba-2e3036de1a82",
       "confidence": "0.6591141",
       "timestamp": 2799.41,
       "content": "did his eyes on at a different kind of parenting pride it's not achievement he's after",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fe01811f-5598-4fcc-8a93-98b3993c07b5"
     },
-    "2806.13": {
+    {
       "requestid": "da5adc53-55b8-40b0-b1f2-a60181b4c1f5",
       "confidence": "0.5526989",
       "timestamp": 2806.13,
       "content": "it's gonna cry here it's warm",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "185a809d-1a77-49b9-b1cc-b8e820fd2d9f"
     },
-    "2812.85": {
+    {
       "requestid": "d51b5249-4414-4738-9d61-1e6163019e4e",
       "confidence": "0.6560187",
       "timestamp": 2812.85,
       "content": "who is this great swedish when sudhi where the people in the twins would wear in the 50s and 60s and 70s me when you're in your 70s whether not your parents thank you stays with you let me ask again who plays with little twins have similar in fife high levels of women on these questions which is the smoking gun",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "4b89eb6b-9a8e-41c7-afff-502d374dcdaa"
     },
-    "2829.12": {
+    {
       "requestid": "070ad191-8930-4948-a18a-63e97a6cab5c",
       "confidence": "0.7391546",
       "timestamp": 2829.12,
       "content": "for not really matter in the way to your kids are feel about it remember you get to know that we like so I feel like a poly relationship this is where you really have an effect and where it is very long lasting it really does last a lifetime",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "58661464-ebe0-4d3a-b8c1-20c7e5bec4e6"
     },
-    "2842.55": {
+    {
       "requestid": "e64732cc-b435-42b4-888a-ef694d28c3dd",
       "confidence": "0.7270237",
       "timestamp": 2842.55,
       "content": "and that's what your child like science project is this going to make you happy rione does the same way if you marry someone saying lick step on his minutoli change the person after I marry him or her off that is a recipe for disaster is bobby not gonna work and it's going to release our relationship because people like being treated like that",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "6eea8b3b-d0cd-4827-91ae-bacde41dbec4"
     },
-    "2859.02": {
+    {
       "requestid": "b3b6a4d5-6ef6-4672-9dd9-7e82a9cd86a6",
       "confidence": "0.6383075",
       "timestamp": 2859.02,
       "content": "how do you make people to make people feel bad about themselves feel bad about you if you have your concern is that are in a meter something different but they r cell of this is the kind of thing where if you really congested odio's don't like except a little humility realise lacunose jobs in separate person in a child's gonna want different things and I want",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "c9a1a38f-5860-4dde-8188-8378374e4ea9"
     },
-    "2877.19": {
+    {
       "requestid": "e0ff4a18-d7d3-4b80-83d4-4078126dbe72",
       "confidence": "0.6477699",
       "timestamp": 2877.19,
       "content": "and that's ok right that's cool that that is part of the beauty of being a <profanity>bitch</profanity>",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "209d5ec2-f798-4ad1-ad7b-d3008b0e0930"
     },
-    "2882.79": {
+    {
       "requestid": "1afb45bc-f42f-43a8-a6db-eed705ef5be9",
       "confidence": "0.6966692",
       "timestamp": 2882.79,
       "content": "you gotta admit brian kaplan meeting crispy on the outside man once again",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "191244d1-90e5-48e7-a209-933b974bfd15"
     },
-    "2887.66": {
+    {
       "requestid": "e86b5f39-1dd1-4acd-8f96-89ee4557f9e5",
       "confidence": "0.6526436",
       "timestamp": 2887.66,
       "content": "I need the surface what force be with miss steve levitt self proclaimed lazy dad",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4b0e16fa-a6aa-4c28-a82f-ff10735ae690"
     },
-    "2894.14": {
+    {
       "requestid": "e1e9f1af-746d-45af-a67a-1ec41dff0a95",
       "confidence": "0.7426972",
       "timestamp": 2894.14,
       "content": "who said obsessive parenting is way way overrated",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "97b76d31-f736-4927-8d5b-84d0ee2623a9"
     },
-    "2898.65": {
+    {
       "requestid": "501df180-6a82-432c-a891-d5ce4e0ea2aa",
       "confidence": "0.5912753",
       "timestamp": 2898.65,
       "content": "there's alotta research on in wantonness in is in tremendous historical data set",
-      "speaker": "S233"
+      "speaker": "S233",
+      "uuid": "fd2c9e83-136f-4c4a-ae35-7f312afe49ae"
     },
-    "2905.26": {
+    {
       "requestid": "fd171a6c-582f-407e-b029-85d4fbec721a",
       "confidence": "0.6533136",
       "timestamp": 2905.26,
       "content": "I'm social santa less if you take to decide if your mother doesn't love you nothing will happen july and so the lowest common denominator for having a kid randhawa",
-      "speaker": "S233"
+      "speaker": "S233",
+      "uuid": "a20f25ec-0447-4f4f-ae92-52117cd47bc1"
     },
-    "2917.9": {
+    {
       "requestid": "8b9631cb-b314-4930-9d4b-6458d61d9c5c",
       "confidence": "0.8101639",
       "timestamp": 2917.9,
       "content": "and if I",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "0998ca93-e253-445d-9998-cd2f09289b0b"
     },
-    "2919.55": {
+    {
       "requestid": "dbfe62ec-54d4-4598-85bf-f39a7e4aa51f",
       "confidence": "0.7010718",
       "timestamp": 2919.55,
       "content": "were president for day maybe dictator friday what are the first things that I might do would be to make it hard to be a parent to make the stanage for being a parent mdifw timing should have to demonstrate proficiency iparenting perhaps to be",
-      "speaker": "S450"
+      "speaker": "S450",
+      "uuid": "d4a84005-c8ac-4e9e-86a4-3400c41f49af"
     },
-    "2936.86": {
+    {
       "requestid": "c85b266e-57c9-46b6-ad95-38dfa6a4780d",
       "confidence": "0.7604381",
       "timestamp": 2936.86,
       "content": "I need to get license let's get high",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3d318639-0fd1-476a-b50c-7bc0a96ce99b"
     },
-    "2938.76": {
+    {
       "requestid": "9ee814e4-abb6-4ad6-9b9e-621dbf33ca01",
       "confidence": "0.7692414",
       "timestamp": 2938.76,
       "content": "he would make people prove they can parallel park before they get a drivers license maybe we should I make people prove that they can interact in a productive way and t teaneck at not need nothing more on american inn in a meeting in the family that people just hate the idea",
-      "speaker": "S450"
+      "speaker": "S450",
+      "uuid": "a130f2c5-e6aa-428a-9738-98a79cd78e7f"
     },
-    "2956.81": {
+    {
       "requestid": "a7d8191d-7208-448a-a773-63d7d393bf84",
       "confidence": "0.6421484",
       "timestamp": 2956.81,
       "content": "of big government looking over shoulder in in time hobby panier not a bigger mb I buy a cigar but on the other hand",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "bc5b2941-ded9-453f-a22a-547bb8514624"
     },
-    "2964.3": {
+    {
       "requestid": "7c519cce-e1c1-4876-b13d-9b52f599c52d",
       "confidence": "0.8671064",
       "timestamp": 2964.3,
       "content": "II could imagine it being a sensible set of things that you would wanna do to make sure that people are ready to be parents",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "431c848f-2f98-4b38-8080-9debb0119312"
     },
-    "2973.17": {
+    {
       "requestid": "ff3ca8e6-4d6d-4bf9-a7e5-8a5303ec2a93",
       "confidence": "0.8610709",
       "timestamp": 2973.17,
       "content": "I think we all agree that parental licensing isn't bound to happen anytime soon nor should it but you can see we love it going with this can't you we probably could all agree on sensable set of things you'd want to do you to be a parent",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "49676ad2-9a8a-4184-8c36-d4a2cdfddaf2"
     },
-    "2989.04": {
+    {
       "requestid": "be3025ca-cb4b-4be7-8247-135206e66571",
       "confidence": "0.8321745",
       "timestamp": 2989.04,
       "content": "heavy drinking and smoking and getting your kids not sensable but on the other end of the spectrum fueling the rug rat race and turning into obsessive parents",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "1b0d10f2-6140-47ca-878f-d87e73713cff"
     },
-    "3000.82": {
+    {
       "requestid": "5e8094f5-445f-45b9-81fc-cfbe5476c91d",
       "confidence": "0.806231",
       "timestamp": 3000.82,
       "content": "probably also not sensable the evidence suggests that obsessive parenting tends to make parents less happy and at the end of the day the best parents is probably the happiest berit better stevenson in wolfers figured out",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7b903311-12ae-46b4-9c31-52229e92aed4"
     },
-    "3018.77": {
+    {
       "requestid": "6b8f7581-099e-4fbc-a079-fbfc63309aca",
       "confidence": "0.8629263",
       "timestamp": 3018.77,
       "content": "in fact we were trying to get pregnant and we were writing a paper on women's happiness",
-      "speaker": "S315"
+      "speaker": "S315",
+      "uuid": "c9a45c32-a72d-4adf-ab0f-eb120090eb57"
     },
-    "3024.57": {
+    {
       "requestid": "7b532e2b-1dda-448e-8b6c-8bd513664df3",
       "confidence": "0.701193",
       "timestamp": 3024.57,
       "content": "and I kept cutting the data to try to find myself in the date and safe I will get less happy let me find a mid thirties woman with a phd with that nohai household income bed",
-      "speaker": "S465"
+      "speaker": "S465",
+      "uuid": "2ae6ffc3-fb8e-4749-bc36-7f794ca46910"
     },
-    "3039.42": {
+    {
       "requestid": "20d433b0-25fe-444a-afe5-69c211e999bc",
       "confidence": "0.7370222",
       "timestamp": 3039.42,
       "content": "note that I wanna search show that people like me to get life happy and I couldn't find it I found it the happiness hit",
-      "speaker": "S465"
+      "speaker": "S465",
+      "uuid": "53a53520-3884-49a4-86bf-c7fef2bf7dbb"
     },
-    "3047.68": {
+    {
       "requestid": "99fc3dea-b3b6-4aa9-a4a4-d8de2271e813",
       "confidence": "0.8008066",
       "timestamp": 3047.68,
       "content": "with much smaller than it would be for you a 20 year old high school dropout who was having I've become a single mom I look for sure",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "a6b3d45d-eff5-48e0-876d-4a52e636dc0c"
     },
-    "3060.66": {
+    {
       "requestid": "eb34761b-0c60-4980-a964-33f2a77e7361",
       "confidence": "0.5780469",
       "timestamp": 3060.66,
       "content": "but but we may I mean I think we made the duleep fully informed nelly",
-      "speaker": "S470"
+      "speaker": "S470",
+      "uuid": "8eec59da-09cd-4df1-9077-1321ec6540c1"
     },
-    "3068.0": {
+    {
       "requestid": "01a15406-e44b-4f94-a493-922ef98fdf01",
       "confidence": "0.6904483",
       "timestamp": 3068.0,
       "content": "any madeleva thinking what thinking that there is it is the happiness penalty to pay and were willing to pay at the bit for that",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "87483648-9e86-4260-b804-a7986dac1318"
     },
-    "3075.42": {
+    {
       "requestid": "b70bd1ec-f204-43a5-8027-1de7d6dfa03f",
       "confidence": "0.8114225",
       "timestamp": 3075.42,
       "content": "would be an experience of seeing if it's not so bad",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8eb4ce5f-a501-4e20-b43a-40ae7154b901"
     },
-    "3080.99": {
+    {
       "requestid": "d7faf299-6aa3-4954-a24a-ae81d43ce8d3",
       "confidence": "0.6361873",
       "timestamp": 3080.99,
       "content": "emeka some terribly nonrational",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "fcd5cb06-519b-4255-b85a-fc9561971207"
     },
-    "3083.55": {
+    {
       "requestid": "1c7e400f-1f75-4d0e-bbaa-7791fab10fac",
       "confidence": "0.6144854",
       "timestamp": 3083.55,
       "content": "and yeah I guess like it I get to many kids i'm 38 I don't get too much longer to figure it out um hello",
-      "speaker": "S109"
+      "speaker": "S109",
+      "uuid": "37e197e4-8a9f-4157-bccd-a48e067dca10"
     },
-    "3092.76": {
+    {
       "requestid": "5c1601e1-729a-419a-afcf-dc2b0366c710",
       "confidence": "0.8218437",
       "timestamp": 3092.76,
       "content": "bottom line is that the data still suggest that people",
-      "speaker": "S470"
+      "speaker": "S470",
+      "uuid": "eebb5588-5a95-4d04-85b6-f0147116bf7d"
     },
-    "3097.4": {
+    {
       "requestid": "904fabb4-9f1d-417d-b46b-985462f06128",
       "confidence": "0.646943",
       "timestamp": 3097.4,
       "content": "wiz kids are less happy than people without even even know among people like",
-      "speaker": "S470"
+      "speaker": "S470",
+      "uuid": "c91fb5c0-6d53-420d-b882-b3139f808600"
     },
-    "3105.77": {
+    {
       "requestid": "ae57b00e-78c8-4d75-94e9-0c07ab449949",
       "confidence": "0.6706467",
       "timestamp": 3105.77,
       "content": "costat happiness had a smaller adass suggest I was happy so then why would I do something that I said will look",
-      "speaker": "S315"
+      "speaker": "S315",
+      "uuid": "de2493b4-7697-44e3-8d02-70420fb9d5cc"
     },
-    "3112.89": {
+    {
       "requestid": "01d622b2-3350-4abe-900c-113768ddbbf0",
       "confidence": "0.6599268",
       "timestamp": 3112.89,
       "content": "how many you guys are the ultimate rush north ironite akana's it mean you trained well at least you did you assume rationality and most people in one would assume that one who sings rationally most people practice is rationality hammer her cell",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "3fa051fe-e7ca-496a-b8dd-992b3e1eb24a"
     },
-    "3126.03": {
+    {
       "requestid": "388b662f-243e-4e24-a76e-c34c95d0ac3b",
       "confidence": "0.6715548",
       "timestamp": 3126.03,
       "content": "justin and I joke about that I pay things we do but we don't actually have a type a attitude or tracy",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "b74f985b-c5a1-4c4b-87f1-da7b1bae8c51"
     },
-    "3131.7": {
+    {
       "requestid": "4da14ea2-742c-419a-806f-1318b8e34e03",
       "confidence": "0.5723097",
       "timestamp": 3131.7,
       "content": "matilda if you know",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "4600183f-e579-474c-9ed5-d87bdf7f11c2"
     },
-    "3134.28": {
+    {
       "requestid": "dc961af1-a82c-4473-a4ab-c7bca80e5f5d",
       "confidence": "0.6934078",
       "timestamp": 3134.28,
       "content": "if we feel like going out to dinner and it's not get organic chili taugher play that's fine we know that the things that matter that much witryna we've we've traveled with her extensively of we figure she's pretty robust and",
-      "speaker": "S469"
+      "speaker": "S469",
+      "uuid": "2fb77bfd-b4dc-40cf-ba3d-ef618494d826"
     },
-    "3151.82": {
+    {
       "requestid": "2979ed70-fb3e-4990-a55f-9110da2de24b",
       "confidence": "0.7064925",
       "timestamp": 3151.82,
       "content": "HINI think that we've tried not to let ourselves have a lot of anxiety over parenting and I figured that that was part of it was behind this lack of happiness was the stress and anxiety in the guilt that people felt it if we compare and without that then perhaps who would be less happy",
-      "speaker": "S315"
+      "speaker": "S315",
+      "uuid": "917ac3d6-a549-491f-a110-e521b06d6046"
     },
-    "3173.33": {
+    {
       "requestid": "b6d8109b-40d8-4c72-adc3-1a9a3e97bb15",
       "confidence": "0.8637978",
       "timestamp": 3173.33,
       "content": "I guess it all comes down to expectations into me one basic question",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "467ee975-e19b-46e2-8df4-0c7a7c18e11e"
     },
-    "3179.58": {
+    {
       "requestid": "1350b37d-9335-4061-ac10-9899fc095a1c",
       "confidence": "0.9253924",
       "timestamp": 3179.58,
       "content": "why have kids in the 1st place",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4584614a-ba39-4515-be23-63160ce90998"
     },
-    "3182.74": {
+    {
       "requestid": "cbf58e6c-001b-4679-a81b-21f3ae70e305",
       "confidence": "0.7211437",
       "timestamp": 3182.74,
       "content": "I aster round table why they decided to become parents who is bruce estido",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "76d18b9f-bf1b-4a52-b9f8-eb2522344c26"
     },
-    "3187.72": {
+    {
       "requestid": "05531152-b5e9-4f14-bbd8-5c1f6760b0ed",
       "confidence": "0.7061719",
       "timestamp": 3187.72,
       "content": "when I actually tell you why we had chills number 2 at 3 which is that I realize are we paid I think my wife artie knew this but I realize oh my goodness this is the greatest adventure ever yo this is so much fun it's so interesting you learn so much from them",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "267ea79a-da57-4137-936b-d11fdd8e580f"
     },
-    "3201.46": {
+    {
       "requestid": "9107c636-670f-4e84-ad7a-5555b193c134",
       "confidence": "0.7004336",
       "timestamp": 3201.46,
       "content": "and you get to do all those things that you wanted to take it that you had a got to do you said you were 10 in you get to do it with someone you actually I looks up to you and takes better of elladan want to take advice from you wouldn't think so it's just a tremendous at adventure and brian kaplan",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "e970cca1-25e8-4222-abef-2b8d0aff47b9"
     },
-    "3218.88": {
+    {
       "requestid": "1e39fc4d-6101-4d72-88c0-f9f2696e30eb",
       "confidence": "0.7253143",
       "timestamp": 3218.88,
       "content": "I would say you like me before I actually start having kids that I've started feeling something that is unusual for men to feel so I actually started getting what psychologist call baby fever",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "8674f894-e3e1-4ae3-8f96-c3b40c5d9a3c"
     },
-    "3228.6": {
+    {
       "requestid": "3557d4d6-c71c-4544-a2a1-f4d6fab570c9",
       "confidence": "0.7757791",
       "timestamp": 3228.6,
       "content": "where I just had his paternal feelings like I need to go and have a little child in teaching stuff and raise them and do things with him",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "4a4b75c7-2c19-4df8-b8fa-8a0fd06fb8aa"
     },
-    "3235.53": {
+    {
       "requestid": "2a10010a-f2bf-4f2c-a81f-8a16a4b88916",
       "confidence": "0.6528349",
       "timestamp": 3235.53,
       "content": "jimmy I actually do you felt this kind of hole in my hard drive wipe my sweaty wanna get kids when I sing a white round 30",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "22a4506a-7a2b-4224-bfe0-b246795725d4"
     },
-    "3241.21": {
+    {
       "requestid": "4180998f-e95c-4943-88bf-e4d21021e80f",
       "confidence": "0.647912",
       "timestamp": 3241.21,
       "content": "abaiang is the light bulb it I have a childish personality I just like doing things like it like doing I like cartoons like comic books I block my boy games PI relate very well the kids and anyways I feel like it really better to kids and 2 adults radul tonight so boring I'm bored do something fun with kids don't have that you don't have a conflict usually it's like ok let's do something fun",
-      "speaker": "S144"
+      "speaker": "S144",
+      "uuid": "9ae03740-1173-401f-aec8-37229d9ff997"
     },
-    "3260.99": {
+    {
       "requestid": "3b18b14d-a01e-42eb-ad61-b12097a2416f",
       "confidence": "0.7484005",
       "timestamp": 3260.99,
       "content": "and steve levitt",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "96454855-e51d-4680-98c9-328b39bcdc23"
     },
-    "3262.89": {
+    {
       "requestid": "353a3035-d6d0-4253-8071-3ed48b9b2320",
       "confidence": "0.6331391",
       "timestamp": 3262.89,
       "content": "that is because the mechanic doesn't mean I can't be deceived by evolution just as strongly as FLL 7 AM",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "1e8cbfea-b206-456e-91c0-f6ed9dfc3a6f"
     },
-    "3269.89": {
+    {
       "requestid": "038ff297-95e6-41bb-9254-07732104a04c",
       "confidence": "0.6935503",
       "timestamp": 3269.89,
       "content": "I think if you buzz me in when I was with my kids",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "d74ef2d0-092a-4575-a7ff-b9427c3576a7"
     },
-    "3273.64": {
+    {
       "requestid": "dccf2657-e918-45a1-90b6-bb880d4f901d",
       "confidence": "0.7020943",
       "timestamp": 3273.64,
       "content": "I'll be just as unhappy as the next guy but spell in my head that float around think it's great to have <profanity>fucking</profanity> self deception is so wonderful powerful force",
-      "speaker": "S40"
+      "speaker": "S40",
+      "uuid": "8c2e6538-6d40-421a-b56a-7f739983bd03"
     },
-    "3286.02": {
+    {
       "requestid": "787bb1b3-61a5-4ba0-85ef-186b0723b8a0",
       "confidence": "0.8043615",
       "timestamp": 3286.02,
       "content": "yeah a wonderful powerful force for me that pretty much sums iparenting 2",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e73c2cb8-cce2-40b9-9ad8-6dcffeb31fbc"
     },
-    "3296.39": {
+    {
       "requestid": "2baa4280-9f18-43a8-ab6b-437e22dbbc93",
       "confidence": "0.592296",
       "timestamp": 3296.39,
       "content": "so before we go",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "65fc5923-d42f-4d89-b6be-440cd736400c"
     },
-    "3298.45": {
+    {
       "requestid": "4638e94b-996b-43cd-968a-0164f1cbfa5f",
       "confidence": "0.6913238",
       "timestamp": 3298.45,
       "content": "let me just say one thing to little matilda into levitts kid the libya amanda nicholson sophie",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "52ab17c7-fd63-41b1-a362-cebea9c21c9d"
     },
-    "3306.25": {
+    {
       "requestid": "fba53c74-51b4-43be-8650-0622008d8437",
       "confidence": "0.6834955",
       "timestamp": 3306.25,
       "content": "into the kids the other kanamits we heard from today sam and leo in 2 sophie is aiden interesting and simon sean and michelle williams in adelaide your parents are strange people",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "eaae5df4-2046-4161-8601-696b2511ab43"
     },
-    "3321.85": {
+    {
       "requestid": "032caff6-7c9b-43a3-b654-e2308292bfbd",
       "confidence": "0.7913848",
       "timestamp": 3321.85,
       "content": "is strong feelings that what's best for you which is the most part we be alone so",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "69bc005d-f5b5-4785-9960-28964eb75e8f"
     },
-    "3327.92": {
+    {
       "requestid": "130f1983-2ef2-4138-a604-0434ea566be6",
       "confidence": "0.6168998",
       "timestamp": 3327.92,
       "content": "do with your favor would you 10 years from now",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "3e717b82-61be-4dac-86ed-d9f335e0f8d4"
     },
-    "3331.28": {
+    {
       "requestid": "f123c1ef-4ea6-44e4-bb32-7ec49b0c6928",
       "confidence": "0.7753963",
       "timestamp": 3331.28,
       "content": "imen den in 20 years in again in 30 and 40",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "8962ad19-6c6f-45df-9980-db8481130f81"
     },
-    "3336.67": {
+    {
       "requestid": "bc664c02-6c28-431d-9be5-cb1e4d3c6bbb",
       "confidence": "0.7030075",
       "timestamp": 3336.67,
       "content": "tell tale things worked out with ya",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "d25a85d9-de1a-4bca-8f64-5ebee5b4004e"
     },
-    "3338.6": {
+    {
       "requestid": "c4cffa7e-1289-4925-9e5c-3779172f14cb",
       "confidence": "0.7672113",
       "timestamp": 3338.6,
       "content": "let us know if the sign language paid off",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "616fcf6d-38e2-497a-8d32-7bf9145a6c76"
     },
-    "3341.46": {
+    {
       "requestid": "625664ac-52c0-43f1-ab69-8cfbe0f21c9d",
       "confidence": "0.5082681",
       "timestamp": 3341.46,
       "content": "in the piano lessons in with the first snickers bar taste like",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "31030ec4-b2b1-4607-9e4e-419908f83fbc"
     },
-    "3353.91": {
+    {
       "requestid": "53238e25-0806-4cc9-bf58-cbf4888b3afd",
       "confidence": "0.1739202",
       "timestamp": 3353.91,
       "content": "you bye",
-      "speaker": "S503"
+      "speaker": "S503",
+      "uuid": "9ebf9e12-4e1d-492c-b551-0ccf4d530ea9"
     },
-    "3356.39": {
+    {
       "requestid": "d4908600-be31-4797-bc16-4f2160c97070",
       "confidence": "0.7388006",
       "timestamp": 3356.39,
       "content": "freakonomics radio is produced by WNYCAPM american public media in dubner productions are producers include catroux psuite lechtenberg cretney read diana wynne and colin campbell that episode is mix by david herman",
-      "speaker": "S161"
+      "speaker": "S161",
+      "uuid": "2e54cd4d-f952-4f5d-8333-ca62cfcb7702"
     },
-    "3371.21": {
+    {
       "requestid": "91ee292b-3c8f-48f1-ac9a-0a7a9f12919f",
       "confidence": "0.8479182",
       "timestamp": 3371.21,
       "content": "you can subscribe to a podcast this program and read more freakonomics atfreakonomics.com",
-      "speaker": "S161"
+      "speaker": "S161",
+      "uuid": "bf671dd2-3a4a-4bfa-bd1d-bc59002e2b3d"
     },
-    "3379.73": {
+    {
       "requestid": "c352ad7f-ea57-4e24-9a0a-644d2081ab73",
       "timestamp": 3379.73,
-      "content": ""
+      "content": "",
+      "uuid": "ad926d22-7d6b-4333-9f36-84bf800caaa1"
     },
-    "3383.62": {
+    {
       "requestid": "9fcf76aa-b059-4762-90e5-9457f79297b3",
       "timestamp": 3383.62,
-      "content": ""
+      "content": "",
+      "uuid": "a989b978-845f-4beb-af84-87abc477f0d3"
     },
-    "3391.25": {
+    {
       "requestid": "f64fa960-c6dc-4412-96db-efd39c818ee0",
       "timestamp": 3391.25,
-      "content": ""
+      "content": "",
+      "uuid": "e0b76b81-c39f-4ce6-8d64-8db1b9295c99"
     },
-    "3393.21": {
+    {
       "requestid": "3598579b-b014-4cd6-8b43-482415099ee7",
       "confidence": "0.8190161",
       "timestamp": 3393.21,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a37a9542-d13c-4a36-8df4-0a720d13db8a"
     },
-    "3412.55": {
+    {
       "requestid": "17a55a1d-4f2f-4eb1-b4d3-b755a1e75632",
       "confidence": "0.8965372",
       "timestamp": 3412.55,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managed for free",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5a150afd-e863-4b7a-b21d-74af31a6679e"
     }
-  }
+  ]
 }

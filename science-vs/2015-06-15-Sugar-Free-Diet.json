@@ -3,654 +3,762 @@
   "date": "2015-06-15",
   "description": "Sugar is no longer the sweet stuff you put in cakes. These days, some claim it's deadly, toxic and as addictive as hard drugs. But, is sugar really that bad for your health? To find out, Wendy Zukerman speaks to Dr Kieron Rooney, Prof. Sandra Capra, Prof. Peter Clifton, Prof. Bob Boakes as well as That Sugar Film's Damon Gameau. \n\nTo be clear, Damon Gameau from 'That Sugar Film' and the 'I Quit Sugar' team have different approaches to the sugar-free diet.  \n\nMore reading:\nClaims from I Quit Sugar: https://iquitsugar.com/eleven-ways-sugar-messes-with-your-health/\n\n'That Sugar Film':  http://thatsugarfilm.com\n\nBMC Biology Q and A on Fructose http://www.biomedcentral.com/1741-7007/10/42\n\nBMJ Dietary sugars and body weight: systematic review and meta-analyses of randomised controlled trials and cohort studies  http://www.bmj.com/content/346/bmj.e7492",
   "episode_url": "http://feeds.soundcloud.com/stream/210396087-science-vs-sugar.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "5e689fe8-5177-4c96-84ee-664712297e6e",
       "confidence": "0.5631731",
       "timestamp": 0,
-      "content": "you're listening to science vs the show way we picked fact against bad I'm wendys are coming in on today show the sugar free diet is sugar really"
+      "content": "you're listening to science vs the show way we picked fact against bad I'm wendys are coming in on today show the sugar free diet is sugar really",
+      "uuid": "2b396bf3-2944-4983-a13e-b06bdb980761"
     },
-    "10": {
+    {
       "requestid": "9ea0b96a-5335-4bcd-bf1e-9ccc343264e9",
       "confidence": "0.5180131",
       "timestamp": 10,
-      "content": "sweet sweet poison he said she could be celebrating a break sweetie"
+      "content": "sweet sweet poison he said she could be celebrating a break sweetie",
+      "uuid": "8746ab04-ad6d-46a6-bcc2-6adbd3cb3764"
     },
-    "20": {
+    {
       "requestid": "7aee770e-5e3b-4292-83db-4a921e3576c0",
       "confidence": "0.635641",
       "timestamp": 20,
-      "content": "the idea behind sugar free diet is that you should avoid"
+      "content": "the idea behind sugar free diet is that you should avoid",
+      "uuid": "dd4a4722-fa1c-4f78-bf4d-0daf744bc901"
     },
-    "30": {
+    {
       "requestid": "ccb49e98-7d1f-46ab-93c9-ee0747e1df21",
       "confidence": "0.6031765",
       "timestamp": 30,
-      "content": "is this chick is because there is something especially bad for your health even toxic about sugar when you compare it to other unhealthy things like"
+      "content": "is this chick is because there is something especially bad for your health even toxic about sugar when you compare it to other unhealthy things like",
+      "uuid": "2adb0d26-8f30-491f-ad33-824644c27bcb"
     },
-    "40": {
+    {
       "requestid": "4ddd6ade-8d9f-4586-b951-d69963b6765a",
       "confidence": "0.5064965",
       "timestamp": 40,
-      "content": "insult I was gonna cook swilling pizza eating cigarette smoking comma guys like 20 is this is david cameron and apisit are in a between press"
+      "content": "insult I was gonna cook swilling pizza eating cigarette smoking comma guys like 20 is this is david cameron and apisit are in a between press",
+      "uuid": "f88d3a52-f90c-405f-835c-71fede53bda5"
     },
-    "50": {
+    {
       "requestid": "0eb2df21-1f48-4e6c-8981-6aecfc6169f8",
       "confidence": "0.5156296",
       "timestamp": 50,
-      "content": "lady he removed added sugar from diet quickly he says things started changing I just cannot is the difference achint quizzically"
+      "content": "lady he removed added sugar from diet quickly he says things started changing I just cannot is the difference achint quizzically",
+      "uuid": "f3818f53-d595-4b69-8481-e2668e0e6187"
     },
-    "60": {
+    {
       "requestid": "cab1aa7e-38da-4ce9-8a3c-4a8b6076b553",
       "confidence": "0.5788092",
       "timestamp": 60,
-      "content": "it says my white stucco meeting with it and it will head back to the yard and then um my mood by to the change of the whole lot more even and consistent threat to die damon was so excited"
+      "content": "it says my white stucco meeting with it and it will head back to the yard and then um my mood by to the change of the whole lot more even and consistent threat to die damon was so excited",
+      "uuid": "55f0d06f-c313-41db-9310-b54fe68629cf"
     },
-    "70": {
+    {
       "requestid": "5c5d374c-f2a8-47e4-845e-f7af8a65c64f",
       "confidence": "0.5822727",
       "timestamp": 70,
-      "content": "about the changes that he felt he made a movie about a book about it to my name is that damn game on the rock to drink to end up with you through text you feel any older action book"
+      "content": "about the changes that he felt he made a movie about a book about it to my name is that damn game on the rock to drink to end up with you through text you feel any older action book",
+      "uuid": "f9af8955-7779-4f45-ba73-326547be3781"
     },
-    "80": {
+    {
       "requestid": "74da9f8b-f0e9-421c-91f0-b485c357c1d7",
       "confidence": "0.5977208",
       "timestamp": 80,
-      "content": "sugar is now found that 80% of the food that we ate at with the concept time since you got you can just making us fat but when it comes to fighting"
+      "content": "sugar is now found that 80% of the food that we ate at with the concept time since you got you can just making us fat but when it comes to fighting",
+      "uuid": "82e852c9-0e1c-4f30-b6c9-00f5716d838e"
     },
-    "90": {
+    {
       "requestid": "5e564dc3-02c6-402e-b572-e4cf201634dd",
       "confidence": "0.6089545",
       "timestamp": 90,
-      "content": "bills and type 2 diabetes sugar is a major if not they might apply and all the symptoms in in making these claims he's not alone sugar"
+      "content": "bills and type 2 diabetes sugar is a major if not they might apply and all the symptoms in in making these claims he's not alone sugar",
+      "uuid": "f4d7246b-1176-4aef-a06e-10a57bf48aaf"
     },
-    "100": {
+    {
       "requestid": "65aff0ea-8fb7-41e0-8f86-859eb27fa657",
       "confidence": "0.6740156",
       "timestamp": 100,
-      "content": "is driving all of the chronic metabolic diseases that we know about today its slowly killing is the more I learn about it work schedule at"
+      "content": "is driving all of the chronic metabolic diseases that we know about today its slowly killing is the more I learn about it work schedule at",
+      "uuid": "072e956f-bba7-4957-a89b-c7382fd92044"
     },
-    "110": {
+    {
       "requestid": "9261d76f-e22c-48e2-ab72-cd66feb3a8f1",
       "confidence": "0.5104219",
       "timestamp": 110,
-      "content": "big boob is the hottest of alyssa trucks giveaways that does sound a little bit comma truck but it's the truth period new warning"
+      "content": "big boob is the hottest of alyssa trucks giveaways that does sound a little bit comma truck but it's the truth period new warning",
+      "uuid": "11a8f733-517e-4fa0-a35c-917151e7caf2"
     },
-    "120": {
+    {
       "requestid": "0bd67a1a-42d5-452e-812c-1c82b6b77243",
       "confidence": "0.382941",
       "timestamp": 120,
-      "content": "from period chief"
+      "content": "from period chief",
+      "uuid": "b1d64b76-8083-47b3-99c9-490c0cae471e"
     },
-    "130": {
+    {
       "requestid": "88819ea4-14c6-458c-b033-2863bad42c38",
       "confidence": "0.48862",
       "timestamp": 130,
-      "content": "came from scientists yes baby period so let's tread very carefully yeah and that nice and slow"
+      "content": "came from scientists yes baby period so let's tread very carefully yeah and that nice and slow",
+      "uuid": "7ef69138-a507-47a4-a32a-586f505e9fcd"
     },
-    "140": {
+    {
       "requestid": "5130e747-fe62-4009-b428-a44b7664a70d",
       "confidence": "0.6568778",
       "timestamp": 140,
-      "content": "these days the world health organization is recommending up at 4 of them and help people donate more than 25 grams around 6 teaspoons of added sugar in a day"
+      "content": "these days the world health organization is recommending up at 4 of them and help people donate more than 25 grams around 6 teaspoons of added sugar in a day",
+      "uuid": "e3354ac4-7858-4d01-b34c-ab829d647890"
     },
-    "150": {
+    {
       "requestid": "ee9fca1d-d448-40b3-9dc8-0c1c88aacffe",
       "confidence": "0.7098222",
       "timestamp": 150,
-      "content": "and that doesn't include ship is it from fruits and veggies so what's the problem if someone eats too much about to die store more fat <profanity>ass</profanity>"
+      "content": "and that doesn't include ship is it from fruits and veggies so what's the problem if someone eats too much about to die store more fat <profanity>ass</profanity>",
+      "uuid": "4f5b2513-1bcb-40e6-baf8-8b4b856cd84b"
     },
-    "160": {
+    {
       "requestid": "44ce777a-2be1-4a99-a121-33f95d2202d2",
       "confidence": "0.7177376",
       "timestamp": 160,
-      "content": "my my oh my god in christ body white but I set list of all that would in the body that stuff to karen rainey a nutritionist at the university of sydney he says it's not just back on the body to eat"
+      "content": "my my oh my god in christ body white but I set list of all that would in the body that stuff to karen rainey a nutritionist at the university of sydney he says it's not just back on the body to eat",
+      "uuid": "d5e40bf5-ca2a-489b-a6f4-feca797cdd4f"
     },
-    "170": {
+    {
       "requestid": "1697a216-3762-4da5-a5a0-dea72ed0ef60",
       "confidence": "0.630958",
       "timestamp": 170,
-      "content": "see which is the problem exists you go on sale aveda fat swimming around your blood that is highly correlated with cardiovascular disease and heart problems"
+      "content": "see which is the problem exists you go on sale aveda fat swimming around your blood that is highly correlated with cardiovascular disease and heart problems",
+      "uuid": "062508cb-cd6c-4614-a3a9-d8f2266950ba"
     },
-    "180": {
+    {
       "requestid": "d4d213c4-9abf-4b20-9b3d-20a6cddc4259",
       "confidence": "0.6030981",
       "timestamp": 180,
-      "content": "oh I says animals have any other side high should I will also develop indicators of glucose intolerance and this is a preliminary step on the white dot"
+      "content": "oh I says animals have any other side high should I will also develop indicators of glucose intolerance and this is a preliminary step on the white dot",
+      "uuid": "951765bf-aabc-44e7-a61e-71aecbbe2e21"
     },
-    "190": {
+    {
       "requestid": "5fbf160c-fae9-4f20-a3cf-36b50eef3f8b",
       "confidence": "0.585219",
       "timestamp": 190,
-      "content": "80s but the big question does eating excess you got cause a problem or is it excess calories in general well at cal buy gift"
+      "content": "80s but the big question does eating excess you got cause a problem or is it excess calories in general well at cal buy gift",
+      "uuid": "d70d4589-5c41-4adc-916f-44df00afa7a3"
     },
-    "200": {
+    {
       "requestid": "5983e451-6ad3-4180-95a3-5f718031cbbd",
       "confidence": "0.7097015",
       "timestamp": 200,
-      "content": "mission is the amount of heat needed to raise the temperature of one gram of weed house by one degree celsius suck if you're trying to lose weight does it matter"
+      "content": "mission is the amount of heat needed to raise the temperature of one gram of weed house by one degree celsius suck if you're trying to lose weight does it matter",
+      "uuid": "2f473cbf-b529-42b9-afaa-c2007aead5fa"
     },
-    "210": {
+    {
       "requestid": "f503074e-74a2-47ec-b965-4d1abb7099fd",
       "confidence": "0.6575568",
       "timestamp": 210,
-      "content": "if you get your calories in a cookie or piece of steak a very good question is a raging debate about a roll calories the side that center"
+      "content": "if you get your calories in a cookie or piece of steak a very good question is a raging debate about a roll calories the side that center",
+      "uuid": "49ad8bb8-b210-40aa-b33d-c4dbdca4034b"
     },
-    "220": {
+    {
       "requestid": "c3bcb030-5b9d-4498-be0c-3c324972880b",
       "confidence": "0.6081271",
       "timestamp": 220,
-      "content": "hapro professor of nutrition the university of queensland so I does a calories from protein make the same is a calorie from a carbohydrate doorstops ortiga"
+      "content": "hapro professor of nutrition the university of queensland so I does a calories from protein make the same is a calorie from a carbohydrate doorstops ortiga",
+      "uuid": "f0c7e279-b743-4c8a-8bdd-88ce0b832587"
     },
-    "230": {
+    {
       "requestid": "768704bb-33f5-40f5-8605-859684765c70",
       "confidence": "0.6226769",
       "timestamp": 230,
-      "content": "horse app for example of a neon trees in terms of weight know there's no difference in this is professa beta clifton at the university of south australia"
+      "content": "horse app for example of a neon trees in terms of weight know there's no difference in this is professa beta clifton at the university of south australia",
+      "uuid": "8d4a70ab-968c-4ddf-bb1f-a702c5441f73"
     },
-    "240": {
+    {
       "requestid": "c0527cf7-cee2-4f60-87f7-920fd95d4b53",
       "confidence": "0.5791072",
       "timestamp": 240,
-      "content": "hey grace says nothing magical about sugar per say but don't even really isn't so sure he says there are no studies that definitively shy"
+      "content": "hey grace says nothing magical about sugar per say but don't even really isn't so sure he says there are no studies that definitively shy",
+      "uuid": "7dd8a6b6-137d-4f8b-ac7d-1438980fbf4d"
     },
-    "250": {
+    {
       "requestid": "296ee8ea-4a1c-4724-8904-a77e59bbb312",
       "confidence": "0.8251902",
       "timestamp": 250,
-      "content": "it when it comes to weight loss a calorie from shugo is the same as a calories from protein is the same as a calories from fat is extremely difficult to be I would"
+      "content": "it when it comes to weight loss a calorie from shugo is the same as a calories from protein is the same as a calories from fat is extremely difficult to be I would",
+      "uuid": "31726086-fd5b-40c3-9090-bc9d311b888d"
     },
-    "260": {
+    {
       "requestid": "755d40f0-a2ef-47ed-9f23-ba3d545aa6cd",
       "confidence": "0.7111898",
       "timestamp": 260,
-      "content": "who are the light the difference between weather is the sugar individuals are eating or whether or not it's the calorie said bring with it so what's that he do we need to do"
+      "content": "who are the light the difference between weather is the sugar individuals are eating or whether or not it's the calorie said bring with it so what's that he do we need to do",
+      "uuid": "e05ee581-79a3-4b61-82f9-feb5c45d325c"
     },
-    "270": {
+    {
       "requestid": "2a2708f8-9ef4-4a6e-9551-d0e005a044b0",
       "confidence": "0.6162531",
       "timestamp": 270,
-      "content": "where is out in need of the fading in the visual set of limitations in those studies because there were we don't have funding aid I get a 6 approval"
+      "content": "where is out in need of the fading in the visual set of limitations in those studies because there were we don't have funding aid I get a 6 approval",
+      "uuid": "631203c1-b74b-493a-abc7-ae94adc7494f"
     },
-    "280": {
+    {
       "requestid": "02f9e470-13a8-4b4f-b82d-82b7dcef1d2c",
       "confidence": "0.5965531",
       "timestamp": 280,
-      "content": "I would say in an individual small amounts of sugar for extended periods of time for all I be out for it will be there"
+      "content": "I would say in an individual small amounts of sugar for extended periods of time for all I be out for it will be there",
+      "uuid": "7471957d-e3ad-49ef-a2fc-f406cd96b6d5"
     },
-    "290": {
+    {
       "requestid": "0dc7e5e3-197d-441b-bb45-e2e7f40a93ad",
       "confidence": "0.6576394",
       "timestamp": 290,
-      "content": "had to convince the national health medical research council to give me a few million dollars today such good care of it and it also be extremely difficult way to get an ethics"
+      "content": "had to convince the national health medical research council to give me a few million dollars today such good care of it and it also be extremely difficult way to get an ethics",
+      "uuid": "70f1a168-a014-47f0-8a8f-97f1c7eff175"
     },
-    "300": {
+    {
       "requestid": "063461bc-e98b-4bfd-ad71-c1ef1c933bed",
       "confidence": "0.5484499",
       "timestamp": 300,
-      "content": "is ricin boyd to say yes knowing that there's a good chance I will fight it is in the visual could make some of the lights how do diabetic with scotty beckett is a hobby lobby I get it"
+      "content": "is ricin boyd to say yes knowing that there's a good chance I will fight it is in the visual could make some of the lights how do diabetic with scotty beckett is a hobby lobby I get it",
+      "uuid": "110d9fd9-a4de-416d-99e6-5dcdc39527cc"
     },
-    "310": {
+    {
       "requestid": "dc71c22e-4cde-469a-a7a2-690b8f28fbf3",
       "confidence": "0.6385667",
       "timestamp": 310,
-      "content": "rivolta do such a study but luckily we can do it with a little rough but even then the limitations is time since I will often say is short term"
+      "content": "rivolta do such a study but luckily we can do it with a little rough but even then the limitations is time since I will often say is short term",
+      "uuid": "ad160852-fb1a-44f3-9b39-bf3071b9aa17"
     },
-    "320": {
+    {
       "requestid": "687d3c04-c7a9-4873-bdcb-1143739535e8",
       "confidence": "0.5956068",
       "timestamp": 320,
-      "content": "is rock so it's not clear with the calories from sugar are especially harmful but there is more to this picture a problem with you guys is that they tend"
+      "content": "is rock so it's not clear with the calories from sugar are especially harmful but there is more to this picture a problem with you guys is that they tend",
+      "uuid": "249de250-c056-44e5-90ab-36e24b140a29"
     },
-    "330": {
+    {
       "requestid": "eab5212e-82e7-4e70-9d33-7752d394e087",
       "confidence": "0.570492",
       "timestamp": 330,
-      "content": "doctor phillips office much is eating protein the reason that's so we ate more of them which means more calories which is definitely problematic if you doubling liquid"
+      "content": "doctor phillips office much is eating protein the reason that's so we ate more of them which means more calories which is definitely problematic if you doubling liquid",
+      "uuid": "a2d019d0-4b54-4f0b-ace3-b56e009848a0"
     },
-    "340": {
+    {
       "requestid": "7d2ec717-bb9a-458b-9ac1-091e73eeb860",
       "confidence": "0.5581625",
       "timestamp": 340,
-      "content": "like soft drinks with chocolate which is considered a semisolid because it melts quickly you even less likely to feel full and it's not that hungry that's true"
+      "content": "like soft drinks with chocolate which is considered a semisolid because it melts quickly you even less likely to feel full and it's not that hungry that's true",
+      "uuid": "d468e049-d521-4ea9-bbe5-f070d2477f07"
     },
-    "350": {
+    {
       "requestid": "002fa3f4-2969-48d8-bc20-2e4d493086a5",
       "confidence": "0.5777982",
       "timestamp": 350,
-      "content": "nasty suga suga hey steve so we ate lots of it plus according to the I quit sugar website which is founded by sarah wilson when it comes to eating"
+      "content": "nasty suga suga hey steve so we ate lots of it plus according to the I quit sugar website which is founded by sarah wilson when it comes to eating",
+      "uuid": "91356fe7-c1d0-4fa5-a72f-904a248fc3e5"
     },
-    "360": {
+    {
       "requestid": "cfbc033d-153a-4151-9e55-2040784963af",
       "confidence": "0.6106922",
       "timestamp": 360,
-      "content": "about moderation is impossible because quotes to make the studies have shown sugod to be as addictive as cocaine and quiet"
+      "content": "about moderation is impossible because quotes to make the studies have shown sugod to be as addictive as cocaine and quiet",
+      "uuid": "d7e3c848-85aa-4deb-bacb-921e76d0703c"
     },
-    "370": {
+    {
       "requestid": "640dab61-4bcf-4a09-bd17-62e9a88da5f4",
       "confidence": "0.6087863",
       "timestamp": 370,
-      "content": "inbox as the eye could see the website ik knowledge is these major studies were conducted in animal rights to be specific not human"
+      "content": "inbox as the eye could see the website ik knowledge is these major studies were conducted in animal rights to be specific not human",
+      "uuid": "bd904237-9699-494c-8bc9-f21a6c90ee6a"
     },
-    "380": {
+    {
       "requestid": "94fece09-6b18-453f-b809-59e444d6f143",
       "confidence": "0.5603451",
       "timestamp": 380,
-      "content": "they also went to killing major studies when it comes to people is sugar really more addictive than a list of drugs"
+      "content": "they also went to killing major studies when it comes to people is sugar really more addictive than a list of drugs",
+      "uuid": "4067c3e7-8f2c-47d4-afc1-f62230ed372e"
     },
-    "390": {
+    {
       "requestid": "c991966b-3460-42f4-9ab9-386b5bacd86b",
       "confidence": "0.5655877",
       "timestamp": 390,
-      "content": "is well I'm just a bit skeptical about that Mrs. professa bobik psychologist to work security at the university of sydney what does is no real quick"
+      "content": "is well I'm just a bit skeptical about that Mrs. professa bobik psychologist to work security at the university of sydney what does is no real quick",
+      "uuid": "3fb63895-2147-4ab1-b6c5-292d192bed3f"
     },
-    "400": {
+    {
       "requestid": "59d7082f-0f7d-4510-9b5e-aed6e6352551",
       "confidence": "0.5102215",
       "timestamp": 400,
-      "content": "fix the shop with a minute to pet going with heroin know what time it involves a bit of craving obviously if that's part of your diet"
+      "content": "fix the shop with a minute to pet going with heroin know what time it involves a bit of craving obviously if that's part of your diet",
+      "uuid": "abebf0ad-bfc5-49ab-9d4b-d23fe5094c44"
     },
-    "410": {
+    {
       "requestid": "30cca564-bdb5-4792-a9d4-9b4b59e4e5b3",
       "confidence": "0.6656253",
       "timestamp": 410,
-      "content": "you like sweet things and sweet foods sweet drinks I do miss them a bit anything aubenas have a sweep it but the I dear of addiction the I dear of addiction is a bit of a play"
+      "content": "you like sweet things and sweet foods sweet drinks I do miss them a bit anything aubenas have a sweep it but the I dear of addiction the I dear of addiction is a bit of a play",
+      "uuid": "061ed2b3-0f02-408d-8324-cad5f6ca89bf"
     },
-    "420": {
+    {
       "requestid": "0b1e2f8c-dc87-4e7c-9864-c55f95638e14",
       "confidence": "0.1897813",
       "timestamp": 420,
-      "content": "dayton ohio"
+      "content": "dayton ohio",
+      "uuid": "fcc8ebbe-8863-420b-87bf-cfd21208089c"
     },
-    "430": {
+    {
       "requestid": "87787aad-9cab-48f4-96ca-d8857e620749",
       "confidence": "0.5842709",
       "timestamp": 430,
-      "content": "calories and even equal calories are created equal when it comes to white game what about diabetes and heart disease who doctor drew"
+      "content": "calories and even equal calories are created equal when it comes to white game what about diabetes and heart disease who doctor drew",
+      "uuid": "c44e1112-de41-4a09-90c2-01cd7c773396"
     },
-    "440": {
+    {
       "requestid": "aabd4d89-f575-4868-95af-14ba93a33c35",
       "confidence": "0.6859681",
       "timestamp": 440,
-      "content": "he said that is evidence from small up in short time studies demonstrating that she got in particular is associated with these diseases but if you look at popular"
+      "content": "he said that is evidence from small up in short time studies demonstrating that she got in particular is associated with these diseases but if you look at popular",
+      "uuid": "2974df5e-8eb0-4b74-8dab-8e1f5af562f4"
     },
-    "450": {
+    {
       "requestid": "da7adccf-568c-4018-8d09-500daeb0825a",
       "confidence": "0.6684104",
       "timestamp": 450,
-      "content": "white studies involving thousands of people things get complicated now they have been statistical methods by which people that have to do identify the days that"
+      "content": "white studies involving thousands of people things get complicated now they have been statistical methods by which people that have to do identify the days that",
+      "uuid": "8e8d28a2-0640-411d-b1f8-8304b3c80c99"
     },
-    "460": {
+    {
       "requestid": "a89efafa-43ac-465f-98a5-e11f4d443882",
       "confidence": "0.5102555",
       "timestamp": 460,
-      "content": "weekly the sugar molecule in those type of the republics recently but that deiters very dirty daughter loves it and found it sorry means is that so I just can't be short"
+      "content": "weekly the sugar molecule in those type of the republics recently but that deiters very dirty daughter loves it and found it sorry means is that so I just can't be short",
+      "uuid": "32705d1a-b9b6-4468-a348-234030e4d501"
     },
-    "470": {
+    {
       "requestid": "99976c80-d9ae-4132-8f28-2111159416ee",
       "confidence": "0.719937",
       "timestamp": 470,
-      "content": "any increase in diabetes or heart disease I found with you to the sweet stuff it could be due to other things in people's diets older lifestyles"
+      "content": "any increase in diabetes or heart disease I found with you to the sweet stuff it could be due to other things in people's diets older lifestyles",
+      "uuid": "ca8661df-4767-4b21-9854-806e57edfe1c"
     },
-    "480": {
+    {
       "requestid": "54992a67-1481-465a-af2b-088134d19cb6",
       "confidence": "0.6952097",
       "timestamp": 480,
-      "content": "not so far we've been talking about sugar is if it's just one thing it's not it's a family it's pretty tight"
+      "content": "not so far we've been talking about sugar is if it's just one thing it's not it's a family it's pretty tight",
+      "uuid": "13e9c886-a183-4313-bd28-cd304571fb78"
     },
-    "490": {
+    {
       "requestid": "da3e2cd9-3ca2-4871-befd-59f783950274",
       "confidence": "0.3911156",
       "timestamp": 490,
-      "content": "lyman found in frozen corn syrup glee kartel's i found in fruits and when we breakdown stajan becomes click on it and"
+      "content": "lyman found in frozen corn syrup glee kartel's i found in fruits and when we breakdown stajan becomes click on it and",
+      "uuid": "55e73fe6-0c14-4cd5-a6a1-a9fac45841e6"
     },
-    "500": {
+    {
       "requestid": "73d46844-c4cc-434b-a1f4-0108b64aadc1",
       "confidence": "0.5995098",
       "timestamp": 500,
-      "content": "midas on this is aubrey by bread the band name is brett and when you breakdown stuff"
+      "content": "midas on this is aubrey by bread the band name is brett and when you breakdown stuff",
+      "uuid": "7d7fdd06-e22a-4724-9681-019ede6dcfb9"
     },
-    "510": {
+    {
       "requestid": "41c87f3e-94f2-468c-80da-ceb3f0d730d9",
       "confidence": "0.254929",
       "timestamp": 510,
-      "content": "it's get glucose weex the coconut song in the sucrose that's table"
+      "content": "it's get glucose weex the coconut song in the sucrose that's table",
+      "uuid": "f8745cd5-abb0-4934-8cc8-57c1028038a9"
     },
-    "520": {
+    {
       "requestid": "3b84692e-1016-487e-860b-f695421d6e80",
       "confidence": "0.5373323",
       "timestamp": 520,
-      "content": "which is actually made up of one britos in one glucose molecule in"
+      "content": "which is actually made up of one britos in one glucose molecule in",
+      "uuid": "80347dc7-2293-4cdc-b810-89e7e7499a66"
     },
-    "530": {
+    {
       "requestid": "bb5e6a74-0ce6-4b36-b66c-4b4ca3110bb6",
       "confidence": "0.4223399",
       "timestamp": 530,
-      "content": "not sure when it comes to health ovi's show is the same hea another"
+      "content": "not sure when it comes to health ovi's show is the same hea another",
+      "uuid": "0167085f-9ce1-41e4-b4f1-af6303b43afe"
     },
-    "540": {
+    {
       "requestid": "8c443862-2cbc-4838-94e0-e24846eca6c5",
       "confidence": "0.659151",
       "timestamp": 540,
-      "content": "debate is raging some scientists most famously professor robert lustig university of california say no they are not the same"
+      "content": "debate is raging some scientists most famously professor robert lustig university of california say no they are not the same",
+      "uuid": "25ce8903-3ef5-48d6-98ca-fab84e7bde19"
     },
-    "550": {
+    {
       "requestid": "9ff59343-6ff5-4626-aeec-2361358c58f9",
       "confidence": "0.513271",
       "timestamp": 550,
-      "content": "believe me there not the same he pointed his finger at route tired as the show got demon play something lime in the coconut and give"
+      "content": "believe me there not the same he pointed his finger at route tired as the show got demon play something lime in the coconut and give",
+      "uuid": "abc3c278-0b3b-4732-964b-d58a52cda672"
     },
-    "560": {
+    {
       "requestid": "fd9113e0-2716-41d5-bc32-a7bbd4b56eb1",
       "confidence": "0.5951403",
       "timestamp": 560,
-      "content": "what time does chronic fructose exposure alone nothing else classes this thing we call the metabolic syndrome and everybody knows with them in a box and romans this is professor"
+      "content": "what time does chronic fructose exposure alone nothing else classes this thing we call the metabolic syndrome and everybody knows with them in a box and romans this is professor",
+      "uuid": "ce698114-3fe6-41bd-9724-161c123f517d"
     },
-    "570": {
+    {
       "requestid": "5cabaf1d-e182-418b-bb1e-6f72223bad32",
       "confidence": "0.7521093",
       "timestamp": 570,
-      "content": "big speaking of university of california back in 2009 we requested in to be with him but he was busy text to this is the conglomerate of the following day"
+      "content": "big speaking of university of california back in 2009 we requested in to be with him but he was busy text to this is the conglomerate of the following day",
+      "uuid": "cff5a0ac-a263-4bb3-91e5-1f16d96d1ae6"
     },
-    "580": {
+    {
       "requestid": "d034939f-3d8a-4c22-9dc1-b7b2b998553c",
       "confidence": "0.6001174",
       "timestamp": 580,
-      "content": "print fenomena obesity type 2 diabetes slip a problem check retention and cardiovascular disease any idea behind demonizing put ice in bed"
+      "content": "print fenomena obesity type 2 diabetes slip a problem check retention and cardiovascular disease any idea behind demonizing put ice in bed",
+      "uuid": "515a3842-aff3-4487-91f4-84f7ce38d482"
     },
-    "590": {
+    {
       "requestid": "9eb74883-78e1-4a34-9357-6949f2fb450b",
       "confidence": "0.4463821",
       "timestamp": 590,
-      "content": "is it out buddy does it use for tyson it's from <profanity>pussy</profanity> for home self like to deal in glucose benati could handle that for tires the body fat"
+      "content": "is it out buddy does it use for tyson it's from <profanity>pussy</profanity> for home self like to deal in glucose benati could handle that for tires the body fat",
+      "uuid": "20288d86-785c-40c3-a059-bc953a3eb02e"
     },
-    "600": {
+    {
       "requestid": "e07db86f-5013-4bc4-b1bb-7711ecc9e0f2",
       "confidence": "0.5541697",
       "timestamp": 600,
-      "content": "did it leave off wed lucky for us we can be converted into the very handy quick cuts but if your body has an ugly cars family but we"
+      "content": "did it leave off wed lucky for us we can be converted into the very handy quick cuts but if your body has an ugly cars family but we",
+      "uuid": "a7115815-29ec-4c96-a1bb-f6c37346a929"
     },
-    "610": {
+    {
       "requestid": "33c5bd10-f0a5-4829-96e3-6c48a5892f16",
       "confidence": "0.5372242",
       "timestamp": 610,
-      "content": "can bet that freaked out is straight into fact that is what the liver does the fructose is really unique vessel fd card is the dispatch build up in the liver"
+      "content": "can bet that freaked out is straight into fact that is what the liver does the fructose is really unique vessel fd card is the dispatch build up in the liver",
+      "uuid": "9a2de849-8cf1-402a-83be-f4b01f032c74"
     },
-    "620": {
+    {
       "requestid": "09682814-8808-45c2-8725-710fcb1c3dcb",
       "confidence": "0.7173603",
       "timestamp": 620,
-      "content": "in the blood taking off and on the process of information on the beginnings of diabetes it hot today in DA study published this heat by depicting bestaan heart"
+      "content": "in the blood taking off and on the process of information on the beginnings of diabetes it hot today in DA study published this heat by depicting bestaan heart",
+      "uuid": "4e4e22bd-3995-4bb2-b0a5-08d27b9f3fb0"
     },
-    "630": {
+    {
       "requestid": "62d33c31-934f-4c1a-8a0e-28d75d044735",
       "confidence": "0.648586",
       "timestamp": 630,
-      "content": "university of california nha ma drinking around half a can of soda sweetened with high fructose corn syrup with breakfast lunch and dinner or but just 2"
+      "content": "university of california nha ma drinking around half a can of soda sweetened with high fructose corn syrup with breakfast lunch and dinner or but just 2",
+      "uuid": "e6d12a76-e9c7-4459-a4a7-de95d04f2fc0"
     },
-    "640": {
+    {
       "requestid": "e090555b-0241-4a74-afb6-3a986cf7299d",
       "confidence": "0.5077543",
       "timestamp": 640,
-      "content": "could increase the level of fats in the blood episode sounding pretty bad for fruit ice box before you put your foot"
+      "content": "could increase the level of fats in the blood episode sounding pretty bad for fruit ice box before you put your foot",
+      "uuid": "154a69e5-6c08-41b7-9533-66a71e0888dc"
     },
-    "650": {
+    {
       "requestid": "260f0656-c4c1-423d-b8cd-20e66aeee2e7",
       "confidence": "0.676905",
       "timestamp": 650,
-      "content": "down and definitely don't put your foot down we'll get to that in just a second Q&A recently published in bmc buyology concluded that the healthy individuals"
+      "content": "down and definitely don't put your foot down we'll get to that in just a second Q&A recently published in bmc buyology concluded that the healthy individuals",
+      "uuid": "927fc766-b019-468c-9d1d-ea02e8acbee0"
     },
-    "660": {
+    {
       "requestid": "0e4a7b0d-c7d6-43c9-907c-3c2c9915f9b7",
       "confidence": "0.5520639",
       "timestamp": 660,
-      "content": "quotes there is no evidence how about that for toys is the soul is in the main factor in the development of these diseases know that it is delhi"
+      "content": "quotes there is no evidence how about that for toys is the soul is in the main factor in the development of these diseases know that it is delhi",
+      "uuid": "ed07ab35-c770-4ed8-ae18-578a3701a3ce"
     },
-    "670": {
+    {
       "requestid": "8548d680-3e0b-43fe-92b2-6e978faf697a",
       "confidence": "0.5072468",
       "timestamp": 670,
-      "content": "rias to everybody in 20 minutes probably because if you eat too much of any sugar ulivi can also convert that into fat booty from now"
+      "content": "rias to everybody in 20 minutes probably because if you eat too much of any sugar ulivi can also convert that into fat booty from now",
+      "uuid": "7c6fc258-bca0-4b18-929d-ca1970769f0e"
     },
-    "680": {
+    {
       "requestid": "86d1045b-7028-4bc1-943a-1849ca08e86e",
       "confidence": "0.3785361",
       "timestamp": 680,
-      "content": "this is doctor karen ready again hour animal deiter lets the football today with the flu cases of the secret book the death has the best concert equivalent mix"
+      "content": "this is doctor karen ready again hour animal deiter lets the football today with the flu cases of the secret book the death has the best concert equivalent mix",
+      "uuid": "ebc1530f-0990-45e4-9a29-d9901b77cdd1"
     },
-    "690": {
+    {
       "requestid": "b282a612-eec3-445a-9540-f83d9314b6cb",
       "confidence": "0.5583423",
       "timestamp": 690,
-      "content": "I've seen that repeatedly if you gonna ever eat any sugar you guys a fatty liver you guys to increase body fat loss none of the expat"
+      "content": "I've seen that repeatedly if you gonna ever eat any sugar you guys a fatty liver you guys to increase body fat loss none of the expat",
+      "uuid": "9758a95f-be52-49b1-98ec-8bd03d2b47d0"
     },
-    "700": {
+    {
       "requestid": "386e6568-ac36-46a1-b5fc-f1710a108951",
       "confidence": "0.6491808",
       "timestamp": 700,
-      "content": "spiked a recommended restricting bridge to avoid for tires any health professionals would be telling you that we should be getting out sugar from fruits vegetables"
+      "content": "spiked a recommended restricting bridge to avoid for tires any health professionals would be telling you that we should be getting out sugar from fruits vegetables",
+      "uuid": "92c213fc-08c7-42dd-933c-7352ba7ddfc9"
     },
-    "710": {
+    {
       "requestid": "cc49e2b1-944a-49d7-bc53-7bbb0d47f24f",
       "confidence": "0.5696539",
       "timestamp": 710,
-      "content": "at dairy products eating fruit is package with important bible which means you feel slow when compared to eat in tight little soft drink so he looks like a bowling tonight"
+      "content": "at dairy products eating fruit is package with important bible which means you feel slow when compared to eat in tight little soft drink so he looks like a bowling tonight",
+      "uuid": "5d4e68a7-dc94-448f-b1a6-05c4c57fb460"
     },
-    "720": {
+    {
       "requestid": "3d026999-d7ec-453f-9904-245518c37412",
       "confidence": "0.6443691",
       "timestamp": 720,
-      "content": "app available calories but also bring along important nutrients needed for leaving such as minerals vitamins and antioxidants so apples bananas"
+      "content": "app available calories but also bring along important nutrients needed for leaving such as minerals vitamins and antioxidants so apples bananas",
+      "uuid": "1454150d-ecc3-43aa-9ea2-1bc2f2165723"
     },
-    "730": {
+    {
       "requestid": "b8dc8029-64d6-4f26-a76a-c043fa20d419",
       "confidence": "0.3576487",
       "timestamp": 730,
-      "content": "is just enjoy"
+      "content": "is just enjoy",
+      "uuid": "f5395088-4ea9-4333-b964-5b8a280018ab"
     },
-    "740": {
+    {
       "requestid": "edac534c-b226-4d63-bd1a-58056c58efa9",
       "confidence": "0.5186942",
       "timestamp": 740,
-      "content": "now we going to do rundown of some other big claim made about little <profanity>shit</profanity> about the going back to damon gamar creative that <profanity>shit</profanity>"
+      "content": "now we going to do rundown of some other big claim made about little <profanity>shit</profanity> about the going back to damon gamar creative that <profanity>shit</profanity>",
+      "uuid": "d1c24e30-f10a-4a81-abbb-01e0f42c33b0"
     },
-    "750": {
+    {
       "requestid": "2f06d436-2b5e-4401-a142-e86b44733277",
       "confidence": "0.4957027",
       "timestamp": 750,
-      "content": "belleme he says that once he stopped eating added sugar my mood but we change it to a lot more event systems rapid I be I quit sugar website also says that"
+      "content": "belleme he says that once he stopped eating added sugar my mood but we change it to a lot more event systems rapid I be I quit sugar website also says that",
+      "uuid": "c58a1651-eec5-469c-8522-e167aa281794"
     },
-    "760": {
+    {
       "requestid": "91652277-b97e-485e-8772-7ee9a32d2d40",
       "confidence": "0.5424666",
       "timestamp": 760,
-      "content": "quote sugar causes mood swings and clyde and they say that you can leave keep hyperactive I'm grumpy but according to professor sandra capital I"
+      "content": "quote sugar causes mood swings and clyde and they say that you can leave keep hyperactive I'm grumpy but according to professor sandra capital I",
+      "uuid": "37d7a072-d70c-4eb1-b9c4-c43b2533e957"
     },
-    "770": {
+    {
       "requestid": "e69b9011-89a3-4f0f-b93b-b4845e0f4fa6",
       "confidence": "0.6466612",
       "timestamp": 770,
-      "content": "next few take huge shock his if you wish your body pumps out insulin in response trying to manage the trans"
+      "content": "next few take huge shock his if you wish your body pumps out insulin in response trying to manage the trans",
+      "uuid": "c99f95b1-f1a3-4e25-95a4-520880a7889b"
     },
-    "780": {
+    {
       "requestid": "9234ff1d-ff3a-4ab3-89a1-86002d840dc4",
       "confidence": "0.6956239",
       "timestamp": 780,
-      "content": "whats app that shows up and then a few hours later you can have the crash as too much sugar has been moved out of the blood and then you get the glow in the"
+      "content": "whats app that shows up and then a few hours later you can have the crash as too much sugar has been moved out of the blood and then you get the glow in the",
+      "uuid": "99e5dd27-6c6a-4514-a7c8-33e5f88393c5"
     },
-    "790": {
+    {
       "requestid": "c0dce500-8376-4cce-b7fa-e189aec6ba05",
       "confidence": "0.6335801",
       "timestamp": 790,
-      "content": "feeling of loss of energy that's quite true that mood swings mood swings way you might feel depressed or happy belated know how"
+      "content": "feeling of loss of energy that's quite true that mood swings mood swings way you might feel depressed or happy belated know how",
+      "uuid": "109c7c7b-ed1c-4460-9f33-2e621c3a7e01"
     },
-    "800": {
+    {
       "requestid": "8e810a13-9c30-43b3-83bb-7c0dec1234d9",
       "confidence": "0.5054435",
       "timestamp": 800,
-      "content": "a bug's izolda skeptical does not evidence for sugar causing mood swings and he puts a nice evening affect down to peoples believe I can seaming sugas important in"
+      "content": "a bug's izolda skeptical does not evidence for sugar causing mood swings and he puts a nice evening affect down to peoples believe I can seaming sugas important in",
+      "uuid": "4e44454d-4e09-441e-a8cf-af194a4b5777"
     },
-    "810": {
+    {
       "requestid": "dc552136-382c-4e76-b453-ff74bbbe7941",
       "confidence": "0.6038729",
       "timestamp": 810,
-      "content": "on my mood is also called the placebo effect I don't know of any good studies that show that because it was a really control it"
+      "content": "on my mood is also called the placebo effect I don't know of any good studies that show that because it was a really control it",
+      "uuid": "59a0937a-a0b5-4478-894e-b1bff461cc09"
     },
-    "820": {
+    {
       "requestid": "93ce9373-f04e-4a27-8c37-220fa2bdbae2",
       "confidence": "0.6085971",
       "timestamp": 820,
-      "content": "send me one good example of this this kind of the strength of belief is claims that high sugar loads make kids hyper"
+      "content": "send me one good example of this this kind of the strength of belief is claims that high sugar loads make kids hyper",
+      "uuid": "3d4d4d54-2c77-4ecd-9bb9-1a6149cc8fae"
     },
-    "830": {
+    {
       "requestid": "48dba6f5-e1d7-4f7f-bd36-3449ae37e9e9",
       "confidence": "0.6400977",
       "timestamp": 830,
-      "content": "and that's very strong I believe but when it's been seriously investigated the snow so I know that happen"
+      "content": "and that's very strong I believe but when it's been seriously investigated the snow so I know that happen",
+      "uuid": "c06181a9-dd0f-4c58-888a-63c1fbecc570"
     },
-    "840": {
+    {
       "requestid": "39b11e19-c503-49f6-bb6e-6cfb5147dc5b",
       "confidence": "0.6314211",
       "timestamp": 840,
-      "content": "which of the front of you but she was unavailable and when I asked him to send me the sources about why they think she got voted moodswing I sent me one study from 19"
+      "content": "which of the front of you but she was unavailable and when I asked him to send me the sources about why they think she got voted moodswing I sent me one study from 19",
+      "uuid": "b31f3ef0-18bd-4e6c-a627-b2d9f016464c"
     },
-    "850": {
+    {
       "requestid": "b577c7fc-45f7-49c3-91d1-4bca1b64bfec",
       "confidence": "0.6496649",
       "timestamp": 850,
-      "content": "85 which involves 4 people and some out dated references in the introduction emails I sent me a report which band links between schizophrenia depression and"
+      "content": "85 which involves 4 people and some out dated references in the introduction emails I sent me a report which band links between schizophrenia depression and",
+      "uuid": "11ea3070-b1ab-4813-b6b3-dac1752dfae2"
     },
-    "860": {
+    {
       "requestid": "97066c7e-ebac-4506-a125-2c8e7fd031a7",
       "confidence": "0.6307599",
       "timestamp": 860,
-      "content": "high consumption of sugar in up quite different from the twins general healthy population mount mickey's on going back into the links between mental illness and"
+      "content": "high consumption of sugar in up quite different from the twins general healthy population mount mickey's on going back into the links between mental illness and",
+      "uuid": "53c67aa7-cb8a-4a45-863b-21947def6cf3"
     },
-    "870": {
+    {
       "requestid": "be72d740-4f12-4d2d-b4ea-5de197a87194",
       "confidence": "0.6019381",
       "timestamp": 870,
-      "content": "hi sugar consumption but there's no replay conclusions just yet so scientists haven't nodded out with any links I find a due to a poor diet in general tso"
+      "content": "hi sugar consumption but there's no replay conclusions just yet so scientists haven't nodded out with any links I find a due to a poor diet in general tso",
+      "uuid": "6c3cc6c5-9661-4096-bef7-f36d52ad88f8"
     },
-    "880": {
+    {
       "requestid": "7542191a-b25f-4dd0-a8ad-ebde213fc41f",
       "confidence": "0.6915498",
       "timestamp": 880,
-      "content": "not getting enough nutrients am I get traded so to seeing and sign just don't even know if sugar is causing a problem because it could be at people with depression"
+      "content": "not getting enough nutrients am I get traded so to seeing and sign just don't even know if sugar is causing a problem because it could be at people with depression",
+      "uuid": "7d64747d-6c31-4404-a0fc-3b1de0c449e9"
     },
-    "890": {
+    {
       "requestid": "1639bb23-2e75-4a13-8942-eec7bc1b5673",
       "confidence": "0.6427622",
       "timestamp": 890,
-      "content": "and eat more sugar coz it's comforting all the claims about the sweet stuff from the I quit sugar website suga accelerates aging and quote"
+      "content": "and eat more sugar coz it's comforting all the claims about the sweet stuff from the I quit sugar website suga accelerates aging and quote",
+      "uuid": "743f8911-53a2-42dc-aebc-692076c56a7b"
     },
-    "900": {
+    {
       "requestid": "501d5409-5a75-4030-b2ce-f5629d8d8c24",
       "confidence": "0.5664595",
       "timestamp": 900,
-      "content": "encourages wrinkles and watch the end up your niece is the some indirect evidence for the aging thing because there's an association between"
+      "content": "encourages wrinkles and watch the end up your niece is the some indirect evidence for the aging thing because there's an association between",
+      "uuid": "5527bd1d-243e-4f95-87e9-4150b5dcb210"
     },
-    "910": {
+    {
       "requestid": "e95d71b6-bbe5-45ea-aaeb-750b92aa061c",
       "confidence": "0.6064542",
       "timestamp": 910,
-      "content": "aging free radicals and oxidative damage within the dishes and we nodded metabolism that should a result in production of free radicals I don't like damaged by"
+      "content": "aging free radicals and oxidative damage within the dishes and we nodded metabolism that should a result in production of free radicals I don't like damaged by",
+      "uuid": "16fb7769-6617-425e-8d56-ed55fe7c2f5a"
     },
-    "920": {
+    {
       "requestid": "aa7c392a-cf37-447d-b783-ae8e9b9da70a",
       "confidence": "0.4631959",
       "timestamp": 920,
-      "content": "he also says free radicals love you too sweetie matab lising mostly ignored him produced during exercise for example I quit sugar also"
+      "content": "he also says free radicals love you too sweetie matab lising mostly ignored him produced during exercise for example I quit sugar also",
+      "uuid": "13417d4a-29d7-4d85-839f-a1acdb4ad67a"
     },
-    "930": {
+    {
       "requestid": "d2f72168-9df2-4fa6-a123-755bf33c7ace",
       "confidence": "0.6091791",
       "timestamp": 930,
-      "content": "fez show the upsets the mineral balance and increases the acidity in your body oh my goodness he is chris this is sandra capry again"
+      "content": "fez show the upsets the mineral balance and increases the acidity in your body oh my goodness he is chris this is sandra capry again",
+      "uuid": "3157160e-3f7c-4906-a3e3-a7a7b21d5dd7"
     },
-    "940": {
+    {
       "requestid": "8fcba037-9221-4a58-9ffd-3e043b4cbc4c",
       "confidence": "0.6075751",
       "timestamp": 940,
-      "content": "how to summon up a lot of these claims veza extrapolation from real science into what do michael speculation and mythology"
+      "content": "how to summon up a lot of these claims veza extrapolation from real science into what do michael speculation and mythology",
+      "uuid": "425efc97-eea0-4c6c-83db-5ebe8c75541d"
     },
-    "950": {
+    {
       "requestid": "a2949caa-2402-440e-a09a-e4fdea912e74",
       "confidence": "0.5674709",
       "timestamp": 950,
-      "content": "suffolk your knee is a little more forgiving we need to appreciate the little to base the evidence the science results lakes paramitha people conducting is forever evolving"
+      "content": "suffolk your knee is a little more forgiving we need to appreciate the little to base the evidence the science results lakes paramitha people conducting is forever evolving",
+      "uuid": "0b8fe781-a358-41aa-8a14-2178c8b4fa40"
     },
-    "960": {
+    {
       "requestid": "cfdeea29-3397-4b44-9d35-02982a0e82b9",
       "confidence": "0.7201618",
       "timestamp": 960,
-      "content": "now the question is does 102 studies in an area make enough evidence to make a grand clyde add wallace only 102 face"
+      "content": "now the question is does 102 studies in an area make enough evidence to make a grand clyde add wallace only 102 face",
+      "uuid": "45f2ec1b-0cc6-44a6-b131-8ab2ed806648"
     },
-    "970": {
+    {
       "requestid": "1844ff92-7f78-456b-88e3-0181705f827c",
       "confidence": "0.6174749",
       "timestamp": 970,
-      "content": "the david and then the scientific menese would say not so when it comes to science versus the sugar free diet does it stack up"
+      "content": "the david and then the scientific menese would say not so when it comes to science versus the sugar free diet does it stack up",
+      "uuid": "86868d96-cd88-4bd0-8e9a-258818d5ad30"
     },
-    "980": {
+    {
       "requestid": "18e47fdc-ae07-4cab-a522-a3bfede59c0b",
       "confidence": "0.7019768",
       "timestamp": 980,
-      "content": "while eating too many calories are bad and it's really easy to eat a lot of calories from sugar because that fill you up and they really got me when I"
+      "content": "while eating too many calories are bad and it's really easy to eat a lot of calories from sugar because that fill you up and they really got me when I",
+      "uuid": "a1b67dc7-2216-4e16-b6cc-de64db663a75"
     },
-    "990": {
+    {
       "requestid": "4771059e-0b5a-4a3a-9839-4850c7bdb571",
       "confidence": "0.5540652",
       "timestamp": 990,
-      "content": "sugar is worse for you than fats the jury is out it's looking like maybe an weather fruit choices westview dingler carswell perhaps"
+      "content": "sugar is worse for you than fats the jury is out it's looking like maybe an weather fruit choices westview dingler carswell perhaps",
+      "uuid": "75860637-b2f4-4fd2-a37d-cacca4c000ad"
     },
-    "1000": {
+    {
       "requestid": "66678088-b58c-490c-b951-8d5adf7dc4c8",
       "confidence": "0.5912352",
       "timestamp": 1000,
-      "content": "but when it comes to these debates the bigger fish to fry in the world with oma's 40% of adult avoid white and 13% or base at the mall"
+      "content": "but when it comes to these debates the bigger fish to fry in the world with oma's 40% of adult avoid white and 13% or base at the mall",
+      "uuid": "e023f2d0-98a4-44ed-848b-a0949c54b5cf"
     },
-    "1010": {
+    {
       "requestid": "21e69ec3-82c4-41d4-abf7-5341001c436c",
       "confidence": "0.6353759",
       "timestamp": 1010,
-      "content": "and in our society which does are easy as for wrinkles addictions in mood swings and it really isn't enough evidence for dollars for mike"
+      "content": "and in our society which does are easy as for wrinkles addictions in mood swings and it really isn't enough evidence for dollars for mike",
+      "uuid": "7ed00656-777c-4429-ab3e-b9193bd32d30"
     },
-    "1020": {
+    {
       "requestid": "b6202ee2-acb7-4937-b36a-04dddfa36e0b",
       "confidence": "0.6146326",
       "timestamp": 1020,
-      "content": "comes to science versus the sugar free diets that science why I guess because I can brother CM and the sugar free"
+      "content": "comes to science versus the sugar free diets that science why I guess because I can brother CM and the sugar free",
+      "uuid": "45df5e30-b900-4a0e-911b-4077991f16a0"
     },
-    "1030": {
+    {
       "requestid": "296f43f3-29de-417e-aec8-9935d60e219f",
       "confidence": "0.5542268",
       "timestamp": 1030,
-      "content": "it all makes give it a one to even know those widok langsa bunk not eating any cakes cookies in price it's true grief 8 is definitely good for your health"
+      "content": "it all makes give it a one to even know those widok langsa bunk not eating any cakes cookies in price it's true grief 8 is definitely good for your health",
+      "uuid": "e5de9071-92cd-4a7e-97fd-4c0f220726e9"
     },
-    "1040": {
+    {
       "requestid": "4a6ffd5b-0157-416c-9fcc-63304f5e5340",
       "confidence": "0.6402333",
       "timestamp": 1040,
-      "content": "nazifa find this is a big thanks to my car produce at caitlin sorry and you can subscribe to us we are podcasts so you can absolutely subscribe to sing"
+      "content": "nazifa find this is a big thanks to my car produce at caitlin sorry and you can subscribe to us we are podcasts so you can absolutely subscribe to sing",
+      "uuid": "33a2dba8-4e88-4f78-97e0-463a25f5fff3"
     },
-    "1050": {
+    {
       "requestid": "0509314e-0e07-4182-94d9-7dc479846f15",
       "confidence": "0.6072145",
       "timestamp": 1050,
-      "content": "should a 19 so your favorite podcast abbeville is address on soundcloud is well next time medical marijuana in pot still can't"
+      "content": "should a 19 so your favorite podcast abbeville is address on soundcloud is well next time medical marijuana in pot still can't",
+      "uuid": "2adb8a3a-448b-441e-8135-a15772d58da3"
     },
-    "1060": {
+    {
       "requestid": "7c23d845-e839-43fd-a022-047365ef9d29",
       "confidence": "0.4831737",
       "timestamp": 1060,
-      "content": "search not does a lot of the bar tribute to stand up very well you know this happen is the show the base of the cannabinoids simpsons can really"
+      "content": "search not does a lot of the bar tribute to stand up very well you know this happen is the show the base of the cannabinoids simpsons can really",
+      "uuid": "bbd132c2-3164-4d26-b70f-0f7c32bc91dc"
     },
-    "1070": {
+    {
       "requestid": "474c5ff7-3e26-45de-b761-d97ec9d8fdcd",
       "confidence": "0.4271455",
       "timestamp": 1070,
-      "content": "temperature in a great time when you coming back in town"
+      "content": "temperature in a great time when you coming back in town",
+      "uuid": "d3708c40-8d77-4a39-902c-cd268b485750"
     }
-  }
+  ]
 }

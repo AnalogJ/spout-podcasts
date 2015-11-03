@@ -4,1334 +4,1526 @@
   "description": "<p>Why learning to say “I don’t know” is one of the best things you can do.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/V5YlRgqegOU/freakonomics_podcast051514.mp3",
   "slug": "The-Three-Hardest-Words-in-the-English-Language",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "4d969c72-6950-4084-b540-d7bc5512d84e",
       "confidence": "0.7052686",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu offering a variety of business cards in printed pronox muall solofra sprint nfinity the ability to print a different image on every card more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "792e7ab2-cc31-4789-a4cb-e0c182ea916f"
     },
-    "16.94": {
+    {
       "requestid": "8d73bf86-2998-4dc2-a5c2-5d6a5f5e30c5",
       "confidence": "0.7101495",
       "timestamp": 16.94,
       "content": "even dubner avenue book is out think like a freak we wanna talk about with you",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "bbf7538a-0634-4b3d-b89a-831aef74edc6"
     },
-    "22.26": {
+    {
       "requestid": "5e530569-1492-4d6a-86eb-0a3c090eda9d",
       "confidence": "0.8116702",
       "timestamp": 22.26,
       "content": "so we are forming be think like a freak book",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "c6e3e2bc-f8d6-4052-a035-e6a78ed3a90e"
     },
-    "25.83": {
+    {
       "requestid": "2390d7e1-8af3-4874-a151-a20113301c9a",
       "confidence": "0.8259951",
       "timestamp": 25.83,
       "content": "as it works you send in your questions about the book and we will answer them on this podcaster 9 chapters in the book so we do the first installment about the club with chapters 12 and 3 those are what does it mean to think like a freak the 3 hardest words in the english language and what's your problem",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "9ee303e6-03d6-4850-b89a-f53aaf080759"
     },
-    "45.63": {
+    {
       "requestid": "135475e5-8c7e-4ae3-9d17-79090028904f",
       "confidence": "0.8157318",
       "timestamp": 45.63,
       "content": "just send your questions to radio atfreakonomics.com with the subject line book club in if we choose your question for the podcast we will send you a signed copy of think like a freak for a limited addition think like a freak teacher thanks",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "94c6da2b-d0e7-46dd-a876-e285a7540ac2"
     },
-    "62.98": {
+    {
       "requestid": "2a2ec53f-73c0-48da-bd90-4f24d9e5b367",
       "timestamp": 62.98,
-      "content": ""
+      "content": "",
+      "uuid": "9ae3e0ab-0bd0-47f3-ac62-f8657b3b21fa"
     },
-    "65.8": {
+    {
       "requestid": "896be3e6-934e-403b-94d0-97ab0d5195b0",
       "confidence": "0.4973676",
       "timestamp": 65.8,
       "content": "11 AM can we do story says I'm going to tell you the story",
-      "speaker": "S9"
+      "speaker": "S9",
+      "uuid": "fd1d0db5-4ba8-4022-94e7-f7cdd7ceae89"
     },
-    "73.78": {
+    {
       "requestid": "e74c0c13-41bf-4195-9944-37ae5d32fa62",
       "confidence": "0.7073044",
       "timestamp": 73.78,
       "content": "a little girl named mary goes to the beach with your mother and brother little girl named many days to the beach we come up at birth",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "32c2bad6-8f62-4156-8951-2fdf48e499c1"
     },
-    "82.46": {
+    {
       "requestid": "34dd6e62-7a33-497d-882b-31d738ad4347",
       "confidence": "0.5494562",
       "timestamp": 82.46,
       "content": "red car I'll drive back in here at com",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "e5b75743-565d-4f48-93f3-1e7339a8679e"
     },
-    "85.69": {
+    {
       "requestid": "4f9ff47f-68f0-416d-8d1c-1a5b9aacd3d8",
       "confidence": "0.7477202",
       "timestamp": 85.69,
       "content": "the beach they swim eat some ice cream play in the sand and have some sandwiches for lunch at the end of the short story",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "a8eaade2-34d5-4616-8146-b8a01f16464e"
     },
-    "94.92": {
+    {
       "requestid": "4b1d7a7d-b07b-4d41-8b2b-4041ca61e96d",
       "confidence": "0.5134077",
       "timestamp": 94.92,
       "content": "now let me ask if you questions back tonight can I see the questions ready",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "ba2ffbbf-bdc9-4f5b-902e-d831b88936f1"
     },
-    "100.57": {
+    {
       "requestid": "312a909d-1396-40f8-acdc-7b5ce2847bf4",
       "confidence": "0.8479834",
       "timestamp": 100.57,
       "content": "number one what color was the car",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "4cdfafef-713f-402f-af4b-12271a1f5bf3"
     },
-    "104.78": {
+    {
       "requestid": "92d2bd3c-23f2-4596-8bca-5e0687dea11f",
       "confidence": "0.5919674",
       "timestamp": 104.78,
       "content": "what color was the car the color red",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "e638ee2f-2f71-4e91-8b7c-24e80285af6e"
     },
-    "109.33": {
+    {
       "requestid": "759c1dbd-9640-4ac7-ae29-849d23d57618",
       "confidence": "0.8409574",
       "timestamp": 109.33,
       "content": "number to do they have fish and chips for lunch meat sandwiches",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "ee8b0953-35dd-4127-9c88-9cb0f9dc5cfe"
     },
-    "115.42": {
+    {
       "requestid": "cb5a821e-a942-4556-9021-154c96b68bbc",
       "confidence": "0.5425644",
       "timestamp": 115.42,
       "content": "yeah it's pretty tough",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "9b9c072a-497a-4a5d-9ca7-3cecbb0368ca"
     },
-    "118.03": {
+    {
       "requestid": "61da5625-7e3a-4096-934b-787c8ba321fb",
       "confidence": "0.6186242",
       "timestamp": 118.03,
       "content": "no they do not have fish and chips for lunch what do they have sandwiches they had sandwiches",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "7fcdf57f-4c47-4e56-9945-9576cbf410d8"
     },
-    "126.6": {
+    {
       "requestid": "ae17839c-242a-4938-a7a9-223560d210df",
       "confidence": "0.6153138",
       "timestamp": 126.6,
       "content": "phone number 3 did they listen to music in the car no they did I'm sure they did that never listen to music do you listen to music in the car",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d5725a30-06b4-4183-8e14-e967da74691e"
     },
-    "136.48": {
+    {
       "requestid": "e22efd96-58d9-428b-905f-613a19c31f62",
       "confidence": "0.5794712",
       "timestamp": 136.48,
       "content": "no they didn't listen to music call in number for debbie drink lemonade with their lunch now",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "dd669f8e-a19a-4345-8ed4-bf9171b0ab6e"
     },
-    "145.97": {
+    {
       "requestid": "be22bb6b-4bc1-477b-bbb4-c63404c8da1f",
       "confidence": "0.5362043",
       "timestamp": 145.97,
       "content": "they didn't treat night when he developed",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c2ff3958-bdf0-4b4a-835b-a4cb3a46d71b"
     },
-    "148.07": {
+    {
       "requestid": "68ce9190-5942-4461-8efc-755b68bf27e2",
       "confidence": "0.5357994",
       "timestamp": 148.07,
       "content": "how did not much people drink soda",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "a7003e68-9563-42db-b765-de785e3aaedb"
     },
-    "152.42": {
+    {
       "requestid": "b0b84d70-6f80-4cda-aa82-b9ca09f2855c",
       "confidence": "0.5669791",
       "timestamp": 152.42,
       "content": "flavor ice cream did matt cassel how do you know mary had chocolate cake and ice cream what flavor ice cream do you know mary had vanilla ice cream what flavor ice cream game at my house",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "84d6a5af-dd3e-46be-a9cc-70b120d3901a"
     },
-    "167.1": {
+    {
       "requestid": "eb7dc006-eabe-4f19-b3ac-2ca4c8d535f7",
       "confidence": "0.2292551",
       "timestamp": 167.1,
       "content": "true very",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "a85fafc0-3f6a-4702-98d8-94eb8288ecab"
     },
-    "173.86": {
+    {
       "requestid": "f14ce869-c118-45c8-96bb-255f5743d490",
       "timestamp": 173.86,
-      "content": ""
+      "content": "",
+      "uuid": "de46d87a-7221-43c3-b3fd-d61e4670d804"
     },
-    "182.57": {
+    {
       "requestid": "624313d9-05ae-4349-9d5a-e33fbee8a5a0",
       "confidence": "0.6811006",
       "timestamp": 182.57,
       "content": "I'm wmic this is freakonomics radio the podcast that explores the inside of everything",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "4a1a687b-aecc-4927-a12e-3975e92144b4"
     },
-    "190.16": {
+    {
       "requestid": "c00a25af-c66a-4527-9e89-2ee79a11a2d2",
       "confidence": "0.4048933",
       "timestamp": 190.16,
       "content": "here's your host diesin.net",
-      "speaker": "S26"
+      "speaker": "S26",
+      "uuid": "7f8d406a-72f8-4470-a2c8-259a9e038d0d"
     },
-    "204.72": {
+    {
       "requestid": "94608792-c498-4e26-bab8-851f1a6fd4dc",
       "confidence": "0.7921126",
       "timestamp": 204.72,
       "content": "deep web and I have just published a new book called think like a freak one chapter is called the 3 hardest words in english language no reason coz word are in the past some may have argued that people have a hard time saying",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "ec0d4a7e-c39a-454f-b24b-453d9ae542ab"
     },
-    "221.46": {
+    {
       "requestid": "8e6428b9-b1ca-4e07-ba0f-8003a1fbfd30",
       "confidence": "0.6094549",
       "timestamp": 221.46,
       "content": "I love you I'll fix it when rinsing I love you all the time friends pets strangers",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "db8bb0b3-a0cf-4862-a148-7ea3d74f6eca"
     },
-    "229.43": {
+    {
       "requestid": "4eb29d0b-2ea4-42ef-98a7-34de2359a69b",
       "confidence": "0.7375756",
       "timestamp": 229.43,
       "content": "so what are those 3 most difficult",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "a781ea30-89b6-4796-8b07-2879c0241efb"
     },
-    "233.94": {
+    {
       "requestid": "89ac7314-3a1a-451f-9fc2-5bba5929d3eb",
       "confidence": "0.3543009",
       "timestamp": 233.94,
       "content": "soleb am one",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "801a1185-6449-43b7-bc78-fc79790fffcb"
     },
-    "235.99": {
+    {
       "requestid": "4cb1072f-a584-44a8-b13a-93cbc2d12d5f",
       "confidence": "0.8160269",
       "timestamp": 235.99,
       "content": "piece of business advice that people give all over the web linkedin and it just read all the regular kind of job search and career advice place one big piece of advice to give is when you're in a job interview is one thing you should never say to the person interviewing you which is I don't know",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "82b1ca9e-c39d-479f-bc01-4eef79efc547"
     },
-    "255.52": {
+    {
       "requestid": "3d16497c-7538-4da2-ac9c-27808956415b",
       "confidence": "0.7345229",
       "timestamp": 255.52,
       "content": "you should never admit you don't know the answer your question I'm doing",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "10a2aa4a-5514-4eae-a233-c17ed7868f4d"
     },
-    "259.19": {
+    {
       "requestid": "57ac4e0d-5583-4fc1-b000-122796f7ae4f",
       "confidence": "0.4786722",
       "timestamp": 259.19,
       "content": "pretty good by dec shiprock that is good advice for an energy note that probably gives does the energy you",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "0bc4a595-f8ff-4f9e-9050-6da587c71137"
     },
-    "266.65": {
+    {
       "requestid": "23e7faa5-2490-4de7-93d2-3df5c0bcab58",
       "confidence": "0.6184291",
       "timestamp": 266.65,
       "content": "step probably is good advice for job interview",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "2321f5aa-d22e-458b-8992-7d112d135f62"
     },
-    "270.51": {
+    {
       "requestid": "bf703200-f6c7-41d9-90a2-3e0254a37aa6",
       "confidence": "0.5846743",
       "timestamp": 270.51,
       "content": "but it is terrible advice for life",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "62d43532-6f1c-4d24-94f2-60a3744b6ce2"
     },
-    "274.06": {
+    {
       "requestid": "478ef3b8-3833-454a-8e91-5a80f162119b",
       "confidence": "0.6435747",
       "timestamp": 274.06,
       "content": "and why is that such terrible advice for life live it right into the bags apples do we wrote freakonomics and",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "9723a237-20c2-486c-8c83-44c4abc1ed73"
     },
-    "281.4": {
+    {
       "requestid": "e0d61990-7710-4e2e-8acf-78456e2ad776",
       "confidence": "0.6755763",
       "timestamp": 281.4,
       "content": "because it was deemed a business book means a lot of copies that made this disease expert and since I would love that book I've been asked otunnu as well to go talk to companies and give them advice",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "449ded9f-7c0a-45d5-9c35-81bb908df398"
     },
-    "294.72": {
+    {
       "requestid": "54e398f3-5fef-4634-af4d-1a0e7250b171",
       "confidence": "0.8543555",
       "timestamp": 294.72,
       "content": "and what's amazing to me and I've kept very close attention over the last decade almost",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "2713a77e-f19e-46e3-bb5f-c4cc5de036c7"
     },
-    "300.54": {
+    {
       "requestid": "27884a9d-6e4e-4bda-9973-ef564521d8dc",
       "confidence": "0.8858161",
       "timestamp": 300.54,
       "content": "is I could count on one hand the number for caitians in which someone in a company",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "64a003c1-ba1d-47b2-9a70-e7033f023688"
     },
-    "307.06": {
+    {
       "requestid": "65133c9b-b4f8-42ab-8963-4833f991d7e6",
       "confidence": "0.8066784",
       "timestamp": 307.06,
       "content": "in front of their boss on a question that they might possibly have",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "73606d0f-34d2-48f2-b3be-ee37f7518b2d"
     },
-    "311.6": {
+    {
       "requestid": "bfb581ea-00f8-4796-940f-fc1774d496fb",
       "confidence": "0.762651",
       "timestamp": 311.6,
       "content": "ever been expecting an answer I said I don't know",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "488a0fff-b16b-493b-b854-bc01b079e4e7"
     },
-    "315.84": {
+    {
       "requestid": "a6dbb653-2b84-414d-aae1-39550e2e37ff",
       "confidence": "0.7287354",
       "timestamp": 315.84,
       "content": "within the business route there's a general view that your job is to be an expert and no matter how much you have to fake or how much are making it up that you just should give an answer",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "141a6019-42e3-4b76-b9c4-ed92a0db7412"
     },
-    "328.63": {
+    {
       "requestid": "1410f45b-07fb-4f7d-8b5d-a4630e06e390",
       "confidence": "0.6591528",
       "timestamp": 328.63,
       "content": "and hope for the best efforts and I've seen it teaching the best western state there incredibly good the nba at faking like to know the answer when they have no idea but it's so counterproductive",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "b4b09316-25bd-42dd-aa16-966eaef1ab41"
     },
-    "341.59": {
+    {
       "requestid": "e46a8422-cfa1-4781-8b4c-5936fc441503",
       "confidence": "0.8078437",
       "timestamp": 341.59,
       "content": "I mean think about it imma keep your job for another week another month it might make people think you're good but that's not the point me what fun is life of all you do is go to die trying to fake like you're something that you're not",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "a0187c7b-9571-432d-91ee-3d041308dd9d"
     },
-    "352.47": {
+    {
       "requestid": "c7b5fa0a-3821-4502-b6cb-566eb6be6815",
       "confidence": "0.8000029",
       "timestamp": 352.47,
       "content": "when really at the goal is to be cut into improving to learn and to make things better and the only way to do that is to start the thing I don't know when I don't know I don't know",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "daa4b65f-344b-4f1e-85e2-7b4bd6b556eb"
     },
-    "368.41": {
+    {
       "requestid": "e3ac917e-3619-448c-97da-d624190c79f7",
       "confidence": "0.6602093",
       "timestamp": 368.41,
       "content": "easy to ridicule best speakers in bluffer's of the world but we can understand the motivation can't wait",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "38583545-3fe6-42c7-b9d1-c4624b41a232"
     },
-    "374.77": {
+    {
       "requestid": "47b9bcf2-80a8-4740-a7ad-242448f0cf32",
       "confidence": "0.7129748",
       "timestamp": 374.77,
       "content": "everyone wants to look smart look competent look like we belong but it would be even better if you let it says",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "885b030a-c09a-4d12-97e2-0adeb9871316"
     },
-    "384.1": {
+    {
       "requestid": "58edfb6c-5594-49fa-864e-a86e896559bf",
       "confidence": "0.7443322",
       "timestamp": 384.1,
       "content": "improve and learn actually make things better",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "b50294ad-8a11-421a-9ea2-295220488fd6"
     },
-    "387.96": {
+    {
       "requestid": "cf243a7a-b523-4987-bc1f-94fdd57cefb0",
       "confidence": "0.7395065",
       "timestamp": 387.96,
       "content": "if you think so listen on let's try to figure out where this reluctance to say I don't know comes from",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "3dee794f-4af2-4d3a-b408-f438a0bce8b1"
     },
-    "397.32": {
+    {
       "requestid": "c91c07ea-9942-4b62-a37d-114315abba5f",
       "confidence": "0.7048663",
       "timestamp": 397.32,
       "content": "amanda hey steve and amanda waterman teaches developmental psychology at the university of leeds how bout a research about people's willingness specially children's willingness to say I don't know early research looked at weather kids would say I don't know when asked",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "b701075b-4359-46f9-bef4-1c458c9bba5b"
     },
-    "415.48": {
+    {
       "requestid": "2ade56fc-c092-46ee-81c3-a61881d4053f",
       "confidence": "0.7740624",
       "timestamp": 415.48,
       "content": "patently ridiculous question",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "0883a384-9530-4573-9ab0-deb1fd3c493f"
     },
-    "422.95": {
+    {
       "requestid": "e987a4fd-e043-4ec1-8eee-c40f7b9c9a9f",
       "confidence": "0.3963906",
       "timestamp": 422.95,
       "content": "tell me how to teach them how many songs",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "3f6565e7-1b8d-436f-a459-561e027d597f"
     },
-    "430.82": {
+    {
       "requestid": "f385f40c-164d-4d0f-9727-59124b7b8def",
       "confidence": "0.3511067",
       "timestamp": 430.82,
       "content": "they have your skis they have a walk with max is she",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "a51a86e7-5abe-4e8a-860a-6b26033e6e0a"
     },
-    "439.35": {
+    {
       "requestid": "d654c280-8cf9-4285-bf61-9422e104c897",
       "confidence": "0.5433944",
       "timestamp": 439.35,
       "content": "ok membership",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d2d71a41-a0e5-4b9a-acf6-81e17c4908b3"
     },
-    "442.94": {
+    {
       "requestid": "7b38576d-90eb-4536-8ba1-1ed09cc5f5b8",
       "confidence": "0.4741558",
       "timestamp": 442.94,
       "content": "is red and yellow",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "8b95c704-9012-4a6f-968d-c9c5622de3dd"
     },
-    "447.48": {
+    {
       "requestid": "cb935fe3-18cb-48ed-b875-44ee33a2a854",
       "confidence": "0.2096417",
       "timestamp": 447.48,
       "content": "I still need that",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "174c0dcd-53f9-4ec9-a8f1-464a476878fb"
     },
-    "450.99": {
+    {
       "requestid": "1c339e0a-febb-445b-b139-52ee5e057c68",
       "confidence": "0.3838267",
       "timestamp": 450.99,
       "content": "is brad heavier than yellow",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "f8b37a8d-ced2-4537-9788-bd04e9e61cd0"
     },
-    "457.48": {
+    {
       "requestid": "b9c9dc20-7970-4ffb-9427-6701020b9ca1",
       "confidence": "0.3953812",
       "timestamp": 457.48,
       "content": "who is your favorite color",
-      "speaker": "S72"
+      "speaker": "S72",
+      "uuid": "2b274ce3-3c24-419e-9db1-4fbbfdf269d3"
     },
-    "463.13": {
+    {
       "requestid": "3c38d5cc-9a7f-43c2-803f-ddad67d1c8b3",
       "confidence": "0.6489235",
       "timestamp": 463.13,
       "content": "I think it is heavy and yellow",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "d9ceb3c0-11e3-41ab-8f58-444dbdc823cf"
     },
-    "465.15": {
+    {
       "requestid": "95e2af8d-cf26-44dc-80ea-8fdd305fc4a4",
       "confidence": "0.3168442",
       "timestamp": 465.15,
       "content": "<profanity>fuck</profanity> holes",
-      "speaker": "S74"
+      "speaker": "S74",
+      "uuid": "bc4fc14a-b4d1-4f9e-8388-d17f5fd94d4b"
     },
-    "466.74": {
+    {
       "requestid": "eaa39c54-8399-4124-a327-9b12de2f5e7f",
       "confidence": "0.4476942",
       "timestamp": 466.74,
       "content": "because because because I'm",
-      "speaker": "S74"
+      "speaker": "S74",
+      "uuid": "59689457-42a9-4fb3-ba62-cb1b610a54ec"
     },
-    "471.38": {
+    {
       "requestid": "686472a6-210b-4064-9486-56f0e47dbae0",
       "confidence": "0.4502094",
       "timestamp": 471.38,
       "content": "what is in hell I'm in your hands in the sky is net",
-      "speaker": "S74"
+      "speaker": "S74",
+      "uuid": "b17ee977-cb9d-4378-b40a-7aedafd6e4cc"
     },
-    "477.99": {
+    {
       "requestid": "639407f8-d2a3-44c1-aac3-9f0681a46320",
       "confidence": "0.5021282",
       "timestamp": 477.99,
       "content": "on the low down",
-      "speaker": "S74"
+      "speaker": "S74",
+      "uuid": "8487b363-6e84-494a-ae15-f22db30b2b62"
     },
-    "483.57": {
+    {
       "requestid": "55814b63-174e-4979-9a0e-6dd70f7a95ad",
       "confidence": "0.4357685",
       "timestamp": 483.57,
       "content": "jumpa angry a banana tree",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "bc5b5815-e431-4173-83d4-9f44a8403e81"
     },
-    "488.9": {
+    {
       "requestid": "eb429bac-4b42-46f9-bda6-a0f9b1ce17f8",
       "confidence": "0.4035188",
       "timestamp": 488.9,
       "content": "no is it wrong to angry ales and treat night because",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "6680a6c0-b45d-447a-8e2e-2ccaa012a29c"
     },
-    "495.3": {
+    {
       "requestid": "09ce8067-3d12-4d07-970c-ca4b3176fe71",
       "confidence": "0.3464406",
       "timestamp": 495.3,
       "content": "free <profanity>shit</profanity> right now",
-      "speaker": "S69"
+      "speaker": "S69",
+      "uuid": "3ad66e9a-a012-4654-8ca1-87d2cbcb4c2e"
     },
-    "496.85": {
+    {
       "requestid": "cd35ca3a-cc4e-4e6b-98ca-2942f91ef301",
       "confidence": "0.1062463",
       "timestamp": 496.85,
       "content": "faces",
-      "speaker": "S72"
+      "speaker": "S72",
+      "uuid": "5692d90c-88c7-4d99-8115-e6f90d39fafe"
     },
-    "501.36": {
+    {
       "requestid": "68d3f77a-efce-4063-ac88-c5b233973208",
       "confidence": "0.4073343",
       "timestamp": 501.36,
       "content": "who is angrier than a cheetah",
-      "speaker": "S72"
+      "speaker": "S72",
+      "uuid": "c75999ed-5aa7-453d-aad9-669e260449ae"
     },
-    "507.01": {
+    {
       "requestid": "f07d5da1-82d1-4c8f-b2bb-d5ded8b65e03",
       "confidence": "0.596755",
       "timestamp": 507.01,
       "content": "you can pick james up and that's how they move",
-      "speaker": "S72"
+      "speaker": "S72",
+      "uuid": "68fc92a7-3e9f-4eb5-a8f3-aed5172922f1"
     },
-    "514.98": {
+    {
       "requestid": "32d8b9f0-fb0a-4064-871c-2fd917fc9fa5",
       "confidence": "0.2609916",
       "timestamp": 514.98,
       "content": "play sway from side to side in the win",
-      "speaker": "S81"
+      "speaker": "S81",
+      "uuid": "7b5509f7-659a-418c-93b3-2ae3a13793a6"
     },
-    "522.1": {
+    {
       "requestid": "3ba401bb-f71f-4f83-b35f-cfaaaece4a9f",
       "confidence": "0.7978468",
       "timestamp": 522.1,
       "content": "so amanda is a sweater with you there call a jumper angrier than a tree",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "20c853b0-911c-408e-a71f-6dc923cef14f"
     },
-    "528.55": {
+    {
       "requestid": "8861f316-5719-4712-827a-89dc5027bed7",
       "confidence": "0.703319",
       "timestamp": 528.55,
       "content": "ok well that's pops weather 3 sat down to eat when we all children very silly questions about whether dempo in tideswell that was hungry then a tree m to see whether they would indicate in any way whether they were confused by the question of whether they would just um go along with the",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "6131a773-1cb9-440d-97b9-8846185fad5b"
     },
-    "545.27": {
+    {
       "requestid": "250e648f-a171-465b-ae74-e2eeadd86b65",
       "confidence": "0.7491733",
       "timestamp": 545.27,
       "content": "have fun spirit of the question we found it off and children did want to",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "924b45a9-7720-410a-997b-8c22d359cd86"
     },
-    "549.17": {
+    {
       "requestid": "56ca5048-7101-47d2-aa75-fb5a6ed63797",
       "confidence": "0.5046608",
       "timestamp": 549.17,
       "content": "decide whether temperas angry than a tree",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "402ff4d5-2212-4613-924d-2a6720c6c34b"
     },
-    "551.42": {
+    {
       "requestid": "018e673f-4375-4ef2-ae1c-bf8beb524a35",
       "confidence": "0.6503689",
       "timestamp": 551.42,
       "content": "we need an offer that I was more interested in looking over there you got bored by that stuff and I got bull jump is all be asleep longer than trees right side oh really I thought trees",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "fcdee4f2-0019-47e0-8a51-08a8b8f410d2"
     },
-    "561.38": {
+    {
       "requestid": "4a7c7458-58b3-4697-bee2-7dda91b150b4",
       "confidence": "0.650712",
       "timestamp": 561.38,
       "content": "mechner tempested efini angry because I think they could've used by people you know you might have to come on and off all the time I see him",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "d77a2a6b-f44b-4ba3-afe3-220531754ab6"
     },
-    "568.01": {
+    {
       "requestid": "02d62ecf-f8a6-44d2-a248-32bc19ff8c4a",
       "confidence": "0.6797115",
       "timestamp": 568.01,
       "content": "but we want more interested in looking at on pop something will be a little bit more applicable to real life because generally don't turn off you very silly question all the time but you do on come across questions which you do not know the answer that might be spezzati senseable question",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "a0834e64-e99a-4795-9017-cfc8456e0c1f"
     },
-    "583.5": {
+    {
       "requestid": "e6e89feb-f6fd-4c1d-a3b8-030151f2f90d",
       "confidence": "0.6580715",
       "timestamp": 583.5,
       "content": "you just happen to know the answer to it so the reset phone on from silly questions to you",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "2204824e-529e-45c4-829b-999a7164c995"
     },
-    "588.43": {
+    {
       "requestid": "aeaf2d65-6ec3-47cf-89ad-1d3269ee6420",
       "confidence": "0.6517003",
       "timestamp": 588.43,
       "content": "hey cortana answer the questions which brings us back to the story",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "c2e85bf8-4e91-48b2-a2cd-2a0341217db1"
     },
-    "592.71": {
+    {
       "requestid": "2ace0ee5-a479-4bf8-ae4a-29a7efad7ac6",
       "confidence": "0.591451",
       "timestamp": 592.71,
       "content": "you heard earlier that little girl named mary in a little town",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "c1d8276d-14b7-4130-85df-e8e60f3af6e9"
     },
-    "598.31": {
+    {
       "requestid": "da7177fd-cb9a-4552-baef-760f84ddfa49",
       "confidence": "0.6477376",
       "timestamp": 598.31,
       "content": "named mary kay's to the beach we come up that broke the story of study to amanda waterman ran to see how children will answer a question",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "8a267f37-9b6e-42d4-933b-55269a953275"
     },
-    "607.56": {
+    {
       "requestid": "97179989-f2a6-4886-94f8-12494464b11c",
       "confidence": "0.7779963",
       "timestamp": 607.56,
       "content": "it is the centrali unanswerable question to which the most sensible answer is I don't know in a story about mary and her family going to the seashore we learn several facts car was red they eat sandwiches for lunch",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "b28152f6-4a7b-4825-93be-be1d72d08286"
     },
-    "622.03": {
+    {
       "requestid": "6768d64c-086d-47d7-bf8d-a7d5df6a2be6",
       "confidence": "0.7810954",
       "timestamp": 622.03,
       "content": "but other fact or not given to us did they listen to music in the car we are told that did they have lemonade with the sandwiches we don't know",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "30980075-6f6e-4f53-bf33-23367e61d98f"
     },
-    "631.65": {
+    {
       "requestid": "966a3dc8-6420-447f-9c23-960a114c8962",
       "confidence": "0.3873953",
       "timestamp": 631.65,
       "content": "did they drink lemonade with the lunch 9 they didn't drink lemonade of the lunch",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f3199998-fd87-4eb9-ba3c-d817eab9606d"
     },
-    "638.39": {
+    {
       "requestid": "916fd8b1-9343-44e3-aa1a-95a82c79b001",
       "confidence": "0.454882",
       "timestamp": 638.39,
       "content": "defacing to music in",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "f1944aaa-eb6e-4e45-acee-056da16aeff7"
     },
-    "640.19": {
+    {
       "requestid": "c44f0a26-f0e8-4e62-be58-1087c919ad5f",
       "confidence": "0.2365648",
       "timestamp": 640.19,
       "content": "call",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "ac001fde-1323-4c4f-911e-f812a52ffbb4"
     },
-    "646.6": {
+    {
       "requestid": "200318c4-27b2-4f47-bef3-8b5a47dcb98c",
       "confidence": "0.6022295",
       "timestamp": 646.6,
       "content": "no they didn't listen to me to call",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "fc0e7278-36b3-4653-b398-39011061f10d"
     },
-    "650.83": {
+    {
       "requestid": "66653d52-9360-4c6d-a54d-526608b8147c",
       "confidence": "0.7161951",
       "timestamp": 650.83,
       "content": "the vast majority of children pretend they know the answer to unanswerable questions he has buried between study to be",
-      "speaker": "S100"
+      "speaker": "S100",
+      "uuid": "3255352b-e1c8-4708-bd2f-a9ba311c5036"
     },
-    "659.84": {
+    {
       "requestid": "07d90d83-a27f-4225-aab5-9139d5bbab70",
       "confidence": "0.7234417",
       "timestamp": 659.84,
       "content": "can ya maybe 2 thirds to 3 quarters of children that were talking in the age range her about 5 to 8 years old would say yes or no to a yes no question that we know they don't id on city",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "98af7b22-9d15-441a-8f80-1117a01a1439"
     },
-    "671.81": {
+    {
       "requestid": "64d75e03-1671-48fb-b6ae-ef01b3f44bc8",
       "confidence": "0.7858015",
       "timestamp": 671.81,
       "content": "tobi's kids are preparing themselves very well for careers in business or politics maybe as a pundit of some sort or where ever else in society people tend to know more than I do know why is the simple so strong among children",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e6592877-37b4-480e-a117-52b03cd71239"
     },
-    "688.64": {
+    {
       "requestid": "bcb28377-d1c0-4721-bae5-ecaa9779b05e",
       "confidence": "0.6992871",
       "timestamp": 688.64,
       "content": "post me when I think's going on is that the children over used to the classroom situation with him do you to get all questions by your parents of the child but a lot of question on sex changes happen in school teachers off kids questions all the time to get off the table at picking up melissa next track",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "313af13b-a962-4398-9f5f-0af347ad2468"
     },
-    "705.45": {
+    {
       "requestid": "ccd64704-f208-4a9f-92f4-b21c0d3734fa",
       "confidence": "0.7243798",
       "timestamp": 705.45,
       "content": "I'm generally in that situation since both have a guy",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "8d16285a-3143-4ee8-927e-c6eb5b04500b"
     },
-    "708.92": {
+    {
       "requestid": "f57b09ee-8452-432f-bb01-d691a3be852d",
       "confidence": "0.7351998",
       "timestamp": 708.92,
       "content": "you need a generally and many points for saying I don't know when the teacher asked the question so having a guy when I'm not she feeling good maybe you have that piece of knowledge in that you can show you know that you are clever",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "cf56dfcb-bcf5-4948-be0f-d43594ceb4f7"
     },
-    "721.3": {
+    {
       "requestid": "d0439aaa-8634-43f4-921b-e48c5bda0c07",
       "confidence": "0.7498994",
       "timestamp": 721.3,
       "content": "I'm so I think that when it seems like a test to chew ation my phone back on what they've already started to learn from the context they spend a lot of time in",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "b3a43cf4-09f5-4ea9-8064-6d2b805d6c11"
     },
-    "731.18": {
+    {
       "requestid": "c19e31cf-0412-40ad-b9be-bee5d466248c",
       "confidence": "0.8126617",
       "timestamp": 731.18,
       "content": "I guess when you describe it as an academic setting even like them exciting manchildren it reminds me of strictly academic settings among older people university in san but it also reminds me of settings in the workplace where",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "b3e7dc31-1a00-4623-b7bc-d3566b950d22"
     },
-    "743.08": {
+    {
       "requestid": "d88d3453-2c38-4652-928a-f79821b135bc",
       "confidence": "0.7550617",
       "timestamp": 743.08,
       "content": "very often when a question is raised",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "c8783d26-713a-42ed-9d39-0c603de73a2e"
     },
-    "745.56": {
+    {
       "requestid": "810430ef-f9df-40e5-8306-cc42e05a554b",
       "confidence": "0.8246027",
       "timestamp": 745.56,
       "content": "someone is expected to know the answer and maybe ask her if the question if it doesn't if they don't necessarily know the answer they start have strong opinions about it so I'm curious about how you would connect what you see in young children with what you see a man",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "551268b7-8e7b-4e82-bcdc-91864ee42aad"
     },
-    "759.37": {
+    {
       "requestid": "93fcf7a0-280c-467a-ad99-dbe1a40b0727",
       "confidence": "0.8003484",
       "timestamp": 759.37,
       "content": "rest of us adults in weather is the work world war on politics or policy things like that",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "a780f960-4df1-4946-be20-14f79f27eece"
     },
-    "765.7": {
+    {
       "requestid": "ffc4a5fe-98cd-4a49-88c2-627ff778a5dc",
       "confidence": "0.7190757",
       "timestamp": 765.7,
       "content": "yep well I think that ties back into this whole social aspect of any kind of conversation oh I die logo question I'll take change by you",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "87927a07-f1ea-4236-aef1-eb90bbff8531"
     },
-    "774.44": {
+    {
       "requestid": "927ef77a-881d-4340-b082-ba9577334798",
       "confidence": "0.7103937",
       "timestamp": 774.44,
       "content": "I love how you respond um is affected by how you perceive the expectations of the person asking the question so it's not just about giving a straight factual answers to the state of your knowledge it actually trying to work at all the other",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "6f330340-7723-424e-89dd-c9b20aa1bdd7"
     },
-    "790.38": {
+    {
       "requestid": "4afcbc48-517f-401b-816b-2995f4acd165",
       "confidence": "0.6540152",
       "timestamp": 790.38,
       "content": "add contacts around why the questions binos want to think the interview went from you I'm on my 3 children do you spell to do that very young age",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "a5b0e329-c781-412d-ada9-103aa4326120"
     },
-    "799.8": {
+    {
       "requestid": "7d2e39f6-0759-4c6f-bc9e-358f0d9e8a02",
       "confidence": "0.7054454",
       "timestamp": 799.8,
       "content": "I'm I think one of the things that happens with kids but you can actually definitely apply to some tool.com sations is it is quite the power differential between a child in an adult he's asking a question",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "eb1626b1-aa4a-47f6-9236-672babe2788b"
     },
-    "811.64": {
+    {
       "requestid": "3071246a-738f-4d81-b681-9476b000e3f1",
       "confidence": "0.5426299",
       "timestamp": 811.64,
       "content": "on the trouble with field an adult is the past has more power",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "5336c4a1-272e-4b7a-af67-5cba802de56f"
     },
-    "816.06": {
+    {
       "requestid": "77a12f37-2e32-4093-9200-95fdbd64ed47",
       "confidence": "0.6251728",
       "timestamp": 816.06,
       "content": "amefa pops I feel so I guess it don't think so but they want to show what they can do they don't feel as comfortable with misty when I don't know something actually applied across into work contact with adults with you have a box with an employee or you have somebody who is hiroba",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "d799346b-a42b-407c-a616-15d30ede691b"
     },
-    "830.78": {
+    {
       "requestid": "ac3f5cc2-b0be-43f2-90a4-407efcacf90d",
       "confidence": "0.5888669",
       "timestamp": 830.78,
       "content": "hiero keeping you well and you feel that expectation that he say somebody should not be outside today",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "f5976fcb-13e1-4c35-9d6b-e7266c489114"
     },
-    "848.31": {
+    {
       "requestid": "ab84b092-f82e-441d-84cc-51c16108555a",
       "confidence": "0.7524221",
       "timestamp": 848.31,
       "content": "as it turns out waterman also tested some adults with unanswerable questions",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "f9fe50fd-e87b-4d34-850f-93ae347eb5bd"
     },
-    "853.41": {
+    {
       "requestid": "334a1e98-3fb9-4dd7-bca0-e11a0b7eac0e",
       "confidence": "0.6337959",
       "timestamp": 853.41,
       "content": "how do we find out about the cool to know if you don't try to answer is yes no I'm not surprised at least that's better than 3 quarters of the kids couldn't bring himself to say I don't know but still not very encouraging",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "c877fde6-5854-4064-853d-f2c27088f80c"
     },
-    "869.66": {
+    {
       "requestid": "14ec8a81-c526-4e64-8bc7-8498a943715e",
       "confidence": "0.7805265",
       "timestamp": 869.66,
       "content": "I think about it for minute when's the last time someone you know maybe even yourself",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "926d3b8f-326b-4515-be84-c0696bc41cfa"
     },
-    "875.75": {
+    {
       "requestid": "cfccead5-1f11-4b64-9dd2-227c4fc9e945",
       "confidence": "0.5912424",
       "timestamp": 875.75,
       "content": "game of firm answer to a question that you really didn't know maybe we could go mrgo maybe",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "dd2c8337-3496-4353-82f5-0b92a35f445b"
     },
-    "888.9": {
+    {
       "requestid": "e8b92005-499c-420f-a78a-47d222d53391",
       "confidence": "0.6641856",
       "timestamp": 888.9,
       "content": "coming up on freakonomics radio the consequences of not being able to admit we don't know it's easier to spend a billion dollars for 10 minute did actually find out",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "17866045-65ba-4e66-a548-725464ef7025"
     },
-    "900.9": {
+    {
       "requestid": "2bb7b8d8-3d99-4498-9fc5-965edaa7ee37",
       "confidence": "0.7458792",
       "timestamp": 900.9,
       "content": "and what we can do about it there's only one way to learn",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "1976ee10-0e6f-4e97-847e-27d514f0ddd1"
     },
-    "905.39": {
+    {
       "requestid": "2e555768-6696-4b73-bf00-3e69a89b88d9",
       "confidence": "0.6389502",
       "timestamp": 905.39,
       "content": "and that's good feedback",
-      "speaker": "S130"
+      "speaker": "S130",
+      "uuid": "508e3789-3170-46ae-ad6b-4316d60298ca"
     },
-    "919.39": {
+    {
       "requestid": "86d1b010-68bd-4d73-996d-962edbfcd4b3",
       "timestamp": 919.39,
-      "content": ""
+      "content": "",
+      "uuid": "50c60d94-4409-47dd-b4a8-c20e17d15016"
     },
-    "923.04": {
+    {
       "requestid": "2781b714-8fa3-4399-bd6f-7f609d2b7ffe",
       "confidence": "0.9075826",
       "timestamp": 923.04,
       "content": "freakonomics radio is supported by 23 and me dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "7d1900f5-a1d6-453c-8bf5-991411f2af17"
     },
-    "936.34": {
+    {
       "requestid": "7fb10f03-b1f1-4b0b-8734-7de1cbac4296",
       "confidence": "0.8884414",
       "timestamp": 936.34,
       "content": "canadians can learn about their genetic information to publish study's have associated with conditions in traits like celiac disease cystic fibrosis and even response to certain medications",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "6cf4a549-3e2b-40ce-a03f-59ca064b8bfb"
     },
-    "947.31": {
+    {
       "requestid": "1d981162-ea3d-46a9-9547-e348407250e5",
       "confidence": "0.8935483",
       "timestamp": 947.31,
       "content": "more information is available at 23 the number in me dot CA",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "e2b35f8e-58ec-4c30-b414-f89e851d90aa"
     },
-    "953.3": {
+    {
       "requestid": "fcb4fb21-73b3-47fa-b714-fb4ab373145d",
       "confidence": "0.8262017",
       "timestamp": 953.3,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "51f4a7bd-fcfd-420b-a9ae-b0326879d0be"
     },
-    "972.56": {
+    {
       "requestid": "120fdb4e-cf61-492e-9c91-9b6611768c18",
       "confidence": "0.8906285",
       "timestamp": 972.56,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "8c59bcbf-cff4-47aa-8660-8b4a643df743"
     },
-    "986.14": {
+    {
       "requestid": "cf87a1e1-5bea-41a5-844d-595318fda27e",
       "confidence": "0.7821102",
       "timestamp": 986.14,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "9f9d57b8-c7ce-4727-9d17-d08abc53def0"
     },
-    "995.46": {
+    {
       "requestid": "18937906-9e8b-4fc8-a410-0bfe37f6b80a",
       "timestamp": 995.46,
-      "content": ""
+      "content": "",
+      "uuid": "98b74be9-3bff-4989-8fb7-42b8b881f548"
     },
-    "997.74": {
+    {
       "requestid": "7caabe21-aa27-4b4e-b770-f94d37d7bdd1",
       "confidence": "0.7933757",
       "timestamp": 997.74,
       "content": "did one of the first steps in learning to think like a freak is learning to say I don't know why because until you can admit we don't know it's really impossible to learn which me too because if you think you already have all the answers you are looking for them",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "9a6bd9d3-ae47-410e-9453-64cb7cef70cc"
     },
-    "1016.48": {
+    {
       "requestid": "3a4ca09f-4323-48c9-901f-cd1d403965fe",
       "confidence": "0.8767166",
       "timestamp": 1016.48,
       "content": "will it be clear simply saying I don't know is the solution is the first step you have to figure out what you don't know and then work like a dawg to learn and",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "8d5883dd-e3cc-41c5-9e49-b14ba8713486"
     },
-    "1028.67": {
+    {
       "requestid": "b04bf0e0-d0bd-43c3-a795-f8392f51727b",
       "confidence": "0.5588028",
       "timestamp": 1028.67,
       "content": "how do you learn there's only one way to learn tenette through feedback but steve levitt again this thing about always faking his death",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "2eef2096-1e67-4114-b554-5ca7dc1c3fef"
     },
-    "1039.58": {
+    {
       "requestid": "5743e42e-516f-4e1d-ba56-4c23bc2a5501",
       "confidence": "0.80783",
       "timestamp": 1039.58,
       "content": "if you fake like you know the answer you don't have the freedom to explore other possibilities",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "6c0cda0f-1e88-488b-9c4e-0194ce859f27"
     },
-    "1045.03": {
+    {
       "requestid": "568f5a88-5d7c-4325-8a56-163d0fd46efc",
       "confidence": "0.7042379",
       "timestamp": 1045.03,
       "content": "but you actually care about the outcome in the truth saying I don't know it's critical one thing we've learned is that the only way to learn is the feedback that when you're human being an animal in organization",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "28071031-edae-48d2-be88-8cfa8231ebe3"
     },
-    "1061.12": {
+    {
       "requestid": "5548ab72-8030-4285-966e-1ad3eea906e0",
       "confidence": "0.7159057",
       "timestamp": 1061.12,
       "content": "the way that you learn is by trying different things and seeing the outcome when you try different approaches can compare indosat com",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "9dc9b114-7565-47c1-9976-3fa65c32daba"
     },
-    "1070.17": {
+    {
       "requestid": "844ac8e0-3f1f-4341-be5e-d6f64954c0ee",
       "confidence": "0.8007875",
       "timestamp": 1070.17,
       "content": "feedback comes in many flavors it might mean going out and asking lot of questions make mean gathering lot of data do you get the data don't happen to be just lying around waiting to be plucked you may have to generate day to yourself",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "2efd56ff-effe-412b-8dcf-a53da057c03c"
     },
-    "1085.36": {
+    {
       "requestid": "82cd775f-4352-46b1-b62c-db90916bcf5b",
       "confidence": "0.764898",
       "timestamp": 1085.36,
       "content": "how 1 great way is to run some kind of experiment if you want to think like a freak you need to fall in love with experimentations app",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "4e4a48dd-74ee-46f5-9b13-8ff7eb95963e"
     },
-    "1097.66": {
+    {
       "requestid": "bfd819b4-61a6-4d7f-afaf-31dd9f37aa0c",
       "confidence": "0.6442652",
       "timestamp": 1097.66,
       "content": "scientists have been doing this for centuries the rest of us not so much but why should scientists tebala to something that",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "86e0c4ca-427a-499f-9572-74b0c489d204"
     },
-    "1108.01": {
+    {
       "requestid": "55567c23-eba7-4852-a3ee-b7c041d8d5d0",
       "confidence": "0.6938396",
       "timestamp": 1108.01,
       "content": "puzzled me for the longest time when I started working with firms that I would preach to them the gospel of experimentation of either randomized experiment are accidental spent it all the things died",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "605780de-a081-430a-8322-a65116447786"
     },
-    "1120.6": {
+    {
       "requestid": "238f3eb5-3b50-4474-be25-0c15ebdbb53b",
       "confidence": "0.6670708",
       "timestamp": 1120.6,
       "content": "and how is it was met with great enthusiasm of course yeah experimental wake up and it wouldn't actually came down to it",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "e7236e48-d4a7-4789-b600-0e5a9b2befc9"
     },
-    "1128.82": {
+    {
       "requestid": "56ebc884-39e6-407c-9d43-35c58fadb674",
       "confidence": "0.7288222",
       "timestamp": 1128.82,
       "content": "we could almost never convince anyone to do think experiments why don't they want the weather like in about are they afraid it's gonna be expensive but they won't know how to do with that can embarrass them with the problem for years I struggled with trying to understand what it was and I thought it was expensive no I could design and waited really would cost them anything",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "fb62b96f-e964-409a-8050-a36991208423"
     },
-    "1148.37": {
+    {
       "requestid": "9deb626b-30fa-41fd-bf76-4fb548760001",
       "confidence": "0.6674372",
       "timestamp": 1148.37,
       "content": "would take too long to recharge let me know it was none of that and it finally hit me when was totally honest",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "6f981420-c36a-4ab1-baf8-4b4608ce21f1"
     },
-    "1154.82": {
+    {
       "requestid": "5383d4b5-5372-45d0-b4f5-c95fbca2fefc",
       "confidence": "0.6928188",
       "timestamp": 1154.82,
       "content": "is there in order to run an experiment you have to start the premise but you don't know what the right answer is dido much do the red version of the blue version stock price high should a price low should I come give people a money back guarantee or should not have all of those are questions that might be perfect for tried answer with an experiment",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "915acab0-9dad-4e5e-a75e-fcacb71ac71c"
     },
-    "1173.29": {
+    {
       "requestid": "ad0bf60d-3c1a-4432-902f-c7cb850502d1",
       "confidence": "0.6163524",
       "timestamp": 1173.29,
       "content": "but in order to be willing to run the spamming you have to say what is I don't know the answer because you're the expert you recharge mark and you ain't ready by 60 spoke to know the answer in celsius",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "0ec8ac89-6865-4299-8f8d-a79ebd8d4adc"
     },
-    "1183.82": {
+    {
       "requestid": "4b000310-1c80-4496-b3d9-e37fc552b854",
       "confidence": "0.7072551",
       "timestamp": 1183.82,
       "content": "the people in the front row work with stops so much pressure to be the expert said that they would run the experiment because that way he did mention that they were really is experts",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "753678f5-9d87-4533-9d80-dc358c00e4b8"
     },
-    "1195.42": {
+    {
       "requestid": "afc1d0e0-ef34-4a6a-a964-47bb26aaa171",
       "confidence": "0.7410527",
       "timestamp": 1195.42,
       "content": "is day maybe had been pretending to be other people want them to pretend to be",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "4584881a-207c-42f2-8128-373ef4fe8339"
     },
-    "1208.19": {
+    {
       "requestid": "34f5ae74-29df-472a-a48a-a8ead8a082e5",
       "confidence": "0.6156423",
       "timestamp": 1208.19,
       "content": "lebet in addition to teaching at north of chicago cubs run consulting firm",
-      "speaker": "S177"
+      "speaker": "S177",
+      "uuid": "15ed6dba-5955-420b-a881-03729d295015"
     },
-    "1213.92": {
+    {
       "requestid": "53bc1ab6-2524-4dff-a2e5-2614d5f34eb1",
       "confidence": "0.7829558",
       "timestamp": 1213.92,
       "content": "what are my favourite early store is this might even the very first company that I went to visit this with a company whose unwillingness to experiment with metlink didn't know him pretty bad consequences it was a huge multinational retailer they spent many millions of dollars in advertising in the us alone but",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "945ae4fe-2eed-4965-af6e-4d0872581731"
     },
-    "1233.65": {
+    {
       "requestid": "cd1bdae7-84cc-41e8-b168-b4c8657b848f",
       "confidence": "0.5915172",
       "timestamp": 1233.65,
       "content": "they weren't sure how effective the appetizing but",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "81353dc9-2de4-4bc5-a53c-8f8931ec26cf"
     },
-    "1236.83": {
+    {
       "requestid": "9a1babf9-dd82-476a-8e4a-61210f7729e9",
       "confidence": "0.6956301",
       "timestamp": 1236.83,
       "content": "so far to come to one concrete conclusions tv ads for about 4 times more",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "65270e1e-368c-4f58-84e4-345d86daa1c5"
     },
-    "1243.12": {
+    {
       "requestid": "2005bbe9-10d9-4fc7-a868-27cdad3272d9",
       "confidence": "0.6359032",
       "timestamp": 1243.12,
       "content": "dollar for dollar in print out how do you know this but with their sales data told the advertiser every week in newspapers but because tv advertising so expensive sdone botad 3 times a year black friday christmas box so then I said",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "cd71acb5-ca4e-426a-acc8-5f952c9965a4"
     },
-    "1261.0": {
+    {
       "requestid": "8c9a44d0-c529-4da2-b94b-a4b1ced70b60",
       "confidence": "0.6540433",
       "timestamp": 1261.0,
       "content": "I think I might understand why your tv I don't seem to have a bit running best method for time does crazy review newspaper in the head why I said well",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "bd6096af-2fc5-4c04-ab67-ab3742705d53"
     },
-    "1271.72": {
+    {
       "requestid": "fe463479-6fed-4c83-987f-a9981bf835f1",
       "confidence": "0.6677032",
       "timestamp": 1271.72,
       "content": "every single time you going to big of a dozen get paint your sales go through the roof right after work tonight yeah it's fathers day thanksgiving christmas table don't you think maybe even if you didn't do you want you to sell more stuff around christmas in a black friday and then she",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "98bdf23b-cf31-4f7e-8024-51de26f48989"
     },
-    "1289.04": {
+    {
       "requestid": "0e6499fa-344c-425d-8ca6-3fa6a0c16613",
       "confidence": "0.8117228",
       "timestamp": 1289.04,
       "content": "yeah I said so basically this company spending hundreds of millions of dollars on tv advertising to persuade people to go to their stores to buy stuff on the 3 times of the year when people were already going to be going to storage device",
-      "speaker": "S190"
+      "speaker": "S190",
+      "uuid": "4ac55828-4655-4227-b35f-a0850a0f7d08"
     },
-    "1304.38": {
+    {
       "requestid": "3d98c512-7467-45e2-a1ad-1e6fde615a1a",
       "confidence": "0.7742317",
       "timestamp": 1304.38,
       "content": "exactly right so what about the printer at this retailer head run newspaper ad pretty much every sunday for 20 years more than 200 mark how effective are they was hard to know",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "11aa906b-25e8-4939-8c48-430a24dc0c23"
     },
-    "1318.72": {
+    {
       "requestid": "6993b059-fce3-47b3-8993-8ee3e42bd401",
       "confidence": "0.7328014",
       "timestamp": 1318.72,
       "content": "do I go to the match I think you cannot learn from the 15 day to be answered your question into their credit they said would she is this is really important question but how could we learn the truth",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "6127c0db-2991-4172-a0c5-9f0e620add94"
     },
-    "1329.11": {
+    {
       "requestid": "b227ee8d-9560-4089-856a-119e92fe80af",
       "confidence": "0.7407727",
       "timestamp": 1329.11,
       "content": "and I said well tv at it up for her even know how I will ever learn that but the newspaper into that easy want to said you have a couple 100 market then I did some calculations about how much power we would have if we did randomise payment",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "a0d07fa5-da27-4b9a-832a-45c50185d5fa"
     },
-    "1344.47": {
+    {
       "requestid": "5e2960fd-8047-4069-8036-a05a7c1fa51c",
       "confidence": "0.7395785",
       "timestamp": 1344.47,
       "content": "I think I would need you to get me about 40 of your newspaper market",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "0738781b-082e-411b-a25e-573dc026f5fb"
     },
-    "1347.72": {
+    {
       "requestid": "944272ec-621a-4427-a28a-df3553d20a2e",
       "confidence": "0.7873901",
       "timestamp": 1347.72,
       "content": "and I would randomly assigned 20 of those 2 a control group word wouldn't do any newspaper inserts for about 3 months and we will compare the cells in the market with you captain doing in since the ones we didn't do in texas and by doing that very thing we would learn with a great degree of confidence what the impact of newspaper inserts on sale",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "371a980e-db33-48ec-9616-c69e6204b83f"
     },
-    "1367.47": {
+    {
       "requestid": "3159ec33-d8c8-4bae-bf42-dd62d31f628b",
       "confidence": "0.7461497",
       "timestamp": 1367.47,
       "content": "and did you expect him to say hey let a fantastic idea and think about the bible say by not buying the adsit even cheaper did you expecting to be and easy astic about it",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "cd4d1421-9716-4b36-8e6f-d9f3e46faa04"
     },
-    "1377.75": {
+    {
       "requestid": "b965d741-12e0-4a33-8410-2f87a53e9b87",
       "confidence": "0.7269173",
       "timestamp": 1377.75,
       "content": "do we spend hundreds of million dollar 2 year on his knees paper into it they had no idea if they work",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "c712234c-d224-4bff-9905-89b80eca5d59"
     },
-    "1383.77": {
+    {
       "requestid": "948f2073-69bc-4a30-ad22-d73bec0c03ee",
       "confidence": "0.7237004",
       "timestamp": 1383.77,
       "content": "and even have this belief which I'm almost certain ways are onias anyway but they had reason to believe the newspaper in cequint a good relative to tv show I thought for sure this is a no brainer this is easy of course you know let's get rolling how fast can we get it start and what was their response so we went in with the proposal",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "16f49034-7569-4f3f-9638-dcdf1a771c26"
     },
-    "1401.54": {
+    {
       "requestid": "c481c607-ed0f-47e8-8931-b810e95f879e",
       "confidence": "0.8117411",
       "timestamp": 1401.54,
       "content": "and direction surprise me they said are you crazy",
-      "speaker": "S207"
+      "speaker": "S207",
+      "uuid": "f624d4a4-b1ee-4bb1-88be-fc51dc82667c"
     },
-    "1408.45": {
+    {
       "requestid": "a3e70efa-8210-4230-8ef4-1ddf2d2f3936",
       "confidence": "0.5872525",
       "timestamp": 1408.45,
       "content": "can't not advertise in 20 market will get fired",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "ea3207ac-21fb-4bc3-ad20-6ce809107aba"
     },
-    "1415.17": {
+    {
       "requestid": "22160abb-0c13-49c4-bd13-92a3d719e9b2",
       "confidence": "0.6662659",
       "timestamp": 1415.17,
       "content": "and they were not want the other guys trimdon text you once had this summer intern in nba tweet heart in one of his jobs was to do the ordering of bb a different cities in the couch so incompetent the parisians we never really figured out I just forgot to order the newspaper inserts for a big chunk of pittsburgh",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "bdd6bb15-0578-4852-b0c3-eb5e1233592b"
     },
-    "1433.81": {
+    {
       "requestid": "6514b018-c83a-4c59-b81f-ff875f72e084",
       "confidence": "0.6787269",
       "timestamp": 1433.81,
       "content": "for the entire summer",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "fc0c3ffe-3936-4d13-98ea-6c3b95b5812e"
     },
-    "1436.16": {
+    {
       "requestid": "6de64d14-9fd4-4ab3-ad08-0bc11c2e8a41",
       "confidence": "0.5496576",
       "timestamp": 1436.16,
       "content": "dentists in a joking around with him I said well I hope you how did it go to get hayden used turbos would never hire much we hate him he will eat with hair loss in just the right way to hear about a chicken to be terrible because I said what happened even did they sell any stores in pittsburgh when the sky forgot to do the newspaper",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "eddb2654-d850-49ed-aeda-d55b72200ef2"
     },
-    "1457.61": {
+    {
       "requestid": "987d8e10-a00d-4d87-8fb1-9d28eb78ae90",
       "confidence": "0.7232346",
       "timestamp": 1457.61,
       "content": "so what did happen to their credit they went and looked at the data and they called me with that a spring of excitement in your voice and they should be you not gonna believe it be fun",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "2300058e-57a5-404f-8d2b-e638bab07f51"
     },
-    "1467.71": {
+    {
       "requestid": "7ae4eeb2-7b20-48e0-b9a9-cf69ed088a2b",
       "confidence": "0.6490284",
       "timestamp": 1467.71,
       "content": "we found no impact whatsoever on the south side pittsburgh when is guiding put a nap I said wow that's amazing I do when can we start experiment again I just need 40 market elementally sign in with doctor entertainment and they said after positive",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "9f34f374-e1f1-4f9a-b534-28afc1717506"
     },
-    "1484.6": {
+    {
       "requestid": "3004a184-f12b-432e-9593-9d9bb57f48ef",
       "confidence": "0.6796576",
       "timestamp": 1484.6,
       "content": "are you crazy we can't not ever ties in 20 market the serial killers",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "f6204822-110e-4514-984b-a2aa2017416f"
     },
-    "1493.06": {
+    {
       "requestid": "7d926c85-4162-4044-8179-249fe86a3ad9",
       "confidence": "0.7339315",
       "timestamp": 1493.06,
       "content": "and it's really amazing that the only piece of real learning they had the only piece of real feedback they were given pick up the newspaper inserts didn't work and yet it's now 5 years later and they probably spent close to another billion dollars",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "ad5b01cd-adc2-442b-9acc-8105b8406aef"
     },
-    "1508.39": {
+    {
       "requestid": "302c0df6-06dc-48cf-ad58-3c00a6e1023b",
       "confidence": "0.6808028",
       "timestamp": 1508.39,
       "content": "pudding ads in newspapers in the reason was because if they tried to do in spamming to see with the newspaper in his work and I'd still be at mission that they did not know where the newspaper insert word is it easier to spend a billion dollars pretending menu and actually find out",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "a45f28dd-7f4b-4e70-9475-c527ba6d0a51"
     },
-    "1528.23": {
+    {
       "requestid": "8ff1380a-26ea-4d96-ab7a-48dcb7b2dc07",
       "confidence": "0.2290966",
       "timestamp": 1528.23,
       "content": "boo",
-      "speaker": "S228"
+      "speaker": "S228",
+      "uuid": "7df11ea6-d33c-4bc6-a0a5-968a5b49ec54"
     },
-    "1535.24": {
+    {
       "requestid": "35dc509b-e312-41fc-8046-3c8b7882af3c",
       "confidence": "0.8190779",
       "timestamp": 1535.24,
       "content": "easy to criticize people get locked into pretending to know answers but they don't but as we said to be in this program those 3 little words I don't know if you really hard to say",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "43227ab6-d3c2-4cde-afaa-dac541fe3614"
     },
-    "1548.89": {
+    {
       "requestid": "b470a340-d81d-4b2a-b97f-629b2e85094e",
       "confidence": "0.7003834",
       "timestamp": 1548.89,
       "content": "virsta takes a lot of confidence to be willing to say I don't know and I think I should be easy for someone like me to say I don't know because you know I'm at some success we sold the books of denver on academics",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "99c4374d-8326-420b-8fcb-60d6ebea737a"
     },
-    "1562.96": {
+    {
       "requestid": "351f669c-f999-4bbd-9f78-a685bf3acc4c",
       "confidence": "0.745953",
       "timestamp": 1562.96,
       "content": "so if I say I don't know people say how in that cute the midwest and self deprecating blah blah blah but if you just say no at middle manager in a bourbon you say I don't know people look like this guy doesn't know what's wrong with him",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "af794ae3-0c78-4bcd-a330-6ff2cfbbdbc7"
     },
-    "1577.6": {
+    {
       "requestid": "e15f6cd4-2bfe-4132-9bdd-f4811701ff0e",
       "confidence": "0.4884324",
       "timestamp": 1577.6,
       "content": "to the incentives defic it didn't",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "58245eac-995a-4bb8-b75d-b733ee4e6be3"
     },
-    "1582.18": {
+    {
       "requestid": "57f860a2-ee28-4bd7-90c5-5bf600ec5ec7",
       "confidence": "0.7370147",
       "timestamp": 1582.18,
       "content": "never admit you don't know an answer pretty strong maybe there's a way to put those insects to encourage people to say I don't know when they really don't know member amanda waterman the british psychologist who studies kids went back",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "f52433d1-e8a1-413f-ad15-2dd9bb261d81"
     },
-    "1598.36": {
+    {
       "requestid": "13798bfc-1251-486d-87cc-4bb4e05803e6",
       "confidence": "0.7139821",
       "timestamp": 1598.36,
       "content": "kurwa says so in avenue book we make the argument that people should",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "387f9a71-ffe0-45fc-a0da-0b2797a3fcb7"
     },
-    "1604.44": {
+    {
       "requestid": "4a68f70f-52ec-445d-becf-8d71d64f1f99",
       "confidence": "0.8071026",
       "timestamp": 1604.44,
       "content": "be much more willing to admit what they don't know especially in settings whether it is a business or academia or politics",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "6ab80217-b4c0-467b-9713-fccd69520c32"
     },
-    "1613.59": {
+    {
       "requestid": "5cb51d14-c878-4fef-b381-ffdae9e11a2f",
       "confidence": "0.7813658",
       "timestamp": 1613.59,
       "content": "where you dealing not just for the simple fact or even a simple set of beliefs but with a up process or you know when you're trying to tease out cause and affect which can be very complicated not only in certain in the future what policy will work but even trying to understand what has worked in the past",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "781c300a-f635-4d86-a293-f08f069e8682"
     },
-    "1630.66": {
+    {
       "requestid": "6c31fe1a-49da-4093-8a93-c3df8b57ecf1",
       "confidence": "0.8642879",
       "timestamp": 1630.66,
       "content": "we make the argument that it would be better if more people that made with aiden no because that is the first step on the road to learning and discovery and getting feedback and then running some experiments perhaps to find out what's real",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "e557b19c-403e-4071-9ed5-79eac9fc8733"
     },
-    "1643.41": {
+    {
       "requestid": "81b13272-87cc-410b-834a-e33e7ff8fcf3",
       "confidence": "0.8552104",
       "timestamp": 1643.41,
       "content": "I'm just curious whether you would endorse that argument of hours or what do you think that's not really a principle",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "39840388-5d94-4df0-a48a-2aa49affd3c0"
     },
-    "1651.52": {
+    {
       "requestid": "4ccab397-2d3b-4329-9ad1-59f056b5621c",
       "confidence": "0.6911778",
       "timestamp": 1651.52,
       "content": "obstacle know I absolutely indosat am I would go back a little too same but I guess at least how to the responsibility lies with the people who are",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "b9e715be-fade-41ba-bc25-9a6993c12b1f"
     },
-    "1662.51": {
+    {
       "requestid": "f32c8dde-5549-41a9-913e-56b5e19f009d",
       "confidence": "0.7324038",
       "timestamp": 1662.51,
       "content": "at the top of whatever highranking you happen to be talking about if you create a culture where it's ok to say no I don't need it tonight but wouldn't it be good to find out",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "9997bb28-2dc0-4547-9f69-465f5f69b738"
     },
-    "1672.2": {
+    {
       "requestid": "cfad7ff3-7d9e-4c7f-94f6-1b993ec1623e",
       "confidence": "0.6697234",
       "timestamp": 1672.2,
       "content": "up then I think you can not bend pet 283 d open eyes ation but I think the problem is I guess that the people that come up that offer may be used to having got to the top post to be by not admitting when I didn't know beyonce have set",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "74f1d597-6b6c-4537-8be8-d39521befacc"
     },
-    "1686.19": {
+    {
       "requestid": "3c96189a-7c59-4df0-82a1-a450e5c0b010",
       "confidence": "0.7788293",
       "timestamp": 1686.19,
       "content": "but you get that cycle but no I absolutely agree with you that's saying you don't know appropriately is a good thing",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "a2d4beeb-e1a5-474d-90b7-417661aaf2b5"
     },
-    "1692.5": {
+    {
       "requestid": "df685205-6981-4720-977c-4000c27a2506",
       "timestamp": 1692.5,
-      "content": ""
+      "content": "",
+      "uuid": "438a60cf-edd0-47ea-a3e2-ead1858d8059"
     },
-    "1702.75": {
+    {
       "requestid": "60d234e0-abba-423d-b2fb-8cb966ed05bc",
       "confidence": "0.7065535",
       "timestamp": 1702.75,
       "content": "put break that cycle joey that start with the generation that really mad",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "6a9cb120-c37c-45fb-8953-f2f07a4339e8"
     },
-    "1707.71": {
+    {
       "requestid": "00593e1a-c1f2-4dae-b70a-4e1f9ea808d4",
       "timestamp": 1707.71,
-      "content": ""
+      "content": "",
+      "uuid": "cebec3cc-1ba1-4668-873a-b38bd761c53c"
     },
-    "1718.49": {
+    {
       "requestid": "a1016061-24db-4768-806e-06f0fcfb4fc7",
       "confidence": "0.6667866",
       "timestamp": 1718.49,
       "content": "how do I don't know I have",
-      "speaker": "S259"
+      "speaker": "S259",
+      "uuid": "65fe4001-5605-4b7b-b8c1-b58eb6512368"
     },
-    "1737.77": {
+    {
       "requestid": "639d1892-10c5-4b39-8320-b39efe7ac881",
       "confidence": "0.6804907",
       "timestamp": 1737.77,
       "content": "big black asses news on next week so we stop making fun of children start learning from them",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "dcdfedee-3efe-42e5-b643-fcc3888511d4"
     },
-    "1743.64": {
+    {
       "requestid": "d0d6c30d-9ed4-453c-a214-586c19ad2011",
       "confidence": "0.8579738",
       "timestamp": 1743.64,
       "content": "sometimes doing things different name",
-      "speaker": "S263"
+      "speaker": "S263",
+      "uuid": "c697ae22-1553-401c-a5c3-bb7459f4e4f7"
     },
-    "1748.09": {
+    {
       "requestid": "9ed2e408-85d5-45b7-b162-8b0a17451fe7",
       "confidence": "0.6679868",
       "timestamp": 1748.09,
       "content": "and simply and with a kind of",
-      "speaker": "S263"
+      "speaker": "S263",
+      "uuid": "e114c382-4773-4f6e-ae59-eb2dfecea0d1"
     },
-    "1751.68": {
+    {
       "requestid": "6a81298f-19bc-49f9-8804-e5a9f09a6ab6",
       "confidence": "0.5723751",
       "timestamp": 1751.68,
       "content": "joy and triviality vechi to win special place that as an adult you don't get to go to bed",
-      "speaker": "S157"
+      "speaker": "S157",
+      "uuid": "d46f63c2-ad3a-4a1b-be3f-5d2eccc04f5c"
     },
-    "1761.05": {
+    {
       "requestid": "094f1876-9c27-4196-9cdf-81931fe165d8",
       "confidence": "0.7949701",
       "timestamp": 1761.05,
       "content": "why we should all spend some time thinking like a child next time I'm free I'm free",
-      "speaker": "S131"
+      "speaker": "S131",
+      "uuid": "1ea3e558-81fb-44e3-a52e-0998dc9fba9c"
     },
-    "1771.33": {
+    {
       "requestid": "8d862f2e-ac30-4255-b007-6fe28f08fbd7",
       "confidence": "0.7066286",
       "timestamp": 1771.33,
       "content": "freakonomics radio is produced byWNYCN.net production our staff include david herman greg rozalski credico nbra lamb treti pinima nanny susie lechtenberg in crispins in with engineering help from jim break",
-      "speaker": "S267"
+      "speaker": "S267",
+      "uuid": "17b151ba-b413-4ce4-b0ec-a528f477a1e4"
     },
-    "1786.66": {
+    {
       "requestid": "1f10e2da-fb5a-432e-9705-74a06b9bff8f",
       "confidence": "0.7746145",
       "timestamp": 1786.66,
       "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio ablas the books and more",
-      "speaker": "S267"
+      "speaker": "S267",
+      "uuid": "0f47328d-f9c2-415e-a078-7c666bf04d44"
     },
-    "1806.62": {
+    {
       "requestid": "064fdefd-f305-4f93-b556-ddfdd9e19c63",
       "timestamp": 1806.62,
-      "content": ""
+      "content": "",
+      "uuid": "5b4ebce3-cfdf-46b9-9bce-c2f763d1d859"
     },
-    "1808.58": {
+    {
       "requestid": "fff995c3-b2fe-42c4-9169-181b66820e18",
       "timestamp": 1808.58,
-      "content": ""
+      "content": "",
+      "uuid": "c20e50c9-6a6d-4843-b69e-dd3d21daef33"
     },
-    "1810.99": {
+    {
       "requestid": "5024c188-f6a0-4361-a922-06a6a288d953",
       "confidence": "0.7871961",
       "timestamp": 1810.99,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a8539dec-e828-4194-b746-5ea6386c2432"
     },
-    "1830.32": {
+    {
       "requestid": "49f2035c-d0ab-401d-8768-bc5da593f69e",
       "confidence": "0.8929889",
       "timestamp": 1830.32,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c159887c-6f4a-4f9c-aa84-bea2b439b884"
     }
-  }
+  ]
 }

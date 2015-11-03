@@ -4,1326 +4,1518 @@
   "description": "<p>If you are driving and kill a pedestrian, there's a good chance you'll barely be punished. Why?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/YU4vb1VaR1g/freakonomics_podcast050114.mp3",
   "slug": "The-Perfect-Crime",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "cdb450f7-47d4-4917-aeca-67bc0eb04ead",
       "confidence": "0.7691559",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu working to help bring business stories and brands to life to arrange a printed pronox my business cards flyers stickers and postcards also offering design templates and the option to upload a personal design more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "22cfc0fe-cd54-4371-8cb9-f269c4542e43"
     },
-    "16.85": {
+    {
       "requestid": "05fe3ebf-b83f-4bd8-ae68-3a8c31855340",
       "confidence": "0.8711087",
       "timestamp": 16.85,
       "content": "freakonomics radio is supported by constant contact with email marketing tools like there drag and drop editor social media tools and expert coaching constant contact is committed to helping small businesses and nonprofits become marketer's more at constantcontact.com",
-      "speaker": "S3"
+      "speaker": "S3",
+      "uuid": "99845c45-e8a5-448e-a62a-7f1278331ce4"
     },
-    "34.59": {
+    {
       "requestid": "9eb5e091-388f-457b-957a-812ba90439bb",
       "confidence": "0.785008",
       "timestamp": 34.59,
       "content": "play podcast listeners as you may have heard of a new book think like a freak is out on may 12 and May 4th the cbs show sunday morning is scheduled to run a segment on us in the book can't tell exactly what's in it but",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "e4340efc-7c42-4947-8b82-e19bdf39b656"
     },
-    "48.67": {
+    {
       "requestid": "cec4b34e-749c-4ae2-ad66-d971f7504752",
       "confidence": "0.6450126",
       "timestamp": 48.67,
       "content": "tell me hear some of this",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "20e6ac9f-8174-4030-b56d-eaf20c3ca000"
     },
-    "50.92": {
+    {
       "requestid": "4865fbaa-a289-495a-8636-13f295044430",
       "confidence": "0.3160727",
       "timestamp": 50.92,
       "content": "some of this song yep",
-      "speaker": "S5"
+      "speaker": "S5",
+      "uuid": "a549a130-a7ad-4827-8939-bfe40fe2fa3e"
     },
-    "54.55": {
+    {
       "requestid": "42d46615-e85b-4793-909a-7c108f2700c9",
       "confidence": "0.7782477",
       "timestamp": 54.55,
       "content": "calendar at Sunday May 4th cbs sunday morning and now for today's program the perfect crime",
-      "speaker": "S8"
+      "speaker": "S8",
+      "uuid": "ecb05eb2-87ad-4b79-befe-0b9b8c7bc438"
     },
-    "65.22": {
+    {
       "requestid": "ea4794ce-4c80-426e-948f-f2269b33d846",
       "timestamp": 65.22,
-      "content": ""
+      "content": "",
+      "uuid": "37c50e70-0df8-41ad-840f-206189cbc6ee"
     },
-    "68.28": {
+    {
       "requestid": "1ccb39ae-340a-45db-a7b4-7949951cb911",
       "confidence": "0.8059847",
       "timestamp": 68.28,
       "content": "let me warn you what your about here is a sick idea let's say I wanna kill someone",
-      "speaker": "S271"
+      "speaker": "S271",
+      "uuid": "eb0270fb-4bd7-4ca7-b6e1-2d3cdf50a4c0"
     },
-    "80.69": {
+    {
       "requestid": "7f82dc1f-6818-49cc-80d9-923192de118e",
       "confidence": "0.6996067",
       "timestamp": 80.69,
       "content": "how to do wanna go to prison I can I wanna be punished by",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "296cf41c-23c0-4be5-9344-4cd87857d819"
     },
-    "83.89": {
+    {
       "requestid": "4261ea71-49d0-4949-97a2-f36d818c885b",
       "confidence": "0.5856938",
       "timestamp": 83.89,
       "content": "so what do I do",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "f7b7c19d-f474-4abe-b685-fe9976bc8b3e"
     },
-    "86.11": {
+    {
       "requestid": "bd7bed1b-cc1e-47b6-8591-3597ccc7c437",
       "confidence": "0.662509",
       "timestamp": 86.11,
       "content": "what is it when a guy I have and because I live in new york city",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "33947639-e48c-4caf-a659-1aebb0bf6964"
     },
-    "90.6": {
+    {
       "requestid": "a3d6cf58-5f64-4e40-8be0-b7e3748948c5",
       "confidence": "0.6488598",
       "timestamp": 90.6,
       "content": "I wouldn't be very hard to pull off",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "6b9521f1-5cd2-4ed4-82b7-e8ff06a8c14c"
     },
-    "92.72": {
+    {
       "requestid": "c487037b-135e-443e-a5ab-076104f2cd38",
       "confidence": "0.6814548",
       "timestamp": 92.72,
       "content": "I ran this idea past a few experts first at the fella named robert nolan",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "157b1187-44fa-4673-b442-77730ac67d85"
     },
-    "98.37": {
+    {
       "requestid": "5983b618-1fe3-4dd7-bf60-3a767252def7",
       "confidence": "0.6538436",
       "timestamp": 98.37,
       "content": "codici if you want to kill someone",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "a30f93dc-117f-47a1-8b58-9a7ff161b38a"
     },
-    "101.59": {
+    {
       "requestid": "c91f9231-b4a2-41cd-ba2d-9b36bd215ea7",
       "confidence": "0.5187615",
       "timestamp": 101.59,
       "content": "yeah oh yeah that would be pretty good way to do it I spoof without getting caught",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "55f6c9ad-b22e-45da-9912-eafef9e88032"
     },
-    "109.63": {
+    {
       "requestid": "b6a0ecdf-f967-4628-8fd8-c7beb1a7281e",
       "confidence": "0.6464227",
       "timestamp": 109.63,
       "content": "when I asked lisa smith theoretically I agree with you that it could be pulled off at the perfect crime in very particular circumstance",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d72c685e-8b74-4778-a7ec-f34798b7d423"
     },
-    "120.4": {
+    {
       "requestid": "fa7db316-f1a7-4286-b966-00baf808dd17",
       "confidence": "0.6975557",
       "timestamp": 120.4,
       "content": "I'm finally went to charlies egere IS charlie what I should do next",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "ed11d21a-4b12-4832-92d3-8bfaee4ee240"
     },
-    "128.1": {
+    {
       "requestid": "03495b5b-414c-4866-9886-1a172662a25a",
       "confidence": "0.4332989",
       "timestamp": 128.1,
       "content": "I seek counseling",
-      "speaker": "S18"
+      "speaker": "S18",
+      "uuid": "27590512-2c8e-4f78-945e-aad391143e81"
     },
-    "139.71": {
+    {
       "requestid": "4f7bad28-d513-4fa1-8826-abb289576122",
       "confidence": "0.6660635",
       "timestamp": 139.71,
       "content": "mw on my feet this is freakonomics radio the podcast that explored the inside of everything",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "94f75858-f0ae-4e94-8469-4273deb800fd"
     },
-    "147.3": {
+    {
       "requestid": "a503e9c6-e303-49eb-9ae8-da496f61ea4a",
       "confidence": "0.3260302",
       "timestamp": 147.3,
       "content": "here's your help steven buckner",
-      "speaker": "S19"
+      "speaker": "S19",
+      "uuid": "b3ddc6e4-d9a9-4c04-82d5-f478b30a5537"
     },
-    "165.47": {
+    {
       "requestid": "8dec75b1-bbb9-4961-9271-e9a12061759f",
       "confidence": "0.8337261",
       "timestamp": 165.47,
       "content": "let me be clear I don't actually wanna kill anyone and I don't endorse the idea of wanting to kill any one but if I did",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3912da8f-c26c-42b3-8464-d032b5d72edb"
     },
-    "173.9": {
+    {
       "requestid": "53e2668a-39eb-4ec6-860d-e65b73daca3b",
       "confidence": "0.9435155",
       "timestamp": 173.9,
       "content": "and if I were looking for a way to do it and get away with it",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "58ccf716-c557-472a-ad0b-21c6258bb419"
     },
-    "179.2": {
+    {
       "requestid": "3b88f796-177b-4239-88f6-ed2c2fb51580",
       "confidence": "0.6230882",
       "timestamp": 179.2,
       "content": "adwaita they're outside",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ceab6d03-7d7a-4b38-9017-2cebecdfc48a"
     },
-    "181.08": {
+    {
       "requestid": "0c54eac3-71ad-4409-b828-0c9b5e39677b",
       "confidence": "0.841248",
       "timestamp": 181.08,
       "content": "walking down the street maybe crossing at the light and then I'm running over my car now I have to make sure that no one knew I was trying to run them over but baby dad and I specially new york city would in all likelihood",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "0ad77267-1f05-40eb-8b92-4b167b07d878"
     },
-    "198.77": {
+    {
       "requestid": "f656b9a6-69aa-4b41-b538-16795965922e",
       "confidence": "0.7975743",
       "timestamp": 198.77,
       "content": "there is the case that happen with the little boy on the upper west side cooper stock in his dad across the street and a driver with making a turn and he just ran over the little boy didn't see you",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "d6890bb4-e814-467e-a9b1-f9d90db1b05e"
     },
-    "209.67": {
+    {
       "requestid": "46c60103-ef53-4bea-af22-af38d3ce16bf",
       "confidence": "0.834481",
       "timestamp": 209.67,
       "content": "lisa smith is a former prosecutor in the brooklyn DA's office now she's an assistant professor of clinical off at brooklyn law school",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5ddd5c0b-f198-446b-bb47-859d50638eb1"
     },
-    "218.48": {
+    {
       "requestid": "88cf98a0-174f-4517-8d18-edc35dc39fe1",
       "confidence": "0.856378",
       "timestamp": 218.48,
       "content": "so right now all that is is a summons to the driver for failing to yield but he does not rise to the level of any kind of manslaughter or",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "3d2d03b4-1234-4f34-a412-308aaccf481e"
     },
-    "230.07": {
+    {
       "requestid": "49c6ff1b-9d20-4cbd-bc44-678ff9e3e2c8",
       "confidence": "0.7728477",
       "timestamp": 230.07,
       "content": "homicide charge need to study that showed that between 2008 and 2012 there was something like almost 1300 fatal crashes in new york and they were like 66 drivers arrested",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "0aa6f27c-52a0-4bb8-b6f2-ea28bc996772"
     },
-    "242.66": {
+    {
       "requestid": "9f707ca2-e1ec-46c1-969a-eb720a4cde2e",
       "confidence": "0.7825913",
       "timestamp": 242.66,
       "content": "note you might think a place like new york so many pedestrians with hepatically tough laws against running them over will be wrong is lisa smith told is only about 5% of the drivers who killed a pedestrian in new york are rested",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "6f98ccfe-98a7-4f96-866a-91947d31f386"
     },
-    "258.45": {
+    {
       "requestid": "fc0d6a49-477e-434e-af4a-0e752d24f19c",
       "confidence": "0.7222618",
       "timestamp": 258.45,
       "content": "how are neighbors have different vehiculo is only do both massachusetts and connecticut have vehicular manslaughter statutes that punish traffic at fatalities or serious injury that occurs because of simple negligence",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "a9f9f35d-9ae1-48a4-a224-a11ae22eb355"
     },
-    "274.83": {
+    {
       "requestid": "08502e9e-aa9c-4224-8915-2b20304bd3af",
       "confidence": "0.7743122",
       "timestamp": 274.83,
       "content": "new jersey doesn't have the same statue that is massachusetts or connecticut but even they have a vehicle in minnesota statutes that encompass some more behavior then what new york as which is absolutely nothing other than drunk driving",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "fc89ed69-a7e7-405b-a63b-42d4fb399d04"
     },
-    "291.14": {
+    {
       "requestid": "bab12ef8-ac4e-47e1-a441-7aace52c8b70",
       "confidence": "0.7640193",
       "timestamp": 291.14,
       "content": "so around the country in iowa louisiana georgia nevada kansas",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "34a56af0-d6e2-4cee-9fbd-3b2e779f1265"
     },
-    "297.93": {
+    {
       "requestid": "787d0f30-199f-4c64-b9e4-5539bd14d2ec",
       "confidence": "0.7793308",
       "timestamp": 297.93,
       "content": "california all over the country there are states with vehicular statutes that punish a failure to yield I try",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "beb10262-5707-489d-a6fa-872cc101011a"
     },
-    "308.03": {
+    {
       "requestid": "4eee8c98-af91-4441-835c-97de86333cf6",
       "confidence": "0.516479",
       "timestamp": 308.03,
       "content": "but fatality apanas the driver",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "5553798d-42e3-4170-a708-9314e32e0e69"
     },
-    "310.68": {
+    {
       "requestid": "2e3a3504-bdb9-49b3-8f1a-a9d222c3d289",
       "confidence": "0.8015654",
       "timestamp": 310.68,
       "content": "smith says it new york and some dinner with standards for conviction in the country is called the rule of 222 significant violations of traffic laws in order to bring a charge including some incredibly reckless or criminally negligent act otherwise it's just an accident",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "fe892d06-b23b-45a6-8eb5-474ca1d80c7e"
     },
-    "329.75": {
+    {
       "requestid": "14d6b9b6-6caf-4791-8549-4043d3d44842",
       "confidence": "0.8341528",
       "timestamp": 329.75,
       "content": "III don't think the car and punishment fit the crime",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "7466a21f-bdbf-47a5-832f-e295d355d391"
     },
-    "339.19": {
+    {
       "requestid": "6f04bcaa-e560-4520-8a5d-7d0b2542b409",
       "confidence": "0.7513809",
       "timestamp": 339.19,
       "content": "here is one scenario but smith death match in the instead of driving down the street new york you decide to go outside with your done",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "771f71f3-29f4-43ab-9738-cf10b34cc0b0"
     },
-    "347.47": {
+    {
       "requestid": "e94e9621-f7e0-4286-b804-bb70ccf411ea",
       "confidence": "0.7747761",
       "timestamp": 347.47,
       "content": "let's say you go to it crowded street",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "5997fa58-a01d-4023-9354-6ce04d13738f"
     },
-    "353.66": {
+    {
       "requestid": "99056675-c55b-4cc5-b8a4-632367091bb0",
       "confidence": "0.6598938",
       "timestamp": 353.66,
       "content": "can you store to shoot in the air ok would you don't really intend to kill anybody right you're just fooling around",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "8b8b4fdd-efd7-49bb-b672-3f11339ec0fd"
     },
-    "362.06": {
+    {
       "requestid": "373dbf4a-e9bf-4a66-88a8-6e673b85f9f6",
       "confidence": "0.8590096",
       "timestamp": 362.06,
       "content": "alright and what does the justice system do if this bullet that you fired into the air happens to come down and hurt or kill someone",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "32c0beb8-535b-45b9-8ac3-9e39a3ae783d"
     },
-    "369.61": {
+    {
       "requestid": "300ab29e-89bd-45f8-8106-a26c652c2ee3",
       "confidence": "0.7017908",
       "timestamp": 369.61,
       "content": "we are much more aggressive we have much more case for the support us than we do in vehicular accident cases more often than not the behavior is restless enough to charge them with some type of felony",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "23f0413f-838f-4fe2-972c-3b4442d4071c"
     },
-    "386.29": {
+    {
       "requestid": "938a6ec2-62be-48dc-9391-4e0c50983442",
       "confidence": "0.7364607",
       "timestamp": 386.29,
       "content": "now is the reckless youth of a gun really that much worse than the reckless use a car is the way lisa smith ceset an accidental shooting is really",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "800bf563-6a4e-4240-8998-b072c00665c9"
     },
-    "397.2": {
+    {
       "requestid": "31f31bf9-7e44-4be8-8801-18af33c0ef90",
       "confidence": "0.8415927",
       "timestamp": 397.2,
       "content": "is really not something that most of us are imagining we would be participating in I'm so we don't have a problem with severe canalization",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "5f0e16ae-26a3-40f9-a755-2a9fbd01f61f"
     },
-    "407.9": {
+    {
       "requestid": "fae670e8-18d7-4e58-adb9-3a9959fddef4",
       "confidence": "0.6949887",
       "timestamp": 407.9,
       "content": "of that behavior everybody to drive has had experience where they were driving perfectly carefully on but something went a little wrong and you know we could had a serious accident the fear of",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "2e40fb81-2ab6-4f21-9cb4-09e4f3e8a034"
     },
-    "421.82": {
+    {
       "requestid": "1ae181b6-317b-4019-9dab-2a4af5d62f5e",
       "confidence": "0.7053657",
       "timestamp": 421.82,
       "content": "overcriminalization be a killer accidents",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "b4e2dde5-7ed4-420f-9465-3c4bae9f902c"
     },
-    "426.11": {
+    {
       "requestid": "fc2deeed-befc-4a21-a6d1-ab01069a76d5",
       "confidence": "0.9218438",
       "timestamp": 426.11,
       "content": "really resonates with every single person",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "c27d7cef-4e2f-445f-bfd6-4a4168bd768e"
     },
-    "429.59": {
+    {
       "requestid": "c34d43f3-7592-4da7-961c-01a28972f725",
       "confidence": "0.9249369",
       "timestamp": 429.59,
       "content": "every single person is the driver at least",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "50e70aa3-3ad7-4171-b1a3-11330128d9b9"
     },
-    "432.19": {
+    {
       "requestid": "cf8eb2ef-9c1f-4ce1-a616-d4c4493f7d70",
       "confidence": "0.820236",
       "timestamp": 432.19,
       "content": "if your driver you see everything from the drivers perspective and I think drivers here this and they just see this as adding penalties for innoson accidents and they won't support that it all",
-      "speaker": "S35"
+      "speaker": "S35",
+      "uuid": "134424e6-86b1-41b5-8aff-5310ba9e2f0a"
     },
-    "457.5": {
+    {
       "requestid": "c197758f-779e-4d92-b9c1-4b0553e84783",
       "confidence": "0.8201333",
       "timestamp": 457.5,
       "content": "note if you believe even a little bit in the power of incentives you might wonder how does the lack of punishment for killing pedestrians in a place like new york translate into pedestrian fatalities",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "8846a64c-3dec-42cd-a837-ae829d92ec98"
     },
-    "470.3": {
+    {
       "requestid": "b49f651c-2e02-4286-afec-64dfb79e20f4",
       "confidence": "0.8278958",
       "timestamp": 470.3,
       "content": "it's hard answer the question directly for starters pedestrians are more common in concentrated in the city like new york in there in the rest the country but consider this in the united states pedestrian deaths make up about 14% total traffic fatalities in new york city",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "cc47f153-7295-4df6-9459-e7b15272e7e2"
     },
-    "487.37": {
+    {
       "requestid": "c11420c1-dd12-4f95-8a33-a54b4fa89703",
       "confidence": "0.7728289",
       "timestamp": 487.37,
       "content": "52% of traffic talent that's roughly 150 dead pedestrian's a year in new york now",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2cd8f51a-240e-432e-9885-28589e43fa0d"
     },
-    "494.52": {
+    {
       "requestid": "5de4f6a0-b29b-4656-88d0-366cdb20b47d",
       "confidence": "0.7907165",
       "timestamp": 494.52,
       "content": "interring how many people live here that's actually pretty low number compared to other places in the us to still pay 52% of all traffic fatalities in new york are pedestrians and in the best majority of cases the driver is in arrested or charged with anything substantial",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f9b7ca16-18f5-455e-8a3a-eea9093b46bc"
     },
-    "512.22": {
+    {
       "requestid": "1ff5bc52-a071-4142-9fea-3784797bac38",
       "confidence": "0.7731963",
       "timestamp": 512.22,
       "content": "so you may be thinking oh wait a minute maybe that's exactly as it should be if that is the drivers really aren't to blame maybe it's all the pedestrians phone maybe they're the ones who are breaking the traffic laws are walking drunk are walking while texting more listing to music",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3ca706ed-4073-48fe-ab19-11ebe4e6d5b1"
     },
-    "532.09": {
+    {
       "requestid": "f15b4d72-a636-4bcb-a578-6fbcfa874369",
       "confidence": "0.7742174",
       "timestamp": 532.09,
       "content": "what share of pedestrians were killed",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "7e484cf6-8034-4071-b02e-382ce4f87f37"
     },
-    "535.47": {
+    {
       "requestid": "f486596d-6486-4c4c-a56f-1a3679cffffc",
       "confidence": "0.7009985",
       "timestamp": 535.47,
       "content": "but clearly at fault we don't really know the exact percentage o'charley's egere keys so she direct are of the highway research center at university of north carolina",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9c0c2e38-43ab-494f-8d84-e76773f35d06"
     },
-    "545.8": {
+    {
       "requestid": "733f16a6-96b7-4eda-b104-46497d9b1d14",
       "confidence": "0.7448503",
       "timestamp": 545.8,
       "content": "in the reason we don't know is because the information we have to make that determination is essentially on police crash reports and so often down the only witnesses of surviving driver inseli please ask tony hears you that once at a story",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "24ff7ad3-e47d-40eb-8f22-da28280c89f4"
     },
-    "562.17": {
+    {
       "requestid": "cc3a4e2b-7bb7-4e08-85e8-fb3f4dcb2343",
       "timestamp": 562.17,
-      "content": ""
+      "content": "",
+      "uuid": "cb748ea6-18a2-4c71-8dc9-d698f225f75e"
     },
-    "566.58": {
+    {
       "requestid": "80cff33f-3c3e-4758-8442-777fc8a04651",
       "confidence": "0.7191267",
       "timestamp": 566.58,
       "content": "subex an important copya and keeping that in mind let's look at the numbers we do have about pedestrian fatalities nachison york city but trouble us",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b9523292-5211-4b19-856d-efd8469cb93d"
     },
-    "576.26": {
+    {
       "requestid": "310d12f1-d5f8-4cd8-8e9a-67f41ef45f61",
       "confidence": "0.848682",
       "timestamp": 576.26,
       "content": "according to know it's at the national highway traffic safety administration only about 25% of the time is the drivers failure to yield be official cause of a pedestrian fatality",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "36536a2d-82c3-4ab8-87f0-2324bc12604e"
     },
-    "588.43": {
+    {
       "requestid": "c7a928ab-ae7a-4848-9a5f-0440bc754240",
       "confidence": "0.8614364",
       "timestamp": 588.43,
       "content": "in another 27% the cause is unknown unreported",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "82ea17b5-cc62-4e56-9878-89d5d4bc2026"
     },
-    "593.3": {
+    {
       "requestid": "58647636-6d42-4cb0-acd4-e6472917144c",
       "confidence": "0.7710456",
       "timestamp": 593.3,
       "content": "ok so what about the pedestrians 17% of the fatalities are the result of a pedestrian being quote in the roadway improperly standing lying working playing another 16% occur win the pedestrian is quote not visible you leave",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "782d4a56-824b-449c-b1e5-55e503c4019d"
     },
-    "611.37": {
+    {
       "requestid": "b1b5ccc7-0bfe-4689-ba7c-7e5f0ae61029",
       "confidence": "0.7929705",
       "timestamp": 611.37,
       "content": "15% come from the pedestrian quote darting were running into the road",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "dd62f2d7-efb7-4f6d-9ba3-03e0be71457e"
     },
-    "616.13": {
+    {
       "requestid": "bd9eac10-9ba1-4e14-80d9-c8d219ee847e",
       "confidence": "0.7567183",
       "timestamp": 616.13,
       "content": "and another 13% come from quote improper crossing of roadway or intersection allgame keep in mind this is according to data usually comes from police reports",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1ba66e78-83e6-4795-bb12-c614edc46bfd"
     },
-    "627.18": {
+    {
       "requestid": "48530321-041d-4205-9db5-d130d7e08fe0",
       "confidence": "0.8227757",
       "timestamp": 627.18,
       "content": "which is charlie seghir warned us is bound to overweight the perspective of the driver who lived as opposed to the best friend who died",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1fd716d4-79aa-4454-bdf8-78d3fb6fbafd"
     },
-    "635.96": {
+    {
       "requestid": "5af1d23f-2cb3-44e9-a3d2-673ebe0ec1cc",
       "confidence": "0.8588411",
       "timestamp": 635.96,
       "content": "that said here'S1 other number that might get your attention of the pedestrians killed in fatal crashes in united states 37% have been drinking with blood alcohol concentration of .08 or higher",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "cef1267e-2f74-43b5-ab6d-d55180b17260"
     },
-    "649.82": {
+    {
       "requestid": "395d349d-b7ff-4ea5-a93f-14283526bb7c",
       "confidence": "0.7763931",
       "timestamp": 649.82,
       "content": "if you look at pedestrian fatalities among 25 to 34 year olds the drunk walking number rises to 50%",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "fe003c8c-3525-4f14-8f56-746cbd3a9a16"
     },
-    "657.9": {
+    {
       "requestid": "bb770592-e49d-4fb3-91e8-56b4a64c4d13",
       "confidence": "0.7344469",
       "timestamp": 657.9,
       "content": "tupan hearing these numbers you may think that in many cases it is to delete the pedestrians fault for getting hit by a car and just think of all the guilt and heartache the drivers have to carry around having killed a pedestrian",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "5eea5e5d-5a76-47f0-abec-3e52d2fa9449"
     },
-    "672.41": {
+    {
       "requestid": "56c5ed7a-15ef-4352-91b9-0d925da15479",
       "confidence": "0.7152575",
       "timestamp": 672.41,
       "content": "but you may also think wait a minute even if the destr eans are doing something totally reckless is the appropriate punishment really deaf who are the roads 4 anyway",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "d1188fcf-4dde-4c6b-ad87-77b3a4520688"
     },
-    "687.25": {
+    {
       "requestid": "f71c453d-b70e-4ec8-9a76-58ba511494a1",
       "confidence": "0.7366641",
       "timestamp": 687.25,
       "content": "coming up on freakonomics radio trying to answer that question will start at the beginning",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "e3df5e9a-f26f-4590-b581-f4149095cb0b"
     },
-    "693.9": {
+    {
       "requestid": "aefda6a2-46fa-48e9-bd35-e2c9376fe4b0",
       "confidence": "0.8735411",
       "timestamp": 693.9,
       "content": "ok let me take you back you gotta get back is far is that day late 1920s",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "ccae28c9-4315-4cc4-a05a-f6b3e085f855"
     },
-    "700.27": {
+    {
       "requestid": "6aa6ce83-7918-4ceb-8f2c-5db028bc2a2f",
       "confidence": "0.8680264",
       "timestamp": 700.27,
       "content": "plus what makes someone more likely to survive getting hit by car",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "3afbbeff-e1b8-4f07-b1c8-cc2978145271"
     },
-    "705.38": {
+    {
       "requestid": "52a2ce54-5202-4bfd-88e1-e6d94d39a146",
       "confidence": "0.7664934",
       "timestamp": 705.38,
       "content": "see you have 2 new bejeweled when is 400 pounds in one is 140 pounds",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "9c501786-2512-4df6-8c96-9a53ff80efbc"
     },
-    "710.56": {
+    {
       "requestid": "3972b38d-9914-4d9f-bf0f-f02f3a35a651",
       "confidence": "0.49185",
       "timestamp": 710.56,
       "content": "emaar punched in the ribs with the scene",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "3ec9597b-9313-47e3-bdd1-f43e5694f989"
     },
-    "715.11": {
+    {
       "requestid": "6b908b54-ae7c-4a27-941b-c9cd734a8bb9",
       "confidence": "0.647557",
       "timestamp": 715.11,
       "content": "who's rigio more likely to break",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "8e642dad-afbe-4ba4-9393-2871b48d785f"
     },
-    "721.58": {
+    {
       "requestid": "935d918e-0980-49b5-8d86-be1caf691a22",
       "timestamp": 721.58,
-      "content": ""
+      "content": "",
+      "uuid": "3d083397-b2cb-4f2b-85ff-f5e47c0ec167"
     },
-    "724.72": {
+    {
       "requestid": "98eb4388-2e21-423a-bb46-f3a4ffdc99a3",
       "timestamp": 724.72,
-      "content": ""
+      "content": "",
+      "uuid": "f6bd5d39-f1df-4404-84db-4648e20a8753"
     },
-    "739.51": {
+    {
       "requestid": "07096728-8eca-4e80-83f1-7aff98f4145e",
       "timestamp": 739.51,
-      "content": ""
+      "content": "",
+      "uuid": "2ef21a8a-1cf0-451f-b46f-124209826afe"
     },
-    "743.88": {
+    {
       "requestid": "4e9c61af-a1fa-4c98-8e1e-a7b10bad49b9",
       "confidence": "0.7774543",
       "timestamp": 743.88,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S112"
+      "speaker": "S112",
+      "uuid": "1c773848-276d-4a88-bae7-e80c929e4300"
     },
-    "761.7": {
+    {
       "requestid": "52d09d8e-3817-408c-97b0-9c20d80317e1",
       "confidence": "0.6434366",
       "timestamp": 761.7,
       "content": "charlie degeare you remember is with the highway research center at university north carolina",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "7996388d-d405-447b-95a7-d46b3a8da34f"
     },
-    "768.65": {
+    {
       "requestid": "3e6a5d78-5bf8-485a-bafb-603b9be590c9",
       "confidence": "0.7450018",
       "timestamp": 768.65,
       "content": "look like to take you back you can take it back is far is that day late 1920s sleb ok so should I pick up at this far is the late 1920s we actually see that the greatest number pedestrians in a large number preston's it was killed in around the 19th",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "9ba99830-c7dd-4d02-916f-27e0fa1cde51"
     },
-    "785.82": {
+    {
       "requestid": "1522c9ec-9a8f-4e64-b647-859100a9e062",
       "confidence": "0.6841492",
       "timestamp": 785.82,
       "content": "3032 time friends with almost 16,000 plus teens killed at per year on the 16th tennessee",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "ecbea3fe-13b9-437c-a50c-205bce126539"
     },
-    "793.74": {
+    {
       "requestid": "0f68fee6-00c8-4977-b4e7-08abd1928ccf",
       "confidence": "0.6951716",
       "timestamp": 793.74,
       "content": "teen thousand killed 16,000 pedestrians killed per year in the 30th yes is hot that's kind of the maximum pukkila in there is sleet yes you could I wanna barbute for me on that so much as I know the current numbers about 4000 right that's correct wow",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "0d992623-367a-4f34-8787-547f4ef50b51"
     },
-    "810.29": {
+    {
       "requestid": "62a1f55f-0bdb-48d0-9552-9a2140de21e9",
       "confidence": "0.753933",
       "timestamp": 810.29,
       "content": "note for solage is this thing with your talking absolute numbers when you say 16,000 pedestrians were killed in auto crashes a year",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "875bbfdb-a17e-4637-b108-37375e4b6edf"
     },
-    "818.86": {
+    {
       "requestid": "8a468644-b848-4b8c-9f27-381bb62587e9",
       "confidence": "0.6797973",
       "timestamp": 818.86,
       "content": "the rate would have been even much my tires were talking to population of isabella 30 but we have now right",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "df9dea61-1f10-4a62-857f-b484677fe37a"
     },
-    "824.7": {
+    {
       "requestid": "dfd6c89f-70dc-41b1-84ba-07ae84782307",
       "confidence": "0.7112181",
       "timestamp": 824.7,
       "content": "that's correct if we can also look at the percentage of traffic deaths involving pedestrian killed yes another sort of",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "590ad460-d5ac-485e-9bf1-d0776a8c98f4"
     },
-    "832.32": {
+    {
       "requestid": "0c7d34e9-dc86-4461-815a-c29200ba00e9",
       "confidence": "0.7698272",
       "timestamp": 832.32,
       "content": "measure that insightful and so we look at that measure we go back to the late 1920s again almost a 40% is 40% of all traffic related deaths in this country involving pedestrian killed",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "428f1c2c-56cb-4e7e-8fac-680848fa9e62"
     },
-    "845.9": {
+    {
       "requestid": "3d6940cd-94f4-41d8-831e-b21b5d2b29bd",
       "confidence": "0.7815626",
       "timestamp": 845.9,
       "content": "and so that was pretty much a at that level until about the mid 1940s I would like to call about 40% and then a downward trend after that over the next few decades until now we're looking at about 13 to 14% of all traffic related deaths on highways news country involve a pedestrian killed",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "af43f351-6f7a-43e3-bafe-08af5a75e10b"
     },
-    "865.63": {
+    {
       "requestid": "121b256c-c913-4ea1-97c4-3eaf5ff58944",
       "confidence": "0.7694074",
       "timestamp": 865.63,
       "content": "so as much as overall traffic fatalities of fallen over the decades the share of pedestrian deaths install and much much more that's correct",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "463746a6-e75f-4496-ab60-10777c821b58"
     },
-    "880.45": {
+    {
       "requestid": "3aa4b585-e7a8-45b7-80a6-2bdfde6ba8d1",
       "confidence": "0.6840793",
       "timestamp": 880.45,
       "content": "ok sohbat is a massive improvement to be sure how this happened how did pedestrian deaths all so much",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a19bb572-7342-4d79-bb2b-7f97f6fe9b8c"
     },
-    "888.7": {
+    {
       "requestid": "aadb7ee2-c9c6-4377-8aeb-c8ed9c28642f",
       "confidence": "0.6811424",
       "timestamp": 888.7,
       "content": "the policy that we followed up on trying to say pedestrian cyst to stick them in cars today no longer pedestrians in that will reduce your pedestrian fatalities coz he don't hang out with many more",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "d8bcd7e6-faee-407a-9390-82c3012bfea6"
     },
-    "901.85": {
+    {
       "requestid": "85f0ccd2-044b-4628-ac16-5ceb31af9485",
       "confidence": "0.7822974",
       "timestamp": 901.85,
       "content": "robert noel and is directed the voorhees transportation center at rutgers",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "8f73ebd6-4572-4aec-9a03-ce138cf27439"
     },
-    "906.51": {
+    {
       "requestid": "679538d8-1335-421f-8f73-c4f778b1e423",
       "confidence": "0.6783675",
       "timestamp": 906.51,
       "content": "he says that is the automobile rostu exalted status in america the roads in the entire landscape really were built to privilege that the cars this is most pronounced in the part of the country with pipe destrehan in bicyclist that's like the southeast",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "36a3d935-b360-40f6-a901-69845d63ca9f"
     },
-    "925.0": {
+    {
       "requestid": "d0ec10f3-2dca-462a-90a9-e9bdd447cdcd",
       "confidence": "0.6971508",
       "timestamp": 925.0,
       "content": "stay focused very much on traffic flow on making the road wider strater in faster",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "3b5abe40-7f5d-4804-a886-05ace27e855d"
     },
-    "930.75": {
+    {
       "requestid": "e51b8997-3278-4e1a-ae7e-2c90c2dc32de",
       "confidence": "0.7906167",
       "timestamp": 930.75,
       "content": "with the assumption that it's safer in would a lot of the day I'm going to do you know they look at 3 way switch are very safe and are safe because it's controlled access you don't have any intersections",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "6841b77d-2260-450c-b606-816b6bbfa237"
     },
-    "943.7": {
+    {
       "requestid": "24fe8f75-fa03-4bae-a687-dd6a0b6cfe28",
       "confidence": "0.7567096",
       "timestamp": 943.7,
       "content": "and they take to sort of design guidelines apply it to the city to city streets are suburban streets accretes very large arterial roads which tend to be the most dangerous roads weather for drivers or for pedestrians",
-      "speaker": "S136"
+      "speaker": "S136",
+      "uuid": "7f13330b-d6b9-4578-99de-be6d44c3d2e7"
     },
-    "958.04": {
+    {
       "requestid": "f0572a97-57a0-4207-9abf-b57badf7b46e",
       "confidence": "0.4283046",
       "timestamp": 958.04,
       "content": "boom boom boom",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "a3475c52-e781-4a71-be8d-cb3c6f03f06a"
     },
-    "962.97": {
+    {
       "requestid": "5a66d04b-6de5-4b27-bcb0-196477ee97be",
       "confidence": "0.7953791",
       "timestamp": 962.97,
       "content": "so who are the roads actually made for I wish people ask pat and I think they don't ask it because I think we think we know what it's for and it's so obvious what it's for its for cars of course peter norton I'm the author of fighting traffic to dawn of the motor agene meyer",
-      "speaker": "S145"
+      "speaker": "S145",
+      "uuid": "152f42b2-d51f-4ddd-bc96-92542f156bb4"
     },
-    "981.55": {
+    {
       "requestid": "ed436270-a942-436f-81a9-e0903083824d",
       "confidence": "0.7133461",
       "timestamp": 981.55,
       "content": "concetti to norton there is no mystery here",
-      "speaker": "S148"
+      "speaker": "S148",
+      "uuid": "4eb39d14-38c3-4768-a0db-0bd74f96a6ed"
     },
-    "987.2": {
+    {
       "requestid": "ea213a0b-2f93-4217-beaf-63380a94a327",
       "confidence": "0.736733",
       "timestamp": 987.2,
       "content": "the streets for cars it's automatic if I say what's the street for somebody's got a car right away it's like gum",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "c4a8fdc2-7296-4615-83e7-7bc461949460"
     },
-    "994.8": {
+    {
       "requestid": "7636ce96-2a2f-44a8-a2da-571d86e12b26",
       "confidence": "0.8472149",
       "timestamp": 994.8,
       "content": "free association in psychology in alex's automatic and I think that's really interesting because if you would ask that same question to a random person 500 years ago",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "6ea11b32-d50d-4fb1-96b0-be08413520c5"
     },
-    "1007.21": {
+    {
       "requestid": "a7edbdda-7527-4769-8e00-e7ef2f43ad28",
       "confidence": "0.7429557",
       "timestamp": 1007.21,
       "content": "I think they would've had more different answers like a variety of different answers and none of them would've said that the street is for cars even though there a lot of cars back",
-      "speaker": "S149"
+      "speaker": "S149",
+      "uuid": "3bd11f06-39e8-4bdc-8080-f54fa51a3e94"
     },
-    "1018.88": {
+    {
       "requestid": "94144e33-60cf-4fd4-b8d6-5628edddfbdc",
       "confidence": "0.8121264",
       "timestamp": 1018.88,
       "content": "we should point out that not everyone everywhere think the streets are only for cars",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a8a04b6a-91cc-49c9-807f-8e8b5f0f7cf0"
     },
-    "1025.32": {
+    {
       "requestid": "299f6da4-2977-4c1a-a1b3-bea583cf6fe2",
       "confidence": "0.7857294",
       "timestamp": 1025.32,
       "content": "I will say that that's not everything being done in europe is really good for safety standpoint but they do have mini at strategies and activities that we could learn from from the us",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "e9dd831e-768c-429f-a9c3-83fae3c377ff"
     },
-    "1038.7": {
+    {
       "requestid": "5f9fd7da-bf34-4477-8990-adc445cdd3af",
       "confidence": "0.7812454",
       "timestamp": 1038.7,
       "content": "it's charlie secure again what the pedestrian death rate in the us is much better than a mini asian and african countries we are far behind many european countries",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b3ba0f9f-b823-4a77-8947-9dc8900475bf"
     },
-    "1049.2": {
+    {
       "requestid": "9a08fdec-1c9e-4ead-840a-8ad44831ea7d",
       "confidence": "0.7981077",
       "timestamp": 1049.2,
       "content": "we visited countries like switzerland sweden germany england",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "f437bca0-af39-40b5-925f-2a7601a8a873"
     },
-    "1053.46": {
+    {
       "requestid": "d0f6d190-34ca-4d09-a903-6c49e1a1b8c0",
       "confidence": "0.7524665",
       "timestamp": 1053.46,
       "content": "and dad what what is the overriding things that we learn dennis was kind of one of our overall recommendations is that what is being done for pedestrian bike safety is in these countries is not just a random series of actions benstead sexy deliberate combination of",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "2f5865b1-0c4e-401f-85ee-6ac1223d672b"
     },
-    "1070.7": {
+    {
       "requestid": "d8db9582-dfc3-405d-80ca-73c4c4ececd8",
       "confidence": "0.6898788",
       "timestamp": 1070.7,
       "content": "the policies their approaches and other influences in oak from several sandpoint",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "55775fb9-fe54-4df5-b892-44d2b9d7b37c"
     },
-    "1076.32": {
+    {
       "requestid": "fa545b23-6669-490b-952b-046e2f1599c3",
       "confidence": "0.8105945",
       "timestamp": 1076.32,
       "content": "and it does combinations of policies and funding allocations and engineering and a enforcement the issues are really you know what can set them apart from other countries in in break for the us in some ways",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "faa52efe-8be0-4445-b591-4bd0f7ff69c2"
     },
-    "1089.54": {
+    {
       "requestid": "fbea4c27-7053-4137-920a-2d3783a1632f",
       "confidence": "0.7501691",
       "timestamp": 1089.54,
       "content": "at second li we also found that they have a different hierarchy of how they provide streets are they actually put equal or even greater priority on pedestrian bike safety in public transit then they do an automobile transportation",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "d99a14fd-4427-4f6f-bf82-d292c29402e0"
     },
-    "1105.06": {
+    {
       "requestid": "7664f08b-72c6-4ad1-9f44-81400e397074",
       "confidence": "0.7570708",
       "timestamp": 1105.06,
       "content": "I certainly do not bashful about 10 developing and implementing innovative strategies at traffic signals to help lesbians a safe to get across you know",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "ad47f21d-660c-4781-8032-0403c41558ba"
     },
-    "1116.83": {
+    {
       "requestid": "9751c1bc-7105-4b43-b200-53d4a0407d92",
       "confidence": "0.5275408",
       "timestamp": 1116.83,
       "content": "I have to set default opice kind of baffles me",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c83f6cbd-a665-45a1-aefa-46744e692b58"
     },
-    "1120.3": {
+    {
       "requestid": "9cd1d946-0046-46ba-b93b-7d5470cb31e2",
       "confidence": "0.8378022",
       "timestamp": 1120.3,
       "content": "because if you think about cost and benefits of anything which we do all the time even when we think we don't do it you know when we like something we understand it's a the upside is greater for us to the downside and everybody has their personal preferences and so on I get to pick up sponges me is even though you told is how much traffic",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "607d004e-3660-4b7c-a6d9-a0ca68ad945b"
     },
-    "1139.15": {
+    {
       "requestid": "3eb27937-b7fc-4ed2-81f4-b0ced410a8ce",
       "confidence": "0.6026512",
       "timestamp": 1139.15,
       "content": "I fratellis over on particuli pedestrian fatality seifullin so much over really glissentar earsell",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "9b91a316-2827-4cd4-bd50-f235ccf9f84a"
     },
-    "1147.22": {
+    {
       "requestid": "753209c0-89c4-4b76-9c6d-e5a2372568ed",
       "confidence": "0.7665257",
       "timestamp": 1147.22,
       "content": "if you were to tell me that 4000 people in the us are going to die when their tv's fall off the wall in killimer 4000 people die I from are you know",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "518b3a3b-c4a2-49f7-a3a6-d5ae36d7c8b4"
     },
-    "1159.7": {
+    {
       "requestid": "82e3fbc1-29de-467b-836c-2b5099daf2d1",
       "confidence": "0.7831698",
       "timestamp": 1159.7,
       "content": "archery in getting shot in the head with arrows there would be outrage non stop right did the tv bracket manufacturers would be sued by everybody the archery manufactories be sued by everybody and yet here we are 4000 year we can celebrate how much better we got in yet",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "ff324c73-dc8c-47b3-aa2f-ffcebe9b16d2"
     },
-    "1177.11": {
+    {
       "requestid": "24735574-3ab5-47d7-9c84-e61c1e68f52c",
       "confidence": "0.8354066",
       "timestamp": 1177.11,
       "content": "I guess I'm just I just don't quite get why that cost is excepted",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c019e4de-f4aa-46ac-b73c-27733ee0e09e"
     },
-    "1185.11": {
+    {
       "requestid": "4f355ef9-bd89-45ca-94ce-1f9857d9810e",
       "confidence": "0.8488628",
       "timestamp": 1185.11,
       "content": "so easily is it just because we're used to it is it because it's better than it used to be is it because the mobility of the automobile so fantastic that were willing to incorporate those cost anything any thoughts on a",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "108dd866-944e-449d-8cfa-ed0e7bc97023"
     },
-    "1196.95": {
+    {
       "requestid": "3b6b11f2-4920-4457-b27b-15a2c4b1ea6c",
       "confidence": "0.7984402",
       "timestamp": 1196.95,
       "content": "will you erase a really good question and out",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "6af4fe91-16b6-48ba-b576-2a8bb268c367"
     },
-    "1200.5": {
+    {
       "requestid": "30fd0ff1-c324-4c0a-bdc5-76c1547a2ea9",
       "confidence": "0.71541",
       "timestamp": 1200.5,
       "content": "are for sale that we do not you celebrate you the numbers even 4000 I saw that lesson 16,000 but not even one preston dad is is one too many but you are correct it's society has pretty much accepted or ignored I such a tragic told if",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "3ed902d5-f7e5-49be-9539-1761780a6665"
     },
-    "1219.26": {
+    {
       "requestid": "a3ffba8a-4f2f-4acd-b583-b71f29a57423",
       "confidence": "0.768221",
       "timestamp": 1219.26,
       "content": "we had 4000 people die every year in airplane crashes are certainly they would be something done um a bit yet if a pedestrian dies after being struck by a motor vehicle in may not even make the front page of the local newspaper",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "9c07f56d-a499-499d-be96-7921b35675b2"
     },
-    "1234.44": {
+    {
       "requestid": "6e92e53c-52a6-4e5b-a8c0-d26c27dc697b",
       "timestamp": 1234.44,
-      "content": ""
+      "content": "",
+      "uuid": "791c1510-88b9-411b-af88-b804a63e922e"
     },
-    "1243.19": {
+    {
       "requestid": "d48671aa-0bb4-432a-8145-1acc6e4faaa2",
       "confidence": "0.8318199",
       "timestamp": 1243.19,
       "content": "as much as pedestrian deaths have fallen in the us over the long term in recent years the trend is been moving in the wrong direction in 2002 pedestrians made up 11% of us traffic tallies",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "79c3bea4-707c-45dd-afae-760447438399"
     },
-    "1255.95": {
+    {
       "requestid": "382753a7-9221-46b7-bbc6-b03e1d304fa9",
       "confidence": "0.6334953",
       "timestamp": 1255.95,
       "content": "10 years later the chair restaurant",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "bb7ed5f1-ec83-4666-b520-a2c10c8ccc45"
     },
-    "1258.44": {
+    {
       "requestid": "fb2a0de8-7572-4b3b-b525-8ba320dd4a6d",
       "confidence": "0.6739253",
       "timestamp": 1258.44,
       "content": "was 14 years why the increase one clue melai in this back to 73% of us pedestrian deaths occur in cities in the us like the rest of the world is getting increasingly urbanised here zach glazar he's in tecumseh harbor to study city",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "11dc8d4f-8435-46a9-a519-f501464d189c"
     },
-    "1277.29": {
+    {
       "requestid": "633df8f8-9f4a-4d08-a408-20d9dc2c46e6",
       "confidence": "0.6371754",
       "timestamp": 1277.29,
       "content": "free with every city in us or did it infrastructure that etiquette with cars instructions to get it would be desperate to get the question of you to keep in them off the same infrastructure the same point in time",
-      "speaker": "S197"
+      "speaker": "S197",
+      "uuid": "8409f69e-0128-4982-9d3c-d91167d00306"
     },
-    "1287.89": {
+    {
       "requestid": "2e8d0cf3-c1e2-413d-94dd-3cbe713f3a4c",
       "confidence": "0.7789134",
       "timestamp": 1287.89,
       "content": "keeping them off the same infrastructure at the same point in time so maybe one good solution is just to keep testing the way from cars entirely minneapolis instead of pedestrian bridge system for years in part is it so damn cold in the winter there",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "14b7a1c8-0053-4be5-9136-bd7a7e64142b"
     },
-    "1305.18": {
+    {
       "requestid": "cd528924-6147-4805-a3ea-4abc1797c535",
       "confidence": "0.8448284",
       "timestamp": 1305.18,
       "content": "it is 11 miles of foot traffic only to pick up it won't surprise you to learn minneapolis is considered one of the safest american cities for pedestrians here in new york city where remember 52% of traffic deaths are pedestrians",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a38f94fd-b83e-4693-8237-e0f8f491a4d9"
     },
-    "1321.41": {
+    {
       "requestid": "4a975d07-5dba-4bc4-a5a4-43a97a5560e2",
       "confidence": "0.6900544",
       "timestamp": 1321.41,
       "content": "there's a relatively new park called highline built on an old elevated real bad",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1c94abe8-97c0-4daa-9780-6886b9ec488a"
     },
-    "1327.08": {
+    {
       "requestid": "03c21ddb-5700-4fe8-839e-e00a900484f3",
       "confidence": "0.5927166",
       "timestamp": 1327.08,
       "content": "and it's acceptable only 2 preston",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "d1c25a19-2b38-4831-b33f-9320dfbb8ce1"
     },
-    "1342.69": {
+    {
       "requestid": "96a7b2ee-daa2-49cf-a5d6-e547e64443d9",
       "confidence": "0.7640038",
       "timestamp": 1342.69,
       "content": "steven wall is emergency medicine doctor at bellevue hospital it's a level one trauma center in manhattan",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "2550453e-abf8-455a-9fae-738f1d7adf8a"
     },
-    "1350.96": {
+    {
       "requestid": "c63264dc-2083-47ff-a60d-b5ec5cf0bb49",
       "timestamp": 1350.96,
-      "content": ""
+      "content": "",
+      "uuid": "7754ca29-4aec-4326-b434-0d3ec9e5db34"
     },
-    "1359.87": {
+    {
       "requestid": "b88a50d1-b992-47cd-b9b3-672668aae22c",
       "confidence": "0.7116004",
       "timestamp": 1359.87,
       "content": "giros frangos is the trauma surgeon at the same hospital",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "eb2c535f-6401-41bf-8b83-6637da916676"
     },
-    "1364.12": {
+    {
       "requestid": "7c919594-b9eb-4c20-b9c7-378a89fbcac1",
       "confidence": "0.6025631",
       "timestamp": 1364.12,
       "content": "we sent producer gretta cohn to visit with frangos in wall",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "c24160fe-e044-4c0f-9d62-4dc910b97bc6"
     },
-    "1372.35": {
+    {
       "requestid": "7989391e-45b0-4f18-839d-ff3e0e7a9cb7",
       "confidence": "0.5859861",
       "timestamp": 1372.35,
       "content": "ph level one female pedestrian struck",
-      "speaker": "S204"
+      "speaker": "S204",
+      "uuid": "9db2abd8-97d3-4da7-8ba4-b89384b115ae"
     },
-    "1375.39": {
+    {
       "requestid": "1a5e8c41-dee5-45fd-bb10-d17de35bfc15",
       "confidence": "0.6094223",
       "timestamp": 1375.39,
       "content": "loss of consciousness high speed",
-      "speaker": "S204"
+      "speaker": "S204",
+      "uuid": "f7440930-6516-4c17-8e36-1d89c1733260"
     },
-    "1377.55": {
+    {
       "requestid": "a6e53d69-3bc1-430d-b26b-c11683a5974c",
       "confidence": "0.7693552",
       "timestamp": 1377.55,
       "content": "if I was coming in from a service I would but we pick up",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "1e63a7be-76b0-415d-aa41-f125bd62623a"
     },
-    "1387.49": {
+    {
       "requestid": "48fdc5ae-b104-456c-83e2-7908ccd46652",
       "confidence": "0.5392298",
       "timestamp": 1387.49,
       "content": "gallea patient arrives in",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "22586996-4c93-463c-b103-50cf22234136"
     },
-    "1391.46": {
+    {
       "requestid": "df378702-b59d-4123-bc98-d2ae930512dc",
       "confidence": "0.5914007",
       "timestamp": 1391.46,
       "content": "we quickly go through we call bbc's you know since in your way so she reading session circulation",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "8fd3e465-10f5-47c8-9c3b-e0d46adf0887"
     },
-    "1399.06": {
+    {
       "requestid": "8e6f4d32-0e5b-486a-b784-c3f1167c948e",
       "confidence": "0.5264064",
       "timestamp": 1399.06,
       "content": "and put into my bees resuscitate a patient and I will try to lenny 8",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "470763d3-33a8-4977-a3b0-0f2b856a4951"
     },
-    "1408.46": {
+    {
       "requestid": "3ac47326-a31c-4d5e-910d-c3aadafd052f",
       "confidence": "0.6329641",
       "timestamp": 1408.46,
       "content": "imaging work up at torrey me to get",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "841155aa-0e8c-44d1-bfdf-f73d0f2fec53"
     },
-    "1411.31": {
+    {
       "requestid": "c0a09278-cace-40f5-8686-44d1d8ab824a",
       "confidence": "0.4282447",
       "timestamp": 1411.31,
       "content": "therapy's should be getting off",
-      "speaker": "S210"
+      "speaker": "S210",
+      "uuid": "22792cb1-1227-4c21-addb-df206b766a79"
     },
-    "1417.71": {
+    {
       "requestid": "f58e15b9-24a8-4b72-80bf-a559f325f052",
       "confidence": "0.6846752",
       "timestamp": 1417.71,
       "content": "25% of all be truncation to bellevue hospital",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "b43d8759-ee76-46af-b6e7-c44e0a923f43"
     },
-    "1422.33": {
+    {
       "requestid": "4be605e6-397a-4902-991c-926a0f73d1eb",
       "confidence": "0.6994101",
       "timestamp": 1422.33,
       "content": "are pedestrian struck by motor vehicles are prolly bout another 10% r",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "46a2df37-13df-4da3-86eb-2e8d69c7cbf5"
     },
-    "1427.82": {
+    {
       "requestid": "2cab50b4-9a49-4858-b224-b1098b71794f",
       "confidence": "0.3050703",
       "timestamp": 1427.82,
       "content": "bicycles truck",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "49453cf0-cf4e-4188-9426-33069425cc60"
     },
-    "1431.75": {
+    {
       "requestid": "da06a791-8de2-4adc-b98d-496468023189",
       "confidence": "0.584643",
       "timestamp": 1431.75,
       "content": "log of all of our drama it makes sense",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "23e36e69-35d8-42de-bd13-3c4a20c06a57"
     },
-    "1439.0": {
+    {
       "requestid": "805a94ab-dae2-401b-9bb6-6dc5df41f7a4",
       "confidence": "0.835312",
       "timestamp": 1439.0,
       "content": "frango tin wall and then some research on pedestrian and bicycle safety in new york",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1b23c1b3-6342-4d6e-bf5f-855474fd5788"
     },
-    "1444.99": {
+    {
       "requestid": "dfbc08de-eaa5-4b8b-8643-e603f6ac2e50",
       "confidence": "0.4545595",
       "timestamp": 1444.99,
       "content": "stop for pedestrians weather now",
-      "speaker": "S220"
+      "speaker": "S220",
+      "uuid": "5589d818-f333-46e1-82f5-0844a91019bd"
     },
-    "1447.72": {
+    {
       "requestid": "7eccc7ae-25f3-4aed-b6ce-4aa288f87c1e",
       "confidence": "0.7374535",
       "timestamp": 1447.72,
       "content": "crosswalk when they were crossing",
-      "speaker": "S220"
+      "speaker": "S220",
+      "uuid": "680350db-56bd-4b0c-8c62-1abf49d9ea03"
     },
-    "1449.77": {
+    {
       "requestid": "4370d767-739b-4a6b-bb01-16e3ca6d1bdd",
       "confidence": "0.6280525",
       "timestamp": 1449.77,
       "content": "we ask them what are they were fussing with the green later against with a question loc",
-      "speaker": "S220"
+      "speaker": "S220",
+      "uuid": "0dc4d5d9-4dbc-4f45-b19b-bdf5e7abbd99"
     },
-    "1455.52": {
+    {
       "requestid": "9d3b2cb9-5e47-4202-88cf-e8d10666dfda",
       "confidence": "0.8251415",
       "timestamp": 1455.52,
       "content": "were they on the sidewalk when they were struck",
-      "speaker": "S220"
+      "speaker": "S220",
+      "uuid": "857e157e-0c49-4463-b8c8-de446cd90fa9"
     },
-    "1459.72": {
+    {
       "requestid": "371f3537-7c73-4573-a67d-5640f8588afd",
       "confidence": "0.6206827",
       "timestamp": 1459.72,
       "content": "were there any distractions paviors time I'm such as well be under cell phone if you have an ipod on for cyclists we ask him what is a word that helmet",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "1c106a4f-88d5-47d0-a23d-68a2119465a8"
     },
-    "1469.92": {
+    {
       "requestid": "28f76b3c-7581-4176-ac5c-e9ddfb5e2ca8",
       "confidence": "0.7749383",
       "timestamp": 1469.92,
       "content": "bike lane why do they were going the right direction in the bike lane",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "4dae8de1-754e-4cc5-96eb-0754fb9c3e38"
     },
-    "1474.28": {
+    {
       "requestid": "f5fd5af0-86a5-4c69-8af8-f6087dfd950d",
       "confidence": "0.6452497",
       "timestamp": 1474.28,
       "content": "I'm and weight of all the information",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "1941eff6-3aa5-4260-af2b-43ef557c08d5"
     },
-    "1477.15": {
+    {
       "requestid": "458489bd-1590-48b5-abb1-cf11a7bc276f",
       "confidence": "0.5956542",
       "timestamp": 1477.15,
       "content": "which total about done almost 1500 patience you put in a database in and started analyzing data",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "06cd46b0-2b15-44e8-af57-7da070247ab7"
     },
-    "1485.15": {
+    {
       "requestid": "f8d98925-8aad-4316-ae9c-4a07e9e3c04a",
       "confidence": "0.6977605",
       "timestamp": 1485.15,
       "content": "we were lucky enough to walk to come up with some some interesting results",
-      "speaker": "S226"
+      "speaker": "S226",
+      "uuid": "9e0ab2f6-684b-499b-94fd-bb9e007c60ff"
     },
-    "1490.71": {
+    {
       "requestid": "f44ad357-574c-4090-a75a-3b262fc14c9f",
       "confidence": "0.8756366",
       "timestamp": 1490.71,
       "content": "so what did they learn",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "819adba3-1960-4868-990c-fc75a0cef7e1"
     },
-    "1492.78": {
+    {
       "requestid": "77db00f6-9353-48ed-882c-9aff94db9924",
       "confidence": "0.7597454",
       "timestamp": 1492.78,
       "content": "7% of the pedestrian got hit were using an electronic device lisa time any said they were using electronic device bewes data we should know were self reported 77% of the people who got hit crossing the street at the time",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "7a046b11-d710-4836-ac51-bf6b5ce77998"
     },
-    "1508.63": {
+    {
       "requestid": "54e94d0a-fc9a-4c40-b99e-2610e55e9ad7",
       "confidence": "0.8494255",
       "timestamp": 1508.63,
       "content": "67% reported that they were crossing with the signal and got hit by turning vehicle alcohol not surprisingly play the fact",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "10adf291-e8f9-4060-9aa9-16461ba74c55"
     },
-    "1517.71": {
+    {
       "requestid": "4cb5d42b-139b-40b9-b71f-8f884a25abec",
       "confidence": "0.628411",
       "timestamp": 1517.71,
       "content": "he found at 50% of injured pedestrian's had",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "07222466-b8d8-42a2-851b-9b117e8e43ea"
     },
-    "1522.7": {
+    {
       "requestid": "cd58c9b7-4237-45c7-8cb5-1b4d339b054b",
       "confidence": "0.7757241",
       "timestamp": 1522.7,
       "content": "alcohol in their system and about 11% of interest bicyclists have alcohol in your system",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "2954d25f-b8c8-4eca-bc10-eb9797afd7b6"
     },
-    "1530.36": {
+    {
       "requestid": "7a0d9b4e-b5b7-4baa-a204-94b67886a505",
       "confidence": "0.7813234",
       "timestamp": 1530.36,
       "content": "pedestrians been drinking with more than twice as likely to cross the street in the middle of the block spadena also turned up something the researchers hadn't considered",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a1acef07-a6ed-44a9-ac6e-9198030b2cec"
     },
-    "1540.47": {
+    {
       "requestid": "01ff6375-51f3-46fb-83e6-dcda10aa4c8d",
       "confidence": "0.7029449",
       "timestamp": 1540.47,
       "content": "you're having seen a lot of studies natrum literature to suggest that if these people are",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "4bd878dd-ecaf-4469-b076-4075c684cba3"
     },
-    "1546.47": {
+    {
       "requestid": "4e7bd6f1-6342-4044-b1ef-dd0c1e4ec84c",
       "confidence": "0.5937944",
       "timestamp": 1546.47,
       "content": "are less injured than normal size individuals",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "27d316c0-3993-4a9c-9a0a-97a71bfaf5a0"
     },
-    "1552.23": {
+    {
       "requestid": "549c4c77-7000-4f9d-ac85-ab1643df56a7",
       "confidence": "0.5674901",
       "timestamp": 1552.23,
       "content": "our stars is one of the first time is the suggested it makes me recent",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "ba7791fa-650d-4dc5-b1b2-3194592fb2a5"
     },
-    "1557.63": {
+    {
       "requestid": "2bff078d-70d6-41c9-bc44-4bcde3c80052",
       "confidence": "0.6497265",
       "timestamp": 1557.63,
       "content": "possibility to be are sexy hatuna bejeweled when is 400 pounds in one is 140 pounds",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "7d774fa2-206e-43ab-9a77-46e0c3fa40b4"
     },
-    "1564.67": {
+    {
       "requestid": "9b72b5b0-8a49-45c1-b19f-d2b6fba96649",
       "confidence": "0.5460535",
       "timestamp": 1564.67,
       "content": "emaar punched in the ribs with the same",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "dbcaa8f7-604c-4f1b-9628-f5547edaf6dc"
     },
-    "1569.22": {
+    {
       "requestid": "1ceb8192-1b44-4e54-b6a5-79243c52cd94",
       "confidence": "0.6439279",
       "timestamp": 1569.22,
       "content": "who's rigio more likely to break",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "b375de3e-037b-4e62-b76c-4696507b7bd6"
     },
-    "1573.55": {
+    {
       "requestid": "15492dbf-b9d7-405d-96b7-8250fe3d92f5",
       "confidence": "0.8010522",
       "timestamp": 1573.55,
       "content": "be under way to normal weight",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "c5fa7bbd-9f4d-4636-b3fa-e2666f745628"
     },
-    "1575.67": {
+    {
       "requestid": "cae5e749-e5b6-4fa5-8b4f-e273c38d9dd0",
       "confidence": "0.6160632",
       "timestamp": 1575.67,
       "content": "person so there is there is some possibility the argument",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "3d4984b2-4812-4a20-975e-21b669720411"
     },
-    "1579.55": {
+    {
       "requestid": "91a76855-1bd9-4f45-b126-de2cb95297dd",
       "confidence": "0.5006734",
       "timestamp": 1579.55,
       "content": "dat dat layer that step christian layer of soft tissue fat",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "87bf121f-7318-4640-aeab-cd09f627e4dd"
     },
-    "1586.12": {
+    {
       "requestid": "900d33c0-d181-43de-ab42-594e26f44531",
       "confidence": "0.6831717",
       "timestamp": 1586.12,
       "content": "vasad what we do know is that window stations be overweight and obese or admitted to the hospital",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "969f54fd-603b-4fa1-b8b3-fe8bfbbcf274"
     },
-    "1593.02": {
+    {
       "requestid": "6667eafa-9e0f-454f-99f0-9fd911aec7b3",
       "confidence": "0.5846647",
       "timestamp": 1593.02,
       "content": "that they are more likely to have an even worse outcome",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "75199f81-9e7f-4295-ac7d-107a182dbc2b"
     },
-    "1598.93": {
+    {
       "requestid": "a378e45a-7908-4dda-a07b-88c9e8a5dd69",
       "confidence": "0.6946933",
       "timestamp": 1598.93,
       "content": "because of associated comorbidities",
-      "speaker": "S231"
+      "speaker": "S231",
+      "uuid": "e315d7f3-dbc3-47b0-b16b-aa962a701c73"
     },
-    "1609.07": {
+    {
       "requestid": "45cb1473-8297-4313-919a-18f3f9e8ac3c",
       "confidence": "0.7151542",
       "timestamp": 1609.07,
       "content": "franco's in wall or not suggesting that we all go out in a few under pounds to protect ourselves from cars especially when it's much simpler solution to steven walmart",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "f2803aef-4aef-4324-9c87-306d515b9ba9"
     },
-    "1620.4": {
+    {
       "requestid": "6e053eef-8d95-43aa-825f-812585fffada",
       "confidence": "0.4371869",
       "timestamp": 1620.4,
       "content": "margitta I think of the distance we weren't home",
-      "speaker": "S248"
+      "speaker": "S248",
+      "uuid": "5d66994c-c9e5-4ae7-97bd-cb9a3f5e8a99"
     },
-    "1627.91": {
+    {
       "requestid": "fcaf64d6-c306-4f4c-9dbd-8ba7f06c12df",
       "confidence": "0.5034734",
       "timestamp": 1627.91,
       "content": "natelson reason why they were there when they ride the bicycle there's some truth",
-      "speaker": "S248"
+      "speaker": "S248",
+      "uuid": "26d38379-4bdf-441d-85fc-89201d5e313d"
     },
-    "1640.62": {
+    {
       "requestid": "bcfd2526-eeef-4840-913f-6b126f6a9cf4",
       "confidence": "0.3939014",
       "timestamp": 1640.62,
       "content": "yes yes yes but dustin's truck",
-      "speaker": "S248"
+      "speaker": "S248",
+      "uuid": "dcd906c1-e724-4a28-ad67-e9bba145e479"
     },
-    "1649.81": {
+    {
       "requestid": "43ad4c13-a590-4c51-ad53-d43587e0bf9e",
       "confidence": "0.7469383",
       "timestamp": 1649.81,
       "content": "no matter how accidental butts",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "1340744a-0f48-4b7a-bb9c-bc3ca6c7615e"
     },
-    "1652.73": {
+    {
       "requestid": "8c4f71eb-3242-4deb-8ac0-1284fde7b7d6",
       "confidence": "0.5994948",
       "timestamp": 1652.73,
       "content": "dabing may have been",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "807914d4-7db6-4649-aaf5-0056f4d7eb24"
     },
-    "1654.73": {
+    {
       "requestid": "ee78c420-d19a-4d2c-9bbc-f6c585120acf",
       "confidence": "0.853824",
       "timestamp": 1654.73,
       "content": "we're guessing it lead to something more than am your traffic ticket for failure to yield",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "b5126423-f676-46d5-9dc0-f075ae75a6a0"
     },
-    "1663.89": {
+    {
       "requestid": "12270b2c-d4f5-4f09-a67b-41dd807d76da",
       "timestamp": 1663.89,
-      "content": ""
+      "content": "",
+      "uuid": "d8b37390-8715-4b6f-b46f-e009db46e695"
     },
-    "1671.03": {
+    {
       "requestid": "126082ab-c85a-440f-8989-a55cdad2da15",
       "timestamp": 1671.03,
-      "content": ""
+      "content": "",
+      "uuid": "e873ebff-acff-4750-bae0-a41bd58af50d"
     },
-    "1680.86": {
+    {
       "requestid": "3ef6ec80-fd22-43fe-898a-61597924afa3",
       "confidence": "0.6691712",
       "timestamp": 1680.86,
       "content": "hipparchus news our next show kind of a special on steve levitan I take questions for you about how to sync like",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "e74577f8-bdbf-4b2b-bcc4-6601ac0df568"
     },
-    "1690.29": {
+    {
       "requestid": "3237093a-f4f5-4491-8b4b-3d2ae4b514f7",
       "confidence": "0.6918927",
       "timestamp": 1690.29,
       "content": "what do you think",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "2d879779-49aa-4735-bc31-99b3b8de61d7"
     },
-    "1693.72": {
+    {
       "requestid": "ccc07258-e893-4d49-888d-e185ba8766a4",
       "confidence": "0.7039894",
       "timestamp": 1693.72,
       "content": "think like a freak that next time I'm picking up a tree",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "6dd50469-9515-4363-a5c2-3a3595214245"
     },
-    "1699.52": {
+    {
       "requestid": "a125e91d-da93-41c4-b072-d50f38406a92",
       "timestamp": 1699.52,
-      "content": ""
+      "content": "",
+      "uuid": "8b12c069-d535-402c-93b4-66ea8ed899fd"
     },
-    "1706.91": {
+    {
       "requestid": "ea8d4911-510b-490b-9ffe-030ed7fa2417",
       "confidence": "0.7001076",
       "timestamp": 1706.91,
       "content": "freakonomics radio is produced byWNYCN.net production our staff include david herman greg rozalski credico nbra lamb susie lechtenberg and chris banning",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "e387b09b-637b-4cde-a0ed-eae4e71c5cd4"
     },
-    "1718.64": {
+    {
       "requestid": "0950ce04-3621-4c49-87b2-2d1253bb17cd",
       "confidence": "0.7798549",
       "timestamp": 1718.64,
       "content": "do you want more freakonomics radio you can subscribe to podcasts on itunes or go to freakonomics.com we'll find lock the radio up loud the book and more",
-      "speaker": "S260"
+      "speaker": "S260",
+      "uuid": "97ce68c8-ed22-4d51-b8f0-0d85ca6777cc"
     },
-    "1731.96": {
+    {
       "requestid": "3625fb84-762a-4038-98bb-b410b2d987af",
       "timestamp": 1731.96,
-      "content": ""
+      "content": "",
+      "uuid": "d5bb0345-adb6-4f2b-b7b4-0f87c876cad5"
     },
-    "1737.42": {
+    {
       "requestid": "91310ba2-a318-41b2-b26d-356975147580",
       "timestamp": 1737.42,
-      "content": ""
+      "content": "",
+      "uuid": "e8f1c660-91fd-49d3-b830-0dba1f38095d"
     },
-    "1741.49": {
+    {
       "requestid": "32efced5-32a7-4d35-b032-623124b690c5",
       "confidence": "0.8223984",
       "timestamp": 1741.49,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "a9a298b5-1b1d-4f8c-b555-6d1f21d58789"
     },
-    "1760.75": {
+    {
       "requestid": "3bd67064-f86c-47d9-9282-1661c1c309a4",
       "confidence": "0.8968445",
       "timestamp": 1760.75,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managed for free",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "35e1d079-3af9-4ef7-b289-c89c51605c41"
     }
-  }
+  ]
 }

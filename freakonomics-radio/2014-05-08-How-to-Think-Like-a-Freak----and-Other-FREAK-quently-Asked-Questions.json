@@ -4,1113 +4,1274 @@
   "description": "<p>Stephen Dubner and Steve Levitt talk about their new book and field questions about prestige, university life, and (yum yum) bacon.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/RJfdAdayGvo/freakonomics_podcast050814.mp3",
   "slug": "How-to-Think-Like-a-Freak----and-Other-FREAK-quently-Asked-Questions",
-  "segments": {
-    "0.0": {
+  "segments": [
+    {
       "requestid": "8b691703-622a-4589-b496-0ad6f9933244",
       "confidence": "0.7697588",
       "timestamp": 0.0,
       "content": "freakonomics radio is supported by mu working to help bring business stories and brands to life to arrange a printed pronox my business cards flyers stickers and postcards also offering design templates and the option to upload a personal design more atmu.com",
-      "speaker": "S0"
+      "speaker": "S0",
+      "uuid": "3fb6c97d-d928-4a24-9ec2-b9204d3e1ea7"
     },
-    "21.12": {
+    {
       "requestid": "7a783862-19f2-4a12-9ee6-86ac16fbdccd",
       "confidence": "0.7644363",
       "timestamp": 21.12,
       "content": "pegasus news web a new book out next week of think like a freak you can read an excerpt in this weekend's wall street journal and then on sunday at midnight tonight is monday the book is on sale all stores all formats",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "03cb6a01-cd8e-491c-a960-461c69ec347d"
     },
-    "34.95": {
+    {
       "requestid": "e8290e72-c9fc-4f83-afbb-8735fb0a5024",
       "confidence": "0.7948871",
       "timestamp": 34.95,
       "content": "if you wanna keep up with what we're doing in the coming weeks tv radio wife talks go to freakonomics.com slash events can also follow us on twitter facebook",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "d0c54e69-7fbf-4b6a-9f43-c60575803c98"
     },
-    "45.06": {
+    {
       "requestid": "19ab59ff-a76e-497d-92c5-96b08345b09e",
       "confidence": "0.7763864",
       "timestamp": 45.06,
       "content": "and if you want a free autographed bookplate to stick in your new copy of think like a freak you can sign up for one of those atfreakonomics.com thanks",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "305117e7-8898-4c0f-bafe-523837151da5"
     },
-    "62.27": {
+    {
       "requestid": "0908e0da-8d4c-4e7e-ac4d-fee560de3545",
       "confidence": "0.4260138",
       "timestamp": 62.27,
       "content": "so let you feeling today",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "2c08bc8d-a1e6-4811-a03e-5f04ce3aa495"
     },
-    "65.68": {
+    {
       "requestid": "68dfef7e-e169-4b65-b682-02f9e88348a5",
       "confidence": "0.6147639",
       "timestamp": 65.68,
       "content": "I'm so tired but it wouldn't",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "fd50e2c3-a7b8-4bb5-86fb-337d8ea74916"
     },
-    "69.65": {
+    {
       "requestid": "1ea9154a-bd6d-471e-a5f4-38853d30783a",
       "confidence": "0.4761867",
       "timestamp": 69.65,
       "content": "herring run golf yesterday",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d64019a9-7ff2-4430-8c2d-ecf489cdd8b7"
     },
-    "73.36": {
+    {
       "requestid": "cc7f53e5-b588-44c0-9a74-7ca0de65ebe2",
       "confidence": "0.8837144",
       "timestamp": 73.36,
       "content": "when you got home late last night to chicago did you find that package here waiting for the publisher",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b0ab8482-e21d-4c59-b850-37df1a593f19"
     },
-    "81.0": {
+    {
       "requestid": "3b0540dd-156a-4cd4-955a-f9ab02002173",
       "confidence": "0.5946788",
       "timestamp": 81.0,
       "content": "in yes",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "b937816f-0bce-4bb5-a8cb-d4c26e19a1f1"
     },
-    "83.86": {
+    {
       "requestid": "4da86173-771a-42a4-b131-7062b6534224",
       "confidence": "0.4546391",
       "timestamp": 83.86,
       "content": "how do that one again",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "8a9ecb69-0413-4998-bec9-88d8c52019cc"
     },
-    "86.8": {
+    {
       "requestid": "c8a02b4a-06d4-4558-8832-44c4f2cd8a12",
       "confidence": "0.8339452",
       "timestamp": 86.8,
       "content": "the limit when you got home late last night",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "bf6dd5a0-67fd-408e-a70b-b3ee07e200d4"
     },
-    "89.78": {
+    {
       "requestid": "866ea5af-efa0-4ad2-b07f-636a4b9536fe",
       "confidence": "0.8380005",
       "timestamp": 89.78,
       "content": "did you find a package waiting for you from the publisher I did you open it",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "21a81ff9-da41-44c7-b786-f896b22ea5cf"
     },
-    "95.58": {
+    {
       "requestid": "f3cef8c0-180e-4c0f-86df-465da19363f7",
       "confidence": "0.7502734",
       "timestamp": 95.58,
       "content": "no I didn't actually because my daughter amanda got to it before I can get in the chair and she did she open it up and then she found a bunch of books are in the word called think like a freak and she immediately put it on instagram",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "c3caabd3-373f-483e-80cb-77096c9b335c"
     },
-    "109.86": {
+    {
       "requestid": "6d2af94e-b22e-41b8-bb5c-91d779561f8d",
       "confidence": "0.6300923",
       "timestamp": 109.86,
       "content": "and one for 13 year old friend said I never knew your dad was freaking out because it's cool bro did amanda read any of it I don't think she has she's right she's fed them freaking I'm in some big mouth which is not yet tackleton country now I think 13 year olds are pretty much the perfect audience for this book don't you",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "3d2cf15e-ccb1-4b1e-ad13-3681e2510242"
     },
-    "128.3": {
+    {
       "requestid": "4b704ada-eec0-4cd2-a3b7-897eb250c779",
       "confidence": "0.7176368",
       "timestamp": 128.3,
       "content": "I think it is I think ingraining the ideas of thinking the way we do I mean we've always said it was a goal to take over the world in starting with a 13 year old is the right way to do it in gray their minds are much more plastic we can you shake them before I'm in the cat would that look at them twilight in divergent and",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "e0159787-b4ea-4f7a-ac39-1a751d66b8ee"
     },
-    "146.54": {
+    {
       "requestid": "fef54e89-b1e3-451f-af3c-3c722d285bf7",
       "confidence": "0.6974783",
       "timestamp": 146.54,
       "content": "harry potter and get to 13 year old to own everything",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "d12de80c-0384-4cba-ac18-7933b1977dde"
     },
-    "152.62": {
+    {
       "requestid": "2e6895de-b37f-4854-9a58-d68d8d49314e",
       "timestamp": 152.62,
-      "content": ""
+      "content": "",
+      "uuid": "17ef0972-7f88-4e73-8e40-6a5495302466"
     },
-    "161.12": {
+    {
       "requestid": "857dbd21-704a-46f5-b89e-a7a6de595a10",
       "confidence": "0.6866511",
       "timestamp": 161.12,
       "content": "mw on my feet this is freakonomics radio podcast that explored the inside of everything",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "f7af3a9c-3292-4398-8869-4c641b0d7565"
     },
-    "168.71": {
+    {
       "requestid": "f8a096bc-1acc-40b9-a88e-b045de66f6b5",
       "confidence": "0.3466636",
       "timestamp": 168.71,
       "content": "here's your host dies in buckner",
-      "speaker": "S25"
+      "speaker": "S25",
+      "uuid": "21810250-0a4a-411c-a4b7-b06d8bc88eaa"
     },
-    "183.79": {
+    {
       "requestid": "4597ac02-cdbc-410d-8b88-3943622b3aa7",
       "confidence": "0.6975762",
       "timestamp": 183.79,
       "content": "steve levitt is my friend and coauthor petech if you can I'm at the university of chicago in 2005 we wrote freakonomics in 2009 super freaking out",
-      "speaker": "S237"
+      "speaker": "S237",
+      "uuid": "857f191a-f271-40a8-8ff5-89069f921b73"
     },
-    "192.6": {
+    {
       "requestid": "832a0dd0-0197-42c7-be39-9b1501a07be5",
       "confidence": "0.755812",
       "timestamp": 192.6,
       "content": "we started this podcast in 2010 and now we're bout to publish or third",
-      "speaker": "S237"
+      "speaker": "S237",
+      "uuid": "3eb6eba7-ad5c-4f3b-bd84-13618a578c83"
     },
-    "197.39": {
+    {
       "requestid": "fee21ab2-9877-4c11-9746-ef75d440730e",
       "confidence": "0.5585322",
       "timestamp": 197.39,
       "content": "think like a freak",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "ac446150-dc86-4ac9-a4c5-fda044823866"
     },
-    "200.47": {
+    {
       "requestid": "1d0fa704-248f-448c-be95-895f328b20a1",
       "confidence": "0.7935258",
       "timestamp": 200.47,
       "content": "hey soleb it's a think like a freak is about to come out next week um if there's a lesson to be clean from the rating of this book would be I would have",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "86e2d074-2e7c-4aa6-a2ff-8bb651496ae5"
     },
-    "210.52": {
+    {
       "requestid": "33854077-7032-47d6-9b25-c9babc54909e",
       "confidence": "0.7668062",
       "timestamp": 210.52,
       "content": "did say that we did something very painful but very good in reading a book in that twice we wrote an entire first chapter",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "65a68281-1981-4a9c-a0fa-e82b7b6ae04e"
     },
-    "219.14": {
+    {
       "requestid": "be55973c-151c-40ba-a348-22abc30cbdb9",
       "confidence": "0.7664393",
       "timestamp": 219.14,
       "content": "thought it was great we wrote it in and get thrown in the garbage completely in starting over from scratch and and I think it's a it's so hard to do right in one of the message of the book is about how people fall prey to let it comes to some cost at once you've invested like something you hang on don't even though it's not worth anything",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "94d7f05c-c2fc-4614-8f5d-9658121d52ae"
     },
-    "238.23": {
+    {
       "requestid": "9fe3e023-75b0-4093-ab15-c25ae398b1aa",
       "confidence": "0.695138",
       "timestamp": 238.23,
       "content": "and that was good I was proud best for doing that today would've been so easy to say ok it's not exactly perfect let's just keep on going but we literally threw it in the garbage and start over and then that's good",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "30981ee2-5c20-4a1b-be52-34320bedcd47"
     },
-    "248.84": {
+    {
       "requestid": "da52c967-5213-442d-afdc-5cf05bcb9131",
       "confidence": "0.761605",
       "timestamp": 248.84,
       "content": "you know it's like with michelangelo talked about with scope we just take a big chunk marblewing get rid of the pieces he don't want much left to be pretty good",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "2f39e7e1-e4f8-4e2f-85b2-91a04439ab6f"
     },
-    "257.12": {
+    {
       "requestid": "928304f0-2b21-4a37-8ba9-cc89a2bc0261",
       "confidence": "0.6022852",
       "timestamp": 257.12,
       "content": "it's a problem is that we actually had a not to take it hot tomorrow we getting built from scratch out of marble and then we had decorated do you say that what we do is hard and I want me go inside in an informal brisland is well",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "6af93fde-ead1-4d85-9b78-b3f26ea379b2"
     },
-    "269.41": {
+    {
       "requestid": "0faf83e7-6d5d-42fd-98bf-54cee69b30be",
       "confidence": "0.6322798",
       "timestamp": 269.41,
       "content": "penn and wesson if I think it would lead in the test of time that I'm exactly right much better than I do so",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "7d98c46e-d939-4b49-ace6-f816825c5da8"
     },
-    "275.43": {
+    {
       "requestid": "8bf84b32-2e89-4bd0-b87e-e10452f0ac1c",
       "confidence": "0.7419546",
       "timestamp": 275.43,
       "content": "fly by night things so is think like a freak more at david are more sistine chapel ceiling is it",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "b094b409-6787-4f15-a434-a574229b2f06"
     },
-    "280.76": {
+    {
       "requestid": "9628f213-de16-419a-93e2-084cb23bd0c7",
       "confidence": "0.7412622",
       "timestamp": 280.76,
       "content": "there is a lot of banana mionet on",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "fc7eb872-3c3a-4bf8-9eb9-c434aa3509a8"
     },
-    "283.76": {
+    {
       "requestid": "e3dba0b1-802d-458d-a9c6-629982a77f1e",
       "confidence": "0.263907",
       "timestamp": 283.76,
       "content": "hey there probably better for ya",
-      "speaker": "S12"
+      "speaker": "S12",
+      "uuid": "14606c07-d77a-4eb6-b3bc-a436e7a0cb39"
     },
-    "288.5": {
+    {
       "requestid": "f1b83fda-bcf8-4a40-846f-12f37cd75420",
       "confidence": "0.7843087",
       "timestamp": 288.5,
       "content": "something into IN leavitt let's see some and you know get this book and then you know it's a different book for us coz it's it's kinda laying out the rules of",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "44fc59a4-2cdd-4333-a2b8-3d39183ac78e"
     },
-    "297.51": {
+    {
       "requestid": "ba5c9dbc-c995-45e6-8238-3b84e1c7fcb5",
       "confidence": "0.7974552",
       "timestamp": 297.51,
       "content": "thinking thinking about solving problems in san that was one rule that you thought it was important for someone to take the heart out of all the things we write about the book I'm curious what year one takeaway would be",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "e74f3ff1-62cc-4d34-8970-5085104dce26"
     },
-    "310.75": {
+    {
       "requestid": "4a5255ae-c6cd-459a-932b-7a7b707e85aa",
       "confidence": "0.7786598",
       "timestamp": 310.75,
       "content": "yeah I'm it's almost something we didn't write in the book but it's something that is pervasive in the east coast of the book which is that even though it is completely and totally obvious that you should think most people don't do it I mean I mean every meal I think",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "0091c99d-9d9c-4ad0-a95a-026e177d692f"
     },
-    "329.66": {
+    {
       "requestid": "c5746929-2e41-4f1b-8bb0-eec00994970e",
       "confidence": "0.6841881",
       "timestamp": 329.66,
       "content": "no ride with me then we do say that a little bit in fact in the first chapter and we talk about george bernard shaw nude in the same thing almost",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "2797b217-7370-40a5-8312-3e4d00cf6c5d"
     },
-    "338.31": {
+    {
       "requestid": "f6473553-d7a3-4eca-a1c9-09ee896e065b",
       "confidence": "0.6685219",
       "timestamp": 338.31,
       "content": "years ago you're gonna be right now picking some ways that if we have a lot of specific advice and we have a lot of",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "aa0a6006-8bea-497a-a1c5-c1c3495b3060"
     },
-    "345.54": {
+    {
       "requestid": "fa8dd2a3-5146-468f-a538-1cb1de402b3e",
       "confidence": "0.6397297",
       "timestamp": 345.54,
       "content": "hints at how we saw bombs but it's really just the basic idea",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "4af3efbc-4b9e-4677-91a8-17b15df6ee32"
     },
-    "352.23": {
+    {
       "requestid": "8408f26c-6fa4-4aee-a300-f7c75b1eef1f",
       "confidence": "0.7644004",
       "timestamp": 352.23,
       "content": "that most people walk around on autopilot and being reminded anything we need to be reminded that all the time it's amazing how hard is it remember the really simple things when you live in a complex world the polls you in 100 directions at once",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "a1d31d15-236f-4dc8-af0b-356b5be922b5"
     },
-    "375.78": {
+    {
       "requestid": "031bf8fb-fe12-4d79-be1c-68dc1c30e244",
       "confidence": "0.6530625",
       "timestamp": 375.78,
       "content": "velebit some readers in this news with pockets been writing him a question some of which are related to the new books in witcher just a regular old faq you feel I can swing set me up for tonight yeah I'm in the mood for that today you're a great friend so alisher robieson rates to say was pretty long one saddleback leather",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "da123d72-2607-4a7f-9f41-6bb56e22e5a3"
     },
-    "394.99": {
+    {
       "requestid": "828cb3c4-8307-4ab7-b3a0-e1f8d09c08c0",
       "confidence": "0.443778",
       "timestamp": 394.99,
       "content": "remails table bacon fetish which",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "3d546754-7884-42cd-987d-5c76d78d50e8"
     },
-    "398.36": {
+    {
       "requestid": "b4761f93-7451-4347-b86b-add36df18e86",
       "confidence": "0.7652339",
       "timestamp": 398.36,
       "content": "how can you not like that email she went to say I'm sure you've noticed the new society fetish with bacon no I'm not sure where how this happened but imagine it spawned from a red lake website I like that early hints of conspiracy paranoid in the first couple sentences are",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "618d68ff-4c46-4012-8455-826d98b10520"
     },
-    "414.87": {
+    {
       "requestid": "8523bbca-b9a2-4342-bb19-0fc686205927",
       "confidence": "0.8170151",
       "timestamp": 414.87,
       "content": "my question is what are the social slash economiques west health benefits of all this bacon weirdness I'm personally a vegetarian but I think even to normal carnivore some of the hip new bacon infusions in food creations are going to beat up the top",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "48e4883c-e8bb-44e8-93bf-c51d2d49e1f3"
     },
-    "429.99": {
+    {
       "requestid": "911354f4-d207-4213-8bae-fb47972677ba",
       "confidence": "0.8202155",
       "timestamp": 429.99,
       "content": "how long until we can gather data about early onset heart disease and heart attacks she really turned it lyrics you notice the first it was kind of about lake the bacon taking over the style and then immediately how long until we can gather data by early onset heart disease and heart attacks",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "3d5bb31d-28b1-487f-86c6-a0eede86a60b"
     },
-    "446.14": {
+    {
       "requestid": "c20cfa4e-1eb2-46e0-9b7f-036f2982618e",
       "confidence": "0.8600397",
       "timestamp": 446.14,
       "content": "what kind of number she writes can we get from the meat processing industries in terms of pork production are they feeling the third",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "f6512f27-93d5-4d32-8ff2-3707f8cca955"
     },
-    "452.53": {
+    {
       "requestid": "649f3a04-e8ba-4970-b083-9c0e67182076",
       "confidence": "0.8324893",
       "timestamp": 452.53,
       "content": "what is the cost on the environment takes a lot of water resources teresa pick and most of all she writes why",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "6123677a-1e02-4a2d-bcde-bdc69235e419"
     },
-    "458.33": {
+    {
       "requestid": "b6e931c8-2aa1-4648-8823-4e88cce6b754",
       "confidence": "0.7722551",
       "timestamp": 458.33,
       "content": "for the big fish I have my theories me in the in the wake of kale smoothies hipster homesteading in state mandated soda size reduction of that actually happened to state mandates that size reduction",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "25e6b498-8a9a-43e6-8e60-e1f0c66ef631"
     },
-    "470.14": {
+    {
       "requestid": "646ae8fd-8aed-4bd0-9e57-ed86b0f89e45",
       "confidence": "0.8309271",
       "timestamp": 470.14,
       "content": "is it simply a grassroot uprising of those who refused to relinquish their bacon in super sized pepsi",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "c15661f9-9f4d-4ae5-a0f0-8202f9bb6e63"
     },
-    "476.27": {
+    {
       "requestid": "832cc9ca-2f02-4822-854a-48e1aa000c2d",
       "confidence": "0.8456483",
       "timestamp": 476.27,
       "content": "regardless word start it is him to infiltrate people from every walk of life even here in my country colorado mountain town impossible to walk into a bar and not be faced with bacon infused bloody marys or bacon covered waffles at the local breakfast joints",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "136585cd-5f8c-49cb-ac55-e6a45a3eb8ab"
     },
-    "491.4": {
+    {
       "requestid": "ab84ce40-3e37-4c8c-ad24-0c08dc4e6e57",
       "confidence": "0.8283613",
       "timestamp": 491.4,
       "content": "let's face it mini translate tramp stamps and mail it's only result in wistful regret of the good ol days inn photos that are good for a laugh however this trend has the potential to do some serious damage thanks alicia",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "bb0ccf71-071a-402c-93db-992ec7ac3614"
     },
-    "507.69": {
+    {
       "requestid": "4123683b-3446-4118-942c-4c79c1a82543",
       "confidence": "0.6595442",
       "timestamp": 507.69,
       "content": "I do that's a great question I like it is that the only say hazel us bank in and that's a good thing these questions so here's what I would I have to say as a copy up before I respond to alicia keys we always say <profanity>shit</profanity> put away your moral compass before you start time to think about prom",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "247b5576-374c-4c54-912e-1ea2925e316c"
     },
-    "524.62": {
+    {
       "requestid": "4fb6cc10-968e-4d17-915f-33c41c243519",
       "confidence": "0.7474458",
       "timestamp": 524.62,
       "content": "but I have incredible person attachment the bacon in I have had for a long time when my first friend is actually when I was a child with yum yum bacon",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "4deb727d-5a02-46f6-a3c6-ee3e0e766068"
     },
-    "536.67": {
+    {
       "requestid": "ff3b0410-2440-42d3-b996-eae1e0a8342b",
       "confidence": "0.6350723",
       "timestamp": 536.67,
       "content": "that was pretty much movement watchwords when I was a child because I was mostly denied bacon but whenever I had the opportunity I would exclaim yum yum bacon and have as much as possible",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "f3f82ec3-5e52-4987-983a-600db13f9001"
     },
-    "546.42": {
+    {
       "requestid": "9c5817a3-a887-4b01-9083-ea33512cb92f",
       "confidence": "0.7218559",
       "timestamp": 546.42,
       "content": "that being said let me try to put aside my personal adoration for bacon and answer the question and I intended on the health front if we ride in think like a freak",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "2e7694d1-4d97-47be-99c2-393cc42ad161"
     },
-    "561.0": {
+    {
       "requestid": "3811a408-f63b-4dc1-a3bc-ec079e746dbb",
       "confidence": "0.7240474",
       "timestamp": 561.0,
       "content": "dish so much confusion in the world about what healthywage not healthy in I can imagine bacon is on how to get loaded with all sorts of nitrogen things but you know we write about how bad is been demonized in how the cutting edge mini cutting edge nutrition is now would not deem",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "85e4bc65-44d5-48be-bd18-480d90a3df94"
     },
-    "578.7": {
+    {
       "requestid": "7920c4a3-24cb-460f-bef9-675906597011",
       "confidence": "0.4673343",
       "timestamp": 578.7,
       "content": "got to be bad nindy dad",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "e6bde3ad-3198-4483-8b53-20199ff0cb2f"
     },
-    "581.13": {
+    {
       "requestid": "46a0e280-5c1c-4160-9b28-adf3f848d0e4",
       "confidence": "0.7061821",
       "timestamp": 581.13,
       "content": "I'm in there only 3 ways really to get cal is it from fats and proteins and carbohydrates and many many people at least be smart people that I know have turned in carbohydrates into the carbohydrates are the enemy not fat telenet sent begnis a wonderful food because bacon loaded with fat and doesn't have carbohydrates",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "06750e52-7902-45ce-80f6-ae4930b3fbf7"
     },
-    "599.55": {
+    {
       "requestid": "9e83bd1a-b62e-4cf7-b65a-9aa7a9ffb865",
       "confidence": "0.7265643",
       "timestamp": 599.55,
       "content": "for my social baby conomique perspective on my hunch is that what ever little dribs and drabs bacon better being dumped in the bloody marys compared to the in normas",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "022085aa-3209-465f-8534-24a448d6c6e5"
     },
-    "611.61": {
+    {
       "requestid": "92264334-4d2f-4b81-ac07-f188ccc038dd",
       "confidence": "0.6845552",
       "timestamp": 611.61,
       "content": "I'm on of pork which is used for a million things you know from bacon at mcdonald's to be incredibly hypercapnic attempting to park in china",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "79da0abf-d2dc-41e8-b628-82c92f4b0905"
     },
-    "622.76": {
+    {
       "requestid": "bc262d4f-1197-4996-8254-f8ef27fdbb40",
       "confidence": "0.6917964",
       "timestamp": 622.76,
       "content": "that nobody even noticing union packed with you ever for my production perspective of this is big and I got expected we should talk about",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "08b00d93-134e-4d06-b308-c134f155666b"
     },
-    "633.96": {
+    {
       "requestid": "41f25157-26b3-4b27-b036-9e6717b9f99d",
       "confidence": "0.7907",
       "timestamp": 633.96,
       "content": "tell me a skip this with interesting about her question is it it's a series of objections to one thing right so it's an anti bacon question but has all these different components each of which operates on a different dimensions of the weather like",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "d47da2e4-0dd7-4dd4-9ba8-80b6ad01805f"
     },
-    "647.17": {
+    {
       "requestid": "263054ba-8907-45f0-a51f-4220b39b6cda",
       "confidence": "0.8337601",
       "timestamp": 647.17,
       "content": "it's like the bacon weirdness <profanity>shit</profanity> she doesn't like the fact that bacon is it is kinda taken over as a thing of desire right on on many fronts and then she gets into the hell thing and some other things",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "81e54cc3-9f6a-4813-8942-6b00d3df8cf7"
     },
-    "659.01": {
+    {
       "requestid": "01020705-94a4-4761-8eb6-d31bc6db0538",
       "confidence": "0.607026",
       "timestamp": 659.01,
       "content": "but um I'm curious unici rachad message she's a vegetarian",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "b08252f7-21f4-4e71-a26e-1316912cc248"
     },
-    "663.19": {
+    {
       "requestid": "2b38b884-3bb5-439a-8143-3c6e258f81c8",
       "confidence": "0.8448054",
       "timestamp": 663.19,
       "content": "and then goes on to kind of expressed concern that all these people are gonna regret their bacon and take that will be the equivalent of a tramp stamp although I don't know how that is it's not like you",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "efe6a586-254f-4190-a024-bb84a9e48f49"
     },
-    "672.81": {
+    {
       "requestid": "4db9ccca-8831-4f92-8ecb-7d6c2b58a2fb",
       "confidence": "0.8016251",
       "timestamp": 672.81,
       "content": "you're marked for life by the bay can you consume when you can hug but I'm like I don't wanna I don't wanna wreck on a leash I'm sure she's a great person and I do like a question but when you hear a question like this",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "755ae806-b759-4487-9161-1d5d4225a072"
     },
-    "684.93": {
+    {
       "requestid": "e6618353-f09f-4f14-bee9-fa988a9ea7aa",
       "confidence": "0.8943105",
       "timestamp": 684.93,
       "content": "but any thought about bacon pretend it's a comment on you know I got some new technology",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "b870eeed-3efd-47db-8967-d50203718eb9"
     },
-    "692.1": {
+    {
       "requestid": "2e9f94e6-4343-4c6a-86af-3cfb25b52944",
       "confidence": "0.8238038",
       "timestamp": 692.1,
       "content": "like a driverless car or pretend it's about out something else that people can soon maybe you know marijuana vs alcohol like we did this episode on recently where do you try to read them into the persons position in their biasi's in the prior's at the coming from and if you wanted",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "45932bd9-821b-490e-a96f-fd0b216aa0f3"
     },
-    "709.73": {
+    {
       "requestid": "6d486e86-d90c-442b-85e7-7af89909cf65",
       "confidence": "0.8617491",
       "timestamp": 709.73,
       "content": "have a conversation with him and try to persuade them toward something which is something we will try to work on these last couple years how to persuade people don't wanna be persuaded where do you kinda look for an alarm in in in something like this",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "bc8be702-46c6-49e7-969c-50c40aaa8755"
     },
-    "722.48": {
+    {
       "requestid": "a9bdc17c-cff3-4a79-9d61-843f6ec10828",
       "confidence": "0.6166214",
       "timestamp": 722.48,
       "content": "news interesting because witalis has done in this question is told he really entertaining story with thomas none of my questions that we enter entertaining stories are always easy to the pointer maybe they want around in attendance",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "ac37ce61-db0e-4354-b6fb-c24bd9217d53"
     },
-    "737.08": {
+    {
       "requestid": "e85a710e-6c1b-4a27-b3a9-dde4f8a56b9e",
       "confidence": "0.7636587",
       "timestamp": 737.08,
       "content": "would but I think the shaxi hazardville give to the storyteller don't you because she takes is on this ride where you start thinking that maybe she's kind of a friend of bacon in the end she loves you know she brings you in she relaxes you and then she turns it into the bacon being the enemy of all mankind",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "6ed115ac-a363-40c2-8fef-7885013a30e8"
     },
-    "754.75": {
+    {
       "requestid": "25b8a518-1a7c-47ff-b1d4-e9c700fd5e85",
       "confidence": "0.7201429",
       "timestamp": 754.75,
       "content": "I'm so I think with someone michael be shy and bacon I think there would be no point in trying to persuader I think this is all I would try to do in elisa is have some fun and I poke a little fun at erin teller how much I love bacon and I'm",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "ea3cf724-2d28-4940-bb13-cae6d30e4a83"
     },
-    "772.02": {
+    {
       "requestid": "20ff3bfc-d227-4547-ab3b-87fd71c1459f",
       "confidence": "0.8053032",
       "timestamp": 772.02,
       "content": "try to bribe and see how much it would cost to get her to eat a piece of bacon are self and from that maybe have an interesting discussion about why she's a vegetarian but I don't know you and I know that in general trying to persuade people who don't wanna be persuaded",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "0b7e288b-d9cb-403b-ba9c-33330f017e3a"
     },
-    "786.57": {
+    {
       "requestid": "7a405ba5-9ae6-43cf-9a10-026a76a18ec1",
       "confidence": "0.6834539",
       "timestamp": 786.57,
       "content": "is a big mistake and I think we even write in the book that a lot of times when you have this this urge to try to persuade people are things that the best thing to do is just to take a deep breath and say why do I need to persuade them with my reason for wanting person died I think we should let alicia I'll be there for her",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "8aaa723b-dfa2-49e1-8b35-db00f6204249"
     },
-    "806.33": {
+    {
       "requestid": "6396bdb9-873e-4d06-abcc-62dd21394253",
       "confidence": "0.5917516",
       "timestamp": 806.33,
       "content": "bacon hitting like in victimise but otherwise happy life",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "6e38d25c-1e2a-4448-bfc0-11ab30d92d9e"
     },
-    "811.52": {
+    {
       "requestid": "f8e980a4-3dc7-4c88-b66f-a1954fd23b6c",
       "timestamp": 811.52,
-      "content": ""
+      "content": "",
+      "uuid": "1945bf44-a62f-4306-b4b2-cd50620bc40b"
     },
-    "821.05": {
+    {
       "requestid": "fa2cdb18-46b8-48d4-a61e-f6253dc797f6",
       "confidence": "0.6575773",
       "timestamp": 821.05,
       "content": "coming up on freakonomics radio witex morlas my questions I like the way you think and what do you think and",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "883cb193-e9a5-4a57-b129-86f4027f605d"
     },
-    "827.76": {
+    {
       "requestid": "56109e0c-0f36-4a5f-a9ca-2bff86d90fbc",
       "confidence": "0.5167831",
       "timestamp": 827.76,
       "content": "steve levatores nightmare do something about book 2 of which I'm doing now",
-      "speaker": "S126"
+      "speaker": "S126",
+      "uuid": "45671864-4d72-4e0c-890a-68c0ce37b080"
     },
-    "838.24": {
+    {
       "requestid": "c539f251-34ab-443d-a4b7-56bdd012b41e",
       "timestamp": 838.24,
-      "content": ""
+      "content": "",
+      "uuid": "ca87fd86-fede-43bf-a1d7-928658904203"
     },
-    "841.36": {
+    {
       "requestid": "24cea52b-1741-467e-9359-dd34b87ae3de",
       "timestamp": 841.36,
-      "content": ""
+      "content": "",
+      "uuid": "46e52822-f530-4b5d-b8c3-f7c71a36504b"
     },
-    "848.66": {
+    {
       "requestid": "73510f72-ef31-47bf-867c-cf61f92c062a",
       "confidence": "0.7822195",
       "timestamp": 848.66,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S130"
+      "speaker": "S130",
+      "uuid": "e98bbc38-2007-4a1d-a2b9-5bb11b98d044"
     },
-    "856.24": {
+    {
       "requestid": "19d9b7e6-fdbe-4a93-9b4e-d13005a100f3",
       "timestamp": 856.24,
-      "content": ""
+      "content": "",
+      "uuid": "689ac163-bdcb-4dbe-a823-488a87f6e4fa"
     },
-    "861.41": {
+    {
       "requestid": "f4f70ac2-a743-4a01-8f07-647481cad3c4",
       "timestamp": 861.41,
-      "content": ""
+      "content": "",
+      "uuid": "46e94609-4212-478b-8a47-6a1f2512fd09"
     },
-    "863.78": {
+    {
       "requestid": "26b0be2f-6bca-4ee5-b26a-f870ce8c194a",
       "confidence": "0.6231372",
       "timestamp": 863.78,
       "content": "elebit of the question from a deal comani who",
-      "speaker": "S133"
+      "speaker": "S133",
+      "uuid": "497a874e-71ec-4ed5-9cbd-7fae4da0ecd9"
     },
-    "869.46": {
+    {
       "requestid": "f14a38e9-2ee7-4477-a067-b58eba0dba2b",
       "confidence": "0.6457545",
       "timestamp": 869.46,
       "content": "is writing long question I won't read the big chocolate but he's interested in the idea for stege in the price of per stege on a number different um front screen the fact he went to a college hikind regrets what's in a little bit more prestigious new skis",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "aa11658f-e3df-40a7-a40c-90a9332f2ecb"
     },
-    "884.71": {
+    {
       "requestid": "3f913f47-ef60-4239-8774-5c47b87dc224",
       "confidence": "0.7830762",
       "timestamp": 884.71,
       "content": "curious to see how that's gonna workout but then get an idea for AC basically is giving us an idea to think about any says this what if you guys have a section on your website to get hold of you and head wraps 3 levels of priority I'm sure you have field loaded questions on freakonomics radio and often skip over some",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "fbc3266b-47db-4682-96da-7287e23c8f0c"
     },
-    "903.04": {
+    {
       "requestid": "bf4b7c29-ae86-482f-a853-4e7fcd2ef485",
       "confidence": "0.7867927",
       "timestamp": 903.04,
       "content": "so with 3 levels of priority you can institute",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "56784ce5-2ea0-4d3d-90b8-63399bd8e5b3"
     },
-    "906.45": {
+    {
       "requestid": "877e2bfb-e887-4449-9d68-fd423febe3c5",
       "confidence": "0.7236891",
       "timestamp": 906.45,
       "content": "call vip questions can be guaranteed to be entered an air mass extremely inappropriate but also carry a $10 charge to submit second year of questions may get into rican cost $5 and lastly leopard rd fremont receive the least of your tents and other children some people",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "bb1f8d8e-b4ee-4a6a-ab70-93f7f6aea4f7"
     },
-    "924.36": {
+    {
       "requestid": "0195e3e2-510b-4626-ae2a-a99483a4107f",
       "confidence": "0.6767132",
       "timestamp": 924.36,
       "content": "away from the podcast I would if not all",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "4b35ebcd-2c8f-493a-ab63-4b3dbcc96787"
     },
-    "927.15": {
+    {
       "requestid": "7491d0fb-cb06-4f97-8a96-7468ded4e874",
       "confidence": "0.8047854",
       "timestamp": 927.15,
       "content": "and a desire to ask questions but ultimately you guys keep it interesting enough to provide great answers I would challenge that as well so I think it with the rate pricing scheme joulwan out level",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "916881ca-5a22-42b5-8c8e-a2aaf758cae1"
     },
-    "938.04": {
+    {
       "requestid": "40760a2f-5008-4ab8-913d-d01fe483726c",
       "confidence": "0.6015863",
       "timestamp": 938.04,
       "content": "what he would do you can I am I don't know him from eating I'm a do you mean when a deal ADILA deal",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "05bcffb2-841d-478c-a1c8-d2be482be9a0"
     },
-    "945.14": {
+    {
       "requestid": "1bf5daa3-7222-4d55-8469-66a65c5d2a1b",
       "confidence": "0.5882504",
       "timestamp": 945.14,
       "content": "ok so the first american to idea is that he like many other people's world",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "19e5aa68-3217-44f6-889d-36b4b6d3feea"
     },
-    "950.57": {
+    {
       "requestid": "fd94dc4a-f242-417c-9c3d-cf0dd612c22b",
       "confidence": "0.6868205",
       "timestamp": 950.57,
       "content": "need a quick lesson in pricing",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "22921a9e-6888-409c-a56b-5ecd5fb40920"
     },
-    "954.47": {
+    {
       "requestid": "c19029c4-31ed-448c-9073-6924bf5f9031",
       "confidence": "0.7021093",
       "timestamp": 954.47,
       "content": "I think the idea of offering dispute set of services is really smart in a did you very much too",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "cfdc17d4-66f1-487f-b7fb-58a8f0d1b5cd"
     },
-    "962.03": {
+    {
       "requestid": "82a0a48e-dd9a-41db-b963-751f612e6b17",
       "confidence": "0.6066462",
       "timestamp": 962.03,
       "content": "way as we move into society where there's a lot of information in there is in billy depressed nice what consumers get that it is after the weather today I've done no no particular case I think it to problems with the plan first wok",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "0172ec2f-1293-41c9-a61c-7263943cbdd4"
     },
-    "976.11": {
+    {
       "requestid": "71b7b63f-496d-4df0-a323-fcbd312404d3",
       "confidence": "0.7775295",
       "timestamp": 976.11,
       "content": "the price is we would want to charge to make it worth your while to the singers with him questions to ask the value of having a good question and making to meters in a kilometer to get there it is a thousand times greater than the amount of money than any reason a person would ask us to beat the quest the nearest we have to have a conflict here in that",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "669c527d-572e-4c4f-b219-6397add38de4"
     },
-    "995.0": {
+    {
       "requestid": "04396684-7d0a-4242-bb69-21adbf478ae2",
       "confidence": "0.7402975",
       "timestamp": 995.0,
       "content": "pudding a good show is much more important then getting 10 bucks in a bill gates are you know a thousand dollars in $5000 whenever the number might really be if we wanted to have this kind of them but I like the way you think and what do you think",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "051f3192-1297-4d80-b968-8b7da70ff44a"
     },
-    "1008.1": {
+    {
       "requestid": "fb87dfac-e2cb-4a77-bc0a-8089e0a6719b",
       "confidence": "0.8081772",
       "timestamp": 1008.1,
       "content": "yeah so I agree I like the way you thinking in that cured you know pricing makes alotta sense and I think we're actually going to I have an episode coming soon on price discrimination in the mini version sarah but I think it be really interesting",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "7f29af4d-19fd-444c-af9e-09347e4a33d3"
     },
-    "1023.89": {
+    {
       "requestid": "ab7970c4-e680-4f7e-ad2a-e9a51aa9917b",
       "confidence": "0.7813179",
       "timestamp": 1023.89,
       "content": "am I think though that the conflict is broader than that which is not only in this is the pricing wrong in this case",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "bea75756-7234-4b2f-8727-e25c1c41117f"
     },
-    "1031.12": {
+    {
       "requestid": "226fc481-53f8-4cdb-8a36-71d53bd7b0a9",
       "confidence": "0.8825845",
       "timestamp": 1031.12,
       "content": "but I think that having any vip pricing access in a format like this in radio sure that we put out",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "4ef6f671-9471-4887-9ec1-518ea4bbcac8"
     },
-    "1039.2": {
+    {
       "requestid": "f7d0aa98-cc1e-445d-be54-4e2613a12b4f",
       "confidence": "0.7605771",
       "timestamp": 1039.2,
       "content": "would really end up being negative because it is too exclusionary ghazaouet you know he's a boil down to the form of payola in this case",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "ab62a040-d00f-4205-aff6-31f281aa4799"
     },
-    "1050.21": {
+    {
       "requestid": "9d604e24-62e7-4f96-8710-3e2f21c07f64",
       "confidence": "0.8455209",
       "timestamp": 1050.21,
       "content": "so I can see what are some services are industries where this works perfectly but I feel like what we're delivering is not concrete enough for may be back you pulling up to charge anything for",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "cc1d5857-02db-41af-9252-86e32fc57a75"
     },
-    "1060.47": {
+    {
       "requestid": "478d226f-e647-4a76-93f0-856057d21ca1",
       "confidence": "0.7830251",
       "timestamp": 1060.47,
       "content": "and then if you start to that would diminish the whole feel of the thing that would be my peers I would wanna listen any show they would have hoes would do something like that on the show",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "9040256a-c614-4df7-9a89-495936b4b28a"
     },
-    "1068.26": {
+    {
       "requestid": "159faabd-055e-416f-b6cf-f320c354dc8b",
       "confidence": "0.7469498",
       "timestamp": 1068.26,
       "content": "yeah I mean you make a good point didn't we talk about changing the frame there any interaction between humans and fined by the relationship they have any eggs and are you I guess is define beverley's dip in which we give it away and we don't really do this for money I'm not sure why we do it but I don't need for money I mean it can't be for money",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "37b98376-6748-4f17-979d-f65ed9fae434"
     },
-    "1087.04": {
+    {
       "requestid": "b26834ff-a43e-4bca-bc29-76bdf9c6b102",
       "confidence": "0.7670333",
       "timestamp": 1087.04,
       "content": "I am and so it did then change the frame that this is about micah I'm on workstream example be well what if we did podcasts but you only got to hear it the first 6 minutes for free in the last minute of the punchline I had to pay $3 right",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "00570dd1-2c76-4196-a42b-58d0a33c70b9"
     },
-    "1105.23": {
+    {
       "requestid": "38503fad-82b5-4df3-a7f9-77139b7584aa",
       "confidence": "0.7182662",
       "timestamp": 1105.23,
       "content": "or maybe a slightly less punita version like you put out a free version of atap remember to thabiso that happens a lot of a lot in this is the computer to 20 minute version every week with 3 in a 45 minute version 'cause my other I would argue that maybe I would pay more for the shortest person if it was better than the longer version",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "f2c7ff33-ef31-48e2-a6d1-b5af640dd6c3"
     },
-    "1121.49": {
+    {
       "requestid": "de93f48d-25e7-4f3d-af44-ad0c36310f5d",
       "confidence": "0.6918941",
       "timestamp": 1121.49,
       "content": "yeah and I think this is a good case were honestly I don't know why we do the packers but is deathly not for money",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "ef5e3607-3073-462b-93cc-878aa9f59ced"
     },
-    "1127.94": {
+    {
       "requestid": "0aeadad3-2baf-4d67-90c4-c3085103b591",
       "confidence": "0.7776844",
       "timestamp": 1127.94,
       "content": "I think I know why we do um we doing because I wanna do a min then you're nice enough to do it along with me yeah and I think so I think for us to do a minute to try think we need to move given that you did do this because you like millions of people to hear your ideas",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "5da98141-91ee-42bb-9f9b-21abaf58cdb0"
     },
-    "1142.16": {
+    {
       "requestid": "2eac1f15-799c-47d5-a9de-0508ece846c4",
       "confidence": "0.5523978",
       "timestamp": 1142.16,
       "content": "the concept of polluting bad move the monetary motive I think is bad that's why I was so completely against the fun drive it outside today in harlan gin bring her boyfriend get out so well that",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "ce1be977-0daa-4aff-9070-9e0a1d75199c"
     },
-    "1155.33": {
+    {
       "requestid": "bedf7f44-917b-4a40-bca8-152314b5c77b",
       "confidence": "0.8308644",
       "timestamp": 1155.33,
       "content": "yeah but we also have a partner here which is the public radio station that's the way they raise money for the production and um I'm still at work and you are very wrong by the way web it",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "b2354f84-f665-437e-8a8d-6a9c3e9597d8"
     },
-    "1166.36": {
+    {
       "requestid": "d999775f-2a9e-4fc4-b847-8a2a14543705",
       "confidence": "0.6071463",
       "timestamp": 1166.36,
       "content": "because people like to get money yeah yeah but it makes me mad they should've taken the money why would you take your money would you doing this for fun it's just I get a cough is horrible traffic to my money to",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "7f629be6-3000-4397-ad68-542d9a9314c4"
     },
-    "1176.91": {
+    {
       "requestid": "a1068651-8765-4abc-a492-0e97f0d0f4f2",
       "confidence": "0.5948141",
       "timestamp": 1176.91,
       "content": "do it that's true but still I think it's adorable",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "d1a1491b-22ad-4ed0-89c9-b675bedc2ba2"
     },
-    "1181.62": {
+    {
       "requestid": "339b57c5-72a4-40f0-855e-aa66577ace2a",
       "timestamp": 1181.62,
-      "content": ""
+      "content": "",
+      "uuid": "728325e5-21c2-41f3-8422-170053047dd3"
     },
-    "1192.88": {
+    {
       "requestid": "073b7496-c3ee-4a45-8a13-4325620f812a",
       "confidence": "0.6492586",
       "timestamp": 1192.88,
       "content": "elebit at his question from meredith summers hello",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "3362942a-a42c-4356-a5e3-da56c586e872"
     },
-    "1196.47": {
+    {
       "requestid": "72839838-742c-401a-8ca5-9b06940bb42d",
       "confidence": "0.8064618",
       "timestamp": 1196.47,
       "content": "I wonder if it would be at all possible to quantify in financial terms steven levitts contribution to the universe in chicago for example does the steam bring in more students you hope to work with him I learn from him and is this contribution commensurate with his salary",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "d9e3732c-324d-42d9-8fe7-0272525e70dd"
     },
-    "1211.81": {
+    {
       "requestid": "f31a5404-ffed-4a70-b331-2d2e7b989cc6",
       "confidence": "0.6774192",
       "timestamp": 1211.81,
       "content": "thank you for your time meritis",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "ade2df06-6161-4c4c-af24-7f07d3b27bb8"
     },
-    "1215.05": {
+    {
       "requestid": "46788395-17ba-4927-9352-40fcccb8031b",
       "confidence": "0.696008",
       "timestamp": 1215.05,
       "content": "I love that she seems that your financial a contribution is positive first of all",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "08454e0b-ea00-4006-b887-5952bd9e6144"
     },
-    "1222.2": {
+    {
       "requestid": "cbc28747-74ed-4c28-baab-b28593a0448b",
       "confidence": "0.5711846",
       "timestamp": 1222.2,
       "content": "I like people like marilyn manson minutes that's actually a really interesting",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "ae58db2b-5a8f-4242-bf1f-dec1da51bd4f"
     },
-    "1228.53": {
+    {
       "requestid": "565b9071-e19e-4115-9570-6a48328694d3",
       "confidence": "0.8027073",
       "timestamp": 1228.53,
       "content": "question a hard question a good question I will say that um I get paid quite nicely body north chicago and anytime I want anything to give it to me",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "3fd13df1-8538-4079-bcf4-847a7571a0d2"
     },
-    "1240.54": {
+    {
       "requestid": "32feb953-6fe4-42cb-96d9-e5a5fbedc409",
       "confidence": "0.7309843",
       "timestamp": 1240.54,
       "content": "and so the relationship that I have a dmv chicago is in some reason I must not really defined as the financial relationship it's it's it's kind of like a symbiotic thing in which there nice enough to let me be here in do whatever I want and it",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "ccf524ca-399d-4587-aed0-572835a6d5ef"
     },
-    "1259.07": {
+    {
       "requestid": "0c229892-ffa0-496c-96b5-dd7ad53c9baa",
       "confidence": "0.684895",
       "timestamp": 1259.07,
       "content": "will let me go let me give me examples of the craziest thing in the universe is on monday I haven't been into lexile property committee of the university which is that not something that anyone wants to do but it's something that occasion you get up down to do if your gamertag",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "407a5ac2-ede4-4c06-8f04-9aca9477ced0"
     },
-    "1273.26": {
+    {
       "requestid": "73c77925-7ee3-4eb4-8d1f-5838f311012b",
       "confidence": "0.7929388",
       "timestamp": 1273.26,
       "content": "if you have an invention at the university while employed university even if it doesn't have that much do with your job do university owns the patent",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "bc01c580-ce6f-44ec-a8ff-fbb3a7dc636a"
     },
-    "1282.24": {
+    {
       "requestid": "ff1c86b0-d58d-43a1-8140-a9ef7d00e978",
       "confidence": "0.6985002",
       "timestamp": 1282.24,
       "content": "and they shared go to be generously with you 3 words but intellectual property belongs to the embassy time sitting on this committee and thinking about freakonomics and I suddenly had to say why doesn't do university own the intellectual property freakonomics it is because it to book and not an invention",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "9ab4fa91-e87f-4f03-89c1-b946d168c27a"
     },
-    "1301.97": {
+    {
       "requestid": "3518f3f5-68a3-4aaa-9992-caf589c194a1",
       "confidence": "0.7439792",
       "timestamp": 1301.97,
       "content": "in some by historical accident it turns out bad",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "0960dbe8-8c4c-4b7c-884d-4fd10ba6e2be"
     },
-    "1306.25": {
+    {
       "requestid": "a93d87e8-6807-4f50-971f-76380ad0f7ee",
       "confidence": "0.743719",
       "timestamp": 1306.25,
       "content": "if you write a book of university you own it but if you do any other intellectual property down on it reminded me a lot of the podcast about alcohol versus marijuana because it seems to be completely path dependent at the university owns the intellectual property do things that you create a mess there in the form of the book name",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "f91c5e24-f504-4d64-9061-8e0871978b4a"
     },
-    "1325.32": {
+    {
       "requestid": "25aec907-1c10-431c-8a21-d13e42b0c948",
       "confidence": "0.6654838",
       "timestamp": 1325.32,
       "content": "and I remember sitting in that meeting thing konami glad I read books and go to do inventions gonna be a disaster",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "d69874e5-c51a-4346-8305-09fe83ac0a47"
     },
-    "1331.6": {
+    {
       "requestid": "56f9f2a8-004a-42be-9803-66faccd1574c",
       "confidence": "0.8824178",
       "timestamp": 1331.6,
       "content": "it reminds you of alcohol versus marijuana in the if you were starting over from scratch there's no way these 2 would be so different yet",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "625f2f55-81f9-4f70-ac24-04b3aee04c83"
     },
-    "1337.96": {
+    {
       "requestid": "6ba18119-16f4-4c92-a4f8-0fc1f8173c4c",
       "confidence": "0.7562375",
       "timestamp": 1337.96,
       "content": "you got that you wonder why the 2 like things are treated so differently and it really I think it had to be by chance today could be that someone really sat down and thought about it and said we really want booked a blunt academics but everything is in box blocks theater",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "e3e084f2-bb39-48fd-9744-4d9717a5142f"
     },
-    "1353.49": {
+    {
       "requestid": "6edbcf99-5c13-4298-8133-11a0f1769807",
       "confidence": "0.869409",
       "timestamp": 1353.49,
       "content": "right so we argue regularly that there so many accidents of history there kind of late are interpreted to be more logical than they really are",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "ac5b6be7-870d-481a-819f-39d8b4230b95"
     },
-    "1362.08": {
+    {
       "requestid": "a0318cfd-c3b4-478f-a393-ae0e19ce797d",
       "confidence": "0.8432008",
       "timestamp": 1362.08,
       "content": "but in this case maybe you could argue that you know 100 years ago were 80 years ago when university professors writing a book most books in the academics we're weren't meant to be popular books weren't going to be popular books",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "fd57bf0a-0b8a-4575-b77e-d04ec6763d8c"
     },
-    "1376.02": {
+    {
       "requestid": "092c50cb-385a-43d2-a638-90addbe180d4",
       "confidence": "0.804517",
       "timestamp": 1376.02,
       "content": "and therefore they were great promotion for the statures in the status of the university in the professor and therefore served well whereas apatin is almost Mr. lee meant to be a commercial",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "9bcc981e-de3c-4e39-af60-a241a798ba62"
     },
-    "1387.02": {
+    {
       "requestid": "f58414b9-cd31-45f7-a456-c290d503cccd",
       "confidence": "0.7709137",
       "timestamp": 1387.02,
       "content": "plication asota that I would say you can argue and bud from the universe is perspective you would still say if you just happen to have",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "18916685-053f-4106-8f12-11679d887be9"
     },
-    "1395.85": {
+    {
       "requestid": "f35f0e5c-20a4-4ee5-9b83-e4c96dc40c6b",
       "confidence": "0.6966876",
       "timestamp": 1395.85,
       "content": "charles darwin at to university any happens right the origin of species in south azilian copies why wouldn't be worth a try to caplis I did it's very strange to me to be a it's true that most with academic do have no value",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "fa34e79e-e410-42cc-b6ce-2b0db7c22120"
     },
-    "1411.26": {
+    {
       "requestid": "68bfc4b4-f33c-4246-9d39-b859324ddf6a",
       "confidence": "0.7650195",
       "timestamp": 1411.26,
       "content": "but that doesn't to me justify the idea that on the rare occasion we do something with value you don't try to profit from it",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "a9a0c85d-daef-44d3-b0b8-5a4f86ab921a"
     },
-    "1419.92": {
+    {
       "requestid": "f7cb2c15-3057-4f99-806c-dd2fc44d80f3",
       "confidence": "0.6897041",
       "timestamp": 1419.92,
       "content": "boom boom boom boom",
-      "speaker": "S212"
+      "speaker": "S212",
+      "uuid": "c1893e31-498c-441e-a23b-902a8608fb15"
     },
-    "1428.79": {
+    {
       "requestid": "b079569b-3977-4681-9c6f-374ce374f053",
       "confidence": "0.6549565",
       "timestamp": 1428.79,
       "content": "celebrity ebony a big plans for next week",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "1e032fec-d1bc-4306-974c-d3c400596b73"
     },
-    "1432.8": {
+    {
       "requestid": "6dac8280-78a6-42aa-a530-beb536eeffc2",
       "confidence": "0.7217153",
       "timestamp": 1432.8,
       "content": "I think I'm gonna be hanging out with one my favorite author stephen dubner do in fenton",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "f58a5e95-fc80-447e-bb22-2d42307d4e5f"
     },
-    "1440.03": {
+    {
       "requestid": "844a015b-ea9d-4c37-a873-fe496c21666e",
       "confidence": "0.7568595",
       "timestamp": 1440.03,
       "content": "so think like a freak comes out on May 12th in lebet am talk to me but your frame of mind the of those days that say that enter 14 days that begin for may 12 and how excited you are about them in the book torrent talking endlessly about this thing",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "e0457b46-4586-4a93-b613-95711cc252fa"
     },
-    "1457.33": {
+    {
       "requestid": "fa8d78a7-a288-4beb-8da6-76361941e0d8",
       "confidence": "0.7037925",
       "timestamp": 1457.33,
       "content": "how can I do know how I hate george when you told me that we were gonna do you like 12 a book tour",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "1f8bf791-0b51-433e-9e39-d2bbcf501d4e"
     },
-    "1464.32": {
+    {
       "requestid": "bf64ea29-9ba8-4eb7-ad68-d7e56f6c1b20",
       "confidence": "0.6111436",
       "timestamp": 1464.32,
       "content": "machinima's be confused campus I can you stop by when I'm done and I said mess up my god I never read contract they never think of anything either enforceable in the more would like it",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "f3ddb9fa-24d7-40c3-9abe-c23c272fa81f"
     },
-    "1476.16": {
+    {
       "requestid": "26f586fd-394f-43ec-a568-09b3b31019a3",
       "confidence": "0.6219262",
       "timestamp": 1476.16,
       "content": "and when you tell me that I dot card why did navitas contract for me to sign up for it but I never would have agreed to 12 able to do you know I don't know why",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "8b397957-3729-4a5b-95d8-4c4a038f6396"
     },
-    "1486.11": {
+    {
       "requestid": "3292513b-a18d-4130-8efa-999aa2338371",
       "confidence": "0.5226799",
       "timestamp": 1486.11,
       "content": "what do something about book tours which undo me I just become dark",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "11498f3f-55d1-4781-9fca-57344e45e501"
     },
-    "1492.76": {
+    {
       "requestid": "de559dbe-1f65-4a07-8654-d701628aabce",
       "confidence": "0.7045975",
       "timestamp": 1492.76,
       "content": "suicidal something about wrapping around and being the center do you know how I hate to be the center of denton by after you had to be said I hate it I like to be in the shadows I like to be minding my own business and a half to be on and a smile and a botanical like people for that long is so taxing",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "db0eb4fc-483d-432e-b4c7-5172cfc47544"
     },
-    "1511.29": {
+    {
       "requestid": "0c9f5d60-4848-4dcf-a500-50ae281b626d",
       "confidence": "0.8140466",
       "timestamp": 1511.29,
       "content": "tell me a few correlation causality question hear you say it's all that stuff that makes you miserable you sure it's not just the fact that you have to be with me for 12 straight days",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "50576576-ce13-45c2-a067-cfe10604743f"
     },
-    "1520.47": {
+    {
       "requestid": "e61fbde6-3a15-4fba-91f0-76745882fe38",
       "confidence": "0.4418981",
       "timestamp": 1520.47,
       "content": "that bad too but dumb butt",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "8177a4c7-341a-4b52-bf94-c83045ad7c56"
     },
-    "1525.25": {
+    {
       "requestid": "77400f63-bda8-4ade-a494-9fa31c31f282",
       "confidence": "0.8595503",
       "timestamp": 1525.25,
       "content": "I think it",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "7e9da315-f6c2-48e3-b547-0a8002664a69"
     },
-    "1527.34": {
+    {
       "requestid": "6cb39d4c-9501-4587-9452-b033d0d42743",
       "confidence": "0.5187089",
       "timestamp": 1527.34,
       "content": "yeah that's probably a know you're right it's probably won't be with you",
-      "speaker": "S229"
+      "speaker": "S229",
+      "uuid": "90ed41b0-ac8f-49d6-aae4-f7c2cb67c89b"
     },
-    "1531.86": {
+    {
       "requestid": "a9283650-cd15-4e05-9a86-70582d163987",
       "timestamp": 1531.86,
-      "content": ""
+      "content": "",
+      "uuid": "988ad4c3-7e67-4940-b21c-e94436f10e3b"
     },
-    "1533.4": {
+    {
       "requestid": "63a5b0cd-51eb-486b-b00b-b8660aab998e",
       "confidence": "0.7633592",
       "timestamp": 1533.4,
       "content": "you think if you could go do it on your own edenhope dubner to cloud your mood and you could just go do 12 days cross us and uk that you'd be happy as a clam",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "b164fc50-1af8-4d1c-8802-dd108eed161d"
     },
-    "1546.04": {
+    {
       "requestid": "2dffad76-f67d-4efb-b52f-43f242f7537d",
       "confidence": "0.7080575",
       "timestamp": 1546.04,
       "content": "no action itnet no doubt they'll be worse is one of the great things that we worked out with you you love people I love did that works out great because",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "f16567c6-41bb-413e-8a8f-1981a818e9b4"
     },
-    "1553.94": {
+    {
       "requestid": "3db8b218-0335-45e2-af4b-70dd0c58403b",
       "confidence": "0.5976546",
       "timestamp": 1553.94,
       "content": "when were at the book signing that we do if I have your new job in the bubach if it is not dubner carry's on the incredibly witty fun conversations with percent percent percent and I'll have to do is smile time to book and it works out great I love that movie",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "30c54063-fd4a-466a-aa9d-3c4a8584061f"
     },
-    "1571.78": {
+    {
       "requestid": "f4667d9d-76cc-485e-803e-fec1f725a82e",
       "timestamp": 1571.78,
-      "content": ""
+      "content": "",
+      "uuid": "41305758-d030-43ba-88c7-b7d7a585f569"
     },
-    "1575.94": {
+    {
       "requestid": "718a0d69-6ff8-45ea-bec5-3c6451816292",
       "timestamp": 1575.94,
-      "content": ""
+      "content": "",
+      "uuid": "ecbcbeca-26d7-453f-bf68-25616d2bf201"
     },
-    "1579.83": {
+    {
       "requestid": "d7380764-c96a-4299-a7a7-2392d1da3168",
       "confidence": "0.7609313",
       "timestamp": 1579.83,
       "content": "hope you wanna come visit us at wanna be signing check out our schedule atfreakonomics.com slash events you can also post on twitter and facebook we will be in new york washington dc chicago san francisco los angeles seattle and then the hay festival in wales and in london",
-      "speaker": "S237"
+      "speaker": "S237",
+      "uuid": "8ae5b561-f5a6-4bfd-a0d6-f05e85a0e105"
     },
-    "1601.86": {
+    {
       "requestid": "96f52d72-68b2-42f8-840b-26d3eefdcb00",
       "confidence": "0.8660532",
       "timestamp": 1601.86,
       "content": "coming up on next week's podcast what are the 3 hardest words in the english language I love you you were right",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "0b27b428-b954-49d9-96d4-046dc9c56ddf"
     },
-    "1614.51": {
+    {
       "requestid": "3a27c8a1-f650-4668-aaad-b42dfaa52304",
       "confidence": "0.6397025",
       "timestamp": 1614.51,
       "content": "I don't know who",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "11554956-b7c8-4f4e-bea9-8fb0822b94be"
     },
-    "1618.28": {
+    {
       "requestid": "193ef4a3-d7df-456e-81ee-2c08888fb723",
       "confidence": "0.8068526",
       "timestamp": 1618.28,
       "content": "why learning to say I don't know when the best things you can do that next time I'm freakonomics radio",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "85893b7e-8498-454d-babe-91d643f6484d"
     },
-    "1630.02": {
+    {
       "requestid": "41034238-5217-40fa-9f1d-7e56bdccfba2",
       "confidence": "0.7166197",
       "timestamp": 1630.02,
       "content": "freakonomics radio is produced byWNYCN.net production our staff includes david herman greg rozalski credico nbra lamb susie lechtenberg in crispins in with engineering help from jim break",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "b2d2e671-1eeb-4137-9841-0bf3e9da957b"
     },
-    "1643.76": {
+    {
       "requestid": "b8eb7100-470d-43ee-8b3e-779f9b85e7f4",
       "confidence": "0.7785853",
       "timestamp": 1643.76,
       "content": "do you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio ablas the books and more",
-      "speaker": "S242"
+      "speaker": "S242",
+      "uuid": "af5f70f7-91e7-43cc-85f7-bf65a7dcfceb"
     },
-    "1664.57": {
+    {
       "requestid": "2c1d88ac-04c3-48d3-ae2c-0a63eb1e20a9",
       "confidence": "0.8701096",
       "timestamp": 1664.57,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "681613f1-397b-4c3a-abc1-27f38f904164"
     },
-    "1676.2": {
+    {
       "requestid": "f4b085c3-91d8-4255-83ea-8f57e879064d",
       "confidence": "0.7314379",
       "timestamp": 1676.2,
       "content": "will front you the software instead of retail locations are salespeople so it can offer sophisticat in bethany bisat lokos that were previously impossible",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "44304c70-d668-4142-ac71-ea80f67a3037"
     },
-    "1685.26": {
+    {
       "requestid": "02b3238f-ca8b-4fe0-aff0-94bb99b16c87",
       "confidence": "0.892123",
       "timestamp": 1685.26,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S106"
+      "speaker": "S106",
+      "uuid": "77a93519-8d4f-43a1-9ba6-718bf244481d"
     }
-  }
+  ]
 }

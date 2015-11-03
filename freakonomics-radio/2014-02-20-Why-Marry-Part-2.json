@@ -4,1078 +4,1234 @@
   "description": "<p>The consequences of our low marriage rate -- and if the old model is less attractive, how about a new one?</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/XDqJ06oowiQ/freakonomics_podcast022014.mp3",
   "slug": "Why-Marry---Part-2-",
-  "segments": {
-    "2.67": {
+  "segments": [
+    {
       "requestid": "cded054e-28ce-485b-a2ec-2d92062be6f4",
       "confidence": "0.7101325",
       "timestamp": 2.67,
       "content": "do in last week's episode we learn that there are a lot of different reason",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4707ce97-a2a9-4484-8b6e-60051275974a"
     },
-    "7.24": {
+    {
       "requestid": "a3f30d1a-332e-45e1-84ea-7cd7678fb180",
       "confidence": "0.6389489",
       "timestamp": 7.24,
       "content": "white people get married we get married because we love each other too have a family too but we continue with the addition",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "d75d17cd-2829-4d6b-995d-9bf4cc1c6d17"
     },
-    "14.11": {
+    {
       "requestid": "33e07607-82d1-4245-92ed-8cdf5c1c9f31",
       "confidence": "0.4873368",
       "timestamp": 14.11,
       "content": "I'm catholic song",
-      "speaker": "S203"
+      "speaker": "S203",
+      "uuid": "10a05e21-322d-4908-bf61-87c652c29509"
     },
-    "18.26": {
+    {
       "requestid": "3725a66f-df1f-4c1c-ac13-b54e503192f1",
       "confidence": "0.6662821",
       "timestamp": 18.26,
       "content": "in india it is a social thing to get married who is the vise it was expiring and so it was either pay for him to go out of the country to get a new visa or we can get married",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "ad7f3af3-7520-4e14-bea8-9be12bcc8e3f"
     },
-    "30.3": {
+    {
       "requestid": "c9b6b7c8-79f4-4ac8-bd20-6c0e86efe8ce",
       "confidence": "0.7959898",
       "timestamp": 30.3,
       "content": "we just finally decided it was easier chicken for",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "fb61b425-8113-4dcf-9223-cbd6e36d1ab0"
     },
-    "33.88": {
+    {
       "requestid": "0bfe4f7c-983f-42d1-8c9d-8524c8387eea",
       "confidence": "0.6215817",
       "timestamp": 33.88,
       "content": "in their lot of reasons why people don't get married",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "9dbb731b-cc3f-4799-a3e3-669d7e427091"
     },
-    "40.68": {
+    {
       "requestid": "09c9ed28-ece9-46c2-a5c8-67124e8d233d",
       "confidence": "0.5396124",
       "timestamp": 40.68,
       "content": "it's a big commitment doesn't make sense on st marriage",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "1375c756-dc46-4355-8396-38028150cfdd"
     },
-    "44.25": {
+    {
       "requestid": "18df0cd1-d5cb-43f8-aebd-262fc8b0d7df",
       "confidence": "0.6240111",
       "timestamp": 44.25,
       "content": "should've been single since free I think finding",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "bf3eacbc-a64f-4a3e-a6a3-fbf28c875be8"
     },
-    "47.38": {
+    {
       "requestid": "86c29569-ad68-4740-96d4-bbaca8b790ce",
       "confidence": "0.503672",
       "timestamp": 47.38,
       "content": "partners gamharia why people get married",
-      "speaker": "S85"
+      "speaker": "S85",
+      "uuid": "83813021-2b82-4944-b869-29dbd6fdaaac"
     },
-    "51.02": {
+    {
       "requestid": "17fe5683-6a54-4ac1-901c-f37e419b23ab",
       "confidence": "0.942956",
       "timestamp": 51.02,
       "content": "I have no idea",
-      "speaker": "S85"
+      "speaker": "S85",
+      "uuid": "ca09bee2-db5e-4324-8ffb-25f4376a9e05"
     },
-    "52.6": {
+    {
       "requestid": "cc437235-b692-4041-8cae-792677292b90",
       "confidence": "0.7804312",
       "timestamp": 52.6,
       "content": "and a lot of people ask me why I'm not gay marriage you beautiful in this and that",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "77c560ea-d873-4a6c-a6b7-c925f96598e9"
     },
-    "57.67": {
+    {
       "requestid": "76dbe6f7-8648-4c9a-9566-30a9cc543235",
       "confidence": "0.5925609",
       "timestamp": 57.67,
       "content": "it doesn't work with me",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "785f57f9-2fbe-4996-9814-239f6b8b0db1"
     },
-    "60.15": {
+    {
       "requestid": "b1f3c060-2324-459b-b649-985b71fab772",
       "confidence": "0.6528848",
       "timestamp": 60.15,
       "content": "which brings us to today spoke why mary part 2 in which we continue to bust the myth of modern marriage and flower at it to come up with a whole new idea",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "7e8f4d33-b470-4318-8661-471bf7f2c351"
     },
-    "74.36": {
+    {
       "requestid": "fce254b3-0fc2-4fc5-861a-0d58edc4d5dd",
       "confidence": "0.8052547",
       "timestamp": 74.36,
       "content": "when I was young I used to think that might be cool thing to do",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "54991e9e-f59c-4591-bb8d-dc942cf9b8c8"
     },
-    "77.74": {
+    {
       "requestid": "22e3bbfb-7b28-4c40-aff1-e0bc5be83a3c",
       "confidence": "0.7491335",
       "timestamp": 77.74,
       "content": "ah but I don't think that such a good idea",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "11172c81-136a-439e-886d-88110a5d8cd7"
     },
-    "80.77": {
+    {
       "requestid": "64661612-0da6-47db-9875-3c48cf9bd68b",
       "confidence": "0.6194444",
       "timestamp": 80.77,
       "content": "why so little and romantic to me to contractual demand",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "e5214f48-70f6-4568-80c2-da9e8a2b9f7e"
     },
-    "90.68": {
+    {
       "requestid": "2e923eec-5462-4f6d-91fb-95a3e2344384",
       "timestamp": 90.68,
-      "content": ""
+      "content": "",
+      "uuid": "8d602b8f-9a0f-4c90-a257-cd2fb04293d0"
     },
-    "99.05": {
+    {
       "requestid": "c38191e8-122b-496e-b69f-7795f453e834",
       "confidence": "0.6660565",
       "timestamp": 99.05,
       "content": "from wmic this is freakonomics radio podcast explored the inside of everything",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "bdb0dbde-2e4e-433a-8152-373120c99b11"
     },
-    "106.93": {
+    {
       "requestid": "44b9fd2a-3861-4187-890c-4d9a3176d54e",
       "confidence": "0.3601926",
       "timestamp": 106.93,
       "content": "here's your host dies in buckner",
-      "speaker": "S16"
+      "speaker": "S16",
+      "uuid": "ab7a69ca-8968-4157-800e-dfde2e1eab14"
     },
-    "118.43": {
+    {
       "requestid": "7a916cf7-01cd-477f-8076-c710a96e1566",
       "confidence": "0.8140669",
       "timestamp": 118.43,
       "content": "winner last episode we heard from the university of michigan economist justin wolfers about how marriage today is fundamentally different was 50 or 60 years ago",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d9c471db-c90d-4640-964e-84085f1a4e9c"
     },
-    "128.23": {
+    {
       "requestid": "b5cbfc65-9538-4977-9616-e9b7b77288ed",
       "confidence": "0.7466351",
       "timestamp": 128.23,
       "content": "it moved from the factory model with the husband is ceo in the wife is home maker in without a condom askole production complementarities",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "a57f7840-2b37-412e-b012-879745902c2e"
     },
-    "138.63": {
+    {
       "requestid": "f7e83f39-a701-41cd-984a-57f2c34e3b83",
       "confidence": "0.6682312",
       "timestamp": 138.63,
       "content": "do something else with me to go to costco consumption company tardis we have more time more money do you wanna spend it with someone you enjoy system with my interests and passions week old is the model to danick marriage but really love with million at this is just gonna miss getting a job in 9 to love",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "45267b5a-be9c-4a88-93da-06aa6ed564ec"
     },
-    "156.76": {
+    {
       "requestid": "fb51348b-158a-4af8-9da1-dd4e26a8fbc3",
       "confidence": "0.5597599",
       "timestamp": 156.76,
       "content": "do you want to monicas ramakrishan what do you have similar passions need to find a milli changes to marys who wrote to change how many people mary here's the harbor economist claudia goldin",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d8ad012f-91f4-4385-82a4-0d4016e74c86"
     },
-    "168.13": {
+    {
       "requestid": "13087934-d032-4671-a3f6-2a809137b068",
       "confidence": "0.648802",
       "timestamp": 168.13,
       "content": "marracci that's patient is on the decline in many different ways",
-      "speaker": "S29"
+      "speaker": "S29",
+      "uuid": "86d2641c-0afe-4e41-adad-df1e856099a5"
     },
-    "173.62": {
+    {
       "requestid": "7cf6384f-6e9a-4732-adb6-43277c448c7e",
       "confidence": "0.7750971",
       "timestamp": 173.62,
       "content": "that's right even know marriage is still more popular in the us in many wealthy countries our marriage rate than all time low ok so who is still getting married and who isn't",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "21131d33-020b-4268-99de-fb22a00db330"
     },
-    "186.38": {
+    {
       "requestid": "f8135062-7b9e-459c-9748-a9be8655a779",
       "confidence": "0.7588521",
       "timestamp": 186.38,
       "content": "ivory told saint peters counseling psychology at howard university and as a research analyst at the congressional black caucus foundation",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "92719028-fc87-4040-83be-cdb617e6a487"
     },
-    "194.8": {
+    {
       "requestid": "668561bb-2a27-4281-a60e-19ffffbf5c5b",
       "confidence": "0.669217",
       "timestamp": 194.8,
       "content": "people who are less educated turn to be married less than people who are more educated",
-      "speaker": "S33"
+      "speaker": "S33",
+      "uuid": "dd6d8688-9156-460a-aec8-5b779ec0fa73"
     },
-    "200.8": {
+    {
       "requestid": "1779d30c-49dc-4626-99f0-6519a32f8ecb",
       "confidence": "0.7737927",
       "timestamp": 200.8,
       "content": "people who have higher incomes are more likely to be married in those who have lower incomes of people in smaller cities are more likely to be married in people in larger cities I know it's true across all races",
-      "speaker": "S33"
+      "speaker": "S33",
+      "uuid": "5b31e864-8a54-40fc-b5bb-27e62308f0a2"
     },
-    "217.38": {
+    {
       "requestid": "dba1c633-f1fe-46aa-9258-3e368de9638a",
       "confidence": "0.809645",
       "timestamp": 217.38,
       "content": "so education and income or carla do with marriage rate between a piece of surprising considering with justin wolfers told earlier",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "83895f16-1358-4cff-9db0-51c80015dc8c"
     },
-    "226.2": {
+    {
       "requestid": "34cd89a3-6413-4048-b0e2-b18cbc5995c5",
       "confidence": "0.504885",
       "timestamp": 226.2,
       "content": "the grumpy the hot wing ploye a selfish where aulby falus like to be marriageable annapolis black american authors",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e1c39bb6-10f3-4a36-8906-03e18a56f312"
     },
-    "236.28": {
+    {
       "requestid": "22e54265-3c15-475b-96db-c4df066390a2",
       "timestamp": 236.28,
-      "content": ""
+      "content": "",
+      "uuid": "0b31d07b-2dee-4fde-a0a7-d20da19371c0"
     },
-    "239.59": {
+    {
       "requestid": "daadbd26-4dda-4624-af66-f50d540d91fe",
       "confidence": "0.6589118",
       "timestamp": 239.59,
       "content": "ok what other traits affect ameritrade's well",
-      "speaker": "S39"
+      "speaker": "S39",
+      "uuid": "b131f6a2-9ecf-49be-9409-dd9070706fbe"
     },
-    "244.12": {
+    {
       "requestid": "880c895c-59cd-4678-98ba-9fce7096117d",
       "confidence": "0.6432869",
       "timestamp": 244.12,
       "content": "religion still driving for stored marriage and is the us grows less religious that means less marriage this may also explain why western europe is even lower mardr ethan hours imma granstedt us",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0b8398c7-dbca-4935-9f0e-a36f26ea0067"
     },
-    "258.32": {
+    {
       "requestid": "2b8f8f06-11a9-4671-834e-4b19933a9a87",
       "confidence": "0.8066846",
       "timestamp": 258.32,
       "content": "first generation immigrants are more likely to mary they may be more religious are traditional banda us counterparts but his numbers dip dramatically for the second and third generation",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "50717144-0915-4643-9f61-4672d6183acc"
     },
-    "270.29": {
+    {
       "requestid": "b4e39de0-4a8e-446f-9381-e7e0c4706571",
       "confidence": "0.8117203",
       "timestamp": 270.29,
       "content": "what area were marriage is rising it's monday couple not surprisingly since same sex marriage is only recently been allowed since 2004 there been an estimated 71,000 same sex marriages in the us with many more expected so",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "56afe7ad-6cbb-4b23-ad85-a52d10beb344"
     },
-    "284.87": {
+    {
       "requestid": "3f859768-6aaa-4985-b10f-7b6849e49bb1",
       "confidence": "0.395015",
       "timestamp": 284.87,
       "content": "but it's huge number but upsurge nonetheless",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "da4c2faf-660e-40ef-8754-57ef816e0f2d"
     },
-    "288.36": {
+    {
       "requestid": "226f2d72-e676-4562-b58a-389cb3dc3cd8",
       "confidence": "0.7065525",
       "timestamp": 288.36,
       "content": "what about marriage rates by race what's the breakdown for men",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "10d920d3-191d-4012-a380-0332071260dd"
     },
-    "292.81": {
+    {
       "requestid": "97634784-cf2e-43c3-ba47-31813a1e018a",
       "confidence": "0.8005184",
       "timestamp": 292.81,
       "content": "roughly 59% of asian men in the us are married followed by white men 54% hispanic men at 45% and black men it is 36% loan number for black men is especially an issue for black women",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "23873342-2a2d-4f32-81db-ddfa5b27d5d4"
     },
-    "310.98": {
+    {
       "requestid": "24e7f661-5417-4873-8a0d-2f010613cf4c",
       "confidence": "0.7449567",
       "timestamp": 310.98,
       "content": "I am need a purse I am in need of baltimore in boy in grays lake mead and bruce i'm 32 I work for the government and I'm I'm actively dating in baltimore and washington dc",
-      "speaker": "S53"
+      "speaker": "S53",
+      "uuid": "0fea0d06-b5d2-4092-b4a6-89a04e4e3bf0"
     },
-    "325.29": {
+    {
       "requestid": "d6376625-40a0-486d-af3e-4c5db3862e8a",
       "confidence": "0.7203335",
       "timestamp": 325.29,
       "content": "people wanna know why you're single which is a crazy question coz you can't answer that time anyway know what your doing about it so I've done at",
-      "speaker": "S55"
+      "speaker": "S55",
+      "uuid": "f59175ee-3130-4c91-8e91-3dd51dadb627"
     },
-    "337.28": {
+    {
       "requestid": "cf13357b-336d-4d53-9ad8-a09eb2d6ece1",
       "confidence": "0.707958",
       "timestamp": 337.28,
       "content": "reading speed dating I did a lock and key partymix.com as an e harmony and of course friends love to set me up by call I know the perfect person for you everybody knows the perfect person for you",
-      "speaker": "S56"
+      "speaker": "S56",
+      "uuid": "d28c6dff-01ce-4e68-b549-901039b20f52"
     },
-    "351.52": {
+    {
       "requestid": "8722514a-bd1c-4e4c-a9d3-5ba446eca86e",
       "confidence": "0.6456314",
       "timestamp": 351.52,
       "content": "we have crews why she wants to get married",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "e608c0ac-60cc-4daa-a2b6-0b0a291347a6"
     },
-    "354.62": {
+    {
       "requestid": "4691b1d8-a68f-4fa1-b331-11ee2944f7a4",
       "confidence": "0.7764211",
       "timestamp": 354.62,
       "content": "for me marriage is important for a couple reasons I would love to have that bond with them when I think that that I know that that is the core of why I want to get married in also economically I wanna have kids and I don't wanna have kids on my own",
-      "speaker": "S59"
+      "speaker": "S59",
+      "uuid": "8d53e28e-1069-457a-90b7-948cca0ef0f9"
     },
-    "370.08": {
+    {
       "requestid": "0de81202-8d88-42a3-8136-deea57fd6c3a",
       "confidence": "0.7167614",
       "timestamp": 370.08,
       "content": "but she hasn't been having much success",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "24f59298-11d1-4f99-b439-85fe9eea6e1a"
     },
-    "372.4": {
+    {
       "requestid": "269879bd-f68b-4271-b20b-87891fefa483",
       "confidence": "0.8060128",
       "timestamp": 372.4,
       "content": "it's hard to find someone who's in the same playing field I mean someone who is this early of the same background but someone who a wants to get married hoobie is able to",
-      "speaker": "S56"
+      "speaker": "S56",
+      "uuid": "f6542f15-58f2-4e36-a4f2-9c210be487c8"
     },
-    "386.06": {
+    {
       "requestid": "08fe2e5d-209a-472a-89ae-d52755d94138",
       "confidence": "0.7993549",
       "timestamp": 386.06,
       "content": "I get married it will be in a relationship a healthy relationship when it be financially physically or mentally even spiritually",
-      "speaker": "S56"
+      "speaker": "S56",
+      "uuid": "ddfe297d-4259-42e7-bcd8-6042aba46ab3"
     },
-    "396.38": {
+    {
       "requestid": "1010e6a5-a9f9-4a88-aea0-e1b9afc025be",
       "confidence": "0.8302686",
       "timestamp": 396.38,
       "content": "is important to me to date with in my way up I think there's a lot of pressure I would be open to dating outside of my race but I think there's a lot of pressure",
-      "speaker": "S59"
+      "speaker": "S59",
+      "uuid": "a6d88634-d6fa-4a9e-8987-15d3e4348d28"
     },
-    "407.23": {
+    {
       "requestid": "5d99c0f8-0ca0-4436-bc8a-e7eaae2b411d",
       "confidence": "0.7345504",
       "timestamp": 407.23,
       "content": "nina bruce is worried about the availability",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "cf9e4bd3-4bf2-428b-8dbe-11a8a414385b"
     },
-    "410.29": {
+    {
       "requestid": "a27438b1-f53b-4df0-a003-885bb025e200",
       "confidence": "0.73869",
       "timestamp": 410.29,
       "content": "I'm eligible black men to marry ivory told to the howard school are we heard from earlier",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c760a76d-028e-4075-b087-b0974e706985"
     },
-    "415.07": {
+    {
       "requestid": "96dc3187-70a4-4a2b-9311-81226411af6f",
       "confidence": "0.8328716",
       "timestamp": 415.07,
       "content": "who is the black men are over represented in the categories associated with not being married lower income education in living in bigger cities but tolten also says that the ratio of available black men to women in the us is not as cute as most people",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "2ff27287-00f2-41f7-bd64-191ed43a9162"
     },
-    "431.98": {
+    {
       "requestid": "17d0d218-aabc-4108-a29e-69e27c2673e4",
       "confidence": "0.6568798",
       "timestamp": 431.98,
       "content": "do you have about 100 thousand more black women with elisa basoda ribandar black men by there are more black",
-      "speaker": "S70"
+      "speaker": "S70",
+      "uuid": "ea82c81a-cc52-4d04-a41c-b24b125ba2e3"
     },
-    "440.32": {
+    {
       "requestid": "f2e64c45-345d-4a04-a4ce-d7de08cf10c4",
       "confidence": "0.7696703",
       "timestamp": 440.32,
       "content": "I'm in about a 300,000 more black men who have incomes about $75,000 in black women",
-      "speaker": "S71"
+      "speaker": "S71",
+      "uuid": "7deea9ce-24ea-4986-a6b5-7fd7562a5c93"
     },
-    "448.35": {
+    {
       "requestid": "d11ba2b1-8d11-440a-8207-4501ac4a77ea",
       "confidence": "0.7633135",
       "timestamp": 448.35,
       "content": "holdson analyze data from atlanta in washington dc",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "dbef4411-0a53-4eb5-b601-6c926596d546"
     },
-    "452.59": {
+    {
       "requestid": "64c7ad4f-e3d3-43b2-a673-fe510df3c5b7",
       "confidence": "0.7181377",
       "timestamp": 452.59,
       "content": "both of these cities are are seen as your calidis macko's of progressive black people and so there is a lot of talk about you know the ratio you know what is the ratio of black women the black man in the cities and are you typically here",
-      "speaker": "S73"
+      "speaker": "S73",
+      "uuid": "3f384bf7-5386-4e3e-a3a4-1f5efc2e4c47"
     },
-    "471.09": {
+    {
       "requestid": "10bf2b69-1711-444b-bf24-c36f04ea627b",
       "confidence": "0.7032461",
       "timestamp": 471.09,
       "content": "things like 12 to 1:15 to one I if you all want to either one of these cities in jazak someone randomly on the streets you know what the ratio of black women for black men in the city I guarantee you unless they read my research they would say something about 10 to one",
-      "speaker": "S71"
+      "speaker": "S71",
+      "uuid": "2970111a-4473-4ee3-8f13-49ac7af8ee69"
     },
-    "492.03": {
+    {
       "requestid": "02b54320-86e4-4b58-9f94-cfc458d62467",
       "confidence": "0.5454845",
       "timestamp": 492.03,
       "content": "do guarantee if I will take a map quest a bunch",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "24aa48fa-b27c-4ef4-9ace-f6647c4f0cb3"
     },
-    "496.27": {
+    {
       "requestid": "4fc4c186-5348-46af-b0b5-6948f9286ce0",
       "confidence": "0.8247817",
       "timestamp": 496.27,
       "content": "people in atlanta how many marriageable black women there are for every black man",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "64309db6-f397-45a4-807d-5fd27cddbf68"
     },
-    "501.78": {
+    {
       "requestid": "9fb7aee3-dcd4-4d32-8ab1-4f3f432a5282",
       "confidence": "0.7256103",
       "timestamp": 501.78,
       "content": "ratio of black women to black men I don't know I'd say probably",
-      "speaker": "S203"
+      "speaker": "S203",
+      "uuid": "a2649882-2ca1-464a-8d5a-3135af7f45b8"
     },
-    "506.41": {
+    {
       "requestid": "924ed1a1-b9f1-43e5-ad94-1dc9ed06e532",
       "confidence": "0.3878021",
       "timestamp": 506.41,
       "content": "free one of those lottery",
-      "speaker": "S203"
+      "speaker": "S203",
+      "uuid": "0ac3290c-76c6-422c-b183-cac559330697"
     },
-    "510.93": {
+    {
       "requestid": "625d5eda-3ac1-4f17-9d49-0133ed670e50",
       "confidence": "0.6649455",
       "timestamp": 510.93,
       "content": "women furby one",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "80e24805-9d2d-4be8-89c3-6a71c7dfd192"
     },
-    "514.6": {
+    {
       "requestid": "1c6372fd-f143-4337-b579-a7686d62ee10",
       "confidence": "0.7248379",
       "timestamp": 514.6,
       "content": "I found a lot of women here have got to the point where they dated so many guys are like I've been sleep over so many times it would hurt to try babe",
-      "speaker": "S83"
+      "speaker": "S83",
+      "uuid": "006443fa-7bf2-442d-bc75-4e094217427c"
     },
-    "522.45": {
+    {
       "requestid": "d71fa7dd-41e4-4c69-b6f0-5ed23621f786",
       "confidence": "0.6423764",
       "timestamp": 522.45,
       "content": "female I think people started acting carcer ation is having a big factor in it as well and maybe even you know um people not being employed",
-      "speaker": "S85"
+      "speaker": "S85",
+      "uuid": "5a96c9c9-ad53-4748-9a8d-0dede4f43b0a"
     },
-    "533.82": {
+    {
       "requestid": "9ff2f2c3-018b-4123-818e-2e22ef1c1c43",
       "confidence": "0.6484504",
       "timestamp": 533.82,
       "content": "ok then here's ivrit oldsen with the real answer",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "9408462a-3c36-4a6e-9b7e-d4acaef15c61"
     },
-    "538.47": {
+    {
       "requestid": "bff883ab-3212-4599-8e63-2e782a42da42",
       "confidence": "0.6798276",
       "timestamp": 538.47,
       "content": "so the true ratio in both of the city this 1.3 to one",
-      "speaker": "S70"
+      "speaker": "S70",
+      "uuid": "9c70e831-9371-4197-aa80-7967b3b43be2"
     },
-    "543.76": {
+    {
       "requestid": "e6f0c6ec-d3b6-4433-a185-5a642fae1287",
       "confidence": "0.7395393",
       "timestamp": 543.76,
       "content": "I meant of course if you get into the educa the population go see the ratio I give you more if you and it goes up to about 1.81 in atlanta in 1.5 to one in washington dc",
-      "speaker": "S70"
+      "speaker": "S70",
+      "uuid": "aa0a5acf-9312-4b4c-9b75-d5f369435a52"
     },
-    "560.38": {
+    {
       "requestid": "90157886-9bb4-42f3-a04d-d6d984566ac1",
       "confidence": "0.6037266",
       "timestamp": 560.38,
       "content": "do it if you're young black women are you bored a",
-      "speaker": "S70"
+      "speaker": "S70",
+      "uuid": "081dca99-7804-417e-9645-1b4888a74eb1"
     },
-    "564.91": {
+    {
       "requestid": "d855c444-3ab9-44d4-8ce3-2b2aa82464f5",
       "confidence": "0.6685005",
       "timestamp": 564.91,
       "content": "educated black man dies corrected ratios may give you some comfort buy in real time it still can be a challenge",
-      "speaker": "S70"
+      "speaker": "S70",
+      "uuid": "1f037e6e-6d44-4a0e-8073-0d6f76790524"
     },
-    "573.5": {
+    {
       "requestid": "270cd842-55b1-432e-8a56-7039044dff18",
       "confidence": "0.7428071",
       "timestamp": 573.5,
       "content": "yum I'm not trying to put my brothers out there by I know that some successful black man who are exposed to information like there's a 50 to one ratio in the city that you live in day become left camille in relationships are more restrictive",
-      "speaker": "S71"
+      "speaker": "S71",
+      "uuid": "995d3639-e701-4297-a101-42b598887384"
     },
-    "593.46": {
+    {
       "requestid": "6952c78e-39aa-4b2d-94e7-8312518bfefe",
       "confidence": "0.7321295",
       "timestamp": 593.46,
       "content": "in what they believe they deserve",
-      "speaker": "S71"
+      "speaker": "S71",
+      "uuid": "43153b95-2417-4d6f-af26-8ed62d02cd92"
     },
-    "596.97": {
+    {
       "requestid": "ec54ef57-e3b9-4ba6-acdb-e0ec649c63e7",
       "confidence": "0.6935563",
       "timestamp": 596.97,
       "content": "this is certainly not true of all by need of which is looking at the entire landscape in and how loud this information could be misused that there is a tendency for some info exploit the data",
-      "speaker": "S71"
+      "speaker": "S71",
+      "uuid": "cab7e48e-6dea-4d35-8627-51ab1f549f01"
     },
-    "611.46": {
+    {
       "requestid": "300b93c0-b8f6-4d84-937e-8335d6ceda14",
       "confidence": "0.5978428",
       "timestamp": 611.46,
       "content": "boom boom boom boom boom boom boom boom boom boom boom",
-      "speaker": "S99"
+      "speaker": "S99",
+      "uuid": "5036c523-fe33-4b5a-b452-7bf0a4f670e5"
     },
-    "619.65": {
+    {
       "requestid": "e24d7942-49eb-47a7-b43d-211e4a436b23",
       "confidence": "0.7312868",
       "timestamp": 619.65,
       "content": "do as you can see me whenever you look at one big story about marriage there dozens of small ones lurking just beneath and yes we have more of those stories coming up on freakonomics radio if the marriage rate is so low that mean the birth rate is also low",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b7903652-61de-467e-801c-ec0bfc7799ac"
     },
-    "637.91": {
+    {
       "requestid": "096bc6c6-f2ac-48cc-9c29-cdfce05ce325",
       "confidence": "0.5047697",
       "timestamp": 637.91,
       "content": "interest 6 years",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "30f136ca-4e0b-460c-acef-1dc0f9da4573"
     },
-    "640.13": {
+    {
       "requestid": "f6a92f29-3533-4a16-b402-c889d7f11683",
       "confidence": "0.6843393",
       "timestamp": 640.13,
       "content": "after we can you are in class of countries to be the children of single moms",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "e2b50908-5841-496b-8cda-c110f54349bb"
     },
-    "644.0": {
+    {
       "requestid": "9a2afd13-3dde-45ca-8757-8846fd698f15",
       "confidence": "0.7018397",
       "timestamp": 644.0,
       "content": "and if the whole bottle of marriages in the track",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "df6649fa-1666-4bb0-b12b-e2efb48d387b"
     },
-    "647.47": {
+    {
       "requestid": "cbbb754d-0332-416a-9e06-08e37324373d",
       "confidence": "0.6931112",
       "timestamp": 647.47,
       "content": "open a new one what you're describing is a move away from one size fits all contracts written by the church to a couple sitting down and writing are in contract",
-      "speaker": "S105"
+      "speaker": "S105",
+      "uuid": "cd0d4edc-d918-4b13-91fe-eb076be54fe9"
     },
-    "668.09": {
+    {
       "requestid": "02bc6fab-13ab-49a7-b545-3fa27e988380",
       "timestamp": 668.09,
-      "content": ""
+      "content": "",
+      "uuid": "e63420e2-5d55-4891-a2e3-78eab132d87d"
     },
-    "670.64": {
+    {
       "requestid": "64e90c6d-ae1e-4fcd-a80e-d19f0ccf8f74",
       "confidence": "0.8448111",
       "timestamp": 670.64,
       "content": "freakonomics radio is supported by citrix go to meeting designed to be a fast and simple way to meet and collaborate with clients and coworkers online",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "ea47b40f-951e-42d4-b2a2-2fb504f2fe61"
     },
-    "679.49": {
+    {
       "requestid": "5c58aeb9-903c-4821-9f9b-9f78c40869bf",
       "confidence": "0.7981952",
       "timestamp": 679.49,
       "content": "go to meeting with users share screens change presenters",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "81a4b40a-f573-435a-b924-5c4714e25c8d"
     },
-    "683.16": {
+    {
       "requestid": "a34fb5c8-038d-43b0-bf6b-1d58dd9c7c68",
       "confidence": "0.8701211",
       "timestamp": 683.16,
       "content": "in turn on their webcams for high definition video conferencing go to meeting allows teams to stay connected from wherever they are at anytime using any computer mobile or tablet music go to meeting.com and click on that riot free button for a free 30 day trial",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5d794ae6-cdcb-4816-9d2a-6c4c403d0e90"
     },
-    "701.2": {
+    {
       "requestid": "05ce63cb-40f8-48d3-b80c-af9cf3646cdc",
       "confidence": "0.7557453",
       "timestamp": 701.2,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "3a42daad-9329-4ab5-b7fa-6278647bd27e"
     },
-    "710.21": {
+    {
       "requestid": "9566db8e-f1ee-4cf4-968d-94eb292643ae",
       "timestamp": 710.21,
-      "content": ""
+      "content": "",
+      "uuid": "0c46e7af-2029-4295-835a-1da50adaab17"
     },
-    "713.4": {
+    {
       "requestid": "ba1555fd-b213-4830-a4f4-df42d784a087",
       "confidence": "0.7500134",
       "timestamp": 713.4,
       "content": "as we've been hearing today marriage has many qualities and therefore miniconf which means a politician will inevitably find something to say about it who is marco rubio republican us senator",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b804c106-9023-4313-b48a-62632248cc83"
     },
-    "727.24": {
+    {
       "requestid": "52da650e-aeb1-432d-9c88-5267bad0215d",
       "confidence": "0.601684",
       "timestamp": 727.24,
       "content": "floors greatest tool to let people in the children and families from poverty is one that decreases the probability of child poverty by 8",
-      "speaker": "S117"
+      "speaker": "S117",
+      "uuid": "bbc048c7-169d-452a-b39f-cf4801cb4a3d"
     },
-    "738.09": {
+    {
       "requestid": "4ee2bb95-fc89-42ff-9df4-375c7840f29d",
       "confidence": "0.5059189",
       "timestamp": 738.09,
       "content": "2% fat is in a government program called marriage",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "34234bcb-10dc-46e8-ab24-d1f8e1782687"
     },
-    "745.26": {
+    {
       "requestid": "e96c84ad-1084-4d75-8774-4d2f4de8cb17",
       "confidence": "0.7631196",
       "timestamp": 745.26,
       "content": "is marriage really a property fighting tool probably not as much is rubio says yes higher income is carly did you hire marriage rate but is justin wolfers told earlier a lot of the good things about mary people are because of the people who choose to get married not to the marriage itself",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "adb7ce8d-d92b-40ef-b1e3-3b3a8849cfb6"
     },
-    "764.62": {
+    {
       "requestid": "a1c67219-3a59-414a-8916-f328f92f9a1c",
       "confidence": "0.7439573",
       "timestamp": 764.62,
       "content": "vet said you can see why politicians care so much about marriage for one",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7468ab40-0e3d-4a22-ad5c-5b25042a0c1d"
     },
-    "770.89": {
+    {
       "requestid": "0f2f00d8-ad88-4e3f-9d2f-46dce28a60fb",
       "confidence": "0.7099157",
       "timestamp": 770.89,
       "content": "bing unmarried women art wooden the most democratic voting constituency groups now in the country",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "766ff523-1fa1-44bd-8adc-3ede67ec29ca"
     },
-    "778.3": {
+    {
       "requestid": "dc83ab7d-f2e9-4d48-9807-c9499a90ddc9",
       "confidence": "0.7714702",
       "timestamp": 778.3,
       "content": "what's up and awake she's a democratic pollster and strategist josek over the book called what women really want is also in her own words one of the political worlds most avid whitewater rafters",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "28da1e0c-774e-4bf1-a833-ba7ce1a72472"
     },
-    "789.65": {
+    {
       "requestid": "3a491cd3-bca8-454d-9b2e-fb5499db55f3",
       "confidence": "0.8073322",
       "timestamp": 789.65,
       "content": "it's very relaxing really fun and we often do it in glacier national park which is my favorite",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "2d68da9f-7af7-408c-a8c3-5073f1edefbf"
     },
-    "797.97": {
+    {
       "requestid": "5a5ca3a0-95fe-434b-987f-25ace8c2dbf9",
       "confidence": "0.6869629",
       "timestamp": 797.97,
       "content": "lakes is the men who are married with their boats between party's over the dulene democrats for unmarried women are almost the democratic voting block a diverse block yes",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "d8895443-cac6-485e-bf93-21943307b351"
     },
-    "809.55": {
+    {
       "requestid": "70e3cc96-e66a-4799-ab46-ecb8f5d9132b",
       "confidence": "0.8361142",
       "timestamp": 809.55,
       "content": "young and old rich and poor right now they make up about a quarter of the voters in the us but they don't turn out like to marry counter",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "5cf71064-b954-4884-b6fb-242e0f4190ee"
     },
-    "819.75": {
+    {
       "requestid": "c14dc973-38be-4e50-a073-a28b794c20ab",
       "confidence": "0.7958012",
       "timestamp": 819.75,
       "content": "we haven't talk for example of that 22000000 missing boaters 22000000 unmarried women out there",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "03a197d7-6aa8-42f3-b24d-1b1c5bb617a2"
     },
-    "827.06": {
+    {
       "requestid": "82a5571f-0b54-4837-ac9a-5644674fe7d9",
       "confidence": "0.7601348",
       "timestamp": 827.06,
       "content": "who don't vote and so the question is is they came in and when they come in they can really determine what happens all we can easily say that there in a frozen unmarried women could easily determine which party will control the hassle which party controls the",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "a9f45982-566a-4a39-8698-dea03d730e99"
     },
-    "845.99": {
+    {
       "requestid": "d2b296cc-1fcd-420b-bebd-1480e171e85b",
       "confidence": "0.6211393",
       "timestamp": 845.99,
       "content": "married women meanwhile I'm not nearly as monolithic although there's a wrinkled bareboating patterns too",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "b74623e8-bff4-4c83-b33b-0f93e7f6d11d"
     },
-    "853.48": {
+    {
       "requestid": "b2066d80-128d-4c33-aa63-8c67f694e2ad",
       "confidence": "0.7215086",
       "timestamp": 853.48,
       "content": "we ask married man and married women do you say about the same way as your spouse and 73% of married men said confidently <profanity>ass</profanity> and 49% of married women said yeah and I call that the sure honey factor",
-      "speaker": "S104"
+      "speaker": "S104",
+      "uuid": "f244cefb-ea5f-4a3d-b094-318066a812a6"
     },
-    "869.46": {
+    {
       "requestid": "406cf4f6-aad0-4275-9c2f-5aa7ad7c8bd4",
       "confidence": "0.7292641",
       "timestamp": 869.46,
       "content": "cylinda lake have noticed one other marriage friend really an unmarried trend is more dramatic than any of this is the number of unmarried women who are having kids",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8a4f6a53-c560-4e03-b52a-454ca06216cf"
     },
-    "880.88": {
+    {
       "requestid": "0fc47411-61af-42ec-8f46-29b28cc66336",
       "confidence": "0.7323012",
       "timestamp": 880.88,
       "content": "in 1980 18% of earth rhedin married women in today's 42% and that is that is a change from within half of my life time in jusic cheers happens every can you are in class is country is gonna be the children are single moms",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "5bda3047-3c33-4e7a-b5d6-cb64cb72618b"
     },
-    "898.61": {
+    {
       "requestid": "95fd94b5-2676-4c4e-ad2f-c316727d2d2c",
       "confidence": "0.8435919",
       "timestamp": 898.61,
       "content": "this inevitably has political consequences and economic consequences",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "7308167f-6544-4170-81c1-6c1c4ae232f0"
     },
-    "903.7": {
+    {
       "requestid": "f272a17c-9057-4e65-8f5b-09727e9fee3c",
       "confidence": "0.7787704",
       "timestamp": 903.7,
       "content": "2 thirds of unmarried women say that there was some basic cost of the head and their families that they could make ends meet in the lation they can pay the bill from here to 40% of married mothers",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "f78373fe-819c-4dc6-9590-85edfb1a2413"
     },
-    "917.44": {
+    {
       "requestid": "30791096-5ebf-4abb-a862-26c788ac1246",
       "confidence": "0.7680598",
       "timestamp": 917.44,
       "content": "the whidbey's unmarried mothers necessarily be better off if they were married to cylinda lake the answer is not so clear",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "0618f57f-f489-4a83-b4c8-f1ab33982011"
     },
-    "926.16": {
+    {
       "requestid": "69a91222-df63-4b6f-a783-860ced30ee87",
       "confidence": "0.644899",
       "timestamp": 926.16,
       "content": "does poverty produce bing unmerry torjussen married produce poverty is a bit of a circular phenomena's but it is still very much true",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "f875efd3-a81e-4ae7-be8f-72b8cbf9c732"
     },
-    "935.89": {
+    {
       "requestid": "be44adcc-afb0-41cc-bc66-bcd14ffb03e4",
       "confidence": "0.6754231",
       "timestamp": 935.89,
       "content": "that poverty the pressures of poverty are producing more single families I'm near the very provocative article that was written said what single moms need is not marriage more child care when immediate",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "81f9c512-af6a-4ff0-b8b5-f363ab938055"
     },
-    "951.26": {
+    {
       "requestid": "33f00957-16ad-4833-a572-d3ea73c3729a",
       "confidence": "0.7721627",
       "timestamp": 951.26,
       "content": "teacher we just need a very very different structuring of our social services for instance I think it's the question that hasn't been thought through very much at all and I need that we don't have a legal structure societal structure political structure really ready to deal with this phenomenon",
-      "speaker": "S123"
+      "speaker": "S123",
+      "uuid": "10d9120b-6f0d-4bc4-b5e8-ec8e36ce66e9"
     },
-    "970.11": {
+    {
       "requestid": "37bfabe0-418f-409c-a2af-3afee229dbd5",
       "confidence": "0.667834",
       "timestamp": 970.11,
       "content": "boom boom boom boom boom boom boom boom boom boom",
-      "speaker": "S153"
+      "speaker": "S153",
+      "uuid": "6c59d7db-b2a9-492b-90c9-723f309885e6"
     },
-    "982.57": {
+    {
       "requestid": "dc97353a-e656-45b4-bba3-1aa2986eaab9",
       "confidence": "0.7530531",
       "timestamp": 982.57,
       "content": "sinoway all the answers about marriage be back to the same question",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "caf80f35-3d41-4696-97c6-9fbf22e54984"
     },
-    "987.73": {
+    {
       "requestid": "536f5cb1-3913-4764-8884-a09266725f3a",
       "confidence": "0.7911212",
       "timestamp": 987.73,
       "content": "is it good for it as an institution does it make us happier healthier wealthier more stable in all the ways that we deem important fact is back question pretty hard answer the people who are more successful and all these levels are more likely to be married but",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "de5d88cb-4464-4b8b-a63e-01f1598bc58d"
     },
-    "1007.09": {
+    {
       "requestid": "31b76052-ebc1-4701-8f55-c55dfc7edf04",
       "confidence": "0.723875",
       "timestamp": 1007.09,
       "content": "we can say with any certainty weather marriage itself",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "752115fc-30bb-4c8d-8613-ba3de649d4d9"
     },
-    "1009.77": {
+    {
       "requestid": "ccb7cddb-88f7-449e-85f5-748f1d58b195",
       "confidence": "0.6098559",
       "timestamp": 1009.77,
       "content": "is responsible for 10 for minute but it is marriage regardless to put up a dispensary makes is better off if that's the case the downward trend in marriage szabads nice reverse",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "1087efc2-932c-4e7b-bde1-e8d5cd48873e"
     },
-    "1025.32": {
+    {
       "requestid": "fbdb1a81-c250-4b5e-95a9-ef4f6e9a7bf3",
       "confidence": "0.7057595",
       "timestamp": 1025.32,
       "content": "one berrier tomaric maybe it's such a big commitment permanent come in at least in theory what is it worth what if you could change the terms of a marriage we went back to our marriage act",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8c70d444-bcc1-4d31-a639-a5df3bb13d0a"
     },
-    "1043.67": {
+    {
       "requestid": "2aea8de6-cdde-4092-929e-2d25158382d7",
       "confidence": "0.7614641",
       "timestamp": 1043.67,
       "content": "I just in wanna squish let me ask you this episode came about in part because of an email we received from a",
-      "speaker": "S163"
+      "speaker": "S163",
+      "uuid": "45cbc515-d3d2-4412-82d8-6205a6f285eb"
     },
-    "1050.33": {
+    {
       "requestid": "f20aa940-e7d8-4a33-a57b-67cde52e36e5",
       "confidence": "0.688625",
       "timestamp": 1050.33,
       "content": "a listener who who",
-      "speaker": "S163"
+      "speaker": "S163",
+      "uuid": "7da38989-5de2-4f0b-8cf2-8fff8b257fc0"
     },
-    "1052.36": {
+    {
       "requestid": "09cec0ca-6733-4509-9f03-be4e22e2e5b6",
       "confidence": "0.7932932",
       "timestamp": 1052.36,
       "content": "great let me know I'll review one paragraph of his note for bed last 6 years he says I've been developing a theory about how marriage should be legal social contract I feel bad legal marriage not married by the church should be treated more like employment agreements these court marriage contract should bring with them term",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "62d2d3ad-88c3-4884-a118-6aa5a0812e2f"
     },
-    "1070.08": {
+    {
       "requestid": "0804f824-2b2d-4419-867a-23eeda9bcff6",
       "confidence": "0.8010256",
       "timestamp": 1070.08,
       "content": "it ranges from 3 to 5 years the terms of the contract will be de'bella by both parties but I feel that they should include things like expectation key areas of responsibilities and someone he goes on a bit for why this is so I'm",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "f4c89899-2518-4056-95b9-3af053833210"
     },
-    "1082.31": {
+    {
       "requestid": "dc771138-cf08-4a68-88b5-8fcfd94d0af5",
       "confidence": "0.836937",
       "timestamp": 1082.31,
       "content": "I'm just curious how do you think an idea like that might work with it defeat the very purpose that most people are seeking in a marriage would enhance",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "4b475124-d6fe-4a79-b300-4bbf024fa3eb"
     },
-    "1094.07": {
+    {
       "requestid": "dc8663e2-432a-4d05-a4b6-900bc9c1cbe3",
       "confidence": "0.8016376",
       "timestamp": 1094.07,
       "content": "the strength of marriages that are good with it strengthen and release marriages are bad what do you think",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "eba8626f-b779-4f46-83dc-e9ade5c31251"
     },
-    "1101.71": {
+    {
       "requestid": "a2bd8891-3228-424f-acf8-718aec048a87",
       "confidence": "0.55998",
       "timestamp": 1101.71,
       "content": "sweet thing for the car inspected",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "5bddf22e-9854-4747-a738-81d83b35c3b1"
     },
-    "1104.69": {
+    {
       "requestid": "a18afef1-53b2-45d4-a79c-680960fc8b19",
       "confidence": "0.7222354",
       "timestamp": 1104.69,
       "content": "if what you're describing is a move away from a one size fits all contracts written by the church to a couple sitting down and writing are in contract I'm deciding what features of tickling put into them and what they wanted",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "22ed31cb-2195-46b6-9586-8c9014d044eb"
     },
-    "1117.93": {
+    {
       "requestid": "02344ac5-f3d6-40e9-9760-c5949ab3f371",
       "confidence": "0.5386896",
       "timestamp": 1117.93,
       "content": "promise to jana I'm moving from all from one product on the shelf trishna marriage too many potential to be a marriage and we gotta be there in 7 to see you little better um will you think that increasing choice I can make do better off",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "ffe667e0-f948-4c10-be22-1008bdcaffb1"
     },
-    "1135.91": {
+    {
       "requestid": "1176a117-56cf-4c25-a702-e536c4975d78",
       "confidence": "0.7325624",
       "timestamp": 1135.91,
       "content": "no justin wolfers in his partner betty stevenson big did drop a marriage contract it's spelled l terms of their finances inheritance hospital visitation rights issues related to their 2 kids is your contract with betsy um renewable or is it for",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "065bed58-24d8-4f19-bb28-a3f8c9f71335"
     },
-    "1155.83": {
+    {
       "requestid": "d9fea812-f7f2-4e9a-9abd-8a960f538435",
       "confidence": "0.5366012",
       "timestamp": 1155.83,
       "content": "the long run it's better than I should research ulish message if you that mad contrac should be outta here all day every 3 to 5 years right",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "a5dab5c4-09f6-455d-862b-0dde0eb10fc2"
     },
-    "1163.53": {
+    {
       "requestid": "823059ea-ba55-4528-8c67-3fa91f4da7c3",
       "confidence": "0.5776432",
       "timestamp": 1163.53,
       "content": "that's the power is nick honest I think what is suggesting seize removing frame contract even longer periods in a taxi turbide to think that I'm a simple message make it a couple you wanna go to business school",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "db7eeb6f-d368-490f-8b7c-bff3af359100"
     },
-    "1176.5": {
+    {
       "requestid": "b001ba56-c069-4da2-825b-801eb76ffd4d",
       "confidence": "0.6733173",
       "timestamp": 1176.5,
       "content": "and you want me to support you doing that",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "e377c68c-3bac-46e6-9e9e-65feb1c02ba2"
     },
-    "1179.84": {
+    {
       "requestid": "6b6fb2e6-4bf3-4975-95d4-faf3c917dcf8",
       "confidence": "0.655381",
       "timestamp": 1179.84,
       "content": "yeah I'm willing to do that but you know the payoff to me from doing that comes into new stanton",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "c892d707-d7cf-4c43-93d7-6af59aca97e0"
     },
-    "1184.74": {
+    {
       "requestid": "f8866223-1a33-4807-935a-ead3beb1bec9",
       "confidence": "0.7213962",
       "timestamp": 1184.74,
       "content": "today anyway we gonna be able to get to play sweet I will support you through business school will be <profanity>fucking</profanity> right and you can try it but you think you want to write contract with rayshon it is that I am make more sense to them now we need to also be aware that people are",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "f5c43344-1b14-4584-9165-418952c602b6"
     },
-    "1200.58": {
+    {
       "requestid": "4e63cf88-5395-4c12-9d40-9aa2a69efb70",
       "confidence": "0.6564433",
       "timestamp": 1200.58,
       "content": "at cycling to buy this is my friends by joe joe mixon right about that and sometimes we filed understand if you too well enough",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "c0b596ba-dc5f-4785-90e6-5a8436b8cf5d"
     },
-    "1206.95": {
+    {
       "requestid": "93d216b1-8f17-4163-bb74-a88549d540ba",
       "confidence": "0.6708777",
       "timestamp": 1206.95,
       "content": "250 get a contract on this day near in limitations but um is certainly a few that things like supporting telescreens or the major investment to make 3 children that we wanna be able to make much much longer I'm commitments than just 3 to 5 years",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "bc7027be-b832-4980-afcf-9464ecba2724"
     },
-    "1224.06": {
+    {
       "requestid": "52adf27c-f396-467c-99f0-4627f2566a5e",
       "confidence": "0.812978",
       "timestamp": 1224.06,
       "content": "on the other hand if the problem with a failed marriages that failed then a contracted marriage whose contract expires is not renewed is not a failure we did not mean in bengta that",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8dbeaa87-54f8-44f9-a1e4-443f4235ee53"
     },
-    "1235.15": {
+    {
       "requestid": "ebb03240-cd37-4997-97b2-5c70b363b039",
       "confidence": "0.6691125",
       "timestamp": 1235.15,
       "content": "since the stroger distinction between not being renewed in bing fire in brandon should not be right exactly I'm sure it was sitting down every few years and razin just shimming the marges wake me up continuing on I'm sure it is with sitting down sing",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "b7d6e30e-e5e5-4da4-91fb-b7c38d6585a3"
     },
-    "1250.89": {
+    {
       "requestid": "ce6c9e5c-639a-4b88-997f-5e7888b553dd",
       "confidence": "0.7458186",
       "timestamp": 1250.89,
       "content": "is this employment relationship or is this maudal relationship with me up and if it's not saying whether there are ways to fix it if it's not with nothing separating",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "328e418a-63d8-414e-8268-bab1b166919f"
     },
-    "1260.7": {
+    {
       "requestid": "26bd4a6e-3e46-47ea-a34c-a1ca672c8d08",
       "confidence": "0.712391",
       "timestamp": 1260.7,
       "content": "in so if the I dear is that we need forcing mechanism to actually have that conversation I think that in with some point to have that conversation",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "a08d77e8-60ba-49bf-b64c-792d8947d193"
     },
-    "1269.15": {
+    {
       "requestid": "21a60f56-8f6e-41c2-8da4-5bd7744533fb",
       "confidence": "0.654148",
       "timestamp": 1269.15,
       "content": "that is what I say I do you wanna be aware bear in the tations niece who is the same thing when will it take me to get back and revisit the choices we made it such true for you um and you should building in",
-      "speaker": "S139"
+      "speaker": "S139",
+      "uuid": "50cf9ae7-784b-4d4e-a7b7-9682828c66c6"
     },
-    "1281.56": {
+    {
       "requestid": "4c264da0-8b88-4f77-8fdc-1257ab87a9e7",
       "confidence": "0.5400957",
       "timestamp": 1281.56,
       "content": "annual review",
-      "speaker": "S200"
+      "speaker": "S200",
+      "uuid": "8da9e342-c826-46bd-9b2e-58ab292a7468"
     },
-    "1287.12": {
+    {
       "requestid": "abf18b1a-16ee-43cc-a6c3-a8a67cf76037",
       "confidence": "0.8023457",
       "timestamp": 1287.12,
       "content": "you all seem to think so too",
-      "speaker": "S200"
+      "speaker": "S200",
+      "uuid": "55967576-2e83-4d45-b09c-77fa715978f1"
     },
-    "1291.93": {
+    {
       "requestid": "128c0330-7617-4716-96a8-4550562fa311",
       "confidence": "0.4567923",
       "timestamp": 1291.93,
       "content": "92nd through the commitments in the meaning behind it",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "c154dd89-7e4c-4b9f-a95b-bb76414816db"
     },
-    "1295.96": {
+    {
       "requestid": "7775ec0d-538c-4b31-b9ba-4a24a501eb4e",
       "confidence": "0.6296645",
       "timestamp": 1295.96,
       "content": "how to get me too much benizi out for people",
-      "speaker": "S202"
+      "speaker": "S202",
+      "uuid": "afe04ac8-d18e-4965-ab42-543ca643e6a5"
     },
-    "1307.47": {
+    {
       "requestid": "c8407690-7834-48b4-bb35-98fd1098fec7",
       "confidence": "0.7949687",
       "timestamp": 1307.47,
       "content": "having children changes everything about a marriage and I think the kids need a little bit of stability",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "907c390d-9bc5-4b51-ac9c-333bf04a9dfe"
     },
-    "1313.62": {
+    {
       "requestid": "6c92f3bb-9327-475d-bbf1-f660e9d5febd",
       "confidence": "0.6746449",
       "timestamp": 1313.62,
       "content": "you have to renew it every day every moment of life to make it to chill out",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "fec79ee4-e8c5-4008-9ad4-525581ad1043"
     },
-    "1319.79": {
+    {
       "requestid": "ae7058f7-9ae6-4fce-bccc-825858c23da3",
       "confidence": "0.601444",
       "timestamp": 1319.79,
       "content": "it would take emotion out of it it would become a business",
-      "speaker": "S203"
+      "speaker": "S203",
+      "uuid": "c2307f2d-23a0-412b-894d-207c6a82153e"
     },
-    "1324.41": {
+    {
       "requestid": "13798264-2542-4975-91d2-701c5a0c5824",
       "confidence": "0.1036199",
       "timestamp": 1324.41,
       "content": "nba game",
-      "speaker": "S203"
+      "speaker": "S203",
+      "uuid": "6f7d3b3d-e3ff-4159-9823-f8a45c47a8fb"
     },
-    "1326.38": {
+    {
       "requestid": "507e3d09-e387-489d-ac9e-2b0407bb40f0",
       "confidence": "0.5861965",
       "timestamp": 1326.38,
       "content": "sorry maybe this contract ing",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "f1674baa-5034-4e98-ab9d-5008b9e7262d"
     },
-    "1328.99": {
+    {
       "requestid": "fa22e442-0cf5-43ec-b3c0-af79cf1ddeb8",
       "confidence": "0.5479904",
       "timestamp": 1328.99,
       "content": "I don't know I'd rather have that for friends yes for north america",
-      "speaker": "S208"
+      "speaker": "S208",
+      "uuid": "1466a9e7-031a-45fb-813a-0482ea86be4b"
     },
-    "1332.66": {
+    {
       "requestid": "4eef85d9-576f-440d-b0fd-fda0a24daa93",
       "confidence": "0.6658844",
       "timestamp": 1332.66,
       "content": "I tell my husband that you're the one I made a do you wanna lover and you said don't wanna love her when I go then we need to get a housekeeper",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "dd208c7c-a226-43a3-8bee-a9a860fdbbe3"
     },
-    "1341.17": {
+    {
       "requestid": "d5a349ae-b2de-4cfb-8a85-b946c505cdd9",
       "confidence": "0.398404",
       "timestamp": 1341.17,
       "content": "irig mic oh <profanity>shit</profanity> I housekeeper last year",
-      "speaker": "S209"
+      "speaker": "S209",
+      "uuid": "f3ffbd5c-c130-412d-a60d-a68be1ba91df"
     },
-    "1348.96": {
+    {
       "requestid": "b712be58-e4ef-4189-a00e-c67df9c964d9",
       "timestamp": 1348.96,
-      "content": ""
+      "content": "",
+      "uuid": "38665d8e-ac81-4507-8d93-db7cf6e2eb82"
     },
-    "1355.67": {
+    {
       "requestid": "f17d0398-2102-48fc-8305-9b2ec050743b",
       "timestamp": 1355.67,
-      "content": ""
+      "content": "",
+      "uuid": "c155c934-e0eb-4640-a9d0-d23a43a71bdd"
     },
-    "1360.87": {
+    {
       "requestid": "11390d34-2c8c-4ef9-8ba7-d81d04841efe",
       "timestamp": 1360.87,
-      "content": ""
+      "content": "",
+      "uuid": "6a110a05-bf34-494b-9d28-bf3854c64c93"
     },
-    "1363.6": {
+    {
       "requestid": "ed111483-4443-464b-a5d4-b66f9cfad7ea",
       "confidence": "0.618422",
       "timestamp": 1363.6,
       "content": "super cat whiskers on next weeks episode the housing market in japan is very different from the housing market in the <profanity>ass</profanity> while I'm not a cop describe height of mount guard radical design strange looking weird looking for kids hide your eye catching",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "294af566-3571-42b1-b2a4-0993ca099461"
     },
-    "1381.8": {
+    {
       "requestid": "3ab6327a-47fe-48c9-a76d-22b3fc34ae38",
       "confidence": "0.6796798",
       "timestamp": 1381.8,
       "content": "but it's not that old houses look so different how long they last the disposable homes of japan this next time I'm free country",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "0a4c0489-74e8-48c5-b1da-1abc66891904"
     },
-    "1396.52": {
+    {
       "requestid": "2bb40d93-aebb-4578-a25e-d54c0ec2abf9",
       "confidence": "0.7324044",
       "timestamp": 1396.52,
       "content": "freakonomics radio is produced byWNYCN.net production our staff includes david herman greg rozalski credico number a lam susie lechtenberg in crispins in with engineering help from jim briggs",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "06a946c9-b755-4fa7-8140-9a1f1dabc6a3"
     },
-    "1410.27": {
+    {
       "requestid": "3ba547b6-1433-44bb-ad27-135aca8f7884",
       "confidence": "0.8124881",
       "timestamp": 1410.27,
       "content": "if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com will find lots of radio ablas the books and more",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "e661fd84-75e8-48ff-8b04-2f585dd2a85c"
     },
-    "1420.4": {
+    {
       "requestid": "2f5fe3db-c1d3-4eaf-8038-24c693017498",
       "timestamp": 1420.4,
-      "content": ""
+      "content": "",
+      "uuid": "3ccbf8af-8d3d-4a7e-ad32-eaa93a6f8e07"
     },
-    "1425.25": {
+    {
       "requestid": "25b7937c-0a55-435d-9d11-7a7ee798bdb6",
       "timestamp": 1425.25,
-      "content": ""
+      "content": "",
+      "uuid": "c5769b0b-8264-4881-85e9-b077b5b193e6"
     },
-    "1427.69": {
+    {
       "requestid": "3c2d8a62-c868-40eb-888a-fdf10343a1df",
       "timestamp": 1427.69,
-      "content": ""
+      "content": "",
+      "uuid": "70c6db62-fed3-498e-8f30-4a4deb7eae36"
     },
-    "1436.02": {
+    {
       "requestid": "28636a07-4090-40a8-9bf9-1dadcd4d094a",
       "confidence": "0.82515",
       "timestamp": 1436.02,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era and make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophistical investment advice at low cost that were previously impossible",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "c14de072-d3a0-4842-b3d2-db25e522bd3a"
     },
-    "1455.3": {
+    {
       "requestid": "da917e08-e429-4f5c-aaab-09e124f59658",
       "confidence": "0.8973495",
       "timestamp": 1455.3,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managed for free",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "981389f1-ded6-41d6-a2af-84c1230f8369"
     }
-  }
+  ]
 }

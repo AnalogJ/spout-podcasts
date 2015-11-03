@@ -3,1197 +3,1396 @@
   "date": "2015-07-23",
   "description": "<p>The comedian, actor -- and now, author -- answers our FREAK-quently Asked Questions</p><img src=\"http://feeds.feedburner.com/~r/freakonomicsradio/~4/2eX3EZwISBo\" height=\"1\" width=\"1\" alt=\"\"/>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/XGnfRjo2lx4/freakonomics_podcast072315.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "2d224d98-0451-4232-a68d-75731171fa91",
       "confidence": "0.7493083",
       "timestamp": 0,
-      "content": "reading it so much I feel like I'm like on page a million of the worst book ever"
+      "content": "reading it so much I feel like I'm like on page a million of the worst book ever",
+      "uuid": "2300fef3-635c-4676-ad6d-a291695d8bb3"
     },
-    "10": {
+    {
       "requestid": "32a8ae31-a827-4ac6-a243-143d10769b8e",
       "confidence": "0.7041852",
       "timestamp": 10,
-      "content": "aziz on sorry is a comedian and actor in on daughter today he answers to our frequently asked questions for instance"
+      "content": "aziz on sorry is a comedian and actor in on daughter today he answers to our frequently asked questions for instance",
+      "uuid": "60a9cfea-6f41-4da1-9eb4-b83a60dca9b0"
     },
-    "20": {
+    {
       "requestid": "82e51188-17da-4034-8b8e-068ee89e4bfe",
       "confidence": "0.548427",
       "timestamp": 20,
-      "content": "hey what do you collect anything in life insurance plans for buying up some older cameras if he gets cooler pictures in califon to drop off the road so many"
+      "content": "hey what do you collect anything in life insurance plans for buying up some older cameras if he gets cooler pictures in califon to drop off the road so many",
+      "uuid": "f391c573-f452-469d-bd87-e241093ca161"
     },
-    "30": {
+    {
       "requestid": "2a27839b-5779-422f-8be8-dc544d1d9a41",
       "confidence": "0.5960395",
       "timestamp": 30,
-      "content": "photos you are such an old man"
+      "content": "photos you are such an old man",
+      "uuid": "c76e03c3-a350-4a2b-9c4a-f1e404243323"
     },
-    "40": {
+    {
       "requestid": "6ac18c56-5413-4731-a0a5-40e390d6d1f3",
       "confidence": "0.7661127",
       "timestamp": 40,
-      "content": "app or you can have this like real name of the person we say hey how are you like what's your name like thanks for watching my stuff that you like the real thing to me and I"
+      "content": "app or you can have this like real name of the person we say hey how are you like what's your name like thanks for watching my stuff that you like the real thing to me and I",
+      "uuid": "a1ac3b50-6c10-479f-ad4e-8e5bd69d6f20"
     },
-    "50": {
+    {
       "requestid": "adb610a5-a3cf-40db-a0a3-5ff8995dc035",
       "confidence": "0.6754339",
       "timestamp": 50,
-      "content": "I am and I'm happy to do that would also be happy to do how did he spend depoe bay in what the hell is it gonna call is new TV"
+      "content": "I am and I'm happy to do that would also be happy to do how did he spend depoe bay in what the hell is it gonna call is new TV",
+      "uuid": "f93f8b56-3207-49e4-918e-47c50cc058ad"
     },
-    "60": {
+    {
       "requestid": "8a08501d-a80c-47d2-9927-eb7afdbc327d",
       "confidence": "0.5561789",
       "timestamp": 60,
-      "content": "show me to help with that"
+      "content": "show me to help with that",
+      "uuid": "eadd6dcb-e8a6-4906-93e9-4204bed149c3"
     },
-    "70": {
+    {
       "requestid": "e342b1bd-ad1e-4116-b240-4adf58af0d9e",
       "timestamp": 70,
-      "content": ""
+      "content": "",
+      "uuid": "e76d0703-adba-4a8b-b604-ad2d0288b5a1"
     },
-    "80": {
+    {
       "requestid": "ef768e33-2d95-4785-aeff-326dee81767d",
       "confidence": "0.5827155",
       "timestamp": 80,
-      "content": "this is freakonomics radio podcast explores the inside of everything here is your housein.net"
+      "content": "this is freakonomics radio podcast explores the inside of everything here is your housein.net",
+      "uuid": "cb1694ce-2bb0-4dea-a496-1ac1ca795e8d"
     },
-    "90": {
+    {
       "requestid": "bbed97b0-cd6a-407b-9781-0b5f03b32e6b",
       "confidence": "0.6710359",
       "timestamp": 90,
-      "content": "aziz on sorry"
+      "content": "aziz on sorry",
+      "uuid": "d786b59e-a2ca-4cbe-818f-fedbeeb69c6b"
     },
-    "100": {
+    {
       "requestid": "6b84572a-48ae-4f8c-bc82-f278d5a0ff9b",
       "confidence": "0.7062841",
       "timestamp": 100,
-      "content": "known for its role on parks and recreation the sitcom starring amy poehler it rain on nbc 7 seasons are there a cute it but it was 11 in part because"
+      "content": "known for its role on parks and recreation the sitcom starring amy poehler it rain on nbc 7 seasons are there a cute it but it was 11 in part because",
+      "uuid": "9897a68b-e2c8-4d2a-9d03-289d0f0bf279"
     },
-    "110": {
+    {
       "requestid": "1d151247-ec25-496c-8e2c-6e437de91b08",
       "confidence": "0.7524514",
       "timestamp": 110,
-      "content": "smart but also Mrs. but I think that's why I like it so much because the show was at its core sweet I'm sorry played tom haverford"
+      "content": "smart but also Mrs. but I think that's why I like it so much because the show was at its core sweet I'm sorry played tom haverford",
+      "uuid": "a0a32e8f-7566-4887-80fc-c30549b7f8b8"
     },
-    "120": {
+    {
       "requestid": "f42ec338-a2cc-478f-b3b3-af22b8d13337",
       "confidence": "0.6783111",
       "timestamp": 120,
-      "content": "probably the most selfish and hopefully character on the show that he too was pretty sweet deep down in a few things is in a few I'll be surprised if you don't think the same"
+      "content": "probably the most selfish and hopefully character on the show that he too was pretty sweet deep down in a few things is in a few I'll be surprised if you don't think the same",
+      "uuid": "ccf7b55d-b12d-414a-bb0d-d2751d39f858"
     },
-    "130": {
+    {
       "requestid": "738140b3-b929-416e-b03a-7b1b64f8e6ab",
       "confidence": "0.6698293",
       "timestamp": 130,
-      "content": "thing about I'm sorry I'm so grumpy in bennettsville south carolina karen sue immigrated from india his dad worked as a gastroenterologist is mom worked"
+      "content": "thing about I'm sorry I'm so grumpy in bennettsville south carolina karen sue immigrated from india his dad worked as a gastroenterologist is mom worked",
+      "uuid": "e1009216-2d77-45a2-9b17-9676f996bebf"
     },
-    "140": {
+    {
       "requestid": "c9440310-b8b2-4a9d-95b7-8d636104909c",
       "confidence": "0.7075284",
       "timestamp": 140,
-      "content": "is that office this is his parents have been happily married 35 years after high school if you came to new york city marketing it in my you but"
+      "content": "is that office this is his parents have been happily married 35 years after high school if you came to new york city marketing it in my you but",
+      "uuid": "aaacd165-8afc-4bb8-b830-e967e69c6e63"
     },
-    "150": {
+    {
       "requestid": "21eccb44-c998-4d4c-a939-6b1350946c7d",
       "confidence": "0.71009",
       "timestamp": 150,
-      "content": "gun in the stand up comedy and now we stayed in it is been a comedian actor for 15 years now and he just popped his first book a non fiction books"
+      "content": "gun in the stand up comedy and now we stayed in it is been a comedian actor for 15 years now and he just popped his first book a non fiction books",
+      "uuid": "4d83de89-9c91-4a73-9834-7917ef958712"
     },
-    "160": {
+    {
       "requestid": "f3e8c5bf-f9b9-4d85-a89a-67b1978bca88",
       "confidence": "0.650369",
       "timestamp": 160,
-      "content": "with an NYU sociologist eric lindeberg is coauthor it cold modern romance is the beauty number 2 on the times bestseller list about how people meet"
+      "content": "with an NYU sociologist eric lindeberg is coauthor it cold modern romance is the beauty number 2 on the times bestseller list about how people meet",
+      "uuid": "f2e73736-25e1-44ed-a441-62b90fbf741e"
     },
-    "170": {
+    {
       "requestid": "73bc6d2f-6de1-4de8-a73a-351224a5c92a",
       "confidence": "0.7990502",
       "timestamp": 170,
-      "content": "can meet in the modern world and how bad is different from the past"
+      "content": "can meet in the modern world and how bad is different from the past",
+      "uuid": "e0474507-95d5-4b08-853c-3df918ab3190"
     },
-    "180": {
+    {
       "requestid": "f1569780-3c7c-4409-8e87-3f1ad6847020",
       "confidence": "0.7360978",
       "timestamp": 180,
-      "content": "wanted to write a book especially you know a real book with real research and bill paragraphs in real ideas um and it's good and I mean I guess I'm thinking if I could do"
+      "content": "wanted to write a book especially you know a real book with real research and bill paragraphs in real ideas um and it's good and I mean I guess I'm thinking if I could do",
+      "uuid": "14ab281f-7a57-4623-b104-ca632f78cd81"
     },
-    "190": {
+    {
       "requestid": "7d3e9153-1e1a-4012-8d10-1f66b00bfb60",
       "confidence": "0.7873318",
       "timestamp": 190,
-      "content": "what you do I don't know if I'd wanna waste my time writing books well I would say my thought process is this time I've been off"
+      "content": "what you do I don't know if I'd wanna waste my time writing books well I would say my thought process is this time I've been off",
+      "uuid": "56adaed4-b64a-4e0a-8154-3f897654c7ba"
     },
-    "200": {
+    {
       "requestid": "253edb22-2e25-4890-8955-da895a044bba",
       "confidence": "0.7397454",
       "timestamp": 200,
-      "content": "bird book deals in the past and using for comedian at a book deal is kind of a cash grab you basically just write down a version of your act as a book and"
+      "content": "bird book deals in the past and using for comedian at a book deal is kind of a cash grab you basically just write down a version of your act as a book and",
+      "uuid": "765ff1ca-fcbf-4339-b366-55a217f27ff5"
     },
-    "210": {
+    {
       "requestid": "4668bac6-e150-41fb-87f7-c3bff611aa70",
       "confidence": "0.7039371",
       "timestamp": 210,
-      "content": "I didn't wanna do that and I didn't wanna do another kind of awkward be like new messages coz I felt like I'd rather just do stand up with those ideas but I have this time"
+      "content": "I didn't wanna do that and I didn't wanna do another kind of awkward be like new messages coz I felt like I'd rather just do stand up with those ideas but I have this time",
+      "uuid": "d84a1b23-33c5-4e94-987c-08cb3ca0786e"
     },
-    "220": {
+    {
       "requestid": "18401494-c370-4165-9a51-995b9c78e32d",
       "confidence": "0.657033",
       "timestamp": 220,
-      "content": "material out about kennedy and romance and I met a few academics one person in particular sherry turkle I'm at she does a lot of stuff about I just mean"
+      "content": "material out about kennedy and romance and I met a few academics one person in particular sherry turkle I'm at she does a lot of stuff about I just mean",
+      "uuid": "4df5ac96-78f1-462d-acdd-8839a214e4ac"
     },
-    "230": {
+    {
       "requestid": "2dce487f-836a-4046-a1c7-9234f42674b4",
       "confidence": "0.6729121",
       "timestamp": 230,
-      "content": "isn't technology so you can wish in la and then the next day we spent a lot of time together talking about all the show n and how her research cat"
+      "content": "isn't technology so you can wish in la and then the next day we spent a lot of time together talking about all the show n and how her research cat",
+      "uuid": "8c0ef2bc-3dfd-4646-9cf6-d5a472ee519a"
     },
-    "240": {
+    {
       "requestid": "f1728769-bd46-4e27-b672-a6deb5eb4ff4",
       "confidence": "0.6567711",
       "timestamp": 240,
-      "content": "related so many things I was talking about just hate texting at change so many things about core chip in that kind of dog was it all that said that he does need it in my kind"
+      "content": "related so many things I was talking about just hate texting at change so many things about core chip in that kind of dog was it all that said that he does need it in my kind",
+      "uuid": "7c4bcf35-6ccf-4cce-9d1e-4402d61f4b00"
     },
-    "250": {
+    {
       "requestid": "4d159e5b-6661-4bb4-814f-7a09707219cf",
       "confidence": "0.6689787",
       "timestamp": 250,
-      "content": "is the point from from my perspective is the comedian with meeting the viewpoint of these academics and sociologist that's to me seem like oh"
+      "content": "is the point from from my perspective is the comedian with meeting the viewpoint of these academics and sociologist that's to me seem like oh",
+      "uuid": "1f4b713c-ebd6-424e-ae65-321afe9442d8"
     },
-    "260": {
+    {
       "requestid": "8dba0933-249a-4dc6-9b41-99c89c8d2d3e",
       "confidence": "0.7340119",
       "timestamp": 260,
-      "content": "if I could write a book the catcher daptone will be very interesting and I would I was genuinely curious about a lot of stuff I felt like I knew affair"
+      "content": "if I could write a book the catcher daptone will be very interesting and I would I was genuinely curious about a lot of stuff I felt like I knew affair",
+      "uuid": "1097294c-fdb8-446a-ba60-4332f22099e1"
     },
-    "270": {
+    {
       "requestid": "828804f7-c795-469e-ad1e-7e175d4c4232",
       "confidence": "0.7826503",
       "timestamp": 270,
-      "content": "out about this topic we've written about it some but um I feel like by going really deep into a relatively narrow topic you came up with stuff that was just"
+      "content": "out about this topic we've written about it some but um I feel like by going really deep into a relatively narrow topic you came up with stuff that was just",
+      "uuid": "f51b7fc0-5cc0-4a3e-a915-14603da38dd8"
     },
-    "280": {
+    {
       "requestid": "b6f3b386-bb55-4d5a-b684-ecf9edafbd8d",
       "confidence": "0.7484006",
       "timestamp": 280,
-      "content": "even if you know little bit of literature was really interesting this stuff out how so many people you know 50 are 100 years ago basically used to marry your neighbors at one graph you have"
+      "content": "even if you know little bit of literature was really interesting this stuff out how so many people you know 50 are 100 years ago basically used to marry your neighbors at one graph you have",
+      "uuid": "e592e573-1ee1-4d71-bdc5-cff07fc9548f"
     },
-    "290": {
+    {
       "requestid": "0930a76d-c7f3-4ae4-aca6-c35cb6f8bf1c",
       "confidence": "0.5819038",
       "timestamp": 290,
-      "content": "that shows like proximity of um you know maybe your friend of the propinquity studies stephanie biamp referring to the people in a bra pink wedding"
+      "content": "that shows like proximity of um you know maybe your friend of the propinquity studies stephanie biamp referring to the people in a bra pink wedding",
+      "uuid": "cc176153-ca9e-4679-b7ec-05edee6c90ad"
     },
-    "300": {
+    {
       "requestid": "bd9ada87-6154-40af-945f-77f5d60f4b22",
       "confidence": "0.5653995",
       "timestamp": 300,
-      "content": "density this is proximity study with that was a real kind of the atom shocker to me is just the idea that like old is the basic com"
+      "content": "density this is proximity study with that was a real kind of the atom shocker to me is just the idea that like old is the basic com",
+      "uuid": "5f0ae8b0-4694-4986-b7db-1803d0c8d245"
     },
-    "310": {
+    {
       "requestid": "09eb46d1-c82e-4ce6-ad43-361adc9bb1c3",
       "confidence": "0.7118367",
       "timestamp": 310,
-      "content": "theft of like trying to find someone has changed you know dat dat dat study eyes from from thirties in philadelphia and it will it was so"
+      "content": "theft of like trying to find someone has changed you know dat dat dat study eyes from from thirties in philadelphia and it will it was so",
+      "uuid": "6d07bc72-3f7a-4364-a01a-a62d3b56c43c"
     },
-    "320": {
+    {
       "requestid": "9ec6b168-d1e1-4ed6-a71a-b261e3bbcd9a",
       "confidence": "0.7100397",
       "timestamp": 320,
-      "content": "get one out of 12 people meet you in the same building at 80s ampersand with the same city um one out of 3 it was like within a 5 block radius"
+      "content": "get one out of 12 people meet you in the same building at 80s ampersand with the same city um one out of 3 it was like within a 5 block radius",
+      "uuid": "34f0fcf4-8f64-456e-a4cf-3097d6706a4b"
     },
-    "330": {
+    {
       "requestid": "72165621-b23c-41d7-9cd3-d0b0cec6acdd",
       "confidence": "0.7372857",
       "timestamp": 330,
-      "content": "I'm in it was really starling in and you just think about it now it's like known marry someone from the same city like new people throughout your whole life like that are from different parts the"
+      "content": "I'm in it was really starling in and you just think about it now it's like known marry someone from the same city like new people throughout your whole life like that are from different parts the",
+      "uuid": "8f9396cf-5d85-4735-b6f7-c69674bf7583"
     },
-    "340": {
+    {
       "requestid": "3b80a592-3db4-433b-9d8a-e33582b8c82a",
       "confidence": "0.7480679",
       "timestamp": 340,
-      "content": "world and you go to college and and I change are something that was it was actually a bigger change the technology are anything just just a thought does overall team"
+      "content": "world and you go to college and and I change are something that was it was actually a bigger change the technology are anything just just a thought does overall team",
+      "uuid": "14c8da8e-d1e2-4cd1-8f59-dcb5cd1b7e91"
     },
-    "350": {
+    {
       "requestid": "79b759de-48da-43c4-86af-59125f252671",
       "confidence": "0.6144984",
       "timestamp": 350,
-      "content": "engine up what are you speak call nick at the companion marriage to the soul mate marriage now the container marriage is pretty close to an arranged marriage"
+      "content": "engine up what are you speak call nick at the companion marriage to the soul mate marriage now the container marriage is pretty close to an arranged marriage",
+      "uuid": "1d179b3b-0b42-42a8-ad0c-3844628e1eea"
     },
-    "360": {
+    {
       "requestid": "3c10e3e8-4254-41d4-af2c-d0195ada226d",
       "confidence": "0.6411602",
       "timestamp": 360,
-      "content": "ritam people my parents at arrangement like wow that sounds crazy like well if you look at the history in the united states even like back in the day like"
+      "content": "ritam people my parents at arrangement like wow that sounds crazy like well if you look at the history in the united states even like back in the day like",
+      "uuid": "98ebacaa-568a-457a-8d8e-629e049d64f8"
     },
-    "370": {
+    {
       "requestid": "d4ed50d0-d4df-4586-be46-e746002b6ff6",
       "confidence": "0.6839562",
       "timestamp": 370,
-      "content": "it is you know someone was like well did you know this guy that lives near meez nice and seems like you could provide for me and I'm natuna laluan with belt or timing who"
+      "content": "it is you know someone was like well did you know this guy that lives near meez nice and seems like you could provide for me and I'm natuna laluan with belt or timing who",
+      "uuid": "1c7e6229-d3c7-4baf-b893-19b12cb9d1ad"
     },
-    "380": {
+    {
       "requestid": "98e99d21-525d-480d-951e-db72ab1c7dab",
       "confidence": "0.7091926",
       "timestamp": 380,
-      "content": "is that the way they spoke about their lives are like well that I do you know my house to my parents I can go to school can have my own career I could just get married this dude and then I could go on my way"
+      "content": "is that the way they spoke about their lives are like well that I do you know my house to my parents I can go to school can have my own career I could just get married this dude and then I could go on my way",
+      "uuid": "7b2d0ef3-a5bb-4f16-86b4-7235fd2fde59"
     },
-    "390": {
+    {
       "requestid": "d4477687-daab-420c-a617-8d64ec99ee4a",
       "confidence": "0.7861095",
       "timestamp": 390,
-      "content": "I can finally become an adult to me the crazy statistic in the book that crazy just wanna blows my mind the most is in 1960"
+      "content": "I can finally become an adult to me the crazy statistic in the book that crazy just wanna blows my mind the most is in 1960",
+      "uuid": "3025913d-9aa5-4bfa-8f8d-dbbd4541a94a"
     },
-    "400": {
+    {
       "requestid": "65a6259e-1c7d-48e9-91f0-9a9be8400673",
       "confidence": "0.8589288",
       "timestamp": 400,
-      "content": "7 there is a study they did where they found 76% of women said they would marry someone that they are not romantically"
+      "content": "7 there is a study they did where they found 76% of women said they would marry someone that they are not romantically",
+      "uuid": "9c048e82-35cd-4fd8-abfd-9d861860fecd"
     },
-    "410": {
+    {
       "requestid": "0ddbb778-8631-429b-811c-585940d383f7",
       "confidence": "0.7172956",
       "timestamp": 410,
-      "content": "in love with and you know now like this this idea that like now we have all these options of what to do with their lives in our go look at who we want"
+      "content": "in love with and you know now like this this idea that like now we have all these options of what to do with their lives in our go look at who we want",
+      "uuid": "79e16785-012a-4b01-93fe-bd5fc8eaead7"
     },
-    "420": {
+    {
       "requestid": "058f017b-e141-4f32-a940-05bb0c2bf6f9",
       "confidence": "0.7375939",
       "timestamp": 420,
-      "content": "find is not like that would be awesome person to settle down with and start a family with the snow trying to find the love of our lives are trying to find is amazing allusive think it was nothing people"
+      "content": "find is not like that would be awesome person to settle down with and start a family with the snow trying to find the love of our lives are trying to find is amazing allusive think it was nothing people",
+      "uuid": "dd003927-2599-4853-97ee-8c579e245107"
     },
-    "430": {
+    {
       "requestid": "6094143b-2df6-40c7-9ebe-6c229697e1c2",
       "confidence": "0.7617598",
       "timestamp": 430,
-      "content": "had the luxury to look for yeah so I have to say but in the end I'm you personally sound like a bit more of a tradition"
+      "content": "had the luxury to look for yeah so I have to say but in the end I'm you personally sound like a bit more of a tradition",
+      "uuid": "f5b12323-b254-40b3-bd9d-046c4a39d18f"
     },
-    "440": {
+    {
       "requestid": "8dd57744-675a-4030-8dda-9fb01a45492b",
       "confidence": "0.8023494",
       "timestamp": 440,
-      "content": "less than a lot of 32 year olds um and so I guess I wanna know do you think you are and if so or I guess it even if not do you think that was in front by your own phone"
+      "content": "less than a lot of 32 year olds um and so I guess I wanna know do you think you are and if so or I guess it even if not do you think that was in front by your own phone",
+      "uuid": "65dd12bf-3bff-4596-a006-7d24555b9ccf"
     },
-    "450": {
+    {
       "requestid": "9eb02385-c63d-410f-958f-c9228b28236f",
       "confidence": "0.836511",
       "timestamp": 450,
-      "content": "emily especially since you said your parents were the result of an arrange marriage I am an interesting generation 'cause i'm 32 so I have one foot"
+      "content": "emily especially since you said your parents were the result of an arrange marriage I am an interesting generation 'cause i'm 32 so I have one foot",
+      "uuid": "4e19859f-c5f9-468c-9880-139336678c4e"
     },
-    "460": {
+    {
       "requestid": "b68c180d-f214-44c8-95a0-3042b43ee902",
       "confidence": "0.8756596",
       "timestamp": 460,
-      "content": "the world of this post internet world but I still remember time I didn't have a computer when when I make phone calls and when I was young and had a crush on a girl"
+      "content": "the world of this post internet world but I still remember time I didn't have a computer when when I make phone calls and when I was young and had a crush on a girl",
+      "uuid": "188abda3-7226-43d5-b3a4-b3d766b8bbdb"
     },
-    "470": {
+    {
       "requestid": "d3402832-3a7b-4ef7-8ce5-f15d89384330",
       "confidence": "0.7203816",
       "timestamp": 470,
-      "content": "I would have to use the phone so I still can't remember some of these things are still remember world for text messages and all the things I do think there is a chunk of of my generation adass romanticize opasen"
+      "content": "I would have to use the phone so I still can't remember some of these things are still remember world for text messages and all the things I do think there is a chunk of of my generation adass romanticize opasen",
+      "uuid": "22edbf9d-5a78-4f9e-920b-3245a4b0acf1"
     },
-    "480": {
+    {
       "requestid": "9d3746f1-c919-4b82-b09a-cff09e318a20",
       "confidence": "0.7816029",
       "timestamp": 480,
-      "content": "part of that I think you know that I when I go to barnechea people on it all on their phones and I'm on my phone I get bummed out about that we would be doing this"
+      "content": "part of that I think you know that I when I go to barnechea people on it all on their phones and I'm on my phone I get bummed out about that we would be doing this",
+      "uuid": "d5e4c528-3b26-492b-bde4-d1c953d42f08"
     },
-    "490": {
+    {
       "requestid": "6c459cea-4eb2-4952-8511-7076f2e2b14f",
       "confidence": "0.6480046",
       "timestamp": 490,
-      "content": "dan it also like yeah but would I even have met up with all the people I can text sandra tellem where to meet up between a part of this writing book with his frustration of like"
+      "content": "dan it also like yeah but would I even have met up with all the people I can text sandra tellem where to meet up between a part of this writing book with his frustration of like",
+      "uuid": "cfb279e2-5552-4dfd-ad75-c068b8f0fb1c"
     },
-    "500": {
+    {
       "requestid": "385db46e-11ff-4689-9c4c-8b7acef265b8",
       "confidence": "0.7602716",
       "timestamp": 500,
-      "content": "so many relationships time playing out on my phone without even get it without even getting to spend time with people are like an <profanity>ass</profanity> I have experience is really frustrating it on"
+      "content": "so many relationships time playing out on my phone without even get it without even getting to spend time with people are like an <profanity>ass</profanity> I have experience is really frustrating it on",
+      "uuid": "c96ba431-3000-43ec-a985-bb76ad75c570"
     },
-    "510": {
+    {
       "requestid": "4474cb86-6edf-4b60-a50a-8db42789202f",
       "confidence": "0.7316831",
       "timestamp": 510,
-      "content": "I am and that kind of makes you kind of along for a simpler time before all the stuff yeah ok so let me know let me ask you sum about faq"
+      "content": "I am and that kind of makes you kind of along for a simpler time before all the stuff yeah ok so let me know let me ask you sum about faq",
+      "uuid": "53ab8ddb-d084-44e4-b121-76e419736736"
     },
-    "520": {
+    {
       "requestid": "27dcf056-4fcd-48b4-b77a-203c969807c6",
       "confidence": "0.7519052",
       "timestamp": 520,
-      "content": "ok sure so tell us in 60 seconds or less what you do what you actually do any given day and I'm guessing that you're given day"
+      "content": "ok sure so tell us in 60 seconds or less what you do what you actually do any given day and I'm guessing that you're given day",
+      "uuid": "43ee99ba-4546-4a46-a5ce-e073a7154e77"
     },
-    "530": {
+    {
       "requestid": "32320e22-8f05-4412-9b9e-f7de115d6bb2",
       "confidence": "0.7610701",
       "timestamp": 530,
-      "content": "lot less given the most people's given day is well I'd say you know with the job I have your back at you don't really have an average day coz it depends on what you doing today"
+      "content": "lot less given the most people's given day is well I'd say you know with the job I have your back at you don't really have an average day coz it depends on what you doing today",
+      "uuid": "4c689de9-375f-454d-88d4-43ca154f87d0"
     },
-    "540": {
+    {
       "requestid": "0fd28014-be0a-40bf-817f-935a7b2bbefa",
       "confidence": "0.6898105",
       "timestamp": 540,
-      "content": "now I'm at I'm I'm I'm editing the television series the shop for netflix so my day now as I wake up at you know 8:30 or so and"
+      "content": "now I'm at I'm I'm I'm editing the television series the shop for netflix so my day now as I wake up at you know 8:30 or so and",
+      "uuid": "49180696-7af3-4272-a542-d4b3ebee55a3"
     },
-    "550": {
+    {
       "requestid": "cdb2175f-879b-41c5-9f70-b79b15fe2595",
       "confidence": "0.5495534",
       "timestamp": 550,
-      "content": "I shower and then I come to our office is nice and and added baon review I are cuts of episodes of our show up"
+      "content": "I shower and then I come to our office is nice and and added baon review I are cuts of episodes of our show up",
+      "uuid": "8dad30d0-fa15-494b-9d3d-040f5c5684dc"
     },
-    "560": {
+    {
       "requestid": "288aa0e1-b5d9-43b3-aae6-7485ad691308",
       "confidence": "0.740939",
       "timestamp": 560,
-      "content": "and then I'll go and let die like 6 or so ago maybe grab a drink beer get some delicious food my girlfriend maybe stop at comma club work on cimitero know"
+      "content": "and then I'll go and let die like 6 or so ago maybe grab a drink beer get some delicious food my girlfriend maybe stop at comma club work on cimitero know",
+      "uuid": "b2994fe5-6843-46f3-8312-8012cb002184"
     },
-    "570": {
+    {
       "requestid": "72824274-a0ad-4c1b-9e5c-1a97dfe154f8",
       "confidence": "0.7055783",
       "timestamp": 570,
-      "content": "and go to bed is the show have a name yet no it's so hard to to come over the name for show and I don't have a title for it yet do you wanna crowd sourcing"
+      "content": "and go to bed is the show have a name yet no it's so hard to to come over the name for show and I don't have a title for it yet do you wanna crowd sourcing",
+      "uuid": "869c5c93-13ff-40d3-8725-997fd4710623"
     },
-    "580": {
+    {
       "requestid": "a9b6e629-020c-4962-89cf-c5e23832ef9e",
       "confidence": "0.5738602",
       "timestamp": 580,
-      "content": "be right now I don't think they know anything about it about south china hard to the nearest marta canis majoris a 45 second description and molam will come up with"
+      "content": "be right now I don't think they know anything about it about south china hard to the nearest marta canis majoris a 45 second description and molam will come up with",
+      "uuid": "afa4efce-7723-48c3-926c-9231bc8b8347"
     },
-    "590": {
+    {
       "requestid": "65e7b327-4191-4d7d-a2fa-a14c888c0728",
       "confidence": "0.6387436",
       "timestamp": 590,
-      "content": "for you like my kinda silly description the show is at aziz on sorry pleased as I adrenaline dad love delicious food and get into"
+      "content": "for you like my kinda silly description the show is at aziz on sorry pleased as I adrenaline dad love delicious food and get into",
+      "uuid": "8ee54e3b-e7f3-404f-a7e8-1a89f70b03ff"
     },
-    "600": {
+    {
       "requestid": "4e8e63f7-442c-4945-9edf-57bd099b1994",
       "confidence": "0.5825684",
       "timestamp": 600,
-      "content": "humorous slash top of that in situations ok I am will put the listen to work on it um I let me ask you this we ask everybody this"
+      "content": "humorous slash top of that in situations ok I am will put the listen to work on it um I let me ask you this we ask everybody this",
+      "uuid": "0d9e95f3-329e-4019-9f72-003e03e7abaf"
     },
-    "610": {
+    {
       "requestid": "5f7b1798-a6d7-435b-858a-92be9c5aeb81",
       "confidence": "0.7484376",
       "timestamp": 610,
-      "content": "you are not the same thing at you could you in show business but long would suck but your net worth would you don't need the name but you said he welcome to compared to that of your parents"
+      "content": "you are not the same thing at you could you in show business but long would suck but your net worth would you don't need the name but you said he welcome to compared to that of your parents",
+      "uuid": "53e8f281-081c-450a-9e61-7eedb5b7bc3f"
     },
-    "620": {
+    {
       "requestid": "c5b8530c-e757-4c3e-977b-a8059326302f",
       "confidence": "0.7757063",
       "timestamp": 620,
-      "content": "when you were safe 16 years old so if your pants net worth was one x when you're 16 and yours today is what x"
+      "content": "when you were safe 16 years old so if your pants net worth was one x when you're 16 and yours today is what x",
+      "uuid": "363ce1e4-9b79-4e91-8b0d-b493f8e7d91b"
     },
-    "630": {
+    {
       "requestid": "c1563ebd-d2c8-4a6a-bfce-4856902ae0a4",
       "confidence": "0.6932884",
       "timestamp": 630,
-      "content": "I don't know I have no idea how much money they they had um I don't know I probably had more flamin"
+      "content": "I don't know I have no idea how much money they they had um I don't know I probably had more flamin",
+      "uuid": "404a3b2c-efba-431d-8531-6b76a5f1167c"
     },
-    "640": {
+    {
       "requestid": "eee38f9a-049a-4b98-9141-a1427256a563",
       "confidence": "0.7145205",
       "timestamp": 640,
-      "content": "are in bennettsville south carolina sau even if you have a lot of money like this we really gonna do are you gonna buy a lot of biscuits like it"
+      "content": "are in bennettsville south carolina sau even if you have a lot of money like this we really gonna do are you gonna buy a lot of biscuits like it",
+      "uuid": "71eac16e-7a8b-4f1d-b1e7-16b67f4ca5a5"
     },
-    "650": {
+    {
       "requestid": "0558b333-7f96-45d7-8880-dbe216befdd2",
       "confidence": "0.5069216",
       "timestamp": 650,
-      "content": "there's so much cream style corn it was the sale of the following everyone sweet of most meat and gravy with so much stuff up now"
+      "content": "there's so much cream style corn it was the sale of the following everyone sweet of most meat and gravy with so much stuff up now",
+      "uuid": "d3c24a0a-04f9-40a2-a0f5-ab53f2246acf"
     },
-    "660": {
+    {
       "requestid": "a7435015-2cb1-4066-b3d5-c52b54c72a7d",
       "confidence": "0.8834853",
       "timestamp": 660,
-      "content": "what is one thing you've spent way too much money on but do not regret"
+      "content": "what is one thing you've spent way too much money on but do not regret",
+      "uuid": "4a4fc90c-4816-444c-8880-c0c43982c55b"
     },
-    "670": {
+    {
       "requestid": "fd8cf272-7611-4926-8ec5-fdca66ff958d",
       "confidence": "0.7608196",
       "timestamp": 670,
-      "content": "hurt you you know I think it works so hard and I'm at work alot I don't take a lot of down time but when I do and when I am in a in a"
+      "content": "hurt you you know I think it works so hard and I'm at work alot I don't take a lot of down time but when I do and when I am in a in a",
+      "uuid": "edcac9d7-09cb-4d55-8570-1d80b73bd03f"
     },
-    "680": {
+    {
       "requestid": "18472509-42ea-42dd-bb7e-f78594cad96b",
       "confidence": "0.6050467",
       "timestamp": 680,
-      "content": "juay sure I can kinda be a little more casual out spending money and I used to be you know little late I'll get it exam polyglass first touring like you know if there is like a connection"
+      "content": "juay sure I can kinda be a little more casual out spending money and I used to be you know little late I'll get it exam polyglass first touring like you know if there is like a connection",
+      "uuid": "98348ce8-04df-4815-8753-d6820b75042f"
     },
-    "690": {
+    {
       "requestid": "a22501c0-6f75-4cf0-8f45-4c5e6118e229",
       "confidence": "0.7122616",
       "timestamp": 690,
-      "content": "or you know at like you would like to do you want a great first class oblik know within a certain point when you start wearing a light year you're traveling a lot and"
+      "content": "or you know at like you would like to do you want a great first class oblik know within a certain point when you start wearing a light year you're traveling a lot and",
+      "uuid": "7acae302-f78d-4a44-a6ee-8fc50cb50206"
     },
-    "700": {
+    {
       "requestid": "160a9669-d940-4820-b26f-21d74be10353",
       "confidence": "0.6479986",
       "timestamp": 700,
-      "content": "it's like well I do one extra show iconis never do a connection I can always a first class and then and I was like oh yeah well deathly not gonna what I did like my second door"
+      "content": "it's like well I do one extra show iconis never do a connection I can always a first class and then and I was like oh yeah well deathly not gonna what I did like my second door",
+      "uuid": "c53e965a-49eb-4b73-811b-65796bc73bb4"
     },
-    "710": {
+    {
       "requestid": "d68f0aff-6251-4dd0-8344-692b343d9652",
       "confidence": "0.5109804",
       "timestamp": 710,
-      "content": "mixen time and then you just have to justify that way"
+      "content": "mixen time and then you just have to justify that way",
+      "uuid": "cb6b295b-ab67-4de8-bed8-2cda7cade4dd"
     },
-    "720": {
+    {
       "requestid": "2ddb915e-83fe-4b1f-8038-4dd3ffad15cb",
       "confidence": "0.6241698",
       "timestamp": 720,
-      "content": "at work it takes time but it's on like do she showed that I did like a present do she things I don't like but since I've done stuff that I'm proud of and respect"
+      "content": "at work it takes time but it's on like do she showed that I did like a present do she things I don't like but since I've done stuff that I'm proud of and respect",
+      "uuid": "5beae145-7a5a-4216-95f9-a51e36ebc387"
     },
-    "730": {
+    {
       "requestid": "5b214889-8560-44a7-8601-0aab1dc98f34",
       "confidence": "0.6908218",
       "timestamp": 730,
-      "content": "look up near cool and respect me and I respect them and their musical people and may I invite you to visit free"
+      "content": "look up near cool and respect me and I respect them and their musical people and may I invite you to visit free",
+      "uuid": "e28b1c04-cf18-42e4-97a9-de6115871c49"
     },
-    "740": {
+    {
       "requestid": "ed8d4730-4f27-4895-aa21-c894d4976276",
       "confidence": "0.7854734",
       "timestamp": 740,
-      "content": "I'm stuck comma get a chance you can find our entire podcast archive there within 200 free episodes call to find transcripts for each episode in those transcripts also"
+      "content": "I'm stuck comma get a chance you can find our entire podcast archive there within 200 free episodes call to find transcripts for each episode in those transcripts also",
+      "uuid": "84404f85-fdf7-48e7-84e0-cc2e2625ff54"
     },
-    "750": {
+    {
       "requestid": "db559f23-bae5-4794-982c-6e5eb71ae6c0",
       "confidence": "0.75618",
       "timestamp": 750,
-      "content": "tell you about the music you hear any chance that you can also click on the donate button on our website to help our producing partner wmic keep making this another"
+      "content": "tell you about the music you hear any chance that you can also click on the donate button on our website to help our producing partner wmic keep making this another",
+      "uuid": "95745fe7-df6e-4177-8273-7017236f280e"
     },
-    "760": {
+    {
       "requestid": "caa62aca-1bf7-45e8-8372-3c2d4c52ea59",
       "confidence": "0.6699917",
       "timestamp": 760,
-      "content": "he shows and you can subscribe to the podcast on I tunes or elsewhere to the next episode will hunt you down and stop by sursa quieran I tunes"
+      "content": "he shows and you can subscribe to the podcast on I tunes or elsewhere to the next episode will hunt you down and stop by sursa quieran I tunes",
+      "uuid": "009e8505-4849-4efd-8bd0-5dc52abbf333"
     },
-    "770": {
+    {
       "requestid": "0cacbb3f-76df-4bf5-b3b6-b12962743725",
       "confidence": "0.6500841",
       "timestamp": 770,
-      "content": "give me the night review for freakonomics radio work at one if you not gonna person and you can find freakonomics on twitter and facebook is well"
+      "content": "give me the night review for freakonomics radio work at one if you not gonna person and you can find freakonomics on twitter and facebook is well",
+      "uuid": "e66e1e2d-f86f-45ff-a3f0-1bcff625a538"
     },
-    "780": {
+    {
       "requestid": "6f5193d9-f241-4557-a0e0-531059bf3d16",
       "confidence": "0.9513855",
       "timestamp": 780,
-      "content": "freakonomics radio is supported by 23 and me"
+      "content": "freakonomics radio is supported by 23 and me",
+      "uuid": "dbe8eff0-e9c1-45d0-bf0d-f53f6d4e75f2"
     },
-    "790": {
+    {
       "requestid": "7e494f02-9348-4128-9ee0-e4868c55732e",
       "confidence": "0.8632071",
       "timestamp": 790,
-      "content": "dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample canadian"
+      "content": "dot CAA personalized genetic service available in canada 23 in the reports provide genetic information based on a small saliva sample canadian",
+      "uuid": "b623c2dd-6a3b-4bd2-b7bf-796708afd39f"
     },
-    "800": {
+    {
       "requestid": "a7dea309-0f34-4dbe-b414-57e558e4c7ad",
       "confidence": "0.8597632",
       "timestamp": 800,
-      "content": "can learn about their genetic information that published studies have associated with conditions in trades like celiac disease cystic fibrosis and even response to certain medications"
+      "content": "can learn about their genetic information that published studies have associated with conditions in trades like celiac disease cystic fibrosis and even response to certain medications",
+      "uuid": "269be57d-3f5f-42b4-8edf-94fa4a92a977"
     },
-    "810": {
+    {
       "requestid": "0806919b-ad23-40a7-a30d-b9bd73d55b69",
       "confidence": "0.884581",
       "timestamp": 810,
-      "content": "more information is available at 23 the number in me dot CA freakonomics radio is supported by alarm dot"
+      "content": "more information is available at 23 the number in me dot CA freakonomics radio is supported by alarm dot",
+      "uuid": "d9653647-3e61-4971-b3d9-2bf4e80a9c2c"
     },
-    "820": {
+    {
       "requestid": "b60a4cfc-32da-47e0-b9da-4d8d0f955153",
       "confidence": "0.9079728",
       "timestamp": 820,
-      "content": "com trusted by over 2.3 million users for smarter home security with alarm dot coms mobile app you can receive alerts if you forgot to lock the door"
+      "content": "com trusted by over 2.3 million users for smarter home security with alarm dot coms mobile app you can receive alerts if you forgot to lock the door",
+      "uuid": "5f878cfb-60a1-4c11-ac89-1fd69c6cd8d3"
     },
-    "830": {
+    {
       "requestid": "c252dc1c-bb2c-445a-9282-44f94417a076",
       "confidence": "0.8740876",
       "timestamp": 830,
-      "content": "close the garage door from anywhere and even have your thermostat automatically adjust when you leave home sign up foralarm.com this month and receive a free smart sir"
+      "content": "close the garage door from anywhere and even have your thermostat automatically adjust when you leave home sign up foralarm.com this month and receive a free smart sir",
+      "uuid": "674ff8a9-9c2d-45fe-97d3-4b7dff96a930"
     },
-    "840": {
+    {
       "requestid": "9b3cbd09-9360-4398-93da-359e704dcb1b",
       "confidence": "0.8154697",
       "timestamp": 840,
-      "content": "ustadh go to alarm.com and enter promo code podcast defined authorized dealers near you safe home smart living powered by a"
+      "content": "ustadh go to alarm.com and enter promo code podcast defined authorized dealers near you safe home smart living powered by a",
+      "uuid": "c146ebb4-ae99-4a06-8f28-83feae430f5e"
     },
-    "850": {
+    {
       "requestid": "2d2c3aad-1c50-4c7e-b604-90de3d45ed75",
       "confidence": "0.908641",
       "timestamp": 850,
-      "content": "alarm.com"
+      "content": "alarm.com",
+      "uuid": "dbfedc5c-6881-4e06-ae13-ab185f45e960"
     },
-    "860": {
+    {
       "requestid": "82d51cee-224e-4664-9d5c-2ed3f3d4daa0",
       "confidence": "0.5249807",
       "timestamp": 860,
-      "content": "stephen dubner"
+      "content": "stephen dubner",
+      "uuid": "4f30fd53-dd04-4375-a929-ee50d4d1f752"
     },
-    "870": {
+    {
       "requestid": "8da19f3b-3cc8-435b-b7b1-3c326abf7b0f",
       "confidence": "0.7670552",
       "timestamp": 870,
-      "content": "something that you own that you should probably throw out but never will considering is nubuck modern romance is about finding love in the digital age"
+      "content": "something that you own that you should probably throw out but never will considering is nubuck modern romance is about finding love in the digital age",
+      "uuid": "3fce70bc-e522-48dd-9ade-5e99696dd6df"
     },
-    "880": {
+    {
       "requestid": "e8ed394b-5671-4a23-896e-3e84a8a0d21f",
       "confidence": "0.755858",
       "timestamp": 880,
-      "content": "santa might surprise you been trying to throw out my email address and I ran away are you like hotmail are something no I had like an email address I can"
+      "content": "santa might surprise you been trying to throw out my email address and I ran away are you like hotmail are something no I had like an email address I can",
+      "uuid": "136bf066-1270-48fe-966f-154669b9de3a"
     },
-    "890": {
+    {
       "requestid": "ecde7452-5cdf-483b-b5b5-77bdf2888ad0",
       "confidence": "0.7233572",
       "timestamp": 890,
-      "content": "at work email address and I'll just get so many emails and I started show me my tv show I set up a thing that said like to see no dad I'm not check my email is"
+      "content": "at work email address and I'll just get so many emails and I started show me my tv show I set up a thing that said like to see no dad I'm not check my email is",
+      "uuid": "45db8f6f-8764-4ed8-b0da-ce7cc21271e2"
     },
-    "900": {
+    {
       "requestid": "bd0d56ff-dd85-43a4-8932-4c64fa48f9e4",
       "confidence": "0.7272622",
       "timestamp": 900,
-      "content": "worldcon and you can call me and I had like an assistant on my shoulders I can call her in like she'll tell me what's up it'll figure it out and you know you realise is all"
+      "content": "worldcon and you can call me and I had like an assistant on my shoulders I can call her in like she'll tell me what's up it'll figure it out and you know you realise is all",
+      "uuid": "ba2a815c-713a-4155-8eaa-1be4fe8e9d65"
     },
-    "910": {
+    {
       "requestid": "165aae52-414f-4720-b9ef-f1308f85a11b",
       "confidence": "0.6995606",
       "timestamp": 910,
-      "content": "ratchet people you know about all the time all day none of it is important not pressing and if you just focus on the work your doing instead of"
+      "content": "ratchet people you know about all the time all day none of it is important not pressing and if you just focus on the work your doing instead of",
+      "uuid": "327c18b8-f737-4dee-90cb-d55753b4dcdb"
     },
-    "920": {
+    {
       "requestid": "162daa5f-1511-4abb-8b22-79821419e70a",
       "confidence": "0.8214118",
       "timestamp": 920,
-      "content": "getting on flight 2 minutes and I'm getting distracted to answer some questions that is impressing it off you do a worse job so I found out I'm much more fun"
+      "content": "getting on flight 2 minutes and I'm getting distracted to answer some questions that is impressing it off you do a worse job so I found out I'm much more fun",
+      "uuid": "2ef06196-4af7-40b9-bc54-fcecb29838ea"
     },
-    "930": {
+    {
       "requestid": "a9b371cd-949f-4cae-8793-e0f754948e0a",
       "confidence": "0.7371973",
       "timestamp": 930,
-      "content": "this when I don't have those little questions and at the end of the day I just have to tell me in on everything like also on the phone at work cos I'm in the morn"
+      "content": "this when I don't have those little questions and at the end of the day I just have to tell me in on everything like also on the phone at work cos I'm in the morn",
+      "uuid": "76c03afd-5c95-4b17-bc23-1e9097e8918c"
     },
-    "940": {
+    {
       "requestid": "a390e98a-c40c-4c5c-a56a-85b2d3a7220b",
       "confidence": "0.7436876",
       "timestamp": 940,
-      "content": "bang and then I can focus all I'm doing throughout the day and to much my head is much clearer why do that so I'd I'd love to just throw out I get robbie internet as well I'd be great"
+      "content": "bang and then I can focus all I'm doing throughout the day and to much my head is much clearer why do that so I'd I'd love to just throw out I get robbie internet as well I'd be great",
+      "uuid": "95c1879c-992d-4eec-9267-963e691e030b"
     },
-    "950": {
+    {
       "requestid": "65a61f86-6dda-4b24-bac1-d85599639b3c",
       "confidence": "0.7257613",
       "timestamp": 950,
-      "content": "I never read anything I've never read like all these novels I deleted the beautiful stories that have some continue to have a resonance with"
+      "content": "I never read anything I've never read like all these novels I deleted the beautiful stories that have some continue to have a resonance with",
+      "uuid": "47102320-f776-4e38-8e2b-178bfa3c3b33"
     },
-    "960": {
+    {
       "requestid": "71c9a16f-2c14-45c8-aef9-8e37425f5af5",
       "confidence": "0.8038041",
       "timestamp": 960,
-      "content": "look for so many generations look beautiful works of art daiquiri at any point but instead I choose not to read them and I just read the in"
+      "content": "look for so many generations look beautiful works of art daiquiri at any point but instead I choose not to read them and I just read the in",
+      "uuid": "17cacdc8-bbf6-4b21-865d-a48cea384255"
     },
-    "970": {
+    {
       "requestid": "f88598f4-81f4-4665-b20c-4b6ae36cc4ca",
       "confidence": "0.6608461",
       "timestamp": 970,
-      "content": "annette constantly in here bout who said a racial slur or look at a photo of what ludacris did last week and you know just use"
+      "content": "annette constantly in here bout who said a racial slur or look at a photo of what ludacris did last week and you know just use",
+      "uuid": "41ec8cfe-d30d-4d9b-afba-c869421c858e"
     },
-    "980": {
+    {
       "requestid": "d2d89395-9b05-4f80-9688-28fe445abd46",
       "confidence": "0.7063892",
       "timestamp": 980,
-      "content": "the stuff and it's i are eating at so much I feel like I'm like on page a million of the worst book ever and I just won't stop waiting for some reason its"
+      "content": "the stuff and it's i are eating at so much I feel like I'm like on page a million of the worst book ever and I just won't stop waiting for some reason its",
+      "uuid": "25cb1ee8-f541-4c66-bee7-9aad4d52ca96"
     },
-    "990": {
+    {
       "requestid": "e5c4a07b-f1c9-411c-93f4-a8dd8d0583b5",
       "confidence": "0.8438185",
       "timestamp": 990,
-      "content": "so addictive so it's interesting could you sound like a pretty I mean you're pretty disciplined person overall it sounds like you do a lot of work and you"
+      "content": "so addictive so it's interesting could you sound like a pretty I mean you're pretty disciplined person overall it sounds like you do a lot of work and you",
+      "uuid": "39821fa9-c210-42c8-b6da-e1ae80aa097a"
     },
-    "1000": {
+    {
       "requestid": "0639b655-dc90-49a2-982f-064b5b3ec1b1",
       "confidence": "0.7375486",
       "timestamp": 1000,
-      "content": "yorktown abbey season like you like to work so make so easy to do that but still I mean let me ask you this do you think that you really wish you didn't really know that all time it would read books"
+      "content": "yorktown abbey season like you like to work so make so easy to do that but still I mean let me ask you this do you think that you really wish you didn't really know that all time it would read books",
+      "uuid": "b1871f7a-a108-41d9-bfca-2b6b42863478"
     },
-    "1010": {
+    {
       "requestid": "a1eaf94a-de8e-48af-93c6-fe8408ed0147",
       "confidence": "0.8093539",
       "timestamp": 1010,
-      "content": "instead what do you think that you know what you just like it and you kinda feel guilty about it and so you say that because it sounds like the thing that you want to be true maybe old"
+      "content": "instead what do you think that you know what you just like it and you kinda feel guilty about it and so you say that because it sounds like the thing that you want to be true maybe old",
+      "uuid": "692edf96-f8b5-4c02-b97b-d3488f1eff43"
     },
-    "1020": {
+    {
       "requestid": "0e0a3e55-1e7d-471f-b9ff-2812b1fc460b",
       "confidence": "0.6678293",
       "timestamp": 1020,
-      "content": "I am I thought about the stuff a lot here here as well so I'll say like the times where I haven't read that stuff the stuff that I normally read on the internet this nonsense bloser whatever"
+      "content": "I am I thought about the stuff a lot here here as well so I'll say like the times where I haven't read that stuff the stuff that I normally read on the internet this nonsense bloser whatever",
+      "uuid": "0a36ad74-b3b6-493b-8fea-d1badb99bccf"
     },
-    "1030": {
+    {
       "requestid": "a1c160c2-2dd3-45bf-bfef-611aac15a858",
       "confidence": "0.8277004",
       "timestamp": 1030,
-      "content": "the next day I feel like I've missed nothing you know I'm I deleted like twitter and instagram off my phone I'm gonna use in do I post stuff but I don't"
+      "content": "the next day I feel like I've missed nothing you know I'm I deleted like twitter and instagram off my phone I'm gonna use in do I post stuff but I don't",
+      "uuid": "2db9e579-e1c0-4bc0-b29f-5c252d2efc9d"
     },
-    "1040": {
+    {
       "requestid": "566fb589-34b0-4a6c-9822-6f9e375f60cb",
       "confidence": "0.6916746",
       "timestamp": 1040,
-      "content": "am I don't have am on my phone I don't have like a fetal phone you want a nice read that stuff a lot and now I only did I don't see those pictures"
+      "content": "am I don't have am on my phone I don't have like a fetal phone you want a nice read that stuff a lot and now I only did I don't see those pictures",
+      "uuid": "0df3348b-7f7b-4d09-89fd-63d7e8883b12"
     },
-    "1050": {
+    {
       "requestid": "31a7198d-e19d-4dc9-8b07-861748279b09",
       "confidence": "0.7625446",
       "timestamp": 1050,
-      "content": "and I don't miss it and I feel like a lot of people do a lot of the stuff at the cut it out I don't think they miss it that much I really don't i mean it when I don't check in on those blason"
+      "content": "and I don't miss it and I feel like a lot of people do a lot of the stuff at the cut it out I don't think they miss it that much I really don't i mean it when I don't check in on those blason",
+      "uuid": "1a2b43a7-807c-49d4-982e-bfc19ba9b2df"
     },
-    "1060": {
+    {
       "requestid": "a4f2e9a3-aec5-4e5c-8b7c-4f8691705c40",
       "confidence": "0.705878",
       "timestamp": 1060,
-      "content": "if I miss it I don't go back in like like if you don't read your block for a week right you go back in like now you're blocked eclipsing like a blob that you check"
+      "content": "if I miss it I don't go back in like like if you don't read your block for a week right you go back in like now you're blocked eclipsing like a blob that you check",
+      "uuid": "2fd696c7-995b-4965-b090-6530e0b1b577"
     },
-    "1070": {
+    {
       "requestid": "6b606931-2624-4805-9a8e-55d236afeea2",
       "confidence": "0.7171403",
       "timestamp": 1070,
-      "content": "right ignore read it for a week right when you come back you don't go back and re money today weather friday coz you're not reading it for the information where you re"
+      "content": "right ignore read it for a week right when you come back you don't go back and re money today weather friday coz you're not reading it for the information where you re",
+      "uuid": "a40e584d-9acd-493b-9848-d54904953cd1"
     },
-    "1080": {
+    {
       "requestid": "de6f3302-6611-436a-854a-fe7fe8916769",
       "confidence": "0.7474704",
       "timestamp": 1080,
-      "content": "look for in this is this is my personal theories about the stuff will you read it for is ahead of this drug called"
+      "content": "look for in this is this is my personal theories about the stuff will you read it for is ahead of this drug called",
+      "uuid": "c5a9e0d4-63ba-44f8-a490-38ef069d0cc7"
     },
-    "1090": {
+    {
       "requestid": "98038de0-77d9-4b4b-bcfe-33e8446ad9b7",
       "confidence": "0.7175617",
       "timestamp": 1090,
-      "content": "the internet the phone world east wanna have it like when you when you scroll down to see a new block list yahoo dot like get your brain excited little there something new when you click it"
+      "content": "the internet the phone world east wanna have it like when you when you scroll down to see a new block list yahoo dot like get your brain excited little there something new when you click it",
+      "uuid": "a9048fc3-1801-45d2-b639-97b85e2965aa"
     },
-    "1100": {
+    {
       "requestid": "f1f7aeec-7e2e-4c2c-8309-57c16242c9ea",
       "confidence": "0.6244216",
       "timestamp": 1100,
-      "content": "new reading ago but it's garbage it's nothing it's like ok like and write some somebody dropping in bomb great alright I'm in that is kinda cool story bro"
+      "content": "new reading ago but it's garbage it's nothing it's like ok like and write some somebody dropping in bomb great alright I'm in that is kinda cool story bro",
+      "uuid": "05a2b71d-f3a3-4d21-8b86-e49b93d225a1"
     },
-    "1110": {
+    {
       "requestid": "53868386-9566-49f1-8f0d-257202c454f9",
       "confidence": "0.6987038",
       "timestamp": 1110,
-      "content": "are you just searching for this new thing like when you look on your facebook feed me see these pictures like that <profanity>shit</profanity> really matter just just wanna see a new thing on their eggs give you some to do my apps"
+      "content": "are you just searching for this new thing like when you look on your facebook feed me see these pictures like that <profanity>shit</profanity> really matter just just wanna see a new thing on their eggs give you some to do my apps",
+      "uuid": "46032ba1-b403-4105-85df-98ac236d1695"
     },
-    "1120": {
+    {
       "requestid": "ee2a3544-dc26-4e05-9817-4e165c517719",
       "confidence": "0.6906199",
       "timestamp": 1120,
-      "content": "on my computer I still do it I go on my facebook whatever and I was like what am I doing I just gonna go on a loop with the same for science for no reason I'm not genuinely interested like"
+      "content": "on my computer I still do it I go on my facebook whatever and I was like what am I doing I just gonna go on a loop with the same for science for no reason I'm not genuinely interested like",
+      "uuid": "e647032a-aef0-4c5e-928e-dbeb732394a3"
     },
-    "1130": {
+    {
       "requestid": "1d6d5b46-c71a-40c9-b022-89fd6e46f2df",
       "confidence": "0.5874521",
       "timestamp": 1130,
-      "content": "cute here's a test like ok like take like your night lyr morning like browse of of of the internet try again facebook feed into rampid clearwater ok so am I"
+      "content": "cute here's a test like ok like take like your night lyr morning like browse of of of the internet try again facebook feed into rampid clearwater ok so am I",
+      "uuid": "02ebe7d7-4f2f-4bf1-939e-dd50bd85b841"
     },
-    "1140": {
+    {
       "requestid": "c02ff72f-fcbd-46a6-9e14-38aa448e9414",
       "confidence": "0.6172206",
       "timestamp": 1140,
-      "content": "every morning hey I'm gonna print this and give you bound copy of all the stuff you really don't have to use internet is getting bound copy of it would you read that book know you got this book sucks"
+      "content": "every morning hey I'm gonna print this and give you bound copy of all the stuff you really don't have to use internet is getting bound copy of it would you read that book know you got this book sucks",
+      "uuid": "b6823a84-e462-4d7e-9549-93d8f243f237"
     },
-    "1150": {
+    {
       "requestid": "7bde633f-33c8-4070-aa1a-79fa27f0ee3d",
       "confidence": "0.6133802",
       "timestamp": 1150,
-      "content": "is there there's at least some articles about you know horse inn in at that like found it on her somehow it's not that interesting I kinda like a story about the horse it on the down"
+      "content": "is there there's at least some articles about you know horse inn in at that like found it on her somehow it's not that interesting I kinda like a story about the horse it on the down",
+      "uuid": "6505d71e-8584-4fc8-965a-67a93346c2a3"
     },
-    "1160": {
+    {
       "requestid": "31a32721-f863-4e2f-8dd4-1794d4ef8c14",
       "confidence": "0.6557888",
       "timestamp": 1160,
-      "content": "are you know that does actually sound kinda sweet you know I'd let you know maybe just me to bring a copy of jeff the animal stuff while I need every dollar store is by animals the founder owner"
+      "content": "are you know that does actually sound kinda sweet you know I'd let you know maybe just me to bring a copy of jeff the animal stuff while I need every dollar store is by animals the founder owner",
+      "uuid": "0b1d5ddb-a446-491a-a54d-10336fdd3b44"
     },
-    "1170": {
+    {
       "requestid": "4683051b-e2d7-45f0-a0e7-86b7b7ed5bd4",
       "confidence": "0.6112669",
       "timestamp": 1170,
-      "content": "vanessa be tripping read that would be an amazing short story collection that is each app is broken down my animals dogs cats horses reptile reptile ch bing credit"
+      "content": "vanessa be tripping read that would be an amazing short story collection that is each app is broken down my animals dogs cats horses reptile reptile ch bing credit",
+      "uuid": "465c88db-6c04-4958-8688-4957a367c926"
     },
-    "1180": {
+    {
       "requestid": "5807b94a-a975-4047-8d54-d4286b0c7189",
       "confidence": "0.7636173",
       "timestamp": 1180,
-      "content": "old is mick one of those in arizona but somehow gonna fly to minneapolis alright I read that well so what you know some people would say like even"
+      "content": "old is mick one of those in arizona but somehow gonna fly to minneapolis alright I read that well so what you know some people would say like even",
+      "uuid": "6192d568-e329-4b55-b692-e99fdc96b016"
     },
-    "1190": {
+    {
       "requestid": "371e5dd0-4bfa-4347-a50e-2fe7db94aec7",
       "confidence": "0.7256097",
       "timestamp": 1190,
-      "content": "mccomas would say is that well you are you know you were built preferences what you actually do is that right and that means seton at route that"
+      "content": "mccomas would say is that well you are you know you were built preferences what you actually do is that right and that means seton at route that",
+      "uuid": "8829ad8e-2056-4be8-8d2c-9e5e6427cd89"
     },
-    "1200": {
+    {
       "requestid": "fd825f09-6f4a-4890-9546-8747874967c4",
       "confidence": "0.8009126",
       "timestamp": 1200,
-      "content": "you want it you write in the book about dating in this whole notion of the paradox of choice do you think that's what you're up against now do you think that's what your internet you know craving is a badger"
+      "content": "you want it you write in the book about dating in this whole notion of the paradox of choice do you think that's what you're up against now do you think that's what your internet you know craving is a badger",
+      "uuid": "29536b8b-1196-4b9e-a0db-60ea25bbc9b0"
     },
-    "1210": {
+    {
       "requestid": "e9028e55-f5e3-4eb3-96e5-edd7871acff2",
       "confidence": "0.766817",
       "timestamp": 1210,
-      "content": "so much stuff that potentially might be exciting we spent a lot of time and crap that is not all exciting just by process of elimination you mean I mean that like oh well if I"
+      "content": "so much stuff that potentially might be exciting we spent a lot of time and crap that is not all exciting just by process of elimination you mean I mean that like oh well if I",
+      "uuid": "a0cdc160-f536-43bc-89d3-93e96d58fd51"
     },
-    "1220": {
+    {
       "requestid": "80ec8ec2-b02f-4336-b2f2-8dc32d20c4b4",
       "confidence": "0.7472652",
       "timestamp": 1220,
-      "content": "I do enjoy that stuff I time it's revealing I do actually like if I do look at I do like to some rain tree right but I would say this I am the problem is"
+      "content": "I do enjoy that stuff I time it's revealing I do actually like if I do look at I do like to some rain tree right but I would say this I am the problem is",
+      "uuid": "d3574882-7ffa-4c30-93c9-dd94be726937"
     },
-    "1230": {
+    {
       "requestid": "8fe1991d-0aae-42ec-8eca-dc9267c276df",
       "confidence": "0.8636507",
       "timestamp": 1230,
-      "content": "when I take that step away right like if I go to dinner I don't have my phone I don't miss those moments of looking at my phone if I had"
+      "content": "when I take that step away right like if I go to dinner I don't have my phone I don't miss those moments of looking at my phone if I had",
+      "uuid": "18e47220-328f-4c14-b3ce-0fc498f2a89f"
     },
-    "1240": {
+    {
       "requestid": "df455e95-8c0b-419f-a64b-d706ad8631a1",
       "confidence": "0.7289142",
       "timestamp": 1240,
-      "content": "phone with me I wanna look at 'cause its its drug like it so did you wanna check it into see what's going on at anytime there's a long conversation attention spans are so short"
+      "content": "phone with me I wanna look at 'cause its its drug like it so did you wanna check it into see what's going on at anytime there's a long conversation attention spans are so short",
+      "uuid": "a45bebe5-f3a4-4480-84f6-6679c090804d"
     },
-    "1250": {
+    {
       "requestid": "3793a251-80a6-4c62-b9eb-f45b1ff0364d",
       "confidence": "0.8267401",
       "timestamp": 1250,
-      "content": "you just have to look at it but I don't like that I have to look at I don't like that and that compulsively addicted to check my phone and internet I definitely don't like"
+      "content": "you just have to look at it but I don't like that I have to look at I don't like that and that compulsively addicted to check my phone and internet I definitely don't like",
+      "uuid": "467370f2-1859-458f-a74c-ec041c2073ef"
     },
-    "1260": {
+    {
       "requestid": "7207d2db-5bcd-440d-972e-b7cc27c9c63d",
       "confidence": "0.683431",
       "timestamp": 1260,
-      "content": "dad so did you know I found a way to fight this kind of addiction is is the cab take the phone to water out of the equation you know and then you"
+      "content": "dad so did you know I found a way to fight this kind of addiction is is the cab take the phone to water out of the equation you know and then you",
+      "uuid": "89e13d9f-d876-4b65-9d40-6e7341f8ecde"
     },
-    "1270": {
+    {
       "requestid": "15ec1927-7a14-4c74-87d2-3f8326f16794",
       "confidence": "0.7394719",
       "timestamp": 1270,
-      "content": "being able to have resisted like in you forget about it in your mind cities for me hey what do you collect if anything in my what do I click"
+      "content": "being able to have resisted like in you forget about it in your mind cities for me hey what do you collect if anything in my what do I click",
+      "uuid": "89703db6-58be-4d45-8add-e6a0782b3a6d"
     },
-    "1280": {
+    {
       "requestid": "461d4f13-27a9-4842-bd17-4c5e585b2c67",
       "confidence": "0.6341477",
       "timestamp": 1280,
-      "content": "I am I had a certain way for buying at some older cameras I start buying what is like old polaroid cameras in some film cameras have to those who"
+      "content": "I am I had a certain way for buying at some older cameras I start buying what is like old polaroid cameras in some film cameras have to those who",
+      "uuid": "8f60589f-8cf7-47e2-a84c-f7460d207ae2"
     },
-    "1290": {
+    {
       "requestid": "d2ca470f-2bb9-4aee-aa90-a37a577795bc",
       "confidence": "0.6209089",
       "timestamp": 1290,
-      "content": "a lot about cameras and I didn't i look up to shoot with me just like having no issue with them I like taking some pictures this is something interesting about it I get to get cool pictures and got a funny"
+      "content": "a lot about cameras and I didn't i look up to shoot with me just like having no issue with them I like taking some pictures this is something interesting about it I get to get cool pictures and got a funny",
+      "uuid": "f56dc31a-b5c9-4505-ad64-3bb9e44ff143"
     },
-    "1300": {
+    {
       "requestid": "00b74ac0-4033-413a-9298-12ec7a425b38",
       "confidence": "0.7286679",
       "timestamp": 1300,
-      "content": "author author wanna see the photos and yet again forgot about it kind of a little you are such an old man kind of at the same time though is it is weird like I just went on"
+      "content": "author author wanna see the photos and yet again forgot about it kind of a little you are such an old man kind of at the same time though is it is weird like I just went on",
+      "uuid": "801cf63e-9ab0-4831-949c-aeb34adf34fc"
     },
-    "1310": {
+    {
       "requestid": "6ba6fe45-237c-468a-ab0d-b2f1270f7e6e",
       "confidence": "0.840088",
       "timestamp": 1310,
-      "content": "yes I took my girlfriend on this vacation for birthday last weekend and I took all the photos my film camera and I'm like describing these places to a friend of mine and I'm like"
+      "content": "yes I took my girlfriend on this vacation for birthday last weekend and I took all the photos my film camera and I'm like describing these places to a friend of mine and I'm like",
+      "uuid": "b0f50272-26ea-4c6b-af17-ce62ce3816c3"
     },
-    "1320": {
+    {
       "requestid": "441e0156-98c6-44a0-becc-72a55962db86",
       "confidence": "0.6545513",
       "timestamp": 1320,
-      "content": "identify to die fotos I could show on those photos that mean there is a convenience to will we have now what's the biggest upside for you are being well known"
+      "content": "identify to die fotos I could show on those photos that mean there is a convenience to will we have now what's the biggest upside for you are being well known",
+      "uuid": "8f388cac-c4c2-4c9c-80c6-ac76514fa33a"
     },
-    "1330": {
+    {
       "requestid": "79d1b223-f8cc-4339-831f-723fbca6c9e1",
       "confidence": "0.8178921",
       "timestamp": 1330,
-      "content": "the biggest upside of being well known is that random people are really nice to you all the time people drink"
+      "content": "the biggest upside of being well known is that random people are really nice to you all the time people drink",
+      "uuid": "120d5b60-36d8-4de9-b1b2-8aa981764bf5"
     },
-    "1340": {
+    {
       "requestid": "42068fd3-620f-442d-9732-eebffad321a7",
       "confidence": "0.8072136",
       "timestamp": 1340,
-      "content": "find to be nice to you and strangers come up to you and they tell you they appreciate the work that you do and I especially new york new york's very cool cars in"
+      "content": "find to be nice to you and strangers come up to you and they tell you they appreciate the work that you do and I especially new york new york's very cool cars in",
+      "uuid": "b962a056-6d68-4c5a-ad56-a691d68f8069"
     },
-    "1350": {
+    {
       "requestid": "301ba36b-1643-4f21-b614-7c952fd06479",
       "confidence": "0.7228768",
       "timestamp": 1350,
-      "content": "doctor swaleh for people that want photos and just wanted to take a photo with you as a celebrity just posted on social media would have"
+      "content": "doctor swaleh for people that want photos and just wanted to take a photo with you as a celebrity just posted on social media would have",
+      "uuid": "2473e9aa-a63a-462f-8fed-e98b157c3525"
     },
-    "1360": {
+    {
       "requestid": "8fa0dac8-4087-437c-b27e-866349b7ccec",
       "confidence": "0.6632661",
       "timestamp": 1360,
-      "content": "is way more people is kinda seeing you and give you an odd or they'll give you thumbs up else like old guys like with his friends like I'm not gonna stop him and I ask"
+      "content": "is way more people is kinda seeing you and give you an odd or they'll give you thumbs up else like old guys like with his friends like I'm not gonna stop him and I ask",
+      "uuid": "c443898c-77b1-42f4-b254-248b8511e007"
     },
-    "1370": {
+    {
       "requestid": "65c775f6-831e-4229-9579-b342e8de06b1",
       "confidence": "0.5848837",
       "timestamp": 1370,
-      "content": "profoto whenever I'm talking again LOL not to say like a love you work and I appreciate that I think it's really nice you know if people ask for photo at I am I can I swear conatel be like"
+      "content": "profoto whenever I'm talking again LOL not to say like a love you work and I appreciate that I think it's really nice you know if people ask for photo at I am I can I swear conatel be like",
+      "uuid": "a8e2d8d7-391a-480b-8360-dece991f72cb"
     },
-    "1380": {
+    {
       "requestid": "d5a39f40-fc0b-4bdc-89a3-d2a232eb79a3",
       "confidence": "0.6418918",
       "timestamp": 1380,
-      "content": "weather night for the what's your name like that how much watching work and I'm genuinely like very appreciative and and and people in your cat at and and at at at at at at it it's a"
+      "content": "weather night for the what's your name like that how much watching work and I'm genuinely like very appreciative and and and people in your cat at and and at at at at at at it it's a",
+      "uuid": "fe3555fe-cda2-4bce-8e03-dc5b7fb4a732"
     },
-    "1390": {
+    {
       "requestid": "f6adac7b-83ff-4f2a-a280-039f3440d27f",
       "confidence": "0.7401164",
       "timestamp": 1390,
-      "content": "yeah it's a cool thing is just yelled to see people like giving you positive feedback to 20 work so <profanity>hard on</profanity> all the time in why do you do that what's the point of not doing a photo"
+      "content": "yeah it's a cool thing is just yelled to see people like giving you positive feedback to 20 work so <profanity>hard on</profanity> all the time in why do you do that what's the point of not doing a photo",
+      "uuid": "cf14e54c-03c7-4b7d-a0fe-56164b1d5b78"
     },
-    "1400": {
+    {
       "requestid": "857b5e42-9338-406a-a91e-af68725a3bd3",
       "confidence": "0.6994655",
       "timestamp": 1400,
-      "content": "well I'd say it like what happens if let you know when I first was start acting stuff like heard about an actor that I can take photos in"
+      "content": "well I'd say it like what happens if let you know when I first was start acting stuff like heard about an actor that I can take photos in",
+      "uuid": "6d8ea65f-48cd-4e0f-beea-b2b6528a44c0"
     },
-    "1410": {
+    {
       "requestid": "b1b61a1e-7716-4e2b-b131-90f002a7afec",
       "confidence": "0.5189523",
       "timestamp": 1410,
-      "content": "it's like no one seems kinda <profanity>shitty</profanity> like why not its not a big deal like I would take every photo that is exciting happen often restaurant point like if you"
+      "content": "it's like no one seems kinda <profanity>shitty</profanity> like why not its not a big deal like I would take every photo that is exciting happen often restaurant point like if you",
+      "uuid": "1200050a-9964-4153-83cd-afdfb7f69b51"
     },
-    "1420": {
+    {
       "requestid": "53bb5496-10d7-4a33-a092-6e601ed3053f",
       "confidence": "0.7220023",
       "timestamp": 1420,
-      "content": "walking in the street new york near black summarecon agung you get stop all the time and you can either take all this phone"
+      "content": "walking in the street new york near black summarecon agung you get stop all the time and you can either take all this phone",
+      "uuid": "d7deaf2d-4294-4ee9-8f13-8b993a36fcc7"
     },
-    "1430": {
+    {
       "requestid": "01d120bd-0099-4b6f-b608-9e2982a47c4b",
       "confidence": "0.644517",
       "timestamp": 1430,
-      "content": "and then I used to do that but I started becoming kinda grumpy person like I would so do and I'll be coming from people doing it like alec baldwin grumpier just a lil bit grumpy noticed like an hour"
+      "content": "and then I used to do that but I started becoming kinda grumpy person like I would so do and I'll be coming from people doing it like alec baldwin grumpier just a lil bit grumpy noticed like an hour",
+      "uuid": "9bdf2c31-20ba-4a09-ab6c-54403b52ece3"
     },
-    "1440": {
+    {
       "requestid": "2d10ef3a-1f4b-45af-a45b-3558fa9b5582",
       "confidence": "0.6848951",
       "timestamp": 1440,
-      "content": "flashes nanor like you night night you know if things never go its never like this quick thing that you made it right I need to keep it in like the name again I hate like I'm not like complaining about the stuff"
+      "content": "flashes nanor like you night night you know if things never go its never like this quick thing that you made it right I need to keep it in like the name again I hate like I'm not like complaining about the stuff",
+      "uuid": "fd9edf85-f50c-4c52-ae0f-676b69e4b1d9"
     },
-    "1450": {
+    {
       "requestid": "a7237f78-573e-4d9c-b6c1-40e255a01e35",
       "confidence": "0.746883",
       "timestamp": 1450,
-      "content": "coz I know I'm so lucky in a billion ways and I complain this but you don't think about like oh your with like a girlfriend and every minute he gets to"
+      "content": "coz I know I'm so lucky in a billion ways and I complain this but you don't think about like oh your with like a girlfriend and every minute he gets to",
+      "uuid": "c4ac93d2-3c63-4444-99fd-2b36ffc062d6"
     },
-    "1460": {
+    {
       "requestid": "67990d50-ed77-4976-bee9-3674dd8834bb",
       "confidence": "0.6893598",
       "timestamp": 1460,
-      "content": "and people that stop you when your with your friends your girlfriend like trying am not brutta number they don't treat a liter of people be like hey take this of us and so they"
+      "content": "and people that stop you when your with your friends your girlfriend like trying am not brutta number they don't treat a liter of people be like hey take this of us and so they",
+      "uuid": "37c47a34-a535-428f-9086-ab412bc2a63e"
     },
-    "1470": {
+    {
       "requestid": "32e2a090-378d-4092-8a54-b2f3cb77d7bd",
       "confidence": "0.8344885",
       "timestamp": 1470,
-      "content": "mean to your other friends sometimes and your other friend get a little annoyed at like every 30 seconds you have to stop and do this whole thing and you take 1 picture the St"
+      "content": "mean to your other friends sometimes and your other friend get a little annoyed at like every 30 seconds you have to stop and do this whole thing and you take 1 picture the St",
+      "uuid": "fe708815-543b-4803-abfb-3261c95c631b"
     },
-    "1480": {
+    {
       "requestid": "12499af6-ca8a-4a00-af41-997c55b53ca7",
       "confidence": "0.645117",
       "timestamp": 1480,
-      "content": "some people see it now what's going on rn and they come over and anna benson there's like some tourist you like who are you what are you doing anything I just an actor guy and if you recognize it I come in"
+      "content": "some people see it now what's going on rn and they come over and anna benson there's like some tourist you like who are you what are you doing anything I just an actor guy and if you recognize it I come in",
+      "uuid": "07c6649c-94db-4756-9241-a92c61dbb7a0"
     },
-    "1490": {
+    {
       "requestid": "e98a2137-aeff-4637-8cf0-824a4305e4e9",
       "confidence": "0.6421171",
       "timestamp": 1490,
-      "content": "are getting one day I don't even think you know who I am and what I do but he needed to the closet hoping we can you do that or you can have this like a real mermaid with a person we say hey"
+      "content": "are getting one day I don't even think you know who I am and what I do but he needed to the closet hoping we can you do that or you can have this like a real mermaid with a person we say hey",
+      "uuid": "bc4f5d62-15f7-4b19-8416-1c1033661ca2"
     },
-    "1500": {
+    {
       "requestid": "fb2a4b87-1bb1-4119-86ec-12e6d5cc0c05",
       "confidence": "0.8368582",
       "timestamp": 1500,
-      "content": "how are you like what's your name like thanks for watching my stuff like and I'm happy to do that like that you like a real thing to me and I am I"
+      "content": "how are you like what's your name like thanks for watching my stuff like and I'm happy to do that like that you like a real thing to me and I am I",
+      "uuid": "1a8bf80e-4227-4446-98b7-3ce380fa7d93"
     },
-    "1510": {
+    {
       "requestid": "15241816-3b25-42b9-889c-35255ded102d",
       "confidence": "0.7028825",
       "timestamp": 1510,
-      "content": "happy to do that I'm in a comedy club when I saw louis ck do this and you just like a like with your name whenever alii to do that and I'm like oh my god that's great"
+      "content": "happy to do that I'm in a comedy club when I saw louis ck do this and you just like a like with your name whenever alii to do that and I'm like oh my god that's great",
+      "uuid": "a2e275d0-def2-4e4e-ad23-226d08929b3d"
     },
-    "1520": {
+    {
       "requestid": "0b2c27fd-8646-4bfd-87d7-11e7fdb6260a",
       "confidence": "0.6337419",
       "timestamp": 1520,
-      "content": "then you ought to be like this grampa might take this with her you can just say hi to someone at the cool he'll understand what most people get that you know the other thing is like nearly some people I know"
+      "content": "then you ought to be like this grampa might take this with her you can just say hi to someone at the cool he'll understand what most people get that you know the other thing is like nearly some people I know",
+      "uuid": "5bf75224-20f8-4bc7-b17f-75a04a0895d3"
     },
-    "1530": {
+    {
       "requestid": "3257fd57-315e-4dd5-a4d8-883c03cd5499",
       "confidence": "0.7445244",
       "timestamp": 1530,
-      "content": "there are famous to the point where like they don't even walk down the street name or your always in like a black car at level lego they had there in a black car and then they get down and they don't get to life"
+      "content": "there are famous to the point where like they don't even walk down the street name or your always in like a black car at level lego they had there in a black car and then they get down and they don't get to life",
+      "uuid": "881d27c5-3898-4e72-8f94-55e42cc6485e"
     },
-    "1540": {
+    {
       "requestid": "bc1ef192-5c8d-40a3-847b-9d8b84562c52",
       "confidence": "0.7191004",
       "timestamp": 1540,
-      "content": "be like normal people and I don't wanna lose that we gonna be able to walk around abea do you know is be person do you worried about that maybe it's not inevitable paradox with the potential pair"
+      "content": "be like normal people and I don't wanna lose that we gonna be able to walk around abea do you know is be person do you worried about that maybe it's not inevitable paradox with the potential pair",
+      "uuid": "6099fe42-c37b-4856-8376-9f4cf9489a40"
     },
-    "1550": {
+    {
       "requestid": "66e803a4-2edc-49d9-93b4-d2cf6e0a1308",
       "confidence": "0.7900789",
       "timestamp": 1550,
-      "content": "at which is the better you do your work or the more popular you get at least that does not necessarily relationship with a good work is now popular get but you know europe reform"
+      "content": "at which is the better you do your work or the more popular you get at least that does not necessarily relationship with a good work is now popular get but you know europe reform",
+      "uuid": "f533a298-7207-4a63-8e56-548865dba0e1"
     },
-    "1560": {
+    {
       "requestid": "a3dec07e-8830-4655-ac01-56d071a63f00",
       "confidence": "0.7462359",
       "timestamp": 1560,
-      "content": "your doctor comedian you make nishanthan you show for netflix alarm the more exposure you get the more likely that you are gonna lose the ability to just live life like that"
+      "content": "your doctor comedian you make nishanthan you show for netflix alarm the more exposure you get the more likely that you are gonna lose the ability to just live life like that",
+      "uuid": "b323cb17-7394-458d-89f1-face58171961"
     },
-    "1570": {
+    {
       "requestid": "bdb3f820-7581-47fd-b2a9-1b94d5144150",
       "confidence": "0.7511541",
       "timestamp": 1570,
-      "content": "new york you think about where the border is and do fear that you might cross fit I think the way I can I have things planned out like I'm not gonna do anything back as I get me to that point you know"
+      "content": "new york you think about where the border is and do fear that you might cross fit I think the way I can I have things planned out like I'm not gonna do anything back as I get me to that point you know",
+      "uuid": "94695d9b-9e82-4f2f-9084-61847ee4c21d"
     },
-    "1580": {
+    {
       "requestid": "43004098-b7ad-4c97-99aa-0d5e402d8bf5",
       "confidence": "0.8202125",
       "timestamp": 1580,
-      "content": "not like oh I'm gonna do you like the twilight reboot or something I've been very careful about what I choose to do na only do things at like I really like so I do things"
+      "content": "not like oh I'm gonna do you like the twilight reboot or something I've been very careful about what I choose to do na only do things at like I really like so I do things",
+      "uuid": "5b42c067-1078-44f7-bb7a-8eb8a5c9eaa0"
     },
-    "1590": {
+    {
       "requestid": "2b162cbf-a9ae-4c45-882a-6160314e29cb",
       "confidence": "0.809796",
       "timestamp": 1590,
-      "content": "I do she like parks are you stand up which is just gonna be you like you can attract people do you work with people you would probably enjoy meeting you speak english"
+      "content": "I do she like parks are you stand up which is just gonna be you like you can attract people do you work with people you would probably enjoy meeting you speak english",
+      "uuid": "daadf0ae-802a-417e-b304-56862e992402"
     },
-    "1600": {
+    {
       "requestid": "9ab7b6fe-6828-4cfc-89c4-45b7f771b732",
       "confidence": "0.6353766",
       "timestamp": 1600,
-      "content": "levi did some like do she showed that I did like a present duchi fans I don't like but since I've done stuff that I'm proud of and respect he will come up near cool and respect me"
+      "content": "levi did some like do she showed that I did like a present duchi fans I don't like but since I've done stuff that I'm proud of and respect he will come up near cool and respect me",
+      "uuid": "b1b3c877-3b97-41c1-b030-4769a0729b88"
     },
-    "1610": {
+    {
       "requestid": "a351a9d7-c1bc-4ed0-84a0-2c2cd1297dad",
       "confidence": "0.7563357",
       "timestamp": 1610,
-      "content": "E&I respect them and their musical people there I did you know so I think about the choices we make in and then what you do you know really"
+      "content": "E&I respect them and their musical people there I did you know so I think about the choices we make in and then what you do you know really",
+      "uuid": "a5980916-8938-44d8-a7ef-33e77548af81"
     },
-    "1620": {
+    {
       "requestid": "175266ba-9e20-49f5-8cd8-6edfde6bd208",
       "confidence": "0.7364838",
       "timestamp": 1620,
-      "content": "point tell me ask you this if you weren't doing what you do now include like any of it like comedy tv movies none of it um what do you think you would've ended up doing I pry be like"
+      "content": "point tell me ask you this if you weren't doing what you do now include like any of it like comedy tv movies none of it um what do you think you would've ended up doing I pry be like",
+      "uuid": "5532cb84-ab5f-41a7-854d-8affbb534d4c"
     },
-    "1630": {
+    {
       "requestid": "0f171628-e4b7-4503-b5bf-a461c5ad8bfa",
       "confidence": "0.5658123",
       "timestamp": 1630,
-      "content": "sad and fat somewhere eating a lot of food so how to know where they let you know that who knows I never had me like that"
+      "content": "sad and fat somewhere eating a lot of food so how to know where they let you know that who knows I never had me like that",
+      "uuid": "d91df543-ccae-452e-ba84-902e5287968c"
     },
-    "1640": {
+    {
       "requestid": "dc81a1c1-b2a7-44ad-a6e8-29d9834fa4e1",
       "confidence": "0.7125825",
       "timestamp": 1640,
-      "content": "the passion that I think I would've gravitate towards on you think you'd be living in new york are back in south carolina right somewhere in between"
+      "content": "the passion that I think I would've gravitate towards on you think you'd be living in new york are back in south carolina right somewhere in between",
+      "uuid": "be379f98-b0ca-4e7b-a9ee-608440a3affa"
     },
-    "1650": {
+    {
       "requestid": "7a3cd42c-62d1-432a-bab1-b3b4c37d76f3",
       "confidence": "0.7730944",
       "timestamp": 1650,
-      "content": "I would probably be living in new york and I think I have a lot of faith in the in the city of new york helping you figure out what you wanna do any night with the help me figure I wanna make me name is lynn york weather map in"
+      "content": "I would probably be living in new york and I think I have a lot of faith in the in the city of new york helping you figure out what you wanna do any night with the help me figure I wanna make me name is lynn york weather map in",
+      "uuid": "b8686b6e-4788-41d7-a9e9-badb764abeef"
     },
-    "1660": {
+    {
       "requestid": "49a4e52c-f6ea-4286-9cb5-036d0c98930a",
       "confidence": "0.6846026",
       "timestamp": 1660,
-      "content": "why you are anything so I probably can your guy I always went out in south carolina live in a very small town I always wanna be some are bigger stuff is happening in wayland new york is a song"
+      "content": "why you are anything so I probably can your guy I always went out in south carolina live in a very small town I always wanna be some are bigger stuff is happening in wayland new york is a song",
+      "uuid": "2dc4e778-24f3-49dc-97e2-c938c5736d19"
     },
-    "1670": {
+    {
       "requestid": "e3159fca-9b4e-42ca-accc-9d39d6b49a0b",
       "confidence": "0.6480101",
       "timestamp": 1670,
-      "content": "fighting 'cause I go to concerts and things like that like young bands don't come to south carolina like banges don't comma they do like their like you know and charlotte are some things at 3"
+      "content": "fighting 'cause I go to concerts and things like that like young bands don't come to south carolina like banges don't comma they do like their like you know and charlotte are some things at 3",
+      "uuid": "4d057bcb-2d5d-45bb-baaa-704c61058c6c"
     },
-    "1680": {
+    {
       "requestid": "a74ba6cd-a123-4037-931b-99a8a35cf8c2",
       "confidence": "0.6935417",
       "timestamp": 1680,
-      "content": "are dried maybe it's on weekends <profanity>nigga</profanity> who you know so I was excited to be in a place where things are happening in the thing that happened I was excited he was with comma doing"
+      "content": "are dried maybe it's on weekends <profanity>nigga</profanity> who you know so I was excited to be in a place where things are happening in the thing that happened I was excited he was with comma doing",
+      "uuid": "a34c54f3-4b07-4bef-81ad-830b1307419f"
     },
-    "1690": {
+    {
       "requestid": "614a6ac0-dd42-4266-94c8-c8eb53b43cf7",
       "confidence": "0.6233979",
       "timestamp": 1690,
-      "content": "I'm being that's what I kept telling too but I did maybe there been something else that has been idea maybe out of really gotten into roundup stop playing and bashing out trash can lids"
+      "content": "I'm being that's what I kept telling too but I did maybe there been something else that has been idea maybe out of really gotten into roundup stop playing and bashing out trash can lids",
+      "uuid": "591f382c-2833-4f76-8ddb-899c9c221c8e"
     },
-    "1700": {
+    {
       "requestid": "a83b69d3-d320-460e-a5c7-60d281591d55",
       "confidence": "0.823756",
       "timestamp": 1700,
-      "content": "I'm ok and finally just tell me something that no I'm almost nobody but maybe close friends and family would ever know about you"
+      "content": "I'm ok and finally just tell me something that no I'm almost nobody but maybe close friends and family would ever know about you",
+      "uuid": "63feb480-571b-404a-975f-9891d8d3dd95"
     },
-    "1710": {
+    {
       "requestid": "2e1e7946-b2cd-4057-98be-4911c64fbf4d",
       "confidence": "0.7117129",
       "timestamp": 1710,
-      "content": "tell me something that people were fans just would be really surprised to learn about you ok I'm so I do a thing where at night aye bro"
+      "content": "tell me something that people were fans just would be really surprised to learn about you ok I'm so I do a thing where at night aye bro",
+      "uuid": "fa927b1b-4eb0-44a2-9ed5-2eda038c0485"
     },
-    "1720": {
+    {
       "requestid": "77337c73-2b7a-4e21-be1f-beed140fd5a8",
       "confidence": "0.6191733",
       "timestamp": 1720,
-      "content": "my keys by the thing in the morning I brush my teeth in the shower right in that that you think that your distinctive thing way I am finished outside"
+      "content": "my keys by the thing in the morning I brush my teeth in the shower right in that that you think that your distinctive thing way I am finished outside",
+      "uuid": "2a0bbda1-2525-4981-8f02-08bfbad3ea93"
     },
-    "1730": {
+    {
       "requestid": "288b4155-2def-4c7b-a44e-22d3b70a43fa",
       "confidence": "0.6597539",
       "timestamp": 1730,
-      "content": "ok here's the thing every day starts with this moment of of a of this new sense of all"
+      "content": "ok here's the thing every day starts with this moment of of a of this new sense of all",
+      "uuid": "a91abaab-bcac-4143-be50-464e9f414f40"
     },
-    "1740": {
+    {
       "requestid": "2a95a716-a0b8-4848-afa5-d14b5394a167",
       "confidence": "0.6501021",
       "timestamp": 1740,
-      "content": "buy toothbrush and toothpaste at 6 but not now return of the shower in so I walk over and grab toothpaste and"
+      "content": "buy toothbrush and toothpaste at 6 but not now return of the shower in so I walk over and grab toothpaste and",
+      "uuid": "ced48025-9709-43f5-bcb7-4bf074d1dca8"
     },
-    "1750": {
+    {
       "requestid": "55dc34e8-f51b-4a8a-8c52-53f227cd3428",
       "confidence": "0.679326",
       "timestamp": 1750,
-      "content": "and a toothbrush and come back can I make out session for you because I think I'm doing well not that you could afford it is what if you got him he can keep one in the shower when it"
+      "content": "and a toothbrush and come back can I make out session for you because I think I'm doing well not that you could afford it is what if you got him he can keep one in the shower when it",
+      "uuid": "9ad25e8e-6ef1-4042-a606-13a47ee150c1"
     },
-    "1760": {
+    {
       "requestid": "68ffa312-9677-4a03-9f10-d8e79c19a163",
       "confidence": "0.6177425",
       "timestamp": 1760,
-      "content": "is the thing I bought another thing of toothpaste when I have yet to purchase the second toothbrush"
+      "content": "is the thing I bought another thing of toothpaste when I have yet to purchase the second toothbrush",
+      "uuid": "31789cf8-237b-4118-8341-330e85d2ff0d"
     },
-    "1770": {
+    {
       "requestid": "0fb84952-0fc0-4ab1-9f05-c3a59757c4ad",
       "confidence": "0.758016",
       "timestamp": 1770,
-      "content": "and I haven't tried remind myself to buy the second toothbrush for about 3 years so that's a big no one knows best"
+      "content": "and I haven't tried remind myself to buy the second toothbrush for about 3 years so that's a big no one knows best",
+      "uuid": "6e3668ed-6c56-414e-b9d9-628d0e02d09d"
     },
-    "1780": {
+    {
       "requestid": "089109e8-2e5a-4d76-8160-4deea430da19",
       "confidence": "0.6598369",
       "timestamp": 1780,
-      "content": "well does that mean that your primary toothbrush is 3 years old russian skater 30 toothbrush know I just keep forgetting to buy this <profanity>pissed</profanity>"
+      "content": "well does that mean that your primary toothbrush is 3 years old russian skater 30 toothbrush know I just keep forgetting to buy this <profanity>pissed</profanity>",
+      "uuid": "e7155d4b-c2cb-4ab0-a8b2-5e5d106731e6"
     },
-    "1790": {
+    {
       "requestid": "c950933c-e935-4a95-9d5f-ff9944941eba",
       "confidence": "0.5542601",
       "timestamp": 1790,
-      "content": "double up a toothbrush double have 2 of um so I have to go I'm gone wild and free and yell at me if I mess I made the show goes well I do and I'm sick too"
+      "content": "double up a toothbrush double have 2 of um so I have to go I'm gone wild and free and yell at me if I mess I made the show goes well I do and I'm sick too",
+      "uuid": "fbe27d11-fba4-4026-8a9b-7ca04184d6e1"
     },
-    "1800": {
+    {
       "requestid": "aeade7e6-f4b3-49af-84a3-434629922367",
       "confidence": "0.683404",
       "timestamp": 1800,
-      "content": "I can can I save up to $4 to buy that other toothbrush I would like to think let me say this to you aziz ansari may that be"
+      "content": "I can can I save up to $4 to buy that other toothbrush I would like to think let me say this to you aziz ansari may that be",
+      "uuid": "23ceeadb-2dfa-4d90-b214-1024b7453952"
     },
-    "1810": {
+    {
       "requestid": "8a3043ec-8502-4e8b-9c87-6cf0624299a7",
       "confidence": "0.7427256",
       "timestamp": 1810,
-      "content": "greivis problem you have to fight in your life yeah it's a really tough life is that the whole trying to stay off the internet thing and I do want pictures of santa"
+      "content": "greivis problem you have to fight in your life yeah it's a really tough life is that the whole trying to stay off the internet thing and I do want pictures of santa",
+      "uuid": "38d87b59-2eb5-479f-afac-09d0f6fef84f"
     },
-    "1820": {
+    {
       "requestid": "a0c1f4ac-0e6b-4d25-959f-0351772b16fb",
       "confidence": "0.5572569",
       "timestamp": 1820,
-      "content": "real and surreal refillable rough life x rated free desktop know it's all great yeah thank you very much that I'm listen times really congratulations on the bucket list"
+      "content": "real and surreal refillable rough life x rated free desktop know it's all great yeah thank you very much that I'm listen times really congratulations on the bucket list",
+      "uuid": "e00739c7-6e03-4cdd-95cc-5e0dea0f86c5"
     },
-    "1830": {
+    {
       "requestid": "4607495f-228a-402c-94ed-9712b83a3966",
       "confidence": "0.7821803",
       "timestamp": 1830,
-      "content": "fantastic but it's good and that its popular anime I wish you all the best with it in with all the other stuff now thank you that's very nice you say thanks so much for"
+      "content": "fantastic but it's good and that its popular anime I wish you all the best with it in with all the other stuff now thank you that's very nice you say thanks so much for",
+      "uuid": "850e7792-557c-43a2-b17e-f1d6274660bf"
     },
-    "1840": {
+    {
       "requestid": "b1135852-8053-4f88-a2c6-65ea6e8a5545",
       "confidence": "0.6274535",
       "timestamp": 1840,
-      "content": "add me an attic fan at excited I was able to come on ok great catch you later bye bye alright bye"
+      "content": "add me an attic fan at excited I was able to come on ok great catch you later bye bye alright bye",
+      "uuid": "4c42724c-266f-4ced-8e9b-0853527d5894"
     },
-    "1850": {
+    {
       "requestid": "93f31e6c-e32b-472c-8493-fc28698d7472",
       "timestamp": 1850,
-      "content": ""
+      "content": "",
+      "uuid": "eb3b02d6-7c64-4b7c-9e6e-8a085c77a6f1"
     },
-    "1860": {
+    {
       "requestid": "cf628929-c5da-4c59-9a82-9118c127a0f3",
       "confidence": "0.6865858",
       "timestamp": 1860,
-      "content": "wake up so imagine you are a film maker or novelist and you try to figure out how to create the most suspense posk who would you go to 4"
+      "content": "wake up so imagine you are a film maker or novelist and you try to figure out how to create the most suspense posk who would you go to 4",
+      "uuid": "e89436de-8447-4294-88b3-b7b96b2555fa"
     },
-    "1870": {
+    {
       "requestid": "8a021017-f7c3-482d-8abf-a54e2eb7ccda",
       "confidence": "0.6125066",
       "timestamp": 1870,
-      "content": "face easy inconnus review on the construction in the development of suspense in surprise and"
+      "content": "face easy inconnus review on the construction in the development of suspense in surprise and",
+      "uuid": "e5156248-49ca-44fb-bb7f-f3a2be8bbf18"
     },
-    "1880": {
+    {
       "requestid": "14723c89-4b6b-4884-8b24-b657c87d78a6",
       "confidence": "0.6566728",
       "timestamp": 1880,
-      "content": "other aspects of entertainment as basically optimally economize inganna scarce resource which is the ability to change"
+      "content": "other aspects of entertainment as basically optimally economize inganna scarce resource which is the ability to change",
+      "uuid": "a75d9c28-f973-497b-8303-719f7c8395c1"
     },
-    "1890": {
+    {
       "requestid": "cff050aa-72fb-4d0b-b1e2-008336175c03",
       "confidence": "0.6296984",
       "timestamp": 1890,
-      "content": "is someone still leaves and you know it starts from the observation about a scarce resource not because you note from a theoretical point"
+      "content": "is someone still leaves and you know it starts from the observation about a scarce resource not because you note from a theoretical point",
+      "uuid": "23778780-74c9-432d-9fee-3f2b944846d1"
     },
-    "1900": {
+    {
       "requestid": "862f6626-34a4-4f92-bf2d-daa29f3f733a",
       "confidence": "0.8009334",
       "timestamp": 1900,
-      "content": "view or just for minute to the point of view you can't fool all the people all of the time there's only so many times that a person can expect to be full"
+      "content": "view or just for minute to the point of view you can't fool all the people all of the time there's only so many times that a person can expect to be full",
+      "uuid": "c898fc06-ba33-427b-ac55-3d2278ceb75b"
     },
-    "1910": {
+    {
       "requestid": "2f731a9b-cc5d-4273-8f1c-ecdf0d182c92",
       "confidence": "0.7172546",
       "timestamp": 1910,
-      "content": "go to talk to some actual practitioners like the film producer brian grazer I can tell you how we created stamps if you want"
+      "content": "go to talk to some actual practitioners like the film producer brian grazer I can tell you how we created stamps if you want",
+      "uuid": "6f861f51-695e-4a65-84da-89b8b7427238"
     },
-    "1920": {
+    {
       "requestid": "2dacb341-e0a7-4660-a0e7-79ff630c89da",
       "confidence": "0.5725151",
       "timestamp": 1920,
-      "content": "and the novelist harlan coben chapter one the stranger didn't shatter adams world on wants to spend surprise"
+      "content": "and the novelist harlan coben chapter one the stranger didn't shatter adams world on wants to spend surprise",
+      "uuid": "6c20d019-a21c-4d1c-8625-ba6901034699"
     },
-    "1930": {
+    {
       "requestid": "6870b889-3eb1-4a01-9899-845128280e3a",
       "confidence": "0.7605639",
       "timestamp": 1930,
-      "content": "and where m night sham alon went wrong next time I'm free can I mix radio"
+      "content": "and where m night sham alon went wrong next time I'm free can I mix radio",
+      "uuid": "3ba06b19-a91e-43bb-8cfd-f5fff554db8d"
     },
-    "1940": {
+    {
       "requestid": "a8e26325-138a-4cd6-b1bb-7dcec714b015",
       "confidence": "0.6803797",
       "timestamp": 1940,
-      "content": "freakonomics radio is produced by wmic and dubner productions our staff include"
+      "content": "freakonomics radio is produced by wmic and dubner productions our staff include",
+      "uuid": "9acf1716-e180-4c5c-96bb-97f87a658d6a"
     },
-    "1950": {
+    {
       "requestid": "cfa75186-3efa-43ed-b537-8963fe59045b",
       "confidence": "0.5876017",
       "timestamp": 1950,
-      "content": "is greg zulfi caroline english susie lectin berkmar check up in christopher worth your help this week from rick wananchi done dancing bear in cosham ahila <profanity>bitch</profanity>"
+      "content": "is greg zulfi caroline english susie lectin berkmar check up in christopher worth your help this week from rick wananchi done dancing bear in cosham ahila <profanity>bitch</profanity>",
+      "uuid": "c307c8b3-fe54-4c31-b682-5f57710eabb8"
     },
-    "1960": {
+    {
       "requestid": "5e478420-a296-4587-aea8-04f904ad865e",
       "confidence": "0.6972598",
       "timestamp": 1960,
-      "content": "if you want more freakonomics radio you can subscribe to podcasts on I tunes or go to freakonomics.com will find lots radio block the book more"
+      "content": "if you want more freakonomics radio you can subscribe to podcasts on I tunes or go to freakonomics.com will find lots radio block the book more",
+      "uuid": "1fdd82b7-5428-45f9-9468-22380564c3f1"
     },
-    "1970": {
+    {
       "requestid": "9aed5277-83b1-47be-9403-483aba735ebc",
       "timestamp": 1970,
-      "content": ""
+      "content": "",
+      "uuid": "370c6ea1-8805-46f4-a05d-91628e2977c9"
     },
-    "1980": {
+    {
       "requestid": "79b7227b-e2a2-4e37-a028-534146b6aaf2",
       "timestamp": 1980,
-      "content": ""
+      "content": "",
+      "uuid": "51fa40f2-628c-49ae-985d-b50ae0019e83"
     }
-  },
+  ],
   "slug": "Aziz-Ansari-Needs-Another-Toothbrush"
 }

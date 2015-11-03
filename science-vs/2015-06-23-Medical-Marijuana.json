@@ -3,480 +3,559 @@
   "date": "2015-06-23",
   "description": "Medical marijuana has been called a miracle drug - rumoured to cure an array of ailments, from cramps to cancer. But, what does the science say? To find out Wendy Zukerman speaks to Prof. Laurie Mather, Prof. David Penington, Prof. Herbert Kleber and Prof. Tamas Horvath. \n\nBonus reading:\nRadio National's Background Briefing report Report http://www.abc.net.au/radionational/programs/backgroundbriefing/2014-10-19/5816112 \n\nReport of a parent survey of cannabidiol-enriched cannabis use in pediatric treatment-resistant epilepsy http://www.ncbi.nlm.nih.gov/pubmed/24237632\n\nCannabis in cancer care.   http://www.ncbi.nlm.nih.gov/pubmed/25777363 \n\nSBS' The Feed https://www.youtube.com/watch?v=mKwTy0tIyEw",
   "episode_url": "http://feeds.soundcloud.com/stream/211586981-science-vs-medical-marijuana.mp3",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "cfa96b97-fa83-4ccc-ac55-42a7680da113",
       "confidence": "0.6863269",
       "timestamp": 0,
-      "content": "you're listening to find fast is the show where we pick fact against bad I'm I need to come in and out today see a medical marijuana it's been cold"
+      "content": "you're listening to find fast is the show where we pick fact against bad I'm I need to come in and out today see a medical marijuana it's been cold",
+      "uuid": "cb7a2a6e-8fa9-4fa1-8b70-c99a30ddb92b"
     },
-    "10": {
+    {
       "requestid": "6b426239-4d5e-4038-9ca4-91fcb77fa8a7",
       "confidence": "0.4709519",
       "timestamp": 10,
-      "content": "miracle drug that but only food can pop really tree he said she could be celebrating a break sweetie"
+      "content": "miracle drug that but only food can pop really tree he said she could be celebrating a break sweetie",
+      "uuid": "18a54d28-99ea-4703-ad0b-436471428127"
     },
-    "20": {
+    {
       "requestid": "0c67f088-9ca5-4478-8f84-e8d93c583f75",
       "confidence": "0.1859131",
       "timestamp": 20,
-      "content": "do it for school"
+      "content": "do it for school",
+      "uuid": "d4bd1c93-ebd4-48ed-8dfd-13835934f3d9"
     },
-    "30": {
+    {
       "requestid": "e15b6725-07fe-47ae-b9eb-4cdef7732814",
       "confidence": "0.551915",
       "timestamp": 30,
-      "content": "this plan should be used at the pharmaceutical drug complain can stop hanging with huge black dicks asian and even culik cancel for today"
+      "content": "this plan should be used at the pharmaceutical drug complain can stop hanging with huge black dicks asian and even culik cancel for today",
+      "uuid": "6c1d3996-e714-4ae1-b578-73e73a019d64"
     },
-    "40": {
+    {
       "requestid": "66218e40-29bb-4a48-811b-318f0905eeb3",
       "confidence": "0.5507",
       "timestamp": 40,
-      "content": "the way taking a trip into the scientific literature to find out what kind of at sign typically has been demonstrated to help with google define"
+      "content": "the way taking a trip into the scientific literature to find out what kind of at sign typically has been demonstrated to help with google define",
+      "uuid": "b24ddbbc-5702-4133-be95-60a964fb54d7"
     },
-    "50": {
+    {
       "requestid": "f9368a00-7685-40ee-8f34-cd38a38c2511",
       "confidence": "0.4311239",
       "timestamp": 50,
-      "content": "how's weather claims are going to park at fixed we going to blaze tree marijuana's curious history with alone because of your fame take effect"
+      "content": "how's weather claims are going to park at fixed we going to blaze tree marijuana's curious history with alone because of your fame take effect",
+      "uuid": "fce38dbf-efab-46b3-8027-bf235c309d27"
     },
-    "60": {
+    {
       "requestid": "d68b46ef-82f5-4734-af19-c5c612852f24",
       "confidence": "0.5361209",
       "timestamp": 60,
-      "content": "the drug is the legal in my school is out the clip dot x litella to much about its ability to treat disease thank you regards cannabis is grown into"
+      "content": "the drug is the legal in my school is out the clip dot x litella to much about its ability to treat disease thank you regards cannabis is grown into",
+      "uuid": "bc2cba1b-c28e-4f50-8b1d-777415fe43ef"
     },
-    "70": {
+    {
       "requestid": "14d7ba55-20bc-4e52-a58b-7252aa54aead",
       "confidence": "0.5947239",
       "timestamp": 70,
-      "content": "madison from the indian subcontinent buy an irish search in his name is william brook and shawna see this was back in 1839 diesel cannabis with a great pain killers"
+      "content": "madison from the indian subcontinent buy an irish search in his name is william brook and shawna see this was back in 1839 diesel cannabis with a great pain killers",
+      "uuid": "4394bd21-90c0-489d-8eba-ba08a549fed2"
     },
-    "80": {
+    {
       "requestid": "c254c998-5d49-42be-ae33-bf7b092b2f09",
       "confidence": "0.5547366",
       "timestamp": 80,
-      "content": "muscle relaxant cannabis hey brittany and we could buy some golden nugget the 18 hundreds will be like cannabis is medical hay day"
+      "content": "muscle relaxant cannabis hey brittany and we could buy some golden nugget the 18 hundreds will be like cannabis is medical hay day",
+      "uuid": "002bf928-90c0-4866-89c6-f56a9abf3d48"
     },
-    "210": {
+    {
       "requestid": "35a9480e-ee97-4bc7-9df8-a28765fdea6b",
       "confidence": "0.5396252",
       "timestamp": 210,
-      "content": "remember them well and is that I'm president nixon at who was mad at me you didn't want his boyfriend in vietnam in upset with"
+      "content": "remember them well and is that I'm president nixon at who was mad at me you didn't want his boyfriend in vietnam in upset with",
+      "uuid": "9f9d6f8f-9e53-4a93-a7c3-022e81565193"
     },
-    "220": {
+    {
       "requestid": "28487e6a-c047-4324-b09e-a63b25e82d2b",
       "confidence": "0.6264808",
       "timestamp": 220,
-      "content": "instigator the cycle war on drugs and that effectively with the next wave of put in calgary saddle ridge cabins with ben clock at the schedule one drug along with her"
+      "content": "instigator the cycle war on drugs and that effectively with the next wave of put in calgary saddle ridge cabins with ben clock at the schedule one drug along with her",
+      "uuid": "ec9ac0fc-6c86-4aee-a928-fef77280ed75"
     },
-    "230": {
+    {
       "requestid": "7f757ea2-d183-4c1f-b7e9-6a1e230d556a",
       "confidence": "0.5977764",
       "timestamp": 230,
-      "content": "when in dallas today not possible with you today you can smell change in the year is the center of legal marijuana for recreational movie"
+      "content": "when in dallas today not possible with you today you can smell change in the year is the center of legal marijuana for recreational movie",
+      "uuid": "14bba49f-a885-43d8-bec0-7ea9148949ee"
     },
-    "240": {
+    {
       "requestid": "512f5401-5ac9-4ff9-a669-987b358fb3ba",
       "confidence": "0.6036894",
       "timestamp": 240,
-      "content": "claims marijuana she was more than just queen victoria's crap patara was heading anywhere from 65 to 200 facials everyday with the help"
+      "content": "claims marijuana she was more than just queen victoria's crap patara was heading anywhere from 65 to 200 facials everyday with the help",
+      "uuid": "a9c08e8d-bf14-44bb-af9f-0fad73a13a97"
     },
-    "250": {
+    {
       "requestid": "16043108-b780-4e35-a0a1-3cbf8e5c5a8a",
       "confidence": "0.5943502",
       "timestamp": 250,
-      "content": "medicinal cannabis that reroll do you want ad 1400 epileptic seizure today now has a <profanity>bitch</profanity> about it was miraculous it would stop that I can one miller"
+      "content": "medicinal cannabis that reroll do you want ad 1400 epileptic seizure today now has a <profanity>bitch</profanity> about it was miraculous it would stop that I can one miller",
+      "uuid": "ed17f465-5dca-4ec0-8d0a-aa300fade0cb"
     },
-    "260": {
+    {
       "requestid": "237c99c2-84df-44f1-b02e-2613de25170e",
       "confidence": "0.4235853",
       "timestamp": 260,
-      "content": "bhusawal dilay we got the results I need to pet scan was clear no chamos nocturnus battle anecdotal personal stories is then"
+      "content": "bhusawal dilay we got the results I need to pet scan was clear no chamos nocturnus battle anecdotal personal stories is then",
+      "uuid": "ffed83f1-10de-4c89-bda0-62a53471675a"
     },
-    "270": {
+    {
       "requestid": "07c3291d-4699-43b3-9002-84429e73b4ae",
       "confidence": "0.2133388",
       "timestamp": 270,
-      "content": "defiance"
+      "content": "defiance",
+      "uuid": "fb893ab9-44d9-4827-a824-9d21a7721871"
     },
-    "280": {
+    {
       "requestid": "3d81b87b-3ba8-46a7-b86a-adef7e6705b5",
       "confidence": "0.5512109",
       "timestamp": 280,
-      "content": "what disease is a little wacky tobaccy might be able to treat my kids a wacky tobaccy do you prevent lori map"
+      "content": "what disease is a little wacky tobaccy might be able to treat my kids a wacky tobaccy do you prevent lori map",
+      "uuid": "a98d57e5-a20a-4ef0-9c04-85ad5b0aa8f8"
     },
-    "290": {
+    {
       "requestid": "b1f07205-00e8-4023-b677-36f78ab72618",
       "confidence": "0.4856071",
       "timestamp": 290,
-      "content": "oregon weather plays itself is referred to in this important things like there are hundreds of substances in the plant see my head of tetra tetra hydro trahi"
+      "content": "oregon weather plays itself is referred to in this important things like there are hundreds of substances in the plant see my head of tetra tetra hydro trahi",
+      "uuid": "b7497c14-1f6e-4d68-8cb0-ca5c7357214f"
     },
-    "300": {
+    {
       "requestid": "e42761e7-8a8d-45c6-b9ff-5e1842d13b15",
       "confidence": "0.4517256",
       "timestamp": 300,
-      "content": "dirty been on tha sastav people used against an individual and not the same is complaining of cannabis is cannabidiol baby day when you start with"
+      "content": "dirty been on tha sastav people used against an individual and not the same is complaining of cannabis is cannabidiol baby day when you start with",
+      "uuid": "8188112d-5bb3-4275-bdb3-41c3cd9d1c3c"
     },
-    "310": {
+    {
       "requestid": "88aa2187-b609-469e-9f11-7895ca1c3ed1",
       "confidence": "0.5403637",
       "timestamp": 310,
-      "content": "thanks for the plant very closely you find the art of 2 important chemical peel said father apps to be like 70 or 87 seas related"
+      "content": "thanks for the plant very closely you find the art of 2 important chemical peel said father apps to be like 70 or 87 seas related",
+      "uuid": "7e7f5b95-6f20-4bb9-afb8-6b3e6c920b30"
     },
-    "320": {
+    {
       "requestid": "d7944f89-51b7-40d7-8fb6-5515cf56a7ef",
       "confidence": "0.5085438",
       "timestamp": 320,
-      "content": "2 th rehab abing progressively discovered in the cannabis plant 50 HANTB day in cbn and tht billion also to things like"
+      "content": "2 th rehab abing progressively discovered in the cannabis plant 50 HANTB day in cbn and tht billion also to things like",
+      "uuid": "1cb3a346-85ff-43ba-afe1-cd061363d606"
     },
-    "330": {
+    {
       "requestid": "eda549c3-5bd2-44b6-8ee0-c4f2b05febe9",
       "confidence": "0.5326098",
       "timestamp": 330,
-      "content": "now but recognizes difference go active ingredient by active ingredient lori means that they can interact with cells in human body and they have an effect on how much"
+      "content": "now but recognizes difference go active ingredient by active ingredient lori means that they can interact with cells in human body and they have an effect on how much",
+      "uuid": "9c4b4a61-b184-4934-9ed0-eab277415d56"
     },
-    "340": {
+    {
       "requestid": "1dd3b3f2-7faf-4791-bd7b-6a085d22ea61",
       "confidence": "0.5032012",
       "timestamp": 340,
-      "content": "function some of these chemicals a cold cannabinoid how directv they will vary from stimulate appetite some promote sleep and things like"
+      "content": "function some of these chemicals a cold cannabinoid how directv they will vary from stimulate appetite some promote sleep and things like",
+      "uuid": "fdef6154-6e14-40dc-b30a-8275999fab10"
     },
-    "350": {
+    {
       "requestid": "ce7139ee-34f0-4642-be94-70f3bd150313",
       "confidence": "0.5863801",
       "timestamp": 350,
-      "content": "in fact we still unraveling how many of these ingredients affect human body fungus on me without BGY pokedex with the munchies might wanna promote"
+      "content": "in fact we still unraveling how many of these ingredients affect human body fungus on me without BGY pokedex with the munchies might wanna promote",
+      "uuid": "6d7f8ae3-ae91-435e-853d-a933acec50e7"
     },
-    "360": {
+    {
       "requestid": "3a264a3c-770d-4fe4-80d5-583cde032cf5",
       "confidence": "0.4987364",
       "timestamp": 360,
-      "content": "<profanity>nigger</profanity> lips the function of the brain that normally would promote set ivy this is perfect atomico back from yale university and he without the cat"
+      "content": "<profanity>nigger</profanity> lips the function of the brain that normally would promote set ivy this is perfect atomico back from yale university and he without the cat",
+      "uuid": "8aa5229b-0991-47aa-a3fc-727751ee2ab7"
     },
-    "370": {
+    {
       "requestid": "0c738f2b-ee15-48a6-a957-1d55d947c2b8",
       "confidence": "0.6467533",
       "timestamp": 370,
-      "content": "no I called delta 9 thc wax on particular year old in the brain nebus appetite stimulation el monte making affect can be very important is it there AP"
+      "content": "no I called delta 9 thc wax on particular year old in the brain nebus appetite stimulation el monte making affect can be very important is it there AP",
+      "uuid": "cf8e6ebe-fad8-4b50-97a6-d1804559aaf2"
     },
-    "380": {
+    {
       "requestid": "cfc8c2d3-1756-4b99-aeef-38ad81a635d7",
       "confidence": "0.5533707",
       "timestamp": 380,
-      "content": "for example during celtic ataxia patient lose appetite then nothing to scream foods that cannabis has been demonstrated to help with appetite stimulation"
+      "content": "for example during celtic ataxia patient lose appetite then nothing to scream foods that cannabis has been demonstrated to help with appetite stimulation",
+      "uuid": "b643fde7-8f32-4e4b-bee4-7d98b084cbf7"
     },
-    "390": {
+    {
       "requestid": "423d236b-0226-4321-bc8e-dee3bee5fb79",
       "confidence": "0.4888517",
       "timestamp": 390,
-      "content": "get some sour cream and onion chips with some dick picture nick dot pain killing itself again"
+      "content": "get some sour cream and onion chips with some dick picture nick dot pain killing itself again",
+      "uuid": "7ab9daad-7472-4556-a1dd-16574fd2f8ad"
     },
-    "400": {
+    {
       "requestid": "c6f4a973-1777-4591-897d-f0e1c4a3f373",
       "confidence": "0.5548372",
       "timestamp": 400,
-      "content": "ice cream bars in any of the chemicals inside marijuana with you spain this very clear evidence for pain relief and overall"
+      "content": "ice cream bars in any of the chemicals inside marijuana with you spain this very clear evidence for pain relief and overall",
+      "uuid": "b4b9c89e-b4d1-463e-b9f6-505c8597367e"
     },
-    "410": {
+    {
       "requestid": "48d48fe5-3312-4280-bb33-f2f4843d2dcc",
       "confidence": "0.5365398",
       "timestamp": 410,
-      "content": "condition this is david pennington animals with professor at nova university of that's particularly important and patience with an offer belcan sherman"
+      "content": "condition this is david pennington animals with professor at nova university of that's particularly important and patience with an offer belcan sherman",
+      "uuid": "0f00f270-861e-4158-a3fb-56b318fa5336"
     },
-    "420": {
+    {
       "requestid": "72260cd4-cdd4-4d4e-b0bc-e2dbcaede291",
       "confidence": "0.4864472",
       "timestamp": 420,
-      "content": "longsuffering pyan which is in time porteiro nude I'm off in which is the usual condition and interesting liatris"
+      "content": "longsuffering pyan which is in time porteiro nude I'm off in which is the usual condition and interesting liatris",
+      "uuid": "9b0e3d8d-67c7-42fd-be51-4124c486bcbe"
     },
-    "430": {
+    {
       "requestid": "2bdf151a-488c-4389-8cd1-f86fddf466f3",
       "confidence": "0.5692571",
       "timestamp": 430,
-      "content": "not just one active ingredient kya is a joint effort going on with 2 chemicals are working in cahoots to have the pain killing effect suck my pee"
+      "content": "not just one active ingredient kya is a joint effort going on with 2 chemicals are working in cahoots to have the pain killing effect suck my pee",
+      "uuid": "2e0562d8-9504-42af-ab75-b70d01d43a83"
     },
-    "440": {
+    {
       "requestid": "29c7b4ce-5167-4c6d-b074-aeab3c70a782",
       "confidence": "0.5705444",
       "timestamp": 440,
-      "content": "it's the only time is not as mighty pinguecula have taken together with cannabidiol cbd those 2 interact with and"
+      "content": "it's the only time is not as mighty pinguecula have taken together with cannabidiol cbd those 2 interact with and",
+      "uuid": "f315c96b-5329-421b-abcb-e8478faeecaf"
     },
-    "450": {
+    {
       "requestid": "94044fbe-edf4-4c2a-81d9-62fd6d559db0",
       "confidence": "0.4924219",
       "timestamp": 450,
-      "content": "votary improving tha ability to reduce pain open quote evidence that marijuana can reduce muscle spasms in patients with multiple sclerosis"
+      "content": "votary improving tha ability to reduce pain open quote evidence that marijuana can reduce muscle spasms in patients with multiple sclerosis",
+      "uuid": "188c4f45-c2fc-45f2-9357-934ef70893a4"
     },
-    "460": {
+    {
       "requestid": "f0fb964b-981d-4a3e-8265-d9fc036d43c5",
       "confidence": "0.6551478",
       "timestamp": 460,
-      "content": "is an control nausea and vomiting which is really important example in cancer chemotherapy for marijuana can ease some of the symptoms that come with cancer treatment"
+      "content": "is an control nausea and vomiting which is really important example in cancer chemotherapy for marijuana can ease some of the symptoms that come with cancer treatment",
+      "uuid": "908a46e8-d9a6-4d2e-8a05-63d41bdb22e4"
     },
-    "470": {
+    {
       "requestid": "49218757-65e8-44ef-8f14-fffe32524b9e",
       "confidence": "0.4202083",
       "timestamp": 470,
-      "content": "can marijuana cuac kansas"
+      "content": "can marijuana cuac kansas",
+      "uuid": "c084ac1b-9f6b-460c-a61b-4e3d1a1c26a4"
     },
-    "480": {
+    {
       "requestid": "1eb11ae4-009b-4dc6-a567-2238733bc3f1",
       "confidence": "0.458512",
       "timestamp": 480,
-      "content": "don't rinse after my appointment and on radio national but it be sunny don't forget to have it clean by direct of the division of obscenities at new york state psychiatric institute"
+      "content": "don't rinse after my appointment and on radio national but it be sunny don't forget to have it clean by direct of the division of obscenities at new york state psychiatric institute",
+      "uuid": "1b6742be-e298-46e7-b5f4-e8c3e08d5520"
     },
-    "490": {
+    {
       "requestid": "87f0e88b-65ec-434e-8660-da8766435e58",
       "confidence": "0.5581832",
       "timestamp": 490,
-      "content": "is pretty blunt about it going to take metra john I have seen no evidence that marijuana can jerk and not by myself"
+      "content": "is pretty blunt about it going to take metra john I have seen no evidence that marijuana can jerk and not by myself",
+      "uuid": "808a54dd-e263-4668-9cea-d5e9afce2389"
     },
-    "500": {
+    {
       "requestid": "aefe2542-de7a-4993-805a-b05e41014866",
       "confidence": "0.6120554",
       "timestamp": 500,
-      "content": "at the university we can do something and how is it in it was very difficult to tell from anecdotal settings because really what's not known this is what the condition"
+      "content": "at the university we can do something and how is it in it was very difficult to tell from anecdotal settings because really what's not known this is what the condition",
+      "uuid": "20e39830-a74f-4958-9552-52e4d8b49f4a"
     },
-    "510": {
+    {
       "requestid": "de0e8c19-cb4e-4b26-b85c-4d3bb7ea5e20",
       "confidence": "0.6083044",
       "timestamp": 510,
-      "content": "exactly like before it started I want to take medication being used cars out with street is that you're so tired that would be up to put that the scientific testing thing"
+      "content": "exactly like before it started I want to take medication being used cars out with street is that you're so tired that would be up to put that the scientific testing thing",
+      "uuid": "ae231fc3-66ff-4424-9a9e-c0232465d4d9"
     },
-    "520": {
+    {
       "requestid": "d40a7b94-7bf8-4f2a-9d38-8b6570952e2a",
       "confidence": "0.5161178",
       "timestamp": 520,
-      "content": "add find to start doing LE research and laboratories using mouse models in human to myself this app is the show the fairest of the cannabinoids substances"
+      "content": "add find to start doing LE research and laboratories using mouse models in human to myself this app is the show the fairest of the cannabinoids substances",
+      "uuid": "818823f9-9538-466e-a023-83e7814e5956"
     },
-    "530": {
+    {
       "requestid": "ff6c3151-abed-41f0-92a2-321ca25d4637",
       "confidence": "0.4902941",
       "timestamp": 530,
-      "content": "can really I keep it human growth in staten liberty models that you need sperm and sometimes find this will take a dish with puma cell delta pa"
+      "content": "can really I keep it human growth in staten liberty models that you need sperm and sometimes find this will take a dish with puma cell delta pa",
+      "uuid": "051d1bc5-9e3b-4b22-be46-64a9bea28c84"
     },
-    "540": {
+    {
       "requestid": "f8451abc-aae7-4dba-989a-2f4c03b98c92",
       "confidence": "0.5852278",
       "timestamp": 540,
-      "content": "c or CB day or not a chemical in marijuana and they see became a dell get more in other cases they can inject thc oil tv dating to catch that"
+      "content": "c or CB day or not a chemical in marijuana and they see became a dell get more in other cases they can inject thc oil tv dating to catch that",
+      "uuid": "21040595-f3fe-48a6-a03c-5119991076f3"
     },
-    "550": {
+    {
       "requestid": "afb1c44f-9533-4387-9ca3-7f1625f490fc",
       "confidence": "0.4603256",
       "timestamp": 550,
-      "content": "mountain a map and sometimes I cancel showing at the idea is it is chemical some health interacting with the catheter out and at least a practice run app"
+      "content": "mountain a map and sometimes I cancel showing at the idea is it is chemical some health interacting with the catheter out and at least a practice run app",
+      "uuid": "746f743a-111f-4090-9af4-eaad6f00169b"
     },
-    "560": {
+    {
       "requestid": "ea8d9940-adfc-46ce-a237-b30d66207dca",
       "confidence": "0.5106474",
       "timestamp": 560,
-      "content": "change in the environment of the cancer apopse getting inside the kansas else who is rulfo she will it is this is david pennington again it might be that some forms of time"
+      "content": "change in the environment of the cancer apopse getting inside the kansas else who is rulfo she will it is this is david pennington again it might be that some forms of time",
+      "uuid": "ac430511-559f-43b2-9329-bd5e80d8bc61"
     },
-    "570": {
+    {
       "requestid": "bc738946-70b6-43bc-a861-5f709ffc864a",
       "confidence": "0.551268",
       "timestamp": 570,
-      "content": "service phone and all those darn I left something there really needs to be rigorously tested because in some of those lab studies marijuana put up with down to increase the"
+      "content": "service phone and all those darn I left something there really needs to be rigorously tested because in some of those lab studies marijuana put up with down to increase the",
+      "uuid": "a0c9356f-8ecd-4f01-8133-1e6940ed6370"
     },
-    "580": {
+    {
       "requestid": "d75f0edb-26b4-4095-921b-fc8ffb44d639",
       "confidence": "0.5690031",
       "timestamp": 580,
-      "content": "lisa some can food would you tell do you help eli d 3:30 is and how much it might depend on the lab model they using the speaking of mount the type of cheema"
+      "content": "lisa some can food would you tell do you help eli d 3:30 is and how much it might depend on the lab model they using the speaking of mount the type of cheema",
+      "uuid": "2c1be2c5-cf68-4c15-8506-de62b0a8d379"
     },
-    "590": {
+    {
       "requestid": "1fe0037e-fd89-4cce-9338-9b0752f50ec7",
       "confidence": "0.6422086",
       "timestamp": 590,
-      "content": "some of the most advanced studies done in this area be done on mice not human and then you can have sex in my said we done"
+      "content": "some of the most advanced studies done in this area be done on mice not human and then you can have sex in my said we done",
+      "uuid": "09441701-af44-45a8-815e-5348cdf19d3a"
     },
-    "600": {
+    {
       "requestid": "564c0cc1-b593-4894-8744-2b364336dcba",
       "confidence": "0.481444",
       "timestamp": 600,
-      "content": "having humans Mr. australian time"
+      "content": "having humans Mr. australian time",
+      "uuid": "5107b8ba-3404-4375-afd9-18895ccd3166"
     },
-    "610": {
+    {
       "requestid": "9425a3f7-31c3-4d95-a0c7-fdd19256f2fb",
       "confidence": "0.5221081",
       "timestamp": 610,
-      "content": "is it in australia day like I'm sorry but I can't like every since that part of work with keeps me a sober since 18th"
+      "content": "is it in australia day like I'm sorry but I can't like every since that part of work with keeps me a sober since 18th",
+      "uuid": "f6849b98-a2af-4b94-9499-43ea42d9d29e"
     },
-    "620": {
+    {
       "requestid": "894cb926-9e1c-4983-b36b-b8227ff2a6b0",
       "confidence": "0.5386025",
       "timestamp": 620,
-      "content": "ultimately a report published elledi yet concluded that the spot them quite impressive and quite finding in petri dishes and nonhuman animals that eat"
+      "content": "ultimately a report published elledi yet concluded that the spot them quite impressive and quite finding in petri dishes and nonhuman animals that eat",
+      "uuid": "2529b3e3-4e2a-47f8-9c9a-ddd9702152a9"
     },
-    "630": {
+    {
       "requestid": "afe176a0-851f-4df7-bf32-b84e518cdfcf",
       "confidence": "0.5275192",
       "timestamp": 630,
-      "content": "there is still no solid basis for ongoing claims by the proponents highly concentrated cannabis extract oils that needs preparation can"
+      "content": "there is still no solid basis for ongoing claims by the proponents highly concentrated cannabis extract oils that needs preparation can",
+      "uuid": "0b079d85-8b43-40e6-b3d1-fd67c0844a5a"
     },
-    "640": {
+    {
       "requestid": "7a1072c0-86ea-4f7e-a9f8-461398bb86a4",
       "confidence": "0.5066234",
       "timestamp": 640,
-      "content": "do I can talk into quiet conclusion we don't have the scientific evidence that kinda <profanity>bitchy</profanity> with cancer"
+      "content": "do I can talk into quiet conclusion we don't have the scientific evidence that kinda <profanity>bitchy</profanity> with cancer",
+      "uuid": "47cb50bb-6c08-4826-9875-a2f7acfe8ada"
     },
-    "650": {
+    {
       "requestid": "a1e05c92-a630-482f-a0a6-ecc1f126ea2e",
       "confidence": "0.4519301",
       "timestamp": 650,
-      "content": "having media reports of marijuana helping kids with data types of epilepsy that is dravet syndrome thunder vs tivet tartak leave it for example"
+      "content": "having media reports of marijuana helping kids with data types of epilepsy that is dravet syndrome thunder vs tivet tartak leave it for example",
+      "uuid": "a8d1e69a-80df-45ad-92d4-ea3e2d3fde89"
     },
-    "660": {
+    {
       "requestid": "95a6afca-fabd-40bb-8fc5-ffcd41e78051",
       "confidence": "0.3827193",
       "timestamp": 660,
-      "content": "from sbs is the face she went down to about 10 foods wellington got off but I see guys win on the face <profanity>cunt</profanity> licking lips"
+      "content": "from sbs is the face she went down to about 10 foods wellington got off but I see guys win on the face <profanity>cunt</profanity> licking lips",
+      "uuid": "4d0d0b94-3931-46fd-88be-45b8cc242a01"
     },
-    "670": {
+    {
       "requestid": "0fa25110-b6ec-4533-8ad1-3fae35b26f9a",
       "confidence": "0.5686701",
       "timestamp": 670,
-      "content": "but this but I'm keeping everything you thought it to find how effective it is still not clear in period how to cook marijuana out with you"
+      "content": "but this but I'm keeping everything you thought it to find how effective it is still not clear in period how to cook marijuana out with you",
+      "uuid": "3f13bf8e-e5e1-4f96-bb59-37eb28267dcf"
     },
-    "680": {
+    {
       "requestid": "51b247c6-feb9-41cb-b212-56fe8d71d32b",
       "confidence": "0.6217911",
       "timestamp": 680,
-      "content": "stages well it's kind of unclear at this .1 id is the couple of the how many of the active ingredient in marijuana in the process of the quotation end"
+      "content": "stages well it's kind of unclear at this .1 id is the couple of the how many of the active ingredient in marijuana in the process of the quotation end",
+      "uuid": "e211e8f0-81e7-4039-b9ba-d2644d61bb87"
     },
-    "690": {
+    {
       "requestid": "26249d92-ab4e-4c51-ae63-7b48c8767657",
       "confidence": "0.4890578",
       "timestamp": 690,
-      "content": "dampener activity and it appears that the b day rather than tht my agency oh but we don't really know why"
+      "content": "dampener activity and it appears that the b day rather than tht my agency oh but we don't really know why",
+      "uuid": "eae66bf0-6ecb-45a6-be28-feb66ac3cbb3"
     },
-    "700": {
+    {
       "requestid": "9229fc4c-9ce1-4e0b-bf60-40d48f122d3a",
       "confidence": "0.5449361",
       "timestamp": 700,
-      "content": "what do we find let me look at that meeting people while unfortunately there aren't a lot of them who won the most body with 19 kids to have either drive a stick drim do so"
+      "content": "what do we find let me look at that meeting people while unfortunately there aren't a lot of them who won the most body with 19 kids to have either drive a stick drim do so",
+      "uuid": "0e3e421a-2699-477e-aa6c-311c51832c4d"
     },
-    "710": {
+    {
       "requestid": "31b26275-cfdd-430a-bf94-02f8a48e1fc7",
       "confidence": "0.5308135",
       "timestamp": 710,
-      "content": "or the raffle epilepsy found the particular kind of marijuana with hot high cbd content could we do you think she is in 16 children by"
+      "content": "or the raffle epilepsy found the particular kind of marijuana with hot high cbd content could we do you think she is in 16 children by",
+      "uuid": "565f4acd-c2c6-4a0b-b310-3e2c933ba54b"
     },
-    "720": {
+    {
       "requestid": "8a873970-9366-44e1-b8de-4991a98f1c9c",
       "confidence": "0.6090858",
       "timestamp": 720,
-      "content": "in 2014 review published in the new england journal of medicine ultimately concluded that will be so super portwood quote comma thing in court"
+      "content": "in 2014 review published in the new england journal of medicine ultimately concluded that will be so super portwood quote comma thing in court",
+      "uuid": "bb614862-16d7-4e04-b3bb-5bc33b51bc56"
     },
-    "730": {
+    {
       "requestid": "ff3d9a18-fdaa-4a34-86df-fc726152d986",
       "confidence": "0.5401402",
       "timestamp": 730,
-      "content": "it was an update at north marijuana could help most kids with these forms of epilepsy the jury is still out it's a habit klix ba bili some of the youngsters"
+      "content": "it was an update at north marijuana could help most kids with these forms of epilepsy the jury is still out it's a habit klix ba bili some of the youngsters",
+      "uuid": "cf478ecc-3592-4526-afaf-0df66e82b9cd"
     },
-    "740": {
+    {
       "requestid": "c0fe5e63-1294-487f-a6b3-0d60ba7a7980",
       "confidence": "0.5181582",
       "timestamp": 740,
-      "content": "helped others are not help never fully reach a final stop on train for 20 time to talk about side effects be"
+      "content": "helped others are not help never fully reach a final stop on train for 20 time to talk about side effects be",
+      "uuid": "2cca8311-73f0-4480-9401-daae5a8916bb"
     },
-    "750": {
+    {
       "requestid": "952000cc-89fb-4a25-8439-8d0f808e0b1f",
       "confidence": "0.5309384",
       "timestamp": 750,
-      "content": "is just like all drugged their downsides tomorrow 1 AM I can be addictive with some people over it's less effective than morphine behra chemicals in smoking marijuana delete"
+      "content": "is just like all drugged their downsides tomorrow 1 AM I can be addictive with some people over it's less effective than morphine behra chemicals in smoking marijuana delete",
+      "uuid": "524a4538-6931-4c23-84ae-2dc1e23f2b52"
     },
-    "760": {
+    {
       "requestid": "a9f3b0d9-7717-47cc-b7be-cbdec8cd6d3e",
       "confidence": "0.5743319",
       "timestamp": 760,
-      "content": "lung diseases how to bed but equally with a high thc content has been linked to schizophrenia and psychosis and for some cannabis can be discovered is provided"
+      "content": "lung diseases how to bed but equally with a high thc content has been linked to schizophrenia and psychosis and for some cannabis can be discovered is provided",
+      "uuid": "da9443fe-111f-4285-9f9e-5adf3b23898d"
     },
-    "770": {
+    {
       "requestid": "85844bf1-ee71-42e6-a3b5-0bb96a5ed755",
       "confidence": "0.3728634",
       "timestamp": 770,
-      "content": "but anything again cause anxiety and tension on haven hallucination at search uncommon with motors dosage"
+      "content": "but anything again cause anxiety and tension on haven hallucination at search uncommon with motors dosage",
+      "uuid": "7a1ffa9a-fd46-4beb-a321-c8b21d61c5de"
     },
-    "780": {
+    {
       "requestid": "8a0a21ed-8417-4e76-8961-9fc5feae3445",
       "confidence": "0.4569568",
       "timestamp": 780,
-      "content": "is my schedule is for life"
+      "content": "is my schedule is for life",
+      "uuid": "564161ff-c400-45e4-a12d-730b47024b49"
     },
-    "790": {
+    {
       "requestid": "2e1bc39a-b534-4e99-b895-30d60c31361d",
       "confidence": "0.5281744",
       "timestamp": 790,
-      "content": "I wanna have been trying to help with nausea pain relief anthony light appetite but when it comes to catherine epilepsy the race at is half baked"
+      "content": "I wanna have been trying to help with nausea pain relief anthony light appetite but when it comes to catherine epilepsy the race at is half baked",
+      "uuid": "d4da6579-452d-4e9b-8ba8-69de00a5ac68"
     },
-    "800": {
+    {
       "requestid": "6c5f44f6-0e7a-4fd3-b3d8-b34ede684e71",
       "confidence": "0.5885672",
       "timestamp": 800,
-      "content": "the other hand cannabis has a bunch of chemical in it that way no trigger fix in the human body made after 9 exactly how they work out of the reason for this is that"
+      "content": "the other hand cannabis has a bunch of chemical in it that way no trigger fix in the human body made after 9 exactly how they work out of the reason for this is that",
+      "uuid": "f3843420-cc9f-4e9c-9baa-531dbb54c66a"
     },
-    "810": {
+    {
       "requestid": "7d714c74-e978-4388-94d0-da0bcd578cb9",
       "confidence": "0.550486",
       "timestamp": 810,
-      "content": "is cannabis was really put out of research reach to most people by political judgment long before you much better signs and this is crazy"
+      "content": "is cannabis was really put out of research reach to most people by political judgment long before you much better signs and this is crazy",
+      "uuid": "a2e3c767-4653-4879-829f-64f8045dd439"
     },
-    "820": {
+    {
       "requestid": "b71bed01-218e-49d1-99f4-13945a37bc45",
       "confidence": "0.5749456",
       "timestamp": 820,
-      "content": "even today lori mathis says it's relatively easy to get funds to demonstrate the evolution of cannabis abuse problems"
+      "content": "even today lori mathis says it's relatively easy to get funds to demonstrate the evolution of cannabis abuse problems",
+      "uuid": "2b4ac7db-2b96-4668-a0c1-62c4a65219ed"
     },
-    "830": {
+    {
       "requestid": "69769660-1f64-42cd-910d-7b56907aa4eb",
       "confidence": "0.6290423",
       "timestamp": 830,
-      "content": "cannabis law enforcement things that I can please be very difficult indeed to get funds to demonstrate the medic medical uses of cannabis so when it comes to find"
+      "content": "cannabis law enforcement things that I can please be very difficult indeed to get funds to demonstrate the medic medical uses of cannabis so when it comes to find",
+      "uuid": "fc26a6cd-7be4-4c85-88a0-a196a1d73263"
     },
-    "840": {
+    {
       "requestid": "88833d18-f28c-4ab5-a234-f72ff7e21015",
       "confidence": "0.6531101",
       "timestamp": 840,
-      "content": "medical marijuana bad science is day one but you got along way to go to understand if plants orive keep up the good work"
+      "content": "medical marijuana bad science is day one but you got along way to go to understand if plants orive keep up the good work",
+      "uuid": "95d13586-3e8e-45c8-a475-7e62a505f80c"
     },
-    "850": {
+    {
       "requestid": "e3d9ebd2-36c8-43c7-b36a-7a2cabe4562c",
       "confidence": "0.6354378",
       "timestamp": 850,
-      "content": "local marijuana that one too it's no panacea but we can definitely help some people that need to find better if you like to show me cannabis"
+      "content": "local marijuana that one too it's no panacea but we can definitely help some people that need to find better if you like to show me cannabis",
+      "uuid": "b24f3872-b525-4458-a0f0-254a55924d38"
     },
-    "860": {
+    {
       "requestid": "f8767208-87a8-4d95-9bb2-081988985462",
       "confidence": "0.6424302",
       "timestamp": 860,
-      "content": "can we manage to squeeze into this 15 minute podcast you can do not eating #FindVsYes #Night"
+      "content": "can we manage to squeeze into this 15 minute podcast you can do not eating #FindVsYes #Night",
+      "uuid": "cf5360e9-efdd-4a0f-83f7-7e7e5051beb4"
     },
-    "870": {
+    {
       "requestid": "df9f7b15-66a5-4201-afcc-36f9c7bdd595",
       "confidence": "0.5899066",
       "timestamp": 870,
-      "content": "never got it hatched next week pornography is really destroying our brains NFX live looks like his big brother"
+      "content": "never got it hatched next week pornography is really destroying our brains NFX live looks like his big brother",
+      "uuid": "f733e231-7296-4c23-a1e2-24c6a677a77d"
     },
-    "880": {
+    {
       "requestid": "c79e55ca-a15e-4b88-a5f6-f415915cabc1",
       "confidence": "0.4119408",
       "timestamp": 880,
-      "content": "I had it since I'm just in case"
+      "content": "I had it since I'm just in case",
+      "uuid": "67ce73b0-5483-42a8-a075-095d2f0a1b18"
     },
-    "890": {
+    {
       "requestid": "0e76d090-9a04-4e08-8665-be4f2b4fa72e",
       "confidence": "0.5957094",
       "timestamp": 890,
-      "content": "my car for geisa and jill went up the recording out to eat we haven't played by if you like what you hear you should subscribe to us we are podcast you should subscribe you can do bad on I 2"
+      "content": "my car for geisa and jill went up the recording out to eat we haven't played by if you like what you hear you should subscribe to us we are podcast you should subscribe you can do bad on I 2",
+      "uuid": "ce40d178-f67b-481d-9296-e34e3cd0a15c"
     },
-    "900": {
+    {
       "requestid": "25f0f953-2393-4509-8ee6-65faeabd74a1",
       "confidence": "0.4303409",
       "timestamp": 900,
-      "content": "soundcloud of your favorite podcast I'm when you come in next time"
+      "content": "soundcloud of your favorite podcast I'm when you come in next time",
+      "uuid": "31e95d1d-6567-481c-a4c3-d43fbacd9215"
     }
-  }
+  ]
 }

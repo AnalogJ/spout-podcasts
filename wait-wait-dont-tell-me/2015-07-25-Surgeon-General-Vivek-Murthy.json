@@ -3,1752 +3,2045 @@
   "date": "2015-07-25",
   "description": "Vice Admiral Vivek Murthy, the Surgeon General of the U.S., joins us along with panelists Roxanne Roberts, Adam Felber, and Paula Poundstone.",
   "episode_url": "http://podcastdownload.npr.org/anon.npr-podcasts/podcast/344098539/426258316/npr_426258316.mp3?orgId=1&d=2921&p=344098539&story=426258316&t=podcast&e=426258316&ft=pod&f=344098539",
-  "segments": {
-    "0": {
+  "segments": [
+    {
       "requestid": "36973024-7c72-43f4-888f-e13d8e0bf5e5",
       "confidence": "0.5383432",
       "timestamp": 0,
-      "content": "from npr and they would it be easy chicago this is wait wait don't tell me vegan pr news quiz"
+      "content": "from npr and they would it be easy chicago this is wait wait don't tell me vegan pr news quiz",
+      "uuid": "28608729-76c8-4cc2-938f-e3344f60fd13"
     },
-    "10": {
+    {
       "requestid": "a47efbf4-d6d2-49ad-90ee-7b399a88917c",
       "confidence": "0.5581535",
       "timestamp": 10,
-      "content": "I'm the man they call the bill of rights bill curtis and his girl who is that the filene center at wolf trap in vienna virginia peters"
+      "content": "I'm the man they call the bill of rights bill curtis and his girl who is that the filene center at wolf trap in vienna virginia peters",
+      "uuid": "3e833464-225e-4589-b3dd-78567be8a9f8"
     },
-    "20": {
+    {
       "requestid": "ee2eb9f1-33d4-4e35-bba4-7f0dc41af78b",
       "timestamp": 20,
-      "content": ""
+      "content": "",
+      "uuid": "ea89d7e0-e467-43c6-a8c9-1b54e2bf21d0"
     },
-    "30": {
+    {
       "requestid": "1a03503d-06f1-4e12-803f-c69952bc75ee",
       "confidence": "0.7493494",
       "timestamp": 30,
-      "content": "I'm gonna be talking with the surgeon general of the united states doctor vivek murthy"
+      "content": "I'm gonna be talking with the surgeon general of the united states doctor vivek murthy",
+      "uuid": "60292fbd-d52f-4379-9973-8d5a76db1876"
     },
-    "40": {
+    {
       "requestid": "b1493b7e-01ca-4608-aff9-e2f84cb232a7",
       "confidence": "0.7796066",
       "timestamp": 40,
-      "content": "his job and stuff with all we really want is that he gives us our very own surgeon generals warning something like this"
+      "content": "his job and stuff with all we really want is that he gives us our very own surgeon generals warning something like this",
+      "uuid": "3f601f54-ae3e-4681-bea8-0de943ace1a3"
     },
-    "50": {
+    {
       "requestid": "135e6641-50fb-4863-a455-67657dfd7a54",
       "confidence": "0.6291752",
       "timestamp": 50,
-      "content": "public radio may cause extreme drugs it before listening to public radio make sure your doctor says you're healthy enough to have sex"
+      "content": "public radio may cause extreme drugs it before listening to public radio make sure your doctor says you're healthy enough to have sex",
+      "uuid": "687044dc-381d-4052-bf01-586783f7fcec"
     },
-    "60": {
+    {
       "requestid": "305eb681-9a6a-40c1-a695-237e39403112",
       "confidence": "0.6995379",
       "timestamp": 60,
-      "content": "it will matter justin bieber it would give us a call the number is one triple wait wait wait that's 18889248924"
+      "content": "it will matter justin bieber it would give us a call the number is one triple wait wait wait that's 18889248924",
+      "uuid": "8b438827-0900-4b8d-818d-af1e3beb3933"
     },
-    "70": {
+    {
       "requestid": "a00be0e4-4a54-4bd0-b735-3855ebb51fdb",
       "confidence": "0.5820606",
       "timestamp": 70,
-      "content": "sidewalk up my first lesson are contested how do I wait wait don't tell me I peter I'm day for both california beautiful sunny bellison silicon valley is it is it is"
+      "content": "sidewalk up my first lesson are contested how do I wait wait don't tell me I peter I'm day for both california beautiful sunny bellison silicon valley is it is it is",
+      "uuid": "18dcf7e7-3f3c-483f-a241-b00bdf04aae4"
     },
-    "80": {
+    {
       "requestid": "de0df455-c791-4350-80b0-d31bb70fb63c",
       "confidence": "0.4947056",
       "timestamp": 80,
-      "content": "suzanne and I are you some sort of young millionaires I'm I'm AI'm a I'm a guy like most people here I'm special kind of guy comma user specified are you"
+      "content": "suzanne and I are you some sort of young millionaires I'm I'm AI'm a I'm a guy like most people here I'm special kind of guy comma user specified are you",
+      "uuid": "0494f496-6cd4-4d1a-8aa8-252b99f4af4e"
     },
-    "90": {
+    {
       "requestid": "7345f511-6979-427b-9129-fef2f9decc9b",
       "confidence": "0.4530934",
       "timestamp": 90,
-      "content": "user experience for symmetra cares about people like us well yes I"
+      "content": "user experience for symmetra cares about people like us well yes I",
+      "uuid": "96e14f08-d7d1-4b4e-99f8-71cb6c77fbbd"
     },
-    "100": {
+    {
       "requestid": "74ffe1e2-9197-404d-9f0f-98deccbdc3e6",
       "confidence": "0.64132",
       "timestamp": 100,
-      "content": "I use rather than me know most of them will look into the show david let me introduce you to our panel this week for stop at the features writer for the washington post its blocked in roberts"
+      "content": "I use rather than me know most of them will look into the show david let me introduce you to our panel this week for stop at the features writer for the washington post its blocked in roberts",
+      "uuid": "0efadebf-6b46-4b36-bc7a-4b98ddd47830"
     },
-    "110": {
+    {
       "requestid": "11e32c2a-12f3-4207-a379-72c814a78f25",
       "timestamp": 110,
-      "content": ""
+      "content": "",
+      "uuid": "ae54e16a-d625-49b1-8124-8eb569aa3bf6"
     },
-    "120": {
+    {
       "requestid": "66d2b137-ea38-49e5-9a27-4c28ab610ea7",
       "timestamp": 120,
-      "content": ""
+      "content": "",
+      "uuid": "e2e25493-90c0-4d61-9b0a-579f5dd189e8"
     },
-    "130": {
+    {
       "requestid": "eae5d41d-9f2e-499f-af4f-a2461e9699b9",
       "confidence": "0.7053466",
       "timestamp": 130,
-      "content": "california on september 11 is paula poundstone"
+      "content": "california on september 11 is paula poundstone",
+      "uuid": "50dd06e8-cd08-4c1a-bb74-17c67b95f4e5"
     },
-    "140": {
+    {
       "requestid": "9c4be42b-60b2-4d82-a370-f89a6ed6d0c6",
       "confidence": "0.6277919",
       "timestamp": 140,
-      "content": "is bill this time bill curtis right now is gonna start it off with 3 colorful quotation end we can use your job corps identify between 2 and if you can you do that"
+      "content": "is bill this time bill curtis right now is gonna start it off with 3 colorful quotation end we can use your job corps identify between 2 and if you can you do that",
+      "uuid": "3eb6365d-fe9a-44c5-831d-fd01c0416600"
     },
-    "150": {
+    {
       "requestid": "3ed9cb65-2783-4dad-b48e-8dd74bac0741",
       "confidence": "0.6969834",
       "timestamp": 150,
-      "content": "enterprise the voice of scorekeeper emeritus carl kasell on your voicemail are you ready to do this I'm excited let's do this here is your first quote I know I'm better than any"
+      "content": "enterprise the voice of scorekeeper emeritus carl kasell on your voicemail are you ready to do this I'm excited let's do this here is your first quote I know I'm better than any",
+      "uuid": "023fb8b8-a30b-4341-b8e1-87119a4fb5e0"
     },
-    "160": {
+    {
       "requestid": "ccd49957-ab39-4811-ac52-173896f42a56",
       "confidence": "0.5034716",
       "timestamp": 160,
-      "content": "that humble statement was offered by somebody who are sounding we get off til litla poles for the gop nomination"
+      "content": "that humble statement was offered by somebody who are sounding we get off til litla poles for the gop nomination",
+      "uuid": "d3771f03-9825-4a12-85cc-4deff347143b"
     },
-    "170": {
+    {
       "requestid": "b20ab7c0-d838-43b3-a78b-22265d111277",
       "confidence": "0.3561912",
       "timestamp": 170,
-      "content": "it would be the donald donald trump"
+      "content": "it would be the donald donald trump",
+      "uuid": "b7d5f0d4-ca40-43d0-ba42-ced5569de38a"
     },
-    "180": {
+    {
       "requestid": "31e80ee9-4920-47c5-9e6c-dee7018fc5f4",
       "confidence": "0.7004746",
       "timestamp": 180,
-      "content": "by doing more than the rest of the republican field combined to destroy the candidacy of donald trump"
+      "content": "by doing more than the rest of the republican field combined to destroy the candidacy of donald trump",
+      "uuid": "ae80d703-13db-44a7-8ab0-48575a4ecc18"
     },
-    "190": {
+    {
       "requestid": "46b9964b-9b47-4521-b6bd-9a65b73e4033",
       "confidence": "0.696855",
       "timestamp": 190,
-      "content": "if you up this week are you said john mccain is it really a war hero quote I like people that were captured unquote america lindsey graham a lightweight"
+      "content": "if you up this week are you said john mccain is it really a war hero quote I like people that were captured unquote america lindsey graham a lightweight",
+      "uuid": "940d1885-75c1-43b8-a2b9-24b3efc9b25e"
     },
-    "200": {
+    {
       "requestid": "4efa1d72-71ba-40f3-80b4-14df75b2481a",
       "confidence": "0.5723565",
       "timestamp": 200,
-      "content": "rams personal phone book that I got one that was actually kinda fun coz we got to watch gram konsole answering his phone is in my refrigerator is running"
+      "content": "rams personal phone book that I got one that was actually kinda fun coz we got to watch gram konsole answering his phone is in my refrigerator is running",
+      "uuid": "2b08914d-ff19-4ab6-9c9a-d425e724b950"
     },
-    "210": {
+    {
       "requestid": "089db0b1-e7d8-4e82-8670-1ab123b3fc56",
       "confidence": "0.5712541",
       "timestamp": 210,
-      "content": "people with my refrigerator it's it's astounding to me I no longer believe in reality I used to believe in god like donald trump amadon"
+      "content": "people with my refrigerator it's it's astounding to me I no longer believe in reality I used to believe in god like donald trump amadon",
+      "uuid": "837ac2d6-350d-4720-bf6c-a333daf04747"
     },
-    "220": {
+    {
       "requestid": "e934740a-51d2-47b5-add1-27fb2708cfa1",
       "confidence": "0.5939927",
       "timestamp": 220,
-      "content": "he would announce his candidacy for president in immediately go to the top of the holes nasa stupidest idea I've ever heard right but it is happen so we're not leaving but we thought we were together we left"
+      "content": "he would announce his candidacy for president in immediately go to the top of the holes nasa stupidest idea I've ever heard right but it is happen so we're not leaving but we thought we were together we left",
+      "uuid": "33cfebe6-7800-474b-8371-aea59901d25f"
     },
-    "230": {
+    {
       "requestid": "c5ab539c-a347-46c8-8e81-4a53d7e14c92",
       "confidence": "0.4059019",
       "timestamp": 230,
-      "content": "atrix we living in that yeah yeah I'd like to come out anymore about what we thought I know it's the wrong"
+      "content": "atrix we living in that yeah yeah I'd like to come out anymore about what we thought I know it's the wrong",
+      "uuid": "3c9deac6-8a88-4959-83ca-bf1860bd0ba7"
     },
-    "240": {
+    {
       "requestid": "e76b6ee7-ea34-4c5e-97f1-77b417869408",
       "confidence": "0.5227379",
       "timestamp": 240,
-      "content": "how are these people doing well what do they call trump tower"
+      "content": "how are these people doing well what do they call trump tower",
+      "uuid": "3fdc443b-0d51-41a5-a412-b8e80258233a"
     },
-    "250": {
+    {
       "requestid": "9d09e6ab-9221-430c-8a7b-68eb259b6345",
       "timestamp": 250,
-      "content": ""
+      "content": "",
+      "uuid": "ec892e20-d330-4df8-a104-4ea57be3d7c9"
     },
-    "260": {
+    {
       "requestid": "4628002c-0abd-4fae-91d5-41a4d9e4bdb0",
       "confidence": "0.3281252",
       "timestamp": 260,
-      "content": "professional pulling for the way out much but idk"
+      "content": "professional pulling for the way out much but idk",
+      "uuid": "544df6ec-d8e9-4c28-abac-ffe3a00c7e0d"
     },
-    "270": {
+    {
       "requestid": "47e04d80-2139-408d-ad16-9eb12cfe4059",
       "confidence": "0.5344029",
       "timestamp": 270,
-      "content": "you mentioned that you want to build the wall between molders we could do mexico"
+      "content": "you mentioned that you want to build the wall between molders we could do mexico",
+      "uuid": "66c16691-abc4-43a7-a1e4-7947842fbe77"
     },
-    "280": {
+    {
       "requestid": "df063631-3c80-48e1-adfe-70e14ace6ed1",
       "confidence": "0.4271362",
       "timestamp": 280,
-      "content": "papetti will pay for it right ok or do you need to build it well"
+      "content": "papetti will pay for it right ok or do you need to build it well",
+      "uuid": "4cb4db46-6383-46fc-807f-8fd1575e8d7c"
     },
-    "290": {
+    {
       "requestid": "f575bc27-1945-4521-aaf3-3c14bdaa3b38",
       "confidence": "0.6822683",
       "timestamp": 290,
-      "content": "interrupted which is so not like me but I just think don't you think that maybe there asking people to early of people"
+      "content": "interrupted which is so not like me but I just think don't you think that maybe there asking people to early of people",
+      "uuid": "472095d8-3504-40d5-8e2c-04911d9bebf9"
     },
-    "300": {
+    {
       "requestid": "0fdbaaca-834f-4187-84ad-cfef977b8320",
       "confidence": "0.6321766",
       "timestamp": 300,
-      "content": "just irked and said they could say I mean I just can't possibly be that people really think there's a good idea it just can't be true paula"
+      "content": "just irked and said they could say I mean I just can't possibly be that people really think there's a good idea it just can't be true paula",
+      "uuid": "1083ea53-8d7b-420a-bd11-11ab5b08a0ea"
     },
-    "310": {
+    {
       "requestid": "0afc2e8f-7e10-4a65-b58d-facbcc381877",
       "confidence": "0.4996383",
       "timestamp": 310,
-      "content": "but I do like my fellow man but this is putting me up in 10 to 24th correct for sarcasm"
+      "content": "but I do like my fellow man but this is putting me up in 10 to 24th correct for sarcasm",
+      "uuid": "47b0fc2f-6d8f-43b9-a34f-60769cde3106"
     },
-    "320": {
+    {
       "requestid": "d503a027-4932-4ad3-87e4-6fd253ee3795",
       "confidence": "0.4035613",
       "timestamp": 320,
-      "content": "donald trump by drake"
+      "content": "donald trump by drake",
+      "uuid": "2e73b759-07c2-4b97-959e-d01cbc25ee34"
     },
-    "330": {
+    {
       "requestid": "23fdfffe-3f66-4a10-a4a2-d424bb220aca",
       "confidence": "0.6915526",
       "timestamp": 330,
-      "content": "now that was a sign of the president obama hold the locals would take down before he arrived where at the end of this way"
+      "content": "now that was a sign of the president obama hold the locals would take down before he arrived where at the end of this way",
+      "uuid": "0bed8ad0-7e52-460e-a8f1-31a5f986c1af"
     },
-    "340": {
+    {
       "requestid": "a5180468-7fd4-4de8-b8c8-878f7c9f4a01",
       "confidence": "0.4249119",
       "timestamp": 340,
-      "content": "abu piece of africa kenya yes exactly why david kenya"
+      "content": "abu piece of africa kenya yes exactly why david kenya",
+      "uuid": "9ba89e34-0754-4bd9-80d3-c9878bf82d35"
     },
-    "350": {
+    {
       "requestid": "72907f16-0a99-44df-ba12-04c43d6ea623",
       "confidence": "0.6748683",
       "timestamp": 350,
-      "content": "his second term president obama is started the make the conspiracy theorist head explode to wear with state visit to his incest"
+      "content": "his second term president obama is started the make the conspiracy theorist head explode to wear with state visit to his incest",
+      "uuid": "3539b613-5480-4dab-92ec-a07bbfe41027"
     },
-    "360": {
+    {
       "requestid": "313b4324-9804-4167-a714-c6d9d4f2e96a",
       "confidence": "0.6687014",
       "timestamp": 360,
-      "content": "birthplace kenya is mosque in afghanistan the secret facility where he's researching ways to breed an army of beyonce is to see the gun"
+      "content": "birthplace kenya is mosque in afghanistan the secret facility where he's researching ways to breed an army of beyonce is to see the gun",
+      "uuid": "a5bc2e4a-df5c-4bd9-83d3-96a8a57b4876"
     },
-    "370": {
+    {
       "requestid": "6e1aa17f-231e-4ccc-9cd3-15038c6dbd55",
       "confidence": "0.3028568",
       "timestamp": 370,
-      "content": "of texas"
+      "content": "of texas",
+      "uuid": "4e2aa879-c510-4a21-9036-53ed46cd5245"
     },
-    "380": {
+    {
       "requestid": "588f1f9d-6431-4236-bb4c-39a384daf1b2",
       "confidence": "0.7494595",
       "timestamp": 380,
-      "content": "can you have been there before but he thought it would wouldn't be as much fun as when he went to private citizen right because it's so annoying when you have a whole plane all to yourself for the bedroom"
+      "content": "can you have been there before but he thought it would wouldn't be as much fun as when he went to private citizen right because it's so annoying when you have a whole plane all to yourself for the bedroom",
+      "uuid": "c75c670b-52e3-4586-9164-8e825eacd78e"
     },
-    "390": {
+    {
       "requestid": "9244f062-22f8-41b4-a987-533a2baa481d",
       "confidence": "0.702341",
       "timestamp": 390,
-      "content": "yeah he just can't wait to get his first post presidency trippin coach joe michelle can you guys get up I gotta use the bathroom I have in the back of"
+      "content": "yeah he just can't wait to get his first post presidency trippin coach joe michelle can you guys get up I gotta use the bathroom I have in the back of",
+      "uuid": "78b8a4ce-0e45-476a-9b66-b31a963592eb"
     },
-    "400": {
+    {
       "requestid": "4c14dfaf-00af-49b3-b5b9-bb789634ed6f",
       "confidence": "0.1141444",
       "timestamp": 400,
-      "content": "phone"
+      "content": "phone",
+      "uuid": "90490eca-67e6-4d23-96fc-694d489f762d"
     },
-    "410": {
+    {
       "requestid": "2b463e8a-f2fc-4935-a27f-a908250bb128",
       "confidence": "0.4766727",
       "timestamp": 410,
-      "content": "sender from a conservative yeah go to get a welcome home sign where did she go where to buy cheese"
+      "content": "sender from a conservative yeah go to get a welcome home sign where did she go where to buy cheese",
+      "uuid": "a9452750-c7bc-4722-a6e6-a21853a50a6d"
     },
-    "420": {
+    {
       "requestid": "f8369b44-e0f8-44d7-bc46-7f8e01bc251a",
       "confidence": "0.6046731",
       "timestamp": 420,
-      "content": "rent in pennsylvania"
+      "content": "rent in pennsylvania",
+      "uuid": "a5929b8d-4136-4fec-9dad-8b7678b3e28d"
     },
-    "430": {
+    {
       "requestid": "303cb535-2d25-4d6e-971d-582b87fe501b",
       "confidence": "0.7078139",
       "timestamp": 430,
-      "content": "david here is your last quote look over there said my sister k we can go home with a rabbit today that is a line from a new book sets up with everybody"
+      "content": "david here is your last quote look over there said my sister k we can go home with a rabbit today that is a line from a new book sets up with everybody",
+      "uuid": "c19d0e7f-409b-433d-b237-23631e1481f2"
     },
-    "440": {
+    {
       "requestid": "8abb3421-ce4c-4869-877c-6b10239723de",
       "confidence": "0.5358056",
       "timestamp": 440,
-      "content": "eprize we got from a beloved children's author what author doctor seuss that's right turns out 100 want to be heard"
+      "content": "eprize we got from a beloved children's author what author doctor seuss that's right turns out 100 want to be heard",
+      "uuid": "3715d1c2-6b73-4ab8-a033-0c6df091d1a9"
     },
-    "450": {
+    {
       "requestid": "38d9484d-32d4-4428-b0ac-af77262c6404",
       "confidence": "0.7068617",
       "timestamp": 450,
-      "content": "free publishing industry is not bad just the authors are the second week in a row a big kid book is byrider"
+      "content": "free publishing industry is not bad just the authors are the second week in a row a big kid book is byrider",
+      "uuid": "05c891c4-c9ee-44bb-a8ea-fbbaeb32eb8a"
     },
-    "460": {
+    {
       "requestid": "f7dab3ad-c259-4370-bac1-f0dd47051c54",
       "confidence": "0.6575723",
       "timestamp": 460,
-      "content": "is it in the bucket decades the great lesson for struggling new authors of the keys to success right every day right what you know if you can die"
+      "content": "is it in the bucket decades the great lesson for struggling new authors of the keys to success right every day right what you know if you can die",
+      "uuid": "5a91a900-cfd8-40ca-9dcc-5abf7e6eb61f"
     },
-    "470": {
+    {
       "requestid": "e5bc1f22-bd9a-429e-9259-60750cf35852",
       "confidence": "0.6886902",
       "timestamp": 470,
-      "content": "are the new book by doctor seuss was written before his other famous of books back when he was still just pre med seuss it's cold"
+      "content": "are the new book by doctor seuss was written before his other famous of books back when he was still just pre med seuss it's cold",
+      "uuid": "aa1b3bce-d50e-4902-9141-417455377ece"
     },
-    "480": {
+    {
       "requestid": "fcd99059-5b77-4fd9-8cac-8ff1b4f2710b",
       "confidence": "0.7554833",
       "timestamp": 480,
-      "content": "pet should I get if this is successful we can expect our future undiscovered sues works work that he left in his files unpublished when he died"
+      "content": "pet should I get if this is successful we can expect our future undiscovered sues works work that he left in his files unpublished when he died",
+      "uuid": "26bf38ba-41a6-4ebb-8332-d5a6c65836b1"
     },
-    "490": {
+    {
       "requestid": "f30495b9-1f2a-45e3-a444-4a90cc0cb71a",
       "confidence": "0.7317822",
       "timestamp": 490,
-      "content": "maybe that late in life like what medication should I take today and if I ran my oldest 80 the places you'll go to pee"
+      "content": "maybe that late in life like what medication should I take today and if I ran my oldest 80 the places you'll go to pee",
+      "uuid": "5857f438-b9e2-4268-99c9-8e8aba6d52dd"
     },
-    "500": {
+    {
       "requestid": "19d04cca-8109-4bd4-85c6-75a72a4186fa",
       "confidence": "0.5645241",
       "timestamp": 500,
-      "content": "if you can't wait yeah"
+      "content": "if you can't wait yeah",
+      "uuid": "530d6b92-e4af-4a15-8c0b-96aa1c5776bf"
     },
-    "510": {
+    {
       "requestid": "3715806d-0b03-4cb5-ab55-3e2986ff7933",
       "confidence": "0.7209473",
       "timestamp": 510,
-      "content": "yeah yeah me first is harper lee's book which she did one publishing is now been published in now at doctor seuss if the trend continues it might"
+      "content": "yeah yeah me first is harper lee's book which she did one publishing is now been published in now at doctor seuss if the trend continues it might",
+      "uuid": "8d3da7d3-41c4-40d8-af9b-2d0c290b30d5"
     },
-    "520": {
+    {
       "requestid": "b4e3bab1-f5ca-4d2d-a966-d686fe303f4e",
       "confidence": "0.792219",
       "timestamp": 520,
-      "content": "new releases of mediocre books that offers put aside in their day off like a george orwell's 1983"
+      "content": "new releases of mediocre books that offers put aside in their day off like a george orwell's 1983",
+      "uuid": "d3ab7521-b256-4993-8881-58802afbf8a6"
     },
-    "530": {
+    {
       "requestid": "eeb27e1a-8451-438f-a69c-ea0cc61c5190",
       "confidence": "0.5374606",
       "timestamp": 530,
-      "content": "f scott fitzgerald the math gatsby"
+      "content": "f scott fitzgerald the math gatsby",
+      "uuid": "6c090214-37ed-4866-b0e9-3206ae9af776"
     },
-    "540": {
+    {
       "requestid": "d4b0fdaa-a564-467f-a9c8-d8c80ec9cfe8",
       "timestamp": 540,
-      "content": ""
+      "content": "",
+      "uuid": "c7a99343-b497-4fd7-97ab-da0ca7e98b05"
     },
-    "550": {
+    {
       "requestid": "9c2ad3f3-db8a-4b14-9ad4-52fe81a17b72",
       "confidence": "0.6715127",
       "timestamp": 550,
-      "content": "thank you bye bye"
+      "content": "thank you bye bye",
+      "uuid": "a3ee70d7-5137-4506-bba0-5c71aef24e29"
     },
-    "560": {
+    {
       "requestid": "129fef7c-a844-49c4-9841-65df426ef686",
       "confidence": "0.7955645",
       "timestamp": 560,
-      "content": "who won remind everyone they can join is most weeks back at the chase bank auditorium in downtown chicago for tickets and more information go over toWBEZ.org"
+      "content": "who won remind everyone they can join is most weeks back at the chase bank auditorium in downtown chicago for tickets and more information go over toWBEZ.org",
+      "uuid": "adf244a6-05be-49b7-9786-7a7649d32095"
     },
-    "570": {
+    {
       "requestid": "fdfdee35-444e-45ac-af6b-ac792d5e809a",
       "confidence": "0.7728086",
       "timestamp": 570,
-      "content": "find a link it our very own website which of course is wait wait dotnpr.org panel it is time for you to answer some questions about 2 weeks newspoll a new york jfk airport is getting a new"
+      "content": "find a link it our very own website which of course is wait wait dotnpr.org panel it is time for you to answer some questions about 2 weeks newspoll a new york jfk airport is getting a new",
+      "uuid": "8fb09157-32e9-4f27-92b7-217748fc1bb7"
     },
-    "580": {
+    {
       "requestid": "6db19571-9237-427b-8856-3646354f5f67",
       "confidence": "0.6731166",
       "timestamp": 580,
-      "content": "$48 Million luxury terminal just for whom the one person that one person one kind of passenger"
+      "content": "$48 Million luxury terminal just for whom the one person that one person one kind of passenger",
+      "uuid": "d5b425ee-411a-4140-8720-2ba57c1a3520"
     },
-    "590": {
+    {
       "requestid": "1fde29ed-4d34-44f4-851d-503503b7280f",
       "confidence": "0.2846102",
       "timestamp": 590,
-      "content": "passenger comma II hope for animals eat their own"
+      "content": "passenger comma II hope for animals eat their own",
+      "uuid": "f07712c6-2b35-436f-9da7-98aca6418065"
     },
-    "600": {
+    {
       "requestid": "bc2a99ee-37e8-4c80-9939-198354805dc1",
       "confidence": "0.1064252",
       "timestamp": 600,
-      "content": "the hero"
+      "content": "the hero",
+      "uuid": "3eadc43b-bbd3-4d2e-8ae3-571599e79e1d"
     },
-    "610": {
+    {
       "requestid": "7a435da9-e514-42d5-bad3-e8c737d54397",
       "confidence": "0.5979744",
       "timestamp": 610,
-      "content": "if you suck my guardian smell like old gas in urine where do you get a load of the arc at jfk want to finish"
+      "content": "if you suck my guardian smell like old gas in urine where do you get a load of the arc at jfk want to finish",
+      "uuid": "f2eafaa0-e24e-4476-a8c9-692f4e824bbc"
     },
-    "620": {
+    {
       "requestid": "f5911cf3-f8b2-45d2-9887-ad518ad9ef0e",
       "confidence": "0.6780193",
       "timestamp": 620,
-      "content": "at the park is it will be called cats will get luxury lounge is horses will get air condition stalls dogs this is true get a bone shaped pool"
+      "content": "at the park is it will be called cats will get luxury lounge is horses will get air condition stalls dogs this is true get a bone shaped pool",
+      "uuid": "d31c10dd-0eda-41aa-996b-d8092c01f588"
     },
-    "630": {
+    {
       "requestid": "df995e1e-088a-4609-b09c-dcd1de5b580d",
       "confidence": "0.7561797",
       "timestamp": 630,
-      "content": "in flat screen televisions all presumably turn to the 24 hour squirrel channel"
+      "content": "in flat screen televisions all presumably turn to the 24 hour squirrel channel",
+      "uuid": "420c487e-82a5-4af4-9ec6-5e569585ac55"
     },
-    "640": {
+    {
       "requestid": "aa154da8-73f5-4354-b9ad-bfd84f09a094",
       "confidence": "0.5786113",
       "timestamp": 640,
-      "content": "I love that show squirrel job is it in the terminal is the building a whole new terminal yet"
+      "content": "I love that show squirrel job is it in the terminal is the building a whole new terminal yet",
+      "uuid": "6bd4d8a3-a846-48e0-a1fc-e60658f3dbc8"
     },
-    "650": {
+    {
       "requestid": "2accf8cf-09f7-4963-b26a-08c0046b2f6c",
       "confidence": "0.6796517",
       "timestamp": 650,
-      "content": "room at jfk yeah d arc is it will be called will have a special place for penguins to make"
+      "content": "room at jfk yeah d arc is it will be called will have a special place for penguins to make",
+      "uuid": "eea29c89-a4f9-41a2-9431-86c604efaa8e"
     },
-    "660": {
+    {
       "requestid": "bf9066c8-7891-4e6a-9ff5-81aeff097871",
       "confidence": "0.5804045",
       "timestamp": 660,
-      "content": "it's like I don't even get to the airport I know"
+      "content": "it's like I don't even get to the airport I know",
+      "uuid": "9abfe356-0490-4567-90c6-5d47eba5fedc"
     },
-    "670": {
+    {
       "requestid": "77b0bf61-31a5-47f6-9241-03fd37a418bb",
       "confidence": "0.5217084",
       "timestamp": 670,
-      "content": "live outside and I feel like your just trying to suppress my day after what happen with the flamingos I feel better"
+      "content": "live outside and I feel like your just trying to suppress my day after what happen with the flamingos I feel better",
+      "uuid": "026fed63-0ebb-4153-b544-023c5be0fcc3"
     },
-    "680": {
+    {
       "requestid": "01f3e908-b52e-4c0f-b5f9-229cb0a18f63",
       "timestamp": 680,
-      "content": ""
+      "content": "",
+      "uuid": "6c509403-628b-4b79-a426-87317b1e1654"
     },
-    "690": {
+    {
       "requestid": "ca3c5137-0674-4f89-a6a1-34fdb13c77af",
       "timestamp": 690,
-      "content": ""
+      "content": "",
+      "uuid": "30f788ec-5f80-4c8e-ab0b-52c322e2d07f"
     },
-    "700": {
+    {
       "requestid": "d29799d3-da8d-466b-b7ca-6ac28ab0bea9",
       "confidence": "0.6616378",
       "timestamp": 700,
-      "content": "whose name fits their profession brilliantly and were the best ever is Mr. tito beverage at his name tito beverage she makes p told him a bath"
+      "content": "whose name fits their profession brilliantly and were the best ever is Mr. tito beverage at his name tito beverage she makes p told him a bath",
+      "uuid": "397ad55a-172d-4718-96f0-ca24462ac91b"
     },
-    "710": {
+    {
       "requestid": "82477ade-327e-4212-aa2f-a9600a9b0906",
       "confidence": "0.7268391",
       "timestamp": 710,
-      "content": "which is a sponsor of this is very podcast incorporate the concept of arts and crafts midget find boutique wineries did the spirits industry and they make pita"
+      "content": "which is a sponsor of this is very podcast incorporate the concept of arts and crafts midget find boutique wineries did the spirits industry and they make pita",
+      "uuid": "46c7069b-8359-4878-a820-753ccb8a1c95"
     },
-    "720": {
+    {
       "requestid": "d55d469b-1184-4182-a6bf-3008cb8a17c8",
       "confidence": "0.6590916",
       "timestamp": 720,
-      "content": "handmade vodka pido beverage remington at his name is beverage a new mix vodka he still uses the time honored pot still batch distillation process"
+      "content": "handmade vodka pido beverage remington at his name is beverage a new mix vodka he still uses the time honored pot still batch distillation process",
+      "uuid": "cb2cd1d7-f897-413a-9e76-b74ec493814c"
     },
-    "730": {
+    {
       "requestid": "6acb5f3b-33d7-4ad5-8877-24e8e4dee9dd",
       "confidence": "0.8389002",
       "timestamp": 730,
-      "content": "I don't know what that is but it sounds very legitimate and it's all in austin texas tito's handmade vodka is made from corn is naturally"
+      "content": "I don't know what that is but it sounds very legitimate and it's all in austin texas tito's handmade vodka is made from corn is naturally",
+      "uuid": "1ae7f71f-2f4f-4d8c-8a38-668d8b5a67f4"
     },
-    "740": {
+    {
       "requestid": "75017254-f3cb-42d7-b72e-d3611a718bd6",
       "confidence": "0.6408953",
       "timestamp": 740,
-      "content": "gluten free so party down celiacs"
+      "content": "gluten free so party down celiacs",
+      "uuid": "f270ce0b-696f-4c64-95f2-8287ea092c5f"
     },
-    "750": {
+    {
       "requestid": "e20b52bd-4039-4fbe-899a-93703ae56131",
       "confidence": "0.6075519",
       "timestamp": 750,
-      "content": "mw be easy chicago this is wait wait don't tell me the npr news with unbilled curtis we are playing this week with paula poundstone roxanne roberts and adam"
+      "content": "mw be easy chicago this is wait wait don't tell me the npr news with unbilled curtis we are playing this week with paula poundstone roxanne roberts and adam",
+      "uuid": "1814ab5a-832d-4ae7-8d20-5299b43af628"
     },
-    "760": {
+    {
       "requestid": "d8aecf10-73c8-446a-98ff-bd33929c1c6a",
       "confidence": "0.369556",
       "timestamp": 760,
-      "content": "burton here to get a girl that will trap in vienna virginia peter seigal"
+      "content": "burton here to get a girl that will trap in vienna virginia peter seigal",
+      "uuid": "64a330c3-3162-4bba-9273-418d94f216a1"
     },
-    "770": {
+    {
       "requestid": "a60460ce-5cff-44b3-ac89-a097d6d3d546",
       "confidence": "0.6438234",
       "timestamp": 770,
-      "content": "right now I'm gonna wait wait don't tell me bluff the listener game call one triple wait wait wait to play a game in the air hydro wait wait don't tell me how"
+      "content": "right now I'm gonna wait wait don't tell me bluff the listener game call one triple wait wait wait to play a game in the air hydro wait wait don't tell me how",
+      "uuid": "e8b1fc69-976e-47f2-bfc0-f2a9433bd94f"
     },
-    "780": {
+    {
       "requestid": "9aca9770-b5e7-411b-9dbc-d42e42bfbd2d",
       "confidence": "0.4976961",
       "timestamp": 780,
-      "content": "this is brian gibson and I'm calling from cleveland ohio beautiful cleveland cleveland by the lake so we did I am a joke"
+      "content": "this is brian gibson and I'm calling from cleveland ohio beautiful cleveland cleveland by the lake so we did I am a joke",
+      "uuid": "2b457c71-2496-4d1b-9eeb-3325593cc6f5"
     },
-    "790": {
+    {
       "requestid": "4da4c6aa-9b97-4a53-b510-923784e57765",
       "confidence": "0.6356084",
       "timestamp": 790,
-      "content": "call mark at defender of the capital markets yes indeed I am not either way they are big for financial services firm oh"
+      "content": "call mark at defender of the capital markets yes indeed I am not either way they are big for financial services firm oh",
+      "uuid": "2e1a605b-fabe-4d34-9f57-dceae9d33e19"
     },
-    "800": {
+    {
       "requestid": "2da5cf65-f8da-4717-8732-212f01adfbdf",
       "confidence": "0.5287189",
       "timestamp": 800,
-      "content": "that's interesting sounding been a defender in the capital markets I know I just like hearing that next time anybody"
+      "content": "that's interesting sounding been a defender in the capital markets I know I just like hearing that next time anybody",
+      "uuid": "e7aa40d9-bafd-4c8a-a596-fd3c1dd1f4d4"
     },
-    "810": {
+    {
       "requestid": "3b7726ec-7809-4c43-958b-4df68eeb09cc",
       "confidence": "0.6083024",
       "timestamp": 810,
-      "content": "do the show lauren you play a game with him a try to tell truth from fiction bill what is lauren topic this sucks slightly less than we thought there are things"
+      "content": "do the show lauren you play a game with him a try to tell truth from fiction bill what is lauren topic this sucks slightly less than we thought there are things",
+      "uuid": "cad15129-2fde-4d3b-b3eb-280912151c32"
     },
-    "820": {
+    {
       "requestid": "250d0a1a-5430-4b6e-b650-114b5ad34de8",
       "confidence": "0.5230558",
       "timestamp": 820,
-      "content": "everybody came to mosquitoes taxes gwyneth palt roll but once in awhile sure if I'll get ready"
+      "content": "everybody came to mosquitoes taxes gwyneth palt roll but once in awhile sure if I'll get ready",
+      "uuid": "805d88ae-e22f-4feb-8e8e-a9c97462bc98"
     },
-    "830": {
+    {
       "requestid": "39e5a9c9-3d93-46f6-81af-0ace8b2fd2bc",
       "confidence": "0.7312509",
       "timestamp": 830,
-      "content": "this week with a story about a universally hated thing actually doing somebody's agura panelas are going to tell you about it all you have to do is pick the one telling the truth you win a prize the voice"
+      "content": "this week with a story about a universally hated thing actually doing somebody's agura panelas are going to tell you about it all you have to do is pick the one telling the truth you win a prize the voice",
+      "uuid": "fff87dbf-7f84-4415-ad83-e6d399e27a1f"
     },
-    "840": {
+    {
       "requestid": "b92b6f51-6cda-495c-a02d-7400014754b5",
       "confidence": "0.5511407",
       "timestamp": 840,
-      "content": "the mortal carl kasell on your voicemail I replied oh absolutely I'm ready for ready she said here is your first story is from adam felber"
+      "content": "the mortal carl kasell on your voicemail I replied oh absolutely I'm ready for ready she said here is your first story is from adam felber",
+      "uuid": "f0f5a524-7a82-4932-bf45-f2b81e21c4f3"
     },
-    "850": {
+    {
       "requestid": "a6d0076b-3369-4ff5-88b9-2c05c047597a",
       "confidence": "0.6781308",
       "timestamp": 850,
-      "content": "it appears before it's perfectly round both beautiful and horrifying omnipresence and we literally cannot look away is it drives is utterly mad no I'm not rehashing be"
+      "content": "it appears before it's perfectly round both beautiful and horrifying omnipresence and we literally cannot look away is it drives is utterly mad no I'm not rehashing be",
+      "uuid": "87ce8b45-eb2a-46d3-8495-239e3f760ee1"
     },
-    "860": {
+    {
       "requestid": "f3ddf13d-6d28-44d2-a5de-e4b2c3a643b3",
       "confidence": "0.7033759",
       "timestamp": 860,
-      "content": "but of the ring I'm talking about a real world terror kim kardashian butt who is a different side of that but this week at heroic side"
+      "content": "but of the ring I'm talking about a real world terror kim kardashian butt who is a different side of that but this week at heroic side",
+      "uuid": "18cd2dc1-d8b1-4f6e-8078-dd43f5a416b5"
     },
-    "870": {
+    {
       "requestid": "4468d56a-fdad-426a-b643-cbe67cf7b9ff",
       "confidence": "0.5901613",
       "timestamp": 870,
-      "content": "she was golfing with her husband 100 indian wells california near the 13th green park at ibram nova misjudged hill tipping over the golf cart"
+      "content": "she was golfing with her husband 100 indian wells california near the 13th green park at ibram nova misjudged hill tipping over the golf cart",
+      "uuid": "ef88323d-fecd-403c-b04f-0ab9b37716fb"
     },
-    "880": {
+    {
       "requestid": "e1d4e640-f0d3-44df-8106-28a9c86ef676",
       "confidence": "0.6086726",
       "timestamp": 880,
-      "content": "site tumble gently into the grass but no go on the upward side of the parts del head first 5 feet and my broken his neck how do you not landed safely"
+      "content": "site tumble gently into the grass but no go on the upward side of the parts del head first 5 feet and my broken his neck how do you not landed safely",
+      "uuid": "3becd74e-78c8-467f-92d2-c371a3e8f9c0"
     },
-    "890": {
+    {
       "requestid": "043d5372-2a82-47b9-8076-bf487e35d9e0",
       "confidence": "0.4238417",
       "timestamp": 890,
-      "content": "on the supple crash matapos love you tons famously generous but it's"
+      "content": "on the supple crash matapos love you tons famously generous but it's",
+      "uuid": "528b36b5-0987-4b2e-a088-4e37e5a60c74"
     },
-    "900": {
+    {
       "requestid": "fd477646-62a4-4d3b-aaaf-1b17b3cb79b1",
       "confidence": "0.6289001",
       "timestamp": 900,
-      "content": "had high praise for low parts quote I never saw that as an acid before but now that this bum cd back"
+      "content": "had high praise for low parts quote I never saw that as an acid before but now that this bum cd back",
+      "uuid": "b167f947-9930-4ed6-b814-58c8d644cc52"
     },
-    "910": {
+    {
       "requestid": "364f9a58-d0ea-457e-a445-528a54c0065a",
       "confidence": "0.6765225",
       "timestamp": 910,
-      "content": "behind the wheel I fundamentally sangkar from the bottom of my heart"
+      "content": "behind the wheel I fundamentally sangkar from the bottom of my heart",
+      "uuid": "7e2ff022-96c2-418a-a154-5fd1ca0b31ac"
     },
-    "920": {
+    {
       "requestid": "413ce0f6-6652-44e8-a1d5-0397e898072b",
       "confidence": "0.6175902",
       "timestamp": 920,
-      "content": "save in golf caddy brian over from certain death simply by questioning his fault your neck story of something once hated being with them to come from roxanne roberts"
+      "content": "save in golf caddy brian over from certain death simply by questioning his fault your neck story of something once hated being with them to come from roxanne roberts",
+      "uuid": "c633bbef-7dd6-4411-badc-6cf6c051d2af"
     },
-    "930": {
+    {
       "requestid": "71ec4248-6d8b-4008-82cb-90d38b7da167",
       "confidence": "0.6851281",
       "timestamp": 930,
-      "content": "shelly barcroft artena foul mood when she settled into a middle seat in a red eye from los angeles to boston last week the gate agent me to check org"
+      "content": "shelly barcroft artena foul mood when she settled into a middle seat in a red eye from los angeles to boston last week the gate agent me to check org",
+      "uuid": "bfdf41eb-eb6e-4400-9c16-fac0e07d3118"
     },
-    "940": {
+    {
       "requestid": "42a25d5b-ce0e-477b-b0c6-98eb4ede5cb9",
       "confidence": "0.7377161",
       "timestamp": 940,
-      "content": "ariana because it is one inch too big the flight was delayed for 2 hours is it with a night like that with no food or beverage service and she was squished between"
+      "content": "ariana because it is one inch too big the flight was delayed for 2 hours is it with a night like that with no food or beverage service and she was squished between",
+      "uuid": "1b70fb4e-fb8d-4d51-84fd-d43c5a889997"
     },
-    "950": {
+    {
       "requestid": "4149ea17-fbf2-4652-b0ea-377a839b1c4c",
       "confidence": "0.5886061",
       "timestamp": 950,
-      "content": "2 huge guys are probably fell asleep and started snoring different she thought things could get any worse barcroft are choking on a werthers caramel drop"
+      "content": "2 huge guys are probably fell asleep and started snoring different she thought things could get any worse barcroft are choking on a werthers caramel drop",
+      "uuid": "67040edb-77db-4927-8198-0934edde051d"
     },
-    "960": {
+    {
       "requestid": "031b47e3-e860-4924-9ecc-5a7d2204176b",
       "confidence": "0.6574733",
       "timestamp": 960,
-      "content": "the capital lights down the window she could bring it with them like a miracle from airline held at the church directly in front of her did with jerks always do"
+      "content": "the capital lights down the window she could bring it with them like a miracle from airline held at the church directly in front of her did with jerks always do",
+      "uuid": "42c5f2da-bba9-4b07-aee1-7b6d18d9ba59"
     },
-    "970": {
+    {
       "requestid": "553bb717-75c4-48b4-9abb-94722c047078",
       "confidence": "0.5418539",
       "timestamp": 970,
-      "content": "aggressively recline hissy fits a joke slam the table treinta rib cage in the one in a million times look like a minute"
+      "content": "aggressively recline hissy fits a joke slam the table treinta rib cage in the one in a million times look like a minute",
+      "uuid": "7e67b66c-d4c3-4ca9-a66d-b64ef6c5ab5a"
     },
-    "980": {
+    {
       "requestid": "90e59088-d15c-44c0-8f32-33e5016805d2",
       "confidence": "0.5759045",
       "timestamp": 980,
-      "content": "carmel popped out it was the best horrible flight I've ever had by crustal the boston globe but it was still pretty fair"
+      "content": "carmel popped out it was the best horrible flight I've ever had by crustal the boston globe but it was still pretty fair",
+      "uuid": "4e97bcab-9c0b-4657-b575-c5267d91b325"
     },
-    "990": {
+    {
       "requestid": "2080ad87-665b-4369-9afb-09641c26306d",
       "confidence": "0.6745818",
       "timestamp": 990,
-      "content": "I wanted to say"
+      "content": "I wanted to say",
+      "uuid": "75385e9d-dca5-4406-b459-9616978935de"
     },
-    "1000": {
+    {
       "requestid": "7ce5d92c-bd92-4d38-9025-0f458a673afb",
       "confidence": "0.7317984",
       "timestamp": 1000,
-      "content": "I didn't see your last name something that maybe not as terrible as we thought at least in this one instance comes from paula poundstone so please fix have a bad with you"
+      "content": "I didn't see your last name something that maybe not as terrible as we thought at least in this one instance comes from paula poundstone so please fix have a bad with you",
+      "uuid": "934ca550-e8a0-4c4d-be33-267afa6b6c05"
     },
-    "1010": {
+    {
       "requestid": "27b22e9f-0eb2-403b-941d-f03de865bd63",
       "confidence": "0.5293021",
       "timestamp": 1010,
-      "content": "haitian even people who own selfie stick page other people using selfie stick it may be something in the name of the same by nature"
+      "content": "haitian even people who own selfie stick page other people using selfie stick it may be something in the name of the same by nature",
+      "uuid": "707e708e-14fc-4df3-8b13-759db0417e62"
     },
-    "1020": {
+    {
       "requestid": "523d63fa-9c53-4610-b7cb-fc1b4a525e8d",
       "confidence": "0.6179796",
       "timestamp": 1020,
-      "content": "they're banned from any museums and private leonov the record curators might admit that it's just a ploy to keep stupid people out"
+      "content": "they're banned from any museums and private leonov the record curators might admit that it's just a ploy to keep stupid people out",
+      "uuid": "c4b7fd56-26f9-43bf-8d5f-f48f747d16f0"
     },
-    "1030": {
+    {
       "requestid": "b3226351-4afd-4bd6-9ab2-4f2d08e73dd8",
       "confidence": "0.564298",
       "timestamp": 1030,
-      "content": "for 16 year old ellen johns vacationing with her family and then <profanity>fuck</profanity> it tho this week a selfie stick became a hero"
+      "content": "for 16 year old ellen johns vacationing with her family and then <profanity>fuck</profanity> it tho this week a selfie stick became a hero",
+      "uuid": "51cddc5c-0bdc-414a-b3dc-bb79343506fe"
     },
-    "1040": {
+    {
       "requestid": "57067f06-36bd-4dbc-a6cf-eef3250ae730",
       "confidence": "0.5764505",
       "timestamp": 1040,
-      "content": "what should my father took to the water where they were caught in a riptide horrified aarons mother jennifer attempted to save them"
+      "content": "what should my father took to the water where they were caught in a riptide horrified aarons mother jennifer attempted to save them",
+      "uuid": "cb756fe6-306c-4b95-94af-8a8141e147a3"
     },
-    "1050": {
+    {
       "requestid": "e2d9f1c6-0bcc-4a98-9a91-5082c01858c8",
       "confidence": "0.7079294",
       "timestamp": 1050,
-      "content": "got caught in the riptide her father john a former marine said it was the biggest pickle he ever been in just when I thought all was lost john was able to"
+      "content": "got caught in the riptide her father john a former marine said it was the biggest pickle he ever been in just when I thought all was lost john was able to",
+      "uuid": "1d41cf3c-aa59-4e70-ac55-f081823337ad"
     },
-    "1060": {
+    {
       "requestid": "8124f716-5496-4b5c-83fa-e0f929c8ec1b",
       "confidence": "0.4048223",
       "timestamp": 1060,
-      "content": "rap god so he sticks to attach to evans rest of the gopro which continued to film and pull her to relative safety fortunately the lifeguard"
+      "content": "rap god so he sticks to attach to evans rest of the gopro which continued to film and pull her to relative safety fortunately the lifeguard",
+      "uuid": "5079bea7-cf14-4609-9e74-0cec99cf37ee"
     },
-    "1070": {
+    {
       "requestid": "2d75505f-5898-4117-8cae-bb0ce03b2530",
       "confidence": "0.5836954",
       "timestamp": 1070,
-      "content": "we did the rescue and even more fortunately each of the john's can show some of their family almost dying to anyone they can corner with a ride"
+      "content": "we did the rescue and even more fortunately each of the john's can show some of their family almost dying to anyone they can corner with a ride",
+      "uuid": "b247ac61-c935-495b-b817-8afb160bfdfb"
     },
-    "1080": {
+    {
       "requestid": "6d703941-bd9f-41bf-9338-dd11a87734f6",
       "confidence": "0.55138",
       "timestamp": 1080,
-      "content": "alright one of these things which normally people actually"
+      "content": "alright one of these things which normally people actually",
+      "uuid": "35420d6a-12e4-411f-b195-9b9ce6a121c7"
     },
-    "1090": {
+    {
       "requestid": "2ca78cd9-1ec6-4c4b-802f-c40c5485ce3d",
       "confidence": "0.679266",
       "timestamp": 1090,
-      "content": "save a life in the news was it from adam felber kim kardashians butt with fish in the fall of a golf caddy what is it from roxanne roberts reply"
+      "content": "save a life in the news was it from adam felber kim kardashians butt with fish in the fall of a golf caddy what is it from roxanne roberts reply",
+      "uuid": "0988057c-75a9-4fcf-ba6f-69292b4dbd8f"
     },
-    "1100": {
+    {
       "requestid": "413b7c3b-f9f3-457b-96e5-887a715bf9d4",
       "confidence": "0.5122976",
       "timestamp": 1100,
-      "content": "bing airline seat which suddenly heimlich the woman finally choking to death or from paula poundstone a selfie stick with screwed up to be"
+      "content": "bing airline seat which suddenly heimlich the woman finally choking to death or from paula poundstone a selfie stick with screwed up to be",
+      "uuid": "c242a4df-2da6-4f0b-bfaa-f4bec3d53cfa"
     },
-    "1110": {
+    {
       "requestid": "442895d2-23bb-4815-9e67-95de1a0b29cd",
       "confidence": "0.5631482",
       "timestamp": 1110,
-      "content": "I need a favor family apparel in the sea alright which of those is the real story on how I feel"
+      "content": "I need a favor family apparel in the sea alright which of those is the real story on how I feel",
+      "uuid": "12ed1fb7-e442-4ecb-b37e-781e1a0d7e1c"
     },
-    "1120": {
+    {
       "requestid": "e86e145d-25c3-4506-bf5c-cb3ab5b170a3",
       "confidence": "0.4701141",
       "timestamp": 1120,
-      "content": "heard about it it's the one I landed I forgot my phone back to the women of life and your audience is going to happen"
+      "content": "heard about it it's the one I landed I forgot my phone back to the women of life and your audience is going to happen",
+      "uuid": "56726618-5e29-4240-819b-f372e075a939"
     },
-    "1130": {
+    {
       "requestid": "f345c3a9-2f8c-45db-816d-d04475aeca73",
       "confidence": "0.2847565",
       "timestamp": 1130,
-      "content": "number 3 paula sorry I wanted"
+      "content": "number 3 paula sorry I wanted",
+      "uuid": "76d3d458-8c45-4c73-baf3-e5fbd5ed262e"
     },
-    "1140": {
+    {
       "requestid": "eee30401-f62b-451d-9d15-47b1fe350075",
       "confidence": "0.4483956",
       "timestamp": 1140,
-      "content": "monsuno your with the truth the benefits of the southeastern get a great picture and that with stephanie mcmahon"
+      "content": "monsuno your with the truth the benefits of the southeastern get a great picture and that with stephanie mcmahon",
+      "uuid": "8638b5d9-e7a0-46b7-aa5d-f0791f564fe2"
     },
-    "1150": {
+    {
       "requestid": "abd7a18f-5a30-4f1d-8307-a5c3a593321a",
       "confidence": "0.5497789",
       "timestamp": 1150,
-      "content": "40 bucks feed of course talking about the life saving selfie stick with to play bless the family and then tucket you are right your logic what is"
+      "content": "40 bucks feed of course talking about the life saving selfie stick with to play bless the family and then tucket you are right your logic what is",
+      "uuid": "52fa8a43-39d4-4aac-b7b3-f3cb5d5644a5"
     },
-    "1160": {
+    {
       "requestid": "42a74941-cc34-4ca6-9b18-b9036ceaeb7a",
       "confidence": "0.3630727",
       "timestamp": 1160,
-      "content": "packable lauren thank you so much exactly the point"
+      "content": "packable lauren thank you so much exactly the point",
+      "uuid": "60ab4e9b-ce5e-40c0-bb76-ca4e58a14d54"
     },
-    "1170": {
+    {
       "requestid": "d0a439b9-430e-4964-9dfd-694fe49ad62f",
       "confidence": "0.5619524",
       "timestamp": 1170,
-      "content": "reading a voicemail well the morning thank you so much reply thank you very much bye bye"
+      "content": "reading a voicemail well the morning thank you so much reply thank you very much bye bye",
+      "uuid": "1c5df73b-327e-4e32-8b94-95ed74678e51"
     },
-    "1180": {
+    {
       "requestid": "78b146b1-1304-4289-b26a-14a219e3476f",
       "confidence": "0.6816665",
       "timestamp": 1180,
-      "content": "mlb game will be asking for 2 people about an important thing is it's cold not my job women"
+      "content": "mlb game will be asking for 2 people about an important thing is it's cold not my job women",
+      "uuid": "daecf0fc-4d45-4869-afb1-9882c94b6fb6"
     },
-    "1190": {
+    {
       "requestid": "d5098dca-05eb-43b5-8dcc-66f88b9ef988",
       "confidence": "0.6422987",
       "timestamp": 1190,
-      "content": "country was founded centuries ago or surgeons were aimless wandering here and there was no discipline order then the country to be off is the surgeon general the commander bowl surgeons everywhere"
+      "content": "country was founded centuries ago or surgeons were aimless wandering here and there was no discipline order then the country to be off is the surgeon general the commander bowl surgeons everywhere",
+      "uuid": "71da03f9-46ff-4f38-b1f0-733b5aaee415"
     },
-    "1200": {
+    {
       "requestid": "1f09a46a-dedb-49ab-ad0a-d866e624e5f2",
       "confidence": "0.5874043",
       "timestamp": 1200,
-      "content": "picture of a circle scrubs at sharp rees is in there scalpels shine like the sun is the youngest surgeon general in our nation's history is"
+      "content": "picture of a circle scrubs at sharp rees is in there scalpels shine like the sun is the youngest surgeon general in our nation's history is",
+      "uuid": "b03d3604-5ec6-4755-87cf-3edbc577e739"
     },
-    "1210": {
+    {
       "requestid": "cf1ea5dd-9ff9-458d-8fe8-5e91b3d0cf55",
       "confidence": "0.5685428",
       "timestamp": 1210,
-      "content": "in uniform and we welcome to wait wait don't tell me"
+      "content": "in uniform and we welcome to wait wait don't tell me",
+      "uuid": "4df50d5d-6988-4608-8b94-49425800992e"
     },
-    "1220": {
+    {
       "requestid": "5ad7f393-ff28-4af6-a8d9-69d06b0b5ab2",
       "confidence": "0.629726",
       "timestamp": 1220,
-      "content": "show up because you are the youngest surgeon general so actually I'm not no you're not I'm not at the common misconception that in fact a very"
+      "content": "show up because you are the youngest surgeon general so actually I'm not no you're not I'm not at the common misconception that in fact a very",
+      "uuid": "9a03480c-a4e4-43a0-98f1-ac11c93bd58f"
     },
-    "1230": {
+    {
       "requestid": "a685ff49-6e57-4e48-ac04-07741dc22788",
       "confidence": "0.6040059",
       "timestamp": 1230,
-      "content": "surgeon general I done with work with a younger than I was the 33rd and how old are you sorry I just turned 38 a couple weeks ago"
+      "content": "surgeon general I done with work with a younger than I was the 33rd and how old are you sorry I just turned 38 a couple weeks ago",
+      "uuid": "7b434691-6869-40e0-b5d1-cf56b2a072aa"
     },
-    "1240": {
+    {
       "requestid": "7a2c1655-00af-4dbb-b4ca-1dd4095079f5",
       "confidence": "0.7222444",
       "timestamp": 1240,
-      "content": "said happy birthday thank you and when you turn 40 will that give it a uniform with long pants ha ha ha ha ha ha ha ha ha ha"
+      "content": "said happy birthday thank you and when you turn 40 will that give it a uniform with long pants ha ha ha ha ha ha ha ha ha ha",
+      "uuid": "31bdb548-673c-4d42-b3a0-1c70efe97d48"
     },
-    "1250": {
+    {
       "requestid": "4092746b-b9eb-4d45-8d1f-acd621abc215",
       "confidence": "0.7519966",
       "timestamp": 1250,
-      "content": "your doctor year in boston doing important work at how did you how did you find out they wanted you to be a surgeon general well I was told by a representative from the white house hunters actually"
+      "content": "your doctor year in boston doing important work at how did you how did you find out they wanted you to be a surgeon general well I was told by a representative from the white house hunters actually",
+      "uuid": "32b49526-9d4a-4071-8ad1-45c96abc4ebc"
     },
-    "1260": {
+    {
       "requestid": "438c4c09-0bd3-44d2-9975-03420f55648e",
       "confidence": "0.6635399",
       "timestamp": 1260,
-      "content": "looking up my dry cleaning with my phone rang and I don't recognize the number and I she was not planning to pick it up in the last minute I just sitting with what happened"
+      "content": "looking up my dry cleaning with my phone rang and I don't recognize the number and I she was not planning to pick it up in the last minute I just sitting with what happened",
+      "uuid": "2e779a35-e614-4ea0-bd3f-cf47ac4e38c0"
     },
-    "1270": {
+    {
       "requestid": "45f05e31-9a81-4ca4-811b-ef62983ea72e",
       "confidence": "0.6033332",
       "timestamp": 1270,
-      "content": "pick it up in body did really do you think they didn't it would've just gonna ask if you haven't picked it up doctor phil would be there"
+      "content": "pick it up in body did really do you think they didn't it would've just gonna ask if you haven't picked it up doctor phil would be there",
+      "uuid": "ee5d64f0-65a5-4a1c-b208-dee4bdca641a"
     },
-    "1280": {
+    {
       "requestid": "84da80d4-8e31-45cf-8ed3-1f9b502bb6cd",
       "confidence": "0.5849614",
       "timestamp": 1280,
-      "content": "I'm very grateful I'm in and you can use with keeping to be able to grow the required everett koop"
+      "content": "I'm very grateful I'm in and you can use with keeping to be able to grow the required everett koop",
+      "uuid": "da387126-2dfa-40cf-83b5-97eb21ce30d9"
     },
-    "1290": {
+    {
       "requestid": "1cb61292-6a83-42d9-b4ca-8226c2eafcbd",
       "confidence": "0.7058875",
       "timestamp": 1290,
-      "content": "I'll be up to the notice it hasn't come in quite well yeah well I will tell you being in unamerican I have tremendous potential to grow facial hair"
+      "content": "I'll be up to the notice it hasn't come in quite well yeah well I will tell you being in unamerican I have tremendous potential to grow facial hair",
+      "uuid": "27f2c602-ae0f-44a1-b9e3-a675131188f6"
     },
-    "1300": {
+    {
       "requestid": "e1df0756-aa11-4f3b-9e59-5d8743ad8f71",
       "confidence": "0.4386445",
       "timestamp": 1300,
-      "content": "your bad speaking of the jews you and me both brother"
+      "content": "your bad speaking of the jews you and me both brother",
+      "uuid": "d42f7008-3aec-4c5a-acde-d9b4ec28638f"
     },
-    "1310": {
+    {
       "requestid": "60be7054-baf4-4fd6-b4ab-13fe126a1227",
       "confidence": "0.371796",
       "timestamp": 1310,
-      "content": "speaking of an asian woman"
+      "content": "speaking of an asian woman",
+      "uuid": "d7d0675d-b07f-42f1-aa3e-28cb4438b837"
     },
-    "1320": {
+    {
       "requestid": "e199dac3-ccf6-47e0-b919-01cd66ca1d03",
       "confidence": "0.5942001",
       "timestamp": 1320,
-      "content": "no shame in being human so so so what does the surgeon general do other than warning labels on things"
+      "content": "no shame in being human so so so what does the surgeon general do other than warning labels on things",
+      "uuid": "99445732-d55e-4fee-8e51-3b08ac2aa362"
     },
-    "1330": {
+    {
       "requestid": "726c06af-34a9-469b-8d25-99deeb0401a1",
       "confidence": "0.6571398",
       "timestamp": 1330,
-      "content": "I'm so glad you are I'm II'm glad you did answer because you know a lot of people of misconceptions about with this work and all dat viet the other day I was in fact"
+      "content": "I'm so glad you are I'm II'm glad you did answer because you know a lot of people of misconceptions about with this work and all dat viet the other day I was in fact",
+      "uuid": "527db465-5264-42ca-abe1-5fc177a528f7"
     },
-    "1340": {
+    {
       "requestid": "cfe4fee4-e6ea-4323-ac7c-a2ed852ca6be",
       "confidence": "0.7552637",
       "timestamp": 1340,
-      "content": "not getting on an airplane ando woman in front of me I turned around looked at me and said oh no why don't you go first air I said you know it's alright I don't mind waiting"
+      "content": "not getting on an airplane ando woman in front of me I turned around looked at me and said oh no why don't you go first air I said you know it's alright I don't mind waiting",
+      "uuid": "1896ee21-4770-4efc-b8fe-d11d1024c3f9"
     },
-    "1350": {
+    {
       "requestid": "73225ede-830b-4caa-b731-6ab3f830302a",
       "confidence": "0.580739",
       "timestamp": 1350,
-      "content": "no without you might be able to fly the plane"
+      "content": "no without you might be able to fly the plane",
+      "uuid": "4112091a-bae0-4751-b519-25ca8ff063a9"
     },
-    "1360": {
+    {
       "requestid": "b7a15f86-29a3-481e-a46e-208d0647cc05",
       "confidence": "0.6781328",
       "timestamp": 1360,
-      "content": "point out that you are wearing AAA military style uniform which could easily be misconstrued as an airline pilot no wondering if the last time I went to my doc"
+      "content": "point out that you are wearing AAA military style uniform which could easily be misconstrued as an airline pilot no wondering if the last time I went to my doc",
+      "uuid": "e0d13b2c-6431-416c-9b78-c23c2a441016"
     },
-    "1370": {
+    {
       "requestid": "4b0ec6d3-dacb-4e0d-a23f-04140aa3d4af",
       "confidence": "0.2490868",
       "timestamp": 1370,
-      "content": "there"
+      "content": "there",
+      "uuid": "47867f65-6e47-4638-a0b8-05efb7ddb13c"
     },
-    "1380": {
+    {
       "requestid": "813d974e-9ba2-4c2b-a35c-b32d72ed3f88",
       "confidence": "0.6422998",
       "timestamp": 1380,
-      "content": "airline pilot up what does the surgeon general to the surgeon general is responsible for sharing scientifically based information with the public"
+      "content": "airline pilot up what does the surgeon general to the surgeon general is responsible for sharing scientifically based information with the public",
+      "uuid": "adc7cfcf-2d9e-4baf-b30e-b04099d1a855"
     },
-    "1390": {
+    {
       "requestid": "b08887cb-1aa0-455b-9e2b-b9ab70542d90",
       "confidence": "0.7145836",
       "timestamp": 1390,
-      "content": "today again for their help but I was it personally that my goal is surgeon general is the help build a culture of prevention in america so that we are in a meter dash"
+      "content": "today again for their help but I was it personally that my goal is surgeon general is the help build a culture of prevention in america so that we are in a meter dash",
+      "uuid": "fa9369fb-6bd0-4adc-b22c-b863d372870f"
     },
-    "1400": {
+    {
       "requestid": "1ecb804b-f423-4593-a354-2c07335a4fd3",
       "confidence": "0.5373685",
       "timestamp": 1400,
-      "content": "good as good at preventing right we are cleaning now baby do u of america do you want them not to go swimming until an hour after they eat"
+      "content": "good as good at preventing right we are cleaning now baby do u of america do you want them not to go swimming until an hour after they eat",
+      "uuid": "e82bfbdf-d7df-4c32-a815-7830add4ef93"
     },
-    "1410": {
+    {
       "requestid": "58d28177-9c2a-4541-9523-fc16d619b714",
       "confidence": "0.639495",
       "timestamp": 1410,
-      "content": "you like the nation's jewish mother"
+      "content": "you like the nation's jewish mother",
+      "uuid": "b1a0c409-37a7-4466-bc0a-7f89e5a3e4cb"
     },
-    "1420": {
+    {
       "requestid": "623d8d3f-16fa-42da-924c-c665f3012ce9",
       "confidence": "0.6497971",
       "timestamp": 1420,
-      "content": "is it around all day love <profanity>pussy</profanity> too many fat but is it is there what's the next thing that we really love doing that would have to stop at work now"
+      "content": "is it around all day love <profanity>pussy</profanity> too many fat but is it is there what's the next thing that we really love doing that would have to stop at work now",
+      "uuid": "369c8a55-59a7-4cd8-99b1-021e43911dab"
     },
-    "1430": {
+    {
       "requestid": "3abae2c9-d982-49c8-bd3d-ceb5c5d3bd7c",
       "confidence": "0.6634309",
       "timestamp": 1430,
-      "content": "the last few times before you come out will you mention a few things are important which are making sure that we're eating healthily that includes make sugar"
+      "content": "the last few times before you come out will you mention a few things are important which are making sure that we're eating healthily that includes make sugar",
+      "uuid": "0f78788b-115b-47bd-8871-7a4c4366a999"
     },
-    "1440": {
+    {
       "requestid": "1ad44179-e6d8-4c2d-b86b-9c6b9f5e1c18",
       "confidence": "0.6848432",
       "timestamp": 1440,
-      "content": "fruit and vegetables in particular drinking a lot of water for their backs and one other thing which I think is really important this is actually be happy I don't explain why most people"
+      "content": "fruit and vegetables in particular drinking a lot of water for their backs and one other thing which I think is really important this is actually be happy I don't explain why most people",
+      "uuid": "9786da27-7d00-486c-b5be-84fcf9983362"
     },
-    "1450": {
+    {
       "requestid": "75d09180-c22f-4fae-80da-beeadef75290",
       "confidence": "0.7466018",
       "timestamp": 1450,
-      "content": "thanks said you need to be healthy in order to be happy right I actually think a lot of times it's the other way around you know we know that they are things at all the snow we can do our life improver have"
+      "content": "thanks said you need to be healthy in order to be happy right I actually think a lot of times it's the other way around you know we know that they are things at all the snow we can do our life improver have",
+      "uuid": "491cdcc6-7a48-4bd0-9555-ee66e98a13b9"
     },
-    "1460": {
+    {
       "requestid": "5a632e40-53a3-49aa-9bc2-81505aad9b75",
       "confidence": "0.700664",
       "timestamp": 1460,
-      "content": "example weather at anytime with friends improving social connectedness weather at making sure that we are exercising and with that she can give you energy and improve your emotional and"
+      "content": "example weather at anytime with friends improving social connectedness weather at making sure that we are exercising and with that she can give you energy and improve your emotional and",
+      "uuid": "b953ef2f-8645-4b77-a4f4-560a6842969b"
     },
-    "1470": {
+    {
       "requestid": "deee5582-677f-4307-a929-5d5e8e0d786c",
       "confidence": "0.6639538",
       "timestamp": 1470,
-      "content": "function what is flip really make you happy is sitting around smoking eating cheeseburgers if if if if if if if if you tried"
+      "content": "function what is flip really make you happy is sitting around smoking eating cheeseburgers if if if if if if if if you tried",
+      "uuid": "7a6f920a-badf-4b6c-bae4-eaa1c215c6a7"
     },
-    "1480": {
+    {
       "requestid": "0ea41874-6146-4b4d-9fba-c356f0fc8d98",
       "confidence": "0.4021636",
       "timestamp": 1480,
-      "content": "it is pretty awesome"
+      "content": "it is pretty awesome",
+      "uuid": "6c093a23-11bc-4f9c-9ff1-b43875b14769"
     },
-    "1490": {
+    {
       "requestid": "b76e69ab-e056-42b7-be1a-5d8805f0206b",
       "confidence": "0.5741804",
       "timestamp": 1490,
-      "content": "the people would be shocked and horrified to know that died that night will not tell anybody"
+      "content": "the people would be shocked and horrified to know that died that night will not tell anybody",
+      "uuid": "097f3cb3-c8a0-4067-bf07-4b5f1dc01bdf"
     },
-    "1500": {
+    {
       "requestid": "b83b716b-7c2e-4373-ba42-f95e9972c13a",
       "confidence": "0.5934903",
       "timestamp": 1500,
-      "content": "so my week is this week I like bread pudding and she said yeah so I sat there be careful around 3 o'clock will you are the same"
+      "content": "so my week is this week I like bread pudding and she said yeah so I sat there be careful around 3 o'clock will you are the same",
+      "uuid": "932d4ef4-9792-44af-9e42-7e1d160b5dc0"
     },
-    "1510": {
+    {
       "requestid": "e47d0483-3ee4-4bbf-81b8-7d78d1423929",
       "confidence": "0.627863",
       "timestamp": 1510,
-      "content": "can general you have authority if you wanted to you could say don't eat sweets cheesecake except ha ha ha ha"
+      "content": "can general you have authority if you wanted to you could say don't eat sweets cheesecake except ha ha ha ha",
+      "uuid": "27cddfc3-3d2e-420a-8571-3affaae7468c"
     },
-    "1520": {
+    {
       "requestid": "72b499ed-09e5-4afb-90e8-1b9291220f76",
       "confidence": "0.4976548",
       "timestamp": 1520,
-      "content": "did you hear stop making medical officer noted have some medical question for you um are you gonna show me around"
+      "content": "did you hear stop making medical officer noted have some medical question for you um are you gonna show me around",
+      "uuid": "42ccdd87-55aa-458d-aaf6-6288c77311fb"
     },
-    "1530": {
+    {
       "requestid": "b963687f-e6d0-4c74-bf31-b1597ddcde73",
       "confidence": "0.5116182",
       "timestamp": 1530,
-      "content": "how about the 5 second rule that you dropped your wallet we can"
+      "content": "how about the 5 second rule that you dropped your wallet we can",
+      "uuid": "36a5f665-f7d9-40d7-8355-0e3bb087da7e"
     },
-    "1540": {
+    {
       "requestid": "7d3a7af1-6372-4c0c-b230-b515bbdcb007",
       "confidence": "0.5686479",
       "timestamp": 1540,
-      "content": "the floor I thought is the 5 second rule that if I say keep it up keep it back in about 403 seconds in 5 seconds"
+      "content": "the floor I thought is the 5 second rule that if I say keep it up keep it back in about 403 seconds in 5 seconds",
+      "uuid": "eef2d8ae-0ab9-4f7c-83bd-ae5d14ded697"
     },
-    "1550": {
+    {
       "requestid": "495b3912-ac3f-432e-bd7f-6812c159219a",
       "confidence": "0.3354111",
       "timestamp": 1550,
-      "content": "who is the second child"
+      "content": "who is the second child",
+      "uuid": "d3d1a18b-b17a-4916-bad6-de21d2f41994"
     },
-    "1560": {
+    {
       "requestid": "02d1c798-9564-4e56-aec2-11ea796057c3",
       "confidence": "0.5829021",
       "timestamp": 1560,
-      "content": "what document do we have asked me to play a game without calling surgeon general beach general hospital"
+      "content": "what document do we have asked me to play a game without calling surgeon general beach general hospital",
+      "uuid": "c92c4aed-b242-49c9-b06b-ba3a57b796b3"
     },
-    "1570": {
+    {
       "requestid": "5375f6f5-0b91-41c9-bc71-686e938b3d61",
       "timestamp": 1570,
-      "content": ""
+      "content": "",
+      "uuid": "18195029-d249-407d-97dd-965fc7a9cbda"
     },
-    "1580": {
+    {
       "requestid": "87f4c4d9-4c8b-48dc-8c0c-f908a3ebd323",
       "confidence": "0.60901",
       "timestamp": 1580,
-      "content": "seriously treated 5000% more cases of amnesia than the national average were gonna ask you 3 questions about general hospital to get to regular price one"
+      "content": "seriously treated 5000% more cases of amnesia than the national average were gonna ask you 3 questions about general hospital to get to regular price one",
+      "uuid": "f37514bb-04d2-42e3-9015-82f08b58f1bc"
     },
-    "1590": {
+    {
       "requestid": "47074e61-52b4-4ca0-a61f-3de80b8095cd",
       "confidence": "0.6804806",
       "timestamp": 1590,
-      "content": "call castles voice on the voicemail bill who is the surgeon general of the united states playing for jeffrey last of washington dc"
+      "content": "call castles voice on the voicemail bill who is the surgeon general of the united states playing for jeffrey last of washington dc",
+      "uuid": "c78a351d-36eb-4f58-88ee-247b8ed5a3ca"
     },
-    "1600": {
+    {
       "requestid": "f6c88430-d9f7-415b-95bb-e6ec56593dbc",
       "confidence": "0.6925065",
       "timestamp": 1600,
-      "content": "alright so far crackers have to deal with a grueling 5 day week shooting schedule general hospital star jack white"
+      "content": "alright so far crackers have to deal with a grueling 5 day week shooting schedule general hospital star jack white",
+      "uuid": "75cfeef6-1e76-4b88-9e4e-96f265bb5fd9"
     },
-    "1610": {
+    {
       "requestid": "fdba9d4f-c5ec-44ad-802d-5c58d461ab1f",
       "confidence": "0.6736047",
       "timestamp": 1610,
-      "content": "there was poop games off a true professional when he did what was it a during a love scene rather than stopping getting out of bed finding a bathroom to go pee he descri"
+      "content": "there was poop games off a true professional when he did what was it a during a love scene rather than stopping getting out of bed finding a bathroom to go pee he descri",
+      "uuid": "a4e41d06-8c72-4b80-aafb-73afd8477026"
     },
-    "1620": {
+    {
       "requestid": "7fc3ec53-3da2-44c5-8c17-95ab2b816d4d",
       "confidence": "0.5821677",
       "timestamp": 1620,
-      "content": "the champagne bottle off the night stand pulled under the covers and relieved himself it right there be weed wacker is the only actor devert success"
+      "content": "the champagne bottle off the night stand pulled under the covers and relieved himself it right there be weed wacker is the only actor devert success",
+      "uuid": "0eeb2f42-b713-442b-8a6c-292f26336722"
     },
-    "1630": {
+    {
       "requestid": "f3750b01-b8fc-44bb-ac1c-656b3391abd1",
       "confidence": "0.6797058",
       "timestamp": 1630,
-      "content": "people off the soap opera trifecta in 190 second seeing you got amnesia revealed himself to be his own evil twin and went into a coma"
+      "content": "people off the soap opera trifecta in 190 second seeing you got amnesia revealed himself to be his own evil twin and went into a coma",
+      "uuid": "e7620381-41bb-4663-8745-708b0d73dd38"
     },
-    "1640": {
+    {
       "requestid": "4e868c8e-0832-464f-badf-e1b8d3287bc8",
       "confidence": "0.7241788",
       "timestamp": 1640,
-      "content": "see when struck with acute appendicitis ifilm the scene for general hospital from his room at massachusetts general hospital"
+      "content": "see when struck with acute appendicitis ifilm the scene for general hospital from his room at massachusetts general hospital",
+      "uuid": "39db70c2-ea44-4fd4-89ec-e02ad744f7ab"
     },
-    "1650": {
+    {
       "requestid": "f4db6731-2b6e-4853-a08a-3471221442c3",
       "confidence": "0.6354608",
       "timestamp": 1650,
-      "content": "lego is he gonna go see no I'm I'm sorry it was actually a vi champagne bottle when you gotta go apparently you"
+      "content": "lego is he gonna go see no I'm I'm sorry it was actually a vi champagne bottle when you gotta go apparently you",
+      "uuid": "23875484-6d60-46a0-bfde-6ed71c251754"
     },
-    "1660": {
+    {
       "requestid": "e79b80af-3328-4f1b-b4f1-d39b40306285",
       "confidence": "0.6373473",
       "timestamp": 1660,
-      "content": "have to go next question what actress learn she was going to be fired from general hospital she did not take it lying down don't know that she did what AG adlib"
+      "content": "have to go next question what actress learn she was going to be fired from general hospital she did not take it lying down don't know that she did what AG adlib",
+      "uuid": "ee426a8c-dcab-4c75-86d9-8995c6e8aaa6"
     },
-    "1670": {
+    {
       "requestid": "c0d7e333-13ce-45b1-8c5f-1f0f7e552411",
       "confidence": "0.6334655",
       "timestamp": 1670,
-      "content": "final wife took off her shirt flash for the camera said <profanity>fuck</profanity> you and walked off the set be without realizing what is just happy"
+      "content": "final wife took off her shirt flash for the camera said <profanity>fuck</profanity> you and walked off the set be without realizing what is just happy",
+      "uuid": "3bf93a1e-9d28-4ac4-999d-9eb9b092cfd3"
     },
-    "1680": {
+    {
       "requestid": "697552dc-7946-4af7-b801-e6a078df1fcb",
       "confidence": "0.6308712",
       "timestamp": 1680,
-      "content": "this week from jack wagner's bottles"
+      "content": "this week from jack wagner's bottles",
+      "uuid": "66529174-8015-4063-9b59-ae2bb6e9d2aa"
     },
-    "1690": {
+    {
       "requestid": "f718ac36-0f9f-492c-93d6-b27056ea9c71",
       "confidence": "0.5590107",
       "timestamp": 1690,
-      "content": "schilder off of your funeral scene she set up her casket and waved at the mourners"
+      "content": "schilder off of your funeral scene she set up her casket and waved at the mourners",
+      "uuid": "33f6f441-8406-4562-b49e-df1fdd3bff0c"
     },
-    "1700": {
+    {
       "requestid": "203e4a8b-c2be-4ee6-b2bd-aaafbefb0777",
       "confidence": "0.6868829",
       "timestamp": 1700,
-      "content": "the other woman actors in general hospital is this court stuff like that happen all the time I think every door in the building was broken from someone slamming it"
+      "content": "the other woman actors in general hospital is this court stuff like that happen all the time I think every door in the building was broken from someone slamming it",
+      "uuid": "94113e37-413a-4843-9ac0-346381858fc0"
     },
-    "1710": {
+    {
       "requestid": "30e7e420-6b20-41c2-896f-459cee14f065",
       "confidence": "0.6296737",
       "timestamp": 1710,
-      "content": "alright here's your last question general hospital to pick a storyline of course was the famous relationship of luke and laura air dry cleaners"
+      "content": "alright here's your last question general hospital to pick a storyline of course was the famous relationship of luke and laura air dry cleaners",
+      "uuid": "afe83c1d-c517-4fa4-8ae5-769d918ee6df"
     },
-    "1720": {
+    {
       "requestid": "3ee88809-2b3e-40dc-bd3a-041f140b80cc",
       "confidence": "0.6538121",
       "timestamp": 1720,
-      "content": "olive oil soap opera those 2 star crossed lovers luke and laura fell in love while they were doing what was it a hanging out"
+      "content": "olive oil soap opera those 2 star crossed lovers luke and laura fell in love while they were doing what was it a hanging out",
+      "uuid": "d50e0cdd-8e71-4e19-9ba1-51f44611a9fc"
     },
-    "1730": {
+    {
       "requestid": "b572134a-6c93-4afe-ab44-f66e26c6b217",
       "confidence": "0.6679602",
       "timestamp": 1730,
-      "content": "the flash dancing in wearing leg warmers this one did in the early 80s be saving the world from am at tycoon determined to freeze civilization with quote carbonic"
+      "content": "the flash dancing in wearing leg warmers this one did in the early 80s be saving the world from am at tycoon determined to freeze civilization with quote carbonic",
+      "uuid": "981362b8-d4ca-4913-a48d-bf0881135d49"
     },
-    "1740": {
+    {
       "requestid": "e39fab7b-b33d-4465-bc77-b4bea5b10d93",
       "confidence": "0.6078185",
       "timestamp": 1740,
-      "content": "snow or see simultaneously romancing tracey ullman who general hospital doctors called quote the world's only left right divide it from africa"
+      "content": "snow or see simultaneously romancing tracey ullman who general hospital doctors called quote the world's only left right divide it from africa",
+      "uuid": "33d4562e-4080-428c-af4b-e1d27fda4f08"
     },
-    "1750": {
+    {
       "requestid": "c7506409-4874-45b6-9528-49c77fb6eaac",
       "confidence": "0.630694",
       "timestamp": 1750,
-      "content": "oh my god can I take a wild guess here and go with that he would be he would be the carbonic now"
+      "content": "oh my god can I take a wild guess here and go with that he would be he would be the carbonic now",
+      "uuid": "bb7337cf-36bc-4145-88da-f5fcc97b32f9"
     },
-    "1760": {
+    {
       "requestid": "627e5efb-7f6d-4cdd-a129-11cd94d7a3d8",
       "confidence": "0.569494",
       "timestamp": 1760,
-      "content": "you're right"
+      "content": "you're right",
+      "uuid": "965691c7-6d4f-40a2-91bc-29f642eb779e"
     },
-    "1770": {
+    {
       "requestid": "99970776-a943-416d-b77a-e54050da8f7b",
       "confidence": "0.6868264",
       "timestamp": 1770,
-      "content": "winter 2 out of 3"
+      "content": "winter 2 out of 3",
+      "uuid": "dbc4907d-6c84-4f0b-9ed9-d6b0f317d6ac"
     },
-    "1780": {
+    {
       "requestid": "716b019c-d720-4a21-938b-d70af24d627d",
       "timestamp": 1780,
-      "content": ""
+      "content": "",
+      "uuid": "a131d1fa-6919-4699-9c30-90ce742d4bf7"
     },
-    "1790": {
+    {
       "requestid": "1ea3fcc2-3151-46b9-88cf-f0e97ecb45c4",
       "confidence": "0.6702762",
       "timestamp": 1790,
-      "content": "quick shut up one of our sponsors casper adorable ghost of a young boy should know I'm correct it is in fact a online retailer for match"
+      "content": "quick shut up one of our sponsors casper adorable ghost of a young boy should know I'm correct it is in fact a online retailer for match",
+      "uuid": "9d810298-b5c9-4f76-978a-7123722d807d"
     },
-    "1800": {
+    {
       "requestid": "52ed60d8-cff3-4165-b5cb-bb97e704c15c",
       "confidence": "0.8305565",
       "timestamp": 1800,
-      "content": "casper mattress is are american made and obsessively engineered for comfort they use 2 technologies latex foam and memory foam to give you just"
+      "content": "casper mattress is are american made and obsessively engineered for comfort they use 2 technologies latex foam and memory foam to give you just",
+      "uuid": "021c64cb-98e3-4cc7-8497-5a9b9c463e0f"
     },
-    "1810": {
+    {
       "requestid": "dfe6ee61-391a-40f9-87cd-1527a6df7e3b",
       "confidence": "0.7267824",
       "timestamp": 1810,
-      "content": "the right amount of sink in mount everest free trial you can try out your casper mattress for 100 days with free delivery in return it's outrageous comfort"
+      "content": "the right amount of sink in mount everest free trial you can try out your casper mattress for 100 days with free delivery in return it's outrageous comfort",
+      "uuid": "afcb0211-d6a1-4771-8165-98a77f8daf71"
     },
-    "1820": {
+    {
       "requestid": "dbdbc8c8-31ca-4d5d-863a-d33125d2c477",
       "confidence": "0.7517419",
       "timestamp": 1820,
-      "content": "lake price to go to casper.com slash wait wait to check out their options and save a special offer for you listeners of this podcast use the promo code"
+      "content": "lake price to go to casper.com slash wait wait to check out their options and save a special offer for you listeners of this podcast use the promo code",
+      "uuid": "bccc8e0e-67fb-4ad5-957a-31a08559f3c6"
     },
-    "1830": {
+    {
       "requestid": "a968c9c6-5fe6-4dcc-b7e9-693c6739869e",
       "confidence": "0.7494065",
       "timestamp": 1830,
-      "content": "wait wait wait wait to redeem 50 bucks for the casper mattress for you terms and conditions apply but they always"
+      "content": "wait wait wait wait to redeem 50 bucks for the casper mattress for you terms and conditions apply but they always",
+      "uuid": "20f8d147-9596-45d0-aea6-738464d95a84"
     },
-    "1840": {
+    {
       "requestid": "b6bcb479-365e-4156-8847-25c69450e414",
       "confidence": "0.5036991",
       "timestamp": 1840,
-      "content": "roman vrn beldibi easy chicago this is wait wait don't tell me npr news quiz I'm in"
+      "content": "roman vrn beldibi easy chicago this is wait wait don't tell me npr news quiz I'm in",
+      "uuid": "67dccf5e-156e-44bd-8b98-ac06978e0e7a"
     },
-    "1850": {
+    {
       "requestid": "ba98c6d9-f9ec-4e44-88d7-4682f15359ad",
       "confidence": "0.5654334",
       "timestamp": 1850,
-      "content": "curtis we are playing this week with adam felber paula poundstone roxanne roberts on his trap in vienna virginia peter sagan"
+      "content": "curtis we are playing this week with adam felber paula poundstone roxanne roberts on his trap in vienna virginia peter sagan",
+      "uuid": "b91651ba-15a2-49d1-806c-39efcc710478"
     },
-    "1860": {
+    {
       "requestid": "3c28ad44-e4c9-4c84-ba86-eb4c0296131f",
       "timestamp": 1860,
-      "content": ""
+      "content": "",
+      "uuid": "9b13eba2-6bae-44be-9f3b-b05f583aa871"
     },
-    "1870": {
+    {
       "requestid": "cce27f81-abe9-433d-8acb-f45ad8ee0a4a",
       "confidence": "0.5759889",
       "timestamp": 1870,
-      "content": "entrails a hug for limericks is the listener limerick challenge if you like to play give us a call at one triple 8 wait wait that's 188"
+      "content": "entrails a hug for limericks is the listener limerick challenge if you like to play give us a call at one triple 8 wait wait that's 188",
+      "uuid": "3cff78ec-71ac-4bfd-a99f-d29762e61615"
     },
-    "1880": {
+    {
       "requestid": "d38fd0ef-7d3b-4ea1-a885-70c800790759",
       "confidence": "0.7853678",
       "timestamp": 1880,
-      "content": "I do for 894 right now panel some more question for you from the week's news paula a new company this is great a new company has finally solved one of the worst aspects of owning"
+      "content": "I do for 894 right now panel some more question for you from the week's news paula a new company this is great a new company has finally solved one of the worst aspects of owning",
+      "uuid": "98f703b4-c9d8-4aef-90cf-53f388c47015"
     },
-    "1890": {
+    {
       "requestid": "94907594-e639-45c2-9585-13840354e58e",
       "confidence": "0.6474432",
       "timestamp": 1890,
-      "content": "comma there selling a brand new product does what's up jack reacher cast but that's exactly right"
+      "content": "comma there selling a brand new product does what's up jack reacher cast but that's exactly right",
+      "uuid": "2cc42867-456b-48f5-bf96-12c04cb1490e"
     },
-    "1900": {
+    {
       "requestid": "73be928e-2a85-44fd-902c-db07cdc7dfaf",
       "confidence": "0.8099048",
       "timestamp": 1900,
-      "content": "I know this is something of an over generalization but you don't know anything and you knew that"
+      "content": "I know this is something of an over generalization but you don't know anything and you knew that",
+      "uuid": "6d9332a5-6f43-46ad-8bd8-9f8252e572a0"
     },
-    "1910": {
+    {
       "requestid": "0fb1e667-b5f5-4db6-9ddb-95c44146292a",
       "confidence": "0.5159943",
       "timestamp": 1910,
-      "content": "I'm in shock and every cat owner peter yes paula have to make that decision"
+      "content": "I'm in shock and every cat owner peter yes paula have to make that decision",
+      "uuid": "e3872a8d-82e0-4528-9c96-bc9b3026d757"
     },
-    "1920": {
+    {
       "requestid": "181d0fc4-8534-480f-924b-554139014506",
       "confidence": "0.60141",
       "timestamp": 1920,
-      "content": "what to do about that one part of your cat that's not cute asian guys be safe catcher can't walk around that tells me up later bye"
+      "content": "what to do about that one part of your cat that's not cute asian guys be safe catcher can't walk around that tells me up later bye",
+      "uuid": "d0e3cfe3-80dc-4e71-951e-6f268d5974c7"
     },
-    "1930": {
+    {
       "requestid": "fbe579e6-ded3-4132-8720-ad30698692b9",
       "confidence": "0.6023703",
       "timestamp": 1930,
-      "content": "enter twinkle push a new product that claims to solve the problem by the dazzling your cat backside"
+      "content": "enter twinkle push a new product that claims to solve the problem by the dazzling your cat backside",
+      "uuid": "dadd0488-d176-4fa2-baed-85096b36ffc7"
     },
-    "1940": {
+    {
       "requestid": "dfcc2b26-08f3-4b65-8d2b-ca8de95c14dc",
       "confidence": "0.5841293",
       "timestamp": 1940,
-      "content": "don't get alarmed what it is it's basically a little flat christmas ornament type thing that little lupe that you put over your cat's tail"
+      "content": "don't get alarmed what it is it's basically a little flat christmas ornament type thing that little lupe that you put over your cat's tail",
+      "uuid": "43cadd33-c971-4ac2-9bce-0b0795c7602b"
     },
-    "1950": {
+    {
       "requestid": "7674fcb1-0b8e-4bf3-be65-b567183b330f",
       "confidence": "0.6555273",
       "timestamp": 1950,
-      "content": "interns what was once unsightly into work of one of a kind art I hope at least one of them is just a little evergreen"
+      "content": "interns what was once unsightly into work of one of a kind art I hope at least one of them is just a little evergreen",
+      "uuid": "667f1684-824f-4b6f-b26b-8f06159ecb28"
     },
-    "1960": {
+    {
       "requestid": "1138186d-386a-4fb8-bdde-b55faf4bd9ec",
       "confidence": "0.6600913",
       "timestamp": 1960,
-      "content": "that's a great idea we are home had been doing something similar to this in a lot less expensive web videos which is I just"
+      "content": "that's a great idea we are home had been doing something similar to this in a lot less expensive web videos which is I just",
+      "uuid": "8601714d-9de0-4836-996c-bc3186f17680"
     },
-    "1970": {
+    {
       "requestid": "87e87d0f-cf81-43fa-8db8-fe2214850e48",
       "confidence": "0.6583481",
       "timestamp": 1970,
-      "content": "snatch DI do not disturb sign from any hotel"
+      "content": "snatch DI do not disturb sign from any hotel",
+      "uuid": "82931f8f-f36f-451e-848b-187a9bec7366"
     },
-    "1980": {
+    {
       "requestid": "32b5c629-bcbd-4a0d-b6fe-3e182c282c01",
       "confidence": "0.6847781",
       "timestamp": 1980,
-      "content": "how long would you have to be to sit around and come up with that how drunk would you think you are if your friends house and see what is walk by"
+      "content": "how long would you have to be to sit around and come up with that how drunk would you think you are if your friends house and see what is walk by",
+      "uuid": "e62f10bf-d9bf-49b5-96bc-86627417eba5"
     },
-    "1990": {
+    {
       "requestid": "55b53964-b170-4e3f-8e95-58442b9e1d1b",
       "confidence": "0.3226688",
       "timestamp": 1990,
-      "content": "yeah it does its bottom cab what is twinkling"
+      "content": "yeah it does its bottom cab what is twinkling",
+      "uuid": "3c96e106-8d74-4333-8a88-5a0783ab8d7a"
     },
-    "2000": {
+    {
       "requestid": "95cba55e-d9eb-401e-bc1c-88f0c3792155",
       "confidence": "0.709854",
       "timestamp": 2000,
-      "content": "right out of it is time for a new game we're calling I've got good news and bad we tell you the good news you tell us the bad news I got it"
+      "content": "right out of it is time for a new game we're calling I've got good news and bad we tell you the good news you tell us the bad news I got it",
+      "uuid": "75323fdf-6d97-4a68-849b-8a6296c13df8"
     },
-    "2010": {
+    {
       "requestid": "feb43d57-3b75-4eb7-9f90-3b43bf20423f",
       "confidence": "0.6361572",
       "timestamp": 2010,
-      "content": "there is the new very promising treatment for enlarged prostate what is the bad news tricks on lyft around a bit"
+      "content": "there is the new very promising treatment for enlarged prostate what is the bad news tricks on lyft around a bit",
+      "uuid": "c08c820a-f3b2-4a8c-9625-a4a9cb09729f"
     },
-    "2020": {
+    {
       "requestid": "55d822a1-f464-4fd7-b2a9-5fcf1da5a40a",
       "confidence": "0.3062111",
       "timestamp": 2020,
-      "content": "what is very tiny man"
+      "content": "what is very tiny man",
+      "uuid": "94594713-747f-497d-b1a1-1a3a4f5cb7a2"
     },
-    "2030": {
+    {
       "requestid": "65c680dc-bba2-4f39-b26f-cdb588fcdf9c",
       "confidence": "0.6362885",
       "timestamp": 2030,
-      "content": "medical journals if you get stung by bees well it is be better I'll be right it just so happens the last place you wanna be texting you is the play"
+      "content": "medical journals if you get stung by bees well it is be better I'll be right it just so happens the last place you wanna be texting you is the play",
+      "uuid": "5b214cbf-0445-4c31-92ea-2a0e12d7c558"
     },
-    "2040": {
+    {
       "requestid": "30967adb-d743-4904-94cc-8544ba6874bb",
       "confidence": "0.6497383",
       "timestamp": 2040,
-      "content": "is it might actually do you some good wow be venomous breast enlarged prostate in test in car lorry finding 9 out of 10 men who stopped to think about"
+      "content": "is it might actually do you some good wow be venomous breast enlarged prostate in test in car lorry finding 9 out of 10 men who stopped to think about",
+      "uuid": "096e2dd0-1603-4e15-825d-a0255ca8fa01"
     },
-    "2050": {
+    {
       "requestid": "01596554-e6ac-4110-8f6f-94d2b97a6095",
       "confidence": "0.764605",
       "timestamp": 2050,
-      "content": "this means involuntarily cross their legs yeah I did but if you think being stung by a bee 8 inches up your colon sounds like the worst thing ever think out"
+      "content": "this means involuntarily cross their legs yeah I did but if you think being stung by a bee 8 inches up your colon sounds like the worst thing ever think out",
+      "uuid": "3e63c5a9-3f0c-4ca5-b572-57db2f03132f"
     },
-    "2060": {
+    {
       "requestid": "1273286d-35ca-4a52-9818-f12c4e25c502",
       "confidence": "0.8026211",
       "timestamp": 2060,
-      "content": "he feels about it"
+      "content": "he feels about it",
+      "uuid": "4d3dbda0-3e1e-470a-a369-d747d8f106bc"
     },
-    "2070": {
+    {
       "requestid": "87ec8ea7-f435-4434-9531-c21c4a7f446e",
       "confidence": "0.7341923",
       "timestamp": 2070,
-      "content": "the blank verse is the game are you up to listen for the ride if you like a plan aerco leave a message one triple 8 wait wait at 18889248924"
+      "content": "the blank verse is the game are you up to listen for the ride if you like a plan aerco leave a message one triple 8 wait wait at 18889248924",
+      "uuid": "1f406982-2d23-4c03-8aa5-43edc390b3d8"
     },
-    "2080": {
+    {
       "requestid": "d2788870-9346-4ac1-9ea6-2e3a57350175",
       "confidence": "0.7609355",
       "timestamp": 2080,
-      "content": "lick the contact us link on our website which is wait wait dotnpr.org do you can find out about attending our weekly live shows at the chase bank auditorium back in chicago"
+      "content": "lick the contact us link on our website which is wait wait dotnpr.org do you can find out about attending our weekly live shows at the chase bank auditorium back in chicago",
+      "uuid": "743bc750-3715-46be-abd4-1808c99c2b94"
     },
-    "2090": {
+    {
       "requestid": "e5147d22-9678-478c-8390-71cf59461a58",
       "confidence": "0.6851346",
       "timestamp": 2090,
-      "content": "to be sure to check out the latest how to do everything podcast this week my computer back to reveal the dark secret of the queen's royal footman I'll wait wait don't tell me"
+      "content": "to be sure to check out the latest how to do everything podcast this week my computer back to reveal the dark secret of the queen's royal footman I'll wait wait don't tell me",
+      "uuid": "9e206911-f682-49d5-a1dd-44ab3c0a61d4"
     },
-    "2100": {
+    {
       "requestid": "35a8a772-bb8f-4b91-89e1-454240739696",
       "confidence": "0.5157151",
       "timestamp": 2100,
-      "content": "hi peter it's going to be a great day at work where you calling from beverly I'm going to windham new hampshire windham"
+      "content": "hi peter it's going to be a great day at work where you calling from beverly I'm going to windham new hampshire windham",
+      "uuid": "47c3d734-6013-4a2d-bdbd-bceb2c3e814a"
     },
-    "2110": {
+    {
       "requestid": "9e2a5af9-fb08-49d6-8ef0-08e3dec6d9fd",
       "confidence": "0.6120188",
       "timestamp": 2110,
-      "content": "bob what do you do there in windham well I work for the new hampshire union leader lifelab are typing for them"
+      "content": "bob what do you do there in windham well I work for the new hampshire union leader lifelab are typing for them",
+      "uuid": "ae182611-a1a1-4dc0-929c-b2a9aa68f778"
     },
-    "2120": {
+    {
       "requestid": "bf41f81c-b571-45d8-8dc7-ae0b533d8ae1",
       "confidence": "0.5824319",
       "timestamp": 2120,
-      "content": "do you know where is reporting every 4 years are political paper they often do endorsements have you run into any a presidential candidate there in I have"
+      "content": "do you know where is reporting every 4 years are political paper they often do endorsements have you run into any a presidential candidate there in I have",
+      "uuid": "a79bb391-e157-4ac5-b325-79928ed4f9b9"
     },
-    "2130": {
+    {
       "requestid": "e35ad631-504b-49d5-9693-a84fee477852",
       "confidence": "0.4718452",
       "timestamp": 2130,
-      "content": "many I've met donald twice you have no I don't know how to be nice about it he is so"
+      "content": "many I've met donald twice you have no I don't know how to be nice about it he is so",
+      "uuid": "a174c795-00e7-4443-aaec-33445f587260"
     },
-    "2140": {
+    {
       "requestid": "145b3e58-a7f7-4f19-9df0-4cca2e7bc16b",
       "confidence": "0.6616048",
       "timestamp": 2140,
-      "content": "farming everybody loves him he was so nice to spend time with god donna is that you"
+      "content": "farming everybody loves him he was so nice to spend time with god donna is that you",
+      "uuid": "f98637d1-04d7-406c-b843-b61cf8b45a24"
     },
-    "2150": {
+    {
       "requestid": "0cc2779a-3b1c-49fc-8374-e846b482202f",
       "confidence": "0.2351185",
       "timestamp": 2150,
-      "content": "I'm here"
+      "content": "I'm here",
+      "uuid": "08978720-4b40-477f-850b-af7af1ee835a"
     },
-    "2160": {
+    {
       "requestid": "d1e6e0ee-8b1e-4f96-b911-30688479a240",
       "confidence": "0.6050541",
       "timestamp": 2160,
-      "content": "over you job finish does limerick's do that 2 times out of 3 winner prize that is carl kasell boys are you ready to do this I am let's do it what's worse"
+      "content": "over you job finish does limerick's do that 2 times out of 3 winner prize that is carl kasell boys are you ready to do this I am let's do it what's worse",
+      "uuid": "d8249c48-beff-4b3a-91a4-4517aae3462a"
     },
-    "2170": {
+    {
       "requestid": "751300a0-cba6-4e6d-9cac-44a2bd0e679a",
       "confidence": "0.4910085",
       "timestamp": 2170,
-      "content": "my parents romancing when dad thinks is <profanity>boobs</profanity> are intrinsic he thinks he's got game but I'm dying of shame"
+      "content": "my parents romancing when dad thinks is <profanity>boobs</profanity> are intrinsic he thinks he's got game but I'm dying of shame",
+      "uuid": "32c72790-1fdd-4d0c-95af-008c41499c88"
     },
-    "2180": {
+    {
       "requestid": "224d99c8-3d1d-4fb4-8f9e-3e4e72e4b452",
       "confidence": "0.5989213",
       "timestamp": 2180,
-      "content": "I hate it when daddy starts dancing right now why are girls there are so many things"
+      "content": "I hate it when daddy starts dancing right now why are girls there are so many things",
+      "uuid": "7eb49c91-8507-4fbc-ae22-3141d98db994"
     },
-    "2190": {
+    {
       "requestid": "931ac3b9-9a1d-4821-9c1a-0b04a4c6141c",
       "confidence": "0.5963467",
       "timestamp": 2190,
-      "content": "dad do to ruin the lives of their kids such is just standing there breathing going to study at this week dancing is the word"
+      "content": "dad do to ruin the lives of their kids such is just standing there breathing going to study at this week dancing is the word",
+      "uuid": "872ebb1f-261e-4102-b173-a13d17b54c81"
     },
-    "2200": {
+    {
       "requestid": "78fb3272-47d1-46f7-879a-252ed541d238",
       "confidence": "0.7062964",
       "timestamp": 2200,
-      "content": "sing a bad can do to make its perspective researchers found that most adults hill 20% younger than they really are would give them the terrifying courage to do things they shouldn't like wear skinny"
+      "content": "sing a bad can do to make its perspective researchers found that most adults hill 20% younger than they really are would give them the terrifying courage to do things they shouldn't like wear skinny",
+      "uuid": "69a5d2e7-ac0e-4966-a2d7-af77d2680ec1"
     },
-    "2210": {
+    {
       "requestid": "3db4fe3a-586a-4fd5-8c57-aa42fab67a24",
       "confidence": "0.673843",
       "timestamp": 2210,
-      "content": "a grind up on your mom at your own bar mitzvah com"
+      "content": "a grind up on your mom at your own bar mitzvah com",
+      "uuid": "81d4a58c-3be1-476f-b383-59ce8e46fba3"
     },
-    "2220": {
+    {
       "requestid": "ebf4a143-a8e8-4a0e-b425-777f25fba8b9",
       "confidence": "0.5419628",
       "timestamp": 2220,
-      "content": "here is your next movement for dinosaurs we have a fat wish but life is been served on a flat dish he's not a big lead"
+      "content": "here is your next movement for dinosaurs we have a fat wish but life is been served on a flat dish he's not a big lead",
+      "uuid": "cf41aac7-1d6a-4f43-a10e-48cb5b2f5520"
     },
-    "2230": {
+    {
       "requestid": "ada15a4d-7a85-4611-a674-dd8de8b408c3",
       "confidence": "0.5906571",
       "timestamp": 2230,
-      "content": "but a great bottom feeder the monster is just a big fat fish not quite fat fish"
+      "content": "but a great bottom feeder the monster is just a big fat fish not quite fat fish",
+      "uuid": "c5889b68-4f44-4bf7-8969-e07d0f33b619"
     },
-    "2240": {
+    {
       "requestid": "63a3e30b-da20-4837-a966-4b8c3a3bd20c",
       "confidence": "0.4986396",
       "timestamp": 2240,
-      "content": "rhymes with fat fish at is a bottom feeder bottom feeder flath sorry I did it ok if catfish catfish"
+      "content": "rhymes with fat fish at is a bottom feeder bottom feeder flath sorry I did it ok if catfish catfish",
+      "uuid": "b9f8f27f-1880-4eb2-aac5-0f834780e770"
     },
-    "2250": {
+    {
       "requestid": "f91399a6-53fd-463c-9cee-6b5da2cd481e",
       "confidence": "0.586286",
       "timestamp": 2250,
-      "content": "24 years ago manage this awesome give up his job is home his girlfriend to devote all his time to finding nessie the loch ness monster this weekend"
+      "content": "24 years ago manage this awesome give up his job is home his girlfriend to devote all his time to finding nessie the loch ness monster this weekend",
+      "uuid": "92832e03-8c8e-4250-a2f0-ab975afb7e4b"
     },
-    "2260": {
+    {
       "requestid": "8554c712-dff7-4aad-87fd-9e448008774f",
       "confidence": "0.7784588",
       "timestamp": 2260,
-      "content": "does finding he says that message never really existed it was most likely just a very large catfish he said that he does not regret wasting half his life on something that"
+      "content": "does finding he says that message never really existed it was most likely just a very large catfish he said that he does not regret wasting half his life on something that",
+      "uuid": "a9d5a419-d1e0-4702-b19f-a54cedacb690"
     },
-    "2270": {
+    {
       "requestid": "496960f0-106c-4c3f-a4f0-dff465b51031",
       "confidence": "0.6761439",
       "timestamp": 2270,
-      "content": "ever panda navidi solve that mystery he plans to spend the next 2 decades planning donald trumps inaugural ball"
+      "content": "ever panda navidi solve that mystery he plans to spend the next 2 decades planning donald trumps inaugural ball",
+      "uuid": "e7a05545-559d-4055-b572-a8faa28c9995"
     },
-    "2280": {
+    {
       "requestid": "e690b324-d1cf-41ee-9914-c2d38162026b",
       "confidence": "0.5661383",
       "timestamp": 2280,
-      "content": "right now you have a chance to win this whole thing let's hear your final lebra some bachelorettes drink like puppies in pa"
+      "content": "right now you have a chance to win this whole thing let's hear your final lebra some bachelorettes drink like puppies in pa",
+      "uuid": "2e056d1b-34c5-4ba8-a183-3ee07a6d7620"
     },
-    "2290": {
+    {
       "requestid": "771bd9ea-3344-48c3-95f5-681db33ba4ea",
       "confidence": "0.5363616",
       "timestamp": 2290,
-      "content": "male strippers coffee but I would prefer a wet nose in the song for a give me a room full of poppy"
+      "content": "male strippers coffee but I would prefer a wet nose in the song for a give me a room full of poppy",
+      "uuid": "66eed5af-8085-46e0-aebc-25eea8aa7530"
     },
-    "2300": {
+    {
       "requestid": "d9fda5a4-6404-45c8-85c5-c00b07ee060b",
       "confidence": "0.6437065",
       "timestamp": 2300,
-      "content": "according to the wall street journal the daily diary of a"
+      "content": "according to the wall street journal the daily diary of a",
+      "uuid": "5f6c7cff-f54e-455a-b1dd-78a53d63bfc3"
     },
-    "2310": {
+    {
       "requestid": "e4be7c1b-08a4-4d10-911d-27f2f593ff9e",
       "confidence": "0.7161107",
       "timestamp": 2310,
-      "content": "rick is very strange dream puppy parties are the classy alternative to strippers at today's bachelorette parties are you better bundle of 10 puppies in get a cute is it"
+      "content": "rick is very strange dream puppy parties are the classy alternative to strippers at today's bachelorette parties are you better bundle of 10 puppies in get a cute is it",
+      "uuid": "5b483a11-be13-492f-8e9e-8364416b37fa"
     },
-    "2320": {
+    {
       "requestid": "c8015562-af0e-4bf5-88a2-209ed37f7a8e",
       "confidence": "0.5509533",
       "timestamp": 2320,
-      "content": "splosion set of a drive redding died in AG string of course if you wanna wilder night you combine the 2010 poppy strippers to wear"
+      "content": "splosion set of a drive redding died in AG string of course if you wanna wilder night you combine the 2010 poppy strippers to wear",
+      "uuid": "2eb59366-6451-499c-b0d8-cf66f18cd536"
     },
-    "2330": {
+    {
       "requestid": "8a9d43fe-d61f-4097-a528-b7f996fce5a2",
       "confidence": "0.6041279",
       "timestamp": 2330,
-      "content": "little doggie police outfit they pretend to rescue but don't worry about the puppies are doing this by choice it either gonna pay their way through obedience school"
+      "content": "little doggie police outfit they pretend to rescue but don't worry about the puppies are doing this by choice it either gonna pay their way through obedience school",
+      "uuid": "13b696cb-44c0-475e-adc9-b6481e216ce7"
     },
-    "2340": {
+    {
       "requestid": "3d4da4bf-733a-4d64-b1ca-038638be3b62",
       "confidence": "0.5779592",
       "timestamp": 2340,
-      "content": "bill how old is beverly do and arquez got 2 out of 3 for the new hampshire leader so you're a winner beverly well done"
+      "content": "bill how old is beverly do and arquez got 2 out of 3 for the new hampshire leader so you're a winner beverly well done",
+      "uuid": "0f3848b0-94b5-4a52-a329-f34c1a63977b"
     },
-    "2350": {
+    {
       "requestid": "b1af0678-89e3-48ed-b5c8-9f2ac2a2c558",
       "confidence": "0.4481918",
       "timestamp": 2350,
-      "content": "thank you so much"
+      "content": "thank you so much",
+      "uuid": "c2b4e8f3-0935-40ca-9afa-f5f2471b5634"
     },
-    "2360": {
+    {
       "requestid": "2c254e59-9262-4e1e-b66f-04858f3a52e9",
       "confidence": "0.6495163",
       "timestamp": 2360,
-      "content": "no I do our final game lightning fill in the blank each of our players 60 seconds with dancers"
+      "content": "no I do our final game lightning fill in the blank each of our players 60 seconds with dancers",
+      "uuid": "7336b1d5-8280-47cb-84fc-19d9a1d20123"
     },
-    "2370": {
+    {
       "requestid": "d323c0b5-c96e-4497-8a80-c74fdfd0ed17",
       "confidence": "0.5832061",
       "timestamp": 2370,
-      "content": "my question is here she can be quick answer that with 2 points can you give us the scores for the heads 4 adam and roxie the weather in celsius"
+      "content": "my question is here she can be quick answer that with 2 points can you give us the scores for the heads 4 adam and roxie the weather in celsius",
+      "uuid": "661dcbf0-f598-487a-a610-acc8b57ebf10"
     },
-    "2380": {
+    {
       "requestid": "1ea2c165-a93f-431f-a1cc-8487b3d3ece1",
       "confidence": "0.4039815",
       "timestamp": 2380,
-      "content": "roxana's like to go second adam you are up for cyclocross question mark after"
+      "content": "roxana's like to go second adam you are up for cyclocross question mark after",
+      "uuid": "736a5f0a-0d49-4b44-8d97-0ef57ef91134"
     },
-    "2390": {
+    {
       "requestid": "14e8fad2-4e84-4c66-ba1a-d603d0e6feaf",
       "confidence": "0.5995369",
       "timestamp": 2390,
-      "content": "50 years of us zubeda diplomatic relations with blank on monday globe yes this week there is a guy there now he's retiring is the host a blank of there that sell out with the lake"
+      "content": "50 years of us zubeda diplomatic relations with blank on monday globe yes this week there is a guy there now he's retiring is the host a blank of there that sell out with the lake",
+      "uuid": "582badd2-ea16-4d2e-988e-3127f8a884fb"
     },
-    "2400": {
+    {
       "requestid": "159758a8-b420-4ce9-951f-ab0c94442f44",
       "confidence": "0.3388957",
       "timestamp": 2400,
-      "content": "gonna tell something I is it actually does garrison keeler"
+      "content": "gonna tell something I is it actually does garrison keeler",
+      "uuid": "a096482d-af66-421d-a56d-d1402ee374b8"
     },
-    "2410": {
+    {
       "requestid": "f01d1a4a-8833-4aa9-a71f-9a5864f293dd",
       "confidence": "0.4935331",
       "timestamp": 2410,
-      "content": "15 million people are screaming the name is there alright but hurry home for writers blanquita easily defeat oprah george clooney"
+      "content": "15 million people are screaming the name is there alright but hurry home for writers blanquita easily defeat oprah george clooney",
+      "uuid": "8a2bb6cd-c293-4856-a4db-8fe9f87a859c"
     },
-    "2420": {
+    {
       "requestid": "3319653b-2ded-4669-a599-e35661b914ea",
       "confidence": "0.710382",
       "timestamp": 2420,
-      "content": "bill clinton for the democratic nomination hilary duff a japanese newspaper company announced thursday that they were requiring a blank for $1.3 Billion other out"
+      "content": "bill clinton for the democratic nomination hilary duff a japanese newspaper company announced thursday that they were requiring a blank for $1.3 Billion other out",
+      "uuid": "26cb1bb4-5866-46ca-9025-79accbe7b28a"
     },
-    "2430": {
+    {
       "requestid": "0da2be49-4e90-4aac-9141-7ab8813c50d8",
       "confidence": "0.5730552",
       "timestamp": 2430,
-      "content": "but I'm just about to write a canadian man what is the chance of being struck by lightning at to get of winning the lottery under a blanket with beef with my wife newline alotta kids everybody did this week"
+      "content": "but I'm just about to write a canadian man what is the chance of being struck by lightning at to get of winning the lottery under a blanket with beef with my wife newline alotta kids everybody did this week",
+      "uuid": "12ff80bf-313e-452a-a7dc-165ba45555a2"
     },
-    "2440": {
+    {
       "requestid": "0bb2e56a-48e6-4e39-8698-eda0f133ccd4",
       "confidence": "0.590576",
       "timestamp": 2440,
-      "content": "professional surfer mick fanning for the blank and wondering acompa titian shark yes do you know clippy mtv music video award nominees on monday lead with twitter feud between"
+      "content": "professional surfer mick fanning for the blank and wondering acompa titian shark yes do you know clippy mtv music video award nominees on monday lead with twitter feud between",
+      "uuid": "deb528f9-6192-4567-9859-af025f808e46"
     },
-    "2450": {
+    {
       "requestid": "bfa58ce6-5043-4df2-95e8-770aa2c5098f",
       "confidence": "0.5660282",
       "timestamp": 2450,
-      "content": "minaj and black I want to the taylor swift and up at and t of the other way to get there in case your looking for and she's apologizing"
+      "content": "minaj and black I want to the taylor swift and up at and t of the other way to get there in case your looking for and she's apologizing",
+      "uuid": "6a2bdb6c-6ce4-4438-918e-9219cd8a70ac"
     },
-    "2460": {
+    {
       "requestid": "783a9dc7-5fad-43b6-b2a9-2f4eb179fa08",
       "confidence": "0.7662078",
       "timestamp": 2460,
-      "content": "honda of the british prime minister david cameron of this week announced it under no circumstances would you like this summer"
+      "content": "honda of the british prime minister david cameron of this week announced it under no circumstances would you like this summer",
+      "uuid": "03f4f2cf-f98a-4c79-9e6d-5cf8cf9448ba"
     },
-    "2470": {
+    {
       "requestid": "20c42fbc-14bd-41c5-8de2-b2c337215a66",
       "confidence": "0.5050583",
       "timestamp": 2470,
-      "content": "pointed fish oh he said he would no longer pointed fish every year it is in pune tinesha castform appointing of fish"
+      "content": "pointed fish oh he said he would no longer pointed fish every year it is in pune tinesha castform appointing of fish",
+      "uuid": "3eb910b3-8374-4914-9fc0-d353e257d724"
     },
-    "2480": {
+    {
       "requestid": "9fb17f13-2546-4b4e-9fac-b085c6bddaf9",
       "confidence": "0.4557654",
       "timestamp": 2480,
-      "content": "<profanity>fuck</profanity> you leave it til curtis"
+      "content": "<profanity>fuck</profanity> you leave it til curtis",
+      "uuid": "1705ec19-cdd1-4c18-9d54-7d26fd2cf16a"
     },
-    "2490": {
+    {
       "requestid": "70278a33-abcd-4048-b625-ce4c5503bf92",
       "confidence": "0.5478919",
       "timestamp": 2490,
-      "content": "get out of the bill we are here on summer holiday british prime minister david cameron to the family do for you up when is your lesson every year jurnalis have chosen to <profanity>fuck</profanity>"
+      "content": "get out of the bill we are here on summer holiday british prime minister david cameron to the family do for you up when is your lesson every year jurnalis have chosen to <profanity>fuck</profanity>",
+      "uuid": "2bd6b3c9-29ff-4040-8ee1-69559a2b01ad"
     },
-    "2500": {
+    {
       "requestid": "91447822-41d8-47f0-aeff-df92b4fe3121",
       "confidence": "0.5491034",
       "timestamp": 2500,
-      "content": "the prime minister at these classical british open air markets pointing officials who is the dishes came and told reporters he is pudding and m"
+      "content": "the prime minister at these classical british open air markets pointing officials who is the dishes came and told reporters he is pudding and m",
+      "uuid": "061c13a3-805c-492e-a761-c0d1c727a9ae"
     },
-    "2510": {
+    {
       "requestid": "12a7ddbf-54d8-4276-b580-6b6ad1892e31",
       "confidence": "0.5838227",
       "timestamp": 2510,
-      "content": "the american traditional instead want to be photographed kissing the fish right imma let sue bill do you think that that should come to the punching a shark is sufficient"
+      "content": "the american traditional instead want to be photographed kissing the fish right imma let sue bill do you think that that should come to the punching a shark is sufficient",
+      "uuid": "1dd8a93b-ba66-40a5-9cd8-aa45b8830580"
     },
-    "2520": {
+    {
       "requestid": "836ff729-0e98-4f83-aece-1148d08009e2",
       "confidence": "0.5690292",
       "timestamp": 2520,
-      "content": "I do"
+      "content": "I do",
+      "uuid": "3853e32f-4bae-4bda-b45f-98c668417726"
     },
-    "2530": {
+    {
       "requestid": "b605a1ab-3670-40ac-8fe9-48cbc91c92a6",
       "confidence": "0.6471885",
       "timestamp": 2530,
-      "content": "williams and apparently correct answer laughing at how well did adam do you set the bar high he got a ride 16 more points in total"
+      "content": "williams and apparently correct answer laughing at how well did adam do you set the bar high he got a ride 16 more points in total",
+      "uuid": "a12ae1ab-8bf2-4eca-a168-57227f0a53e1"
     },
-    "2540": {
+    {
       "requestid": "07c6d1b1-c84b-4d22-a076-5a0c688179c1",
       "timestamp": 2540,
-      "content": ""
+      "content": "",
+      "uuid": "6396081c-0cf2-45ef-97ef-6b3dac1081cc"
     },
-    "2550": {
+    {
       "requestid": "56500dbf-0ad3-4781-b9bd-124a921c7258",
       "confidence": "0.5930868",
       "timestamp": 2550,
-      "content": "council unanimously approved the blanket deal of the greek bailout no you're in the clear deal about this week lawmakers in blanket after 4"
+      "content": "council unanimously approved the blanket deal of the greek bailout no you're in the clear deal about this week lawmakers in blanket after 4",
+      "uuid": "0f5db64d-fda6-43a3-b995-1ce58d40fca9"
     },
-    "2560": {
+    {
       "requestid": "74a20d9e-10c1-4d61-b83a-6753a545d0db",
       "confidence": "0.3607522",
       "timestamp": 2560,
-      "content": "partii was bill a package greek bailout period of labor announces us blank lamsa drop the 40 year live in former rider"
+      "content": "partii was bill a package greek bailout period of labor announces us blank lamsa drop the 40 year live in former rider",
+      "uuid": "7224c93e-6880-4fcd-8a02-c7de152da98e"
     },
-    "2570": {
+    {
       "requestid": "4240438c-dcf7-413d-9a75-9fdad3c574a9",
       "confidence": "0.5573022",
       "timestamp": 2570,
-      "content": "official try and bribe good and gold watch is diamond jewelry and luxury automobiles period $10,000,000 bill this week with the black porn"
+      "content": "official try and bribe good and gold watch is diamond jewelry and luxury automobiles period $10,000,000 bill this week with the black porn",
+      "uuid": "925f58da-fefb-48c9-9f7b-ed288031af0b"
     },
-    "2580": {
+    {
       "requestid": "b8702eba-33be-42c2-8bf1-7110b25ce866",
       "confidence": "0.4979329",
       "timestamp": 2580,
-      "content": "no gold watch is diamond jewelry on monday don't for doctor johnson wanna play with matthew for this week to pick up"
+      "content": "no gold watch is diamond jewelry on monday don't for doctor johnson wanna play with matthew for this week to pick up",
+      "uuid": "c7715f6d-1724-49b0-89c2-f74e5bcba003"
     },
-    "2590": {
+    {
       "requestid": "88982315-4924-4794-9955-48f164744374",
       "confidence": "0.5853822",
       "timestamp": 2590,
-      "content": "telescope discovered a planet that resembles way I'm your cousin earth to point out a new jersey man was arrested for breaking into home hiding under a bed and blanket"
+      "content": "telescope discovered a planet that resembles way I'm your cousin earth to point out a new jersey man was arrested for breaking into home hiding under a bed and blanket",
+      "uuid": "420cb295-4c22-4066-a88a-823727a2b189"
     },
-    "2600": {
+    {
       "requestid": "5a0c295b-000e-45da-b43e-c5c4d287759a",
       "confidence": "0.5602343",
       "timestamp": 2600,
-      "content": "4 cell phone that's exactly right like damn tired of you do know how do people get their phone battery is low"
+      "content": "4 cell phone that's exactly right like damn tired of you do know how do people get their phone battery is low",
+      "uuid": "f3312ebc-2bce-4afe-82ac-2ea5bf700804"
     },
-    "2610": {
+    {
       "requestid": "a9a07d24-146d-46f5-988d-c19033b2124d",
       "confidence": "0.6671458",
       "timestamp": 2610,
-      "content": "jason hibernated the charges for fun fact my house in here under a bed for 3 days he was able to charge for phones for the owner figured out he was there in french"
+      "content": "jason hibernated the charges for fun fact my house in here under a bed for 3 days he was able to charge for phones for the owner figured out he was there in french",
+      "uuid": "a1160b64-db80-42e0-aa4b-62a15dd84206"
     },
-    "2620": {
+    {
       "requestid": "3d6155ae-5e32-4dd0-ae09-2d2a23f88a33",
       "confidence": "0.7637408",
       "timestamp": 2620,
-      "content": "can come out of that he ordered another coffee drink"
+      "content": "can come out of that he ordered another coffee drink",
+      "uuid": "db292824-8b3c-4337-b32e-38c67e10a719"
     },
-    "2630": {
+    {
       "requestid": "897008c4-1273-4057-80bd-a6639789aa24",
       "confidence": "0.4086716",
       "timestamp": 2630,
-      "content": "bieber bieber I said lord boyd 12 at the total adam is in the lead with so all is starting from a better position"
+      "content": "bieber bieber I said lord boyd 12 at the total adam is in the lead with so all is starting from a better position",
+      "uuid": "7661311c-b9c1-43e0-a476-d82582e065d8"
     },
-    "2640": {
+    {
       "requestid": "56318fb7-3a39-446c-b744-7026b9e92c9e",
       "confidence": "0.6564369",
       "timestamp": 2640,
-      "content": "still she may need a lot to win how many duccini 7 it I take to win no problem paul here we go"
+      "content": "still she may need a lot to win how many duccini 7 it I take to win no problem paul here we go",
+      "uuid": "f5f7a3b6-6208-4c02-8edc-56917d22164f"
     },
-    "2650": {
+    {
       "requestid": "fdc22f4c-a235-4b30-99d2-3900c8b5dbf9",
       "confidence": "0.5926133",
       "timestamp": 2650,
-      "content": "play on monday ohio governor john kasich announced that he would like it already for president yes gop nomination this week a federal appeals court overturned 5"
+      "content": "play on monday ohio governor john kasich announced that he would like it already for president yes gop nomination this week a federal appeals court overturned 5",
+      "uuid": "569613ea-4eee-48c3-9edc-18e556b07391"
     },
-    "2660": {
+    {
       "requestid": "91099240-360f-49c2-a50e-d21a2c734502",
       "confidence": "0.5115485",
       "timestamp": 2660,
-      "content": "corruption conviction against former illinois governor blank 000 I linger like mad men"
+      "content": "corruption conviction against former illinois governor blank 000 I linger like mad men",
+      "uuid": "6b4884ce-c651-45de-9929-384c23e9c7c8"
     },
-    "2670": {
+    {
       "requestid": "0b2070ac-659f-4a5f-a536-38198f7076f6",
       "confidence": "0.5870041",
       "timestamp": 2670,
-      "content": "something john glenn knows brother died this morning to an internal memo released this week mcdonald's will soon be offering blank nationwide what are you today with an offer"
+      "content": "something john glenn knows brother died this morning to an internal memo released this week mcdonald's will soon be offering blank nationwide what are you today with an offer",
+      "uuid": "fbd57b67-416e-4478-90d0-a60ba9bb1276"
     },
-    "2680": {
+    {
       "requestid": "52e50513-8e1b-458b-ac8c-a574e80ed219",
       "confidence": "0.6515105",
       "timestamp": 2680,
-      "content": "breakfast yeah that's it yeah marijuana dispensary in california is suing the police and the cops raided the dispensary in blank a smoke marijuana no"
+      "content": "breakfast yeah that's it yeah marijuana dispensary in california is suing the police and the cops raided the dispensary in blank a smoke marijuana no",
+      "uuid": "25978bda-72ab-492d-950e-26beb9cef4e4"
     },
-    "2690": {
+    {
       "requestid": "672e9870-e255-4d64-98ca-0955378ad47c",
       "confidence": "0.6878633",
       "timestamp": 2690,
-      "content": "they ate all the pot brownies best known for the book rags I'm in the mart arthur blank passed away this week they do 84 tl doctor I need a woman looking up your house on google street view was shocked"
+      "content": "they ate all the pot brownies best known for the book rags I'm in the mart arthur blank passed away this week they do 84 tl doctor I need a woman looking up your house on google street view was shocked",
+      "uuid": "dbb9d4f4-0e3c-4307-b3a6-342469a53904"
     },
-    "2700": {
+    {
       "requestid": "c09e1203-831e-4e54-88de-6271422b4be1",
       "confidence": "0.678394",
       "timestamp": 2700,
-      "content": "she felt blank by herself make it up there are no an image of her husband smoking in the driveway after he promised are you have quit off"
+      "content": "she felt blank by herself make it up there are no an image of her husband smoking in the driveway after he promised are you have quit off",
+      "uuid": "cfd1bf99-6227-43e7-b0d4-a39def7e9fdc"
     },
-    "2710": {
+    {
       "requestid": "a116d0cd-36b9-4ea1-9569-f76a47f2684e",
       "confidence": "0.5104855",
       "timestamp": 2710,
-      "content": "how old is a car in the salon also be on my resume builder paula do well enough to win I think I get it"
+      "content": "how old is a car in the salon also be on my resume builder paula do well enough to win I think I get it",
+      "uuid": "4295728c-f35a-44fc-bae5-0efa88aebe58"
     },
-    "2720": {
+    {
       "requestid": "a5eae7f5-f006-4286-a8e7-36a73a6a4db7",
       "confidence": "0.4271798",
       "timestamp": 2720,
-      "content": "3 right yeah you got that you know I forgot my answer put your fish oh yeah that was that"
+      "content": "3 right yeah you got that you know I forgot my answer put your fish oh yeah that was that",
+      "uuid": "e0a8cb47-565c-45b6-93ee-3a931bb626e3"
     },
-    "2730": {
+    {
       "requestid": "3b44018e-279a-4d37-9d06-f71ad76aebf9",
       "confidence": "0.4148855",
       "timestamp": 2730,
-      "content": "then let's not take the glory away from adamu at 8:15 points and win"
+      "content": "then let's not take the glory away from adamu at 8:15 points and win",
+      "uuid": "2824519c-ebc5-40b2-9489-041b16c2e56c"
     },
-    "2740": {
+    {
       "requestid": "52353c09-6dcf-446b-8fd2-6c681d397b0a",
       "confidence": "0.5005767",
       "timestamp": 2740,
-      "content": "gotta bunch of midgets over in just a minute were gonna ask are pandas to predict a line from the next lost"
+      "content": "gotta bunch of midgets over in just a minute were gonna ask are pandas to predict a line from the next lost",
+      "uuid": "e08a3c36-cbc0-4e0f-b469-36c3447bdbcc"
     },
-    "2750": {
+    {
       "requestid": "419b85c9-4444-4b79-b869-4235107b4c69",
       "confidence": "0.655645",
       "timestamp": 2750,
-      "content": "found doctor seuss book to be published support for wait wait don't tell me and of course the following a tiny radio sponsorship message comes from blue"
+      "content": "found doctor seuss book to be published support for wait wait don't tell me and of course the following a tiny radio sponsorship message comes from blue",
+      "uuid": "61471361-5f25-4d29-80eb-3eb64b973331"
     },
-    "2760": {
+    {
       "requestid": "ec1ed1f6-fb5c-449e-a18d-eddd767c2b91",
       "confidence": "0.7448035",
       "timestamp": 2760,
-      "content": "read that the new service that delivers all the ingredients you need to make incredible deals at home farm fresh ingredients are perfectly portioned and come with an easy to follow a recipe card so you can create it"
+      "content": "read that the new service that delivers all the ingredients you need to make incredible deals at home farm fresh ingredients are perfectly portioned and come with an easy to follow a recipe card so you can create it",
+      "uuid": "00a975bd-3753-427e-93b2-7e4b7978e176"
     },
-    "2770": {
+    {
       "requestid": "01c6a662-889d-4492-9f2d-405d05dd8bba",
       "confidence": "0.6700714",
       "timestamp": 2770,
-      "content": "35 minutes away you can cook meals like vietnamese chicken wings with lemongrass jasmine rice and other tasty stuff discover a better way to cook visit blue"
+      "content": "35 minutes away you can cook meals like vietnamese chicken wings with lemongrass jasmine rice and other tasty stuff discover a better way to cook visit blue",
+      "uuid": "74e89270-d082-4d71-8ff8-2a25f98cb3c9"
     },
-    "2780": {
+    {
       "requestid": "b1ba211d-b6a0-4a1c-8097-05e0a6a13117",
       "confidence": "0.6047519",
       "timestamp": 2780,
-      "content": "aprin.com slash wait to get your first 2 meals free blueapron.com slash wait wait wait don't tell me npr w be easy"
+      "content": "aprin.com slash wait to get your first 2 meals free blueapron.com slash wait wait wait don't tell me npr w be easy",
+      "uuid": "64a88534-4f34-44bf-b7ce-e23825d7d201"
     },
-    "2790": {
+    {
       "requestid": "2dc48772-ede6-4e73-94a8-390de06d1f3c",
       "confidence": "0.5431862",
       "timestamp": 2790,
-      "content": "chicago dissociation urgent hookup berman fornever go to correct of america into this jesse but end of the world as we know it and I feel fine"
+      "content": "chicago dissociation urgent hookup berman fornever go to correct of america into this jesse but end of the world as we know it and I feel fine",
+      "uuid": "ba38c613-e352-46f0-a423-bad5f8f903d3"
     },
-    "2800": {
+    {
       "requestid": "f45a16fc-a933-4805-80cc-44a293399266",
       "confidence": "0.5265726",
       "timestamp": 2800,
-      "content": "who is the straightener ibeth no be special thanks ik ru here at wolf trap ej to be by miles kimball technical director from on white horse"
+      "content": "who is the straightener ibeth no be special thanks ik ru here at wolf trap ej to be by miles kimball technical director from on white horse",
+      "uuid": "8324f15e-c3f9-498d-badf-44917c2f86af"
     },
-    "2810": {
+    {
       "requestid": "edcb1412-37fc-4be7-b89a-5d3ecc9fe4eb",
       "confidence": "0.4744004",
       "timestamp": 2810,
-      "content": "devo's indiana production coordinator robert newhouse I think about easter is until login executive producer wait wait don't tell me is michael danforth now panel what will be a line from the"
+      "content": "devo's indiana production coordinator robert newhouse I think about easter is until login executive producer wait wait don't tell me is michael danforth now panel what will be a line from the",
+      "uuid": "f4d04062-b999-4c2c-a511-62a83a579a4e"
     },
-    "2820": {
+    {
       "requestid": "606a8d2a-696d-455e-8d57-9b62a73e4c8e",
       "confidence": "0.5893952",
       "timestamp": 2820,
-      "content": "doctor seuss book roxanne roberts from the upcoming why mommy drinks at barking dogs in broken toys you try"
+      "content": "doctor seuss book roxanne roberts from the upcoming why mommy drinks at barking dogs in broken toys you try",
+      "uuid": "0b8fb90d-754d-4774-8311-718a58a48072"
     },
-    "2830": {
+    {
       "requestid": "8768f372-6669-4cf2-b2a3-6b11bb4e905c",
       "confidence": "0.4134828",
       "timestamp": 2830,
-      "content": "reading 7 boys diapers dirty little weenies mommy needs her drive martinez"
+      "content": "reading 7 boys diapers dirty little weenies mommy needs her drive martinez",
+      "uuid": "03f692fa-949b-4b5b-bd35-608c8e7052d3"
     },
-    "2840": {
+    {
       "requestid": "02e540ba-eaec-4f96-9197-ae68ec237626",
       "confidence": "0.6845206",
       "timestamp": 2840,
-      "content": "paula poundstone who publishes for me and my current situation is the best kept secret in our nation its only gonna need to know basis famous"
+      "content": "paula poundstone who publishes for me and my current situation is the best kept secret in our nation its only gonna need to know basis famous",
+      "uuid": "9f4d033a-6a2b-4026-a42e-03b0c490e804"
     },
-    "2850": {
+    {
       "requestid": "40bdf379-b6db-48b5-96e6-02323f9426b7",
       "confidence": "0.4179299",
       "timestamp": 2850,
-      "content": "please work since atticus became a racist and adam self be hot skinny pozzetti stop at the stop"
+      "content": "please work since atticus became a racist and adam self be hot skinny pozzetti stop at the stop",
+      "uuid": "2baccb17-af51-4ece-9365-2728d42b0a0e"
     },
-    "2860": {
+    {
       "requestid": "947b03f6-dbc5-4e75-8510-5b788f405a66",
       "confidence": "0.636874",
       "timestamp": 2860,
-      "content": "that is jeff and he stuck out his room but we told me to boston he felt like a champ and that was the last we heard about president ram"
+      "content": "that is jeff and he stuck out his room but we told me to boston he felt like a champ and that was the last we heard about president ram",
+      "uuid": "3693327d-f2aa-401e-bbf8-06ec7c068f71"
     },
-    "2870": {
+    {
       "requestid": "c20a2b94-d1f4-4b62-aa03-2ed03c2f9d47",
       "confidence": "0.5585591",
       "timestamp": 2870,
-      "content": "well if we read any of that will ask you about is on wait wait don't tell"
+      "content": "well if we read any of that will ask you about is on wait wait don't tell",
+      "uuid": "f6fe4ced-6847-4a04-bc06-4fb9cda79e54"
     },
-    "2880": {
+    {
       "requestid": "aab9f529-11fe-4708-b74a-57c56ea68adc",
       "timestamp": 2880,
-      "content": ""
+      "content": "",
+      "uuid": "5f2a3fdd-02d9-4556-b491-abd4e7ff1c5a"
     },
-    "2890": {
+    {
       "requestid": "de10786a-2d8f-472c-9761-e7cad09cb21d",
       "confidence": "0.2937718",
       "timestamp": 2890,
-      "content": "google"
+      "content": "google",
+      "uuid": "9ed6cd73-2eec-4310-97c0-960757a1a57a"
     },
-    "2900": {
+    {
       "requestid": "bf2211ea-a3eb-4149-b582-3a02382537fb",
       "confidence": "0.4714299",
       "timestamp": 2900,
-      "content": "see you next week bhawani park chicago be there"
+      "content": "see you next week bhawani park chicago be there",
+      "uuid": "7e30c4f5-cfdc-4e50-802d-3613ec6da40d"
     },
-    "2910": {
+    {
       "requestid": "c3994866-a172-4a2f-9713-77ca6a14154a",
       "confidence": "0.5119395",
       "timestamp": 2910,
-      "content": "ben is in PR"
+      "content": "ben is in PR",
+      "uuid": "9a177937-4d87-42c0-b7d5-ee40a238af7a"
     },
-    "2920": {
+    {
       "requestid": "a98696c4-fd8c-4fa1-b36c-e9370693aa02",
       "timestamp": 2920,
-      "content": ""
+      "content": "",
+      "uuid": "a7e6acbe-0f77-4dc7-81ab-2995761acc1f"
     }
-  },
+  ],
   "slug": "Surgeon-General-Vivek-Murthy"
 }

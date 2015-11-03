@@ -4,1675 +4,1918 @@
   "description": "<p>In many ways, the gender gap is closing. In others, not so much. And that's not always a bad thing.</p>",
   "episode_url": "http://feedproxy.google.com/~r/freakonomicsradio/~5/C35S86eHKxk/freakonomics_podcast032014.mp3",
   "slug": "Women-Are-Not-Men--Rebroadcast-",
-  "segments": {
-    "2.67": {
+  "segments": [
+    {
       "requestid": "5d5ccbfb-e1b1-44ad-a8c9-ed03398d6b7f",
       "confidence": "0.7689869",
       "timestamp": 2.67,
       "content": "if a cats whiskers the episode your about here is the rebroadcast one of our favourite most popular episode called women are not men usually when we put out a rerun we make up some story about how to take is relevant to something going on the world right now but this week honestly",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "08667413-faca-47d1-8ffa-a62bfa6f3e8e"
     },
-    "19.99": {
+    {
       "requestid": "7a90b8c4-4bd1-4010-ab95-01c72bd61749",
       "confidence": "0.7720081",
       "timestamp": 19.99,
       "content": "I'm on spring break with my kids were eating grapes drink a beer factory washington soccer will be back next week with the new show on bitcoin good",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "186a968d-ba7f-4323-8d6d-2f706e7d71ea"
     },
-    "30.8": {
+    {
       "requestid": "7ed6d4e8-9b98-42f9-ae19-8a7458207184",
       "confidence": "0.4702101",
       "timestamp": 30.8,
       "content": "in the talking app",
-      "speaker": "S4"
+      "speaker": "S4",
+      "uuid": "c7c54017-585c-4499-8ba1-12205ff286fe"
     },
-    "35.81": {
+    {
       "requestid": "f138f449-2153-4130-a310-a818219646ff",
       "timestamp": 35.81,
-      "content": ""
+      "content": "",
+      "uuid": "1855917c-cba6-4acc-9705-7ad12e3f4535"
     },
-    "39.67": {
+    {
       "requestid": "6d420760-b337-4af0-89f7-512a76861d9f",
       "confidence": "0.7277678",
       "timestamp": 39.67,
       "content": "more than half of all college students in the us about 57% female as of january 2013 women were no longer barred from combat positions in united states military",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "6fed8740-bb2f-4177-b822-108cdb128db4"
     },
-    "52.23": {
+    {
       "requestid": "a9c15bab-8638-4914-bb92-0a27e9c63ec0",
       "confidence": "0.6933498",
       "timestamp": 52.23,
       "content": "the male female income gap is tightening women hold about 20% of the seats in the us senate and the house of repres",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "69634b89-9a1a-4073-b431-11e77481d8d6"
     },
-    "59.95": {
+    {
       "requestid": "23af2383-dc16-4d27-93f1-1584fa5396f0",
       "confidence": "0.4752634",
       "timestamp": 59.95,
       "content": "highest proportion ever",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "3c067293-e194-48e0-a9c7-d49405cba054"
     },
-    "62.4": {
+    {
       "requestid": "5552b7a5-d00a-4170-8dd2-da852bef579d",
       "confidence": "0.7512223",
       "timestamp": 62.4,
       "content": "3 of the last 5 secretaries of state for women one of them conley's race street became one of the first female members of augusta national golf club one of these",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "9f38aea7-cd43-4473-a011-0c346ff227d0"
     },
-    "73.14": {
+    {
       "requestid": "e6d216a8-348a-4dd4-b799-3a4ff5c6832a",
       "confidence": "0.6257043",
       "timestamp": 73.14,
       "content": "oldest in good it's good ol boy clubs in america equality of the sexes plumpen a goal and in many ways that goes being met",
-      "speaker": "S10"
+      "speaker": "S10",
+      "uuid": "78a5620f-60c3-4a3c-9f19-6a0669eef741"
     },
-    "85.05": {
+    {
       "requestid": "e0f5e410-bac9-4201-b179-fba6375913f9",
       "confidence": "0.7542472",
       "timestamp": 85.05,
       "content": "did you hear on this program the variance between men and women on some dimensions is still large and in other words",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "d9105620-1ad6-4e5b-8f31-468093ea05cb"
     },
-    "94.21": {
+    {
       "requestid": "2d916926-cf80-488a-91fa-d3e9ea45b966",
       "confidence": "0.6788431",
       "timestamp": 94.21,
       "content": "women are not men",
-      "speaker": "S11"
+      "speaker": "S11",
+      "uuid": "6afd9c0b-5cbb-4c60-98d8-44f66951a386"
     },
-    "101.42": {
+    {
       "requestid": "1215ad24-0bb7-435d-a2b8-3f391b7592fe",
       "confidence": "0.5619931",
       "timestamp": 101.42,
       "content": "in some ways it's obvious",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "09454cc4-1463-4b36-97c7-5902aa6de20e"
     },
-    "105.34": {
+    {
       "requestid": "ceddb013-2752-4f0c-919e-0ca7efcbea82",
       "confidence": "0.617817",
       "timestamp": 105.34,
       "content": "and in other ways west so hot springs women file only about 7 and a half percent of all pets",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "9fff0419-eb27-4cd4-bbe3-488ed442648d"
     },
-    "114.62": {
+    {
       "requestid": "2a461223-4469-4b2d-9a8c-0bd254d72180",
       "confidence": "0.5799871",
       "timestamp": 114.62,
       "content": "what time is the maze because it's so in many other areas women really closing in on me and then just got this just so in norman",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "4251c641-79e8-41ee-8509-f6d19b77757f"
     },
-    "124.4": {
+    {
       "requestid": "6074ab32-8f9b-4cc1-be02-93d7222b579d",
       "confidence": "0.6344298",
       "timestamp": 124.4,
       "content": "text jennifer hunt season economiste she argues that if more women with ipad with dad nearly 3% worth per capita gdp in why we asked to do so few women patton",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "846fb280-0db2-42a4-9470-ffdac6165560"
     },
-    "137.87": {
+    {
       "requestid": "00f55c9c-3721-47a0-bc98-9011725517f9",
       "confidence": "0.5825531",
       "timestamp": 137.87,
       "content": "men are more likely to be in jobs involving designware codevelopment what does the d in the car",
-      "speaker": "S14"
+      "speaker": "S14",
+      "uuid": "7b4663e1-d718-41c6-9837-a2f94c129987"
     },
-    "148.43": {
+    {
       "requestid": "7d1184fc-5107-440e-b461-254d427d33e5",
       "confidence": "0.7907823",
       "timestamp": 148.43,
       "content": "nancy wilson I tell you about the differences between women and men did you know that women are",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "83f2aa5f-94d5-4b3d-b3f6-24c28473cd7f"
     },
-    "154.82": {
+    {
       "requestid": "3eb6c2f5-ce8a-4cb9-9801-d074e3ebc300",
       "confidence": "0.8783408",
       "timestamp": 154.82,
       "content": "far less likely to get struck by lightning",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "e20c3768-fcb5-4103-ac02-663cbde76679"
     },
-    "157.91": {
+    {
       "requestid": "b23b5c5b-08e7-457e-a61f-fa89018a4f80",
       "confidence": "0.6196954",
       "timestamp": 157.91,
       "content": "typically 80 to 85% of the lightning fatalities across united states or man",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "04d907a2-1531-4c48-b2f9-fc4fa6924b5d"
     },
-    "165.51": {
+    {
       "requestid": "e5e5eda0-1802-4ed7-82c5-763fb229b33a",
       "confidence": "0.5591929",
       "timestamp": 165.51,
       "content": "john jensen making special is the national weather service",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "fc8289ae-6eb3-4f81-8ab9-88f29a3df156"
     },
-    "169.95": {
+    {
       "requestid": "7310d2fc-18a4-488a-a700-78d1e6d76293",
       "confidence": "0.7020509",
       "timestamp": 169.95,
       "content": "please think the reason for that is that men tend to be outside more than women and they also tend not to go inside would like crap",
-      "speaker": "S24"
+      "speaker": "S24",
+      "uuid": "e85dc8ba-5a9e-4f48-9e4b-6971c49f62ce"
     },
-    "180.68": {
+    {
       "requestid": "cc2b8a39-717c-457d-adc0-47cb7526f3b0",
       "confidence": "0.755272",
       "timestamp": 180.68,
       "content": "men are also more prolific",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "7b1119bb-6032-48e1-913c-79e10973bc55"
     },
-    "184.28": {
+    {
       "requestid": "ebf73a0a-84fb-4256-a70c-551d5ea0defc",
       "confidence": "0.5808379",
       "timestamp": 184.28,
       "content": "males have almost 4 times higher ground red bone females",
-      "speaker": "S28"
+      "speaker": "S28",
+      "uuid": "0b8b09f1-5df3-46f7-9968-6132fe0f00a0"
     },
-    "188.18": {
+    {
       "requestid": "137c7532-7d35-436b-a1c3-a7e9565d6ab5",
       "confidence": "0.7440884",
       "timestamp": 188.18,
       "content": "it's julie gilchrist from the centers for disease control is not does that mean spend more time in the water they also overestimate their swimming abilities and drink more night without",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "87764951-a65c-445e-9982-72abcd41bffd"
     },
-    "199.14": {
+    {
       "requestid": "03be2a80-cf4f-4f29-9f29-266bfd951f0b",
       "confidence": "0.7377881",
       "timestamp": 199.14,
       "content": "women are half as likely is meant to become alcoholics but twice as likely pappa phobia in women are more likely to kill off",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "550d2103-96b1-4ea4-9c60-cf807865de29"
     },
-    "208.59": {
+    {
       "requestid": "3d250526-794b-4cd7-966e-5e59a3a89cb7",
       "confidence": "0.7407117",
       "timestamp": 208.59,
       "content": "add marriage the file for a free 2 thirds of divorces in here is an amazing statistica I'm sure you don't know we uncovered one thing that women and men do in exactly the same proportions",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "1c4b2eb2-bb3e-44cf-ae57-bb1176e02e05"
     },
-    "223.44": {
+    {
       "requestid": "650ae813-0e5c-4458-89c5-17d2c700439c",
       "confidence": "0.7258856",
       "timestamp": 223.44,
       "content": "listen all the way very end of each episode of freakonomics radio",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "616d86a6-b0e7-4ac2-9949-06ad0509b130"
     },
-    "234.4": {
+    {
       "requestid": "5bdbccdc-34c0-4ad0-82b5-e3ffa17fee98",
       "timestamp": 234.4,
-      "content": ""
+      "content": "",
+      "uuid": "534d1677-5da6-4bfb-9e27-b86dc10fbe84"
     },
-    "242.9": {
+    {
       "requestid": "75db8d13-5f9f-42ce-8c7a-52bff860c3ed",
       "confidence": "0.6449176",
       "timestamp": 242.9,
       "content": "mw on my feet this is freakonomics radio the podcast that explores inside of everything",
-      "speaker": "S36"
+      "speaker": "S36",
+      "uuid": "7636992f-afb5-46d6-a02f-6943adce443d"
     },
-    "250.49": {
+    {
       "requestid": "e65f889c-3efd-4066-a351-ffd21c0138ef",
       "confidence": "0.365551",
       "timestamp": 250.49,
       "content": "here's your help steven dufner",
-      "speaker": "S36"
+      "speaker": "S36",
+      "uuid": "8cb833ad-fd18-41b5-bf38-6c1f2627a4b7"
     },
-    "258.76": {
+    {
       "requestid": "7e21364f-e94c-406d-9336-1715a8c1a07f",
       "confidence": "0.6895354",
       "timestamp": 258.76,
       "content": "boo boo boo",
-      "speaker": "S38"
+      "speaker": "S38",
+      "uuid": "05c9efa0-58a5-4225-a736-efff6c876e82"
     },
-    "262.7": {
+    {
       "requestid": "7cae4db5-a2fd-45d6-b8a3-9809aaf89421",
       "confidence": "0.7290565",
       "timestamp": 262.7,
       "content": "andre show were talking about the ways in which women are not meant for better and worse start on line is john drittel he was a professor of computer science university of minnesota",
-      "speaker": "S1"
+      "speaker": "S1",
+      "uuid": "8ed080bc-9012-4a98-8c34-76dfadada9c8"
     },
-    "276.72": {
+    {
       "requestid": "268d93c3-ede8-4326-b45c-ff9eced48934",
       "confidence": "0.7848045",
       "timestamp": 276.72,
       "content": "we know that woman has been increasing dramatically as a percentage of participation I'm just about any internet site you can imagine the retweet",
-      "speaker": "S42"
+      "speaker": "S42",
+      "uuid": "7fb39906-b638-484d-b1bc-3f946a74a23f"
     },
-    "286.51": {
+    {
       "requestid": "f285ad99-daf8-4622-8e9c-4a878a25e6fa",
       "confidence": "0.5108932",
       "timestamp": 286.51,
       "content": "it's like by rupaul couple things you need to know if you member of tyler central",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c5b59825-9e18-4000-aa51-bfb097976de8"
     },
-    "292.57": {
+    {
       "requestid": "a51a1967-953a-4482-b34a-c7539fcc60c0",
       "confidence": "0.5794116",
       "timestamp": 292.57,
       "content": "the highest social media site",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "896bbdc5-a9be-48e7-8c15-48b642ce0d65"
     },
-    "295.03": {
+    {
       "requestid": "eb2b8b5e-a71e-4f37-8327-9664dc3834ca",
       "confidence": "0.7517022",
       "timestamp": 295.03,
       "content": "going right now",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "99977437-cc3e-4958-83a9-2a859b347fc7"
     },
-    "296.78": {
+    {
       "requestid": "4e56f011-7850-4559-a48b-1f814330ef7e",
       "confidence": "0.7468373",
       "timestamp": 296.78,
       "content": "so for instance females now outnumber males on facebook and twitter and that's been true just about across any aspect of internet you can imagine including much too many people surprised out online games",
-      "speaker": "S42"
+      "speaker": "S42",
+      "uuid": "6e42e440-1f9a-40ce-9f05-5f85b9d4428b"
     },
-    "311.99": {
+    {
       "requestid": "e4429eb2-ebb6-4e6d-8fa3-23d9f26279f5",
       "confidence": "0.5253052",
       "timestamp": 311.99,
       "content": "here if you completely incorrect stereotypes about female game and we all agreed we don't like fighting for scary games where are you playing games coz we lost the way to the kitchen",
-      "speaker": "S46"
+      "speaker": "S46",
+      "uuid": "e240164f-ea29-4e17-816e-ea506cfb67c1"
     },
-    "323.91": {
+    {
       "requestid": "8bed3191-7354-401c-baad-13a12e6f9805",
       "confidence": "0.3786722",
       "timestamp": 323.91,
       "content": "new boo boo",
-      "speaker": "S49"
+      "speaker": "S49",
+      "uuid": "b5c20445-4e78-4ca2-9a23-1b29d61c0df3"
     },
-    "326.51": {
+    {
       "requestid": "ddb07a06-d785-43a4-a914-cf691ff0c5af",
       "confidence": "0.6223657",
       "timestamp": 326.51,
       "content": "but there'S1 on my ground where women are not so well represented by rail am better offreakonomics.com as the story",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "d48eeec3-dbc5-44ed-aa30-174ef573f89a"
     },
-    "337.35": {
+    {
       "requestid": "f491ff61-6aa0-41d4-936e-777c29624606",
       "timestamp": 337.35,
-      "content": ""
+      "content": "",
+      "uuid": "6d71f6a1-e4f7-40f9-a84d-84c8e4c65714"
     },
-    "340.48": {
+    {
       "requestid": "20fcba60-0798-43d2-9d35-5bc194384c0e",
       "confidence": "0.8183073",
       "timestamp": 340.48,
       "content": "wicca pedia is by far the largest encyclopedia in history has more than 24000000 articles in 275 languages launched in 2001 it's run by volunteers who call themselves wicca pedia ends",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "bcce4e52-0067-41fd-9633-e62566b9b770"
     },
-    "354.38": {
+    {
       "requestid": "ae40f03d-88e4-4108-a084-ba1e1779b7f8",
       "confidence": "0.8011945",
       "timestamp": 354.38,
       "content": "now what does this have to do with women for years not much but in 2011 and new york times article bignone colon are you the only one in 6 wikipedia editors more women john riddell was a bit skeptical so he decided to run to study",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "d60190ca-4873-49a1-a383-4d384000da09"
     },
-    "372.3": {
+    {
       "requestid": "e8faa07f-4b32-44ab-a05d-159e593394ed",
       "confidence": "0.8058155",
       "timestamp": 372.3,
       "content": "much to our shock we found out that not only was his overall message right on but that the best day to we can get suggested things were even worse in terms of the amount of female contribution eaad reported",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "26a4859b-f910-488d-8379-f39a4b7c6cf9"
     },
-    "386.27": {
+    {
       "requestid": "1f699fd5-6416-4ed3-bff1-e2b248ed5508",
       "confidence": "0.8540773",
       "timestamp": 386.27,
       "content": "dad about 16% of the editors for women and we found that to be true but we found those females only made about 9% of the edits which was even more surprising and disappointing",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "a66e784c-efa7-4228-a2cd-a184c79ecc56"
     },
-    "399.97": {
+    {
       "requestid": "9016feec-8d16-4b68-a1df-9b220afdefb4",
       "timestamp": 399.97,
-      "content": ""
+      "content": "",
+      "uuid": "4f417dda-947c-4c42-b994-5456e098ecec"
     },
-    "403.08": {
+    {
       "requestid": "3bb277da-298e-47e6-aa50-b5ebe0348033",
       "confidence": "0.57",
       "timestamp": 403.08,
       "content": "it might help explain how adding albuquerque at work as a volunteer even click on any article in and let the controversial dated article good at it and adding information",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "3541196b-a644-41ee-978e-bba531172ac9"
     },
-    "414.47": {
+    {
       "requestid": "952d4af5-b155-4391-8322-1a9fbae3c186",
       "confidence": "0.5680158",
       "timestamp": 414.47,
       "content": "but later other wicca pedia nescom delete your at it if they don't like it changes dot culvers",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c0beba0f-cd22-4d1e-a328-737face4ed91"
     },
-    "420.52": {
+    {
       "requestid": "bd7c1909-bdc2-4d93-8e83-9c59701074be",
       "confidence": "0.6517183",
       "timestamp": 420.52,
       "content": "and if your articles game development we can be deleted",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b2bd5fef-1ef8-424b-98be-54503e91bc75"
     },
-    "425.08": {
+    {
       "requestid": "6c12f4df-f4b6-4c92-8734-5f3ad1ea0811",
       "confidence": "0.855251",
       "timestamp": 425.08,
       "content": "when I started adding wicca pedia I never really thought that I was the only woman",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "e39cd408-5e04-4aeb-a92b-6a6497e85866"
     },
-    "429.59": {
+    {
       "requestid": "a4326826-00aa-4107-beda-5c5735515c3d",
       "confidence": "0.6890294",
       "timestamp": 429.59,
       "content": "that's a research houston wicca pedia editor for 9 years back then it had a mere 1,000,000 articles",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "c2d38e59-b382-418a-8bf9-dcb40fb6f68f"
     },
-    "437.18": {
+    {
       "requestid": "84e63cf2-8ce3-4d4c-b540-586d5deaa62f",
       "confidence": "0.7650807",
       "timestamp": 437.18,
       "content": "search remembers the first article she added it",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "33f16ac3-9098-4a7f-a52d-d0495ac2909f"
     },
-    "439.95": {
+    {
       "requestid": "0ff3e664-faad-44d3-90b6-45e775b0820d",
       "confidence": "0.637398",
       "timestamp": 439.95,
       "content": "my first article was deleted I can proudly say that I read about a guy in a van <profanity>dyke</profanity> new stand up but no longer on wicca pedia",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "c2be4215-a62b-439f-928b-3e6608f78ea2"
     },
-    "450.68": {
+    {
       "requestid": "2742bc24-64b1-4324-8044-d71a6a9eb694",
       "confidence": "0.7322345",
       "timestamp": 450.68,
       "content": "this past year start of been serving at the community fellow for the wikimedia foundation she's been working on the gender imbalance she's trying to get more women in both my hosting meet up like this one not too long ago in oakley",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "8a1f4394-609d-44d8-b5f5-66dd718aa926"
     },
-    "465.11": {
+    {
       "requestid": "7e93b2e2-a127-42f3-99b4-5c1c0cc5be30",
       "confidence": "0.5703716",
       "timestamp": 465.11,
       "content": "got anybody I have any missions golden mind I'm taking my shoes off and get to eagle pines and then you right",
-      "speaker": "S67"
+      "speaker": "S67",
+      "uuid": "dda8d1fd-40f0-4bab-98dc-4138ad481c70"
     },
-    "473.98": {
+    {
       "requestid": "164a19d4-7f4a-4e91-87c5-4b88a60919a2",
       "confidence": "0.7781138",
       "timestamp": 473.98,
       "content": "references you're making the reference section basically",
-      "speaker": "S67"
+      "speaker": "S67",
+      "uuid": "18b49874-e3d2-4878-89c6-0cd82454f0cb"
     },
-    "476.86": {
+    {
       "requestid": "d1a75013-0fb2-41e1-815b-8e42273d24cb",
       "confidence": "0.5616464",
       "timestamp": 476.86,
       "content": "how do I need to know and I'm about to make my first article",
-      "speaker": "S296"
+      "speaker": "S296",
+      "uuid": "51fcacfd-bdec-4b42-bcd0-93aab3da6e46"
     },
-    "485.93": {
+    {
       "requestid": "5472bca5-bbd8-40b9-be00-faf979f1ddab",
       "confidence": "0.7625742",
       "timestamp": 485.93,
       "content": "but why are women so underrepresented on wicca pedia especially when that's not the case another pic sites like facebook and twitter",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "b8c5ddb2-60b1-420f-9959-e4846b14a3d9"
     },
-    "493.36": {
+    {
       "requestid": "2a55f688-1d87-4acc-81ab-5c8a01b2c05b",
       "confidence": "0.713969",
       "timestamp": 493.36,
       "content": "john riddell says that the wicca pedia imbalance bothers him because",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "15f57ce0-39aa-4c61-96b1-cb873107d1b2"
     },
-    "497.34": {
+    {
       "requestid": "27480c7a-ae6b-47be-a176-dc95ffd97d5e",
       "confidence": "0.854256",
       "timestamp": 497.34,
       "content": "the 1st place we all go these days is to wicca pedia and it really worries me to think about half of all of humanity been left out of creating this information resource which is the greatest encyclopedia in the history of humanity",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "e4e7632b-c4e4-4522-b6a8-679d54936fe9"
     },
-    "512.83": {
+    {
       "requestid": "28b46dd8-d673-445f-b64e-2e1d89b33678",
       "confidence": "0.768667",
       "timestamp": 512.83,
       "content": "and half of humanities been left out of writing it and we know for fact that that half of humanity is getting short rest",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "9b2d6e96-3e96-4eed-a356-4f0439b0cc17"
     },
-    "522.39": {
+    {
       "requestid": "9ac3215e-539d-4223-bebb-dcc1ae4b5025",
       "confidence": "0.6454818",
       "timestamp": 522.39,
       "content": "it turns out that meant even dominate the wikipedia article that would seem to be of great interest women fair start again there's more trivial subject",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "fdbb3c49-be0e-4ba0-8a56-ae031ca06a64"
     },
-    "534.09": {
+    {
       "requestid": "35c63354-2139-4f20-8991-03428a2e8add",
       "confidence": "0.4889811",
       "timestamp": 534.09,
       "content": "friendship bracelet and a woman sues in revere measurement",
-      "speaker": "S67"
+      "speaker": "S67",
+      "uuid": "2425f45f-fd7c-4f62-a206-775f954f7b99"
     },
-    "538.49": {
+    {
       "requestid": "5fcd0ccd-4699-4062-8eac-bab7f0d16935",
       "confidence": "0.910014",
       "timestamp": 538.49,
       "content": "oh wow this is not what it should be",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "0177308f-004e-4896-84ec-71da35bb0c85"
     },
-    "542.29": {
+    {
       "requestid": "aa75bf5c-7796-4949-9061-c8108c00723d",
       "confidence": "0.8099635",
       "timestamp": 542.29,
       "content": "but then there are the things that women know the most about next to our doctors to say pregnancy abortion I just looked at me",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "c096259c-1261-4dba-8e8b-f9c59020c98e"
     },
-    "550.7": {
+    {
       "requestid": "1705ee34-203f-4f7e-88e2-e195b5e34de3",
       "confidence": "0.2776894",
       "timestamp": 550.7,
       "content": "carriage",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "3da5a375-de62-42bf-a5df-386d11cfa065"
     },
-    "557.26": {
+    {
       "requestid": "d90d3ec0-8d7b-4e84-8cf3-a46ddfd12ef9",
       "confidence": "0.6030816",
       "timestamp": 557.26,
       "content": "dude articled ermalee written by men and their content of subject obina pregnancy yes the content of subject",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "991ada44-4939-4345-878f-c7cb8dcb70bc"
     },
-    "564.59": {
+    {
       "requestid": "d7a13ab5-5572-48dd-b54f-2301c595c401",
       "confidence": "0.7948046",
       "timestamp": 564.59,
       "content": "so that seems odd especially because when in for american doctors is female along with have to medical school population so why aren't women editing wikipedia",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "86986bef-5b20-4735-a3a1-999bfc30e240"
     },
-    "576.56": {
+    {
       "requestid": "1891842e-9b1d-4278-8efc-b7d05de97f81",
       "confidence": "0.682395",
       "timestamp": 576.56,
       "content": "when I've spoken with women around the world",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "0a348d8a-711e-44f4-b67a-9658af570915"
     },
-    "578.89": {
+    {
       "requestid": "e4eefcdf-36e6-4a3a-9d36-248bf3e468af",
       "confidence": "0.8674449",
       "timestamp": 578.89,
       "content": "the biggest reason I'm here is often I don't have time",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "dcd5d162-b172-47b2-a06f-8525b4d18dad"
     },
-    "582.47": {
+    {
       "requestid": "09633a55-aa66-4606-8366-86373b6f2152",
       "confidence": "0.7292867",
       "timestamp": 582.47,
       "content": "and that we can treat anemia get it III just wrapped up a full time after is working 2 jobs in oh I'm busy um people who have children you know were all busy people",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "adbea56c-45a6-4d67-8fd5-12467971b7b6"
     },
-    "593.63": {
+    {
       "requestid": "1d68c3f8-6b34-4c2b-bdf4-b2ed738b8027",
       "confidence": "0.8116341",
       "timestamp": 593.63,
       "content": "men do in fact typically have more daily leisure time for women in the us it's about 40 minutes a day and women tend to do more housework so maybe that's taking up your time with john riddle has another explanation",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "b9476dde-9f32-4dff-bb81-ddd09a2d3fdf"
     },
-    "607.63": {
+    {
       "requestid": "151e3c03-ec25-423d-aad0-264ac2a9b539",
       "confidence": "0.8126386",
       "timestamp": 607.63,
       "content": "we know from a bunch of psychology studies that women tend to be made more uncomfort a bowl by conflict than men are made uncomparable by conflict",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "e46316b3-3084-4284-85ec-a6ff935e344f"
     },
-    "617.17": {
+    {
       "requestid": "25e393d3-3289-4496-ad5f-eaad43a50068",
       "confidence": "0.8601888",
       "timestamp": 617.17,
       "content": "I'm so one of the ideas is maybe in wicca pedia where the fundamental nature of the site is that if you want to correct with someone else is done the way you do that is you delete it and write them I really mean message",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "d4069f96-c186-4d56-81e1-fd7b9a579f5e"
     },
-    "631.43": {
+    {
       "requestid": "2e558460-d669-4213-8cbe-43b66ea1e912",
       "confidence": "0.8226175",
       "timestamp": 631.43,
       "content": "well maybe that's creating a cultural conflict that is driving woman a way that they just don't find a place that they enjoy being in so they go places with are happier",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "27420061-2196-42d8-bc91-7d3c99ec08a5"
     },
-    "640.87": {
+    {
       "requestid": "2293b69e-acb4-47c9-a47a-43084b894e19",
       "confidence": "0.8538711",
       "timestamp": 640.87,
       "content": "I remember you told me that they were some backlash to your report",
-      "speaker": "S52"
+      "speaker": "S52",
+      "uuid": "e5d68396-9da7-40c8-8753-155b4f90187d"
     },
-    "646.07": {
+    {
       "requestid": "371b25b6-a08b-49d2-ac6f-0ac12de1fa98",
       "confidence": "0.8185508",
       "timestamp": 646.07,
       "content": "yeah when we put the report out one of the things we know this is a bunch of bloggers all mail we should say came out and said well like this is a waste of time no one needs to be told that there are women editing wicca pedia",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "c5a34e29-4c67-4b60-a63e-d80443bbe6ef"
     },
-    "660.38": {
+    {
       "requestid": "5c00fd44-95cb-4108-a9bf-429bb349b3e5",
       "confidence": "0.8224561",
       "timestamp": 660.38,
       "content": "they are they should just suck it up and be tougher than and come in and join or no technological limitations",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "041b6a32-4406-4d9a-961c-af9db237fb62"
     },
-    "666.64": {
+    {
       "requestid": "d1e369a3-61c9-4c00-b7a0-d020214cd1fd",
       "confidence": "0.7822291",
       "timestamp": 666.64,
       "content": "and so it's their fault for not participating more",
-      "speaker": "S57"
+      "speaker": "S57",
+      "uuid": "fdcb803e-e508-4215-8caf-66a546cb1be2"
     },
-    "676.22": {
+    {
       "requestid": "a29c8d06-03a4-4ea8-99bb-d9efd528473e",
       "confidence": "0.6140984",
       "timestamp": 676.22,
       "content": "burritos does there something else built into the structure in eaters of wicca pedia that might be discouraging women",
-      "speaker": "S101"
+      "speaker": "S101",
+      "uuid": "90372cb8-13b0-4be8-a375-3f5b7866a160"
     },
-    "682.76": {
+    {
       "requestid": "8552683d-c4f0-4ed9-921d-38fa5def2306",
       "confidence": "0.8830357",
       "timestamp": 682.76,
       "content": "it's not a model that everybody has to agree on the content of any one piece of information on facebook",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "19618495-d83f-4728-ae71-38cf5782d665"
     },
-    "690.39": {
+    {
       "requestid": "390ab8bc-cee4-4244-8c38-8a50307193eb",
       "confidence": "0.7588173",
       "timestamp": 690.39,
       "content": "and I think that on wikipedia by contractors this very different ektos which is the job of the community is to make sure that these articles are as high quality is they can I think that's a very good thing",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "6a15ade7-e61f-4d5b-9e18-8e8062c8c489"
     },
-    "703.16": {
+    {
       "requestid": "02c506f2-8d76-49f6-b7fc-7f208990d4d3",
       "confidence": "0.7779817",
       "timestamp": 703.16,
       "content": "and the way we get there is we delete each others work when we don't like it and that creates a lot of very different style of sight a place where people are constantly being engaged by other people rejecting my work",
-      "speaker": "S102"
+      "speaker": "S102",
+      "uuid": "e3aaf0b3-1f2c-4cc1-8d68-35206fb20ed8"
     },
-    "720.43": {
+    {
       "requestid": "f88c6fd1-c992-43cc-94d3-f1237cff5fb6",
       "confidence": "0.4029923",
       "timestamp": 720.43,
       "content": "I'm not super duty van halen",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "a3ba8de3-be94-4162-8488-f8e7822c5ffd"
     },
-    "722.93": {
+    {
       "requestid": "feae9dbe-e0ae-487c-8f90-d99e13e2b702",
       "confidence": "0.5226411",
       "timestamp": 722.93,
       "content": "oh my that's why did not as bright",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "b9ba6623-b158-4a89-9a86-84caf9d2dde5"
     },
-    "727.06": {
+    {
       "requestid": "be9f58dd-48b5-49d0-a4c6-f4341f26db1a",
       "confidence": "0.4683018",
       "timestamp": 727.06,
       "content": "who are the other people they let you know how it goes",
-      "speaker": "S108"
+      "speaker": "S108",
+      "uuid": "21b55b8a-4aa2-4577-af82-92102eb30d16"
     },
-    "736.61": {
+    {
       "requestid": "c081d50d-1cf9-4892-b3d7-680d898e869e",
       "timestamp": 736.61,
-      "content": ""
+      "content": "",
+      "uuid": "0cffc585-df1f-4b8f-889d-dc2e37588777"
     },
-    "740.55": {
+    {
       "requestid": "7542a4a6-c906-4e61-adee-1be513b6df9d",
       "timestamp": 740.55,
-      "content": ""
+      "content": "",
+      "uuid": "370450b2-649c-47c4-a2e3-8a4d235bc37a"
     },
-    "744.63": {
+    {
       "requestid": "e023ad36-2be0-4c21-9ac6-c09746268b2a",
       "confidence": "0.7632129",
       "timestamp": 744.63,
       "content": "dajon beatles evidence suggests that women and men may have very different appetite for conflict which might keep some women away from a place like wicca pedia mean to be nice to know if somebody out there head look at this in the context of wool of men and women",
-      "speaker": "S111"
+      "speaker": "S111",
+      "uuid": "23a621bb-1abb-4fa9-a47f-f4a467150023"
     },
-    "763.09": {
+    {
       "requestid": "1dbc6f8e-4356-4596-8973-57942171a809",
       "confidence": "0.8210395",
       "timestamp": 763.09,
       "content": "competing against each other",
-      "speaker": "S113"
+      "speaker": "S113",
+      "uuid": "6ee6369c-ca8e-4778-9c60-6b6ec98ad2bd"
     },
-    "765.97": {
+    {
       "requestid": "59c4f9b3-6fb0-409d-88db-0b6167f60b6e",
       "confidence": "0.6077982",
       "timestamp": 765.97,
       "content": "will look to competitiveness there you go that corey can using imovie knizia I'ma be over the konomi stidda rady school of management in uc san diego",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "087f964d-ad93-4c83-a7ab-70e5282bca95"
     },
-    "776.76": {
+    {
       "requestid": "f5555142-d142-47df-8471-f5ae8bf1a515",
       "confidence": "0.5884672",
       "timestamp": 776.76,
       "content": "my main research interest is around incentives no idea fact people in gender differences some deception anything that someone can find interesting freakonomics producers susie lechtenberg has a story",
-      "speaker": "S114"
+      "speaker": "S114",
+      "uuid": "62c9a6e0-45d3-4e22-a6d6-f72c4a60bb7f"
     },
-    "793.77": {
+    {
       "requestid": "78ca5732-1829-480c-92d5-008ff6260b1f",
       "timestamp": 793.77,
-      "content": ""
+      "content": "",
+      "uuid": "526aa446-9abb-41dc-b672-1ddb6e8d5f7b"
     },
-    "796.23": {
+    {
       "requestid": "abf80e03-1d32-45c8-956a-43de73f1b065",
       "confidence": "0.7249475",
       "timestamp": 796.23,
       "content": "aurecon easy had 3 kids 2 girls and a boy",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "104b727a-3e7a-4fce-a254-1ee926a8b406"
     },
-    "799.83": {
+    {
       "requestid": "2c4a2d3e-3f81-473a-bfa1-0d85d304cce5",
       "confidence": "0.7476172",
       "timestamp": 799.83,
       "content": "we really tried to raise them in the gender neutral environment so we bought our daughters dogs eat rocks and they were very happy they put the dogs in the truck so the truck was used do you know is the stand in my son was also very happy to get the doggie smashed into the wall and you know random over with the car",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "657f91c8-6755-47a1-ac4d-7cf67cd80c6c"
     },
-    "818.25": {
+    {
       "requestid": "397e3c94-7be8-4856-bdd5-3298b57f8636",
       "timestamp": 818.25,
-      "content": ""
+      "content": "",
+      "uuid": "6b884f57-1398-46eb-b6c4-b0ddff694736"
     },
-    "821.83": {
+    {
       "requestid": "fc82f6b5-4685-4a3b-8766-223c397f5daf",
       "confidence": "0.638854",
       "timestamp": 821.83,
       "content": "but it was unclear tognazzi how much of that in their differences nature and how much is nurtured",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "a6e71182-05e2-48fd-9aae-40d2edc4d210"
     },
-    "827.12": {
+    {
       "requestid": "cfb960e9-43f0-4a42-8614-1ebadda6dbb5",
       "confidence": "0.6748098",
       "timestamp": 827.12,
       "content": "when we drove back from the hospital with the baby I drove in my wife's at the near the baby social series action starts you know why does the door when you leave the hospital when the baby is few days old and it's almost impossible to disentangle dates from actual behavior",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "97b13915-2b6f-42a7-9e2c-3fb3b832e848"
     },
-    "844.8": {
+    {
       "requestid": "bad6dba2-0a31-46b7-b005-2ef36d5b9875",
       "confidence": "0.7545682",
       "timestamp": 844.8,
       "content": "can you maybe get to think about the salary gap between women and men is well known that women turn left the labor department said about 82 cents for every dollar menert but why",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "54ae304b-726b-4bc3-bbbc-f045e41a6d7b"
     },
-    "855.9": {
+    {
       "requestid": "9fcfc587-3d1d-4e9b-a6d9-e17c22fe5350",
       "confidence": "0.7260222",
       "timestamp": 855.9,
       "content": "well there's alotta research up there it's just that yes there is discrimination but also that women have different preferences them in and work in and family who is there is another overlooked factor that can help explain the gender gap",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "f537f932-53af-4ca8-aaf9-1c4194bb8266"
     },
-    "869.31": {
+    {
       "requestid": "0822c199-81d6-40f0-8089-c41f11ae3455",
       "confidence": "0.6614257",
       "timestamp": 869.31,
       "content": "we thought that maybe a big and important differences are willing and men and women are to compete and out today react to competitive incentives",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "d4beeb52-dd6b-4a88-a9d4-f8c130412cb8"
     },
-    "879.82": {
+    {
       "requestid": "c745a80a-ed79-4db6-95b3-c0878019d621",
       "confidence": "0.6855071",
       "timestamp": 879.82,
       "content": "potestas men are more competitive linkline kinisi in saint thomas college wanted to do field study they wanted to get away from western society see how much culture is a factor in how competitive we are",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "1340b3cd-c36c-4e09-8fcc-55ccee2fb860"
     },
-    "892.41": {
+    {
       "requestid": "de75e6ed-9e41-41da-88c9-b89a596d7d4d",
       "confidence": "0.5939075",
       "timestamp": 892.41,
       "content": "do you want to go to wilcox is in the real world and see how they behave so we took 2 very extreme catches the first one was the messiah in africa in many times india",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "483dd819-bed8-45fc-9005-8119df93e742"
     },
-    "905.63": {
+    {
       "requestid": "112f0c95-4de8-401e-ac9d-964ae65b1c84",
       "confidence": "0.5600893",
       "timestamp": 905.63,
       "content": "and easy in a group of researchers capitu who shot in tanzania arutiunian the canyon border not far from mount kilimanjaro summary should be fun to travel to massage a massage are cattle herding know man",
-      "speaker": "S135"
+      "speaker": "S135",
+      "uuid": "88cd3a98-908d-4c9d-bb21-ef1530e93e30"
     },
-    "920.6": {
+    {
       "requestid": "2b4a69b9-cfc4-4049-bb02-d6a603d66924",
       "confidence": "0.6074008",
       "timestamp": 920.6,
       "content": "happy b archetypal african tribe with their beaded jewelry in brightly colored robes and of recone says if I kutcher is very unkind to 10",
-      "speaker": "S135"
+      "speaker": "S135",
+      "uuid": "c32487c1-d632-42c4-87ad-1bb19ccd2db5"
     },
-    "932.12": {
+    {
       "requestid": "cc57f19e-e94d-4b69-9967-e761e7ce8b02",
       "confidence": "0.4557147",
       "timestamp": 932.12,
       "content": "messi is the fair extreme patriarchal society in which sheriff yacaman how many",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "d1932cca-5f67-4d96-b71f-c82ea4bd240a"
     },
-    "937.68": {
+    {
       "requestid": "9cb366f5-336b-4268-af3b-be3b3e453478",
       "confidence": "0.6336033",
       "timestamp": 937.68,
       "content": "kids he has he will tell you how many boys events",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "90984fc8-4829-47a5-bee9-0b352a416bf6"
     },
-    "940.88": {
+    {
       "requestid": "118de504-c6a9-4bc8-b6f4-9bd358fedaab",
       "confidence": "0.5900874",
       "timestamp": 940.88,
       "content": "nude women cost about in car was sold are the property of death of their husband if a dog doesn't like why do I keep doing it can be turrican abuser",
-      "speaker": "S141"
+      "speaker": "S141",
+      "uuid": "ae0e1309-24f6-4e9b-b7ca-5271eedcb97d"
     },
-    "953.93": {
+    {
       "requestid": "398b4d6f-b6d0-483c-9d4d-b37489e2bfde",
       "confidence": "0.6729547",
       "timestamp": 953.93,
       "content": "the men are usually in their late twenties to thirties when they marry me off to multiple wives the bride jeneli teen undergo female genital mutilation before marriage I'm in too much of a hard labor is one woman said country is like donkey",
-      "speaker": "S135"
+      "speaker": "S135",
+      "uuid": "a4514135-2e9e-492a-9f8f-0b9cdbee65a7"
     },
-    "970.44": {
+    {
       "requestid": "6232f25f-63e4-422c-bdd5-99e390b61a6e",
       "timestamp": 970.44,
-      "content": ""
+      "content": "",
+      "uuid": "0f90c304-02f1-460e-96dd-fdb43a3f4ce9"
     },
-    "974.53": {
+    {
       "requestid": "4c3b63d0-2500-4632-95b3-a8ec4b326503",
       "confidence": "0.6118011",
       "timestamp": 974.53,
       "content": "we can you dm study competition before I want him some colleagues of people compete tell bing maze on computers he plan to do something similar with messi ixupi having some amazing paper and pen writes the start of things didn't go according to plan the very first messi woman wasn't having it",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "173baf43-286f-485d-b18b-1dc52514d35c"
     },
-    "994.23": {
+    {
       "requestid": "5f432fee-afc1-44fa-a74e-4618a142c104",
       "confidence": "0.7112713",
       "timestamp": 994.23,
       "content": "she said looking 30 I've never held a penny made like I don't see a reason to stop",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "92abdd49-88b8-456d-9748-959708a0ced2"
     },
-    "998.26": {
+    {
       "requestid": "bab8bc73-2aa0-4288-a4a5-24862ef7ade4",
       "confidence": "0.6013172",
       "timestamp": 998.26,
       "content": "clearly we need a plan b",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "2376dfff-5c8d-48b7-b1c5-3efaa92efa55"
     },
-    "1002.37": {
+    {
       "requestid": "a34af725-93d9-4c07-9dbe-34558b640125",
       "confidence": "0.6719477",
       "timestamp": 1002.37,
       "content": "the wooden maze that we came up with was the next solution",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "73c54608-39c9-474c-85c9-fd9d0adc9d95"
     },
-    "1006.25": {
+    {
       "requestid": "df86fadd-6ad6-4b9b-b1b0-40accc089737",
       "confidence": "0.6556376",
       "timestamp": 1006.25,
       "content": "basement 12 hours building in may that of salvaged wood",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "38240df0-13a3-46a7-b1d2-fcf8ab952043"
     },
-    "1009.62": {
+    {
       "requestid": "d72068db-db7e-476d-8093-067fb8c89d0e",
       "confidence": "0.6611663",
       "timestamp": 1009.62,
       "content": "but I'm not a very good carpenter in mattinata carpenter put that would've been really bad",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "3040447a-987b-41e5-8ddd-c7a1fcb1c916"
     },
-    "1014.37": {
+    {
       "requestid": "d7cbcf04-f1f1-4cd1-a894-d217c56e6208",
       "confidence": "0.682595",
       "timestamp": 1014.37,
       "content": "and were you able to solve your own made no no no we get a mistake it was on sale for boat",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "f6c3c3e9-0599-428f-b929-ab0ccae1091e"
     },
-    "1020.82": {
+    {
       "requestid": "56bbe960-4a9e-4f89-8b43-842b8467bc25",
       "confidence": "0.6786546",
       "timestamp": 1020.82,
       "content": "so this was a little bit stressful here the reporters were 10000 miles from home",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "291f4ecc-2b6e-4b84-8aef-80ca625414a8"
     },
-    "1026.15": {
+    {
       "requestid": "40d14622-204e-4f24-99b9-e3a975611b61",
       "confidence": "0.6784556",
       "timestamp": 1026.15,
       "content": "we have hundreds of people waiting for us in the field and we don't ever talk on the way to doctor lacy play tennis balls in the box know who would have imagined that tenaru she will see tennis balls in the back in the store but they did",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "73eba3c1-f7ed-41cb-a806-c58ef194c5b4"
     },
-    "1040.79": {
+    {
       "requestid": "c0dfcee3-031f-42ed-b04c-facef9f92471",
       "confidence": "0.583934",
       "timestamp": 1040.79,
       "content": "I even bought in those tennis balls in the back if it turned out to be a perfect <profanity>ass</profanity>",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "a3582208-49fb-4dd9-b1cf-6bb6dbac357f"
     },
-    "1051.91": {
+    {
       "requestid": "e698ea70-3389-4e3d-8336-ac529a78ef59",
       "confidence": "0.7258935",
       "timestamp": 1051.91,
       "content": "this is what they have people do for december apatoff a tennis ball underhanded into a bucket about 10 feet away they had 10 chances a rematch with another unidentified person playing the same game on the other side of boat",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "8ed5b92c-e4e8-4419-8b00-4bef579a4f57"
     },
-    "1065.97": {
+    {
       "requestid": "1d84fb11-e952-42eb-b323-767ad6132c7e",
       "confidence": "0.5650423",
       "timestamp": 1065.97,
       "content": "dex permenter explain to them that afnorth find bowling pick up <profanity>fucker</profanity> in boston is a simple question do you want to be paid say $1 for every success by the dollar back it was equivalent to bed or you can be paid $3 for every success that you have every ball that lands in the doctor",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "ded08858-1b44-4eda-88f9-1841f086fda0"
     },
-    "1086.8": {
+    {
       "requestid": "00fd1cdc-f12e-475b-8b74-24e824b7493c",
       "confidence": "0.7860093",
       "timestamp": 1086.8,
       "content": "but only if you do better than the person behind at the corner",
-      "speaker": "S161"
+      "speaker": "S161",
+      "uuid": "c6dbb1fd-76bc-42fa-aa86-ddcd2a0b49d2"
     },
-    "1093.06": {
+    {
       "requestid": "105aec5c-f3e7-40e3-b156-6e206b71f4cf",
       "confidence": "0.6987232",
       "timestamp": 1093.06,
       "content": "basically if the player picked a more competitive options they can get paid 3 times the amount of money I need for that wasn't long before work gotta run that is cool infocard big deal with americans rappang builders the door tennis balls in the bucket",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "9688847c-1dd5-40c6-b2b0-97b0aeaaba6c"
     },
-    "1107.21": {
+    {
       "requestid": "3a3c8347-4f55-4188-85b4-454216411195",
       "confidence": "0.7546315",
       "timestamp": 1107.21,
       "content": "people came from all over the village to play",
-      "speaker": "S151"
+      "speaker": "S151",
+      "uuid": "db82ca3f-d689-416c-a004-0982e6fea7dc"
     },
-    "1113.62": {
+    {
       "requestid": "ecdbbc34-9ba8-4845-8525-89a602ffe7a2",
       "confidence": "0.6464905",
       "timestamp": 1113.62,
       "content": "many more manceaux to compete 10 women about twice as many men chose to compete in women did which is very much in line with black be observed reneuron can do you ice or in any western society",
-      "speaker": "S150"
+      "speaker": "S150",
+      "uuid": "9e38d026-0432-4d02-bd35-c97022636957"
     },
-    "1128.13": {
+    {
       "requestid": "2c036e7f-4c9b-40be-8aec-a8bb1bb86d8a",
       "confidence": "0.6913034",
       "timestamp": 1128.13,
       "content": "50% of messi mencho is the more competitive option meaning they choose to be paid more money if a more baskets in the person around the corner the women had less appetite for risk 26% of women showing the more competitive option now with me not come as a huge surprise",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "6a7596d4-a66b-4805-8b9e-cb3c426d27ca"
     },
-    "1146.07": {
+    {
       "requestid": "b86fb47a-7e8e-4456-b022-a39b4920df6d",
       "confidence": "0.6774492",
       "timestamp": 1146.07,
       "content": "batman raising an extreme patrecia more competitive than women",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "ccff98eb-842d-4127-8b6a-13b818256f55"
     },
-    "1149.69": {
+    {
       "requestid": "424491a1-ba68-42d8-872a-09439264b596",
       "confidence": "0.7136958",
       "timestamp": 1149.69,
       "content": "so the next up is to go to our apologies friends and ask him what's the other extreme where can we find this site in which women are in charge",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "be9762ba-076f-4c80-bfb1-7910d938491e"
     },
-    "1158.39": {
+    {
       "requestid": "b6eebf2d-df20-49db-a367-d4c1cab80510",
       "confidence": "0.4814847",
       "timestamp": 1158.39,
       "content": "who sang sung ho movies in the ball to send something to the coffee in northeast india a coffee",
-      "speaker": "S175"
+      "speaker": "S175",
+      "uuid": "e530c1d4-edc5-4667-a8e6-44334702d1e1"
     },
-    "1167.41": {
+    {
       "requestid": "fb5c43b5-8525-44e6-a86c-24b66728ee23",
       "confidence": "0.7542496",
       "timestamp": 1167.41,
       "content": "when is the world you matrilineal society with the youngest coffee daughter and her family money and property men move into their wives houses in a merry can children take their mothers family name",
-      "speaker": "S135"
+      "speaker": "S135",
+      "uuid": "08582ffd-b881-4309-99bd-88d10d6e2471"
     },
-    "1178.18": {
+    {
       "requestid": "4a2ef0a8-37b1-4fd3-a7b3-dcd4c735c657",
       "confidence": "0.568557",
       "timestamp": 1178.18,
       "content": "overall my for the coffee women is pretty good",
-      "speaker": "S175"
+      "speaker": "S175",
+      "uuid": "1dac628a-11b7-472f-8f9b-74ebce8ebf47"
     },
-    "1182.71": {
+    {
       "requestid": "17353dbd-a5a5-4545-a39e-bd3a71cd5b57",
       "timestamp": 1182.71,
-      "content": ""
+      "content": "",
+      "uuid": "e03118e1-caeb-4d95-a28e-47cec3c1fa42"
     },
-    "1191.07": {
+    {
       "requestid": "7bfdb351-baa3-42e3-9bd1-1bf3423e38f8",
       "confidence": "0.6996055",
       "timestamp": 1191.07,
       "content": "in the car fuse where do you leave the clearly have the machay erstanden prob be anywhere else in the world do women are in charge do women decide what kind of crops are going to raise their in charge of deciding not to spend money to families money the house with the seasons are there is that they go to the market to sell didem's",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "8430e6b6-a2bd-4bfd-96c1-ff3d4f7b21a5"
     },
-    "1209.63": {
+    {
       "requestid": "5bde7cc7-2041-479c-9309-c395a8a918c9",
       "confidence": "0.753983",
       "timestamp": 1209.63,
       "content": "you know when you go to visit their home they will agree",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "5c54104c-e27a-4165-825e-6437997da196"
     },
-    "1212.13": {
+    {
       "requestid": "ed036010-df39-47de-a137-1e2edb64d6cd",
       "confidence": "0.5476111",
       "timestamp": 1212.13,
       "content": "you and I are just tap used to being considered equal to men",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "f82b45f5-8949-4f3f-8c83-1ac920d25bb6"
     },
-    "1219.18": {
+    {
       "requestid": "20945625-d000-41cd-bd44-f403a845f4e9",
       "confidence": "0.717655",
       "timestamp": 1219.18,
       "content": "do do do do do do do the coffee holder really rainy the region holds the world record for the most annual rainfall is there something open you do about the place but oregon easy noticed when he arrives",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "a49e8062-6a2e-483e-813d-df9853b7f273"
     },
-    "1231.36": {
+    {
       "requestid": "414ce348-781a-4cac-81ef-17aeea3d2553",
       "confidence": "0.7316048",
       "timestamp": 1231.36,
       "content": "is it gonna miss the truck to quantify everything I'm trying to say but they are 97 or something like that you can I don't know how to do that but they would just the feeling was very nice we walked around in the night and day middle of the rice fields and people are just nice to each other",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "9df17b92-7668-401e-acb0-76dd1403ab0a"
     },
-    "1247.59": {
+    {
       "requestid": "6e2a4d6e-c257-475c-9bc9-3974d3cd8f04",
       "confidence": "0.9086104",
       "timestamp": 1247.59,
       "content": "people are so nice to each other he says",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "45f06a2b-d8c8-498f-b21b-a24cf92a9d3f"
     },
-    "1250.33": {
+    {
       "requestid": "2b3e0726-6f81-4161-9941-a7b276f44da0",
       "confidence": "0.7475426",
       "timestamp": 1250.33,
       "content": "at one point and $60,000 in cash in my suitcase and I left them with the coo coo over there in the in the house that we rented in the village without any warning note that I could've taken the money that's like taking $60 Million for me and disappeared somewhere in india I didn't have to worry about that",
-      "speaker": "S185"
+      "speaker": "S185",
+      "uuid": "13785c5b-5903-4b08-a58e-451018d3100d"
     },
-    "1270.32": {
+    {
       "requestid": "ff79e510-1894-44cd-bcb6-db375488215d",
       "confidence": "0.6793348",
       "timestamp": 1270.32,
       "content": "and so in this place for prize money left untended in a few cases find in the kind is unmeasurable the study begin",
-      "speaker": "S184"
+      "speaker": "S184",
+      "uuid": "f9ee28f8-df75-4632-a727-3297eb146926"
     },
-    "1280.09": {
+    {
       "requestid": "fa78c99b-4d1b-4b62-88ab-ecd2e9711640",
       "confidence": "0.7073826",
       "timestamp": 1280.09,
       "content": "same experiment as we did with them aside everything is the same way to the same back at the same balls from tanzania all the way to india",
-      "speaker": "S191"
+      "speaker": "S191",
+      "uuid": "84e64a89-0bc6-481e-b76d-3b545e75e1a6"
     },
-    "1288.09": {
+    {
       "requestid": "f9ff3511-2406-40f3-bf02-72ba9f12f049",
       "confidence": "0.6389747",
       "timestamp": 1288.09,
       "content": "they started with 2 opposing hypostases the first one is that carter is not really important it's the same story is my kids and I'll go but we are born differently and we just react with his daughter and if I posted this is dad win",
-      "speaker": "S191"
+      "speaker": "S191",
+      "uuid": "95437e67-dc17-43ee-91ea-27b5feca06c5"
     },
-    "1303.2": {
+    {
       "requestid": "a667340d-5fbd-40e5-846d-ad13268948d1",
       "confidence": "0.6583927",
       "timestamp": 1303.2,
       "content": "women o'brock in a culture in which dealing with money",
-      "speaker": "S119"
+      "speaker": "S119",
+      "uuid": "c9846a7a-a83f-41c9-84ff-afa08d690393"
     },
-    "1306.58": {
+    {
       "requestid": "bad67364-66b6-4edb-9299-662572845d5e",
       "confidence": "0.718102",
       "timestamp": 1306.58,
       "content": "making decisions is part of the daily routine and that's why do you observe his girls",
-      "speaker": "S195"
+      "speaker": "S195",
+      "uuid": "2409362d-3a0b-4c0d-918b-093c3f6b9913"
     },
-    "1311.99": {
+    {
       "requestid": "6803b484-81a7-4d0b-8d1f-6686d33fe020",
       "confidence": "0.5379301",
       "timestamp": 1311.99,
       "content": "there going to be just as competitive",
-      "speaker": "S195"
+      "speaker": "S195",
+      "uuid": "86e46dae-3d2b-43e6-839d-5ed26231f337"
     },
-    "1317.43": {
+    {
       "requestid": "209ce759-c1b1-4a48-8e21-c8a48ae08afc",
       "confidence": "0.7001331",
       "timestamp": 1317.43,
       "content": "and that's what we found we found that culture was extremely important",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "b66a558e-05a4-4559-bb23-c543ee93e6c8"
     },
-    "1323.04": {
+    {
       "requestid": "53b56bbf-5298-44c9-b9b3-240b6c21a17d",
       "confidence": "0.7979182",
       "timestamp": 1323.04,
       "content": "before we delve into the result remember how the game works where is the 2 options they can get paid x amount for every time they made a basket or I could pick the more competitive option I get paid 3 times the amount if they did better than their non massaponax so how did the coffee people do",
-      "speaker": "S122"
+      "speaker": "S122",
+      "uuid": "6fd54b87-e06b-4d2b-87db-628163f9e18f"
     },
-    "1340.52": {
+    {
       "requestid": "ff27a7b2-8e82-4082-9e31-0723cd91a33b",
       "confidence": "0.8438317",
       "timestamp": 1340.52,
       "content": "54% of coffee women picked a more competitive option 39% of coffee men made the same choice",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "0d1d0dc8-fe81-4cac-8c1c-aef887e2f41e"
     },
-    "1348.63": {
+    {
       "requestid": "25bb19c9-6a77-4117-ba27-94ead8d5857a",
       "confidence": "0.7648793",
       "timestamp": 1348.63,
       "content": "coffee women are more likely to choose to compete but even the super patriarcal mysimon we heard about earlier",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "68bf80aa-748d-460a-ad97-f9f96e4cef29"
     },
-    "1355.41": {
+    {
       "requestid": "a01bebe5-017b-4add-ba4b-1c13a00191d3",
       "confidence": "0.6931521",
       "timestamp": 1355.41,
       "content": "sitting pic ations are clear it's not that many women are not born differently",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "4b5fbc72-3938-460a-8ef4-7a7ce4de50f8"
     },
-    "1359.93": {
+    {
       "requestid": "b67d5086-4bac-4a5e-aecb-31ee78996e5a",
       "confidence": "0.7763792",
       "timestamp": 1359.93,
       "content": "I'm sure they are and then you can come up with good evolutionary stories why men are more competitive than women",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "b98cced5-54fd-42bb-9924-7c4ca4db2520"
     },
-    "1365.93": {
+    {
       "requestid": "0f38d7ad-a194-4b38-bf6b-367a55f553e0",
       "confidence": "0.7249546",
       "timestamp": 1365.93,
       "content": "what we showed is dead that's not the only factor that goes in which again is not a big surprise but the other factor the country so big can be so big that you can just overturn the result so if you grow up in a matrilineal society",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "5906d0e3-5f74-4702-8e7c-0741968c343b"
     },
-    "1380.65": {
+    {
       "requestid": "dbfdf4e9-0e39-454f-934f-3c985d9c90d5",
       "confidence": "0.7458527",
       "timestamp": 1380.65,
       "content": "women are actually more competitive than men so we can complete the override any evolutionary explanation any nature kind of reason that you could be that big",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "2df4a4a1-5621-4156-b707-e279992de385"
     },
-    "1393.46": {
+    {
       "requestid": "8f01b36b-d086-4a99-bda8-9b43150a3f75",
       "confidence": "0.6804132",
       "timestamp": 1393.46,
       "content": "and I think that that's that's the main result of this study that either I conferment women are going to be just as competitive as bad",
-      "speaker": "S195"
+      "speaker": "S195",
+      "uuid": "dc3792ef-6747-4fb1-b032-cb4d7f1050ea"
     },
-    "1402.19": {
+    {
       "requestid": "d9e402e6-a4b1-4c90-9c69-dfca44987c18",
       "confidence": "0.5273547",
       "timestamp": 1402.19,
       "content": "in other words of oregon easy and his co author john l'effet nurture is king",
-      "speaker": "S147"
+      "speaker": "S147",
+      "uuid": "7fc61dc5-b278-45cd-abcc-7851440cb96a"
     },
-    "1408.36": {
+    {
       "requestid": "146e93a4-0338-427d-9849-e32fd69d3e76",
       "confidence": "0.7327858",
       "timestamp": 1408.36,
       "content": "or in this case nurtures clean so what's the solution how do we begin tarri socialize are girls in ibiza is not so fast",
-      "speaker": "S118"
+      "speaker": "S118",
+      "uuid": "f4330a94-ceae-48b7-899a-67c7926b48b5"
     },
-    "1419.29": {
+    {
       "requestid": "4b3ea433-42e5-468b-84f1-9ddbe7f807f9",
       "confidence": "0.7008074",
       "timestamp": 1419.29,
       "content": "I'm not convinced for example if they want my daughters to be more competitive I'm not sure that that's actually good maybe we should concentrate on making boys less competitive",
-      "speaker": "S183"
+      "speaker": "S183",
+      "uuid": "08061ece-bd1a-43bd-911d-a1331d7ee03a"
     },
-    "1440.06": {
+    {
       "requestid": "d297b060-a750-473e-abdd-62c9511101d9",
       "confidence": "0.7148862",
       "timestamp": 1440.06,
       "content": "coming up on 3 can I mix radio we take a look at something to do with this happened to women's",
-      "speaker": "S212"
+      "speaker": "S212",
+      "uuid": "6238ef26-8bd3-45e5-8b2a-1586237953ca"
     },
-    "1446.72": {
+    {
       "requestid": "a4e9de15-6701-4d97-876d-90209b927559",
       "confidence": "0.4786989",
       "timestamp": 1446.72,
       "content": "why percefull",
-      "speaker": "S212"
+      "speaker": "S212",
+      "uuid": "34ed573e-921a-4ced-b3b3-92ce8741f316"
     },
-    "1448.55": {
+    {
       "requestid": "952d380f-b712-4b5c-b73a-fee0e5d561f2",
       "confidence": "0.5169972",
       "timestamp": 1448.55,
       "content": "wecota paradox because we know nothing",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "9678558a-46a6-41a1-a4eb-7f5b720badfe"
     },
-    "1452.98": {
+    {
       "requestid": "742d0ff6-423f-41ef-a801-dffc379b67d1",
       "confidence": "0.7233542",
       "timestamp": 1452.98,
       "content": "if you're rooting for women in men to become totally and completely eat should you root for women to come",
-      "speaker": "S212"
+      "speaker": "S212",
+      "uuid": "b8e5f0e2-2efa-420c-b651-760a8cb82021"
     },
-    "1460.82": {
+    {
       "requestid": "2958c423-51f3-4ab3-921b-4f3cf7688b92",
       "confidence": "0.7503605",
       "timestamp": 1460.82,
       "content": "war crimes they look at all different types of crime bad",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "bbcaf74f-b79b-465c-98ef-b807d9fc230d"
     },
-    "1464.25": {
+    {
       "requestid": "bdf98f0c-f032-4243-ba17-151acbd78f97",
       "confidence": "0.8227148",
       "timestamp": 1464.25,
       "content": "police enforce 75 to 80% of those offenders your mail",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "90105817-40d1-426f-8b4d-58242c244e8c"
     },
-    "1476.37": {
+    {
       "requestid": "193107e3-de77-4e33-9336-be6cbee3c020",
       "confidence": "0.1443369",
       "timestamp": 1476.37,
       "content": "and then",
-      "speaker": "S218"
+      "speaker": "S218",
+      "uuid": "3c49edc1-1bac-47eb-b0ae-0f418ed66d4d"
     },
-    "1484.53": {
+    {
       "requestid": "af1ec8e6-1523-4950-ba4d-4307fb319837",
       "timestamp": 1484.53,
-      "content": ""
+      "content": "",
+      "uuid": "c2d621b1-4195-4d9d-841e-718bd1d6d834"
     },
-    "1487.77": {
+    {
       "requestid": "c861838b-4bdb-4c73-addf-d51681e24c4b",
       "confidence": "0.7874916",
       "timestamp": 1487.77,
       "content": "from wmic this is freakonomics radio here's your host stephen dubner",
-      "speaker": "S219"
+      "speaker": "S219",
+      "uuid": "196d00c0-c309-4c56-bf81-c3855b8f344d"
     },
-    "1495.81": {
+    {
       "requestid": "19ab5975-2ffd-40f8-9cf2-e23233a53fb4",
       "timestamp": 1495.81,
-      "content": ""
+      "content": "",
+      "uuid": "88a7cd51-8c55-47fe-94a5-1346d885b297"
     },
-    "1505.45": {
+    {
       "requestid": "67495064-fb5c-4974-938f-baeed147f02b",
       "confidence": "0.6391175",
       "timestamp": 1505.45,
       "content": "today's program is called women not men know about a million ways to think about that simple 7000000 ways are you with it when I try to start an argument we are just trying to look at the data show differences between men and women try",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "56588f53-42d0-42af-8412-7627e4c96e72"
     },
-    "1522.59": {
+    {
       "requestid": "636b363d-35cb-4a1d-9b2d-bb291c7b1d95",
       "confidence": "0.6924389",
       "timestamp": 1522.59,
       "content": "figure out why those differences exist how meaningful they are",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "870c9b12-9ea7-47aa-ba14-eab35a07288a"
     },
-    "1526.28": {
+    {
       "requestid": "46a771ce-e976-4c39-96ba-8b8e71d56ec8",
       "confidence": "0.7164413",
       "timestamp": 1526.28,
       "content": "what you need to know if this next door and there's a lot of research that I've income per capita is generally more money into higher level of happiness and well being",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "d83bdf21-a066-4527-bec6-447fea8f96aa"
     },
-    "1537.06": {
+    {
       "requestid": "43dc3f66-a789-4ee4-a63f-f72fc654efc2",
       "confidence": "0.6910884",
       "timestamp": 1537.06,
       "content": "where the past 30 years women have made big gains in education in the workforce which means you're making more money than ever before in so I think it goes women should also be happier channel",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "c4efb2d7-ebcf-4150-b7a1-0e5fe023931d"
     },
-    "1552.7": {
+    {
       "requestid": "a65abcbe-4993-4493-9b53-f45f224f73bd",
       "confidence": "0.7211016",
       "timestamp": 1552.7,
       "content": "betty stevenson is inconnus to shuttles between university and government jobs",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "9e95329c-cc62-40a1-8475-384e2ea6d634"
     },
-    "1557.89": {
+    {
       "requestid": "42fdd49a-06c7-4cdb-8b80-af4261088a97",
       "confidence": "0.6991997",
       "timestamp": 1557.89,
       "content": "along with justin wolfers for domestic partner and fellow akana's stevenson wrote a paper exploring female",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "b50bca0a-caaa-482d-beed-a67892862c09"
     },
-    "1565.95": {
+    {
       "requestid": "fe278d1a-bfa7-4767-bd9b-37c4f4289244",
       "confidence": "0.7685164",
       "timestamp": 1565.95,
       "content": "women are reporting life satisfaction levels that are lower than they were in 1970 now there's a couple things to know what is it women told us that they were happy with their lives in the 70s him anymore",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "b210c416-7ce7-4584-b8f7-f4ad3a466670"
     },
-    "1581.39": {
+    {
       "requestid": "f1a2665c-6b5a-423d-8ec5-87e379d62e0d",
       "confidence": "0.7777662",
       "timestamp": 1581.39,
       "content": "so we had a happiness gap in the 70s wear women reported greater well being than men",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "ffbd63dc-c375-47b6-9f5f-943eb81e4dc5"
     },
-    "1589.34": {
+    {
       "requestid": "70a3e55e-5ace-4751-b337-6eb7f127c918",
       "confidence": "0.8019332",
       "timestamp": 1589.34,
       "content": "in what we have now is a new cap",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "12d05bcb-3790-4a2b-ad58-ae3ce383e76b"
     },
-    "1591.95": {
+    {
       "requestid": "c4e1d69b-78f2-409c-a572-bfd9c2ffbdfe",
       "confidence": "0.6313896",
       "timestamp": 1591.95,
       "content": "where men report crater life satisfaction 10 women at the manga tutear aren't huge",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "8ed86f79-0f18-42d0-a457-f94e23b44049"
     },
-    "1598.76": {
+    {
       "requestid": "686d41e4-a10e-47b4-a1fd-06a3147ecf01",
       "confidence": "0.8363426",
       "timestamp": 1598.76,
       "content": "but it's the fact that the directional shift is exact opposite of what we would have expected given that it's women's lives that have really become more expensive more options in the greater ability for them to choose the type of life that would make them bestar",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "aa6f712f-b5ec-4630-86e9-60e623fa6899"
     },
-    "1616.05": {
+    {
       "requestid": "80f6e8d5-6deb-4512-9fb4-67903317f00b",
       "confidence": "0.732507",
       "timestamp": 1616.05,
       "content": "sahad how do you explain it betsy I'm in women were given a larger choice at which economist elasmar joyce it's 2 degree a really good women were given an accomplished",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "cc91bb84-f0c4-4775-a305-c01bcf76df6e"
     },
-    "1628.13": {
+    {
       "requestid": "46470a7e-4183-49c3-a644-3688a2650049",
       "confidence": "0.8512103",
       "timestamp": 1628.13,
       "content": "in a lot of other areas that we would associate with you know benefits of different kinds financial benefits like it benefits and salon how do you account for the decline how do you count for the paradox what are the mechanisms by which a paradox exists",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "349c0ed8-7512-4fbe-b2e7-7392e4a92821"
     },
-    "1642.63": {
+    {
       "requestid": "853c14d7-14fb-4828-aaea-56fee24a56f3",
       "confidence": "0.5631632",
       "timestamp": 1642.63,
       "content": "liutprand hope wecota paradox because we don't know the answer that's what we found was this decline",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "ab92d4fc-0d92-4028-82b5-fd320ee89e6e"
     },
-    "1650.35": {
+    {
       "requestid": "050f5837-ca5c-4eb6-bacf-2373cfc0795c",
       "confidence": "0.7697693",
       "timestamp": 1650.35,
       "content": "in women's well being relative to man I was seeing nachison the united states but was seen in europe on it was seen in every country were we were able to get um a long enough time period be able to look at several decades of a trans and well being",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "fa9f4120-7ce7-4d34-a861-ca992d3ce8ea"
     },
-    "1666.79": {
+    {
       "requestid": "66399b47-3025-4c56-89be-bae29a66a0f6",
       "confidence": "0.7788647",
       "timestamp": 1666.79,
       "content": "and it is the curtain countries where the games for women different substantially so I know lot of people would like to say oh well this just goes to show that the women entering the labor force is been very on a difficult for the nanites reduce their well being",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "a5a1b55e-c277-4f7f-87c6-f093fb838b84"
     },
-    "1684.15": {
+    {
       "requestid": "0706719b-98d4-4755-83d4-32b65de237c8",
       "confidence": "0.7135396",
       "timestamp": 1684.15,
       "content": "but you are research doesn't make the case because we saw the declines in well being relative to many countries where women had very little change in their labor force participation and similar tide changes in countries are women have very large gains",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "13ee3692-3b90-44f8-b2b7-e973d656bdc7"
     },
-    "1700.33": {
+    {
       "requestid": "e9090cdb-c74f-4534-81b9-d58bbaedc082",
       "confidence": "0.8401353",
       "timestamp": 1700.33,
       "content": "in their labor force participation you",
-      "speaker": "S241"
+      "speaker": "S241",
+      "uuid": "e3495d7d-43bf-42e2-b08b-760639fcafab"
     },
-    "1703.43": {
+    {
       "requestid": "04653954-7e0d-4357-9093-9b16f5de869e",
       "confidence": "0.7815691",
       "timestamp": 1703.43,
       "content": "you do you make a point that um women's happiness declined as they entered the workforce in great in greater numbers and start to earn more money relative to men although still less relativement am in the games for women yielded greater happiness for men arm relative to the women",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "b63d33e2-10f2-41c2-8d51-58392e0b9c05"
     },
-    "1722.19": {
+    {
       "requestid": "a3c3fd1f-0bf8-46fc-9c0d-2ba33326ed24",
       "confidence": "0.9010766",
       "timestamp": 1722.19,
       "content": "could it be in some way that men get happier for whatever reasons because there are more women in the workforce",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "2d757ed9-c376-4130-9e14-8e8137960b9d"
     },
-    "1728.85": {
+    {
       "requestid": "a4e9c890-ae02-4cd1-b201-3f082dca6d46",
       "confidence": "0.7960945",
       "timestamp": 1728.85,
       "content": "will it be clear we put that out is a hypothesis I'm not that there's evidence of that's definitely what's happening in what we know is that the correlation is that",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "23ee1432-14e6-46d6-8ce2-f77a131e2c20"
     },
-    "1741.02": {
+    {
       "requestid": "f720e8da-0bd1-44eb-b036-88329c3e7bf4",
       "confidence": "0.7999933",
       "timestamp": 1741.02,
       "content": "overtime period where women have gained more otonomy more financial power montmarquette power more responsibility and power within their families that is they have become less happy in men have become a slightly at happy hour and",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "18bd4331-cba0-4f22-ba08-0ed736e2431b"
     },
-    "1760.63": {
+    {
       "requestid": "3ff297fa-8cc6-4101-9254-6f1048a1f1e4",
       "confidence": "0.7369465",
       "timestamp": 1760.63,
       "content": "so one possibility is it somehow we have this sort of revolution in our lives has actually benefited man more than its benefit women and I are you know",
-      "speaker": "S213"
+      "speaker": "S213",
+      "uuid": "e71a2744-6a5e-4c13-b7b5-c34ccfb722f3"
     },
-    "1770.88": {
+    {
       "requestid": "6dde73d7-3e30-47f4-9a24-ab6cdfe6859f",
       "confidence": "0.6779652",
       "timestamp": 1770.88,
       "content": "this is the comment that as steve let it made to us was of course women to become less happy they're living their lives like men another just as happy as men is not happy",
-      "speaker": "S262"
+      "speaker": "S262",
+      "uuid": "daaa0d10-f9ab-4755-8340-96c5562864e7"
     },
-    "1780.83": {
+    {
       "requestid": "c31d70e1-feaf-48ff-8b09-dc081c7b8680",
       "timestamp": 1780.83,
-      "content": ""
+      "content": "",
+      "uuid": "7d324bcc-8163-4509-82d5-9955cac33079"
     },
-    "1787.81": {
+    {
       "requestid": "68634567-1d79-4cb8-9701-9b4f3b670ea8",
       "confidence": "0.7013267",
       "timestamp": 1787.81,
       "content": "alright subete no offense but this is lil bit depressing so",
-      "speaker": "S221"
+      "speaker": "S221",
+      "uuid": "72d889c7-eea8-409e-a4b3-0398a3d18dce"
     },
-    "1791.74": {
+    {
       "requestid": "3422a654-1587-4e98-b904-8a721449dcc0",
       "confidence": "0.8534512",
       "timestamp": 1791.74,
       "content": "I'm getting any good news or at least advice about what can be done what are some things women can do to recapture or get more happiness in the modern world",
-      "speaker": "S265"
+      "speaker": "S265",
+      "uuid": "ad15d021-9dfa-45a2-8bfb-9c1ee6a56d3d"
     },
-    "1804.24": {
+    {
       "requestid": "d82ca4b8-999a-444e-ba89-a68b4d6f2823",
       "confidence": "0.7745112",
       "timestamp": 1804.24,
       "content": "I'm either way I agree agree with you did the whole conversations a little bit depressing anime I think that they don't try to be maximizers and everything I'm might not lead to the greatest happiness and said trying to figure out what it is that really important to us and letting",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "d9e3a2a5-6b61-4dd0-b3c5-911501ea4756"
     },
-    "1821.38": {
+    {
       "requestid": "402bc8d4-24e8-4c25-9a7e-8afa71bb3104",
       "confidence": "0.7658896",
       "timestamp": 1821.38,
       "content": "other things slide in feeling ok about that feeling like it's ok that I'm doing the thing that's most important to me um or that",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "3ca28ed0-f26d-40cb-8862-e47f98cb8b94"
     },
-    "1831.39": {
+    {
       "requestid": "ff025674-93ba-4b34-8298-4936b3355a4c",
       "confidence": "0.8689188",
       "timestamp": 1831.39,
       "content": "do you know I'm not giving my all at work because I'm splitting my energy between work and my kids and I'm ok with that",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "7ff7e8f6-ddec-4a2e-aa44-24dbf4761395"
     },
-    "1839.23": {
+    {
       "requestid": "c20c916e-3f80-49ab-a175-9e2a8949fc72",
       "confidence": "0.5790104",
       "timestamp": 1839.23,
       "content": "um you know why but I hope too but you're also hesitate to say that there's definitely a problem here",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "6a53c667-fe70-4191-8461-89caf62b93ce"
     },
-    "1846.57": {
+    {
       "requestid": "cba13464-c1f7-45cf-a941-3562c40bf178",
       "confidence": "0.874625",
       "timestamp": 1846.57,
       "content": "what about earning more money though would that be a good idea with the median woman become a bit happier if you were able to earn more money",
-      "speaker": "S236"
+      "speaker": "S236",
+      "uuid": "151ac6e8-d463-4a53-bed6-1eece5512d78"
     },
-    "1853.05": {
+    {
       "requestid": "8b0d623e-1cae-4b00-b0df-bdcb26fed269",
       "confidence": "0.829114",
       "timestamp": 1853.05,
       "content": "I think sometimes she would get a little bit confused about the date on this but what we see really strongly and everyday to take a look at is it richer people are happier than poor people",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "faa369a0-3705-47e3-bb18-6fb14e22a065"
     },
-    "1864.41": {
+    {
       "requestid": "cfb3899b-7fea-431e-9947-f77cc2fd36fb",
       "confidence": "0.807756",
       "timestamp": 1864.41,
       "content": "and what we see is that overtime win countries get richer their citizens get happy hour on average and so women put themselves in positions where they have a greater ability to earn income",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "594abde6-95cd-408a-8ebf-36745dbee2f9"
     },
-    "1879.27": {
+    {
       "requestid": "cca5e070-73d9-4bcf-9a6d-89ca926907ac",
       "confidence": "0.7810388",
       "timestamp": 1879.27,
       "content": "I is really important now it is there is this other thing which I think I should mention which is that often women are underpaid and under paid because they simply don't ask and they don't ask for the raise a sugar and is really compelling research on those stats",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "40840fb0-aa6a-4741-b17e-8f78c9fef78a"
     },
-    "1896.47": {
+    {
       "requestid": "b99aee16-c6f9-4696-88de-140f059f75be",
       "confidence": "0.7027075",
       "timestamp": 1896.47,
       "content": "at women tend to not negotiate is hard tend to be less likely aspiras",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "9a093465-2697-4694-bb84-d0a3df763f89"
     },
-    "1902.05": {
+    {
       "requestid": "c44ac711-6a6f-4c91-9579-2e4c087c37e5",
       "confidence": "0.7746304",
       "timestamp": 1902.05,
       "content": "I'm in so if you could be earning more doing the exact same job a date that you're doing I think you'd be better off so you should go out there not sure that race",
-      "speaker": "S258"
+      "speaker": "S258",
+      "uuid": "38f43743-d311-4058-bc46-3265e0aa948d"
     },
-    "1915.02": {
+    {
       "requestid": "7ba81c75-4131-42a2-9cbd-c92621bfb616",
       "confidence": "0.7371166",
       "timestamp": 1915.02,
       "content": "that was the economist betty stevenson on the gender gap in earnings and happy",
-      "speaker": "S282"
+      "speaker": "S282",
+      "uuid": "2eec2289-0904-4478-834b-ef09a170e0e8"
     },
-    "1924.58": {
+    {
       "requestid": "bf947102-c8c6-4c19-8e94-7e8872f5677c",
       "confidence": "0.751959",
       "timestamp": 1924.58,
       "content": "now there'S1 more difference we wanna look into today an activity that we should be very very happy that women do much much less frequently than men",
-      "speaker": "S282"
+      "speaker": "S282",
+      "uuid": "6e7fa6ea-948c-48fc-8394-845e374d17c3"
     },
-    "1936.79": {
+    {
       "requestid": "e312a336-18f6-48b9-8520-eb85ac2608e2",
       "confidence": "0.6650274",
       "timestamp": 1936.79,
       "content": "so where we see the starkest gender differences are for homicide rabdi robredo sort of major felony types of islands",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "e64da1b2-f46c-4d78-b26a-b8402a22eb5a"
     },
-    "1944.8": {
+    {
       "requestid": "d0d5935e-9e7b-4dc0-8265-d9233a99b3f0",
       "confidence": "0.7240504",
       "timestamp": 1944.8,
       "content": "it's jennifer schwartz she's a sociologist washington state university",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "96f2544d-4786-4cd5-9cbf-5685072bafa0"
     },
-    "1948.81": {
+    {
       "requestid": "837b46c6-4707-4722-adcd-c57d18b4318a",
       "confidence": "0.6406665",
       "timestamp": 1948.81,
       "content": "and I study gender in crime and mimi I'm interested in why females fenke why they don't offend if they have changed the pipes are not offending that they do you",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "0f3a668f-2d53-4874-9f7f-50a533cbb4e5"
     },
-    "1962.85": {
+    {
       "requestid": "eec73e76-f589-404c-a060-ee3e92c92929",
       "confidence": "0.7651223",
       "timestamp": 1962.85,
       "content": "how much defending do women do",
-      "speaker": "S282"
+      "speaker": "S282",
+      "uuid": "0c3b63dc-5584-4a56-833b-259909d100c4"
     },
-    "1965.89": {
+    {
       "requestid": "8445bffa-5a89-4b8f-9be6-7f2f90b8d30c",
       "confidence": "0.8343991",
       "timestamp": 1965.89,
       "content": "they look at all different types of crime bad",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "9a5657af-08cb-45c9-b2f4-e0b369b25f96"
     },
-    "1968.35": {
+    {
       "requestid": "05ed8a11-78a4-4e8f-8bf4-c76c9f0e5557",
       "confidence": "0.7895701",
       "timestamp": 1968.35,
       "content": "the police enforce 75 to 80% of those offenders are male",
-      "speaker": "S216"
+      "speaker": "S216",
+      "uuid": "3cff1491-eede-43a4-8f63-2f6ffbb5e504"
     },
-    "1974.3": {
+    {
       "requestid": "8f06a040-aba8-4437-8c33-f254da770531",
       "confidence": "0.7223682",
       "timestamp": 1974.3,
       "content": "there only 2 crimes in united states today for which women get arrested more than men devlab it is my freakonomics friend and co other one is prostitution in it and the other one is being a runaway",
-      "speaker": "S292"
+      "speaker": "S292",
+      "uuid": "1efa9168-5898-4418-9161-91ab9d8182cb"
     },
-    "1987.81": {
+    {
       "requestid": "e86e7a48-e063-46bb-8cee-6d670b667a98",
       "confidence": "0.64765",
       "timestamp": 1987.81,
       "content": "did you and alan even with him home and get rest before that and after that girls can rest more than boys for any way come on out in batman run the table on women when it comes to crime",
-      "speaker": "S292"
+      "speaker": "S292",
+      "uuid": "4295335d-05d7-49aa-af5b-64fafc903964"
     },
-    "2001.28": {
+    {
       "requestid": "3a041fa0-955d-49ea-83f1-82d3661d81f1",
       "confidence": "0.7143535",
       "timestamp": 2001.28,
       "content": "for jennifer schwarte the idea of thinking about women in crime was the natural outgrowth of thinking about the feminist",
-      "speaker": "S13"
+      "speaker": "S13",
+      "uuid": "fe601250-142f-4800-918b-62e86c1d7779"
     },
-    "2008.47": {
+    {
       "requestid": "824dd15f-6bbf-4316-b25b-a6932dc83c9a",
       "confidence": "0.7304571",
       "timestamp": 2008.47,
       "content": "I think the cook for me was it are taking the common sense or what seems like common sense that",
-      "speaker": "S288"
+      "speaker": "S288",
+      "uuid": "cfa91ce3-3f42-46ce-9374-abc467a6e8d2"
     },
-    "2015.39": {
+    {
       "requestid": "d04df25b-30c2-4f9a-9651-c82185961545",
       "confidence": "0.7607428",
       "timestamp": 2015.39,
       "content": "as women gain more freedoms as women have more access to opportunities that they would engage in war crime that seems to be the common sense know she was but when they start looking at the date it seems",
-      "speaker": "S299"
+      "speaker": "S299",
+      "uuid": "7c3d4f90-0d9a-467f-bc34-cfa1a5196186"
     },
-    "2025.48": {
+    {
       "requestid": "a340da43-4aaa-4420-8aac-2bea3ed1243e",
       "confidence": "0.79642",
       "timestamp": 2025.48,
       "content": "the opposite was true or at least there's no support for this idea that when is liberation would increase are sending um it so I think",
-      "speaker": "S299"
+      "speaker": "S299",
+      "uuid": "786d7f43-2990-459f-bc20-74b795ec9b6b"
     },
-    "2033.34": {
+    {
       "requestid": "8df2f649-0981-4dff-b854-80b987f09c33",
       "confidence": "0.7902552",
       "timestamp": 2033.34,
       "content": "that sort of puzzle maybe wanna know why are women offending in the 1st place and why aren't they sending anymore given that we think that women have come so far and have so many opportunities what's holding back from offending after making",
-      "speaker": "S299"
+      "speaker": "S299",
+      "uuid": "a9baae61-ac8e-4faf-9357-2661e566fbc6"
     },
-    "2046.09": {
+    {
       "requestid": "a7a0efc1-2f7a-40ad-ab91-26a718554573",
       "confidence": "0.7502739",
       "timestamp": 2046.09,
       "content": "new games and other avenues in in your widget am at work why are they making beans in the underworld I guess into that would I was a hug for me trying to figure out the puzzle of why are women sending more",
-      "speaker": "S299"
+      "speaker": "S299",
+      "uuid": "4d1dd37d-8442-450d-97ac-4a5347de4142"
     },
-    "2057.5": {
+    {
       "requestid": "09a9565a-dc19-4db1-ad25-b7195343ae62",
       "confidence": "0.8095387",
       "timestamp": 2057.5,
       "content": "given that their status in society has it is better for the most part",
-      "speaker": "S299"
+      "speaker": "S299",
+      "uuid": "5f078783-ee84-4261-9c70-777291cfd9f6"
     },
-    "2065.22": {
+    {
       "requestid": "ecec168a-237f-42bf-b500-10988b1d0b26",
       "timestamp": 2065.22,
-      "content": ""
+      "content": "",
+      "uuid": "aa610c79-bd5d-4a8c-9c54-c5d5a1d9eb2f"
     },
-    "2069.25": {
+    {
       "requestid": "461dd48c-f9cb-4f08-a123-76e9ed851e86",
       "confidence": "0.7960327",
       "timestamp": 2069.25,
       "content": "note to be fair women have started committing some crimes more often forgery embezzlement even auto theft a little but compared to men the rates are still very low",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "6221bd4d-6b88-4bee-a301-c40bdfe349d4"
     },
-    "2079.66": {
+    {
       "requestid": "5096910d-b1cc-4b84-86d8-a17f0927b6f7",
       "confidence": "0.7538885",
       "timestamp": 2079.66,
       "content": "I know I have a lot of mixed feelings because that's what you do I think about it I think I am not rooting for women to become war criminal are taborton opportunities I guess is just another former another",
-      "speaker": "S308"
+      "speaker": "S308",
+      "uuid": "e3246520-0b61-4507-8bfe-156570d86f7f"
     },
-    "2090.49": {
+    {
       "requestid": "33a95ff3-baba-45ec-883e-ddf5a4cf2ee4",
       "confidence": "0.5238886",
       "timestamp": 2090.49,
       "content": "context in which women are a block from the theater chivia high levels but you doing today at you through the difficult thing to unpack it again",
-      "speaker": "S308"
+      "speaker": "S308",
+      "uuid": "e12005fc-ceff-4968-8e82-db36a70ee5d4"
     },
-    "2105.59": {
+    {
       "requestid": "ef03e69d-b0df-407b-9fa6-52ec0f2bcd61",
       "confidence": "0.5963798",
       "timestamp": 2105.59,
       "content": "it may be difficult one package will it be clear it's a good thing women having closed a lot of gender gap the past few decades are in rushing to close crime gap",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "b3625211-c41b-4f32-919c-84cbc71cb560"
     },
-    "2119.09": {
+    {
       "requestid": "b79baf0c-0118-4190-bd2c-c6c4e22d16dd",
       "confidence": "0.5655999",
       "timestamp": 2119.09,
       "content": "there other get that one might hope will be preserved org",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "b8e2f6c7-f8fb-4197-a84c-4304d66019ae"
     },
-    "2122.83": {
+    {
       "requestid": "1f13c084-73ce-4114-9d5b-c437e11da834",
       "confidence": "0.7896672",
       "timestamp": 2122.83,
       "content": "better yet close but in the opposite direction other men should aspire to get to wear women already or did you know for instance the man is much less likely than a woman to do you a favor",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "b4b27a93-da4e-482a-a70c-694c81cb5bae"
     },
-    "2136.33": {
+    {
       "requestid": "dc7e7fd4-8d63-431f-b4bc-0fd7dff70b13",
       "confidence": "0.8707618",
       "timestamp": 2136.33,
       "content": "men are much worse at washing their hands which if you think about a hospital setting in particular can be bad news",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "81c9288a-4db4-4954-8d7c-94e90bbd167f"
     },
-    "2144.07": {
+    {
       "requestid": "062f3fbb-146b-4001-9135-2e9d3e05e3f0",
       "confidence": "0.6545159",
       "timestamp": 2144.07,
       "content": "he's also research showing that men if you ask him a question arthurlie incapable of simply saying",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "d6744851-161d-4378-be4b-c6bb1c9c1e4f"
     },
-    "2152.65": {
+    {
       "requestid": "bd09e812-17ba-4cf6-afd8-b5487b6b3169",
       "confidence": "0.8766717",
       "timestamp": 2152.65,
       "content": "I don't know even if in fact they don't know the answer now",
-      "speaker": "S319"
+      "speaker": "S319",
+      "uuid": "11896965-916e-44c4-9978-9590a8e319ff"
     },
-    "2160.9": {
+    {
       "requestid": "588dd9cf-f2e5-4e3e-befe-37135d6fe685",
       "confidence": "0.772988",
       "timestamp": 2160.9,
       "content": "let me be the train my gender here for moment and simply say this",
-      "speaker": "S319"
+      "speaker": "S319",
+      "uuid": "88b07df2-c6dc-42ed-831f-ee3e5e5c6fbe"
     },
-    "2166.84": {
+    {
       "requestid": "4d28175a-e0b6-459d-bf9f-a53587a1da80",
       "confidence": "0.9725493",
       "timestamp": 2166.84,
       "content": "I don't know",
-      "speaker": "S305"
+      "speaker": "S305",
+      "uuid": "7b85bc6d-fe45-424e-9548-04cabd5c2ec0"
     },
-    "2172.74": {
+    {
       "requestid": "31c36e36-2616-4811-bb87-d97a5f2ba22a",
       "timestamp": 2172.74,
-      "content": ""
+      "content": "",
+      "uuid": "bce611ee-4834-40ef-b10a-15070b7810a2"
     },
-    "2179.58": {
+    {
       "requestid": "957cac5c-31bc-4b9f-82bd-100bd6add901",
       "confidence": "0.7129047",
       "timestamp": 2179.58,
       "content": "if I can switch nude next week's episode is in response to the millions of emails uhro asking for a show on bitcoin",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "40335e05-5023-4d1b-b520-fa3e513b3f4a"
     },
-    "2188.76": {
+    {
       "requestid": "b73b48af-146c-40b7-afc4-da5bd5cdc091",
       "confidence": "0.5787253",
       "timestamp": 2188.76,
       "content": "little bit like dogs watching tv it's like it's all very interesting but like whatever until another doctors office printing in the dark for top economists like this stuff is all like whatever technology gate guards whatever time and then chrissy area is the flat brighton sell them at the word forensic shows up like all the times for cup because it is one thing that kinda miss rochefort's an aggressive",
-      "speaker": "S323"
+      "speaker": "S323",
+      "uuid": "04f55248-389e-496c-904b-ddcf9ec06e2f"
     },
-    "2206.92": {
+    {
       "requestid": "3b8ebcc2-814b-4123-929e-10ea726e8d5e",
       "confidence": "0.708938",
       "timestamp": 2206.92,
       "content": "white everybody who doesn't hate mckoin loves it it's next time I'm free can I mix radio",
-      "speaker": "S312"
+      "speaker": "S312",
+      "uuid": "fd7c5254-4db2-4c48-8884-c1fb24f34500"
     },
-    "2215.13": {
+    {
       "requestid": "8de734fb-7d2c-4386-a1fd-a04128d53555",
       "confidence": "0.7778819",
       "timestamp": 2215.13,
       "content": "freakonomics radio is produced by WNYC end up their production our staff include david herman greg rozalski credico nbra lamb susie lechtenberg in crispins and if you want more freakonomics radio you can subscribe to a podcast on itunes or go to freakonomics.com",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "01bf4aa0-fe32-4558-9601-65fa764f3b4f"
     },
-    "2233.57": {
+    {
       "requestid": "2896a8cf-1af9-4a10-9504-0543196a9386",
       "confidence": "0.6922609",
       "timestamp": 2233.57,
       "content": "will find lots of radio oblog the books and more",
-      "speaker": "S327"
+      "speaker": "S327",
+      "uuid": "296621b1-9351-43d6-8130-490d8362a5a1"
     },
-    "2240.25": {
+    {
       "requestid": "d795a8f5-869d-45c5-b464-672ff9b80ec6",
       "timestamp": 2240.25,
-      "content": ""
+      "content": "",
+      "uuid": "ca4426e1-ec9b-4862-9cc9-dfd9eb6276b5"
     },
-    "2248.58": {
+    {
       "requestid": "7d270798-4f6f-4e56-8121-ae6a022c546a",
       "confidence": "0.8335362",
       "timestamp": 2248.58,
       "content": "freakonomics radio is supported by wealthfront wealthfront is an automated investment service built for the modern era in to make it easier than ever to invest your money well will front you the software instead of retail locations are salespeople so it can offer sophisticating investment advice at low cost that were previously impossible",
-      "speaker": "S332"
+      "speaker": "S332",
+      "uuid": "f3f6caf5-cd9f-439c-8bdb-1c440e9420cc"
     },
-    "2267.87": {
+    {
       "requestid": "a641ec4a-f02d-4761-bf7e-a052418d5f65",
       "confidence": "0.894655",
       "timestamp": 2267.87,
       "content": "it is exploded in popularity in last 2 years I know it more than $2.5 Billion under management check them out atwealthfront.com slash freak to get up to $10000 managepro free",
-      "speaker": "S332"
+      "speaker": "S332",
+      "uuid": "27537a38-845d-4598-bc0e-b500685419a9"
     }
-  }
+  ]
 }
