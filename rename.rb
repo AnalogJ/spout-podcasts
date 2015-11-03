@@ -10,15 +10,29 @@ Dir.glob("**/*.json").each do |episode_path|
 
   episode_data = JSON.parse(File.read(episode_path))
 
-  episode_data['segments'] = episode_data['segments'].reduce([]) {|memo, (key, val)|
+  if episode_data['segments'].length == 0
+    p "deleting #{episode_path}"
+    File.delete(episode_path)
+    next
+  end
 
-    val['uuid'] = SecureRandom.uuid
+  #check to see if we have any speakers
 
-    memo.push(val)
-  }.sort! { |a,b| a['timestamp'] <=> b['timestamp'] }
-  p episode_data['segments']
+  has_speaker = false
+  episode_data['segments'].each {|segment|
 
-  File.write(episode_path, JSON.pretty_generate(episode_data))
+    if(segment['speaker'])
+      has_speaker = true
+      break
+    end
+  }
+  if !has_speaker
+    p "deleting #{episode_path}"
+    File.delete(episode_path)
+  else
+    p "file has speakers #{episode_path}"
+  end
+
   #p "#{episode_path} => #{pn.dirname}/#{episode_filename}.json"
   #File.rename(episode_path, "#{pn.dirname}/#{episode_filename}.json")
 
